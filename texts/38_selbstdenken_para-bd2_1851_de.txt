@@ -1,0 +1,409 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Selbstdenken (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On thinking for oneself - the English title under which the essay circulates; file 20 (Dircks, 1897) prints it as "THINKING FOR ONESELF"
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 412-421. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27, 30, 31 and 32-37. The chapter's own display heading stands in this copy as "Selbftdenfen. $. 257. Wie bie zahlreichite Bibliothek," (the OCR prints the numeral as "XXU" and missets the title's initial letters); cite the chapter by its words and pages, not by its number. ITS BOUNDARY WAS PROVED, and this is worth knowing: an earlier cut of this volume gave "Ueber Gelehrsamkeit und Gelehrte" a span that ran to the next heading the scan had read cleanly, and Selbstdenken sat inside it unnoticed - the chapter's own heading was recovered at 895237 and the two were separated, which is why files 37 and 38 exist apart.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 8. English: file 20 (Dircks, 1897, "THINKING FOR ONESELF") is the counterpart in this collection; it was NOT compared against this German this pass, so no claim is made about it. OCR warning as in files 27, 30, 31: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition - the copy that also yielded files 27, 30 and 31. It prints f for the long s, sometimes b for d and x for x, and it mangles a heading or a page's first line now and then; the long s has been normalised to s (157 here). The chapter was cut between its own display heading and the next one, so the seam is the print's. Paragraph numbers stand as printed - the paragraph marks that stand at line beginnings here read § 257 to § 271, which is a guide and not a table: this OCR lifts a cross-reference to a line beginning now and then, so a paragraph number quoted from here should be seen on the scan. Page markers come only from running heads that name this chapter and whose page lies in the range the volume's heads prove (1 made, S. 416 to S. 416); where a head was garbled nothing was invented, and the chapter's page range by the table of contents is S. 412-421.]
+
+Selbftdenfen.
+
+
+$. 257.
+
+Wie bie zahlreichite Bibliothek, wenn ungeorbnet, nicht fo
+viel Nutzen schafft, als eine sehr mäßige, aber mwohlgeorbnete;
+eben fo ift die größte Menge von Kenntniffen, wenn nit eiges
+nes Denken fie burchgearbeitet bat, viel weniger werth, als eine
+weit geringere, die aber vielfältig durchdacht worden. Denn erft
+durh das allfeitige Kombiniren Defien, was man weiß, durch
+das Vergleichen jeder Wahrheit mit jeder andern, eignet man
+fein eigenes Wissen fih vollftändig an und befommt es in feine
+Gewalt. Durchdenken fann man nur was man weiß, baber
+man etwas lernen foll: aber man weiß auch nur, was man
+durchdacht hat. |
+
+Nun aber kann man fih zwar willfürlich appliciren auf
+Lefen und Lernen; auf das Denken hingegen eigentlich nicht.
+Diefes nämlich muß, wie das Feuer durch einen Quftzug, anges
+facht und unterhalten werden durch irgend ein Interesse am Ge-
+genftande deffelben; welches entweder ein rein objeftived, oder
+aber bloß ein fubieftives feyn mag. Das letztere ift allein bei
+unfern perfönlichen Angelegenheiten vorhanden; das erftere aber
+nur für die von Natur denfenden Köpfe, denen das Denfen fo
+natürlich ift, wie Das Athmen, welche aber. fehr felten find. Da—
+ber ift es mit den meiften Gelehrten jo wenig.
+
+$. 258.
+
+Die VBerfchiedenheit zwischen der Wirkung, welche das Selbft-
+denfen, und ber, welche das Lejen auf den Geift hat, ift uns
+glaublich groß; daher fie die uriprüngliche Verschiedenheit ber
+Köpfe, vermöge welcher man zum Einen), ober zum Andern ge-
+trieben wird, noch immerfort vergrößert. Das Lefen nämlich
+
+
+412 Selbitvenfen.
+
+
+zwingt dem Geiste Gedanfen auf, die der Richtung und Stim—
+mung, welde er für den Augenblid hat, fo fremd und heterogen
+find, wie das Petichaft dem Lad, welchem es fein Siegel auf:
+drüdt. Der Geift erleidet dabei totalen Zwang von außen, jeßt
+Dies, oder Jenes zu denfen, wozu er foeben gar feinen Trieb,
+noh Stimmung hat. — Hingegen beim Selbftdenfen folgt er
+feinem felbfteigenen Triebe, wie diefen für den Augenblik ent—
+weder die äußere Umgebung, oder irgend eine Erinnerung nä—
+her beftimmt hat. Die anfchauliche Umgebung nämlich dringt
+dem Geifte nicht einen beftimmten Gedanfen auf, wie das Le—
+fen; fondern giebt ihm bloß Stoff und Anlaß zu denfen was
+feiner Natur und gegenwärtigen Stimmung gemäß if. — Das
+her nun nimmt das viele Lefen dem Geifte alle Elafticität;
+wie ein fortdauernd drüdendes Gewicht fie einer Springfeder
+nimmt. Dies ift der Grund, warum die Gelehrjamfeit die mei—
+ften Menfchen noch geiftlofer und einfältiger macht, als fie schon
+von Natur find.
+$. 259.
+
+Im Grunde haben nur die eigenen Grundgedanfen Wahr:
+heit und Leben: denn nur fie verfteht man recht eigentlich und
+ganz. Fremde, gelefene Gedanken find die Leberbleibfel eines
+fremden Mahles, die abgelegten Kleider eines fremden Gastes.
+
+Zum eigenen, in und auffteigenden Gedanfen verhält der
+fremde, gelefene, fih wie der Abdruck einer Pflanze der Vor—
+welt im Stein zur blühenden Pflanze des Frühlings.
+
+. 260.
+
+
+Lesen ift ein bloßed Surrogat des eigenen Denfend. Man
+läßt dabei feine Gedanfen von einem Andern am Gängelbande
+führen. Zudem taugen viele Bücher bloß, zu zeigen, wie viel
+Irrwege es giebt und wie arg man fich verlaufen könnte, wenn
+man von ihnen sich leiten ließe. Den aber der Genius leitet,
+d. h. der felbft denft, freiwillig denkt, richtig denft, — der hat die
+Bouffole, den rechten Weg zu finden. — Lefen foll man alfo
+nur dann, warn die Duelle der eigenen Gedanken ftodt; mas
+auch beim beiten Kopfe oft genug der Fall feyn wird. Hinge—
+gen bie eigenen, urfräftigen Gedanken verfcheuchen, um ein Bud)
+zur Hand zu nehmen, ift Sünde wider den heiligen Geift. Man
+gleicht alddann Dem, ber aus ber freien Natur flieht, um ein
+
+
+Selbfivenfen. 413
+
+
+Herbarium zu bejehn, oder um fchöne Gegenden im Kupferftiche
+zu betrachten.
+
+Wenn man aud bisweilen eine Wahrheit, eine Einficht,
+die man mit vieler Mühe und Yangfam durch eigenes Denfen
+und Kombiniren herausgebracht hat, hätte mit Bequemlichkeit in
+einem Bude ganz fertig vorfinden können; fo ift fie doch hun—
+dert Mal mehr werth, wenn man fie burd eigenes Denfen ers
+langt hat. Denn nur alddann tritt fie ald integrirender Theil,
+als Tebendiges Glied, ein, in das ganze Syftem unferer Gedan—⸗
+fen, fteht mit demfelben in vollfommenem und feftem Zufammen-
+bange, wird mit allen ihren Gründen und Folgen verftanden,
+trägt die Farbe, den Farbenton, das Gepräge unfrer ganzen
+Denfweife, ift eben zur rechten Zeit, ald das Bedürfniß ber-
+felben rege war, gefommen, fist daher fest und kann nicht wie-
+der verschwinden. Demnach findet hier Göthe’s Berg,
+
+
+„Mas du ererbt von deinen Vätern halt,
+Erwirb' es, um es zu befigen,‘
+
+
+feine vollfommenfte Anwendung, ja, Erklärung.
+
+Hingegen klebt die bloß erlernte Wahrheit uns nur an,
+wie ein angefeßtes Glied, ein falicher Zahn, eine wächferne Nafe,
+oder höchstens wie eine rhinoplaftifche aus fremden Fleifche. Die
+durch eigenes Denken erworbene Wahrheit aber gleicht dem na-
+türlichen Gliede: fie allein. gehört und wirflihd an. Darauf be-
+ruht der Unterfchied zwifchen dem Denfer und dem bloßen Ge-
+lehrten. Daher fieht der geiftige Erwerb des Selbfidenfers aus,
+wie ein fchönes Gemälde, das lebendig hervortritt, mit richtigerft
+Lichte und Schatten, gehaltenem Ton, vollfommener Harmonie
+der Farben. Hingegen gleicht der geiftige Erwerb des bloßen
+Gelehrten einer großen Palette, voll bunter Farben, allenfalls
+Ivftematifch georbnet, aber ohne Harmonie, Zufammenhang und
+Bedeutung.
+
+$. 261.
+
+Lefen heißt mit einem fremden Kopfe, flatt des eigenen,
+dbenfen. Nun ift aber dem eigenen Denfen, aus welchem
+allemal ein zufammenhängendes Ganzes, ein, wenn auch nicht
+streng abgefchloflenes, System sich zu entwickeln trachtet, nichts
+nachtheiliger, als ein, vermöge beständigen Lesens, zu starker Zur
+
+
+414 Selbfivenfen.
+
+
+flug fremder Gebanfen; weil biefe, jeber einem andern Geifte
+entfproffen, einem andern Syfteme angehörend, eine andere Farbe
+tragend, nie von felbft zu einem Ganzen bes Denfend, des
+Wissens, der Einficht und Lleberzeugung zufammenfließen, viel-
+mehr eine leise babylonifche Sprachverwirrung im Kopfe anrich:
+ten und dem Geifte, der sich mit ihnen überfüllt hat, nunmehr
+alfe klare Cinficht benehmen und jo ihn beinahe desorganisiren.
+Diefer Zuftand ift an vielen Gelehrten wahrzunehmen und macht,
+bag fie an gesundem Verstande, richtigem Urtheil und praftifchem
+Takte vielen Ungelehrten nachstehn, welche die von außen, durch
+Erfahrung, Gefpräh und wenige Leftüre ihnen zugefommene ge-
+ringe Kenntniß stets dem eigenen Denfen untergeorbnet und ein-
+verleibt haben. Eben Diefes nun thut, nad einem größern
+Maafftabe, auch der wifienfchaftlihe Den ker. Obgleih er näm-
+lich viele Kenntniffe nöthig hat und daher viel Iefen muß; fo
+ift doch fein Geift ftarf genug, dies Alles zu bewältigen, es zu
+affimiliren, dem Systeme feiner Gedanfen einzuverleiben und es
+fo dem organisch zufammenhängenden Ganzen feiner immer wach—
+fenden, großartigen Einficht unterzuorbnen; wobei fein eigenes
+Denfen, wie der Grundbaß der Orgel, stets Alles beberricht
+und nie von fremden Tönen übertäubt wird, wie Dies hingegen
+der Fall ift in den bloß polyhiftorifchen Köpfen, in welchen gleidy-
+fam Mufiffegen aus allen Tonarten duccheinanderlaufen und ber
+Grundton gar nicht mehr zur finden ift.
+$. 262
+
+
+Die Leute, welche ihr Leben mit Lefen zugebracht und ihre
+Meisheit aus Büchern gefchöpft haben, gleichen denen, welche
+aus: vielen Reifebeichreibungen fih genaue Kunde von einem
+Lande erworben haben. Diefe fünnen über Vieles Ausfunft er-
+theifen: aber im Grunde haben fie doch Feine zusammenhängende,
+deutliche, gründliche Kenntniß von: der Beichaffenheit des Landes.
+Hingegen Die, welde ihr Leben mit Denfen zugebradht haben,
+gleihen Solchen, die felbft in jenem Lande gewesen find: fie
+allein: wissen eigentlih wovon bie Rede ift, kennen Die Dinge
+dort im Zufammenhang und find wahrhaft darin zu: Haufe.
+
+$. 263.
+
+
+Zu einem Selbstdenker verhält sich der gewöhnliche Bücher⸗
+philosoph, mie zu einem Augenzeugen ein Gefchichtsforfcher: Se-
+
+
+Selbfivenfen. 445
+
+
+ner vedet aus eigener, unmittelbarer Auffaflung der Sache. Da-
+ber ftimmen alle Selbfidenfer im Grunde doc überein, und ihre
+Berfchiedenheit entfpringt nur aus der des GStandpunftes: wo
+aber diefer nichts ändert, fagen fie alle das Selbe. Denn fie
+jagen bloß aus, was fie objektiv aufgefaßt haben. Dft habe ich
+Säte, die ich, ihrer Paraborie wegen, nur zaubernd vor bad
+Yubkifum brachte, nachmals, zu meinem freudigen Erstaunen, in
+alten Werfen großer Männer ausgesprochen gefunden, — Der
+Bücherphilofoph hingegen berichtet, was Diefer gefagt und Je—
+ner. gemeint und was dann wieder ein Anderer eingewandt hat
+u. s. w. Das vergleicht er, wägt ed ab, Fritifirt es und sucht
+fo hinter die Wahrheit der Sachen zu fommen; wobei er bem
+kritischen Gefchichtsfchreiber ganz ähnlich wird. So wird er
+> BD. Unterfuchungen anftellen, ob Leibnig wohl, zu irgend einer
+Zeit, auf eine Weile, ein Spinozift gemwefen fei u. dgl. m. Recht
+deutliche Beifpiele zu dem bier Gefagten liefern dem Furiofen
+Liebhaber Herbarts „Analytifche Beleuchtung der Moral und
+des Naturrechts“, imgleichen deflen „Briefe über die Freiheit‘.
+— Man könnte fi wundern über die viele Mühe, die fo Einer
+sich giebt; da es fcheint, daß, wenn er nur bie Sache felbft ins
+Auge fassen wollte, er dur ein wenig Selbfidenfen bald zum
+Ziele gelangen würbe. Allein damit bat es einen Fleinen An-
+fand; indem: Das nicht von unferm Willen abhängt: man kann
+jeberzeit sich hinfegen und lesen; nicht aber — und denken. Es
+ift nämlich mit Gedanken, wie mit Menfchen: man kann nicht
+immer, nach Belieben, fie rufen lassen; fondern muß abwarten,
+daß fie fommen. Das Denfen über einen Gegenftand muß fi
+von felbft einftellen, durch ein glüdliches, hHarmonirendes Zufam-
+mentreffen des äußern. Anlasses mit der innern Stimmung und
+Spannung: und gerade Das ift es, was jenen Leuten nie kom⸗
+men will. — Indessen ift fogar der größte Kopf nicht jederzeit
+zum Gelbfidenken fähig. Daber thut er. wohl, bie übrige Zeit
+zum. Lesen zw benusen, als welches, wie gefagt, ein Surrogat
+bes eigenen Denfens ift und dem Geifte Stoff zuführt, indem
+dabei ein Anderer für uns denkt, wiewohl stets auf eine Weile,
+bie nicht Die unfrige if. Diejerhalb eben foll man nicht zu viel
+lesen; damit nicht ver Geift fih an das Surrogat gewöhne und
+derüber Die Sache felbft verlerne, also damit er nicht fih an
+
+ [S. 416]
+
+
+fhon ausgetretene Pfade gewöhne, und damit das Gehn
+eined fremden Gedanfenganges ihn nicht dem eigenen ent-
+fremde. Am allerwenigften foll man, des Lejend wegen, dem
+Anblick der realen Welt fih ganz entziehn; da ber Anlaß und
+die Stimmung zum eigenen Denfen ungleid) öfter bei diefem, als
+beim Lefen sich einfindet. Denn das Anfchauliche, das Reale, in
+feiner Urfprünglichfeit und Kraft, ift der natürliche Gegenftand
+des denfenden Geifted und vermag am leichteften ihn tief zu er—
+regen.
+
+Nach diefen Betrachtungen wird ed ung nicht wundern, daß
+der Selbfidenfer und der Bücherphilofoph schon am Bortrage
+Veicht zu erkennen find; jener am Gepräge des Ernstes, der
+Unmittelbarfeit und Urfprünglichfeit, am Autoptifchen aller sei—
+ner Gedanfen und Ausdrüde; Diefer Hingegen daran, daß Alles
+aus zweiter Hand ift, überfommene Begriffe, zufammengetröbel-
+ter Kram, matt und stumpf, wie der Abdruck eines Abdrucks;
+und fein aus fonventionellen, ja, banalen Phrafen und gangba-
+ren Modemworten beftehender Stil gleicht einem Heinen Staate,
+dessen Eirfulation aus Yauter fremden Münzforten befteht, weil
+er nicht felbft prägt.
+
+$. 264.
+
+So wenig, wie das Lefen, Fann die bloße Erfahrung das
+Denfen erfegen. Die reine Empirie verhält fih zum Denfen,
+wie Essen zum Berbauen und NAffimiliren. Wenn jene fi
+brüftet, daß fie allein, durch ihre Entdeckungen, das menfchliche
+Wissen gefördert habe; fo ift eö, wie wenn ber Mund sich rüh-
+men wollte, daß der Beftand des Leibes fein Werf allein fei.
+
+$. 265.
+
+Das charakteriftifche Merkmal der Geifter erfien Ranges
+ift Die Unmittelbarfeit aller ihrer Urtheile. Alles was fie vor-
+bringen ift Refultat ihres felbfteigenen Denkens und Fündigt
+fih, schon durch den Vortrag, überall als solches an. Sie haben
+sonach, gleich den Fürften, eine Reichsunmittelbarfeit, im Reiche
+ber Geifter: bie Uebrigen find alle mebiatifirt; welches schon an
+ihrem Stil, der fein eigenes Gepräge hat, zu erfehn ift.
+
+Seder wahre Selbfidenfer alfo gleicht infofern einem Mo-
+narchen: er ift unmittelbar und erfennt niemanden über fic.
+Seine Urtheile, wie die Beschlüsse eines Monarchen, entfpringen
+
+
+Selbstdenken. 417
+
+
+aus seiner eigenen Machtvollkommenheit und gehn unmittelbar
+von ihm selbst aus. Denn, so wenig wie der Monarch Befehle,
+nimmt er Auktoritäten an, sondern läßt nichts gelten, als was
+er selbst bestätigt hat. — Das Vulgus der Köpfe hingegen, be—
+fangen in allerlei geltenden Meinungen, Auktoritäten und Vor—
+urtheilen, gleicht dem Volke, welches dem Gesetze und Befehle
+schweigend gehorcht.
+§. 266.
+
+Die Leute, welche so eifrig und eilig sind, strittige Fragen
+durch Anführung von Auktoritäten zu entscheiden, sind eigentlich
+froh, wann sie, statt eigenen Verstandes und Einsicht, daran es
+fehlt, fremde ins Feld stellen können. Ihre Zahl ist Legio.
+
+8. 267.
+
+
+Im Reihe der Wirklichkeit, fo schön, glücklich und anmu«-
+thig fie auch ausgefallen feyn mag, bewegen wir ung doch ftets
+nur unter dem Einfluß der Schwere, welcher unaufhörlich zu
+überwinden ift: hingegen find wir, im Reiche der Gedanken, un-
+förperliche Geifter, ohne Schwere und ohne Noth. Daher fommt
+fein Glück auf Erden dem gleich, welches ein schöner und frucht—
+barer Geift, zur glüdlichen Stunde, in sich felbft findet.
+
+$. 268.
+
+Die Gegenwart eines Gedanfens ift wie die Gegenwart
+einer Geliebten. Wir meynen, diesen Gebanfen werben wir nie
+vergeffen und diefe Geliebte könne ung nie gleichgültig werden.
+Allein aus den Augen, aus dem Sinn! Der fchönfte Gedanke
+läuft Gefahr, unmwieberbringlic vergeflen zu werden, wenn er
+nicht aufgejchrieben, und die Geliebte, von und geflohen zu wer-
+den, wenn fie nicht angetraut worden.
+
+$. 269.
+
+Es giebt Gedanken die Menge, welde Werth haben für
+Den, der fie denkt; aber nur wenige unter ihnen, welche bie
+Kraft befigen, nodp durch Reperfuffion, ‚oder Reflerion, zu mwir-
+fen, d. h. nachdem fie niedergefchrieben worden, dem Lefer An-
+theil abzugewinnen.
+
+$. 270.
+
+Dabei aber hat do nur Das wahren Wertb, was Einer
+zunächst bloß für sich selbst gedadht hat. Man fann nämlich
+die Denker eintheilen in folche, die zunächst für fich, und folche,
+
+I, 27
+
+
+418 Seibitvenfen.
+
+
+die fogleih für Andere benfen. Jene find die ächten, find bie
+Selbftdenfer, im zwiefachen Sinne des Worts: fie find die
+eigentlichen Philosophen. Denn ihnen allein ift es Ernft mit
+der Sade. Auch befteht der Genuß und das Glück ihres Da—
+seyns eben im Denken. Die andern find die Soppiften: fie
+wollen scheinen, und suchen ihr Glüd in Dem, was fie da—
+durch von Andern zu erlangen hoffen: hierin liegt ihr Ernst.
+Welcher von beiden Klaffen Einer angehöre, läßt fi bald mer-
+fen, an feiner ganzen Art und Weife. Lichtenberg ift ein
+Mufter der erfien Art: Herder gehört schon der zweiten an.
+$. 271.
+
+
+Wenn man wohl erwägt, wie groß und wie nahe liegend
+das Problem des Dafeyns ift, dieses zweideutigen, gequäl-
+ten, flüchtigen, traumartigen Daseyns; — fo groß und fo nahe
+liegend, daß, fobald man es gewahr wirb, es alle andern Pro-
+bleme und Zwecke überfchattet und verbedt; — und wenn man
+nun dabei vor Augen hat, wie alle Menfchen, — einige wenige
+und feltene ausgenommen, — biefes Problems sich nicht deutlich
+bewußt, ja, feiner gar nicht inne zu werben fcheinen, fondern
+um alles Andere eher, ald darum, fich befümmern, und bahinle-
+ben, nur auf den heutigen Tag und bie faft nicht längere Spanne
+ihrer perfönlichen Zufunft bedacht, indem fie jenes Problem ent-
+weber ausdrücklich ablehnen, oder hinfüchtlich desselben fich bereit-
+willig abfinden lassen mit irgend einem Systeme der Volksme⸗
+taphyfif und damit ausreichen; — wenn man, fage ich, Das
+wohl erwägt; fo fann man der Meinung werben, daß ber
+Mensch doch nur fehr im weitern Sinne ein denkendes We—
+fen heiße, und wird fortan über feinen Zug von Gebanfenlo-
+figfeit, oder Einfalt, fi fonderlich wundern, vielmehr wissen,
+dag der intellektuelle Gefichtöfreis des Normalmenfchen zwar
+über den des Thieres, — dessen ganzes Dafeyn, der Zufunft
+und Vergangenheit fich nicht bewußt, gleichfam eine einzige Ge-
+genwart ist, — hinausgeht, aber doch nicht fo unberechenbar weit,
+wie man wohl anzunehmen pflegt.
+
+Diefem entfpricht es fogar, dag man auch im Gefpräde bie
+Gedanfen der meiften Menfchen jo kurz abgefihnitten findet, wie
+Hädkerling, daher Fein längerer Faden sich herausfpinnen läßt.
+
+Auch Fönnte unmöglich, wenn biefe Welt von eigentlich ben-
+
+
+Selbstdenken. 419
+
+
+kenden Wesen bevölkert wäre, der Lerm jeder Art so unbeschränkt
+erlaubt und freigegeben seyn, wie sogar der entsetzlichste und dabei
+zwecklose es ist. — Wenn nun aber gar schon die Natur den Men—
+schen zum Denken bestimmt hätte; so würde sie ihm keine Ohren
+gegeben, oder diese wenigstens, wie bei den Fledermäusen, die ich
+darum beneide, mit luftdichten Schließklappen versehn haben. In
+Wahrheit aber ist er, gleich den andern, ein armes Thier, des—
+sen Kräfte bloß auf die Erhaltung seines Daseyns berechnet sind,
+weshalb es der stets offenen Ohren bedarf, als welche, auch un—
+befragt und bei Nacht wie bei Tage, die Annäherung bes Ver—⸗
+folgers anfündigen.
+
+
+nn — —
+
+
+2*

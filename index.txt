@@ -1,0 +1,91 @@
+INDEX OF THE SCHOPENHAUER CORPUS  -  made by bin/schop-index.js from each file's own
+header, so a missing header shows as a defect. "pages" counts recovered printed-page
+coordinates found in the file ([S. n], [p. n], or a bracketed folio); 0 means the file must
+be cited by section, chapter or paragraph - see each header and the catalogue's GAP list.
+
+file                                                        tier          shelf      title                               year         lang  transl    words     pages
+--------------------------------------------------------------------------------------------------------------------------------------------------
+01_die-welt-als-wille-und-vorstellung_bd1_1819-1859_de      T1 PRIMARY    main       Die Welt als Wille und Vorstellung  1819         de    orig      216918    633
+02_die-welt-als-wille-und-vorstellung_bd2_1844-1859_de      T1 PRIMARY    main       Die Welt als Wille und Vorstellung  1844         de    orig      177328    555
+03_ueber-die-vierfache-wurzel_1813-1847_de                  T1 PRIMARY    main       Ueber die vierfache Wurzel des Sat  1813         de    orig      52408     212
+04_aphorismen-zur-lebensweisheit_1851_de                    T1 PRIMARY    main       Aphorismen zur Lebensweisheit       1851         de    orig      67198     0
+05_die-stachelschweine_para-396_1851_de                     T1 PRIMARY    main       Die Stachelschweine, § 396          1851         de    orig      342       1
+06_ueber-lerm-und-geraeusch_1851_de                         T1 PRIMARY    main       Ueber Lerm und Geräusch             1851         de    orig      1721      5
+07_ueber-die-sinne_1859_de                                  T1 PRIMARY    main       Ueber die Sinne                     1819/1859    de    orig      2296      7
+08_the-world-as-will-and-idea_vol1_1883_en                  T1 PRIMARY    main       Die Welt als Wille und Vorstellung               en    R. B. Ha  190710    1
+09_the-world-as-will-and-idea_vol2_1883_en                  T1 PRIMARY    main       Die Welt als Wille und Vorstellung               en    R. B. Ha  167820    0
+10_the-world-as-will-and-idea_vol3_1883_en                  T1 PRIMARY    main       Die Welt als Wille und Vorstellung               en    R. B. Ha  174918    0
+11_fourfold-root_and_will-in-nature_1907_en                 T1 PRIMARY    main       Ueber die vierfache Wurzel des Sat               en    Mme. Kar  138951    690
+12_the-basis-of-morality_1903_en                            T1 PRIMARY    main       Ueber das Fundament der Moral       1903         en    Arthur B  75588     70
+13_the-wisdom-of-life_1890_en                               T1 PRIMARY    main       Aphorismen zur Lebensweisheit       1890         en    T. Baile  38222     0
+14_counsels-and-maxims_1895_en                              T1 PRIMARY    main       Aphorismen zur Lebensweisheit, Kap  1895         en    T. Baile  45581     0
+15_studies-in-pessimism_1893_en                             T1 PRIMARY    main       Aus WWV Bd 2 und Parerga: 'Über di  1893         en    T. Baile  30669     0
+16_the-art-of-controversy_1896_en                           T1 PRIMARY    main       Eristische Dialektik. Die Kunst, R  1896         en    T. Baile  30228     0
+17_the-art-of-literature_1891_en                            T1 PRIMARY    main       Aus Parerga: Ästhetik und Literatu  1891         en    T. Baile  37548     0
+18_on-human-nature_1897_en                                  T1 PRIMARY    main       Aus Parerga: 'Zur Ethik' und 'Zur   1897         en    T. Baile  32300     0
+19_religion-a-dialogue_1889_en                              T1 PRIMARY    main       Aus Parerga: 'Religion: ein Gesprä  1889/1890    en    T. Baile  29519     0
+20_essays-of-schopenhauer_1897_en_dircks                    T1 PRIMARY    main       Aus Parerga und WWV: 'Über Autorsc  1897         en    Mrs. Rud  73440     24
+21_schopenhauer_margrieta-beer_1914_en                      T2 SECONDAR   secondary  Schopenhauer                        1914         en    orig      27343     0
+22_schopenhauer_thomas-whittaker_1909_en                    T2 SECONDAR   secondary  Schopenhauer                        1909         en    orig      19430     0
+23_adb32_liepmann_schopenhauer_1891_de                      T2 SECONDAR   secondary  Schopenhauer, Arthur — Allgemeine   1891         de    orig      7219      13
+24_kg-schadensersatz_Marquet_1824_de                        T1 PRIMARY    main       Kammergericht                       1824         de    orig      2639      35
+25_kg-injurien_Marquet_1827_de                              T1 PRIMARY    main       Kammergericht                       1827         de    orig      521       2
+26_arthur-schopenhauer_his-life-and-his-philosophy_helen-z  T2 SECONDAR   secondary  Arthur Schopenhauer: His Life and   1876         en    Helen Zi  61251     95
+27_ueber-die-weiber_para-bd2-kap27_1851_de                  T1 PRIMARY    main       Ueber die Weiber                    1851         de    orig      2960      0
+28_arthur-schopenhauer_johannes-volkelt_1900_de             T2 SECONDAR   secondary  Arthur Schopenhauer. Seine Persönl  1900         de    orig      117104    0
+29_aus-schopenhauers-handschriftlichem-nachlass_1864_de     T1 PRIMARY    main       Aus Arthur Schopenhauers handschri  1864         de    orig      173534    0
+30_ueber-religion-ein-dialog_1851_de                        T1 PRIMARY    main       Ueber Religion. Ein Dialog          1851         de    orig      19839     17
+31_ueber-den-selbstmord_para-bd2-kap13_1851_de              T1 PRIMARY    main       Ueber den Selbstmord                1851         de    orig      1237      1
+32_zur-ethik_para-bd2_1851_de                               T1 PRIMARY    main       Zur Ethik                           1851         de    orig      12598     12
+33_zur-rechtslehre-und-politik_para-bd2_1851_de             T1 PRIMARY    main       Zur Rechtslehre und Politik         1851         de    orig      8764      11
+34_zur-lehre-von-der-unzerstoerbarkeit_para-bd2_1851_de     T1 PRIMARY    main       Zur Lehre von der Unzerstoerbarkei  1851         de    orig      4918      5
+35_zur-metaphysik-des-schonen_para-bd2_1851_de              T1 PRIMARY    main       Zur Metaphysik des Schoenen und zu  1851         de    orig      11388     13
+36_ueber-urtheil-kritik-beifall-und-ruhm_para-bd2_1851_de   T1 PRIMARY    main       Ueber Urtheil, Kritik, Beifall und  1851         de    orig      9049      11
+37_ueber-gelehrsamkeit-und-gelehrte_para-bd2_1851_de        T1 PRIMARY    main       Ueber Gelehrsamkeit und Gelehrte    1851         de    orig      3503      4
+38_selbstdenken_para-bd2_1851_de                            T1 PRIMARY    main       Selbstdenken                        1851         de    orig      3181      1
+39_nachtroege-zur-lehre-von-der-nichtigkeit-des-daseins_pa  T1 PRIMARY    main       Nachtraege zur Lehre von der Nicht  1851         de    orig      2055      0
+40_nachtroege-zur-lehre-vom-leiden-der-welt_para-bd2_1851_  T1 PRIMARY    main       Nachtraege zur Lehre vom Leiden de  1851         de    orig      3599      0
+41_nachtroege-zur-lehre-von-bejahung-und-verneinung_para-b  T1 PRIMARY    main       Nachtraege zur Lehre von der Bejah  1851         de    orig      2980      0
+42_einiges-zur-sanskritlitteratur_para-bd2_1851_de          T1 PRIMARY    main       Einiges zur Sanskritlitteratur      1851         de    orig      1914      2
+43_einige-archaeologische-betrachtungen_para-bd2_1851_de    T1 PRIMARY    main       Einige archäologische Betrachtunge  1851         de    orig      1081      1
+44_einige-mythologische-betrachtungen_para-bd2_1851_de      T1 PRIMARY    main       Einige mythologische Betrachtungen  1851         de    orig      2258      3
+45_ueber-erziehung_para-bd2_1851_de                         T1 PRIMARY    main       Ueber Erziehung                     1851         de    orig      2321      3
+46_zur-physiognomik_para-bd2_1851_de                        T1 PRIMARY    main       Zur Physiognomik                    1851         de    orig      2866      3
+47_ueber-schriftstellerei-und-stil_para-bd2_1851_de         T1 PRIMARY    main       Ueber Schriftstellerei und Stil     1851         de    orig      11625     13
+48_ueber-lesen-und-buecher_para-bd2_1851_de                 T1 PRIMARY    main       Ueber Lesen und Bücher              1851         de    orig      2333      2
+49_ueber-sprache-und-worte_para-bd2_1851_de                 T1 PRIMARY    main       Ueber Sprache und Worte             1851         de    orig      3054      5
+50_psychologische-bemerkungen_para-bd2_1851_de              T1 PRIMARY    main       Psychologische Bemerkungen          1851         de    orig      8661      8
+51_gleichnisse-parabeln-und-fabeln_para-bd2_1851_de         T1 PRIMARY    main       Gleichnisse, Parabeln und Fabeln    1851         de    orig      2046      0
+52_einige-verse_para-bd2_1851_de                            T1 PRIMARY    main       Einige Verse                        1851         de    orig      1641      2
+53_einige-betrachtungen-ueber-den-gegensatz_para-bd2_1851_  T1 PRIMARY    main       Einige Betrachtungen ueber den Geg  1851         de    orig      2900      0
+54_vorrede-zu-den-beiden-grundproblemen_1841_de             T1 PRIMARY    main       Vorrede zu Die beiden Grundproblem  1841         de    orig      9947      0
+55_preisschrift-ueber-die-freiheit-des-willens_1841_de      T1 PRIMARY    main       Preisschrift ueber die Freiheit de  1841         de    orig      30098     0
+56_preisschrift-ueber-die-grundlage-der-moral_1841_de       T1 PRIMARY    main       Preisschrift ueber die Grundlage d  1841         de    orig      53365     0
+57_judicium-societatis-regiae-danicae_1841_la               T1 DOCUMENT   main       Judicium Regiae Danicae Scientiaru  1841         la    orig      735       0
+58_ueber-den-willen-in-der-natur_1836_de                    T1 PRIMARY    main       Ueber den Willen in der Natur. Ein  1836         de    orig      36141     0
+59_ueber-den-willen-in-der-natur_1854_de                    T1 PRIMARY    main       Ueber den Willen in der Natur. Zwe  1854         de    orig      51119     0
+60_ueber-philosophie-und-ihre-methode_para-bd2-1877_de      T1 PRIMARY    main       Ueber Philosophie und ihre Methode  1877         de    orig      6663      4
+61_zur-logik-und-dialektik_para-bd2-1877_de                 T1 PRIMARY    main       Zur Logik und Dialektik             1877         de    orig      9768      2
+62_den-intellekt-betreffende-gedanken_para-bd2-1877_de      T1 PRIMARY    main       Den Intellekt ueberhaupt und in je  1877         de    orig      16753     8
+63_einige-betrachtungen-gegensatz-dinges-an-sich_para-bd2-  T1 PRIMARY    main       Einige Betrachtungen ueber den Geg  1877         de    orig      3709      1
+64_einige-worte-ueber-den-pantheismus_para-bd2-1877_de      T1 PRIMARY    main       Einige Worte ueber den Pantheismus  1877         de    orig      1987      3
+65_zur-philosophie-und-wissenschaft-der-natur_para-bd2-187  T1 PRIMARY    main       Zur Philosophie und Wissenschaft d  1877         de    orig      29337     1
+66_zur-farbenlehre_para-bd2-1877_de                         T1 PRIMARY    main       Zur Farbenlehre                     1877         de    orig      13003     13
+67_skizze-einer-geschichte-der-lehre-vom-idealen-und-reale  T1 PRIMARY    main       Skizze einer Geschichte der Lehre   1851         de    orig      9598      5
+68_fragmente-zur-geschichte-der-philosophie_para-bd1_1851_  T1 PRIMARY    main       Fragmente zur Geschichte der Philo  1851         de    orig      32178     0
+69_ueber-die-universitaets-philosophie_para-bd1_1851_de     T1 PRIMARY    main       Ueber die Universitaets-Philosophi  1851         de    orig      19993     5
+70_transscendente-speculation-ueber-die-absichtlichkeit-im  T1 PRIMARY    main       Transscendente Speculation ueber d  1851         de    orig      8408      11
+71_versuch-ueber-das-geistersehn_para-bd1_1851_de           T1 PRIMARY    main       Versuch ueber das Geistersehn und   1851         de    orig      27826     34
+72_gwinner_arthur-schopenhauer-aus-persoenlichem-umgange_1  T2 SECONDAR   secondary  Arthur Schopenhauer. Aus persoenli  1862         de    orig      49737     214
+73_gwinner_schopenhauer-und-seine-freunde_1863_de           T2 SECONDAR   secondary  Schopenhauer und seine Freunde. Zu  1863         de    orig      19360     0
+74_ueber-das-sehn-und-die-farben_1816_de                    T1 PRIMARY    main       Ueber das Sehn und die Farben. Ein  1816         de    orig      18618     0
+75_ueber-das-sehn-und-die-farben_2aufl_1854_de              T1 PRIMARY    main       Ueber das Sehn und die Farben. Ein  1854         de    orig      31109     0
+76_schopenhauer-briefe_schemann_1893_de                     T1 PRIMARY,   main       Schopenhauer-Briefe. Sammlung meis  1893         de    orig      181107    6
+77_theoria-colorum-physiologica_schw-1877_la                T1 PRIMARY,   main       Theoria colorum physiologica, eade  1830         la    himself,  16224     48
+78_frauenstaedt_einleitung-des-herausgebers_1877_de         T2 SECONDAR   secondary  Einleitung des Herausgebers         1877         de    orig      39513     113
+79_frauenstaedt_lebensbild_1877_de                          T2 SECONDAR   secondary  Arthur Schopenhauer. Ein Lebensbil  1877         de    orig      19219     30
+--------------------------------------------------------------------------------------------------------------------------------------------------
+79 files | 70 on the main shelf, 9 secondary
+words: 2,857,032 | recovered page coordinates: 2,958
+languages: de x61, en x16, la x2
+files with no page coordinate: 30

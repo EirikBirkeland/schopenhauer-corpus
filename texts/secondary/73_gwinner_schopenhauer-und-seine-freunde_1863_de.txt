@@ -1,0 +1,2966 @@
+# TIER 2 SECONDARY, by a personal acquaintance, and POLITICAL in the quarrel of the disciples | German | its quotations are mostly LETTERS and the rivals' book, not his published works | the first edition, 1863, from a readable scan of it
+# title: Schopenhauer und seine Freunde. Zur Beleuchtung der Frauenstaedt-Lindner'schen Vertheidigung Schopenhauer's, zur Erfaenzung der Schrift: "Arthur Schopenhauer aus persoenlichem Umgange dargestellt"
+# title_en: Schopenhauer and his friends: to illuminate the Frauenstaedt-Lindner vindication of Schopenhauer, and to supplement the writing 'Arthur Schopenhauer from personal acquaintance' - the English title is this collection's rendering
+# year: 1863
+# edition: Leipzig: F. A. Brockhaus 1863; the colophon "Druck von F. A. Brockhaus in Leipzig" survives at the end, and the title page carries the library stamp of a Divinity School library. The scan's running text scores READABLE (bin/ia-read.js: 14.15 per cent common words, und 478 against unb 0, no long s - a plain antiquatype), and this is the same house and type as the 1862 memoir (file 72).
+# translator: none (German)
+# copyright: public domain
+# source: https://archive.org/details/schopenhauerund00gwingoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 31, the day the network came back after twenty passes, and it is the second Gwinner memoir and the witness GAP-5 has waited for since pass 2. WHAT THE BOOK IS: not a life but a pamphlet of rebuttal. Its opening names its enemy - "Arthur Schopenhauer. Von ihm. Ueber ihn. Ein Wort der Vertheidigung von Ernst Otto Lindner und Memorabilien, Briefe und Nachlassstuecke von Julius Frauenstaedt' (Berlin 1863), a volume Gwinner measures at 762 pages and whose incense he says suffocates, "dessen erstickenden Qual..." - and Gwinner is defending his own 1862 memoir (file 72) against those two disciples. FOR A RAG COLLECTION THE INTEREST IS PROVENANCE: here in his own words is the 1860s quarrel over what may be quoted, and Gwinner states his claim to the letters - "aus dem Munde Schopenhauer's selbst, aus Zeugnissen noch lebender Bekannten der Familie, aus den Briefen an Schopenhauer, die mir alle vorlagen" - and objects to swelling the works "um das Zehnfache" with "ohne Vorbgedacht und Sorgfalt hingeworfene Briefe". So the letters of GAP-6 existed, were in his hands, and their publication was contested: that is why a reported table-talk sentence is weak evidence in this collection, and the sentence which says so is a witness, not a guess. Note too a sentence of real value on reception: "...es werth, als dass jeder Schafskopf sie sich zur Unterlage nimmt; mit dem Gwinner'schen Schopenhauer in der Tasche koennen die Lumpen als Biedermaenner herunireisen", with the footnote that "A. Boden tadelt den Mangel an Anekdoten in meiner Schrift" - his book as a travelling cushion, and a reader already asking for anecdotes in 1863. WHAT IT DOES NOT SETTLE, searched with both folds: Pudel, Atma, Butz (so the dogs' names are still nowhere in the collection, G-03), Naetherin, Selbstmord and Freitod (as in 1862: the pessimist's suicide is a topic he never raises), Charlatan, Krone and 1848 (G-29 stays NO DATA), and laecherlich and Perioden - so the three-stage formula of Q-12 has now been searched in a third class of witness and is still absent. PAGES: cite by chapter, not by page. The running head is "Gwinner, Schopenhauer u. s. Freunde. N" but it survived only three times in this layer (pages 1, 4 and 6 of about 91), so the strict walk of bin/schop-pages.js has nothing to work on and no marker is invented.
+
+Meine kleine Schritt: „Arthur Schopenhauer aus
+persönlichem Umgange dargestellt. Ein Blick auf sein
+Leben, seinen Charakter und seine Lehre'' hat alsbald
+nach ihrem Erscheinen (1862) vielfache Theilnahme und
+reiche Anerkennung gefunden; dass auch die Gegner
+nicht ausblieben , konnte mich um so weniger befremden,
+als ich nicht allein nach verschiedenen Seiten hin starke
+Anlipathieen gezeigt und empfindliche Stellen berührt
+halte, sondern mehr noch der dargestellte Charakter
+selbst, gleichwie er das volle Maass der Ungunst bei
+allerlei Volk schon zu Lebzeiten genossen, nun auch
+nach dem Tode, je höher ich ihn gestellt, desto tiefer
+herabgesetzt werden musste. Nicht erwarten aber
+fe^OiuilQ. ich, dass aus der kleinen Zahl der thätigen
+Anhänger des heimgegangenen Philosophen sich zwei
+zu einem Angriffe wider mich associiren würden, gegen
+welchen die Ausfalle der durch meine Darstellung direct
+oder indirect verletzten Gegner Schopenhauer's als Lo-
+-- beserhebungen erscheinen. Mit diesem 762 Seiten dicken
+Gesellschaflswerke , betitelt: „Arthur Schopenhauer.
+Von ihm. lieber ihn. Ein Wort der Vertheidigung von
+
+Gwinner, Schopenhauer u. s. Freunde. 1
+
+
+Ernst Otto Lindner und Memorabilien, Briefe und
+Nachlassstücke von Julius Frauenstddt'' (Berlin
+1863), haben dieGenannlen ihrem Meister einen Weihrauch
+angezündet, dessen erstickenden Qualm aus dem Tempel
+seines Ruhms wieder hinauszufegen nur der Macht der
+Zeit gelingen wird. Was .hingegen den Staub betrifH,
+der dabei wider mich, und meine Schrift aufgewühlt
+wird, so kann ich wohl sagen: hat je ein literarischer
+Angriff sich selbst verurtheilt, so ist es dieser. Gleich-
+wohl darf ich meiner Neigung, ihn mit schweigender
+Verachtung zu übergehen, nicht folgen; denn er über-
+schreitet das Gebiet der literarischen Fehde und geht
+ins Persönliche über, wo Stillschweigen für Eingestand -
+niss gelten könnte.
+
+Einst, im Gespräche mit Schopenhauer, habe ich
+ad vocem „Literat" scherzend gesagt : Gott bewahre Sie
+vor Ihren Freunden! und er antwortete mir: „Leider!
+Aber die andern schreiben eben nicht." — Dieses sein
+allzu weit getriebenes Ignosccre amicis, das unbedachte
+Vertrauen, mit dem er dem Eifer solcher Leute in der
+Verbreitung seines Namens und seiner Lehre dankte,
+hat er theuer bezahlen müssen! Ich habe dies mit
+Bestimmtheit vorhergesehen und deshalb, bald nach
+seinem Tode, aus Freundespflicht die Feder ergriffen,
+damit das lehrreiche Charakterbild dieses aussergewöhn-
+lichen Menschen, zum wenigsten in der Hauptsache,
+nicht von vorne herein verpfuscht, verwischt und be-
+
+
+3
+
+kleckst würde, sondern der Nachwelt der reine, volle,
+wenn auch düslere und herbe Eindruck erhalten werde.
+Dass mir dies einigermaassen gelungen ist, dafür habe
+ich, wie gesagt, abgesehen von zahlreichen öffentlichen
+ürtheilen, die Zeugnisse solcher Anhänger und persön-
+lichen Freunde Schopenhauer's für mich, die, obwohl
+sie überhaupt nicht oder doch nicht unbedin*^t für ihn
+schrieben, ihm doch geistig näher standen und auf
+deren Urtheil er höheren Werth legte, als auf das der
+sogenannten Evangelisten. Diesen aber war damit
+schlecht gedient. Denn nicht allein halte ich eine Ar-
+beit, zu der sie sich allernächst selbst für berufen
+hielten, vorweg genommen, sondern es war auch in
+meiner Lebensskizze Schopenhauer's zu ihrer eigenen
+Verherrlichung so wenig geschehen, dass man sich
+den „echten Schopenhauer" ohne Lindner, Frauen-
+städt und was daran hängt recht gut, ja richtiger
+vorstellen konnte, als mit diesem Embarras. Es war
+deshalb ein willkommener Anlass, dass ein Paar gegen
+Schopenhauer längst übelgestimmter Tagesschreiber *),
+
+
+*) Ihren Haas gegen Schopenhauer erklären schon ge-
+nügend Stellen wie Parerga, II, §. 226 fg.: „Ebenso ist man
+heutzutage wieder ungerecht gegen Raupach, xollt hingegen
+den Fratzen armseliger Pfuscher seinen Beifall ... Das
+Drama von politischer, mit den momentanen Grillen des
+süssen Pöbels liebäugelnder Tendenz, dieses behebte Fa-
+brikat unserer heutigen Literaten, habe ich nalür-
+
+1*
+
+
+von denen der eine bereits vor dem Erscheinen meiner
+Schrift wegen Verleumdung des Verstorbenen mit ge-
+richtlicher Klage bedroht worden, meine Mittheilungen
+über Leben und Charakter desselben zu Schmähartikeln
+gegen Schopenhauer benutzten. Jetzt war ich daran
+schuld! Schopenhauer musste gegen mich vertheidigt
+werden. Unter diesem Vor wand konnte man ungenirt
+mit allen vom Meister empfangenen Ordenszeichen auf
+die Parade ziehen. Ob dieser selbst dabei gewinne,
+danach fragte man nicht, und so ist denn dieses Werk
+zu Stande gekommen, mit welchem die Herausgeber
+dem Andenken Schopenhauer's einen bleibenden Nach-
+theil zugefügt, sich selbst aber ein teslimonium pau-
+pertaiis ohne gleichen ausgestellt haben.
+
+Im Gefühl der Unwürdigkeit seiner Production will
+HeiT Frauenstädt mich sogar für deren Form ver-
+antwortlich machen; denn er sagt in der Vorrede,
+S. IV: „Weit entfernt, durch das Gwinner'sche Buch
+überflüssig geworden zu sein, ist das vorliegende
+in seiner jetzigen Gestalt vielmehr durch das-
+selbe erst hervorgerufen worden." Der ausge-
+
+
+lich nicht in Betracht gezogen: dergleichen Piecen hegen
+bald, oft schon im nächsten Jahre, da, wie alte Kalender.
+Das kümmert jedoch den Literaten nicht: denn der Anruf
+an seine Muse enthält nur Eine Bitte: „Unser täglich Brod
+gieb uns heute." .
+
+
+sprochene Zweck des Erzeva ngelislen, „dem Verkanntsein
+Schopenhauer's ein Ende zu nriachen", ist in der Thal
+damit erreicht: es ist jetzt kein Geheimniss der Wenigen
+mehr, die Schopenhauer's persönlichen Umgang und
+nafves Vertrauen genossen, dass dieser starke Geist
+auch sehr schwach sein konnte, Mängel und Gebrechen
+hatte, die seinen absoluten, d. i. moralischen Werth
+gegen seinen intellectuellen Werth weit herabdrücken..
+Ich hatte die schlimmen Seiten seines Charakters nicht
+vertuscht, ich hatte ihn nicht besser gemacht als er
+war; aber ich hatte allen Nachdruck auf sein Urbild,
+auf die urkräftige, hochgearlete Originalität seines Geistes
+gelegt; den Kammerdienern des grossen Mannes war
+es vorbehalten, diesen der Welt im Neglige vorzuführen.
+Hätten sie dabei nur den uothwendigsteh Ausland ge-
+wahrt! Aber nein, sie zeigen ihn in jeder Situation
+nicht etwa nur in Schlafrock und PantofTi-ln, sie decken
+seine Blossen auf, hängen seine schmutzige Wäsche
+aus und geben ihn dem Spott seiner Feinde preis.
+
+Und in demselben Machwerk, in dem sie dies thun,
+werfen sie mir vor, dass ich ein Geheimbuch Schopen-
+hauers vernichtet habe, ohne sie zuvor darüber zu
+Rath zu ziehen. IleiT Dr. Lindner will nämlich wissen,
+Schopenhauer habe „im Laufe des späteren Alters" eine
+„Schrift" begonnen, die er Eic sauTov überschrieben
+und in der er „eine Reihe von rein persönlichen Le-
+benserinnerungen" habe niederlegen wollen, und ver-
+
+
+offen tlicht sodann, ohne mit mir über diese Angelegen-
+heil zuvor in Verkehr getreten zu sein, die Stelle eines
+Briefs von mir an Dr. Frauenstädt, welche lautet: „Das
+Ei^ sÄUTov war 'kein wissenschaftliches Manuscript, son-
+dern betraf nur Persönliches, seine Privatverhältnisse
+zu einigen Personen, untermischt mit einigen Klugheits-
+regeln und Lieblingsstellen, wie er sie in alle seine
+Brieftaschen einzuzeichnen pflegte, und, soweit es ihm
+passend erschien, bereits in den Parergen benutzt hat.
+Es war ein Heft von etwa dreissig losen Blättern, aus
+dem er mir zuweilen etwas mitgetheilt hatte, und das,
+seinem Willen gemäss, nach dem Tode vernichtet wurde.
+Es ist möglich, dass er eine oder die andere Stelle
+für eine neue Auflage der Parergen noch zu benutzen
+gedachte, docli vermuthe ich, dass dies nur Variationen
+im Ausdruck betraf; denn er war gewohnt, jedfr Re-
+flexion, die er für seine Schriften benutzen wollte, den
+wissenschaftlichen Manuscripten und deren Repertorium
+einzuverleiben."
+
+Herr Dr. Lindner findet es „sehr seltsam", dass
+Schopenhauer selbst die Vernichtung dieser „Schrift"
+bestimmt haben solle. Mit Schopenhauer's Aeusserungen
+gegen ihn stimme dies durchaus nicht überein, Scho-
+penhauer habe sich ihm gegenüber nur dahin ge-
+äussert, „dass diese Aufzeichnungen vor seinem Tode
+durchaus nicht gedruckt werden könnten", auch sei
+diese Anweisung schwer mit seinem überaus vorsieh-
+
+
+(igen Wesen zu vereinigen, wonach man kaum an-
+nehmen könne, dass er „die Vernichtung einer ihm so
+wichtigen Schrift ohne weitere Vorsichtsmaassregeln dem
+guten Willen eines Ueberlebenden anheimgegeben haben
+sollte." Wäre es den beiden Evangelisten auch nur
+einigermaassen um- Schopenhauer's, geschweige denn
+meine Ehre zu thun gewesen, so würden sie, ehe sie
+grundlose gehässige Verdächtigungen in die Welt schleu-
+derten, zuvor bei mir oder, falls sie bei mir nicht zu-
+frieden gestellt zu werden hofften, bei andern nächst-
+stehenden Freunden Schopenhauer's weitere Erkundi-
+gung eingezogen und sich die öffentliche Zurechtweisung
+erspart haben. Ich sage Zurechtweisung, dehn die
+Herren mögen sich nur nicht einbilden, dass ich, indem
+ich die Motive ihres Angriffs aufzeige, ihnen das Recht
+zugestehen wolle, mich zur Verantwortung zu ziehen.
+
+Zunächst verdient Beachtung, wie genau Herr Dr.
+Lindner über Form und Inhalt, Zweck und Entstehungs-
+weise des fraglichen Manuscripts von Schopenhauer
+unterrichtet worden ist. Was er nämlich darüber vor-
+brin^, ist alles falsch mit alleiniger Ausnahme des Ti-
+tels, welchen der Erzevangelist Frauenstädt in Schopen-
+hauer's Handexemplar der Parerga citirt gefunden. Erst
+aus diesem Citat erfuhr der „Hochwurdige" selbst et-
+was davon. Der Meister hatte es nicht für gut gefun-
+den, ihn, den Erben seines literarischen Nachlasses,
+auch nur von der Existenz dieser „wichtigen Schrift"
+
+
+zu averliren, geschweige denn ihm Verhallüngsmaass-
+regeln zum Behuf der Herausgabe des opus poslhu-
+mum zu ertlieilen! Da er es nämlich nur für sich
+selbst angelegt hatte, woIJte er nicht, dass es nach
+seinem Tode in indiscrete Hände übergehe oder gar
+von solchen in die Welt geschickt werde. Die beiden
+Evangelisten können sich nicht rühmen, dass er ihnen
+jemals eine Millheilung aus demselben gemacht hätte;
+Andern aber hat er sie gemacht. Von mir nicht zu
+reden, nenne ich nur Kreisrichter Becker in Mainz, den
+ältesten lebenden Freund Schopenhauer's, und Bezirks-
+gerichtsrath von Doss in München. Diese und Andere,
+welchen Schopenhauer gemüthlich näher trat, hätten Herrn
+Dr. Lindner unterrichten können, dass das Ei^ sauTOv
+weder eine „Schrift", im allgemein üblichen Sinn des
+Worts, gewesen, noch von Schopenhauer „im Laufe
+des späteren Alters begonnen" worden, noch „eine Reihe
+von Lebenserinnerungen'* enthalten hat. Das Manuscript
+bestand, wie gesagt, aus etwa dreissig losen Blättern,
+war schon 1821 angefangen und in den darauf fol-
+genden zwanzig Jahren allmählich entstanden. Im späte-
+ren Alter kamen kaum drei Seiten mehr hinzu. Den Inhalt
+bildete kein fortlaufendes Ganze, nichts weniger als eine
+Selbstbiographie, auch kein biographisches Material*),
+
+
+*) Mit Ausnahme einiger kleinen Zöge von Schwächen
+seines Charakters sowie von dem Eindrucke seiner Person-
+
+
+vielmelir Privatnolizen über persönliche Verhältnisse,
+zum Theil in englischer Sprache, Aufzeichnungen, deren
+Vernichtung Schopenhauer's ausgesprochener
+Wille war, und welche ich, ohne den Zweck dieser
+Vernichtung zu vereiteln, selbstverständlicher Weise nicht
+näher bezeichnen kann. So zum wenigsten stand die
+Sache, als er die Bekanntschaft des „Doctor indefati-
+gabilis'' *) Ernst Otto Lindner machte. Da freilich, im
+Hinblick auf die grenzenlose Discrelion an der Spree,
+ward er vermuthlich an seinem längst gefassten Ent-
+schluss irre und liess den neuen Evangelisten durch-
+blicken, das Ek; sauTov gäbe nach seinem Tode pi-
+kanten Stoff für die — „Vossische**. Allein sobald
+der mächtige persönliche Eindruck des Unermüdlichen
+vorüber war, stellte sich die alte Scheu des Philosophen
+vor dem Missbrauch der Presse wieder ein und er
+beharrte bei seiner Entscheidung. Dies bezeugt u. a.
+Becker in einem Briefe an mich vom 10. Mai 1863:
+„Die Beschuldigung, dass Sie das Ek; sauTov eigen-
+
+
+lichkeit auf Fremde (S. 69 und 112 meiner Schrift), die er
+nicht mir allein, sondern mehreren Freunden daraus mit-
+getheilt hatte.
+
+•) Diesen Ehrengrad ertheilt ihm der dankbare Meister
+für die Auffindung eines Artikels der Westminster Review
+(S. 112), gleichwie Frauenstädt für seine „Briefe über die
+Schopenhauer'sche Philosophie*' die Würde eines „Erzevan-
+gelisten*' erhält (S. 597).
+
+
+10
+
+mächtig verniclilet halten, ist eine sehr gehässige und
+sehr unbegründet, da ich es aus Schopenhauer's Munde
+selbst weiss, dass er die Vernichtung wünschte." Was
+aber den „guten Willen des üeberlebenden" betriff!,
+dem die Ausführung der Verfügung überlassen blieb,
+so steht es etwa dem Doctor indefatigabilis zu, daran
+zu zweifeln, nachdem Schopenhauer selbst, die Voll-
+streckung seines letzten Willens in meine Hand legend,
+sich deutlich darüber ausgesprochen hat? Angesichts
+des vorliegenden Gesellschaftswerks dagegen zweifelt alle
+W^elt jetzt mehr noch als ich zu Lebzeiten Schopen-
+hauer's, ob dieser vorsichtiger würde gehandelt haben,
+wenn er das Et^ saurov an die literarische Officin der
+beiden Evangelisten adressirt hätte. Dass er dasselbe
+nicht selbst vernichtet, erklärt sich, abgesehen davon,
+dass er das Ziel seines Lebens noch weiter hinaus-
+gerückt wähnte, daraus, dass er einige Stellen in den
+Parergen benutzt hatte und vielleicht noch andere in
+der nahe bevorstehenden neuen Auflage derselben zu
+verwenden gedachte. Ueberhaupt war er mit Verfü-
+gungen auf den Todesfall zögernd, sei's dass er den
+Gedanken an den Tod inmitten steigender Anerkennung
+nicht fassen wollte, sei's dass er die etwa nöthig wer-
+denden Abänderungen solcher Verfügungen scheute.
+So musste ich ihn mehrmals an sein längst beschlos-
+senes Verbot der Section erinnern. Dasjenige aber,
+was mir Schopenhauer über das fragliche Manuscript
+
+
+11
+
+gesagt und was er mir daraus vorgelesen hatte, konnte
+in mir nicht die Ahnung erwecken, dass dasselbe je-
+mals von habgierigen Erben, geschweige denn unbe-
+rufenen Dritten als opus posthumum reclamirt werden
+könnte; sonst ich nicht unterlassen haben würde, mir
+Brief und Siegel über dessen Bestimmung von Schopen-
+hauer ausfertigen zu lassen.
+
+Gerade weil Schopenhauer keine Selbstbiographie,
+keine Bekenntnisse, keine Memoiren, weder diesseits
+noch jenseits des Grabes in die Welt schicken wollte,
+gerade weil es seiner rein theoretischen weit- und
+menschenscheuen Sinnesweise entsprach, die Welt nur
+von seinen Gedanken, nicht von seinem Leben und
+Thun zu unterrichten, deshalb sagte er, sein letztes
+Werk, die Parerga hinausgebend: „Der Rest ist Schwei-
+gen!" Hätte es ihm ein freundliches Geschick ver-
+gönnt, noch die letzte Hand an die neue Auflage dieses
+Werkes zu legen, so würde er vielleicht, im Vertrauen
+auf den am späten Abend seines Lebens erlangten
+Credit, noch mit einigen seine Person betreffenden Zu-
+gaben nach Art der im zweiten Bande mitgetheilten
+Verse herausgerückt sein; dagegen mit Confessionen
+ä la Rousseau vor die Nachwelt zu treten, lag ihm
+alle Zeit um so ferner, je klarer er sich bewusst war,
+dass sein Charakter und seine Lebensführung manuich-
+fache Blossen boten. Darum rühmte er sich zwar
+jederzeit eines „reinen intellectuellen Gewissens" und
+
+
+12
+
+gewiss mit dem vollsten Rechte, nicht aber auch ir-
+gendeiner moralischen oder auch nur praktischen
+Mustergültigkeit oder Vorzüglichkeil. Ja, er ging in
+seiner Offenheit so weit, mir einst zu erzählen, einer
+seiner altern Tischgenossen in Mannheim (1831) habe
+sich gewünscht, seinen Kopf zu besitzen, aber ohne
+seinen Charakter, und hinzuzufügen: ihm selbst gefalle
+wohl seine intellectuelle Physiognomie, nicht aber seine
+moralische. Letzleres erwähnt auch Frauenstädt.
+
+Ueberzeugt von der Unveräusserlichkeit dieses Cha-
+rakters Hess Schopenhauer dessen schwere Folgen über
+sich ergehen, trug er dessen drückende Last sein gan-
+zes Leben hindurch geduldig; es tröstete ihn die Er-
+kenntniss von dem solidarischen Verbände eben dieses
+Charakters mit seinem Geiste, nach dem schönen Wort
+George Sand's, dass jeder die Fehler seiner Tugenden
+hat. Aber Zeitgenossen oder Nachkommen eine Selbst-
+schau zum Besten zu geben, dies widersprach ebenso
+sehr seinem Misstrauen und seiner Aengstlichkeit, wie
+seiner Offenheit und seiner Wahrheitsliebe. Trieben
+ihn die letzteren leicht zu Bekenntnissen, die dem ge-
+wöhnlichen Menschen niemals über die Lippen gehen,
+so mussten die ersteren ihm die schädliche Wirkung
+derselben ins Unendliche vergrössern. Daher sprach
+er sich tadelnd über die eitle Thorheit grosser Männer
+aus, ihren Charakter einer Welt voll Gemeinheit, die
+diesem nie gerecht zu werden verstehe, preiszugeben;
+
+
+13
+
+von ihrer Grösse sollle sie profitiren, nicht von ihren
+Schwächen.
+
+Was halte er auch der Welt von seinem Leben
+sagen sollen? Der Eindruck, den ihm dieselbe im
+Ganzen wie im Einzelnen zurückgelassen, liegt klar und
+ausführlich in seinen Schriften vor; dagegen wie er
+handelnd in dieselbe eingegriffen, wie sein äusserer
+Lebenslauf durch eigenes und fremdes Thun bestimmt
+worden, dies für die Neugierde der Anekdotenjäger
+zurechtzulegen, konnte er um so weniger als seine Auf-
+gabe betrachten, als dieser äussere Lebensweg, trotz
+vielfacher Abwechselung in der ersten Hälfte, im Gan-
+zen arm und öde verlief. So brachte es der Beruf
+des Philosophen, zumal dieses Pliilosophen mit sich,
+und so oft auch sein aufwallendes, überströmendes
+Temperament die drückende Monotonie des Denkens
+durchbrach und ihn zum Handeln trieb, nie fielen die
+Handlungen so aus, dass er stolz darauf hätte sein
+können, dass sie, wie seine Gedanken, Bedeutung ge-
+liabt hätten für die Welt; im Gegentheil, er schämte
+sich eher und bereute es oft, gehandelt zu haben!
+
+Daher bin ich nur Regeln der Pietät und des Au-
+slandes gefolgt, wenn ich es der Delicatesse des Doctor
+indefaligabilis und der pudicitia des Erzevangelisten
+ül>erliess, zwei allzu intime Verhältnisse aus diesem
+äusseren Lebenslaufe Schopenhauers als „wichtige Er-
+gänzungen" meiner Lebensskizze nachzubringen, nämlich
+
+
+14
+
+aus der Jugendzeit seinen Umgang mit einer Kammer-
+zofe in Dresden, infolge dessen er einen Sohn hatte
+(Lindner, Ein Wort der Vertheidigung , S. 6*4) und aus
+dem Greisenalter seinen Verkehr mit Literaten, welche
+ihn ausposaunten und für ihn Propaganda machten.
+In diesen beiden von mir verschwiegenen Verhältnissen
+zeigt sich das eine mal der junge, das andere mal der
+alte Schopenhauer allerdings schwach und klein, wie
+andere Menschen, welche aber der gewaltigen Kraft
+und imponirenden Grösse seines Geistes und folgeweise
+auch seines Ruhms ermangeln. Dieses wohlerworbenen
+Ruhms freilich wird er trotz dieser misslichen Ergän-
+zungen seines Lebens und Charakterbildes nicht ver-
+lustig gehen,' weil nur, höchstens in Deutschland zu
+findende Ungezogenheit und Imbecillität sich vermessen
+können, geistige Grösse irgendeiner Art deshalb in
+den Schmutz zu ziehen, weil ihr Träger ein Mensch
+gewesen ist. Nie wird es einem Franzosen einfallen,
+die Ehre seiner Nation dadurch zu s^chänden, dass er
+z. B. einen Rousseau oder auch nur einen Lamartine
+wegen der Schwächen und Fehler ihres Charakters in
+einem Tone bespräche, der die Achtung vor dem Ver-
+dienst mit Füssen tritt; sollt' er es aber wagen, so
+würde die öfTentliche Meinung ganz gewiss nur den
+Pasquillanten in ihm sehen und auch das Wahre, was
+er gegen solche um die Ehre der Nation verdiente
+Persönlichkeiten vorbrächte , nicht beachten. Dem
+
+
+15
+
+entsprechend ehren fremde Nationen auch unsere
+deutschen Grössen, während diese in ihrem Vaterlande
+nicht seilen der schnödesten Verunglimpfung ausgesetzt
+sind, worüber sich Schopenhauer, sein eigenes Schick-
+sal nach dem Tode ahnend, in den Parergen (ßd. 2,
+S. 91 der zweiten Auflage) scharf genug ausgelassen hat.
+
+Dass er diesem Geschicke besonders hart anheim-
+fallen musste, war nach der schroffen Stellung, die er
+den Vaterlands- und Zeitgenossen gegenüber einge-
+nommen, vorherzusehen. Die „Ergänzungen" seiner
+beiden Evangelisten aber haben weiter dafür gesorgt,
+dass seinem Charakter bei der jetzt lebenden Genera-
+tion nicht leicht noch Gerechtigkeit werden kann. Was
+geichwohl noch gut zu machen ist, soll dieser nothge-
+drungene Nachtrag zu meiner Schrift versuchen, indem
+er den Publicationen der Evangelisten ihre Stelle an-
+weist. Hiermit aber halte ich meine Aufgabe in Sachen
+Schopenhauers auch für erledigt, die Würdigung des
+Menschen wie des Denkers getrost der Nachwelt über-
+lassend.
+
+Das Unterfangen also, den Evangelisten vorgreifend,
+ein Charakterbild Schopenhauers zu entwerfen — ein
+Unterfangen, von dem mich nicht einmal die mir nach
+Schopenhauers Tode von dem Erzevangelisten brieflich
+angedrohte Concurrenz abgeschreckt hatte — , vollends
+der Ton und die Wirkung meiner Schrift, welche die
+Herren selbst documentiren mussten (S. 3, 66, 210),
+
+
+16
+
+gereichten denselben so sehr zum Verdrusse, dass sie
+in dem Eifer der mir zugedachten Lection ganz über-
+salien, wie ihre Streiche nur auf sie selbst fallen. Herr
+Dr. Frauenstädt ficht mehr versteckt, unter dem Schilde
+seines Gesellschafters, und nennt im Eingange meine
+Schrift einen „sehr schätzenswerthen und verdienstlichen
+Beitrag zur nähern Kunde des Lebens Schopenhauer's";
+allein wie dieses Lob zu verstehen, verräth, abgesehen
+von allem, was er hinterher zu Markte bringt, die voll-
+standige Adoption (S. v) der Schmähartikel seines
+Verbündeten, der ja auch, zum Eingange, von einem
+„gewiss Aufmerksamkeit erregenden, belehrenden, des
+Beachtenswerlhen gar manches enthaltenden Werke"
+redet, und dem er mit dem erforderten Material diensl-
+willig an Händen gegangen ist. So unerfreulich nun
+der Anblick dieses meines Streites mit den beiden
+„Evangelisten" den wahren Freunden Schopenhauer's
+sein mag, da sie geneigt sein werden, denselben als
+lis domeslica zu betrachten, was er im Grunde nicht
+ist, — ich muss, um meiner und Schopenhauer's Ehre
+willen, näher darauf eingehen, und weise, da ich ihn
+nicht begonnen habe, jede Verantwortung über die von
+meinen Gegnern beliebte Form desselben zurück. Das
+suavilei' in modo, welches Schopenhauer zwar selbst
+nie geübt, aber seinem schwächeren Erzevangelisten
+aus Klugheitsrücksichten anempfohlen hat, passt einem
+solchen Angriffe gegenüber nicht.
+
+
+17
+
+Schon die äussere Einlheilung meiner Schrift bietet
+Herrn Dr. Lindner willkommenen Anlass seinem Aerger
+Luft zu machen. Er findet, dass ich „die Persönlich-
+keit Schopenhauer's in ein zehnfaches Wie? Wer? Was?
+zerstückt" habe, und dass diese Abschnitte auf ihn „fast
+den Eindruck künstlich zurechtgelegter Präparate der
+einzelnen Glieder eines Leichnams" machten. Nun ver-
+mag zwar der kunstliebende Leser im Angesicht des
+organisch gegliederten Prachtbaues der VII Artikel
+dieser „Vertheidigung" den Schaden selbst zu ermessen,
+den er unter meiner Darstellung Schopenhauer's lei-
+det; ich muss jedoch noch besonders darauf hinweisen,
+wie der Unermüdliche, obwohl er selbst meine Schrift
+als „einzelnen Baustein" zu einer künftigen Lebensbe-
+schreibung Schopenhauer s gnädigst „willkommen" heisst,
+und obwohl Titel und Eingang dieser Schrift mit dem
+Finger darauf zeigen, dass ich ein vollständiges, abge-
+rundetes Lebensbild keineswegs zu geben beabsichtigt,
+gleichwohl an dieses blosse Gedenkbuch (wie er es selbst
+nennt) den Maasstab einer erschöpfenden Biographie
+legen will! Bei einer solchen freilich würde die Ein-
+theilung anders haben ausfallen müssen; zu meinem
+Zwecke dagegen, der ausgesprochenermaassen nur auf
+die Gn^ndzüge des Charakters Schopenhauer's gerichtet
+war, erschien die successive Beleuchtung desselben von
+verschiedenen Seiten, auch wenn dabei der Faden öfter
+abgebrochen werden musste, zweckmässig. In ähn-
+
+Gwinncr, Schopenhauer u. s. Freuude. 2
+
+
+18
+
+lieber Form berichtet, um von Besseren zu schwei-
+gen, sebr anscbaulicb Jaebmann über Kant. Sollte
+übrigens, wie der Unermüdliche unterstellt, meine
+Schrift in Wahrheit nur als einzelner Baustein und
+nicht vielmehr als Grundstein in Verwendung genom-
+men werden, so hoffe ich, dass sich geschicktere,
+weniger von gekränkter Eitelkeit und Buchmacherei
+besessne Hände als die der beiden Evangelisten finden,
+ihm vor der Einfügung in den Bau die entsprechende
+Form zu geben.
+
+Aber die „Vertheidigung" wird immer „bedenklicher"
+und „auffallender". Meine Schrift zerfalle „ziemlich
+deutlich in zwei, dem Inhalte wie der Form nach
+verschiedenartige Theile ". Verschiedenartig erscheint
+ihm zunächst die Darstellung selber: „neben einer
+Reihe von Sätzen, welche das Gepräge Schopenhauer'-
+schen Stiles tragen, findet sich eine mitunter ausser-
+ordentlich matte, unklare Ausdrucks weise. " Er sagt
+also „ziemlich deutlich": Vieles in deiner Schrift ist
+gut, aber das hast du von Schopenhauer; mitunter-
+läuft auch Heterogenes, Schlechtes, und das ist von
+dir. Was ich von Schopenhauer berichte, stehe „un-
+vermittelt" neben dem, was ich über denselben sage.
+Natürlich, denn' was ich von Schopenhauer mUtheile,
+gebe ich ausgesprochenermaassen meist mit seinen
+eigenen Worten, sodass nothwendig „eine Reihe von
+Sätzen das Gepräge des Schopenhauer'schen Stiles
+
+
+19
+
+trägt"; bei keinem einzigen Satze aber lasse ich den
+•redlichen Leser im mindesten Zweifel darüber, wessen
+„Ausdrucksweise" er vor sich habe, Schopenhauer's
+oder meine. Ebenso wenig konnte mir einfallen, meine
+ürtheile über Schopenhauer zu verschopenhauerisiren;
+vielmehr habe ich, auf die Gefahr hin von dem ersten
+besten Tintenkleckser in majorem magistri gloriam
+herabgehudelt zu werden , meine Selbständigkeit bis zu
+einem Grade gewahrt, der Herrn Dr. Lindner zu Dank
+verpflichten sollte: denn es wäre mir ein Leichtes ge-
+wesen, ihm diesen erwünschten Anlass, mich bei den
+Anhängern des Meisters in Misscredit zu bringen, zu
+entziehen, indem ich mich ganz unter die Flügel des-
+selben gesteckt und, nach seinem Beispiel, als getreuer
+Assecia, mit allen Schrullen desselben angethan, auf die
+Parade gezogen wäre. Ja, erwidert der Unermüdliche,
+wenn es dir nicht an dem Nöthigsten ' dazu gefehlt
+hätte! Den guten Willen, „die bona fides bezeugt jede
+Zeile des Gwinner'schen Buches". Also Unfähigkeit! und
+dabei die Anmaassung, den „echten Schopenhauer"*)
+(verstehe den Schopenhauer ohne Lindner und Frauen-
+städt) ganz aliein geben zu können! In der That „um
+
+
+*) Ich habe vom „echten" Schopenhauer nirgends ge-
+sprochen. Wie die Gedanken, so verdrehen sie einem auch
+beständig die Worte. Schopenhauer empörte dieser leicht-
+fertige Gebrauch der Anführungszeichen oder Gänsefüsschen
+seit Beneke*s Recension über sein Werk besonders.
+
+2*
+
+
+20
+
+so unverantwortlicher", als ich, wenn man dem Uner-
+müdlichen glaubt, nicht nur mit fremdem Kalbe ge-
+pflügt, sondern auch „eine Reihe von äussern Lebens-
+momenten absichtlich oder aus ünkenntniss übergangen"
+habe. „Auffallender ist der Umstand, dass Gwinner
+gerade über die Jugendzeit Schopenhauer's ziemlich
+ausführlich zu berichten vermag, aus der spätem Zeit
+aber, in welcher er Schopenhauer als seinen „Freund" *)
+bezeichnet, kaum viel mehr zu erzählen weiss, als das
+Allerbekannteste, was längst vielfach öffentlich erzählt
+worden ist, und was so ziemlich jeder, der auch nur
+einmal einen Besuch an der Mainbrücke machte, ohne
+viele Mühe erfahren konnte."
+
+Nun verspricht zw'ar der Titel meiner Schrift nur
+einen „Blick auf sein Leben", und Seite 3 steht zu
+lesen, dass „diese kurze Lebensskizze nur das nach-
+folgende Charakterbild einleiten" solle; das kommt aber
+nach Lindner's Entdeckung einzig und allein daher,
+dass mich für das spätere Leben die „Lebenserinne-
+rungen" Schopenhauer's im Stiche gelassen. Wäre es
+ihm nicht lediglich darum zu thun gewesen, meine Ar-
+beit zur Strafe dafür, dass ich über sein wichtiges
+
+
+*) Freund mit Anführungszeichen ! Ich gerire mich nur
+so. Doch ich muss mich mit Gott trösten, welcher gleich-
+falls vor dem Unermüdlichen nur mit Gänsefüsschen zuge-
+lassen wird (S. 9).
+
+
+21
+
+Verhällniss zu Schopenhauer geschwiegen und durch
+die Offenheit und Treue meiner Schilderung zu einigen
+ephemeren Schmäharlikeln wider Schopenhauer die
+ebenso gleichgültige als unvermeidliclie Veranlassung
+gegeben, um jeden Preis herabzuwürdigen, so hätte er
+die' Frivolität dieser Beschuldigung scheuen müssen.
+Völlig der Wahrheit zuwider ist zunächst die Behaup-
+tung, dass ich aus dem späteren Leben „kaum viel
+mehr" zu erzählen wisse, als das Allerbekannteste. Man
+sehe nur zu, was und wieviel der Doctor indefatiga-
+bilis sammt dem Erzevangelisten auf 762 Seiten zu
+meinen bündigen Angaben hinzuzufügen vermochten!
+Im übrigen aber ist nicht zu verkennen: Das Leben
+Schopenhauer's zerfallt in zwei, dem biographischen
+Werthe nach völlig verschiedene Theile. Der erste
+Theil ist für die gesammte Entwickelung des Charak-
+ters wichtig, der andere ist dies nicht.
+
+Seine Geburt, seine Erziehung, seine Innern Kämpfe,
+seine Reisen, sein Verhällniss zu den nächsten Ange-
+hörigen *), zu Jugendgenossen und Lehrern, zu Goethe,
+Fernow, Majer u. A., sein Eintritt in die Welt, seine
+Stellung zu derselben, seine Lebensführung und seine
+
+
+*) Bei dieser Gelegenheit sei bemerkt, dass, unter andern
+sinnstörenden Druckfehlern, auf Seite 5, Zeile 16 meiner Schrift
+in Bezug auf Schopenhauer's Vater, statt über der mitt-
+lem Grösse, unter der mittlem Grösse steht. Heinrich Floris
+Schopenhauer war ein Mann von imposanter Statur.
+
+
+22
+
+Studien, dies alles als maassgebend für die Gestaltung
+der ganzen Persönlichkeit, ist von Werth und allge-
+meinem Interesse. Und dies fügte ich, in gedrängter
+Darstellung, auf wenigen Seiten zusammen, aus den
+Memoiren seiner Mutter, aus dem Munde Schopen-
+hauer's selbst, aus Zeugnissen noch lebender Bekann-
+ten der Familie, aus den Briefen an Schopenhauer, die
+mir alle vorlagen und die ich selbstredend für die Dar-
+stellung des späteren Lebens ebenso gut benutzen
+konnte , wie für die der Jugendzeit. Dagegen der
+zweite Theil: sein Bekanntwerden mit dem Doctor in-
+defaligabilis unddindeTen für seine Philosophie Propaganda
+machenden Literaten, die Concepte der Briefe an den
+Verleger seines Werks mit allen Varianten, sein ürtheil
+über den Roman „Sturm und Compass" von Frau
+Dr. Lindner und die „Geschichte der ersten stehenden
+deutschen Oper" von Ernst Otto Lindner, seine „be-
+zaubernde Liebenswürdigkeit" gegen Herrn Dr. Lindner
+und Gemahlin , die obligaten Danksagungen für die
+Artikelchen der „Berliner Feuerspritze" und der Tante
+Voss, die Correcturen englischer und italienischer üeber-
+setzungsproben des Doctor indefatigahilis und ähnliche
+Memorabilien aus Schopenhauer*s Papierkorbe, item
+erste Begegnung, Unterhaltung und Correspondenz mit
+dem *Erzevangelisten Frauenstädt, wie er ihn neben
+sich auf das Sopha setzen liess (S. 136), wie er sein
+barsches Naturell gegen ihn herauskehrte (S. 158),
+
+
+23
+
+ingleichen gute Dienste, Belohnung, Zurechtweisung und
+endliche Verabschiedung desselben (S. 712) — diese
+ganze „Reihe von äusseren Lebensmomenten" habe ich,
+nicht „aus Unkenntniss ", .denn es war mir dies und
+mehr dieser Art während eines siebenjährigen Umgangs
+mit Schopenhauer übergenug bekannt geworden, son-
+dern mit Absicht übergangen, weil ich dafür hielt, dass
+sie nicht allein für die Darstellung der Hauptsache
+keinen Werlh haben, sondern deren Wirkung sogar
+entschieden beeinträchtigen und Schopenhauer in falsches
+Licht stellen könnte.
+
+Wie wohlbegründet diese meine Besorgniss gewe-
+sen, liegt nach der „Vertheidigung" der beiden Evan-
+gelisten für Freund und Feind offen zu Tage. Noch
+ist mir kein ürtheil darüber zu Gesicht gekommen, das
+es im Zweifel Messe. Eine Recension in der Süd-
+deutschen Zeitung (1863, Nr. 169) beginnt mit den
+Worten: „In der von Frauenstädt unterzeichneten Vor-
+rede zu dem merkwürdigen Buch, von dem wir hier
+reden, heisst es: «Schopenhauer hat zwar aufgehört,
+ungekannt zu sein, aber nicht, verkannt zu werden.
+Da ich es nun zuerst und zumeist gewesen bin, der
+seinem Ungekanntsein ein Ende gemacht hat, so halte
+ich es jetzt für meine Aufgabe, auch seinem Verkannt-
+werden ein Ende zu machen. Gwinner's Buch über
+ihn konnte dies nicht leisten, denn obwohl es ein sehr
+Schätzenswerther und verdienstlicher Beitrag zur nähern
+
+
+24
+
+Kunde des Lebens Schopenhauer's ist, so ist es doch,
+was die richtigere und tiefere Würdigung seiner Per-
+son und Lehre betrifft, so mangelhaft, dass'es, anstatt
+dem Verkennen Schopenhauers entgegenzuwirken, viel-
+mehr demselben noch in die Hände gearbeitet hat.
+Auf Gwinner's Buch konnten sich getrost alle jene
+Gegner Schopenhauer's berufen, die schon seit lange
+bemüht sind, ihn als einen Sonderling bei Seite zu
+schieben. » Wir müssen gestehen, diese Wirkung der
+Gwinner'schen Schrift scheint uns sehr mild zu sein
+im Vergleich mit der, welche das vorliegende Buch
+nothwendig hervorbringen muss. Denn es wird wohl
+dem üngekanntsein Schopenhauer's in dem Grade ein
+Ende machen, dass die Nachsicht, mit welcher man
+bisher die Philosophie und den Charakter des Mannes
+um seiner grossen Begabung willen zu beurtheilen ge-
+neigt war, aufhören muss. Was diese Nachsicht schon
+beim Lesen der Werke Schopenhauer's sehr erschwerte,
+fand sich dort wenigstens durch Bände vertheilt; hier
+aber steht es auf einem Haufen zusammen. Die per-
+sönlichen Eigenschaften Schopenhauer s : seine Eitelkeit
+und sein nichts achtender, nichts schonender Ehrgeiz,
+seine Menschenverachtung und Lieblosigkeit, seine Ge-
+meinheit und Rohheit, seine undeutsche Gesinnung,
+•sein Hochmuth, endlich sein Fanatismus, dem es nicht
+um philosophische Forschung und Wahrheit, sondern
+um Propaganda für eine trostlose Lehre zu thun ist,
+
+
+25
+
+die sich auf den Trümmern occidenlalischer Bildung,
+Gesittung und Religiosität erheben soll: aUe diese Eigen-
+schaften treten hier auf das unverhohlenste hervor." —
+In der Beilage zu Nr. 96 der Augsburger Allgemeinen
+Zeitung heisst es: „Die beiden Herren (Lindner und
+Frauenstadt) geben sich die Miene" — sehr richtig,
+denn in Walirheit sind die Motive nur verletzte Eitel-
+keit und Buchmacherei — „des Unwillens gegen Gwin-
+ner's verdienstvolle Biographie Schopenhauer's, als er-
+scheine der Meister in derselben nicht in günstigem
+Lichte. Dies klingt wie Ironie, wenn man nun die
+mitgetheilten Briefe des Alten zur Hand nimmt, die
+durchweg von dem Geisle polternder, unduldsamer
+Eigenliebe eingegeben sind und in ihrem fanatischen
+Selbstlob eine wahrhaft hässliche Gemüthsstimmung ent-
+hüllen." In einem längern Aufsatze im Frankfurter
+Conversationsblatte, 1863, Nr. 84— 88: „Die Apotheose
+Schopenhauer's durch Lindner und Frauenstadt", sagt
+Dr. Adolf ComiU u. a.: „Gwinner's Biographie soll in-
+discrete Rückschlüsse auf den Charakter Schopenhauer's
+hervorrufen, wie Lindner tadelt. Bei dieser Apologie
+sind solche Rückschlüsse allerdings nicht mehr nöthig.
+Welch ein Bild entrollt sich hier in den zur Glorification
+Schopenhauer's mitgetheilten Briefen vor unsern Augen!
+Ein Philosoph, der in den Werken der Zeitphilosophen
+und Zeitschriften nur die auf ihn bezüglichen Stellen
+liest und unruhig ist bei dem Gedanken, dass noch ein
+
+
+26
+
+Viertel mehr über ihn geschrieben sein könnte, als was
+der unermüdliche Eifer seiner in der Metropole der
+Intelligenz alles überwachenden Jünger zu verschaffen
+weiss! Ein Philosoph, welcher einen Mann für geist-
+reich erklärt, und findet, dass er sich gut auszudrücken
+wisse, wenn er ihn lobt, ihm beistimmt oder seinem
+glänzenden Stile eine leichte Verbeugung macht; und
+dann denselben Mann verspottet und verschmäht, wenn
+er eine andere Ansicht zu haben wagt! Ein Philosoph,
+welcher den tief unter ihm im Staube dahinkriechenden
+Denkern seiner Zeit, statt sie über die Irrthümer zu
+belehren, gleich einem Thersites eine wahre Fluth so
+gemeiner Schimpfworte entgegenschleudert, dass das
+Zartgefühl seines Frauenstädt sie abzudrucken Anstand
+nahm*); während er sich selbst in seiner schwindeln-
+den Prophetenhöhe an den bald zart andeutend ent-
+lockten, bald barsch ancommandirten Trompeten- und
+Paukentuschen seiner Propagandisten ergötzt! Ein
+Philosoph, welcher nur die Perfidie eines absichtlichen
+
+
+*) Dr. Cornill spendet hier dem Erzjvangeiisten unver-
+dientes Lob; denn derselbe druckt jedesmal die Anfangs-
+buchstaben der Kraftausdrücke ab, unter Beifügung der
+nöthigen Punkte, sodass jeder Schulknabe solche auf den ersten
+Blick errathen kann. Der Doctor indefatigahUis freilich gibt
+den vollen Nennwerth der „Hundsfötter", „Schufte" u. s. w.,
+wie er denn überhaupt seinen Gesellschafter an Blödigkeits-
+mangel weit übertrifft.
+
+
+27
+
+Secernirens und Secretirens darin erblickt, dass seine
+trübselige Well- und Menschen Verachtung nicht aufzu-.
+kommen vermochte neben der sittlich prophetischen
+Begeisterung Fichte's, neben dem religiös ästhetischen
+Naturmysticismus Schelling's und neben dem zu einer
+grossartigen historischen Weltanschauung sich erhebenden
+Systeme Hegers; welcher dagegen die Vorboten einer
+neuen Aera der Philosophie in den Gratulationsbriefen
+und Geburtstagssträussen derer sah, die ihren Huldi-
+gungen gegen ihn keinen bessern Ausdruck zu geben
+wussten! Ein Philosoph, welcher den Triumph seiner
+Lehre von tanzenden Tischen, magnetischen Abenteuern,
+Geistergeschichten und bedeutungsvoUen Träumen er-
+wartete; und das zu einer Zeit, wo die Welt philoso-
+phischer Ideen durch die mechanisch-chemischen Theo-
+rien der modernen Naturwissenschaft in ihren tiefsten
+Grundfesten erschüttert wurde! Einen Dove schiebt
+er als „eitlen Gecken" einfach bei Seite, weil dieser
+die Schopenhauer'sche, d. h. die Goethe'sche Farben-
+lehre mit seinen physikalischen Gesetzen nicht in Ein-
+klang zu bringen vermag. Einem Helmholtz gegenüber
+bläht sich sein Selbstgefühl zu einem Montblanc auf
+und blickt verächtlich auf diesen „Maulwurfshügel"
+herab, der sich untersteht, nicht ihm, sondern Kant
+seine Theorie der sinnlichen Wahrnehmung zuzuschrei-
+ben, welche doch beide von Berkley entlehnt haben.
+Humboldt „die alte Troddel" brummt er an, weil er
+
+
+28
+
+von Schopenhauer*s Welt als WiUe und Vorstellung
+nichts weiss. In einem solchen Lichte zeigt uns die
+Apotheose den Philosophen. Dies ist das Urbild, wel-
+ches die Apologeten dem Biographen entgegenhalten.
+Mit welcher Sehnsucht werden die Verehrer Schopen-
+hauer's nach dem durch Freundesauge verklärten Bilde
+des letztern zurückgreifen!"
+
+Eine Kritik des Gesellschaftswerks in der Berliner
+Allgemeinen Zeitung vom 2. und 5. August 1863 schliesst
+mit den Worten: „Wir müssen hier den Briefwechsel
+mit Frauenstädt *) erwähnen, welcher dem vorliegenden
+Buch beigegeben ist. Nicht leicht hätte etwas gesche-
+hen können, was dem Ruhm Schopenhauer's schädlicher
+gewesen wäre, als die Veröffentlichung dieser Corre-
+spondenz. Von der moralischen Seite reden wir nicht.
+Und zwar rechnen wir zu ihr auch das maasslose,
+böswillige Reden über alle Zeitgenossen, und zwar aus-
+nahmslos, welche auf dem gleichen wissenschaftlichen
+Gebiet mit ihm arbeiten. An Gehässigkeit übertrifft
+die Publication in dieser Beziehung alles, was litera-
+rische Indiscretion in den letzten Jahren gesündigt hat.
+Aber diese Seite der Correspondenz, wie nachtheihg
+sie auch Schopenhauer in Bezug auf die Beurtheilung
+seiner Person sein wird, soU uns auch hier nicht be-
+
+
+*) Auf die Correspondenz mit dem Unermüdlichen passt
+alles Folgende ebenso gut.
+
+
+29
+
+schäftigen, obwohl sie uns von dem Herausgeber ge-
+wissermaassen aufgedrungen wird. Hier konnte man
+ohnehin nach den Proben in seinen Werken schon
+Aehnliches erwarten. Dagegen hat, soweit hin wir Ur-
+theile gehört haben, die Nichtigkeit dieser Correspondenz
+die grösste Verwunderung erregt. Literarischer Klatsch,
+Aufstöbern, Ueberschicken und Leetüre von Schopen-
+hauer erwähnenden SteUen, das Verfolgen aUer Zu-
+stimmenden und Einspruch Erhebenden bildet den we-
+sentlichen Inhalt dieser Briefe. Hierbei kommen dann
+wunderliche Dinge vor. Schopenhauer beklagt sich bei
+seinen Aposteln, dass gewiss noch immer sein Name
+m Zeitschriften und Büchern vorkomme, ohne von
+ihnen überall aufgespürt worden zu sein. Er beantwortet
+ihre Einwendungen in einer Weise, welche selbst den
+die Briefe Durchlesenden empört. Sonderbare Schüler
+treten auf. So wird an einer Reihe von Stellen als
+ein Hauptverehrer der Pfarrer G . . . genannt: wir kön-
+nen dem Herausgeber, falls derselbe davon nicht unter-
+richtet sein sollte, mittheilen, dass derselbe zu jener
+Zeit bereits an partialem Wahnsinn litt, wie er denn
+auch später dem Irrenhause übergeben werden musste.
+Wer dagegen von einem Philosophen erwarten würde,
+dass, worüber er auch rede, ein den Sachen und der
+wissenschaftlichen Wahrheit allein zugewandtes Auge
+hervortrete, dass man sich mit ihm überall, wie auf
+einer Höhe befinde, welche die grösseren Linien in den
+
+
+30
+
+Begebenheiten der Zeit klar hervortreten lasse, und
+wer nach der Erhabenheit von Schopenhauer's Jugend-
+werke gerade von ihm diesen weiten, die Dinge zu-
+sammenschauenden Blick erwarten würde, der mag sich
+nur erst, bevor er diese Briefe liest, recht deutlich
+machen, wie viel Ursachen ein Philosoph haben
+kann, Correspondenzen zu führen und auch
+solche, die gar nicht mit seinem innersten
+Leben zusammenhängen, damit er nicht härtere
+Rückschlüsse als billig von dem Ton dieser Briefe auf
+die weltüberschauende Erhabenheit von Schopenhauer's
+Jugendwerk mache."
+
+Das also wäre der saubere Gewinn der „Vertheidi-
+gung" des Doctor indefatigabilis und der „Ergänzun-
+gen" des Erzevangelisten, welcher mir vorhält, ich
+hätte „nur die Warzen und Finnen" meines Originals
+getreu wiedergegeben, und es ihm überlassen, „den
+eigentlichen Geist und die charakteristische Schönheit
+desselben*^ zur Anschauung zu bringen (Vorrede, S. rv) !
+Es darf hierbei nicht ausser Acht gelassen werden,
+dass es sich grösstentheils um die Veröffentlichung von
+Briefen und Nachlassstücken handelt, welche nach der
+Absicht des Verstorbenen niemals gedruckt werden
+sollten. Herr Dr. Frauenstädt erklärt zwar vorsorglich :
+„Ein Verbot Schopenhauer's, seine an mich gerichteten
+Briefe zu veröffentlichen, existirt nicht. Weder in seinem
+Testament, noch brieflich, noch mündlich hat er mir
+
+
+31
+
+untersagt, nach seinem Tode seine Briefe zu veröffent-
+lichen. Nur bei seinen Lebzeiten wollte er dieselben
+nicht veröffentlicht sehen. Ein angeblich an Andere
+gerichtetes Verbot der Veröffentlichung seiner Briefe
+kann ich nicht auf mich beziehen, da mir Schopen-
+hauer zu nahe gestanden und zu gut gewusst hat, dass
+ich die meisten und bedeutendsten (!) Briefe von ihm
+habe, als dass er ein Verbot ihrer Veröffentlichung an
+einen Andern, als an mich selbst adressirt haben sollte.
+Ich kann daher etwaige Proteste gegen die hier vor-
+liegende Veröffentlichung, die sich auf Schopenhauer
+berufen, nicht anerkennen." Allein hofft Herr Frauen-
+stadt in der That mit diesen Phrasen den schreienden
+Missbrauch, den er und sein Gesellschafter mit dem
+Vertrauen des Heimgegangenen treiben, beschönigen zu
+können?
+
+Dr. Ldndner erwähnt eines „sehr bedeutenden"
+Briefwechsels, den Schopenhauer mit Becker geführt
+habe, und giebt sich dabei die Miene sittlicher Ent-
+rüstung, dass meine Lebensskizze nichts von diesem
+Briefwechsel berichte. Ich habe die Briefe Becker's
+vor Augen gehabt und Schopenhauer's Antworten zum
+Theil aus dessen eigenem Munde kennen gelernt, kann
+also bestätigen, dass diese, in das Greisenalter Scho-
+penhauer's fallende Correspondenz, obwohl sie naturge-
+mäss weder auf die Charakterbildung, noch auf die
+Lehrbildung Schopenhauer's einen solchen Einfluss üben
+
+
+32
+
+konate, dessen in einer blossen Skizze seines Lebens
+besondere Erwähnung zu thun gewesen wäre, doch
+in einigen Briefen interessante Erörterungen über Scho-
+penhauer's Lehre bietet, sodass Schopenhauer selbst
+auf diese Briefe Becker's und seine Antworten insofern
+höheren Werth legte, als er mit seinen übrigen Be-
+kannten davon sprach, denselben daraus Mittheilungen
+machte,- und sie das Beste nannte, was über seine
+Philosophie von andern und ihm selbst in Briefen
+niedergelegt sei. Wie sehr ihm gleichwohl der Gedanke
+an deren Veröffentlichung widerstrebte, beweist die
+Antwort, die er einem seiner Verehrer, Herrn Dr. Bahn-
+sen in Lauenburg, welcher den Wunsch einer Abschrift
+dieser Briefe geäussert, gegeben hat. Sie lautet wört-
+lich: „Jedoch bitte ich Sie, den Wunsch nach einer
+Abschrift der bewussten Gorrespondenz aufzugeben, da
+ich eine Vervielfältigung derselben nicht gern sehen
+würde, weil Abschrift neue Abschrift erzeugt, und end-
+lich eine dergleichen doch an den Mann kommen würde,
+der sie einem Verleger zum Drucke verkaufte, was ich
+nicht will, da es ohne Vorbedacht und Sorg-
+falt hingeworfene Briefe sind. Sie verlieren
+wahrlich nicht viel daran: denn dieselben ent-
+halten durchaus keine neuen Gedanken, als welche ich
+nicht an Privatcorrespondenzen verschwende." Ganz
+in demselben Sinne hat sich Schopenhauer mir gegen-
+über in Bezug auf alle seine Briefe ausgesprochen.
+
+
+33
+
+Nun will ich zwar hieraus nicht folgern, dass ein«^
+nach dem Heimgange Schopenhauer's aus dessen ge-
+sammter Correspondenz getroffene vorsichtige, spar-
+same Auswahl, zu welcher neben Anderen auch die
+Herren Fraueqstädl und Lindner ihr Contingent steilen
+durften, eine tadelnswerthe Publication gewesen wäre;
+es wird aber doch dadurch über allen Zweifel erhoben,
+wie Schopenhauer über die Veröffentlichung der Brief-
+concepte an seinen Verleger (vollends mit wieder
+ausgestrichenen, nicht einmal an den Adressaten gelangten
+Einfällen), sowie der meisten von den beiden Evan-
+gelisten ans Licht gezogenen vertraulichen Expectora-
+lionen gedacht haben würde. Dass er beim Nieder-
+schreiben dieser achtlosen, nur das flüchtige Gespräch
+vertretenden Privatissima, wenn ihm der Gedanke an
+
+- die Unermüdlichkeit seiner Propagandisten gekommen
+wäre, mit Unwillen zurückgefahren wäre und neun
+Zehntel davon ins Feuer geworfen, das übrige Zehntel
+aber anders gefasst hätte, bedarf keiner Ausführung.
+Der Erzevangelist war daher gleich nach Schopenhauer's
+Tode dringend zur Vorsicht ermahnt worden, und ich
+durfte eine gewisse Zurückhaltung in dieser Richtung
+gerade von seiner Seite um so mehr erwarten, als mir,
+aus dem Munde seines Meisters selbst, nicht unbekannt
+geblieben, welcher Art sein Verhältniss zu diesem im
+Grunde gewesen und wie es sein eigenes Interesse
+
+gebot, die verborgenen Falten desselben der Welt nicht
+
+(iTw inner, Schopenhauer u. s. Freunde. 3
+
+
+34
+
+aufzudecken. Hierüber mich deutlicher auszusprechen,
+ist mir durch die Veröffentlichung sämmtlicher Briefe
+Schopenhauer's an Herrn Dr. Frauenstadl erspart: denn
+die Welt ist durch dieselben vollkommen in Stand ge-
+setzt, zu beurtheilen, ob es billig und recht von mir
+gewesen, von diesem Verhältnisse in meiner Lebens-
+skizze nicht mehr zu sagen, als dass Hr. Dr. Frauen-
+städt das Verdienst habe, dem deutschen Publikum
+zuerst die Augen über Schopenhauer geöffnet zu haben
+(S. 103 m. Schria).
+
+In dieser Hinsicht ist seine Publication in der That
+nicht etwa nur „auffaUend" und „bedenklich", sondern
+psychologisch räihselhaft. Nur ein blinder „Wille zum
+Leben" (von der Buchmacherei) kann es erklären, wie
+sich Herr Dr. Frauenstädt in der Selbsttäuschung so
+weit versteigen konnte, zu wähnen: „Aus meinen vor-
+liegenden Memorabilien und den auf diese* folgenden
+Briefen wird man aber ersehen, dass mein Verhältniss
+zu Schopenhauer denn doch ein Mehreres zu bedeuten
+hatte, dass es nämlich eines jener echten und frucht-
+bringenden Freundschaftsverhältnisse war, wie sie jetzt
+nur noch selten exisliren." Selten, wahrhaftig, wird
+dieses Verhältniss immer bleiben! „Niemand", sagt
+Dr. Cornill a. a. 0., „kann ihm (dem Erzevangelisten)
+seine Bewunderung versagen, der ihn seinen von des
+Meisters Geisseihieben blutenden eigenen Rücken vor den
+Augen der Welt ajisstellen sieht." Bereits in der ersten
+
+
+35
+
+Zeil ihres persönlichen Bekanntwerdens kehrt Schopen-
+hauer (dessen „bezaubernde Liebenswürdigkeit gegen
+ihm in irgendeiner Beziehung näher stehende Naturen"
+in meiner Charakterschilderung übergangen zu sehen
+den Doctor iiidefatigahilis so sehr entrüstet) sein
+„barsches Naturell" gegen ihn heraus und schreckt ihn
+„durch die etwas heftige Art", wie er ihm „zu verstehen
+giebt, dass man nicht nach Belieben bei ihm Audienz
+habe", so ab, dass er „vorerst seine Schwelle nicht
+wieder betritt, sondern abwartet, ob er ihm selbst
+Audienz geben würde" (Memorabilien, S. 158). Das
+stört indessen den gedeihlichen Fortgang des Verkehrs
+nicht, vielmehr versichert der Erzevangelist gleich hinter-
+her, er sei infolge desselben mit Schopenhauer „so
+intim befreundet geworden und diese Freundschaft habe
+sich später in Schopenhauers Briefen und Vermächt-
+niss" *) so fortgesetzt, dass er wohl ohne Uebertreibung
+annehmen dürfe, keiner habe ihn so nahe kennen
+
+
+*) Dieses Vermächtniss stammt aus dem Jahre 1852. Zu
+Anfang des Jahres 1859 besprach Schopenhauer dasselbe
+mit mir in einer Weise, dass es nur eines Wortes von mir
+bedurft hätte, dessen Abänderung zu bewirken. Aber ich
+bestärkte ihn vielmehr darin, weil das Verdienst Frauen-
+städt's um Schopenhauer von diesem dankbar anzu-
+erkennen war, und weil ich mich, da ich der Lehre Scho-
+penhauer*s nicht anhänge, zur Uebemahme des wissenschaft-
+lichen Nachlasses nicht für berufen hielt.
+
+3*
+
+
+36
+
+gelernt, keiner so tiefe Blicke in das Wesen seines
+Geistes und Charakters gethan als er.
+
+Dieser Versicherung Credit zu verschaffen, sind die
+mitgetheilten Briefe Schopenhauers vorzüglich geeignet.
+Bereits 1852 schreibt ihm derselbe: „Ich muss, mein
+werthor Freund, mir alle Ihre vielen und grossen Ver-
+dienste um die Verkündigung meiner Philosopliie ver-
+gegenwärtigen, um nur nicht ausser aller Geduld und
+Fassung zu gerathen bei Ihrem letzten Briefe. Das
+Aergste ist, dass ich sehen muss, wie die schöne .Zeil
+und Mühe, die ich an Beantwortung Ihrer zwei vor-
+hergegangenen Briefe gewendet hatte, ganz verloren ist;
+indem von allem, was ich gesagt, was ich citirt habe,
+gar keine Noiiz genommen wird, um nur ungestört
+fortfahren zu können in jener wahren Begeisterung von
+Absurdität" (S. 553). „Wollen Sie Ihre Skepsis vor's
+Publikum bringen, um. zu zeigen, dass Sie meine
+Philosophie gepriesen haben, ohne sie zu ver-
+stehen; so kann ich Ihnen dieses so wenig verwehren
+als anrathen. Nur mir kommen Sie nicht mehr da-
+mit: ich bin es müde, mich über Miss Verständnisse
+und Missdeutungen zu ärgern und den Augiasstall
+auszumisten, kann meine edle Zeit besser anwenden,
+sende daher Ihre Commentarien ungelesen
+zurück und bitte ernstlich, mich mit allen ferneren
+Scrupeln und Bedenken ganz zu verschonen" (S. 556).
+Ferner 1855: „üeberhaupt sollten Sie nie vergessen,
+
+
+37
+
+dass Ihr Hauptver dienst um Philosophie und Lite-
+ratur, welches bleiben, vielleicht selbst Ihren Namen
+perpetuiren wird (!), dies ist, dasö Sie zuerst, mit grossem
+Nachdruck und seltner Beharrlichkeit, meiner Philo-
+sophie Eingang "verschafft haben, — was
+Dorguth vor Ihnen vergeblich versucht hat. Sie haben
+dadurch nicht bloss um mich, sondern um diese Gene-
+ration sich verdient gemacht. Das sollten sie fest-
+halten und nie aus dem Charakter fallen, dem
+eines treuen Evangelisten."
+
+um diesen Ton des Meisters gegen den „hochwür-
+digen Erzevangelisten" trotz der „bezaubernden Liebens-
+würdigkeit" Schopenhauer*s, die nach Lindner's Zeugniss
+„jeder verwandten Stimme, auch wenn dieselbe gar
+schwach sein sollte, gern antwortete" (S. 95), besser
+zu verstehen, lese man noch, was Herr Frauenstadt,
+der eriialtenen Lectionen ungeathtet, auf S. 430 vor-
+zubringen naiv genug ist. Dort lautet es in Bezug auf
+die nämliche Frage, welche in den angeführten Briefen
+ventilirt wurde: „Schopenhauer ist durch diese meine
+Opposition genöthigt worden, sich brieflich klar und
+deutlich dahin auszusprechen, dass bei ihm der Wille
+nicht absolut, d. i. im Sinne einer ewigen, unent-
+slandenen und unvergänglichen Substanz das Ding an
+sich sei, sondern nur relativ, d. i. in Beziehung auf
+diese unsere Erscheinungswelt. Meiner erwähnten Oppo-
+sition ist es auch zu verdanken, dass Schopenhauer
+
+
+38
+
+zur zweiten Auflage der Parergä in dem ersten^ara-
+graphen des Kap. 14 des zweiten Bandes: «Nachträge zur
+Lehre von der Bejahung und Verneinung des Willens
+zum Leben» den Zusatz gemacht hat: aGegen gewisse
+alberne Einwurfe bemerke ich, dass die Verneinung
+des Willens zum Leben keineswegs^ die Vernichtung
+einer Substanz besage, sondern den blossen Actus des
+NichtwoUens» u. s. w. „Dass Schopenhauer", fahrt
+Herr Frauenstadt fort, „die Einwürfe, durch die er zu
+diesem Zusätze veranlasst worden, alberne nennt, dies
+beweist nur, ebenso wie die betreffenden Briefe an
+mich, däss solche gegen den Kern seiner Philosophie
+gerichtete Einwürfe ihn borstig machten, aber nicht,
+dass solche Einwürfe an sich albern sind. Denn mit
+dem Ding an sich verbindet man (Hr. Dr. Frauenstädt)
+den Begriff des unzerstörbaren, unentstandenen und
+unvergänglichen ürwefens, der ewigen, den veränder-
+lichen Erscheinnngen zu Grunde liegenden Substanz, und
+Schopenhauer hat sich ja selbst gerühmt, dass die
+Substanz der Pantheisten , ihr unbestimmt gelassenes
+All-Eins, durch ihn als Wille bestimmt worden ist.
+Hätte Schopenhauer von Anfang an in der Welt als
+Wille und Vorstellung klar und deutlich gesagt, dass
+bei ihm der Wille nur relativ das Ding an sich sei,
+oder vielmehr dass er gar nicht das eigentliche Ding
+an sich sei, sondern nur ein Actus desselben, der
+durch den entgegengesetzten Actus des NichtwoUens
+
+
+39
+
+aufgehoben werden kann; so hätte er sich die «albernen
+Einwürfe», dass das Ding an sich als solches unauf-
+hebbar sei, dass also der Wille entweder nicht Ding
+an sich oder nicht aufhebbar sei, erspart."
+
+Hierzu, statt jeden Commentars, zum Beweise da-
+für, was Schopenhauer in der, Welt als Wille] und Vor-
+stellung „klar und deutlich" gesagt hat, ehe er die
+Bekanntschaft des Reformators seines Systems machte,
+beispielsweise eine Stelle aus Bd. 2, S. 202: „Die
+Frage, was denn jener Wille, der sich in der Welt und
+als die Welt darstellt, zuletzt schlechthin an sich selbst
+sei, d. h. was er sei, ganz abgesehen davon, dass er
+sich als Wille darstellt oder überhaupt erscheint,
+d. h. erkannt wird, ist nie zu beantworten, weil, wie
+gesagt, das Erkanntwerden selbst schon dem Ansich-
+sein widerspricht und jedes Erkannte schon als solches
+nur Erscheinung ist. Aber die Möglichkeit dieser
+Frage zeigt an, dass das Ding an sich, welches wir
+am unmittelbarsten im Willen erkennen, ganz ausserhalb
+aller möglichen Erscheinung, Bestimmungen, Eigen-
+schaften, Daseinsweisen haben mag, welche für uns
+schlechthin unerkennbar und unfasslich sind, und welche
+eben dann als das Wesen des Dinges an sich übrig
+bleiben, wann sich dieses, wie im vierten Buche gezeigt
+wird, als Wille frei aufgehoben hat, daher ganz aus
+der Erscheinung herausgetreten und für unsere Er-
+kenntniss, d. h. hinsichtlich der Welt der Erscheinungen
+
+
+40
+
+ins leere Nichts übergegangen ist. Wäre der Wille
+das Ding an sich schlechthin und absolut; so
+wäre auch dieses Nichts ein Absolutes, statt dass es
+sich eben dort uns ausdrücklich nur als ein re-
+latives ergiebt." Diese Stelle ist auch dem Erzevan-
+gelisten einmal bekannt gewesen; denn er citirt sie in
+seinen „Brieren über die Schopenhauer'sche Philosophie",
+S. 334, und fahrt daselbst wörtlich fort: ,,Sie sehen
+also, dass Schopenhauer den Willen nur relativ, d. h.
+nur in Beziehung auf diese unsere, in Raum und Zeit
+sich ausbreitende und dem Causalnexus unterworfene
+Erscheinungswelt für das Ding an sich erklärt, dass
+mithin mit der Aufhebung dieses relativen Wesens der
+Welt nicht alles Sein überhaupt, sondern nur diese be-
+stimmte Weise des Daseins, die der Ausdruck der Be-
+jahung des Willens zum Leben ist, aufljört, dass mithin
+die Verneinung des Willens als des Wesens dieser Welt
+keinen Widerspruch involvirt, so wenig, als es
+z. B. einen Widerspruch involvirt, den kindlichen Willen
+als das Wesen des Kindes anzusehen und doch dieses
+kindliche Wesen nur für ein vorübergehendes zu hal-
+ten, das mit dem Eintritt ins reifere Alter aufhört."
+Unter so bewandten Umständen wird auch dem Blö-
+den die grobe Frakturschrift der Briefe „klar und
+deutlich**!
+
+Im Jahr. 1856 war das seltene Verhältniss so weit
+gediehen, dass der Meister den Schüler bedrohen mussle:
+
+
+41
+
+„Geh' er nur grad, ins Teufels Namen, sonst blas' ich
+ihm sein Flackerleben aus! Ich will, dass Sie mir
+Ehre machen und nicht das Gegenlheil: möge es nie
+dahin kommen, dass ich sagen müssle,- was Voltaire
+dem Spinoza in den Mund legt: fai de plats ecoliers
+et de mauvais critiques.'' Da indessen der Erzevan-
+gelist nicht einsehen will, dass seine Mission erfüllt ist,
+und die Opera el Opuscula, mit welchen er alljährlich
+auf eigene Rechnung zu Markte fahrt, für den Meisler
+kein hinreichendes Incilament zur Fortsetzung der
+Correspondenz bilden "können, bricht Schopenhauer die-
+selbe endlich ab. Drei Jahre später, als die dritte
+Auflage der „Welt als Wille und Vorstellung" erschienen,
+dankt der Erzevangelist für das durch den Verleger
+von Schopenhauer erhaltene Freiexemplar und berichtet
+über seine „fortgesetzte Thäligkeit für seine Philosophie".
+Darauf hat ihm Schopenhauer noch einmal geschrieben
+und die letzten Worte, die er an ihn richtet (6. Dec.
+1859): „Wenn Ihnen etwas (sc. von mir) vorkommt,
+davon Sie glauben, es könne mir unbekannt bleiben,
+werden Sie durch einen Wink darüber sehr verbinden
+Ihren Freund Schopenhauer" — resümiren den wesent-
+lichen Inhalt des ganzen Briefwechsels.
+
+Nicht minder tief und in den gleichen Boden gehen
+die Wurzeln des Seelenaustausches des Doctor inde-
+fatigabüis mit Schopenhauer, wie der Liebhaber solcher
+seltenen Verhältnisse aus den mitgetheilten Briefen des
+
+
+42
+
+Meislers des Näheren zu ersehen im Stande ist. Es
+beweist daher den intuitiven Scharfblick des Unermüd-
+lichen, wenn er die Befürchtung laut werden lässt,
+uneinsichtige,- befangene Leser würden daraus Anlass
+nehmen, ihn als „einen eingebildeten Narren" dar-
+zustellen, „der sich unter der Maske der Freundschaft
+von Schopenhauer habe gebrauchen lassen, um Reclame
+für ihn zu treiben" (S. 124).
+
+Aber diese Briefe Schopenhauer's an die beiden
+Evangelisten bieten mehr als die blosse Klarstellung
+seines Verhältnisses zu denselben; sie enthalten, neben
+vorbedachtlosen, für die Nachwelt nicht bestimmten
+Plaudereien über das Neueste (Magnetiseure, Tisch-
+rücken, Ahnungen u. s. w.), eine schreckenerregende
+Fluth rücksichtsloser Ausfalle gegen eine Reihe noch le-
+bender, mit Namen genannter oder leicht zu errathen-
+der literarischer Persönlichkeiten, überall gehoben durch
+eine gleich imposante Macht von Ausbrüchen der Selbst-
+verherrlichung. Dergleichen kommt bei energischem
+Temperament im vertraulichen Gespräche so oft
+und so leicht vor, dass selbst die edelsten Naturen
+davon nicht frei bleiben. Wer erschrickt nicht vor
+dem Gedanken, schwarz auf weiss zu lesen, was z. B.
+Goethe in dieser Richtung geleistet? Aber niemals ist
+es einem auf seinen guten Ruf bedachten Schriftsteller
+eingefallen, solche Ergüsse des Augenblicks, in dem sie
+allein Entschuldigung finden, als hässliche Denkmäler
+
+
+43
+
+der Sinnesart eines hervorragenden Mannes der Lite-
+ratur einzuverleiben. Solche Gespräche sind diese
+Briefe. Schopenhauer konnte sich, bei seiner isolirten
+Lebensweise, in einer Stadt, die er selbst zum öftern
+ein Abdera nannte, mit deren wissenschaftlichen Nota-
+bilitäten er fßst gänzlich ausser Verkehr stand, oft
+nur durch Scjireiben Luft machen. Leider vergass er
+dabei, dass litera scripta manct, und an wen er
+schrieb.
+
+Wenn es sonach Herrn Dr. Lindner „in der That
+etwas verwunderlich" klingt, dass ich mit meinem
+Charakterbild einen letzten Trumpf Schopenhauer's
+gegen die „Philosophieprofessoren" ausspielen wolle,
+und wenn er gesteht, sich vergeblich bemüht zu haben,
+zu ergründen, welches dieser letzte Trumpf sein solle
+und wie ich denn meinen könne, dass es an den Aus-
+fällen gegen die „Philosophieprofessoren" in Schopen-
+hauer's Schriften noch nicht genug gewesen sei, so
+will ich seinem verirrten Verständnisse mit der nöthigen
+Zurechtweisung aufhelfen. Allerdings ist es ein höchst
+tadelnswerthes und „unglückliches" Unternehmen, den
+Vorrath von persönlichen Invectiven, welche Schopen-
+hauer in seinen Schriften gegen zeitgenössische Philo-
+sophen, gegen Fichte, Schelling, Schlegel, Schleier-
+macher, Hegel, Herbart u. a. angesammelt, dadurch
+über's Zehnfache zu vermehren, dass man „ohne Vor-
+bedacht und Sorgfalt hingeworfene Briefe", in welchen
+
+
+44
+
+sich der Philosoph, in vertraulicher Mittheiluiig, gegen
+eine Reihe noch lebender Schriftsteller aus allen Ge-
+bieten der Literatur in nackten Schimpfworten ergeht,
+der Oeffentlichkeit preisgiebt. Ein solches Verfahren ist
+„um so unverantwortlicher", als damit, neben der Rück-
+sicht gegen die beleidigten Personen, die Rücksicht gegen
+das Andenken Schopenhauers selbst bei Seite gesetzt
+ist. Schopenhauer hat die scharfen persönlichen An-
+griffe in seinen Schriften mit wenigen Ausnahmen
+nicht gegen Lebende gerichtet oder doch diese, so
+lange sie lebten, nicht mit Namen genannt. Und auch
+den vom Schauplatze Abgetretenen gegenüber nahm
+er es mit der Wahl der Ausdrücke genau. Das Schärfste,
+was er je geschrieben, die Vorrede zur Ethik, hat er
+viermal umgearbeitet, ehe er sie zum Drucke hinaus-
+gab. Er schwieg nicht dazu, wenn man bei Citaten
+aus seinen Schriften Stellen dieser Art auch nur un-
+wesentlich veränderte und Hess namentlich keine
+schärfere Ausprägung ungerügt aufkommen. So nahm
+er einst Schelling wegen eines solchen ungenauen Ci-
+tats wider mich förmlich in Schutz. In einem Briefe
+an Frauenstädt rügt er, dass man ihm nachgesagt, er
+habe Hegel einen Pinsel unserer Zeit genannt, was er
+doch nur von den Hegelianern gesagt habe. An einer
+andern Stelle verwahrt er sich gegen die falsche Nach-
+rede, von Leibnitz gesagt zu haben, dass dieser nur
+ein Polyhistor gewesen sei. Ebenso empörte ihn die
+
+
+45
+
+üebertreibung, mit welcher Raumer seine Polemik gegen
+die zweite Ausgabe der „Kritik der reinen Vernunft** re-
+ferirt, indem er ihm nachredet, Kanten „Furcht für
+einen paradoxen Narren zu gelten'* vorgeworfen zu
+haben. Gegen die zuchtlos aufgeschossene Saat aristo-
+phanischer Grobheit aber, welche Schopenhauer der
+„breiigen Toleranz** seines Erzevangelisten gegenüber in
+diesen Briefen cultivirt, sind die schlimmsten Stellen
+seiner Schriften nur zarte Anspielung und feine Ironie.
+Es klingt daher „in der That etwas verwunderlich**, wenn
+der Erzevangelist in seiner Vorrede sagt; „Hätte es
+in meiner Macht gestanden, die vielen in den Briefen
+vorkommenden Angriffe und Invectiven auf Zeitgenossen
+zu unterdrücken, so hätte ich es gethan; denn meine
+Absicht ist nicht, jemanden zu kränken.** Nicht allein
+stand es vollkommen in seiner Macht, es war auch,
+dem heimgegangenen Freunde wie den beschimpften
+Personen gegenüber, seine unerlässliche Pflicht und
+Schuldigkeit
+
+Hiermit gar nichts gemein hat mein unternehmen,
+welches dem Doctor indefatigahilis unverständlich ge-
+blieben, nämlich: die schroffe Ausnahmsstellung, die
+vornehme Einsamkeit, die melancholische Alpenstille
+dieses ganz der Erkenntniss gewidmeten Lebens dem
+grossen Haufen überhaupt und ganz besonders dem
+grossen Haufen derjenigen gegenüber, die sich schon
+
+
+46
+
+deshalb zur Philosophie berufen glauben , weil -sie zu-
+fällig ein Gewerbe daraus machen, auf anderm Wege
+noch, als dies Schopenhauer selbst schon in seinen
+Schriften gethan, durch eine wahrhafte, kernige,
+unvertuschte Skizze seines Charakters ad hominem zu
+demonstriren und lehrreich zu machen. Diese meine
+Absicht habe ich von vorn herein so bestimmt ausge-
+sprochen, dass ausser dem Doctor indefatigabilis y bei
+welchem das velle non discilur im Wege stand, kein
+redlicher Leser darüber im Zweifel sein konnte. Nicht
+weniger einleuchtend ist, dass der letzte Trumpf gegen
+die „Philosophieprofessoren" einfach in dem Vergleiche
+liegt, den jeder derselben zwischen sich selbst und
+diesem, wie immer einseitigen und an der Welt irre
+gewordenen, doch wahrhaft hochgearteten Geiste anzu-
+stellen vermag. Selbst wenn meine Darstellung dahin
+führte, dass ein solcher Vergleich in den Augen der
+Meisten zu Schopenhauer's Ungunsten ausfallen müsste,
+würde ich deshalb meine Aufgabe im Sinne meines
+Freundes keineswegs verfehlt haben, indem ich aus-
+schlieslich diejenigen Züge seines Charakters, welche in
+seinem Denken und Thun zeitlebens den Ausschlag
+gaben, ans Licht gestellt und nicht wiederum durch
+hors d' Oeuvres unwirksam gemacht hätte. Da weder
+Lindner noch Frauenstädt diese meine Darstellung in
+irgendeinem Punkte thatsächlich zu berichtigen ver-
+
+
+47
+
+mochte*); da sie nicht leugnen konnten, dass alles,
+was ich von Schopenhauer angebe, der Wahrheit ent-
+spricht, und nur über angebliche ünvollständigkeit und
+einseitige Beleuchtung Beschwerde führen, so kann
+ich, die Darstellung des allseitigen und vollständigen
+Schopenhauer ihren Gaben überlassend, sie zum we-
+nigsten darüber beruhigen, dass der scheinbare Grund
+ihrer Klage — ich meine die Schmähungen, zu denen
+Klatschblälter längst wurmstichiger Literaten meine
+Schrift auzubeuten beliebten — Schopenhauer gerade
+so wenig angefochten hätten, wie mich selbst; dass er
+im Gegentheil in diesen Angriffen gegen seinen mora-
+lischen Charakter nur eine neue Genugthuung für seine
+
+
+*) Doch, in Einem Punkte! Ich hätte „etwas leichtfertig,
+vielleicht auf Grund unbestimmter Mittheilungen** drucken
+lassen, dass Herr Wiesike auf Plauerhof für ein Porträt
+Schopenhauer*s eine besondere Kapelle habe bauen lassen,
+was demselben niemals in den Sinn gekommen sei (S. 99).
+Weshalb verweist aber der Unermüdliche nicht auf die be-
+stimmte Mittheilung Schopenhauer's selbst, welcher dem
+Erzevangelisten unterm 17. August schreibt: „Das Unerhör-
+teste aber ist, dass er (Wiesike) mir und dem Maler sehr
+ernsthaft gesagt hat, er wolle für dieses Bild ein eigenes
+Haus bauen, darin es hängen soll! Das wäre dann die erste
+mir errichtete Kapelle. Recitativo: Ja, ja, Sarastro herrschet
+hier! Und anno 2100? . .** (Steht zu lesen S. 658.) Der
+Leser mag ermessen, wer hier leichtfertiger hat drucken
+lassen, ich oder die Evangeüsten.
+
+
+. 48
+
+ebenso intensive als lebhafte Äntipalhie gegen diese
+ganze Rasse gefunden hätte.
+
+Nicht minder unverstandlich erscheint es Herrn
+Dr. Lindner, wie ich das Einsamkeilsgefühl Scho-
+penhauer's zur Grundlage von dessen Charakter
+machen wolle. Ich habe nämlich gesagt: Nie hat ein
+Mensch, obgleich mitten in der Gesellschaft
+stehend und vertraut mit allem, was sie trägt,
+sich einsamer gefühlt als Schopenhauer. Der indische
+Anachoret ist ein geselliges Wesen im Vergleiche mit
+ihm: denn jenem ist seine Einsamkeit accidentell
+oder beruht doch nur auf praktischen Motiven; ihm
+dagegen war sie essentiell und das Resultat der Er-
+kenntniss. Daher erreichte dieses Gefülil in seinem
+Bewusstsein eine intensive Stärke, die es mit dem der
+blossen Abgeschiedenheil von aussen nicht vergleichen
+lässt. — Hierauf nun fragt der Unermüdliche: „Was
+ist das für eine Art von Abgeschiedenheit, die fort-
+während mit den erleuchtetsten Geistern, Philosophen,
+Dichtern und Mystikern aller Jahrhunderle verkehrt, —
+die an den wissenschafilichen und socialen Ereignissen
+der unmittelbaren Gegenwart den lebendigsten Antlieil
+nimmt, ^~ ^ie an dem Genüsse der Natur wie der
+darstellenden Kunst sich ergötzt und erfrischt, — die
+jeder verwandten Stimme, auch wenn dieselbe gar
+schwach sein sollte, gern antwortet, — die endlich
+auch des allgemein Menschlichen nicht vergisst, in der
+
+
+49
+
+reichlichen, regelmässigen Spende an Arme und Hülfs-
+bedurftige, — ja die in Erweiterung der christlichen
+ayaTUY] an dem Münchener Verein gegen die Thierquäle-
+rei Antheil nimmt (!) und in feurigen Zorn ausbricht
+bei der Wahrnehmung jeglichen Unrechts, was Mensch
+oder Thier widerfahren kami?" Es ist also vergeblicli,
+dass man dem Verständnisse des Unermüdlichen mit
+dem Scheuerlhore winkt! Damit er aber nicht ver-
+einsamter und abgeschiedener auf dieser Bildungsstufe
+stehe, als Schopenhauer auf der seinigen, will ich ihm
+mit dem Urtheil eines gleich erleuchteten Tischgenossen
+Schopenhauer's an Händen gehen, welcher in der frank-
+furler „Didaskalia" (1863, Nr. 129) seine „Memorabi-
+lien" auflischt und sich also vernehmen lässt: „Höchst
+merkwürdig ist es in der Thal, wie man Schopenhauer
+einer einsiedlerischen Zurückgezogenheit hat beschuldigen
+können. Er erschien täglich an der Tafel eines frc-
+quenten Gasthofs; er besuchte täglich das Lesecabinet
+des Casinos; er ging nicht selten in öffentliche Gärten,
+woselbst zahlreiche Gesellschaft bei Militärmusik sich
+versammelte; er liebte das Theater, solange er noch
+besser hörte, und speiste jeden Abend in dem vor-
+erwähnten Gasthofe zwischen 9 und 11 Uhr zu Nacht!"
+Man sieht, Arm in Arm miteinander können diese bei-
+den Freunde Schopenhauer's nicht mich allein, sondern
+ihr Jahrhundert in die Schranken fordern.
+
+„Aber", sagt der Unermüdliche: „zugegeben, dass
+
+Gwinner, Schopenhauer u. s. Freunde. 4
+
+
+#-*
+
+
+50
+
+alle Einzelnheiten, die Herr Dr. Gwinner auf dem
+groben Faden seiner Erzählung aneinander reiht, voll-
+kommen richtig seien, so erscheint Schopenhauer doch
+dadurch nur in einseitiger und ungünstiger Beleuchtung.
+Schopenhauer erscheint mir in dieser Biographie gleich
+einem Wachsbilde, behangen mit Kleidungsstücken, wie
+sie der Verstorbene zu tragen pflegte; aber niemand
+vermag aus der Aehnlichkeil dieser Maske auf die le-
+bendigen Mienen des Originals zu schliessen; niemand
+wird durch diesen starren Augapfel die Tiefe und
+Klarheit, die strahlende Wahrheitsliebe und die feurige
+Begeisterung für das erkannte Richtige und Rechte,
+welche aus den blauen Augensternen des aVerhärteten»*)
+strahhen, auch nur annäherungsweise wahrzunehmen
+vermögen" (S. 17). Meine Darstellung und Beurtheilung
+Schopenhauer's „gleicht jenen Gemälden, auf denen der
+Maler, statt die darzustellenden Personen selber in^
+voller Kraft und Bedeutung abzuschildern, einen dürf-
+tigen mageren Abriss ihrer Figuren giebt; damit man
+aber erkenne, um wen und um was es sich handle,
+lässt er ihnen lange Zettel mit der oder jener ihrer
+Aeusserungen aus dem Munde hängen" (S. 96). Ja,
+noch besser! Andere behaupten, ich hätte Schopen-
+hauer zu sehr idealisirt und ins Schöne gesehen. So
+
+
+*) Wiederum Anführungszeichen, als ob ich diesen Aus-
+druck gebraucht hätte!
+
+
+51
+
+z. B. Prof. Leo in der Evangelischen Kirchenzeilung, 1862,
+Nr. 81: „Schopenhauer steht ihm so erhaben, dass
+auch dessen Fehlgriffe nur zu seinem Glänze beilragen
+können.** Der Unermüdliche aber, weicher im Bunde
+mit dem Erzevangelisten Jedenfalls die letzte Illusion
+über den idealisirten Schopenhauer zerstört hat, findet
+das Gegentheil. Ausgehend von der Behauptung, in
+meiner Darstellung sei das von Schopenhauer gebrauchte
+Wort bipedes „bis zum Ekel wiederholt" — was bei-
+läufig gesagt nicht wahr, und wenn es wahr wäre,
+noch lange nicht so ekelhaft ist, wie das „Kröten- und
+Otterngezücht**, die „Hundsfötter**, „Schufte**, „Lumpen**,
+„Strohköpfe", „nichtswürdigen Obscuranten** u. s. w.,
+welche die Evangelisten aus ihres Meisters Munde in
+die Oeffentlichkeit zu tragen keinen Anstand genommen
+haben — , fahrt er fort: „Aber das ist eben modern;
+das ist der angebliche grosse Fortschritt, der gegen-
+wärtig gemacht worden ist, dass man, im Gegensatz
+zu den Alten, nicht mehr künstlerisch «idealisirt», son-
+dern die Wirklichkeit» wiedergiebt; das ist so die Art
+wie die Bildsäule Beuth's von Kiss in Berlin zwar genau
+zeigt, vrie Beuth die linke Hand zu halten pflegte , wie
+seine Gesammlhaltung, seine ganze Figur etwas Ver-
+schrobenes hatte, — aber von dem Beuth, dem die
+Statue eigentlich errichtet werden sollte, ist daran auch
+nicht die leiseste Spur zu entdecken. Ebenso wenig
+wird irgendjemand durch die Gwinner'sche Erläuterung
+
+4*
+
+
+52
+
+zu dem Grabsteine Schopenhauer's erfahren: wer dieser
+wirklich gewesen ; wie Schopenhauer selber oft (?) aus-
+gesprochen hat: Der, der die Welt als Wille und Vor-
+stellung geschrieben. Eine Dame erzählte mir einmal,
+in ihrer Kindheit sei sie häufig mit einer Frau zu-
+sammen gewesen, die sie später als ganz ausserordent-
+lich schön und liebenswürdig habe rühmen hören; das
+sei ihr dann ganz verwunderlich vorgekommen; denn
+ihr sei damals, als Kind, nur eine schwarze Warze an
+der Nase jener Frau aufgefallen; so habe sie eigentlicli
+nur immer die Warze vor Augen gehabt, wenn von
+jener Schönen die Rede gewesen. Einen ähnlichen
+Eindruck machen Anekdoten über eine ausserordentliche
+Persönlichkeit, wenn daraus der Erzähler ein Gesammt-
+bild derselben zusammenstellen möchte *) ; ein solches
+Bild wird im besten Falle nur eine sehr grobe Mo-
+saikarbeit sein, den Stickmustern zu vergleichen, ver-
+möge deren mitunter empfindsame, ästhetisch gebildete
+Frauenzimmer Schiller und Goethe auf Schlummerkissen
+zu vergegenwärtigen pflegen. Da sind denn die beiden
+Dichterfürsten wirklich nichts besseres werth, als dass
+jeder Schafskopf sie sich zur Unterlage nimmt; mit
+dem Gwinner'schen Schopenhauer in der Tasche kön-
+nen die Lumpen als Biedermänner herunireisen und
+
+
+*) A. Boden tadelt den Mangel an Anekdoten in
+meiner Schrift! (Frankfurter Conversationsblatt, 1862, Nr. 278.)
+
+
+53
+
+für ihre Firma Geschäfte machen, — und sie thun's
+auch bereits" (S. 97).
+
+Handelle es sich bloss darum, die Beweggründe
+dieses frivolen Gesudels aufzudecken, so würde ich wahrlich
+kein Wort darüber verlieren; allein da Solche, die Schopen-
+hauer nicht persönlich gekannt haben, denn doch nicht
+völlig in Zweifel gerathen dürfen, ob mein Charakterbild —
+nicht etwa elende Wachspuppen- und Stickmusterarbeit;
+denn dass es dies nicht sei, sieht jeder auf den ersten
+Blick — sondern ob es treffend oder falsch sei, muss
+ich, zu genügender Feststellung dieser Thatfrage, auf
+die Gefahr hin für ebenso eitel und indiscret wie die
+beiden Evangelisten gehalten zu werden, andere Zeug-
+nisse neben das ihrige stellen. Und zwar will ich
+mich nicht etwa auf die, meine Arbeit zum Theil über
+Gebühr lobenden Stimmen von Recensenten beziehen,
+welche Schopenhauer nicht genauer gekannt haben*),
+
+
+*) Sie heben übereinstimmend die Lebendigkeit, An-
+schaulichkeit und Naturtreue meiner Zeichnung hervor.
+Europa, 1862, Nr. 5; Blätter für literarische Unterhaltung,
+1862, Nr. 9; Didaskalia, 1862, Nr. 11; Süddeutsche Zeitung
+1862, Nr. 197; augsburger Allgemeine Zeitung, Beilage, 1862,
+Nr. 282; Kölner Zeitung, 1862, Nr. 87; Literarisches Cen-
+tralblatt von Prof. . Zarncke, 1862, Nr. 20; Revue germa-
+nique, Mars 1862, p. 145 sq., u. a. m. Selbst der gehässige,
+lügenhafte Klatsch in den Grenzboten, 1862, Nr. 18, erkennt
+an, dass mein Bild „in den Einzelheiten treu wie eine Pho-
+tographie" sei. Nur der „Heiligenschein", mit dem ich an-
+
+
+54
+
+sondern auf das Urtlieil persönlicher, von dem Meister
+nach dem eigenen Zeugnisse der Evangelisten, trotzdem
+dass sie nicht, wie diese, für die Lehre desselben
+Propaganda machten, besonders hochgestellter
+Freunde desselben. Ich wähle, um den Leser nicht
+zu ermüden, nur drei der competentesten aus.
+
+Becker in Mainz urlheilt über meine Charakterzeich-
+iiung: „Sie haben wirklich ein gutes und schön ge-
+zeichnetes Bild unseres gemeinschaftlichen Freundes ge-
+liefert. Viele der einzelnen Züge, die Sie gesammelt und
+plastisch verarbeitet haben, waren mir bekannt und mit
+ihnen steht das mir Neue in vollkommenem Einklänge."
+
+A. von Boss in München, welchen Schopenhauer
+wegen des mächtigen Zugs wahlverwandter Liebe seinen
+„Apostel Johannes" nannte (S. 494) und dessen Ber
+Ziehungen zu dem Meister nach Lindner*s eigenem Vor-
+bringen „wahrhaft gemüthreiche gewesen sind" (S. 98):
+„Ich habe nun das Buch zweimal mit der grössten
+Aufmerksamkeit durchgelesen und danke Ihnen von
+Herzen für den ausserordentlichen Genuss, den Sie mir
+
+
+geblich das Bild umkleidet, die verschönernde „Retouche**
+soll nicht dazu passen, einfach aus dem Grunde, weil
+Herr M. B. für die Würdigung der Grösse Schopenhauer's
+kein Organ besitzt und besitzen will. .Sagt er doch selbst
+naiv genug: ,,Für speculative Wissenschaften ist nur noch
+geringes Bedürfniss vorhanden." Für seinesgleichen freilich !
+Für sie habe ich auch nicht geschrieben; sie sollen sich
+um andere Dinge bekümmern.
+
+
+55
+
+durch Ihre Schrift über den theueren Hinge-
+schiedenen bereitet haben. Ihre Charakteristik Scho-
+penhauer's, so getreu dem ürbilde, soweit eine so
+eigenthümlich geartete, selbst den treuesten Freunden
+immerhin noch in eine gewisse Entfernung sich zu-
+rückziehende Persönlichkeit erfasst werden kann,
+hat die Erinnerung an die Stunden, in denen ich
+dem ausserordentlichen Manne näher zu treten so
+glücklich war, auf das Lebhafteste wieder in mir auf-
+gefrischt ... Ja , wie Sie ihn mit wenigen . . . Zügen
+geschildert haben, so leibte und lebte, so dachte und
+sprach er, der grosse Welt- und Menschenverächter,
+dessen Werth, trotz all seiner Verstimmung und Bitter-
+keit, doch nicht durch die ephemeren Verdienste von
+Tausenden philanthropischer Weltbürger ersetzt werden
+kann. Es war keine leichte Aufgabe, die Skizze von
+dem Leben eines solchen Ausnahmsmenschen zu ent-
+werfen. Nach meinem ürtheile haben Sie diese Auf-
+gabe in so bündiger und würdiger Weise gelöst, dass
+der Verstorbene selbst seine Freude daran haben
+könnte, und das will gewiss viel sagen." — Und ein
+halbes Jahr später: „Es freut mich, mein Urtheil
+wiederholt dahin abgeben zu können, dass Schopen-
+hauer an Ihnen einen seiner exceptionell hohen Stellung
+durchaus gewachsenen Biographen gefunden hat; dass
+Ihre Auffassung des tiefsten und eigentlichsten Gehaltes
+seines Lebens durchaus wahr und getreu ist; kurz, dass
+
+
+56
+
+sich Ihre . . . Arbeit, sowohl was die Form als auch
+den Inhalt betrifft, mit den besten Leistungen auf dem
+biographischen Gebiete messen kann."
+
+Dr. phil. C. G. Bahr in Dresden, Verfasser der
+Schrift: „Die Schopenhauer'sche Philosophie in ihren
+Grundzugen dargestellt und kritisch beleuchtet" (Dres-
+den 1857), dessen frühreife ürtheilskraft Schopen-
+hauer bewunderte: „Yerstatten Sie mir nur zwei
+Worte des Dankes für den grossen, wahrhaft erheben-
+den Genuss, den Sie mir durch Ihre Schrift über
+Schopenhauer verschafft haben. Ihre Arbeit wird
+den Mit- und Nachlebenden von bleibendem Wertbe
+sein. Man empfindet es beim Lesen, dass sie einem
+inneren Drange, dem Gefühl edler Freundschaft ihre
+Entstehung dankt; darum trägt man einen höchst er-
+frischenden und anmuthigen Eindruck davon. Sie ver-
+einigen die wesentlichen grossen Züge zu einem Le-
+bensbilde voll ergreifender Wahrheit, und verschmähen
+es, die Neugier des Lesers durch Nebenzüge zu be-
+stechen, die dem Gesammteindruck schaden würden
+und nur der Klatschsucht willkommene Nahrung böten.
+So wird Ihre Schrift ein wichtiges Denkmal bleiben,
+gleichsam der Revers zur „Welt als Wille und Vorstel-
+lung", weil sie aus der Natur des Bodens, dem jene
+Weltanschauung entsprosste, die individuellen Eigen-
+Ihümlichkeiten derselben verstehen lehrt. Der verehrte
+Abgeschiedene kann Sie für Ihr Buch nicht mehr
+
+
+57
+
+loben — er hat es vielleicht nie geahnt, dass Sie ihn
+so eliren würden — darum erlauben Sie es mir, der
+zu seinen besten und aufrichtigsten Anhängern zählte."
+
+Nach diesen Urtheilen wird man es begreiflich fin-
+den, dass der Impetus caecus des Doclor indefatigahilis
+gegen meine Darstellung auf dem Gebiete der Thatsachen
+sich nicht genügend austoben konnte. Er wirft, sich
+deshalb zugleich auf den philosophischen Theil dersel-
+ben. Wonn ich ihm auch dahin folge, so geschieht es
+niu*, um die Charakteristik des ganzen Angriffs voll-
+ständig zu machen; denn mich in wissenschaftliche
+Controversen mit ihm einzulassen, würde mir sonst nie
+in den Sinn. gekommen sein.
+
+Zuvörderst muss ich daran erinnern, dass die bei-
+den Abschnitte meiner Schrift über Schopenhauer's
+Lehre nur als a7C096p7]Ta (Gastgeschenke) zu betrach-
+ten sind; daher denn Manches nur angedeutet, mehr
+noch ganz übergangen ist, was dem Verständnisse Un-
+eingeweihter behülflich hätte sein können. Ich habe
+gleich in der Vorrede erklärt, äass ich mich zu dieser
+Lehre nicht bekenne und konnte daher auch nicht er-
+warten, dass die Anhänger derselben mit meiner Auf-
+fassung übereinstimmen würden. Schopenhauer selbst
+trat mir aus eben diesem Grunde lange nicht näher;
+denn nicht allein trug ich zur Verbreitung seiner Phi-
+losophie nichts bei; sondern ich erhob auch bei jeder
+Gelegenheit principielle Bedenken gegen sein ganzes
+
+
+58
+
+System, sodass bei Schopenhauer's längst abgeschlosse-
+nem schroffen Charakter der geistige Verkehr zwischen
+uns Jahre lang keine Fortschritte machte. *) „Die Welt
+als Wille und Vorstellung" halte ich erst 1849 gelesen ,
+kannte jedoch die Grundzüge dieses Werks schon seit
+1844. Obwohl nun Schopenhauer's Gedankenkreise mit
+den meinigen keineswegs concentrisch liefen, wurden sie
+für mich doch ausserordentlich anregend, und so schien
+es mir denn auch passend, in einer Schrift,, die den
+Kern des Menschen Schopenhauer vor den Augen
+der Welt entfaltete, ein paar Worte über den des
+Schriftstellers mit in den Kauf zu geben. Dass
+hierbei an eine, nach irgendwelcher Seite hin er-
+schöpfende Darstellung und Kritik, zumal für Unkundige,
+
+
+*) Auch öffentlich trat ich ihm entgegen. ' In den Kriti-
+schen Blättern des Frankfurter Museums, 1857, Nr. 4, be-
+sprach ich A. Corniirs Schrift über ihn und sagte unter
+anderm: mit dem von Schopenhauer aufgestellten transcen-
+denlalen Princip des Willens sei die schwere Aufgabe der
+Philosophie noch ganz ufld gar nicht einer befriedigenden
+Lösung entgegengeführt, was er mir sehr verargte. — Ich
+lernte ihn schon 1847 persönlich kennen und unterhielt
+mich später, ohne ihm vorgestellt zu sein, zuweilen in Ge-
+sellschaft Dritter mit ihm. Erst 1854 besuchte ich ihn und
+verkehrte dann öfter mit ihm; vertraut aber wurde mein
+Umgang mit ihm erst in den letzten vier Jaly-en seines
+Lebens. Danach ist die Mittheilung an Frauenstädt vom
+9. April 1854 (S. 611) nicht ganz richtig; denn nicht um
+ihn „zu sehen und zu kennen", sondern um ihm näher
+zu treten, besuchte ich ihn damals.
+
+
+59
+
+nicht gedacht wurde, konnte keinem redlichen Leser
+entgehen; dem unredlichen und oberflächlichen dagegen
+war es leicht gemacht, aus dieser auf wenige Seiten
+zusammengedrängten aphoristischen Skizze je nach Be-
+lieben entweder, wo ich meine Gedanken gegeben,
+mich der Entstellung der Schopenhauer'schen , oder,
+wo ich diese gegeben, mich der Anhängerschaft zu be-
+züchtigen. Von diesen beiden Wegen, meine Darstellung
+zu discreditiren, konnte Hr. Dr. Lindner selbstredend
+nur den ersteren wählen. Und siehe da! er glaubt
+„nachgewiesen zu haben", dass ich Jn philosophischer
+Beziehung auch nicht entfernt die Berechtigung besitze
+öffentlich aufzutreten". *) Sehen wir in der Kürze, mit
+welchen intellectuellen Mitteln dieser Nachweis zu Stande
+kommt!
+
+„Als eine Wahrheit", sagt er, „würdig der Ideen-
+lehre Platon*s, und Kant's Lehre von der Idealität der
+Erscheinungen an die Seite gestellt zu werden, wird
+hier**) Schopenhauer's Ansicht von der Erblichkeit der
+
+
+*) Mit dieser Sprache des Zeitungsschreibers vergleiche
+man die Urtheile von Gegnern Schopenhauer's , denen
+Form und Inhalt meines Buchs directes Aergerniss gegeben
+und die also wahrlich keinen Grund hatten, mich zu scho-
+nen, z. R. Prof. Franz Hoffmann in Frohschammer*s
+Athenäum, Bd. 2, S. 139 fg.; J. U. Wirth in der Zeitschrift
+für Philosophie und phil. Kritik, Bd. 42, S. 300 fg.
+**) Seite 2 meiner Schrift.
+
+
+60
+
+Eigenschaften, insbesondere von der Vererbung des
+Willens vom Vater, des Intellecls von der Mutter hin-
+gestellt. Abgesehen jedoch davon, dass diese Ansiebt
+eine sehr untergeordnete Stelle in der Reihender glän-
+zenden Gedanken Schopenhauer's einnimmt, ist sie, was
+die Erblichkeit im Allgemeinen betrifft, ein uralter Er-
+fahrungssatz. Das Eigenlhümliche aber, wodurch Scho-
+penhauer diesen Satz näher zu erläutern suchte, ist
+keineswegs erwiesen. Es ist eine Ansicht, die er-
+fahrungsmassig ebenso oft sich zu bestätigen scheint,
+als das Gegentheil nachgewiesen werden kann. Ueber-
+dies aber steht diese Ansicht im Widerspruch mit viel
+bedeutenderen und unzweifelhafteren Ansichten Schopen-
+hauer's."
+
+Merke erstens: Wenn ich von Schopenhauer's
+Lehre von der Erblichkeit der Eigenschaften rede, so
+rede ich nicht von dem „uralten Erfahrungssatz"
+der „Erblichkeit im Allgemeinen". Merke zweitens:
+Diese Lehre Schopenhauer's, dass der Wille sich vom
+Vater, der Intellect von der Mutler vererbe, ist
+keine Erläuterung des „uralten Erfahrungssatzes", dass
+überhaupt Eigenschaften erblich sind, auch keine Er-
+klärung, warum sie erblich sind; sondern eine Hypo-
+these über die Vererbung bestimmter Eigenschaften
+von sexuell bestimmten Individuen. Merke drittens:
+Wenn ich von dieser Lehre Schopenhauer's sage,
+dass dieselbe als eine besondere Anwendung
+
+
+61
+
+seines Hauptsalzes von den beiden Grundfactoren der
+Welt mit zu den philosophischen Lehren gerechnet
+werden dürfe, welche einen bleibenden Wahrheilskern
+enthalten und von welchen Schopenhauer sich nach
+meiner Meinung etwas zueignen dürfe, so hebe ich
+in dem nämlichen Satze hervor, dass dieses Gebiet
+der Forschung von Schopenhauer ,i sozusagen erst mit
+Einem Fusse betreten", dass diese Lehre Schopenhauer's
+noch ganz unentwickelt und vielfacher Restrictionen be-
+dürftig sei.-*)
+
+
+*) Darüber also, dass „das 43. Kapitel des zweiten Bandes
+der Welt als Wille und Vorstellung sehr erheblichen Bedenken
+und Einwendungen unterliege", bedurfte ich der Belehrung
+des Herrn Dr. Lindner am wenigsten. Die Ausführung, die
+Schopenhauer seinem Satze giebt, muss sogar als äusserlich
+und aphoristisch bezeichnet werden. Nach meiner Ansicht
+könnte die Fortpflanzung einer organischen Kraft durch ge-
+schlechtliche Zeugung nur dann berechnet werden, wenn
+man das, was sich eigentlich fortpflanzt, das stehende or-
+ganische Maass oder den nisus dieser Kraft — ^welche
+z. B. im weiblichen Organismus in der einen oder andern
+Bichtung organisch gebunden (unwirksam) bleiben könnte
+— von dem robur derselben, d. h. von der (zwar auch
+auf organischer Basis stehenden, aber zugleich von einer
+Beihe weiterer Bedingungen abhängigen) veränderlichen und
+deshalb zufälligen actuellen Stärke der Kraft, welche
+sich nicht fortpflanzt, in Abzug zu bringen verstände. Da
+dies nicht einmal von den lebendigen Kräften des Leibes
+gelungen ist, darf es nicht Wunder nehmen, dass sich uns
+die Fortpflanzungsweise der höheren, geistigen Kräfte noch
+m undurchdringliches Dunkel hüllt.
+
+
+62
+
+Herr Dr. Lindner aber will darthun, dass dieselbe
+im Widerspruch stehe „mit viel bedeutenderen und
+unzweifelhafteren Ansichten Schopenhauer's" und schickt
+zu diesem Ende drei Argumente ins Feld, welche voll-
+kommen geeignet sind,- uns einen Maassstab für seine
+kritische Competenz an die Hand zu geben.
+
+Erstes Argument: „Die Ansicht steht zunächst im
+Widerspruch mit der Aseilät des Willens; denn die
+Qualität macht eben das Wesen; ist nun die Qualität
+des Willens einfach angeerbt, so steht dieser Wille
+ohne weiteres lediglich im erfahrungsmässigen Kreise
+des zeit- und räumlichen Daseins und ist ganz und
+gar zu erklären aus der Causalität, die ihn bewirkt hat.
+Dann mag der einzelne, der nicht «Gott» anklagen will,
+weil er ihn gerade so «erschaffen» hat, sich näher und
+einfacher an seine Vorfahren wenden. Die sittliche
+Verantwortlichkeit ist damit schlechterdings aufge-
+hoben."
+
+Quae, qualis, quanta! ruft einmal Schopenhauer
+über ein Urtheil des Erzevangelislen aus (S. 576);
+welches dialektische Verwunderungszeichen erübrigt für
+diese Denkübungen des Unermüdlichen? Also „die Qua-
+lität macht das Wesen" und weil die Qualität des Wil-
+lens „einfach angeerbt" ist, so steht dieser Wille „ohne
+weiteres lediglich im erfahrungsmässigen Kreise des
+zeit- und räumlichen Daseins!" Der Wille kommt also
+erst mit dem Kind in die Welt und die Aeltern sind
+
+
+63
+
+die „Causalilat", die ihn „bewirken!" Der Doctor inde-
+fatigahilis hat also nicht einmal so viel von Schopen-
+hauer's Philosophie inne, dass die Aseität des Willens
+als Dings an sich von der Forlpflanzungsweise seiner
+dem Gesetz der Causalität folgenden individuellen Er-
+scheinungen nicht berührt, mithin auch die sittliche
+Verantwortlichkeit dieses Willens (dessen Fähigkeit der
+Bejahung und Verneinung) durch irgendwelche dem
+Erscheinungsgebiete angehörige individuelle Beschaffen-
+heit nicht aufgehoben wird. Was föngt denn der Uner-
+müdliche bei solchen Vorbegriffen mit der Lehre vom
+angeborenen Charakter, ja mit der ganzen Ethik Scho-
+penhauer's an?
+
+Da diese transcendenten Lehren Schopenhauer's etwas
+über seinen Horizont zu gehen scheinen, so will ich
+ihm "noch mit folgender Stelle aus Bd. 2, S. 603, der
+„Welt als Wille und Vorstellung" aufhelfen: „Es ist der-
+selbe Charakter, also derselbe individuell bestimmte
+Wille, welcher in allen Descendenten eines Stammes,
+vom Ahnherrn bis zum gegenwärtigen Stammhalter
+lebt. Allein in jedem derselben ist ihm ein anderer
+Intellect, also ein anderer Grad und eine andere Weise
+der Erkenntniss beigegeben. Dadurch nun stellt sich
+ihm, in jedem derselben, das Leben von einer andern
+Seite und in einem verschiedenen Lichte dar: er erhält
+eine neue Grundansicht davon, eine neue Belehrung.
+Zwar kann, da der Intellect mit dem Individuo erlischt.
+
+
+64
+
+jener Wille nicht die Einsicht des einen Lebenslaufes
+durch die des anderen unmittelbar ergänzen. Allein
+infolge jeder neuen Grundansicht des Lebens, wie nur
+eine erneuete Persönlichkeit sie ihm verleihen kann,
+erhält sein Wollen selbst eine andere Richtung, erfahrt
+also eine Modification dadurch, und was die Haupt-
+sache ist, er hat, auf dieselbe, von neuem das
+Leben zu bejahen oder zu verneinen. Solcher-
+maassen wird die, aus der Nothwendigkeit zweier Ge-
+sclilechter zur Zeugung . entspringende Naturanslalt der
+immer wechselnden Verbindung eines Willens mit
+einem Intellect zur Basis einer Heilsordnung. Denn
+vermöge derselben kehrt das Leben dem Willen, dessen
+Abbild und Spiegel es ist, unaufhörlich neue Seiten zu,
+dreht sich gleichsam ohne ünterlass vor seinem Blicke
+herum, lässt andere und immer andere Anschauungs-
+weisen sich an ihm versuchen, damit er, auf jede
+derselben, sich zur Bejahung oder Verneinung ent-
+scheide, welche beide ihm beständig offen stehen"
+u. d. f. Die ganze Stelle beweist zugleich, wie sehr
+ich im Rechte war, zu sagen: „Das tiefsinnige Gentral-
+dogma Schopenhauer's von der androgynen Natur der
+Welt, in der uns, nach Faust's Ende, das Ewig -Weib-
+liche hinanzieht, d. h. die Vorstellung den Willen von
+immer neuen Seiten erhellt und beleuchtet, bis er zur
+Selbsterkennlniss gelangt und in der Umarmung mit
+ihr das Sittliche zeugt, steht mit dieser seiner Lehre
+
+
+65
+
+von der Erblichkeit der Eigenscliaften, wie man z. B.
+aus seiner merkwürdigen Beleuchtung des Incests sieht,
+im nächsten Zusammenhang" (S. 3 meiner Schrift).
+
+Zweites Argument: „Die Weiber", sagt Schopen-
+hauer, „sind kindisch, läppisch und kurzsichtig, mit
+Einem Worte zeitlebens grosse Kinder, — der Mann
+erlangt die Reife seiner Vernunft und Geisteskräfte
+kaum vor dem achlundzwanzigsten Jahre; das Weib
+mit dem achtzehnten. Aber es ist auch eine Vernunft
+danach: eine gar knapp gemessene; — im Grunde
+sind die Weiber ganz allein zur Propagation des Ge-
+schlechts da, und ihre Bestimmung geht hierin auf, —
+mit mehr Fug, als das schöne, könnte man das weib-
+liche Geschlecht das unästhetische nennen: weder für
+Musik, noch Poesie, noch bildende Künste haben sie
+wirklich und wahrhaftig Sinn und Empfänglichkeit ; son-
+dern blosse Aeflerei, zum Behuf ihrer Gefallsucht, ist
+es, wenn sie solche aflectiren und vorgeben. Das
+macht, sie sind keines rein objectiven Antheils an ir-
+gend etwas fähig. Man kann von den Weibern auch
+nichts anderes erwarten, wenn man erwägt, dass die
+eminentesten Köpfe des ganzen Geschlechts es nie zu
+einer einzigen wirklich grossen, echten und originellen
+Leistung in deiir schönen Künsten haben bringen, über-
+haupt nie irgendein Werk von bleibendem Werth haben
+in die Welt setzen können." Diese höchst einseiligen
+
+G-w inner, Schopenhauer n. 8. Freunde. 5
+
+
+66
+
+und zum Theil falschen Sätze Schopenhauer*s voraus-
+schickend und als „ erfahrungsgemäss richtig" appro-
+birend, fragt Herr Dr. Lindner mit Emphase: „Und
+von diesen Weibern sollte der Mann seinen Intellect
+erben? Der mittelmässigste reguläre Manneskopf hat
+einen stärkern Intellect als das intelligenteste Frauen-
+zimmer."*) Aber der mittelmässigsle reguläre Tertianer-
+kopf durchschaut die Seichtigkeit und Rohheit dieses
+Arguments! Der Unermüdliche scheint in der That
+noch nicht über die Rudimente der Physiologie im
+Klaren zu sein, sonst müsste er wissen, dass alle Zeu-
+gung, als auf dynamischer Verbindung entgegengesetzter
+Factoren beruhend, ein Drittes darstellt, dessen Be-
+schaffenheit niemals aus einem derselben allein, son-
+dern immer nur aus beiden zugleich erklärt werden
+kann; dass mithin in diesem physiologischen Processe
+der weibliche Intellect erst durch den männbchen fervw
+hindurchgeht und sich überdies verschieden gestaltet,
+je nachdem im Erzeugten das männliche oder das
+weibliche Princip durchschlägt. In Beziehung auf die
+Vererbung des Grads der Intelligenz vollends gilt na*
+türlich allgemein, was Schopenhauer zunächst nur über
+die physiologischen Bedingungen des Genies bemerkt:
+„Nicht nur ein ausserordentlich entwickeltes, durchaus
+zweckmässig gebildetes Gehirn (der Antheil der Mutter)
+
+
+*) Mit dieser Versicherung überbietet er noch den Meister !
+
+
+67
+
+ist erfordert, sondern auch ein sehr energischer Herz-
+schlag, es zu animiren, d. h. subjectiv ein leidenschaft-
+licher Wille, ein lebhaftes Temperament: Dies ist das
+Erbtheil vom Vater" (Welt als Wille und Vorstellung,
+Bd. 2, S. 600).
+
+Hieran reiht sich würdig das dritte Argument, wo-
+mit Herr Dr. Lindner zugleich tiefe Einblicke in das
+Begattungsgeschäft zum besten giebt, und welches ich,
+ohne weitere Kritik — denn jeder logische Faden ver-
+lässt uns hier — zur blossen Belustigung des Lesers
+folgen lasse. „Endlich aber ist jene Erbschaftsansicht
+auch darum nicht durchzuführen, weil sie im Wider-
+spruch mit den Vorgängen der Geschlechtsliebe selber
+steht. Die in Bezug auf ihren individuellen Willen
+verschiedensten , einander widersprechenden Naturen
+stimmen, trotz dessen, sehr häufig in Betreff der Be-
+gattung ganz unmittelbar vortrefilich zusammen. Sehr
+gewöhnlich ist die Erfahrung, dass recht kräftige, tüch-
+tige Kinder aus einem Coitus hervorgehen, der als die
+nätürhche Versöhnung nach einem heftigen Streite zu
+Wege kam, und regelmässig kann man bemerken, dass
+im Coitus das Weib sich der Gesaramtwirkung der
+überlegenen, männlichen Kraft unterwirft." Jetzt kommt
+das Beste: „Während der Schwangerschaft aber wirkt
+das Bild des Geliebten (es ist oft gar nicht der leib-
+liche Vater des Kindes) unausgesetzt in dem Vorstel-
+lungskreise der Mutter. Zugleich suchen edlere weib-
+
+6*
+
+
+68
+
+liehe Naturen inslinctmässig die beste ihnen zugäng-
+liche intellecluelle Nahrung auf, sei es in der Bibef,
+sei es in gewissen Dichterwerken u. s. w. Dass gerade
+hierbei aber der männliche Einfluss durchaus vorwalte,
+wird doch wohl niemand im Ernste bestreiten wollen"
+(S. 11 und 12).
+
+Nach dem Gehörten wird „wohl niemand im Ernste
+bestreiten wollen", dass der Unermüdliche „auch nicht
+entfernt die Berechtigung besitzt, in philosophischer
+Beziehung", nicht etwa „öffenllich", sondern auch nur
+privatim „aufzutreten". Doch hören wir ihn weiter!
+
+„Nicht viel besser als mit diesem Eingange des
+Gwinner'schen Buches, steht es weiterhin mit der Cha-
+rakteristik , welche dem Philosophen Schopenhauer
+verschiedene Male zu Theil wird. So steht S. 52 zu
+lesen: «Die Ergänzung des ethischen Realismus Kant's
+zu dem physischen der Sensualisten nicht nur, sondern
+auch zu dem ästhetischen Goethe's durch die Ver-
+körperung des kategorischen Imperativs und der pla-
+tonischen Ideen im Willen, dessen Wesen gleichwohl die
+idealistische Grundansicht beider in sich einschliesst,
+dies war seine Aufgabe.» Ich glaube, man könnte eine
+Preisaufgabe auf das Verständniss dieser Sätze setzen,
+— sie würde ungelöst bleiben. «Die Verkörperung
+des kategorischen Imperativs im Willen» Schopenhauer's
+Aufgabe? Ja, wenn er das Hexeneinmaleins in Goethe's
+Faust ins Philosophische zu übersetzen gehabt hätte:"
+
+
+69
+
+Ich kann dem geneigten Leser unmöglich zumuthen,
+€inem Nachhülfecursus für die Fassungskraft des Doclor
+indefatigahilis beizuwohnen, indem ich ilir zu lieb
+meine Gedanken breit schlüge; will deshalb nur bei-
+läufig bemerken, dass die hier angeführte, aus dem
+Zusammenhang gerissene Stelle sich durch das Voraus-
+gehende erklärt, und in Beziehung auf „die Verkörpe-
+rung des kategorischen Imperativs im Willen", dass
+Schopenhauer zwar die Form, in welcher Kant das
+Sittengesetz einführte, ganz und gar verwarf; dagegen
+den Gehalt desselben, dessen unmittelbare Gewiss-
+heit bei Kant im Gegensatze gegen die Leibnitz-
+WoIfT'sche und als tiefere Fassung der schottisch- eng-
+lischen Moralphilosophie eben die Hauptsache war,
+adoptirte; dass er dem, was bei Kant blosses Abstractum
+(Gesetz, Maxime) geblieben war, dadurch concretes Le-
+ben gab, dass er es dem persönlichen Willen als dessen
+innere moralische Bewegung, im Gegensatz zu dem
+äusserlichen Soll Kant's, einverleibte. Der Mangel dabei
+ist nur, dass dieses „bessere Bewusstsein", welches
+in Schopenhauer's Erstlingsstudien eine wichtige Rolle
+spielt und dem empirischen Bewusstsein entgegengesetzt
+wird, in denii Systeme selbst nur den negativen Aus-
+druck der „Verneinung des Willens zum Leben" ge-
+funden hat.
+
+„üeberaus seltsam" koriunt Herrn Dr. Lindner fer-
+ner meine, an den Bericht über Schopenhauer^ üiii-
+
+
+70
+
+versitälssludien anknüpfende Bemerkung vor, „Schopen-
+
+hauer*s Denken sei in der juridischen und theologischen
+
+Richtung mangelhaft ausgebildet geblieben."*) Weshalb
+
+dieses Erstaunen des Unermüdlichen? Man höre und
+
+staune selbst. „Von der Jurisprudenz könnte man dies
+
+allenfalls insofern zugeben, als er überhaupt dem Staate
+
+nur einen bedingungsweisen Werth einräumte; dabei
+
+ist aber doch nicht zu übersehen, dass, sie mag richtig
+
+sein oder nicht, diese seine Ansicht mit seiner gesamm-
+
+ten Auffassung von dem Wesen des Menschen in engster
+
+Verbindung steht" Also wer dem Staate nicht einen
+
+absoluten Werth einräumt (was ausser Hegel keinem
+
+Philosophen eingefallen ist), dessen Denken ist in der
+
+Jurisprudenz mangelhaft ausgebildet, und wessen Ansicht
+
+vom Staate mit seinen übrigen Ansichten in engster
+
+Verbindung steht, der ist darum in der Jurisprudenz
+
+weniger mangelhaft ausgebildet.
+
+. Mein Iheurer Freund, ich rath euch drum
+Zuerst Collegium LogicumI
+
+„Aber" — es wird immer besser — „die theologischen
+
+Disciplinen! Als wenn diese nach irgend einer Seite hin
+
+rein wissenschafÜiGhen Werth beanspruchen könnten!"
+
+
+*) Ich sage nur „verhältnissmässig" (S. 31 meiner
+Schrift). Ein grosser Unterschied! Aber solche Kleinig-
+keiten passen nicht in die Polemik des Doctor indefatiga-
+bilis, weshalb er sie wegl&sst.
+
+
+71
+
+Enlselzlich! der Redacteur der Königlichen privilegirten
+Zeitung von Staats- und gelehrten Sachen spricht der
+Theologie den Charakter d^ Wissenschaft ab! Die
+Facultat kann sich ausstreichen lassen; die Theologen
+müssen Zeitungsschreiber oder Schopenhauer'sche Evan-
+gelisten werden, wenn sie künftighin ihr gelehrtes
+Brod finden wollen! Das lässt auf trübe Erfahrungen
+schliessen.
+
+„Dass Herr Dr. Gwinner für dies alles nur ein un-
+zureichendes Verßtändniss besitzt, legt er selbst S. 220
+seines Buches an den Tag." Nun referirt er mit
+obligater Entsteüung, was ich gelegentlich der Erzählung
+meines letzten Besuchs bei Schopenhauer erwähne.
+Ich muss die Stelle wiederholen: „„Als literarische
+Neuigkeit halte ich ihm Baader's Commentar zu St.
+Martin's Schriften mitgebracht und die Stellen ange-
+zeichnet, an denen der Herausgeber seiner erwähnt.
+Können Sie aber so etwas lesen? fragte er, auf die
+zufallig aufgeschlagene Stelle S. 86 zeigend: „Der Mensch
+richtet oder dirigirt sein Wollen, welches er als Odem
+nur hat, wenn er es empfangt und es empföngt, wenn
+er es giebt." Es giebt mancherlei Philosophen, abstracte
+und concrete , theoretische und praktische : Dieser
+Baader ist ein unausstehlicher. Ich erinnerte ihn da-
+ran , dass Baader schon 1836 in der speculativen
+Dogmatik den Studenten seine Werke empfohlen und
+
+
+,72'
+
+trolz des grossen *) Abslandes der beiderseitigen Denk-
+weisen in den Vorlesungen über Jakob Böhme's Theo-
+logumena und Philosopheme anerkannt habe , dass
+Schopenhauer „durch sein Werk und durch seine Auf-
+richtigkeit sich ein ungleich grösseres Verdienst erwor-
+ben, als eine Unzahl anderer, in demselben Geiste
+schreibender Philosophen unserer Zeit" (Baader's Werke,
+Bd. 3, S. 366). „Es ist wahr", erwiderte er, „ich
+erinnere mich, er hat glimpflich von mir gesprochen;
+aber ich kann ihm nicht helfen." Die Form des Phi-
+losophirens, welche man einem Böhme und seiner
+Zeit nachsehen muss, ist im neunzehnten Jahrhundert
+allerdings unerträglich und hieraus dieses wegwerfende
+Urtheil Schopenhauer's über einen so mächtigen Geist
+zu erklären ""
+
+So weit ich; nun der Doctor indefatigabilis: „Das
+geschah zwei Tage vor Schopenhauer's Tode. Es bleibt
+nun freilich selbstverständlich einem jeden unbenommen,
+wen er für einen «mächtigen» Geist zu halten beliebt;
+— aber ebenso zeugt es von dem mangelhaftesten
+Verständniss des Philosophen Schopenhauer, wenn man
+ihn, wie diese Erzählung schildert (?), mit Franz von
+Baader in Berührung bringen will. Die oberfläclilichste
+Kenntniss der Werke dieser beiden Männer kann dar-
+
+
+*) Dieses Adjectiv lässt Herr Dr. Lindner, vermuthlich als
+nichtssagend weg.
+
+
+73
+
+über (loch wohl keinen Augenblick einen Zweifel auf-
+kommen lassen, dass Schopenhauer sich gegen Baader
+rein verneinend verhallen mussle. Wenn daher Herr
+Dr. Gwinner das ürtheil Schopenhauer's über den letz-
+lern ein «wegwerfendes» nennt, so wird die Befähigung
+wie die Berechtigung zu einem solchen Tadel (?) wohl
+einfach mit der Schopenhauer'schen Frage charakterisirl
+werden dürfen: Können Sie aber so etwas lesen?
+Gleichzeitig gibt übrigens dieser Bericht einen hübschen
+Beleg dafür, dass es Schopenhauer weniger darauf an-
+kam, anerkannt zu werden, als vielmehr darauf, von
+wem diese Anerkennung ausging" (S. 15).
+
+1) Dieses Lob verdient Schopenhauer nicht; denn
+wer sich der Anerkennung der Berliner Feuerspritze
+und der Vossischen Zeitung so lebhaft erfreute, musste
+auf die — freilich sehr limitirte, aber gerechte — Aner-
+kennung eines Baader grösseren Werth legen, als es
+nach der erwähnten Aeusserung den Anschein gewinnt.
+Aber Baader war sein Zeitgenosse und verwarf sein
+ganzes System. Hie lepus in pipere!
+
+2) Meine „Befähigung und Berechtigung", Schöpen-
+hauer's Urtheil über Baader ein wegwerfendes zu nen-
+nen, wird neben demjenigen, was ich selbst über dieses
+ürtheil bericlite, „einfach charakterisiil" durch das, was
+in dem nämlichen Geselischaftswerke S. 671 zu lesen
+steht. Daselbst schreibt Schopenhauer an den Erz-
+evangelisten Frauenstädt : „ besagte höchst ekelhafte
+
+
+74
+
+Schmierereien des bigotten und bornirten F. Baader." *)
+Ferner S. 681: „Er ist, nächst Hegel, der ekelhafteste
+Schmierer. Sein bornirtes Gewäsche wird wohl keinen
+irre führen." Hiermit ist zugleich die „Berechtigung"
+des Unermüdlichen, meine besagte Bezeichnung dieses
+Urtheils zu beanstanden „einfach charakterisirl".
+
+3) Dieses wegwerfende ürtheil Schopenhauer's habe
+ich nicht getadelt, sondern es entschuldigt — weit
+entfernt, es zu unterschreiben. Mit dieser Entschuldi-
+gung aber, sowie mit der Erwähnung des gerechleren
+Urtheils Baader's über Schopenhauer ist natürlich nicht
+gesagt, dass man beide Männer „in Berührung bringen"
+wolle, was ich an der angeführten Stelle mit keiner
+Silbe gelhan habe.
+
+4) Wenn ich es aber Ihun wollte, so würde mich
+die dreiste und unwissende Radotage eines Skriblers,
+der nicht würdig erscheint, einem Geistesheroen der
+
+
+*) Einer der ungerechtesten Vorwürfe, die Schopenhauer
+jemajs „ohne Vorbedacht und Sorgfalt hingeworfen*', und
+der deshalb selbstverständlich nie gedruckt hätte werden
+dürfen. Schopenhauer hat eingestandenermaassen Baa-
+der 's Werke nie gelesen; sonst hätte er wissen müssen, dass
+Baader gegen die bornirte Unfreiheit der Wissenschaft wie
+gegen die bigotte Wissensscheu zeitlebens gekämpft hat.
+Ist er doch der erste Katholik gewesen, der mit allen
+Waffen germanischer Geistesbildung ausgerüstet die römische
+Hierarchie angegriffen und damit dem modernen Katholicis-
+mus seine Lebensfrage zum Bewusstsein gebracht hat.
+
+
+75
+
+Nation, wie Baader, die Schubriemen aufzulösen, nicht
+daran irre machen. Denn „die oberflächlichste Kennt-
+niss" der Werke dieser Männer lässt die Berührungs-
+punkte beider, in der Naturphilosophie und Ethik, nicht
+verkennen. Beide haben die deutsche Mystik mit ihren
+Grundgedanken verknüpft. Beide vereinigen sich in
+dem Antagonismus gegen die, aus Kanl's Schule her-
+vorgegangenen idealistischen und realistischen Abstrac-
+tionsphilosophien ; in der starken Betonung des stalus
+corruptionis der Welt und in der tieferen Würdigung
+der magischen und ekstatischen Erscheinungen. In
+diesem Verhältnisse beider war Baader als der um-
+fassendere Geist auch der gerechtere; während man
+Schopenhauer wiederum den Widerwillen gegen den
+Mangel einer exacten wissenschaftlichen Methode in
+Baader*s Schriften zugut halten muss, wie ich gethan
+habe. —
+
+Weiterhin, um zu belegen, „wie unvermittelt mit-
+unter" das, was ich von Schopenhauer berichte, neben
+dem stehe, was ich über ihn sage, bringt Herr Dr.
+Lindner (S. 66) folgenden Satz aus meiner Schrift bei:
+„Es ward ihm nicht so gut, ein Weib zu finden, das
+ganz dazu geschaflen gewesen wäre, ihn von der über-
+irdischen Macht des Ich -bildenden Willens, an die er
+nicht glaubte, zu überzeugen." Die überirdische Macht
+des Ich - bildenden Willens! ruft der Unermüdliche.
+„Was mag sich der Verfasser darunter vorstellen? Die
+
+
+76
+
+
+Leser werden es schwerlich von selber errathen kön-
+nen; ich wenigstens gehöre nicht zu diesen glücklichen."
+Glaub's! er ist überhaupt im Vorstellen beschränkt,
+selbst wenn der Gedanke die Beihülfe der Phantasie
+gestattet. So geh' er denn bei der Weisheit des Brah-
+inanen in die Schule, welcher sagt:
+
+Gar manche Schale muss von deinem Ich sich lösen,
+Zufällig Irdisches, und mancher Rost des Bösen.
+Doch während immermehr deui Ich sich also reinigt,
+Wird immermehr mit ihm des Neuen auch vereinigt.
+Du strebest Tag für Tag durch Lernen wie durch Lehren,
+Durch Denken wie durch Thun, den Kern des Ichs
+
+zu mehren u. s. w.
+
+Da Herr Dr. Lindner sonach noch die ersten Bil-
+dungsversuche mit seinem Ich anzustellen hat, kann es
+uns nicht befremden, dass er (S. 13) eine von mir
+hervorgehobene Thatsache des Bewusstseins*), nämlich
+
+
+*) Gegen Schopenhauer, Welt als Wille und Vorstel-
+lung, Bd. 1, S. 327, Note (3. Aufl.), welcher behauptet, dass
+„wir uns unserer selbst an uns selbst und unabhängig von
+den Objecten des Erkennens und Wollens schlechterdings
+nicht bewusst werden können." J. U. Wirth a. a. 0. nennt
+die von mir behauptete, oben angeführte Thatsache des
+Bewusslseins , welche nicht etwa mit dem sogenannten Ge-
+meingefühl (der Vitalempfindung) zu confundiren ist, eine
+unleugbare. Obwohl ich nicht der Meinung bin, dass sie auf
+der Oberfläche liege und deshalb leicht zu greifen sei,
+glaube ich doch sagen zu können: wer sie leugnet, ver-
+wechselt sein reflexives Selbstbewusstsein mit dem unmit-
+telbaren. Bichtig sagt Prof. Frohschammer (Ueber das
+Wesen des Selbstbewusstscins , Athenäum, Bd, 2, S. 119):
+
+
+77
+
+die, dass wir uns unserer selbst an uns selbst und
+unabhängig von den Objecten des Erkennens und
+Wollens einzig und allein im Gefühl bewusst werden
+können, in diesem aber bis zum höchsten Grade der
+Selbstbesinnung*), um desswillen als „philosophisches
+Od" perhorrescirt, weil sie „nur im Gefühl wurzeln
+soll".
+
+Auf Grund der vorgetragenen Beweise findet Herr
+Dr. Lindner meine Darstellung der Lehre Schopenhauer's
+„geradezu ungeniessbar**. Dagegen ist nichts zu sagen ;
+denn jeder vermag nur die seiner Natur angemessene
+Nahrung zu gemessen, wie dies, sans comparaison,
+schon Pfeffers Kater lehrt: „uns Katzen ekelt vor dem
+Wein!" Was aber der Doctor indefatigahilis und der
+Erzevangelist goutiren und dem gutgläubigen Leser zu
+schmecken geben — da sehe man zu! Eine geschmack-
+losere Stoppel- und Aehrenleserei ist noch nicht da-
+
+
+„Von unserem Ich haben wir keine Vorstellung, weil kein
+Bild; nicht einmal einen Gedanken, insofern ein Begriff
+damit ausgedrückt sein soll, sondern das Ich ist unmittel-
+bares Bewusstsein des Selbst,*' Dies ist gerade der Grund-
+irrthum Schopenhauer's, dass er nur einen (an sich selbst-
+losen) Willen und an diesem Willen ein Bewusstsein (Vor-
+stellung) kennt; aber kein eigentliches Selbstbewusstsein;
+dass er mithin den Begriff des persönlichen Geistes verkennt,
+indem er das Ich als blosses Phänomen des Intellects fasst,
+welches mit diesem verschwindet.
+
+*) Nicht „Selbstbestimmung", wie Lindner schreibt.
+
+
+78
+
+gewesen. Die in diesem 762 Seiten langen, wüsten
+Durcheinander als erfrischende Oasen auftauchenden
+Stellen aus den gedruckten Schriften und den Manu-
+Scripten Schopenhauer*s aber bestätigen meine Dar-
+steüung seines Charakters nicht nur, sondern variiren
+auch das Thema freier als gut ist. Kann es Wunder
+nehmen, wenn nun Schopenhauer für jedes erbitterte
+oder muthwillige Wort herhalten muss und auf Grund
+dieses Elaborats seiner Evangelisten selbst neutrale
+Stimmen den Charakter des Mannes verdammen? Wenn
+daher jemand in der Süddeutschen Zeitung (No. 65
+von 1863) sagt, es müsse wohl wahr sein, was Scho-
+penhauer selbst in den hier mitgetheilten Briefen an
+Frauenstädt behaupte, dass seine Anhänger ihm mit
+einem gewissen Fanatismus ergeben seien, denn ohne
+diesen verblendenden Fanatismus hätte es Hrn.
+Frauenstädt nicht entgehen können, wie ungünstig auf
+die Beurlheilung des Charakters Schopenhauer's seine
+Publication wirken müsse; so füge ich hinzu: diesen
+von den beiden Evangelisten zurecht gemachten Scho-
+penhauer in der Tasche (um dem unermüdlichen seine
+Phrase zurückzugeben), ist zugleich jeder Neuling gegen
+alle Ansteckung des Fanatismus gründlich bewahrt.
+Dieses Buch wird Schopenhauer keine Parteigänger
+werben !
+
+Mir werfen sie vor, ich hätte ihn als „völlig gefühl-
+losen Egoisten" (S. 16), als einen Menschen „voll lächer-
+
+
+79
+
+liebsten Hochmulhs und eitelster Selbstüberhebung"
+(S. 96), als einen „brutalen Gesellen" (S. 100) hinge-
+stellt — sie, die mich in jeder dieser Richtungen mit
+ihrer Publication auf das Maassloseste überbieten!
+Wenn ich von Schopenhauer's exorbitantem Selbstgefühl
+geredet, so kann man bei seinen Evangelisten hier
+Aeusserungen lesen wie diese (1843 an Brockhaus):
+„Es handelt sich in der That darum, ein Werk in die
+Welt zu setzen (den zweiten Band der „Welt als Wille und
+Vorstellung"), dessen Werth und Wichtigkeit so gross
+ist, dass ich selbst Ihnen, dem Verleger gegenüber,
+solche nicht auszusprechen wage, weil Sie mir nicht
+glauben können" (S. 86). „Die grosse Seifenblase
+der Fichte-Schelling-Hegerschen Philosophie ist soeben
+im endlichen Platzen begriffen, dabei ist das Bedürf-
+nisse nach Philosophie grösser als jemals: man wird sich
+jetzt nach soliderer Nahrung umsehen, und die ist
+allein bei mir, dem Verkannten zu finden, weil ich
+der einzige bin, der bloss aus innerem Berufe
+gearbeitet hat" (S. 86). „Ich habe den Schleier
+der Wahrheit tiefer gelüftet, als irgend ein Sterblicher
+vor mir. Aber den will ich sehen, der sich rühmen
+kann, eine elendere Zeitgenossenschaft gehabt zu haben,
+als ich" (S. 377).
+
+Wenn ich angeführt, dass sein Denken im religiösen
+Gebiete verhaltnissmässig mangelhaft ausgebildet geblie-
+ben sei, so geben die EvangeBsten EinfaUe von ihm der
+
+
+80
+
+Oeffentlichkeil preis wie diese : „Aber die Juden sind das
+auserwählte Volk Gottes. — Mag sein; aber der Go-
+sebmack ist verschieden: mein auserwähltes Volk sind
+sie nicht. Quid multa? Die Juden sind das auserwählte
+Volk ihres Gottes, und er ist der auserwählte Gott
+seines Volkes: und das geht weiter niemanden an." —
+„Der liebe Gott, in seiner Weisheit voraussehend, dass
+sein auserwähltes Volk in alle Welt zerstreut werden
+würde, gab dessen Mitgliedern einen specifischen
+Geruch, daran er sie überall erkennen und heraus-
+finden könnte; den foetor jiidaicus" (S. 467).*) Fer-
+ner folgenden „Dialog von Aimo 33: A. Wissen Sie
+schon das Neueste? B. Nein, was ist passirt? A. Die
+Welt ist erlösl! B. Was Sie sagen! A. Ja, der liebe
+Gott hat Menschengestalt, angenommen und sich in
+Jerusalem hinrichten lassen: dadurch ist nun die Welt
+erlöst und der Teufel geprellt. B. Ei, das ist ja
+scharmant." (S. 461.)**) — Wenn ich an dem Ver-
+
+
+*) Schopenhauer verkehrte mit Juden und sein vieljähriger
+Freund Dr, M. Emden war ein Jude, ja von seiner ganzen
+in Berlin sesshaften Anhängerschaft sagt man dasselbe; wo-
+nach wir nur einen weitern Act der Selbstverleugnung der
+Evangelisten anzuerkennen hätten.
+
+*•) Zur Rechtfertigung Schopenhauer's vergesse man nicht,
+wie einsam dieser lebte und wie er deshalb viele Einfalle
+niederschrieb, deren sich andere im Gespräch entledigen
+können, wo dann in der Regel der eine den andern wieder
+iiui macht. So lässt der Erzevangelist (S, 170) Schopen-
+
+
+81
+
+hältnisse Schopenhauer's zu seiner Mutter und Schwester
+Ansloss genommen, so findet dagegen der Erzevan-
+gelist in diesem Verhalten keinen Mangel an Pietät.
+Dies Hesse sich noch hören; aber unerhört ist, dass
+er auf derselben Seite, in demselben Athem erzählt,
+wie Schopenhauer ihm für die Mittheilung eines gering-
+schätzigen Urtheils Anselm Feuerbach's über Johanna
+und Adele Schopenhauer, welches die erstere gemüth-
+und seelenlos nennt, mit den Worten dankt: „Die
+Charakteristik ist nur gar zu treffend. Habe, Golt ver-
+zeih mir's, lachen müssen" (S. 209).
+
+So geht es durch das ganze Buch. Einige Ge-
+danken Schopenhauer's von bleibendem Werth, welche
+hier aus den nachgelassenen Manuscripten , besonders
+der frühsten Zeit, mitgetheilt werden, und welche in der
+übereilten neuen Auflage der Parerga und Paralipomena
+eine passendere Stelle gefunden haben würden, sind
+
+
+hauer im Gespräch mit ihm sagen: „Wenn es keine Hunde
+gäbe, möchte ich nicht leben." Auf S. 292 aber sagt der-
+selbe Schopenhauer: „Wenn ich bei der Verfolgimg eines
+Gedankens unterbrochen werde, besonders durch ein Thier-
+geschrei, das zwischen meine Gedanken hereinfährt, wie das
+Henkerschwert zwischen Kopf und Rumpf, — da empfinde
+ich eines der Leiden, die wir verwirkt haben, als wir mit
+Hunden, Eseln, Enten in Eine Welt herabstiegen." Hier hebt
+wenigstens diese zweite Stelle den Übeln Eindruck der
+ersten wieder auf; wenn anders der Leser, nachdem er bis
+zur ersten gekommen, noch Geduld, bis zur zweiten durch-
+zudringen, gehabt haben sollte.
+
+Gwinner, Schopenhauer u. 8. Freunde. 6
+
+
+82
+
+geeignet, auf die Grundgedanken seines Systems und
+dessen Entslehungsweise neues Licht zu werfen und
+das im siebenten Abschnitt meiner Schrift als das Eigen-
+thümliche und Bedeutsame der Schopenhauer'schen
+Philosophie Hervorgehobene zu erhärten.
+
+Ich habe meine Darstellung dessen, was er lehrte,
+mit den Worten eröffnet: „Vauvenargues sagt: die grossen
+Gedanken kommen aus dem Herzen . . . *) Auch Scho-
+penhauers Philosophie kam aus dem Herzen; wenn
+man bis zu ihrer Wurzel durchdringt und sich nicht
+von einer nebenher gehenden, scheinbar widersprechen-
+den Theorie irre leiten lässt." Die maassgebende, durch-
+greifende Bedeutung dieser Einsicht für das Verständ-
+niss seiner ganzen Philosophie liegt jedoch in seinen
+Schriften keineswegs so oßen zu Tage, dass es über-
+flüssig gewesen wäre, sie hervorzuheben. In seinem
+späteren Gedankenkreise heisst es nur, indem Kant's
+Definition der Philosophie als einer Wissenschaft aus
+blossen Begriffen bestritten wird : „Die Philosophie muss,
+so gut wie Kunst und Poesie, ihre Quelle in der an-
+schaulichen Auffassung der Welt haben; auch darf es
+dabei, so sehr auch der Kopf oben zu bleiben bat,
+doch nicht so kaltblütig hergehen, dass nicht am Ende
+der ganze Mensch, mit Herz und Kopf, zur Action
+
+
+*) Lange vor dem französischen Moralisten hat dasselbe
+Cervantes gesagt: „Das wahre Genie kommt aus dem
+Herzen, nicht aus dem Kopfe." Don Quijote, II, 16.
+
+
+83
+
+käme und durch und durch erschüttert würde. Philo-
+sophie ist kein Algebra-Exerapel. Vielmehr hat Vauve-
+nargues recht, indem er sagt: les grandes pensees
+viennent du coeur'' (Parerga, Bd. 2, §. 9). Zugleich
+aber sah er sich — durch seine falsche Analyse des
+Selbslbewusstseins — genöthigt, den Dualismus zwischen
+Herz und Kopf (bei ihm gleich Wille und Vorstellung)
+bis zu dem Satze zu treiben, dass die eigentliche und
+echte, d. i. bei ihm die objective Erkenntniss (Erkennt-
+niss der Ideen), mit welcher das Genie die Welt er-
+leuchte, in der Freiheit des Inteüects vom Dienste des
+Willens wurzele. Finden wir so in seinem Systeme
+das „Herz" mit dem Willen und den Willen mil dessen
+Richtung auf die irdische Sinnenwell identificirt , so
+treten uns dagegen aus dem Gedankenkreise des, noch
+in keinem bestimmten Systeme festgefahrenen Jünglings
+zwei, von jenen Irrtliümern freie Einsichten entgegen,
+auf die er alles Gewicht legt und deshalb in verschie-
+denen Wendungen immer wieder zurückkommt. Die
+erste derselben lautet: Die Philosophie ist Kunst.
+„Dass die meisten Menschen keine Philosophen
+werden, kommt daher, dass das Concrete, Einzelne der
+Erscheinung, die Mannichfaltigkeit der Erfahrung, durch
+ihren Schein von Reabtät, ihre Aufmerksamkeit fesselt,
+sodass, wenn sie sich von jenen abziehen sollen zu
+einer Betrachtung des Ganzen der Erfahrung, ihnen
+angst und bange wird, wie dem Kind, wenn die Amme
+
+6*
+
+
+84
+
+weggeht. Dem Philosoplien hmgegen wird eben in
+diesem Strom der einzelnen Erscheinungen angst und
+bange; und wie jene nicht die Geduld haben, sich vom
+Einzelnen und Mannichfaltigen zu entfernen und es
+fortfliessen zu lassen, um das Ganze zu betrachten; so
+hat dieser nicht die Geduld, das Einzelne zu belracli-
+ten, bevor er weiss, was er aus dem Ganzen zu
+machen hat." . . . „Es war zu voreilig, dass man aus
+dem bisherigen Misslingen die Hoffnung auf eine genü-
+gende Philosophie aufgab. Man hätte wenigstens denken
+sollen, dass auch hier est quadam prodire tenus. Aber
+die Hoffnung soll man aufgeben, dass eine genügende
+Philosophie, das Abbild der Vollendung der
+Besinnung des Menschen, je dem dumpfen, be-
+sinnungslosen, taumelnden Pöbel einleuchten können und
+d la partes de tont le monde sein werde, Sie wird
+Kunst sein und, wie diese, nur Wenigen wirk-
+lich da sein. Denn für die Meisten sind wieder Mo-
+zart, nochRafael, noch Shakespeare je dagewesen: eine
+unübersteigbare Kluft trennt diese auf immer von der
+Menge, wie die Nähe der Fürsten dem Pöbel unzu-
+gänglich ist. Anders kann es auch mit der echten
+Philoso|)hie nicht sein." . . . „Meint ihr denn, Philo-
+sophie werde nicht sein, wie jedes echte Kunst-
+werk, das unerreichbare Maass, an dem jeder seine
+eigene Höhe misst? sondern sie werde sein wie ein
+Rechnungsexempel, das auch der Beschränkteste und
+
+
+85
+
+Geislesärmsle sich vollsländig aneignen und über-
+sehen kann?" . . . „Die Philosophie ist so lange ver-
+geblich versucht, weil man sie auf dem Wege der
+Wissenschaft, statt auf dem der Kunst suchte. Daher
+hat keine Kunst so entsetzliche Pfuscherei aufzuweisen
+als diese." . . . „Der Philosoph vergesse nie, dass er
+eine Kunst treibt und keine Wissenschaft.". . .
+„Nicht dem Warum gehe er nach, wie der Physiker,
+Historiker und Mathematiker, sondern er betrachte bloss
+das Was und lege es in Begriffen nieder (die ihm sind,
+was der Marmor dem Bildner), indem er es sondert
+und ordnet, jedes nach seiner Art, treu die Welt
+widerspiegelnd in Begriffen, wie der Maler auf der
+Leinwand." . . . „Alle Philosophen haben darin geirrt,
+dass sie die Philosophie für eine Wissenschaft hielten,
+und sie daher am Leitfaden des Satzes vom Grunde
+suchten." . . . „Meine Philosophie soll von allen bis-
+herigen (die platonische gewissermaassen ausgenommen)
+sich im innersten Wesen dadurch unterscheiden, dass
+sie nicht, wie jene alle, eine blosse Anwendung des
+Satzes vom Grunde ist und an diesem Leitfaden daher-
+läuft, was alle Wissenschaften müssen. Daher sie
+auch keine solche sein soll, sondern eine Kunst.
+Aus dem Gewirre unseres Bewusstseins wird sie jede
+einzelne Thatsache herausheben, bezeichnen, benennen,
+wie der Bildner aus dem grossen ungestalteten Marmor-
+felsen bestimmte Formen heraustreten lässl."
+
+
+8G
+
+Also: nur was dem Maler die Leinwand und die
+Farben, dem Bildhauer die Masse, dem Musiker der
+Ton — das sind nach Schopenhauer dem Philosophen
+die Begriffe, ja der Verstand selbst. Alles, was an sich
+ausser den Grenzen des Verslandes liegt, soll der Phi-
+losoph in Begriffen (verstandesmässig) darstellen, so
+weil und so viel als davon in Begriffe gehen will;
+obwohl er weiss, dass diese oft nur wenig davon auf-
+nehmen, dass sie gleich dem Marmor eine harte, spröde,
+farblose Masse sind und sich ihnen nicht einmal, eine
+den Sinnen erfreuliche Seite abgewinnen lässt. *) Er
+begnügt sich; wie der Maler, der vom Körper nur den
+Schein geben, und der Bildner, der keine Farben aus
+dem Stein hauen kann. Wollte der Philosoph mehr,
+so gliche er einem Maler, der von der Leinwand sich
+entfernend in die leere Luft malte und Farben ver-
+spritzte, oder dem geschmacklosen Bildhauer, der seine
+Statuen anmalt. So wenig aber als die Steinmasse den
+Bildhauer macht, macht nach Schopenhauer der Ver-
+stand den Philosophen. Dies ist der Sinn jenes
+Satzes, dass die grossen Gedanken (Ideen) aus dem
+Herzen kommen, und in diösem Sinne hat Schopen-
+hauer philosophirt. In demselben Sinne sagte er einst:
+„Diejenigen, welche behaupten, dass sich ohne Worte
+
+
+*) Hieraus erklärte Schopenhauer auch den unvergleich-
+lichen tiefen Ernst der Philosophie.
+
+
+. 87
+
+nicht denken lasse, kennen das beste Denken niclit/*
+Wer nun die tiefere Bedeutung dieses Satzes nicht ver-
+steht und dessen weitgreifenden Zusammenhang mit
+den Aufgaben der Philosophie nicht ermisst, der stelle
+Schopenhauer einstweilen zu den Romantikern, da ist
+er gut aufgehoben, bis ein Anderer kommt, der das
+Räthsel löst; der Gehalt seiner Lehre wird davon nicht
+berührt, und die Nachwelt mag , entscheiden, ob wir es
+hier mit einem „Einfall" zu thun haben, oder aber
+mit der Rohheit und ünempfanglichkeit eines ganz in
+das irdische Leben versenkten Zeitalters.
+
+Hiermit nahe verwandt ist der andere Gedanke,
+welcher in der Seele des Jünglings mächtig aufblitzte
+und die düstere Nacht seines Erdenlebens durchleuch-
+tete: es ist der von der Duplicität unseres Be-
+wusstseins.
+
+„Welch ein Gegensatz! Einerseits finden wir nur
+die Materie als real, bleibend, wahrhaft seiend, die
+Form dagegen als hinfallig, verschwindend, nichtig.
+Andererseits ist nur die Form das Reale, von Zeit und
+Raum Freie, die nur die Art ihres Erscheinens sind,
+wie die Materie eben nur ihre Sichtbarkeit. Die Form
+(ei8o<;) ist unvergänglich, weil sie ausser der Zeit liegt;
+die Materie ist unvergänglich, weil sie in unendlicher
+Zeit ('die ihr nichts anhaben kann) besteht. Diese
+Antinomie liegt nicht in der Vernunft, sondern
+sie ist der Wendepunkt, auf dessen Spitze die Welt
+
+
+balancirl: sie ist einer der Ausdrücke des Gegensalzes
+zwischen empirischem und besserm Bewussl-
+sein: jede ihrer Antithesen ist wahr und ist falsch,
+je nachdem man auf diesem oder jenem Standpunkt
+steht. Sie ist theoretisch, was Tugend und Laster
+praktisch. Der erste Standpunkt ist der der Wissen-
+schaft, der zweite der der Kunst. Zum ersten leitet
+die Vernunft, zum zweiten das Genie. Alle Philo-
+sophen haben auf einem von beiden gestanden. Auf
+dem ersten Aristoteles und fast alle: auf dem zweiten
+sehr wenige, aber Piaton und Kant. Auf dem ersten
+steht der Empirismus, aber eigentlich ebenfalls der
+Rationalismus, weil eben die Vernunft so gut, als Sinne
+und Verstand, dem empirischen Bewusstsein an-
+gehört, der Erkenntniss nach dem Satz vom
+Grunde: als der wahre Gegensatz vom Empirismus
+und Rationalismus steht auf dem zweiten Standpunkt
+der echte Kriticismus." . . . „Aber das bessere Be-
+wusstsein kennt weder Object noch Subject:
+es steht also auf keinem von beiden Standpunkten,
+da auch die platonische Idee ein Object ist. Aber seine
+Aeusserung, das Genie, steht auf dem zweiten Stand-
+punkt. Seine andere Aeusserung, die Heiligkeit,
+besteht darin, dass man die Idee der Welt anschaut
+und sie nicht will." . . . „Das in uns, was sich über
+die Sinnenwelt erhebt, das jenseits aller Erfahrung, also
+aller Vernunft, sowohl theoretischen, wie [)raktischen lie-
+
+
+89
+
+gende bessere Bewusstsein hat mit ihr nichts zu
+thun, als insofern es, vermöge seiner geheimnissvollen
+Verbindung mit ihr in Einem Individuo, auf sie stösst,
+wo dann dem Individuo die Wahl entsteht, ob es Ver-
+nunft oder besseres Bewusstsein sein will. Will es
+Vernunft sein, so wird es als theoretische Vernunft
+ein Philister, als praktische ein Bösewicht. W^ill es
+besseres Bewusstsein sein, so können wir positiv
+von ihm nichts weiter sagen; denn unser Sagen liegt
+im Gebiet der Vernunft, wir können also nur sagen,
+was auf diesem vorgeht, wodurch wir von dem bes-
+seren Bewusstsein nur negativ sprechen. Die Vernunft
+also leidet dann eine Störung: als theoretische sehen
+wir sie verdrängt und an ihre Stelle das Genie, als
+praktische sehen wir sie verdrängt und an ihre Stelle
+die Tugend treten."
+
+Schon frühe also war das vierte Buch der Welt
+als W-ille und Vorstellung in seinem Geiste präformirt.
+Aber zugleich sagt derselbe Jüngling Schopenhauer:
+„Das Zeitliche in uns gehört der Zeit, muss in ihr lei-
+den und vergehen: für selbiges ist keine Rettung. Nur
+das Ewige kann durch Selbstbejahung, d. i. Tugend,
+sich retten." Hier also kennt er noch eine „Selbst-
+bejahung des Ewigen", welche in dem System zur
+blossen „Verneinung des Willens zum Leben*' geworden
+ist, weil, wie idi nachgewiesen, der überspannte Idea-
+
+
+90
+
+lismus dieses Systems dem „besseren Bewusslsein" sein
+substantielles Substrat (das Gefühl) entzogen und das
+principium individui als blosse Täuschung des Intel-
+lects bestimmt hat.
+
+Wenn Schopenhauer selbst das zwiefache Verdienst
+seiner Philosophie einerseits in die Zerlegung des
+Geistes oder Ichs in zwei ganz verschiedene Theile, in
+einen primären wesentlichen, den Willen, und einen
+secundären, den Intellect (zweites und viertes Buch der
+Welt als Wille und Vorstellung), und andererseits in die
+Zerlegung dieses Inlellects in eine Welt der Vorstellung
+nach dem Satze vom Grunde und in eine solche un-
+abhängig von demselben (erstes und drittes Buch der
+Welt als Wille und Vorstellung) setzt: so muss man,
+wie ich gethan habe, anerkennen, dass ihm die Zer-
+legung des Geistes gelungen ist, aber auf Kosten der
+Einheit desselben, und dass durch seiiie auf Platon's
+und Kant's Schultern stehende tiefsinnige Metaphysik
+der Idealgrund der Welt neues Licht gewonnen hat,
+aber auf Kosten des Realgrundes derselben, der in
+Schopenhauer's überspanntem Idealismus entgründet,
+zum grundlosen blinden Triebe geworden ist: indem
+er zwar die Aufgabe der Philosophie mit bewunde-
+rungswürdigem Scharfsinne von der Frage nach dem
+blossen Warum und Wodurch (Erkenntnissgrund und
+causa efficiens) zu der Frage nach dem Was (Seins-
+
+
+>
+
+^
+
+
+91
+
+gnind s. Str. oder Existenzialgrund) erhoben; aber
+diesen selbst wieder nur als blosses Phänomen des
+Intellects gefasst und mithin die von ihm an die Spitze
+der Welt als Wille und Vorstellung gestellte Frage
+Goelhe's: Ob nicht Natur zuletzt sich doch ergründe?
+unbeantwortet gelassen hat.

@@ -1,0 +1,272 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Gleichnisse, Parabeln und Fabeln (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Similes, parables and fables - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 523-527. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-46. The chapter's display heading stands in this copy as ". Gleichniſſe, Parabeln und Kabeln. $. 379. Den Hohlfpiegel" - the OCR missets numerals and letters, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 10, which took the second band of Parerga, as the collection holds it, to TWENTY-FOUR chapter files (27 and 30-52), all but one from this one scan, and its paragraph numbers run on from chapter to chapter (spot-check 23). §§ 379-396, and § 396 is the parable of the porcupines, which the collection already holds as file 05 from a clean transcription - so the same short text stands here twice, once clean and once as this scan reads it, and the two were compared (spot-check 24). Between this chapter and its predecessor lies Ueber Lerm und Geräusch (file 06), left as the cleaner Wikisource text rather than duplicated here. OCR warning: f for the long s and sometimes f for k, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-46. It prints f for the long s, sometimes b for d and B for V, and it mangles a heading or a page's first line; the long s has been normalised to s (72 here). Cut between the print's own display headings; the heading in this copy reads ". Gleichniſſe, Parabeln und Kabeln. $. 379. Den Hohlfpiegel kann". Page markers were made only from running heads naming this chapter inside its proved range (0 made); the chapter's range by the volume's own heads is S. 523-527.]
+
+.
+Gleichnisse, Parabeln und Kabeln.
+
+
+$. 379.
+
+Den Hohlfpiegel kann man zu mannigfaltigen Gleichniffen
+benugen, 3. B., wie oben beiläuftg geichehn, ihn mit dem Genie
+vergleichen, fofern auch dieses feine Kraft auf Eine Stelle fon-
+centrirt, um, wie er, ein täufchendes, aber verfchönertes Bild
+der Dinge nach auffen zu werfen, oder überhaupt Licht und
+Wärme zu erftaunlihen Wirfungen anzuhäufen. Der elegante
+Polyhistor hingegen gleiht dem Fonveren Zerftreuungsfpiegel,
+als welcher, nur wenig unter feiner Oberfläche, alle Gegen-
+ftände zugleich und ein verkleinertes Bild der Sonne dazu. fehn
+läßt, und folhe, nach allen Richtungen Jedem entgegen wirft;
+während der Hohlfpiegel nur nad) Einer wirft und eine beftimmte
+Stellung des Beschauers fordert.
+
+Zweitens läßt auch jedes ächte Kunstwerk sich dem Hohlfpies
+gel vergleichen, fofern was es eigentlich mittheilt nicht fein eiges
+nes, taftbares Selbft, fein empirifcher Inhalt ift, fondern außer
+ihm liegt, nicht mit Händen zu greifen, vielmehr nur von ber
+Phantafie verfolgt wird, als der eigentliche, schwer zu hafchende
+Geift der Sache. Dan fehe hierüber in meinem Hauptmwerfe
+Kay. 34, ©. 407 des zweiten Bandes,
+
+Endlich kann auch noch ein hoffnungslos Liebender feine
+graufame Schöne dem Hohlfpiegel epigrammatifch vergleichen,
+als welcher, wie diefe glänzt, entzündet und verzehrt, dabei aber
+selbst kalt bleibt.
+
+$. 380.
+
+Die Schweiz gleicht einem Genie: schön und erhaben, je
+doch wenig geeignet, nahrhafte Frucht zu tragen. Dagegen ist
+Pommern und das holsteinische Marfchland überaus fruchtbar
+
+
+©leichniffe, Parabeln und Fabeln. 521
+
+
+und nahrhaft, aber platt und Yangweilig, wie ber nüßliche
+Philifter.
+$. 381.
+
+
+Es giebt auf der Erde wirklich fehr schöne Landfchaften:
+aber mit der Staffage ift es überall fchlecht beftellt; daher man
+bei diefer fich nicht aufhalten muß.
+
+$. 382.
+
+Zum Symbol der Unverfhämtheit und Dummbreiftigfeit
+follte man bie Fliege nehmen. Denn während alle Thiere den
+Menschen über Alles fcheuen und schon von ferne vor ihm fliehen,
+setzt fie fih ihm auf die Nafe.
+
+$. 383.
+
+Zwei Chinefen in Europa waren zum erften Mal im Theater.
+Der eine bejchäftigte fih damit, den Mechanismus der Mafchi-
+nerien zu begreifen; welches ihm auch gelang. Der andere
+fuchte, trog feiner Unfunde der Sprache, den Sinn des Stüdes
+zu enträthfeln. — jenem gleicht der Afironom, diefem der Phi:
+losoph. |
+
+$. 384.
+
+
+Ich ftand an der Duedfilberwanne des prreumatifchen Ap—
+parats und mit einem eifernen Löffel fchöpfte ich einige Tropfen,
+warf fie in die Höhe und fieng fie wieder, mit dem Löffel: miß—
+Yang ed, fo fielen fie in die Wanne zurüd, und nichts gieng
+verloren, als nur ihre augenblidlihe Form; daher Gelingen
+und Mißlingen mich ziemlich gleichgültig ließ. — So verhält
+fih die natura naturans, oder das innere Wefen aller Dinge,
+zum Leben und Sterben der Individuen.
+
+$. 385.
+
+Die Weisheit, welche in einem Menfchen bloß theoretiich
+da ift, ohne praftifch zu werben, gleicht der gefüllten Rose, wel⸗
+che, durch Farbe und Geruch, Andere ergögt, aber abfällt, ohne
+Frucht angefegt zu haben.
+
+$. 386.
+
+Der Hund ift, mit Net, das Symbol der Treue: unter
+den Pflanzen aber follte es die Tanne seyn. Denn fie allein
+harrt mit und aus, zur fehlimmen, wie zur guten Zeit, und ver-
+fäßt ung nicht mit der Gunft der Sonne, wie alle andern Bäume,
+
+
+522 Gleichnisse, Parabein und Kabeln.
+
+
+Pflanzen, Infekten und Bögel, — um wiederzufehren, wann ber
+Himmel und wieder lacht.
+$. 387.
+
+Als ich einft unter einer Eiche botanifirte, fand ih, zwi—
+hen den übrigen Kräutern und von gleicher Größe mit ihnen,
+eine Pflanze von dunkler Farbe, mit zufammengezogenen Blät-
+tern und gerabem, ftraffen Stiel. Als ich fie berührte, fagte fie
+mit fefter Stimme: „mich lass' ftehn! Ich bin fein Kraut für dein
+Herbarium, wie jene andern, denen die Natur ein einjähriges
+Leben beftimmt hat. Mein Leben wird nad Jahrhunderten ge-
+messen: ich bin eine Fleine Eiche.’ — So fteht Der, dessen Wir-
+fung fih auf Jahrhunderte erfteden fol, als Kind, ald Jüngling,
+oft noch als Mann, ja, überhaupt als Lebender, fcheinbar den
+Uebrigen gleich und wie fie unbebeutend. Aber laßt nur die Zeit
+fommen und mit ihr die Kenner! Er ftirbt nicht wie Die Uebrigen.
+
+$. 388.
+
+Ich fand eine Feldblume, bewunderte ihre Schönheit, ihre
+Bollendung in allen Theilen, und rief aus: „aber alles Diefeg,
+in ihr und Taufenden ihres Gleichen, prangt und verblüht, von
+niemanden betrachtet, ja, oft von Feinem Auge auch nur gefehn.‘
+— Sie aber antwortete: „bu Thor! meinft du, ich blühe, um
+gefehn zu werden? Meiner und nicht der Anbern wegen blühe
+ich, blühe, weil's mir gefällt: darin, daß ich bfühe und bin, be-
+ftebt meine Freude und meine Luft.“
+
+$. 389.
+
+Zu der Zeit, als die Erboberfläche noch aus einer gleich-
+fürmigen, ebenen Granitrinde beftand und zur Entftehung irgend
+eines Lebendigen noch Feine Anlage da war, gieng eines Mor-
+gend die Sonne auf, Die Götterbotin Iris, melde eben, im
+Auftrage der Juno, dahergeflogen kam, rief, im Borübereilen,
+der Sonne zu: „was giebft du dir die Mühe aufzugehn? ift
+doch Fein Auge da, did wahrzunehmen, und Feine Memnong-
+fäule, zu erklingen!” Die Antwort war: „ich aber bin die Sonne,
+und gehe auf, weil ich e8 bin: jehe mich wer kann!“ —
+
+$. 390.
+
+Eine fhöne, grünende und blühende Dafis fah um fi
+und erblidte nichts, als die Wüste rings umher: vergebeng
+fute fie, ihres Gleichen gewahr zu werben. Da brach fie in
+
+
+Steichniffe, Parabein und Zabelı. 923
+
+
+Klagen aus: „ich unglüdliche, verlaffene Dafıs! allein muß ich
+bleiben! nirgends meines Gleichen! ja, nirgends auch nur ein
+Auge, das mich fähe und Freude hätte an meinen Wiefen,
+Duellen, Palmbäumen und Gesträuchen! Nichts, als die trau:
+vige, sandige, felfige, Teblofe Wüfte umgiebt mid. Was beifen
+mir alle meine Vorzüge, Schönheiten und Neichthümer in biefer
+Verlassenheit!“
+
+Da sprach die alte, graue Mutter Wüste: „mein Kind,
+wenn Dem anders wäre, wenn ich nicht die traurige, dürre
+Wüste wäre, sondern blühend, grün und belebt, dann wärst du
+keine Oase, kein begünstigter Fleck, von dem, noch in der Ferne,
+der Wanderer rühmend erzählt; sondern wärst eben ein kleiner
+Theil von mir und als solcher verschwindend und unbemerkt.
+Darum also ertrage in Geduld was die Bedingung deiner Aus—
+zeichnung und deines Ruhmes ist.“
+
+
+&. 391.
+er im Luftballon auffteigt fieht nicht fich fich erheben, fondern
+die Erde herabfinfen, tiefer und immer tiefer. — Was foll das?
+Ein Mofterium, welches nur die Beipflichtenden verftehn.
+
+
+$. 392.
+In Hinfiht auf die Schägung der Größe eines Menfchen
+gilt für die geiftige das umgefehrte Gefeg ber physischen: diese
+wird durch die Ferne verfeinert, jene vergrößert.
+
+
+$. 393.
+
+Wie den zarten, angehauchten Thau über blaue Pflaumen,
+hat die Natur über alle Dinge den Firni der Schönheit ge-
+zogen. Diefen abzuftreifen, um ihn dann aufgehäuft zum be>
+quemen Genuß uns darzubringen, find Maler und Dichter eifrig
+bemüht. Dann fohlürfen wir, schon vor unferm Eintritt ine
+wirkliche Leben, ihn gierig ein. Wann wir aber nachher in dies
+fes treten, dann ift ed natürlih, dag wir nunmehr die Dinge
+von jenem Firnig der Schönheit, den die Natur darüber gezo-
+gen hatte, entblößt erbliden: denn die Künftler haben ihn gänz-
+lich verbraucht und wir ihn vorgenoffen. Demzufolge erfcheinen
+ung jegt die Dinge meiftens unfreundlih und reizlos, ja, widern
+oft und an. Demnad) würde es mohl befler feyn, jenen Firniß
+Darauf zu Yaffen, damit wir ihn felbft fanden: zwar würben wir
+
+
+>24 Gleichnisse, Parabein und Fabeln.
+
+
+dann ibn nicht in fo großen Dofen, aufgehäuft und auf ein Mal
+in Form ganzer Gemälde, oder Gedichte, genießen; dafür aber
+alle Dinge in jenem heitern und erfreulichen Lichte erbliden,
+in welchem jest nur no dann und wann ein Naturmensch fie
+fieht, der nicht, mittelft der schönen Künfte, feine äftpetifchen
+Freuden und den Reiz des Lebens — genossen hat.
+
+$. 394
+
+Der Dom in Mainz, yon um und an ihn gebauten Häu-
+fern fo verdedt, daß man nirgends ihn ganz fehn kann, ift mir
+ein Sinnbild alles Großen und Schönen auf der Welt, als wel-
+des nur feiner felbft wegen dafeyn follte, aber bald mißbraucht
+wird vom Bedürfniß, welches von allen Seiten heranfommt,
+um daran fi) zu lehnen, sich zu ftügen, und damit es verbedt
+und verdirbt. Das ift freilich Fein befremdender Hergang, in
+diefer Welt der Noth und des Bebürfnifies, welchen ja überall Alles
+fröhnen muß, und die Alles an fich reißen, um ihre Werkzeuge
+daraus zu machen; felbft Das nicht ausgenommen, was nur bei
+ihrer augenblidlichen Abwesenheit hatte erzeugt werden können:
+das Schöne und das feiner felbft wegen gesuchte Wahre.
+
+$. 39.
+
+Eine Mutter hatte ihren Kindern, zu ihrer Bildung und
+Beflerung, Aesop's Fabeln zu lesen gegeben. Aber fehr bald
+brachten fie ihr das Buch zurüd, wobei der ältefte fi, gar alt-
+flug, alfo vernehmen ließ: „Das ift Fein Buch für ung! ist viel
+zu findifch und zu dumm. Daß Füchse, Wölfe und Raben reden
+fönnten, lassen wir und nicht mehr aufbinden: über folche Boflen
+find wir Yängft hinaus!” — Wer erfennt nicht in Dielen Hoff:
+nungssollen Knaben die Fünftigen erleuchteten Rationaliften ?
+
+$. 396. '
+
+Eine Gefellihaft Stachelfchweine drängte fih, an einem
+falten Wintertage, recht nahe zufammen, um durch die gegenfeitige
+Wärme, fih vor dem Erfrieren zu schützen. Jedoch bald empfan-
+den fie die gegenfeitigen Stacheln; welches fie Dann wieder von
+einander entfernte. Wann nun das Bebürfniß der Erwärmung
+fie wieder näher zufammen brachte, wiederholte fich jenes zweite
+Uebel; fo daß fie zwifchen beiden Leiden hin und hergemorfen
+wurben, bis fie eine mäßige Entfernung yon einander heraus
+gefunden hatten, in ber fie es am beften aushalten konnten. —
+
+
+Gleichnisse, Parabeln und Kabeln. 525
+
+
+Sp treibt das Bedürfniß der Gefellfchaft, aus der Leere und
+Monotonie des eigenen Innern entfprungen, die Menfchen zu
+einander; aber ihre vielen widerwärtigen Eigenfchaften und un—
+erträglichen Fehler ftoßen fie wieder von einander ab, Die mitt:
+lere Entfernung, die fie endlich herausfinden, und bei welder
+ein Beisammenseyn bestehn kann, ift die Höflichkeit und feine
+Sitte. Dem, der fih nicht in diefer Entfernung hält, ruft man
+in England zu: keep your distance! — Bermöge berfelben
+wird zwar das Bebürfnig gegenfeitiger Erwärmung nur unvoll-
+fommen befriedigt, dafür aber der Stih der Stacheln nit
+empfunden. — Wer jedoch viel eigene, innere Wärme hat bleibt
+lieber aus der Gefellfehaft weg, um Feine Beichwerbe zu geben,
+noch zu empfangen.

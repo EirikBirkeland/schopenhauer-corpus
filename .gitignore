@@ -1,0 +1,4 @@
+# Owner-supplied image, unreadable inside this container (stat and read are denied even
+# to root, so git cannot hash it here). It is the owner's file, not an orphan: a push
+# from the owner's own checkout will carry it into the repository.
+SourceTypes.jpg

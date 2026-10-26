@@ -1,0 +1,391 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Einige Verse (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Some verses - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 527-534. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-46. The chapter's display heading stands in this copy as "Einige Berfe Ich bin mir eines Aktes der Selbftverläugnung bewu" - the OCR missets numerals and letters, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 10, which took the second band of Parerga, as the collection holds it, to TWENTY-FOUR chapter files (27 and 30-52), all but one from this one scan, and its paragraph numbers run on from chapter to chapter (spot-check 23). Unnumbered in the print, and the last piece of the second band that this scan renders at all: the pages after it come out of the OCR as a shredded tail, and the copy's errata are not included. OCR warning: f for the long s and sometimes f for k, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-46. It prints f for the long s, sometimes b for d and B for V, and it mangles a heading or a page's first line; the long s has been normalised to s (53 here). Cut between the print's own display headings; the heading in this copy reads "Einige Berfe Ich bin mir eines Aktes der Selbftverläugnung bewußt,". Page markers were made only from running heads naming this chapter inside its proved range (2 made, S. 528 to S. 529); the chapter's range by the volume's own heads is S. 527-534. The volume's last pages after these verses are a garbage tail in this scan (a decorated or blank plate the OCR shredded), and the copy's errata are not included.]
+
+Einige Berfe
+
+
+Ich bin mir eines Aktes der Selbftverläugnung bewußt,
+indem ich dem Publiko Verse vorlege, die auf poetischen Werth
+feinen Anspruch zu machen haben; fchon weil man nicht Dichter
+und Philofoph zugleich feyn kann. Auch geichieht ed einzig und
+alfein zu Gunften Derer, bie dereinft, im Laufe der Zeit, an
+meiner Philofophie einen fo Tebhaften Antheil nehmen werben,
+daß fie jogar irgend eine Art von persönlicher Befanntfchaft mit
+dem Urheber berfelben wünfchen werden, die dann aber nicht
+mehr zu machen feyn wird. Da nun in Gedichten, unter der
+Hülle des Metrums und Neims, der Menfch fein fubjeftives In—
+neres freier zu zeigen wagt, als in der Profa, und sich über-
+haupt auf eine mehr rein menfchliche, mehr perfönliche, jedenfalls
+ganz anderartige Weise mittheilt, als in Philofophemen, und
+eben dadurch einigermaaßen näher an ben Lejer herantritt; fo
+bringe ich jenen Theilnehmenden fpäterer Zeit das Opfer, einige,
+meistens aus der Jugendzeit ftammende, poetische Berfuche hieher
+zu feßen, in der Erwartung, daß fie mir ed Danf mwiflen wer-
+den; wobei ich denn die Uebrigen bitte, Dies als eine Privat-
+sache zwifchen ung zu betrachten, die bier zufällig öffentlich vor-
+geht. Verse druden lassen ift in der Litteratur was in der Ge—
+sellschaft das Singen eines Einzelnen ift, nämlich ein Aft per-
+jönliher Hingebung; — zu welchem ganz allein die befagte
+Rüdficht mid) hat vermögen fünnen.
+
+
+Einige Berfe. 57
+
+
+Weimar 1808.
+Sonnet.
+
+
+Die lange Winternacht will nimmer enden;
+Als Fam’ fie nimmermehr, die Sonne weilet;
+Der Sturm mit Eulen um die Wette beulet;
+Die Waffen flirren, an den morfchen Wänden.
+
+
+Und offine Gräber ihre Geifter fenden:
+
+Sie wollen, um mich her im Kreis vertheilet,
+Die Seele fhreden, daß fie nimmer heilet; —
+Doch will ich nicht auf fie die Blicke wenden.
+
+
+Den Tag, den Tag, ich will ihn laut verfünden!
+Nacht und Gefpenfter werben vor ihm fliehen:
+Gemeldet ift er Schon vom Morgenfterne.
+
+
+Bald wird es licht, auch in den tiefften Gründen:
+Die Welt wird Glanz und Farbe überziehen,
+Ein tiefes Blau die unbegränzte Ferne.
+
+
+nudolstadt, 1818.
+Die Felsen im Thale bei Schwarzburg.
+
+
+As ih, am fonnigen Tage, im Thale der mwaldigen Berge
+
+Einfam gieng, hat ich Acht auf die zackigen Glieder der Felfen,
+
+Die fih jo grau dem Gewühle der Kinder des Waldes ent-
+winden.
+
+Siehe, da hab' ich's gehört, durch's Rauschen des schäumenden
+Waldbachs,
+
+Wie ein gar mächtiger Fels die andern also begrüßte:
+
+„Freut euch, Brüder, mit mir, ihr ältesten Söhne der Schöpfung,
+
+Daß auch heute das Licht der erquickenden Sonn' uns umspielet,
+
+Eben fo warm und fo Hold, als da fie zum ersten Mal auf-
+gieng
+
+Und, an dem Kindestage ber Welt, auf ung, ja auf ung fchien.
+
+Gab feitdem gleich mancher der langsam ziehenden Winter
+
+Müge von Schnee unferm Haupt und Bart aus Zapfen bes
+Eijeg,
+
+ [S. 528]
+
+
+Sind feitdem gleich viele von unfern mächtigen Brüdern
+
+Bon dem gemeinfamen Feinde, dem wuchernden Bolfe ber
+Pflanzen,
+
+— Flüchtigen Söhnen der Zeit, doch ach! flets neu sich gebä-
+rend, —
+
+Tief überdeckt und begraben und leider auf immer entzogen
+
+Diefem erfreulichen Lichte, das mit ung fie ja gesehen,
+
+Taufend und taufend Jahr’, eh’ aus Fäulniß einft jene Drut
+ward,
+
+Die fhon ung, o ihr Brüder, auch und ja den Untergang drohet,
+
+An ung heran fo fest von allen Seiten fih drängend, —
+
+O ftehet fefl, meine Brüder, und haltet Fräftig zufammen,
+
+Hebet vereinet die Häupter zur Sonne, daß lang fie euch scheine!“
+
+
+Sonnenstrahl duch Wolken, im Sturme.
+
+
+O wie ruhst du im Sturme, der Alles beugt und zerftreuet,
+
+Fest, unerfehüttert und ftill, du Strahl der erheiternden Sonne!
+Lächelnd wie bu, wie du mild, wie bu feft und in ewiger Klarheit,
+Ruhet der Weife im Sturm des jammer» und angftvollen Lebens.
+
+
+Morgen im Harz.
+
+
+Bon Dünften fohwer, von Wolfen schwarz,
+Sah' düfter drein der ganze Harz:
+
+Und die Welt, die war trübe. —
+
+Da fam hervor der Sonnenfcein,
+
+Der lachte drein,
+
+Ward Alles Freudigfeit und Liebe.
+
+
+Er legt fih an des Berges Hang,
+Da ruht er fill, da ruht er lang,
+In tiefer, feel’ger Wonne.
+
+Zu Berges Gipfel er dann gieng,
+Den ganzen Gipfel er umfieng:
+Wie liebt der Berg die Sonne!
+
+
+II.
+
+
+Einige Verse.
+
+
+Dresden, 1815.
+Auf die Siftinifhe Madonna.
+
+
+Sie trägt zur Welt ihn: und er fchaut entjegt
+In ihrer Gräu'l chaotische Verwirrung,
+
+In ihres Tobens wilde Naferet,
+
+In ihres Treibend nie geheilte Thorheit,
+
+In ihrer Dunalen nie geftillten Schmerz, —
+Entfegt: doch ftrahlet Ruh’ und Zuverficht
+Und Siegesglanz fein Aug’, verfündigend
+Schon der Erlöfung ewige Gewißheit.
+
+
+Berlin, 1829.
+Räthsel der Turandot.
+
+
+Ein Kobold ift’s, zu unserm Dienft geworben,
+Uns beizuftehn, in unf’rer vielen Noth.
+
+Im Elend wären Alle wir geftorben,
+
+Ständ’ er und nicht tagtäglich zu Gebot.
+
+
+Doch firenger Zucht bebarf’s, ihn zu regieren,
+Daß stets gefeffelt bleibe feine Macht;
+Man darf ihn aus den Augen nicht verlieren,
+Ihn Feine Stunde Yaffen außer Acht.
+
+
+Denn feine Art ift Teufelstift und Tüde:
+Er brütet Unheil, finnet auf Berratb;
+Er ftellet unferm Leben nach und Glüde,
+Bereitet Tangfam graufenvolle That.
+
+
+Gelingt ed ihm, die Fesseln zu zerbrechen,
+Und wird des lang befeufzten Zwangs er los;
+Sp eilt er, für die Knechtschaft sich zu rächen,
+Und feine Wuth ift, wie fein Jubel, groß.
+
+
+Er ift nun Herr, und wir find feine Knechte:
+
+Umfonft ift jeglicher Versuch fortan,
+
+Zurüdzubringen unfre alten Rechte:
+
+Der Zwang ift aus, gebrochen ift ber —
+4
+
+ [S. 529]
+
+
+Des Sklaven wilde Wuth ift losgebunden,
+Sie füllet Alles jest mit Tod und Graus:
+In kurzer Frift, in wenig Schredenftunden,
+Verschlinget fie den Herren und fein Haus.
+
+
+1830.
+
+
+Der Iydifche Stein,
+
+
+eine Fabel.
+
+
+Auf einen schwarzen Stein war Gold gerieben;
+Ein gelber Strich jedoch war nicht geblieben:
+„Dies ift nicht ächtes Gold!” fo riefen Alfe.
+Man warf es hin, zu fchlechterem Metalle.
+
+
+Es fand fih fpät, daß jener Stein, obzwar
+Bon Farbe schwarz, doch fein Probierftein war.
+Hervorgefucht kam jest das Gold zu Ehren:
+Nur Achter Stein kann ächtes Gold bewähren.
+
+
+1881.
+Die Blumenvafe.
+
+
+„Sieh, wie nur wenige Tage, nur wenige Stunden wir blühen,“
+Rief eine prangende Schaar farbiger Blumen mir zu,
+
+„Dennoch schreckt fie und nicht, diefe Nähe des finfteren Orkus:
+Allezeit find wir ja da; leben ja ewig, wie Du.”
+
+
+Frankfurt a. M. 1837.
+
+
+In ein Eremplar des Trauerfpiels Numancia von Ger:
+vantes, welches mir in einer Auftion zugefallen war, hatte der
+frühere Befiger nachftehendes Sonnet von A. W. von Schlegel
+eingejhrieben. Nachdem ich das Trauerfpiel gefefen hatte, fchrieh
+ih die Stanze daneben, welche ich mit „Bruststimme,“ wie E
+fteres mit „Kopfstimme,“ bezeichnet babe.
+
+
+Einige Berfe. 531
+
+
+Kopfftimme.
+
+
+Roms Heeren, die von langem Kampf erichlaffen,
+Numancia frei und Fühn entgegenftunde.
+
+Da naht des unabwenbbar'n Schicksals Stunde,
+AS Scipio nen der Krieger Zucht erfchaffen.
+
+
+Umbollwerft nun, verfhmachtend, helfen Waffen
+Den Tapfern nicht; fie weihn im Todesbunde
+Sich, Weiber, Kinder, Einer Flamme Schlunde,
+Um dem Triumph die Beute zu entraffen.
+
+
+Sp triumphirt, erfiegend noch, Hispania:
+Stolz wandeln ihre Heldenblutverftrömer
+Zur Unterwelt, auf würdigem Kothurne.
+
+
+Wen Libyen nicht erzeugte, noch Hyrfania,
+Der weint: ed meinten wohl die legten Römer
+
+
+Hier an des letzten Numantiners Urne.
+A. W. v. Schlegel.
+
+
+Bruststimme.
+
+
+Den Selbstmord einer ganzen Stadt
+Gervantes hier gefchildert hat.
+Wenn Alles bricht, fo bleibt uns nur
+Rückkehr zum Urquell der Natur.
+
+
+1845.
+Antifteophe zum 73ften Venetianischen Epigramme.
+
+
+Wundern darf ed mich nicht, daß manche Die Hunde verläumben:
+Denn es befhämet zu oft leider den Menden der Hund.
+
+
+u ee —
+
+
+El
+
+
+JL
+
+
+Digitized by Google
+
+
+4°
+-
+
+
+>
+ut“
+N
+
+
+*
+—D os
+
+
+r.
+
+
+pt
+u —
+—2
+
+
+2 ——— >
+
+
+*
+
+
+x
+
+
+‚
+
+
+LE.
+EN
+
+
+*
+
+
+ET
+.
+—
+7 ur
+I.
+\ —
+ie
+*
+Jl
++ .
+r .
+a
+x >
+a B

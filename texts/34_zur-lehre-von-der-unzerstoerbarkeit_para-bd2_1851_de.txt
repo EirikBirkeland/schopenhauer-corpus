@@ -1,0 +1,614 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Zur Lehre von der Unzerstoerbarkeit unseres wahren Wesens (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On the indestructibility of our true being - the English title is this collection's rendering, and where a printed English title exists the note says so
+# year: 1851
+# edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851. The chapter's own pages, so far as its running heads survive in this layer, run 230 to 238, and four of those heads are recovered as [[S. n]]; an earlier note here claimed S. 240-257, which the print's own heads contradict - corrected 2026-10-26, pass 38, and the range beyond the recovered heads is NOT established. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27, 30 and 31.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 8, one of six chapters cut from the same volume while its map was fresh; see P-06 for the volume's chapter map and GAP-4 for what is still missing. An English rendering of this chapter is in the collection among the Saunders essays (file 15 carries "IMMORTALITY: A DIALOGUE"); the pairing was NOT checked this pass. OCR warning as in files 27, 30 and 31: this scan prints f for the long s, so search both shapes (bin/schop-grep.js -f does it) and read a quotation against the scan before repeating it. WHAT THE PRINT CARRIES AT ITS END, and pass 38 read it: the chapter closes with a printed sub-heading 'S. 141. Kleine dialogische Schlußbelustigung' (a SECTION number of the 1851 printing, not a page), and then a dialogue between THRASYMACHOS and PHILALETHES. So the dialogue is not a translator's fancy: the German chapter ends that way, and Saunders translated the close and left the prose. OCR WARNING, extended: this scan shreds the speakers' names into Thrafymados, Thrafymahod and Thrasymachos, so search a stem (Thrasym-, Philal-) before declaring a name absent.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition - the copy that also yielded files 27, 30 and 31. It prints f for the long s, sometimes b for d and x for x, and it mangles a heading or a page's first line now and then; the long s has been normalised to s (178 here). The chapter was cut between its own display heading and the next one, so the seam is the print's. Paragraph numbers stand as printed - the paragraph marks that stand at line beginnings here read § 134 to § 141, which is a guide and not a table: this OCR lifts a cross-reference to a line beginning now and then, so a paragraph number quoted from here should be seen on the scan. Page markers come only from running heads that name this chapter and whose page lies in the range the volume's heads prove (1 made, S. 240 to S. 240); where a head was garbled nothing was invented, and the chapter's page range by the table of contents is S. 240-257.]
+
+Kapitel X.
+
+
+Zur Lehre von der Unzerfiörbarfeit unferes wahren
+Wefens dur den Tod.
+
+
+$. 134.
+
+
+Obgleich ic) in meinem Hauptwerfe diefen Gegenfland im
+Zufammenhange und ausführlid behandelt: habe, glaube ich doc,
+daß eine Feine Nachlefe vereinzelter Betrachtungen darüber, welde
+auf jene Darftellung immer noch einiges Licht zurückwerfen, für
+Manchen nicht ohne Werth feyn werde. —
+
+Man muß Jean Paul’s Selina Iefen, um zu fehn, wit
+ein höchst eminenter Geift sich herumfchlägt mit den fi) ihn auf
+dringenden Abfurbitäten eines falfhen Begriffs, den er nicht auf
+geben will, weil er fein Herz daran gehängt hat, dabei aber
+ftets von den Ungereimtheiten, die er nicht verbauen kann, beun-
+ruhigt wird. Es ift der Begriff der individuellen Fortdauer un
+ferd gefammten perfünlichen Bewußtseyns, nad) dem Tode. Eben
+jened Kämpfen und Ringen Sean Pauls beweift, daß derglei—
+hen, aus Falfhem und Wahrem zufammengefeste Begriffe nidıt,
+wie man behauptet, heilfame Irrthümer, vielmehr entfchieben
+schädlich sind. Denn nit nur wird, durch den falfhen Gegen
+ten Verfönlichfeit zu einem Dinge an fich felbft, welches ewig
+beftehn foll, die wahre, auf dem Gegenfag zwifchen Erfcheinung
+und Ding an fi beruhende Erfenntniß von der Ungerftörbarfeit
+
+
+fag von Seele und Leib, wie auch durd Erhebung der gefamm-
+
+
+unsers eigentlihen Wesens, als eines von Zeit, Kaufalität und |
+
+
+Veränderung Unberührten, unmöglich gemacht, fondern jener fal-
+fhe Begriff fann nicht ein Mal ald Stellvertreter der Wahrheit
+fett gehalten werden; meil die Vernunft fich ftetd von Neuem
+gegen das darin Tiegende Abfurde empört, mit diefem dann aber
+auch das demfelben amalgamisch verbundene Wahre aufgeben
+
+
+Aue Pehre von d. Unzerstörbarleit un’eres wahren Wesens durch d. Ted. 229
+
+
+muß. Denn das Wahre kann, auf die Länge, doch nur in feis
+ner Lauterfeit beftehn: mit Irrthümern verfegt, wird es ihrer
+Hinfälligfeit theilhaft; wie der Granit zerfällt, wenn fein Feld—
+spath verwittert, obgleih Duarz und Glimmer folder Verwit—
+terung nicht unterworfen find. Es ftcht alfo schlimm um die
+Surrogate der Wahrheit.
+
+
+$. 135.
+
+
+Wenn man, jo im täglichen Ilmgange, von einem der vie
+fen Leute, die Alles wiffen möchten, aber nichts lernen wollen,
+über die Fortdauer nad) dem Tode befragt wird, ift wohl Die
+passendeste, auch zunächft richtigfte Antwort: „nach deinem Tode
+wirft bu feyn was du vor deiner Geburt warst“. Denn fic im—
+plieirt die Berfehrtheit der Forderung, daß die Art von Eriftenz,
+welhe einen Anfang hat, ohne Ende feyn folle; zudem aber ents
+hält fie die Andeutung, daß es wohl zweierlei Eriftenz und, dem
+entsprechend, zweierlei Nichts geben möge. — Imgleichen jedoch)
+fnnte man antworten: „was immer du nad) deinem Tode feyn
+wirft, — und wäre ed nichte, — wird dir alsdann eben fo na—
+türih und angemessen feyn, wie es dir jegt dein individuelle,
+organisches Dafeyn ift: aljo hätteft du Höchftend den Augenblid
+des Uebergangs zu fürchten. Ja, da eine reifliche Erwägung ber
+Sache das Nefultat ergiebt, daß einem Dafeyn, wie das unfrige,
+dad gänzliche Nichtfeyn vorzuziehn feyn würde; fo kann der Ge—
+danfe des Aufhörens unfrer Eriftenz, oder einer Zeit, da mir
+nicht mehr wären, und vernünftigerweife fo wenig betrüben, wie
+der Gedanke, daß wir nie geworden wären. Da nun biefes
+Dajeyn wesentlich ein persönliches ift, jo ift demnach auch das
+Ende der Perfönlichkeit nicht als ein Verlust anzufehn‘.
+
+Dem Hingegen, der, auf dem objeftiven und empirischen
+Wege, dem plaufibeln Faden des Materialismus nachgegangen
+wäre und nun voll Schreden über die gänzlihe Vernichtung
+durh den Tod, die ihm da entgegenftarrte, fih an und wendete,
+würden wir vielleicht auf die Fürzefte und feiner empirifchen Auf-
+faffung entfprechende Weife Beruhigung verihaffen, wenn mir
+ihm den Unterschied zwifchen der Materie und der temporär fie
+in Befig nehmenden stets metaphysischen Kraft augenfällig nach—
+wiesen, 3. B. am Vogelei, befien fo homogene, geftaltlofe Flüs—
+
+
+[[S. 230]] Zur Lehre von der Unzerjtörbarfeit
+
+
+figfeit, fobald nur die gehörige Temperatur binzutritt, die fo
+fomplicirte und genau beftimmie Geftalt der Gattung und Art
+feines Vogels annimmt. Gewissermaaßen ift Died doch eine Art
+‚generatio aequivoca: und höchst wahrscheinlich ift dadurch, daß
+fie einft in der Urzeit und zur glüdlichen Stunde, vom Typus
+des Thieres, welchem das Ei angehörte, zu einem höhern über-
+fprang, die auffteigende Reihe der Thierformen entflanden. Se-
+denfalld tritt hier am augenfcheinlichften ein von der Materie
+Berfchiedenes hervor, zumal da es, beim geringften ungünftigen
+Umftande, ausbleibt. Dadurch wird fühlbar, daß es, nach voll-
+bradhtem, oder fpäter behindertem Wirfen, auch eben fo unver-
+jehrt von ihr weichen kann; welches benn auf eine ganz anders
+artige Permanenz binbeutet, ald das Beharren der Materie in
+der Zeit if. |
+
+
+$. 136.
+
+
+Wenn wir und ein Wefen denken, welches Alles erfennte,
+verftände und überfähe; fo würde die Frage, ob wir nad dem
+Tode fortdauern, für dasselbe wahrfheinlich gar feinen Sinn ha-
+ben; weil über unfer jegiges zeitliches, individuelles Dafeyn bins
+aus Fortdauern und Aufbören feine Bedeutung mehr hätten und
+ununterfheibbare Begriffe wären; wonach auf unfer eigentliches
+und wahres Wefen, oder das in unfrer Erscheinung fi dar-
+ftellende Ding an fi), weder der Begriff des Untergangs, noch
+der der Fortdauer Anwendung fände, da Diefe aus der Zeit ent-
+lehnt find, welche bloß die Form ber Erfcheinung ist. — Wir ins
+zwifchen fönnen die Unzerftörbarfeit jened Kerns unferer Er-
+scheinung ung nur ald eine Fortdauer desselben denfen und zwar
+eigentlich nah dem Schema der Materie, ald melde, unter al-
+fen Beränderungen ber Formen, in ber Zeit beharrt. — Wird
+nun demfelben diefe Fortdauer abgefprodhen; fo fehn wir unfer
+zeitlihes Ende an als eine Bernihtung, nah dem Schema ber
+Form, melde verfchwindet, wann ihr die fie tragende Materie
+entzogen wird. Beides ift jedoch eine ueraßaoıs sıs allo yevoc,
+nämlich ein Webertragen der Formen ber Erfcheinung auf das
+Ding an fih. Bon einer Unzerftörbarfeit aber, die feine Fort:
+dauer wäre, fönnen wir faum und auch nur einen abftraften Bes
+geiff bilden; weil uns alle Anfchauung, ihn. zu belegen, mangelt.
+
+
+u u“
+
+
+unferes wahren Wefens durch ven Tor. 231:
+
+
+In Wahrheit aber ift das beftändige Entftehn neuer Wejen
+und Zunichtewerben ber vorhandenen anzufehn als eine Zllufion,
+hervorgebracht durch den Apparat zweier gefchliffener Gläfer
+(Gehirnfunktionen), durch die allein wir etwas fehn Fünnen:
+fie heißen Raum und Zeit, und in ihrer Wechfeldurchdringung
+Kaufalität. Denn Alles, was wir unter biefen Bedingungen
+wahrnehmen, ift bloße Erfcheinung; nicht aber erfennen wir die
+Dinge, wie fie an sich felbft, d.h. unabhängig von unferer Wahr:
+nehmung, jeyn mögen. Dies ift eigentlich ber Kern der Kanti-
+hen Philofophie; an welche und ihren Inhalt man nicht zu oft
+erinnern kann, nach einer Periode, wo feile Scharlatanerie, Durch
+ihren Berbummungsproceß, die Philofophie aus Deutichland ver⸗
+trieben Hatte, unter williger Beihülfe der Leute, denen Wahrheit
+und Geift die gleichgüftigften Dinge auf der Welt find, Hingegen
+Gehalt und Honorar die wirhtigften.
+
+
+$. 137.
+
+
+Jeder fühlt, daß er etwas Anderes ift, als ein von einem
+Andern einft beliebtes Nichte, Daraus entfieht ihm die Zuver⸗
+fiht, daß der Tod wohl feinem Leben, jedoch nicht feinem Da⸗
+jeyn ein Ende machen kann.
+
+
+$. 138.
+
+
+Se deutlicher Einer sich der Hinfälligfeit, Nichtigfeit und
+taumartigen Beichnffenheit aller Dinge bewußt wird, desto deut⸗
+licher wird er fih au der Ewigfeit feined eigenen innern We:
+sens bewußt; weil doch eigentlich nur im Gegenfag zu diesem
+iene Befchaffenheit der Dinge erfannt wird; wie man ben ra-
+Ihen Lauf feines Schiffd nur nach dem feften Ufer fehend wahr-⸗
+nimmt, nicht wenn man in das Schiff felbft fieht.
+
+
+$. 139.
+
+
+Wann immer wir auch leben mögen; stets ftehn wir, mit
+unferm Bemwußtfeyn, im Gentro der Zeit, nie an ihren Endpunf-
+ten, und Fönnten daraus abnehmen, daß Jeder den unbeweglichen
+Mittelpunkt der ganzen unendlichen Zeit in fich felbft trägt. Dies
+it ed auch im Grunde, was ihm die Zuverficht giebt, mit ber
+er ohne. beftänbige Todesschauer dahinlebt. Wer nun aber, ver⸗
+
+
+[[S. 232]] Zur Lehre von der Ungerflörkarfeit
+
+
+möge ber Stärfe feiner Erinnerung und Phantafie, sich das längst
+Vergangene am Iebhafteften vergegenwärtigen Fann, ber wird sich
+der Identität des Jetzt in aller Zeit deutlicher, als die
+Andern, bewußt. Vielleicht fogar gilt diefer Sab richtiger um-
+gefehrt. ebenfalls aber ift ein solches deutlicheres Bewußtseyn
+der Spentität alles Set ein wesentliches Erfordernig zur philo-
+fophifchen Anlage. Mittelft feiner fagt man das Alferflüchtigfte,
+das Jetzt, ald das allein Beharrende auf. Wer nun auf folche
+intuitive Weife inne wird, daß die Gegenwart, welde doch
+die alleinige Form aller Nealität, im engften Sinne, ift, ihre
+Duelle in uns hat, alfo von innen, nicht von außen quillt, der
+fann an der Unzerftörbarfeit feines eigenen Wesens nicht zwei—
+fein. Vielmehr wird er begreifen, daß bei feinem Tode zwar
+die objektive Welt, mit dem Medio ihrer Darftellung, dem In—
+telleft, für ihm untergeht, Dies aber fein Dafeyn nicht anficht:
+benn ed war eben fo viel Realität innerhalb, wie außerhalb.
+
+Mer alles Diefes nicht gelten läßt, muß dad Gegentpeil
+behaupten und fagen: ‚die Zeit ift etwas rein Dbjeftives und
+Reales, das ganz unabhängig von mir eriftirt. Ich bin nur zu=
+fällig hineingeworfen, eines Heinen Theiles derfelben habhaft ge—
+worden und dadurch zu einer vorübergehenden Realität gelangt,
+wie taufend Andere vor mir, die jet eben nichts mehr find, und
+auch ich werde fehr bald nichts feyn. Die Zeit Hingegen, die ift
+das Reale: fie zieht dann weiter ohne mich“. Ich denke, daß
+das Grundverfehrte, ja Abfurde diefer Anficht durch die Entfchie=
+benheit bed Ausdrucks fühlbar wird.
+
+Das Leben Fann, diefem Allen zufolge, allerdings angefehen
+werden als ein Traum, und ber Tod ald das Erwachen. Dann
+aber gehört die Perfönlichkeit, das Individuum, dem träumenden
+und nicht dem wachen Bewußtseyn an; weshalb denn jenem der
+Tod fih ald Vernichtung darstellt. Jedenfalls jedoch ift er, von
+biefem Gefichtöpunft aus, nicht zu betrachten als der Uebergang
+zu einem und ganz neuen und fremden Zuftande, vielmehr nur
+als der Rücktritt zu dem und urfprünglich eigenen, als von wel-
+chem das Leben nur eine kurze Episode war.
+
+- Wenn inzwifchen ein Philofoph etwan vermeinen sollte, er
+würde im Sterben einen ihm allein eigenen Trost, jedenfalls
+eine Diversion, darin finden, daß dann ihm ein Problem sich
+
+
+unferes wahren Wefens durch den Tob. 233
+
+
+föfte, welches ihn fo häufig beichäftigt hatz fo. wird es ihm vers
+muthfich gehn, wie Einem, dem, als er eben das Gesuchte zu
+finden im Begriff ift, die Laterne ausgeblasen wird.
+
+Denn im Tode geht allerdings das Bewußtseyn unter; hin:
+gegen keineswegs Das, was bis dahin dasselbe hervorgebracht
+hatte. Das. Bewußtjeyn nämlich beruht zunächft auf dem In—
+telfeft ;_ diefer aber auf einem phyfiologifchen Proceß. Denn er
+it augenfcheinlih die Funktion ded Gehirns und daher bedingt
+duch das Aufammenmwirfen des Nerven- und Gefäßsystems; nä-
+her, durch das vom Herzen aus ernährte, belebte und fortwäh-
+rend erfchütterte Gehirn, durch dessen Fünftlichen und geheimniß-
+vollen Bau, welchen die Anatomie befchreibt, aber die Physiolo—⸗
+gie nicht verfteht, das Phänomen der objektiven Welt und bas
+Getriebe unfrer Gebanfen zu Stande kommt. Wie nun alfo der
+Intellekt, phyfiologifch, mithin in der empirischen Realität, d. i.
+in der Erfcheinung, als ein Sekundäres, ein NRefultat des Les
+bensprocefles, auftritt; fo ift er auch psychologisch seklundär, im
+Gegenfag des Willens, der allein das Primäre und überall das
+Urfprüngliche ift. Ist doch fogar der Organismus felbft eigent-
+ih nur der im Gehirne anschaulich nnd objektiv, mithin in des—
+sen Formen Raum und Zeit, fich darftellende Wille; wie ich
+Dies öfter auseinandergefegt habe, befonders im „Willen in der
+Natur” und in meinem Hauptwerf Bd. 2, Kay. 20. Da alfo
+dad Bewußtseyn nicht unmittelbar dem Willen anhängt, sondern
+durch den Intellekt und diefer durch den Organismus bedingt ift;
+so bleibt Fein Zweifel, daß durch den Tod das Bewußtseyn er-
+lischt, — mie ja fhon durch den Schlaf und jede Ohnmacht.
+Aber getroft! was für ein Bemwußtfeyn ift denn biefes? — ein
+cerebrales, ein animaled, ein etwas höher potenzirtes thierifcheg,
+fofern wir es, im Wefentlichen, mit der ganzen Thierreihe ge-
+mein haben, wenn gleich es in uns feinen Gipfel erreicht.
+Dasselbe ift, wie ich genugfam nachgemwiefen habe, feinem Zweck
+und Urfprung nad, eine bloße ungern der Natur, ein Ausfunfte-
+mittel, den thierifchen Wefen zu ihrem Bedarf zu verhelfen. Der
+Zuftand hingegen, in welchen und der Tod zurüdverfegt, ift un-
+fer urfprünglicher, d. h. ift der felbfteigene Zuftand des Wesens
+dessen Urkraft in der Hervorbringung und Unterhaltung des jest
+aufhörenden Lebens sich darstellt. Es ift nämlich der Zuftand bes
+
+
+234 | Zur Lehre von der Unzerstörbarkeit
+
+
+Dinges an fich, im Gegenfag der Erfcheinung. In diefem Urs
+zuflande num ift, ohne Zweifel, ein foldher Nothbchelf, wie das
+cerebrale, höchst mittelbare und eben deshalb bloße Erfcheinungen
+liefernde Erkennen, durchaus überflüffig; daher wir es eben ver-
+lieren. Sein Wegfallen ift Eins mit dem Aufhören der Erfcheis
+nungswelt für und, deren bloßes Mebium ed war und zu nichts
+Anderm dienen kann. Würde in diefem unferm Urzuftande bie
+Beibehaltung jenes animalen Bewußtseyns und fogar angeboten;
+fo würden wir es von ung weißen, wie der geheilte Lahme bie
+Krüden. Wer alfo den bevorftehenden Berluft dieses cerebralen,
+bloß erfcheinungsmäßigen und erfcheinungsfähigen Bewußtseyns
+beffagt, ift den Grönländiichen Konvertiten zu vergleichen, melde
+nicht in den Himmel wollten, als fie vernahmen, es * daselbst
+keine Seehunde.
+
+Zudem beruht Alles hier Gesagte auf der Voraussetzung,
+daß wir nun einmal einen nicht bewußtlosen Zustand uns
+nicht anders vorstellen können, als daß er ein erkennender
+sei, mithin die Grundform alles Erkennens, das Zerfallen in
+Subjeft und Objekt, in ein Erkennendes und ein Erkanntes, au
+fih trage. Allein wir haben zu erwägen, daß diese ganze Form
+des Erfennend und Erfanntwerbend bloß durch unfere animale,
+mithin fehr fefundäre und abgeleitete Natur bedingt, alfo Feines-
+wegs der Urzuftand aller Wefenheit und alles Daseyns ift, wel⸗
+cher daher ganz anderartig und doch nicht bewußtlos feyn
+mag. Ist doch fogar unfer eigenes, gegenwärtiges Wesen, fo:
+weit wir es in fein Inneres zu verfolgen vermögen, bloßer
+Mille, diefer aber, an fich felbft, fchon ein Erfenntnißlofes.
+Wenn wir nun, dur den Tod, den Intellekt einbüßen; fo wer—⸗
+den wir dadurch nur in den erfenntnißlofen Urzuftand ver-
+fest, der aber deshalb nicht ein fchlechthin bewußtlofer, viel-
+mehr ein über jene Form erhabener feyn wird.
+
+Auch wird, im tiefften Innern, vielleicht eines Jeden, dann
+und wann ein Mal, ein Bewußtfeyn fih fpüren Yaflen, daß ibm
+doch eigentlich eine ganz amdere Art von Eriftenz angemeflen
+wäre und zufäme, als diefe fo unausfprechlich Tumpige, zeitliche,
+individuelle, mit lauter Miferen befchäftigte; wobei er Dann denkt,
+bag zu jener ber Tod ihn zurüdführen könnte.
+
+
+unferes wahren Mefens durch den Top. 235
+
+
+$. 140.
+
+Wenn wir jest, im Gegenfag zu diefer nach innen gerich—
+teten Betrachtungsweife, wieder nach außen bliden und die fi
+ung darstellende Welt ganz objeftiv auffaflen; fo erfcheint ung
+allerdings der Tod als ein Lebergang ind Nichts; dagegen aber
+auch die Geburt ald ein Hervorgehn aus dem Nichts. Das
+Eine wie das Andere kann jebod nicht unbedingt wahr feyn, ba
+es nur die Realität der Erfcheinung hat. Auch ift, daß wir, in
+irgend einem Sinne, den Tod überleben follten, immer noch Fein
+größeres Wunder, als das der Zeugung, welches wir täglich vor
+Augen haben. Was flirbt geht dahin, wo alles Leben herfommt
+und auch das feine. In diefem Sinne haben die Aegypter den
+Drfus Amenthes genannt, welches, nach Plutarch (de Is. et
+Osir. c. 29), bedeutet 6 Aaußavwv zaı dıdovs, „der Nehmende
+und Gebende’, um auszubrüden, daß es der felbe Duell if, in
+ven Alles zurüd und aus dem Alles hervorgeht. Demnach ftirbt
+nichts von Allen, was da ftirbt, für immer; aber auch Keines,
+das geboren wird, empfängt ein von Grund aus neues Dafeyn.
+Dies ift das Moyfterium der Palingenefie, als dessen Erläu—
+terung man das Alfte Kapitel im zweiten Bande meines Haupt-
+werks betrachten Ffann. Danad) Teuchtet und ein, daß alle in die—
+sem Augenblide lebenden Wefen den eigentlichen Kern aller fünf:
+tig leben werbenden enthalten, diefe alfo gewiffermaaßen schon
+jest da find. Imgleichen fcheint jedes in voller Blüthe dafte-
+hende Thier und zuzurufen: „was Hagft du über die Vergäng—
+lichfeit der Lebendigen? wie fönnte ich daseyn, wenn nicht alle Die
+meiner Gattung, welche vor mir waren, geftorben wären?’ —
+So fehr au, demzufolge, auf der Bühne der Welt die Stüde
+wechfeln, fo bleiben doc in allen die Schaufpieler die felben.
+
+Wenn wir nun aber, um in das Geheimniß der Palinge-
+nefie tiefer einzubringen, bier noch das Adfte Kapitel des zivei-
+ten Bandes meines Hauptwerfs zu Hülfe nehmen; fo wirb ung
+die Sache, näher betrachtet, fo zu ftehn fcheinen, daß, alle
+Zeit hindurch, das männliche Geschlecht der Aufbervahrer bes
+Willens, das weibliche aber der des Intellekts der Menfchengat-
+tung fei, wodurch dann diese immermwährenden Beftand erhält.
+Danach nun hat Jeder einen väterlichen und einen mütterlichen
+Bestandtheil; unb wie diese durch Die Zeugung vereint wurden,
+
+
+[[S. 236]] Zur Lehre von der Unzerftörbarfeit
+
+
+fo werben fie durch den Tod zerfegt, welcher also das Ende des
+Individuums if. Diefes Individuum ift es, deflen Tod wir fo
+fehr betrauern, im Gefühl, dag es wirflich verloren gebt, da es
+eine bloße Verbindung war, die unwiederbringlich aufhört. —
+Jedoch dürfen wir bei allem Diefem nicht vergeffen, daß die Erb—
+Yichfeit des Intellekts von der Mutter nicht eine fo entfchiedene
+und unbedingte ift, wie die des Willens vom Bater, wegen der
+fefundären und bloß physischen Wesenheit des Intellelts und sei—
+ner gänzlichen Abhängigfeit vom Organismus, nicht allein Hin-
+fihtlih des Gehirns, fondern auch anderweitig; wie Dies in
+meinem befagten Kapitel ausgeführt worden. — Beiläufig fei
+bier noch erwähnt, daß ich mit Plato zwar infofern zufammen=
+treffe, als auch er in feiner fogenannten Seele einen fterblichen
+und einen unfterblichen Theil unterfcheidet: allein er tritt in dia—
+metralen Gegenfag mit mir und mit der Wahrheit, indem er,
+nach Weife aller mir vorhergängigen Philofophen, den Intellekt
+für den unfterblichen, den Willen hingegen, d. h. den Sit ber
+Begierden und Leidenfchaften, für den fterblihen Theil Halt; —
+wie zu erfehn aus dem Timäos (p.p. 386, 387 et 395, ed.
+Bip.).
+
+Wie aber auch immer, duch Zeugung und Tod, nebft ficht:
+licher Zufammenfegung der Individuen aus Willen und Intelfeft,
+und nachmaliger Auflöfung derfelben, das Phyfiiche wunderlid
+und bedenklich walten mag; fo ift Doch das ihm zum Grunde
+Yiegende Metaphyfiiche fo ganz heterogener Wefenheit, daß es
+davon nicht angefochten wird und wir getroft feyn dürfen.
+
+Man kann demnadh jeden Menfchen aus zwei entgegenge-
+festen Gesichtspunkten betrachten: aus dem einen ift er dag zeit-
+ih anfangende und endende, flüchtig vorübereilende Individuum,
+oxıeg ovag, dazu mit Fehlern und Schmerzen fchwer behaftet; —
+aus dem andern ift er das unzerftörbare Urwesen, welches in
+allem Dafeyenden sich objektivirt und darf, als solches, wie das
+Isisbild zu Sais, sagen: eym zum av To yeyovog, xaı oν, xaı
+scousvov. — Freilich könnte ein solches Wefen etwas Befleres
+thun, ald in einer Welt, wie biefe ift, fich darzuftellen. Denn
+es ift die Welt der Enplichfeit, des Leidens und des Todes.
+Was in ihr und aus ihr ift muß enden und flerben. Allein
+was nicht aus ihr ift und nicht aus ihr feyn will durchzuckt fie
+
+
+unferes wahren Wefens durch den Tod. 237
+
+
+mit Alfgewalt, wie ein Blitz, der nach oben fehlägt, und Fennt
+dann weder Zeit noch Tod. — Alle diefe Gegenfäge zu vereinen
+ift eigentlich das Thema der Philofophie.
+
+
+$. 141.
+Kleine dialogifhe Schlußbelnftigung.
+
+Thrafymados. Kurzum, was bin id nad meinem Tode?
+— Klar und präcis!
+
+Philalethes. Alles und Nichts,
+
+Thrafymahod Da haben wir’s! Als Löfung eines Pro-
+blems ein Widerfpruch. Der Pfiff ift abgenußt.
+
+Philalethes. Trandfcendente Fragen in der für imma—
+nente Erfenntniß gefchaffenen Sprache zu beantworten, fann als
+lerdings auf Widerfprüde führen.
+
+Thrasymachos. Was nennft du transfcendente und mad
+immanente Erfenntnig? — Mir find diefe Ausdrüde zwar auch
+befannt, von meinem Professor ber; aber nur als Prädifate des
+lieben Gottes, mit welchem feine Philofophie, wie sich das eben
+auch geziemt, es ausfchließlich zu thun hatte. Stedt nämlich, der
+in der Welt drinne; fo ift er immanent: figt er aber irgendwo
+draußen; fo ift er transfcendent. — Ja fiehb, Das ift flar, Das
+it faßlich! Da weiß man, woran man fich zu halten hat. Aber
+deine altmodiihe Kantifche Kunstsprache verfteht Fein Mensch mehr.
+Das Zeitbewußtseyn der Jetztzeit ift, von der Metropole der deut—
+Ichen Wiffenfchaft aus, durch eine ganze Succeffion großer Män-
+ner, befonders durch den großen Schleiermacher und den Riefen-
+geift Hegel, von allen Dem zurüd, oder vielmehr fo weit vor-
+wärtd gebracht, daß es das Alles hinter fich hat und nichts mehr
+davon weiß. — Alfo was soll's damit?
+
+Philalethes. Transfeendente Erfenntniß ift die, welche,
+über alle Möglichfeit der Erfahrung hinausgehend, das Wesen
+der Dinge, wie fie an sich felbft find, zu beftimmen anftrebt;
+immanente Erfenntnig hingegen die, welche sich innerhalb der
+Schranfen der Möglichfeit der Erfahrung hält, daher aber auch
+nur von Erfceinungen reden Fann. — Du, als Individuum,
+endeft mit deinem Tode, Allein das Individuum ift nicht dein
+wahres und letztes Wesen, vielmehr eine bloße Aeußerung deflel-
+ben: es ift nicht das Ding an fich felbft, fondern nur deflen Ers
+
+
+[[S. 238]] Zur Lehre von der Ungerftörbarkeit
+
+
+scheinung, welche in der Form der Zeit fid) darftellt and demge⸗
+mäß Anfang und Ende hat. Dein Wejen an fi selbst Hinge-
+gen Fennt weber Zeit, noch Anfang, noch Ende, noch die Schranfe
+einer gegebenen individualität: daher Fann es von Feiner Indi—
+vidualität ausgefchloffen werben; sondern ift in Jedem und Al-
+lem da. Sm erfleren Sinne alfo wirft bu durch deinen Tod zu
+nichts; im zweiten bift und bleibft du Alles. Daher fagte ich,
+dag du, nad deinem Tode, Alles und Nichts seyn würdeft.
+Schwerlich Täßt beine Frage eine richtigere Antwort, fo in der
+Kürze, zu, als eben diefe, welche aber allerdings einen Widers
+fpruch enthält; weil eben dein Leben in der Zeit ift, deine Un—
+fterblichfeit aber in der Emigfeit. — Daher kann diefe auch eine
+Ungerftörbarfeit ohne Fortdauer genannt werben, — welches denn
+abermals auf einen Widerfpruch hinausläuft. Aber fo geht es,
+wenn bad Trandfrendente in die immanente Erfenntniß gebracht
+werben fol: diefer geichieht dabei eine Art Gewalt, indem fie
+mißbraudt wird zu Dem, wozu fie nicht geboren ift.
+
+Thrasymachos. Höre, ohne Fortdauer meiner Indivi—
+dualität, gebe ich für deine ganze Unfterblichfeit keinen Heller.
+
+Philalethes. Vielleicht läßt du doch noch mit dir han-
+bein. Setze, ich garantirte bir die Fortdauer deiner Yndbividna-
+lität, machte jedoch zur Bedingung, daß vor dem Wiebererma-
+hen derjelben ein völlig bemußtlofer Todesfhlaf von drei Mo-
+naten vorberginge.
+
+Thrasymachos. Ließe sich eingehn.
+
+Philalethes. Da wir nun aber in einem völlig bewußt⸗
+Iofen Zuftande durchaus fein Zeitmaaß haben; fo ift es für ung
+ganz einerlei, ob, während wir in jenem Todesfchlafe lagen, der-
+weilen, in ber fi bewußten Welt, drei Monate, oder zehn Tau—
+gend Jahre verftrichen find.Denn Eines, wie das Andere, müffen
+wir, beim Erwachen, auf Treu und Glauben annehmen. Demnach
+fann es dir gleichgültig feyn, ob dir deine Individualität nad) drei
+Monaten, oder nad zehn Taufend Jahren zurüdgegeben wird.
+
+Thrasymachos. Laßt fih im Grunde wohl nicht Teugnen.
+
+Philalethes. Wenn nun aber, nad Berfluß der zehn
+Tausend Jahre, etwan ganz vergefien würde, dich zu weden; fo
+glaube ih, daß, nachdem dir jenes auf ein gar kurzes Dafeyn
+gefolgte Tange Nichtfeyn fchon fo fehr zur Gewohnheit geworben,
+
+
+*
+
+
+unseres wahren Wesens durch ven Top. 239
+
+
+das Unglüd nit groß feyn würde. Gewiß aber ift, bag bu
+nichts davon fpüren könntest. Und gänzlich würbeft bu dich über
+bie Sache tröften, wenn bu wüßtest, daß das geheime Triebwerf,
+welches beine jegige Erfheinung in Bewegung erhält, aud in
+jenen zehn Taufend Jahren nicht einen Augenblick aufgehört
+hätte, andere Ericheinungen derselben Art barzuftellen und zu
+bewegen.
+
+Thrasymachos. So?! — und auf diefe Art gedenfft du
+mich ganz fachte und unvermerft um meine Individualität zu
+prellen? Solche Nafen dreht man mir nicht. Die Fortdauer
+meiner Individualität habe ich mir ausbedungen, und über bie
+fönnen mic feine Triebfedern und Erfcheinungen tröften. Sie
+fiegt mir am Herzen und von ihr Tafle ich nicht.
+
+Philalethes. Du hältst alfo wohl beine Individualität
+für fo angenehm, vortrefflih, vollfommen und unvergleichlich,
+daß es Feine vorzüglichere geben könne, daher du fie nicht ver-
+taufchen möchtet gegen irgend eine andere, von welcher eiwan
+behauptet würde, daß in ihr es fich befler und Yeichter leben
+ließe?
+
+Thrasymachos. Siehe, meine Individualität, fie fei nun
+wie fie fei, das bin ch.
+
+
+„Mir geht nun auf der Melt nichts über mich:
+Denn Gott ift Gott, und ich bin ich.‘
+
+
+Ih, ich, ich will dafeyn! daran ift mir gelegen, und nicht an
+einem Dajeyn, von welchem mir erft anräfonnirt werben muß,
+daß ed Das meinige fei.
+
+Philalethes. Sieh dich doch um! Was da ruft „Sch, ich,
+ih will daseyn“, Das bift du nicht allein, fondern Alles, durch⸗
+aus Alles, was nur eine Spur von Bewußtfeyn hat. Folglich
+it diefer Wunfch in dir gerade Das, was nicht individuell ift,
+fondern Allen, ohne Unterfchied, gemein: er entfpringt nicht aus
+der Individualität, fondern aus dem Dafeyn überhaupt, ift Je—
+dem, das daift, weientlich, ja, ift Das wodurch es baift, und
+wird demgemäß befriedigt durch das Dafeyn überhaupt, ale
+auf welches alfein er sich bezieht; nicht aber ausschließlich durch
+irgend ein bestimmtes, individuelles Daseyn; da er auf ein fol-
+ches gar nicht gerichtet ist; obgleich es jedesmal den Schein hievon
+
+ [S. 240]
+
+
+"hat, weil er nicht anders, als in einem indivibuellen Wesen,
+zum Bemwußtfeyn gelangen fann und deshalb jedesmal auf die—
+ses allein fi zu beziehn scheint. Dies ift jedoch ein bloßer
+Schein, an welchem zwar bie Befangenheit des Individuums
+flebt, den aber die Reflerion zerflören und ung davon befreien
+fann. Was nämlich fo ungeflüm das Dafeyn verlangt, ift bloß
+mittelbar das Individuum; unmittelbar und eigentlich ift ed
+der Wille zum Leben überhaupt, welcher in Allen Einer und der-
+felbe if. Da nun das Dafeyn felbft fein freies Werf, ja, fein
+bloßer Abglanz ist; fo kann daffelbe ihm nicht entgehn: er aber
+wird durch das Daseyn überhaupt vorläufig befriedigt; fo weit
+nämlich, als er, der ewig Unzufriedene, befriedigt werden fann.
+Die Individualitäten find ihm gleich: er redet eigentlich nicht
+von ihnen; obgleid) er dem Individuo, welches unmittelbar ihn
+nur in fi vernimmt, davon zu reden scheint. Dadurch wird
+herbeigeführt, daß er diejes fein eigened Dafeyn mit einer Sorg-
+falt bewacht, wie es außerdem nicht gefchehn würde, und eben
+dadurch die Erhaltung der Gattung fihert. Hieraus ergiebt fich,
+bag die Individualität Feine Bollfommenheit, fondern eine Be
+fchränfung ift: daher ift, fie los zu werden, fein Verlust, viel:
+mehr Gewinn. Laß daber eine Sorge fahren, welche dir wahr:
+lich, wenn du dein eigenes Wefen ganz und bis auf den Grund
+erfennteft, nämlich als den univerfellen Willen zum Leben, der
+du bift, — kindisch und überaus lächerlich erjcheinen würde.
+
+Thrasymachos. Kindifh und überaus lächerlich bist du
+selbst und alle Philosophen; und es geichieht bloß zum Spaaß
+und Zeitvertreib, wenn ein gefegter Mann, wie ich, mit diefer
+Art von Narren fih auf ein Biertelftündchen einläßt. Habe jekt
+wichtigere Dinge vor: Gottbefohlen!

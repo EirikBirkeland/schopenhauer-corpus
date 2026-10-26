@@ -1,0 +1,3838 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a readable scan whose display headings are garbled
+# title: Versuch ueber das Geistersehn und was damit zusammenhaengt (in: Parerga und Paralipomena, Erster Band)
+# title_en: Essay on seeing spirits, and what goes with it - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Erster Band, Berlin: A. W. Hayn 1851, S. 213-296; the volume's preface is signed "Frankfurt a. M., im December 1850". Text layer: Internet Archive 10927137, scored READABLE (14 common words per hundred, und 4,366, unb 0, long s 31,774). SEAMS BY INTERPOLATION, and the file header says so: the display headings of this copy are garbled, so boundaries were fixed by measuring the running heads (page number with the piece's name) and interpolating between the nearest; a paragraph or two may therefore stand on the wrong side of a seam. Page markers were made only from heads that give a number and name the piece.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/10927137
+# fetched: 2026-10-26
+# note: ADDED IN PASS 14, which finally opened the FIRST band of 1851 - the five pieces the collection had never held in German, the Aphorismen (file 04) being the exception. The ghosts essay, 27,131 words, the largest of the five and the one a collection will want when the question is what he made of spirits, ghosts, somnambulism and second sight. Its conclusion, as this copy gives it, is worth having in the register because gossip outruns it: he is willing to admit a real influence of the dead on the living as POSSIBLE, but then it could happen only most seldom and exceptionally, since it would depend on conditions rarely met together; and even then the "empoerend absurde, ja niedertraechtig dumme Weltordnung" that would follow from the spirits' own accounts gains no objectively real ground, but goes to the account of the seer's own mind - "aegri somnia". This is the text, and the poodle is the gossip (T3-09). OCR warning as elsewhere in this scan: f for the long s, and letters mangled ("Philoſophi" for "Philosophie"), so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: the FIRST band of Parerga und Paralipomena, Berlin: A. W. Hayn 1851, from the Internet Archive scan 10927137, whose body is READABLE (bin/ia-read.js: 14 common words per hundred, und 4,366, unb 0, long s kept 31,774 times) but whose DISPLAY HEADINGS are garbled. So the seams of these pieces were fixed from the running heads rather than the headings: every head that gives a page number and names one of the pieces was measured (page and offset), and a boundary was taken by interpolating between the two nearest measured heads. THE ERROR IS NAMED, not hidden: a paragraph or two may stand on the wrong side of a seam, and where the volume's own table of contents says a piece begins, that page is quoted in this header so the reader can see what was aimed at. This piece stands on pages 213-296 by that table of contents. Page markers in this file were made only from heads that give a number and name the piece (33 made, S. 216 to S. 296). Short OCR noise lines dropped (163); long s normalised to s (5764); and this layer prints f for the long s in places, so read a quotation against the scan (bin/schop-grep.js -f folds it). It also mixes stray words in now and then - the copy has English leaves bound with it - and it mangles letters ("Philoſophi" for "Philosophie", "Geifterfehn" for "Geistersehn"), so a query in correct modern spelling can return nothing. his long essay on ghosts, animal magnetism, dreamers and second sight: what a vision is, why the seer of Prevost and the Kerner books are not evidence, and why, if the dead did act on the living, it would be rare indeed - the text to quote about spirits, not the gossip about poodles.]
+
+dern hat, bereitet nämlich seine Palingenesie sich vor, nebst allem
+Wohl und Wehe, welches in ihr begriffen und von Dem an
+unwiderruflich bestimmt ist. — Hierauf beruht der hochernste,
+wichtige, feierliche und furchtbare Charakter der Todesstunde. Sie
+ift eine Krisis, im stärksten Sinne des Worts, — ein Welt
+gericht. Ari Su
+
+
+Yar ink
+
+
+Versuch
+
+
+und
+
+
+een
+1 was damit zusammenhängt.
+
+
+| in dem superklugen, verflossenen Jahrhundert, allen frühe⸗
+ten zum Trotz, überall, wenn auch nicht gebannten, doch geäch⸗
+teten Gespenster sind, wie schon vorher die Magie, während die⸗
+ser letzten 25 Jahre, in Deutschland rehabilitirt worden. Viel⸗
+leicht nicht mit Unrecht. Denn die Beweise gegen ihre Existenz
+waren theils metaphysische, die, als solche, auf unsicherm Grunde
+standen; theils empirische, die doch nur bewiesen, daß, in den
+Fällen, wo keine zufällige, oder absichtlich veranftaltete Täuschung
+aufgedeckt worden war, auch nichts vorhanden gewesen sei, was,
+mittelst Reflexion der Lichtstrahlen, auf die Retina, oder, mittelst
+Vibration der Luft, auf das Tympanum hätte wirken können.
+Dies spricht jedoch bloß gegen die Anwesenheit von Körpern,
+deren Gegenwart aber auch niemand behauptet hatte, ja deren
+8 auf die besagte physische Weise, die Wahrheit einer
+5 cheinung aufheben würde. Denn eigentlich liegt schon
+in Begriff eines Geistes, daß seine Gegenwart uns auf ganz
+ar Wege kund wird, als die eines Körpers. Was ein
+erseher, der sich selbst recht verstände und auszudrücken
+üßte, behaupten würde, ist bloß die Anwesenheit eines Bildes
+iin anschauenden Intellekt, vollkommen ununterscheidbar
+bon dem, welches, unter Vermittelung des Lichtes und seiner
+Augen, daselbst von Körpern veranlaßt wird, und dennoch ohne
+wirkliche Gegenwart solcher Körper; desgleichen, in Hinsicht auf
+das hörbar Gegenwärtige, Geräusche, Töne und Laute, ganz
+und gar gleich den durch vibrirende Körper und Luft in seinem
+Ohr hervorgebrachten, doch ohne die Anwesenheit oder Bewegung
+
+
+But
+
+
+[S. 216]
+
+
+solcher Körper. Eben hier liegt die Quelle des Mißverständ⸗
+nisses, welches Alles für und wider die Realität der Geisterer⸗
+scheinungen Gesagte durchzieht. Nämlich die Geistererscheinung
+stellt sich dar, völlig wie eine Körpererscheinung: fie ist jedoch
+keine, und soll es auch nicht seyn. Diese Unterscheidung ist schwer
+und verlangt Sachkenntniß, ja philosophisches und physiologisches
+Wissen. Denn es kommt darauf an, zu begreifen, daß eine Ein⸗
+wirkung gleich der von einem Körper nicht nothwendig die An⸗
+wesenheit eines Körpers voraussetze.
+
+Vor Allem daher müssen wir uns hier zurückrufen und bei
+allem Folgenden gegenwärtig erhalten, was ich öfter ausführlich
+dargethan habe (besonders in der 2. Aufl. meiner Abhand)
+über den Satz vom zureichendenden Grunde F. 21, und au
+dem „über das Sehn und die Farben“ F. 1. — Theoria co-
+lorum, II. — Welt als W. und V. Bd. 1. S. 12 — 14.
+Bd. 2. Kap. 2. —), daß nämlich unsere Anschauung der Au⸗
+ßenwelt nicht bloß sensual, sondern hauptsächlich intellek⸗
+tual, d. h. (objektiv ausgedrückt) cerebral ist. — Die Sinne
+geben nie mehr, als eine bloße Empfindung in ihrem Organ,
+also einen an sich höchst dürstigen Stoff, aus welchem allererst
+der Verstand, durch Anwendung des ihm a priori bewußten
+Gesetzes der Kausalität, und der eben fo, a priori ihm einwoh⸗
+nenden Formen, Raum und Zeit, diese Körperwelt aufbaut. Die
+Erregung zu diesem Anschauungsakte geht, im wachen und nor⸗
+malen Zustande, allerdings von der Sinnesempfindung aus, in⸗
+dem diese die Wirkung ist, zu welcher der Verstand die Ursache
+setzt. Warum aber sollte es nicht möglich seyn, daß auch ein
+Mal eine von einer ganz andern Seite, also von innen, vom
+Organismus selbst ausgehende Erregung zum Gehirn gelangen und
+von diesem, mittelst seiner eigenthümlichen Funktion und d a
+chanismus derselben gemäß, eben fo wie jene verarbeitet werden
+könnte? nach dieser Verarbeitung aber würde die Verschiedenheit
+des ursprünglichen Stoffes nicht mehr zu erkennen seyn; so wie am
+Chylus nicht die Speise, aus der er bereitet worden. Bei einem
+etwanigen wirklichen Falle dieser Art würde sodann die Frage ent⸗ ;
+stehen, ob auch die entferntere Ursache der dadurch hervorgebrachten
+Erscheinung niemals weiter zu suchen wäre, als im Innern des
+Organismus; oder ob fie, beim Ausschluß aller Sinnes empfin⸗
+
+
+und was damit zusammenhängt. 217
+
+
+dung, dennoch eine äußere seyn könne, welche dann freilich, in
+diesem Falle, nicht physisch oder körperlich gewirlt haben würde;
+und, wenn Dies, welches Verhältniß die gegebene Erscheinung
+zur Beschaffenheit einer solchen entfernten äußern Ursache haben
+könne, also ob sie Indicia über diese enthielte, ja wohl gar
+das Wesen derselben in ihr ausgedrückt wäre. Demnach würden
+wir auch hier, eben wie bei der Körperwelt, auf die Frage nach
+dem Verhältniß der Erscheinung zum Dinge an sich geführt wer⸗
+den. Dies aber ist der transscendentale Standpunkt, von wel⸗
+cem aus es sich vielleicht ergeben könnte, daß der Geistererschei⸗
+maung nicht mehr noch weniger Idealität anhienge, als der Kör⸗
+— daher nur auf weitem Umwege auf das Ding an
+sich, d. h. das wahrhaft Reale, zurückgeführt werden kann. Da
+nun wir als dieses Ding an sich den Willen erkannt haben;
+= Anlaß zu der Vermuthung, daß vielleicht ein sol⸗
+den Körpererscheinungen, so auch den Geistererscheinun⸗
+| gen zum Grunde liege. Alle bisherigen Erklärungen der Gei⸗
+5 stererscheinungen sind spiritualistische gewesen: eben als solche
+— Kritik Kants, im ersten Theile seiner „Träume
+0 ehers.“ Ich versuche hier eine mute Er⸗
+
+
+ch dieser übersichtlichen und anticipirenden Einleitung 10
+den jetzt folgenden Untersuchungen, nehme ich den ihnen ange⸗
+messene — Gang an. Nur bemerke ich, daß ich den
+fand, worauf fie sich beziehn, als dem Leser bekannt vor⸗
+
+assetze. Denn theils ist mein Fach nicht das erzählende, also
+nicht die Darlegung von Thatsachen, sondern die Theorie
+enselben; theils müßte ich ein dickes Buch schreiben, wenn
+ie — Krankengeschichten, Traumgesichte, Gei⸗
+u. s. w., die unserm Thema als Stoff zum
+— bereits in vielen Büchern erzählt sind, wie⸗
+ö — endlich auch habe ich keinen Beruf den Skepti⸗
+s der Ignoranz zu bekämpfen, dessen superkluge Gebärden
+
+h mehr außer Kredit kommen und bald nur noch in Eng⸗
+urs haben werden. Wer heut zu Tage die Thatsachen
+nimalischen Magnetismus und seines Hellsehns bezweifelt,
+t ungläubig, sondern unwissend zu nennen. Aber ich muß
+
+
+mehr, ich muß die Bekanntschaft mit wenigstens einigen der in
+großer Anzahl vorhandenen Bücher über Geistererscheinungen,
+oder anderweitige Kunde von diesen voraussetzen. Selbst die auf
+solche Bücher verweisenden Citate gebe ich nur dann, wann es
+specielle Angaben oder streitige Punkte betrifft. Im übrigen setze
+ich bei meinem Leser, den ich mir als einen mich schon anderwei⸗
+tig kennenden denke, das Zutrauen voraus, daß, wenn ich etwas
+als faktisch feststehend annehme, es mir aus guten — oder
+aus eigener Erfahrung, bekannt sei. 2
+
+Zunächst nun also frägt sich, ob denn wirklich in unserm
+anschauenden Intellekt, oder Gehirn, anschauliche Bilder, vollkom⸗
+men und ununterscheidbar gleich denen, welche daselbst die auf
+die äußeren Sinne wirkende Gegenwart der Körper veranlaßt,
+ohne diesen Einfluß entstehn können. Glücklicherweise benimmt
+uns hierüber eine uns sehr vertraute Erscheinung jeden Zweifel:
+
+Die Träume für bloßes Gedankenspiel, bloße Phpantasiebil⸗
+der ausgeben zu wollen, zeugt von Mangel an Besinnung, oder
+an Redlichkeit: denn offenbar find fie von diesen specisisch ver⸗
+schieden. Phantasiebilder sind schwach, matt, unvollständig, ein⸗
+seitig und so flüchtig, daß man das Bild eines Abwesenden kaum
+einige Sekunden gegenwärtig zu erhalten vermag, und sogar das
+lebhafteste Spiel der Phantasie hält keinen Vergleich aus mit
+jener handgreiflichen Wirklichkeit, die der Traum uns vorführt.
+Es ist ganz falsch, Dies daraus erklären zu wollen, daß die Bil⸗
+der der Phantasie durch den gleichzeitigen Eindruck der realen
+Außenwelt gestört und geschwächt würden: denn auch in der tief⸗
+sten Stille der finstersten Nacht vermag die Phantasie nichts her⸗
+vorzubringen, was jener objektiven Anschaulichkeit und Leibhaftig⸗
+keit des Traumes irgend nahe käme. Zudem sind Phantasiebilder
+stets durch die Gedankenassociation, oder durch Motive herbeige⸗
+führt und vom Bewußtseyn ihrer Willkürlichkeit begleitet. Der
+Traum hingegen steht da, als ein völlig Fremdes, sich, wie die
+Außenwelt, ohne unser Zuthun, ja wider unsern Willen aufdrin⸗
+gendes. Alle seine Gegenstände erscheinen bestimmt und deutlich,
+wie die Wirklichkeit, nicht etwan bloß in Bezug auf uns, also
+flächenartig⸗einseitig, oder nur in der Hauptsache und in allge- ei
+meinen Umrissen angegeben; sondern genau ausgeführt, uf
+
+
+[S. 218]
+
+
+und was damit zusammenhängt. 219
+
+
+die kleinsten und zufälligsten Einzelheiten und die uns oft hinder⸗
+lichen und im Wege stehenden Nebenumstände herab: da wirft
+jeder Körper seinen Schatten, und jedes Hinderniß muß erst be⸗
+seitigt werden, gerade wie in der Wirklichkeit. Das durchaus
+Objektive desselben zeigt sich ferner darin, daß seine Vorgänge
+meistens gegen unsre Erwartung, oft gegen unsern Wunsch aus⸗
+fallen, sogar bisweilen unser Erstaunen erregen; nicht weniger
+auch in der dramatischen Richtigkeit der Charaktere und Hand⸗
+lungen, welche die artige Bemerkung veranlaßt hat, daß Jeder,
+während er träumt, ein Shakespeare sei. In Folge alles Dies
+fen ist die Täuschung, die der Traum erzeugt, so stark, daß die
+Wirt selbst, welche beim Erwachen vor uns steht, oft erst
+a hat und Zeit gebraucht, ehe sie zum Worte kommen
+uns von der Trüglichkeit des schon nicht mehr vorhan⸗
+de bloß dagewesenen Traumes zu überzeugen. Auch
+hinsichtlich der Erinnerung find wir, bei unbedeutenden Vorgän⸗
+i — im Zweifel, ob sie geträumt oder wirklich geschehn
+seien: wenn hingegen Einer zweifelt, ob etwas geschehn sei, oder
+er es sich bloß eingebildet habe; so wirft er auf sich selbst
+den Verdacht des Wahnsinns. Dies Alles beweist, daß der
+Traum eine ganz eigenthümliche Funktion unsers Gehirns und
+durch —— ist von der bloßen Einbildungskraft und ihrer
+ion. — Auch Aristoteles sagt: ro svurwior eorıv ao
+ö — © 2. Auch macht er die feine und richtige
+kung, daß wir, im Traume selbst, uns abwesende Dinge
+durch die Phantasie vorstellen. Hieraus aber läßt sich
+gern, daß, während des Traumes, die Phantasie noch dispo⸗
+al Miet fie selbst das Medium, r rem des Trans
+seus wieder hat der Traum eine — 1 zu —
+6 kei mit dem Wahnsinn. Nämlich, was das träumende
+tseyn vom wachen hauptsächlich unterscheidet, ist der Mans
+edächtniß, oder vielmehr an zusammenhängender, beson⸗
+nnerung. Wir träumen uns in wunderliche, ja
+e Lagen und Verhältnisse, ohne daß es uns einfiele,
+tionen derselben zum Abwesenden und den Ursachen
+ntritts zu forschen; wir vollziehen ungereimte Handlun⸗
+
+
+gen, weil wir des ihnen Entgegenstehenden nicht eingedenk sind.
+Längst Verstorbene figuriren noch immer als Lebende in unsern
+Träumen; weil wir im Traume uns nicht darauf besinnen, daß
+sie todt sind. Oft sehn wir uns wieder in den Verhältnissen,
+die in unsrer frühen Jugend bestanden, von den damaligen Per⸗
+sonen umgeben, Alles beim Alten; weil alle seitdem eingetrete⸗
+tenen Veränderungen und Umgestaltungen vergessen sind. Es
+scheint also wirklich, daß im Traume, bei der Thätigkeit aller
+Geisteskräfte, das Gedächtniß allein nicht recht disponibel sei.
+Hierauf eben beruht seine Aehnlichkeit mit dem Wahnsinn, wel⸗
+cher, wie ich (Welt als W. und V. Bd. 1. $. 36. und Bd. 2.
+Kap. 32.) gezeigt habe, im Wesentlichen auf eine gewisse Zerrüt⸗
+tung des Erinnerungsvermögens zurückzuführen ist. Von diesem
+Gesichtspunkt aus läßt sich daher der Traum als ein kurzer
+Wahnsinn, der Wahnsinn als ein langer Traum bezeichnen.
+Wie jede Veränderung in der realen Welt schlechterdings
+
+nur in Folge einer ihr vorhergegangenen andern, ihrer Ursache,
+eintreten kann; so ist auch der Eintritt aller Gedanken und Vor⸗
+stellungen in unser Bewußtseyn dem Satze von Grunde überhaupt
+unterworfen; daher solche jedesmal entweder durch einen äußern
+Eindruck auf die Sinne, oder aber, nach den Gesetzen der Asso⸗
+ciation (worüber Kap. 14 im zweiten Bande meines Haupt⸗
+werks) durch einen ihnen vorhergängigen Gedanken hervorgeru⸗
+fen seyn müssen; außerdem sie nicht eintreten könnten. Diesem
+Satze vom Grunde, als dem ausnahmslosen Prineip der Abhän⸗
+gigkeit und Bedingtheit aller irgend für uns vorhandenen Ge⸗
+genstände, müssen nun auch die Träume, hinsichtlich ihres Ein⸗
+tritts, irgendwie unterworfen seyn: allein auf welche Weise sie
+ihm unterliegen, ist sehr schwer auszumachen. Denn das Cha-
+rakteristische des Traumes ist die ihm wesentliche Bedingung des
+Schlafs, d. h. der aufgehobenen normalen Thätigkeit des Gehirns
+und der Sinne: erst wann diese Thätigkeit feiert, kann der
+Traum eintreten; gerade so, wie die Bilder der Laterna magika
+erst erscheinen können, nachdem man die Beleuchtung des Zim⸗
+mers aufgehoben hat. Demnach wird der Eintritt, mithin auch
+der Stoff des Traums zuvörderst nicht durch äußere Eindrücke auf
+die Sinne herbeigeführt: einzelne Fälle, wo, bei leichtem N
+
+
+[S. 220]
+
+
+und was damit zusammenhängt. 221
+
+
+mer) äußere Töne, auch wohl Gerüche, noch ins Sensorium ges
+drungen sind und Einfluß auf den Traum erlangt haben, sind
+sperielle Ausnahmen, von denen ich hier absehe. Nun aber ist
+sehr beachtenswerth, daß die Träume auch nicht durch die Gedan⸗
+kenassociation herbeigeführt werden. Denn fie entstehn entweder
+mitten im tiesen Schlafe, dieser eigentlichen Ruhe des Gehirns,
+welche wir als eine vollkommene, mithin als ganz bewußtlos
+anzunehmen alle Ursache haben; wonach hier sogar die Möͤglich⸗
+leeit der Gedankenassociation wegfällt: oder aber fie entstehn beim
+Uebergang aus dem wachen Bewußtseyn in den Schlaf, also
+beim Einschlafen: sogar bleiben sie hiebei eigentlich nie ganz aus
+und geben eben dadurch uns Gelegenheit, die volle Ueberzeugung
+zin gewinnen, daß fie durch keine Gedankenassociation mit den
+wachen Vorstellungen verknüpft sind, sondern den Faden dieser
+
+t lassen, um ihren Stoff und Anlaß ganz wo anders,
+nicht woher, zu nehmen. Diese ersten Traumbilder
+fenden nämlich sind, was sich leicht beobachten läßt,
+irgend einigen Zusammenhang mit den Gedanken, un⸗
+er eingeschlafen ist, ja, sie sind diesen so auffallend he⸗
+dem darüber Nachdenkenden sich die Frage aufdrängt,
+urch wohl die Wahl und Beschaffenheit derselben bestimmt
+en möge! Sie haben überdies (wie Burdach im 3. Bande
+logie fein und richtig bemerkt) das Unterscheidende,
+keine zusammenhängende Begebenheit darstellen und wir
+heils nicht selbst als handelnd darin auftreten, wie
+n n Träumen; sondern sie find ein rein objektives Schau⸗
+„ besehen aus vereinzelten Bildern, die beim Einschlafen
+ich aufsteigen. Da wir oft sogleich wieder darüber erwachen,
+
+6 uns vollkommen überzeugen, daß sie mit den noch
+ich vorher dagewesenen Gedanken niemals die mindeste
+„die entfernteste Analogie, oder sonstige Beziehung zu
+aben, vielmehr uns durch das ganz Unerwartete ihres
+s überraschen, als welcher unserm vorherigen Gedanken⸗
+en so fremd ist, wie irgend ein Gegenstand der Wirk⸗
+. Zustande, auf die zufälligste Weise, plötz⸗
+njere Wahrnehmung tritt. — Der Faden also, den der
+Grunde uns in die Hand giebt, scheint uns hier an
+
+
+[S. 222]
+
+
+beiden Enden, dem innern und dem äußern, abgeschnitten zu seyn.
+Allein das ist nicht möglich, nicht denkbar. Nothwendig muß
+irgend eine Ursache vorhanden seyn, welche jene Traumgestalten
+herbeiführt und sie durchgängig bestimmt; so daß aus ihr sich
+müßte genau erklären lassen, warum z. B. mir, den bis zum
+Augenblick des Einschlummerns ganz andere Gedanken beschäftig⸗
+ten, jetzt plötzlich ein blühender, vom Winde leise bewegter,
+Baum, und nichts Anderes sich darstellt, ein ander Mal aber eine
+Magd, mit einem Korbe auf dem Kopf, wieder ein ander Mal eine
+Da nun also bei der Entstehung der Träume, fei —
+dem Einschlafen, oder im bereits eingetretenen Schlaf, dem Ge⸗
+hirne, diesem alleinigen Sitz und Organ aller Vorstellungen,
+sowohl die Erregung von außen, durch die Sinne, als die von
+innen, durch die Gedanken abgeschnitten ist; fo bleibt uns keine
+andere Annahme übrig, als daß dasselbe irgend eine rein physio⸗
+logische Erregung dazu, aus dem Innern des Organismus, er⸗
+halte. Dem Einflusse dieses sind zum Gehirne zwei Wege offen:
+der der Nerven und der der Gefäße. Die Lebenskraft hat wäh⸗
+rend des Schlafes, d. h. des Einstellens aller animalischen
+Funktionen, sich gänzlich auf das organische Leben geworfen,
+und ist daselbst, unter einiger Verringerung des Athmens, des
+Pulses, der Wärme, auch fast aller Sekretionen, hauptsächlich
+mit der langsamen Reproduktion, der Herstellung alles Verbrauch⸗
+ten, der Heilung alles Verletzten und der Beseitigung aller ein⸗
+gerissenen Unordnungen, beschäftigt; daher der Schlaf die Zeit
+ist, während welcher die vis naturae medicatrix, in allen
+Krankheiten, die heilsamen Krisen herbeiführt, in —
+alsdann den entscheidenden Sieg über das vorhan .
+erkämpft, und wonach daher der Kranke, mit dem sichern Gefühl
+der herankommenden Genesung, erleichtert und freudig erwacht.
+Aber auch bei dem Gefunden wirkt fie das Selbe, nur i
+gleich geringerm Grade an allen Punkten, wo es nöthig i
+daher auch er beim Erwachen das Gefühl der Herstellung und
+Erneuerung hat: besonders hat im Schlafe das Gehirn seine, im
+Wachen nicht ausführbare, Nutrition erhalten; wovon die her⸗
+gestellte Klarheit des Bewußtseyns die Folge ist. Alle en N
+Operationen stehn unter der Leitung und Kontrole des plastis |
+
+
+| und was damit zusammenhängt. 223
+
+
+Neervensystems, also der sämmtlichen großen Ganglien, oder Ner⸗
+| venknoten, welche, in der ganzen Länge des Rumpfs, durch lei⸗
+tende Nervenstränge mit einander verbunden, den großen sym⸗
+path ischen Nerven oder den innern Nervenheerd, ausmachen.
+Diefer ist vom äußern Nervenheerde, dem Gehirn, als welches
+ausschließlich der Leitung der äußern Verhältnisse obliegt und
+deshalb einen nach außen gerichteten Nervenapparat und durch
+ihn veranlaßte Vorstellungen hat, ganz gesondert und isolirt; so
+daß, im normalen Zustande, seine Operationen nicht ins Be⸗
+wußtseyn gelangen, nicht empfunden werden. Inzwischen hat
+derselbe doch einen mittelbaren und schwachen Zusammenhang
+mit dem Cerebralsystem, durch dünne und fernher anastomosirende
+auf dem Wege derselben wird, bei abnormen Zuständen,
+
+wissem Grade durchbrochen, wonach solche, dumpfer oder deutli⸗
+r, als Schmerz ins Bewußtseyn eindringen. Hingegen im
+alen und gesunden Zustande gelangt, auf diesem Wege, von
+rgängen und Bewegungen in der fo komplieirten und
+tätigen Werkstätte des organischen Lebens, von dem leichtern,
+— Fortgange desselben, nur ein äußerst schwacher,
+Nachhall ins Sensorium: dieser wird im Wachen,
+
+Gehirn an seinen eigenen Operationen, also am Em⸗
+
+igen äußerer Eindrücke, am Anschauen, auf deren Anlaß, und
+
+
+sonde — höchstens einen geheimen und unbewußten Einfluß,
+s welchem diejenigen Aenderungen der Stimmung entstehn,
+
+m keine Rechenschaft aus objektiven Gründen sich geben
+bt. Beim Einschlafen jedoch, als wo die äußern Eindrücke zu
+wirt aufhören und auch die Regsamkeit der Gedanken, im
+nern des Sensoriums, allmälig erstirbt, da werden jene schwa⸗
+
+N drücke, die aus dem innern Nervenheerde des organischen
+18, auf mittelbarem Wege, heraufdringen, imgleichen jede
+ge Modifikation des Blutumlaufs, da fie sich den Ge⸗
+8 Gehirns mittheilt, fühlbar, — wie die Kerze zu schei⸗
+„wann die Abenddämmerung eintritt; oder wie wir
+die Quelle rieseln hören, die der Lärm des Tages
+mbar machte. Eindrücke, die viel zu schwach sind, als
+das wache, d. h. thätige, Gehirn wirken könnten,
+
+
+vermögen, wann feine eigene Thätigkeit ganz eingestellt wird,
+eine leise Erregung seiner einzelnen Theile und ihrer vorstellen⸗
+den Kräfte hervorzubringen; — wie eine Harfe von einem frem⸗
+den Tone nicht widerklingt, während sie selbst gespielt wird,
+wohl aber, wenn sie still dahängt. Hier also muß die Ursache
+der Entstehung und, mittelst ihrer, auch die durchgängige nähere
+Bestimmung jener beim Einschlafen aufsteigenden Traumgestalten
+liegen, und nicht weniger die der, aus der absoluten mentalen
+Ruhe des tiefen Schlafes sich erhebenden, dramatischen Zusam⸗
+menhang habenden Träume; nur daß zu diesen, da sie eintreten,
+wann das Gehirn schon in tiefer Ruhe und gänzlich seiner Nu⸗
+teition hingegeben ist, eine bedeutend stärkere Anregung von in⸗
+nen erfordert seyn muß; daher eben es auch nur diese Träume
+sind, welche, in einzelnen, sehr seltenen Fällen, prophetische, oder
+fene Bedeutung haben, und Horaz ganz richtig sagt: =
+post, mediam noctem, eum somnia vera.
+Denn die letzten Morgenträume verhalten sich, in biefer Sinfiht
+denen beim Einschlafen gleich, sofern das auen und gesät⸗
+tigte Gehirn wieder leicht erregbar ist. 22 rg
+Also jene schwachen Nachhälle aus der Wertslte des orga⸗
+nischen Lebens sind es, welche in die, der Apathie
+kende, oder ihr bereits hingegebene, sensorielle Thätigkeit a e
+hirnes dringen und sie schwach, zudem auf einem ungewöhnlichen
+Wege und von einer andern Seite, als im Wachen, erregen:
+aus ihnen jedoch muß dieselbe, da allen andern Anregungen der
+Zugang gesperrt ist, den Anlaß und Stoff zu ihren Traumge⸗
+stalten nehmen, so heterogen diese auch solchen Eindrücken seyn
+mögen. Denn, wie das Auge, durch mechanische
+oder durch innere Nervenkonvulsion, —
+und Leuchten erhalten kann, die den durch äußeres Licht verur⸗
+sachten völlig gleich sind; wie bisweilen das Ohr, in Folge
+normer Vorgänge in feinem Innern, Töne jeder Art hört; wie
+eben fo der Geruchsnerve ohne alle äußere Ursache ganz fp a
+fisch bestimmte Gerüche empfindet; wie auch die Gef >
+ven auf analoge Weise affizirt werden; wie also —
+nerven sowohl von innen, als von außen, zu ihren eigenthüm⸗
+lichen Empfindungen erregt werden können; auf gleiche
+kann auch das Gehirn durch Reize, die aus dem Innern de
+
+
+22⁴ Versuch über Geistersehn
+
+
+und was damit zufammenhängt. 225
+
+
+Organismus kommen, bestimmt werden, feine Funktion der An⸗
+schauung raumerfüllender Gestalten zu vollziehn; wo denn die
+so entstandenen Erscheinungen gar nicht zu unterscheiden seyn
+werden von den durch Empfindungen in den Sinnesorganen ver⸗
+anlaßten, welche durch äußere Ursachen hervorgerufen wurden.
+Wie nämlich der Magen aus Allem, was er bewältigen kann,
+Chymus, und die Gedärme a iesem Chylus bereiten, dem
+man seinen Urstoff nicht ansieht; so reagirt auch das Gehirn,
+auf alle zu ihm gelangende Erregi „ mittelst Vollziehung der
+ihm eigenthümlichen Funktion. Dirk e besteht zunächst im Ent⸗
+
+
+ist, nach allen drei Dimensionen; sodann im Bewegen der⸗
+in der Zeit und am Leitfaden der Kausalität, als welche
+s die Funktionen feiner. ihm eigenthümlichen Thätigkeit
+Denn allezeit wird es nur seine eigene Sprache reden: in
+daher interpretirt es auch jene schwachen, während des
+3, von innen zu ihm gelangenden Eindrücke; eben wie die
+n und bestimmten, im Wachen, auf dem regelmäßigen Wege,
+außen kommenden: auch jene also geben ihm den Stoff zu
+en, welche denen auf Anregung der äußern Sinne entste⸗
+u vollkommen gleichen; obschon zwischen den beiden Arten
+n veranlassenden Eindrücken kaum irgend eine Aehnlichkeit seyn
+. Aber sein Verhalten hiebei läßt sich mit dem eines Tau⸗
+leichen, der aus einigen in fein Ohr gelangten Vokalen,
+anze; wiewohl falsche, Phrase zusammensetzt; oder wohl
+em eines Verrückten, den ein zufällig gebrauchtes Wort
+e, seiner firen Idee entsprechende Phantasien bringt.
+ö s sind es jene schwachen Nachhälle gewisser Vorgänge
+Innern des Organismus, welche, bis zum Gehirn hinauf
+jerend, den Anlaß zu feinen Träumen abgeben: diese
+aher auch durch die Art jener Eindrücke specieller ber
+ndem fie wenigstens das Stichwort von ihnen erhalten
+„ fie werden, fo gänzlich verschieden von jenen fie auch
+gen, doch ihnen irgendwie analogisch, oder wenigstens
+entsprechen, und zwar am genauesten denen, die wäh⸗
+tiefen Schlafes das Gehirn zu erregen vermögen;
+n he, wie gesagt, schon bedeutend stärker seyn müsseu. Da
+
+n ferner diese innern Vorgänge des organischen * anf
+
+
+n von Bildern im Raum, als welcher feine Anschauungs⸗
+
+
+mem
+
+
+das zur Auffassung der Außenwelt bestimmte Sensorium ebenfalls
+nach Art eines ihm Fremden und Aeußeren einwirken; so wer⸗
+den die auf solchen Anlaß in ihm entstehenden Anschauungen
+ganz unerwartete und seinem etwan kurz zuvor noch dagewe⸗
+senen Gedankengange völlig heterogene und fremde Gestalten
+seyn; wie wir Dieses, beim Einschlafen und baldigem Wiederer⸗
+
+
+wachen aus demselben, zu b chten Gelegenheit haben.
+Diese ganze Auseinan ng lehrt uns vor der Hand weiter
+
+
+[S. 226]
+
+
+nichts kennen, als die nächste des Eintritts des Traumes,
+oder die Veranlassung desselben, welche zwar auch auf seinen Inhalt
+Einfluß haben, jedoch an sich selbst diesem so sehr heterogen seyn
+muß, daß die Art ihrer Verwandschaft uns ein Geheimniß bleibt.
+Noch räthselhafter ist der physiologische Vorgang im Gehirn
+selbst, darin eigentlich das Träumen besteht. Der Schlaf näm⸗
+lich ist die Ruhe des Gehirns, der Traum dennoch eine gewisse
+Thätigkeit desselben: sonach müssen wir, damit kein Widerspruch
+entstehe, jene für eine nur relative und diese für eine irgendr
+limitirte und nur partielle erklären. In welchem Sinne nun
+dieses sei, ob den Theilen des Gehirns, oder dem Grad seiner
+Erregung, oder der Art seiner innern Bewegung nach, und wo⸗
+durch eigentlich sie sich vom wachen Zustande unterscheide, wi
+wir wieder nicht. — Es giebt keine Geisteskraft, die sich im
+Traume nie thätig erwiese: dennoch zeigt der Verlauf desselben,
+wie auch unser eigenes Benehmen darin, oft außerordentlichen
+Mangel an Urtheilskraft, imgleichen, wie schon oben 1 N
+Gedächtniß.
+
+Hinsichtlich auf unsern Hauptgegenstand bleibt die Thatfache
+stehn, daß wir ein Vermögen haben zur anschaulichen Vorstel⸗
+lung raumerfüllender Gegenstände und zum Vernehmen und
+Verstehn von Tönen und Stimmen jeder Art, Beides ohne die
+äußere Anregung der Sinnesempfindungen, welche hingegen zu
+unsrer wachen Anschauung die Veranlassung, den Stoff, oder
+die empirische Grundlage, liefern, mit derselben jedoch darum
+keineswegs identisch find; da solche durchaus intellektual ist
+und nicht bloß sensual; wie ich dies öfter dargethan und bereits
+oben die betreffenden Hauptstellen angeführt habe. Jene, keinem
+Zweifel unterworfene Thatsache nun aber haben wir fest zu
+ten: denn 110 ist das Urphäno men, auf welches alle u =
+
+
+und was damit zusammenhängt. 227
+
+
+ferneren Erklärungen zurückweisen, indem sie nur die sich noch
+weiter nr. Thätigkeit des bezeichneten Vermögens darthun
+Zur Benennung desselben wäre der bezeichnendeste
+Ausdrud der, welchen die Schotten für eine besondere Art feiner
+1g oder Anwendung sehr sinnig gewählt haben, geleitet
+
+von dem richtigen Takt, den die eigenste Erfahrung verleiht: er
+heißt: second sight, das zweite Gesicht. Denn die hier
+erörterte Fähigkeit zu träumen ist in der That ein zweites, näm⸗
+nicht, wie das erste, durch die äußern Sinne vermitteltes
+Auschauungs vermögen, dessen Gegenstände jedoch, der Art und
+Form nach, die selben sind, wie die des ersten; woraus zu schlie⸗
+n daß es, eben wie dieses eine Funktion des Gehirns ift.
+Schottische Benennung würde daher die passendeste seyn,
+die ganze Gattung der hieher gehörigen Phänomene zu bes
+nen und sie auf ein Grund⸗Vermögen zurückzuführen: da
+die Erfinder derselben sie zur Bezeichnung einer besondern,
+en und höchst merkwürdigen Aeußerung jenes Vermögens
+det haben; so darf ich nicht, so gern ich es auch möchte,
+rauchen, die ganze Gattung jener Anschauungen, oder ges
+das subjektive Vermögen, welches sich in ihnen allen kund
+
+
+nung, als die des Traumorgans, als welche die ganze
+de stehende Anschauungsweise durch diejenige Aeußerung
+en bezeichnet, die Jedem bekannt und geläufig ist. Ich
+mich also derselben zur Bezeichnung des dargelegten, vom
+Eindruck auf die Sinne unabhängigen Anschauungsver⸗
+bedienen.
+
+ie Gegenstände, welche dasselbe im gewöhnlichen Traume
+
+
+allemal so, und es ist, in Hinsicht auf unser Thema,
+tig, die Ausnahme hievon aus eigener Erfahrung ken⸗
+lernen, was vielleicht Jeder könnte, wenn er die gehörige
+amkeit auf die Sache verwendete. Es giebt nämlich ei⸗
+am welchem wir zwar schlafen und ei jedoch
+
+
+a an etwan eintretende Menschen gewahr, wissen und
+
+
+zu bezeichnen. Für dieses bleibt mir daher keine passendere
+
+
+[S. 228]
+
+
+selbst im Bett, Alles richtig und genau. Und doch schlafen wir,
+mit fest geschlossenen Augen: wir träumen; nur ist was wir
+träumen wahr und wirklich. Es ist nicht anders, als ob als⸗
+dann unser Schädel durchsichtig geworden wäre, so daß die Au⸗
+ßenwelt nunmehr, statt durch den Umweg und die enge Pforte
+der Sinne, geradezu und unmittelbar ins Gehirn käme. Dieser
+Zustand ist vom wachen viel schwerer zu unterscheiden, als der
+gewöhnliche Traum; weil beim Erwachen daraus keine Umge⸗
+staltung der Umgebung, also gar keine objektive Veränderung,
+vorgeht. Nun ist aber (siehe Welt a. W. u. V. Bd. 1. $ 5.
+S. 19) das Erwachen das alleinige Kriterium zwischen Wachen
+und Traum, welches demnach hier, seiner objektiven und haupt⸗
+sächlichen Hälfte nach, wegfällt. Nämlich beim Erwachen aus
+einem Traum der in Rede stehenden Art geht bloß eine sub⸗
+jektive Veränderung mit uns vor, welche darin besteht, daß
+wir plötzlich eine Umwandelung des Organs unsrer Wahrneh⸗
+mung spüren: dieselbe ist jedoch nur leise fühlbar und kann, weil
+sie von keiner objektiven Veränderung begleitet ist, leicht unbe⸗
+merkt bleiben. Dieserhalb wird die Bekanntschaft mit biefen die
+Wirklichkeit darstellenden Träumen meistens nur dann gemacht
+werden, wann sich Gestalten eingemischt haben, die derselben nicht
+angehören und daher beim Erwachen verschwinden, oder auch
+wann ein solcher Traum die noch höhere Potenzirung erhalten
+hat, von der ich sogleich reden werde. Die beschriebene Art des
+Träumens ist Das, was man Schlafwachen genannt hat;
+nicht etwan, weil es ein Mittelzustand zwischen Schlafen 1
+Wachen ist, sondern weil es als ein Wachwerden im Schlafe feit
+bezeichnet werden kann. Ich möchte es daher lieber ein Wahr⸗
+träumen nennen. Zwar wird man es meistens nur früh Mor⸗
+gens, auch wohl Abends, einige Zeit nach dem Einschlafen, be
+merken: dies liegt aber bloß daran, daß nur dann, wann bei
+Schlaf nicht tief war, das Erwachen leicht genug eintrat, 2 i
+eine Erinnerung an das Geträumte übrig zu lassen. il |
+tritt dieses Träumen viel öfter während des tiefen Schlafes ein,
+nach der Regel, daß die Somnambule um so hellsehender wird, je
+tiefer sie schläft: aber dann bleibt keine Erinnerung daran 8
+Daß hingegen, wann es bei leichterem Schlafe eingetreten
+eine solche bisweilen Statt findet, ist dadurch zu erläutern, daß
+
+
+und was damit zufammenhängt. 229
+
+
+| selbst aus dem magnetischen Schlaf, wenn er ganz leicht war,
+ausnahmsweise eine Erinnerung in das wache Bewußtseyn über⸗
+| gehn kann; wovon ein Beispiel zu 3 ist in Kiesers „Ar⸗
+
+1 2 thier. Magn.“ Bd. 3. H. 2. S. 139. Diesem alfo
+mäß bleibt die Erinnerung solcher unmittelbar objektiv wahren
+e nur dann, wann sie in einem leichten Schlaf, z. B. des
+
+
+Morgens, eingetreten find, wo wir unmittelbar daraus erwachen
+
+
+Diese Art des Traumes nun ferner, deren Eigenthümliches
+besteht, daß man die nächste gegenwärtige Wirklichkeit
+„erhält bisweilen eine Steigerung ihres räthselhaften
+dadurch, daß der Gesichtskreis des Träumenden sich noch
+erweitert, nämlich so, daß er über das Schlafgemach hin⸗
+b — indem die Fenstervorhänge, oder Läden aufhören
+nisse des Sehns zu seyn und man dann ganz deutlich das
+ihnen Liegende, den Hof, den Garten, oder die Straße,
+1 Häufern gegenüber, wahrnimmt. Unsere Verwunderung
+wird sich mindern, wenn wir bedenken, daß hier kein
+es Sehn Statt findet, sondern ein bloßes Träumen: je⸗
+es ein Träumen Dessen, was jetzt wirklich da ist, folg⸗
+Wahrträumen, also ein Wahrnehmen durch das Traum⸗
+welches als solches natürlich nicht an die Bedingung des
+brochenen Durchgangs der Lichtstrahlen gebunden ist. Die
+decke selbst war, wie gesagt, die erste Scheidewand, durch
+zunächst diese sonderbare Art der Wahrnehmung ungehindert
+: steigert nun diese sich noch etwas höher; fo setzen auch
+in , Thüren und Mauern ihr keine Schranken mehr. Wie
+| Dies zugehe, ist ein tiefes Geheimniß: wir wissen
+ter, als daß hier wahr geträumt wird, mithin eine
+ehmung durch das Traumorgan Statt findet. So weit
+iefe für unsre Betrachtung elementare Thatsache. Was
+ihrer Aufklärung, insofern fie möglich seyn mag, thun
+n, besteht zunächst im Zusammenstellen und gehörigem, stu⸗
+Ordnen aller sich an sie knüpfenden Phänomene, in der
+ht ihren Zusammenhang unter einander zu erkennen, und
+) der Hoffnung, dadurch vielleicht no in fie selbst dereinst eine
+ere Einsicht zu erlangen.
+zwischen wird auch Dem, welchem alle eigene Erfahrung
+
+
+bule Zuftand vollkommen vorhanden ift, die äußern Sinne ih
+
+
+[S. 230]
+
+
+hierin abgeht, die geschilderte Wahrnehmung durch das Traum⸗
+organ unumstößlich beglaubigt durch den spontanen, eigentlichen
+Somnambulismus, oder das Nachtwandeln. )( Daß die von die⸗
+ser Sucht Befallenen fest schlafen, und daß sie mit den Augen
+schlechterdings nicht sehen können, ist völlig gewiß: dennoch
+nehmen sie in ihrer nächsten Umgebung Alles wahr, vermeiden
+jedes Hinderniß, gehn weite Wege, klettern an den gefährlichsten
+Abgründen hin, auf den schmalsten Stegen, vollführen weite
+Sprünge, ohne ihr Ziel zu verfehlen: auch verrichten Einige
+unfer ihnen ihre täglichen, häuslichen Geschäfte, im Schlaf, ge⸗
+nau und richtig, Andere koncipiren und schreiben ohne Fehler.
+Auf dieselbe Weise nehmen auch die künstlich in mag
+Schlaf versetzten Somnambulen ihre Umgebung wahr und, wenn
+fie hellsehend werden, selbst das Entfernteste. Ferner ist auch
+die Wahrnehmung, welche gewisse Scheintodte von Allem, was
+um sie vorgeht haben, während sie starr und unfähig ein Glied
+zu rühren daliegen, ohne Zweifel, eben dieser Art: auch fie träus
+men ihre gegenwärtige Umgebung, bringen also dieselbe, auf eis
+nem andern Wege, als dem der Sinne, sich zum Bewußssez
+Man hat sich sehr bemüht, dem physiologischen Organ, l
+dem Sitz dieser Wahrnehmung, auf die Spur zu kommen: Di
+ist es damit bisher nicht gelungen. Daß, wann der somna
+
+
+Funktionen gänzlich eingestellt haben, ist unwidersprechlich; d
+selbst der subjektiveste unter ihnen, das körperliche Gefüpt, fo
+gänzlich verschwunden ist, daß man die schmerzlichsten chirur⸗
+gischen Operationen während des magnetischen Schlafs vol
+zogen hat, ohne daß der Patient irgend eine Empfindung de
+von verrathen hätte. Das Gehirn scheint dabei im Zustande
+des allertiefsten Schlafs, also gänzlicher Unthätigkeit zu fe
+
+Dieses, nebst gewissen Aeußerungen und Aussagen der
+nambulen, hat die Hypothese veranlaßt, der somnambule f
+stand bestehe im gänzlichen Depotenziren des Gehirns und A
+sammeln der Lebenskraft im sympathischen Nerven, dessen 9
+ßere Geflechte, namentlich der plexus solaris, jetzt zu
+Sensorio umgeschaffen würden und also, vikarirend, die
+tionen des Gehirns übernähmen, welche fie nun ohne Hi
+äußerer Sinneswerkzeuge und dennoch ungleich vollkomme
+
+
+und was damit zusammenhängt. 281
+
+
+als dieses, ausübten. Diese, ich glaube zuerst von Reil auf⸗
+gestellte Hypothese ist nicht ohne Scheinbarkeit und steht seit⸗
+dem in großem Ansehen. Ihre Hauptstütze bleiben die Aussagen
+fast aller hellsehenden Somnambulen, daß jetzt ihr Bewußtseyn
+
+
+len und Wahrnehmen vor sich gehe, wie sonst im Kopf. Auch
+lassen die Meisten unter ihnen die Gegenstände, die fie genau
+besehn wollen, sich auf die Magengegend legen. Dennoch halte
+„ih die Sache für unmöglich. Man betrachte nur das Sonnen⸗
+geslecht, dieses sogenannte cerebrum abdominale: wie fo gar
+Hein ist seine Masse und wie höchst einfach feine, aus Ringen
+f densubstanz, nebst einigen leichten Anschwellungen beste⸗
+hende Struktur! Wenn ein solches Organ die Funktionen des
+Auschauens und Denkens zu vollziehn fähig wäre; fo würde das
+überall bestätigte Gesetz natura nihil facit frustra umge⸗
+seyn. Denn wozu wäre dann noch die meistens 3 und
+.* nzelnen über 5 Pfund wiegende, fo kostbare, wie wohlper⸗
+wahrte Masse des Gehirns, mit der fo überaus künstlichen
+
+ktur seiner Theile, deren Komplikation so intrikat ist, daß
+hrerer ganz verschiedener Zerlegungsweisen und häufiger
+holung derselben bedarf, um nur den Zusammenhang der
+tion dieses Organs einigermaaßen verstehn und sich ein
+ich deutliches Bild von der wundersamen Gestalt und Ver⸗
+seiner vielen Theile machen zu können. Zweitens ist
+gen, daß die Schritte und Bewegungen eines Nacht⸗
+sich mit der größten Schnelle und Genauigkeit den von
+durch das Traumorgan wahrgenommenen nächsten Um⸗
+anpassen; fo daß er, auf das Behendeste und wie es
+cher könnte, jedem Hinderniß augenblicklich ausweicht,
+, mit derselben Geschicklichkeit, feinem einstweiligen Ziele
+
+
+rk, welches, durch die medulla oblongata, mit dem
+sehirn, dem Regulator der Bewegungen, dieses aber
+it dem großen Gehirne, dem Ort der Motive, welches
+ellungen find, zusammenhängt; wodurch es dann mög-
+„daß die Bewegungen, mit augenblicklicher Schnelle,
+den flüchtigsten Wahrnehmungen anpassen. Wenn nun
+Vorstellungen, welche als Motive die Bewegungen zu
+
+
+feinen Sitz gänzlich auf der Herzgrube habe, woselbst ihr Den⸗
+
+
+[S. 232]
+
+
+bestimmen haben, in das Bauchgangliengeflecht verlegt wären,
+dem nur auf Umwegen eine schwierige, schwache und mittelbare
+Kommunikation mit dem Gehirne möglich ist, (daher wir im ge⸗
+
+
+sunden Zustande vom ganzen, so stark und rastlos thätigen Trei⸗
+
+
+ben und Schaffen unsers organischen Lebens gar nichts spüren);
+
+
+wie sollten die daselbst entstehenden Vorstellungen, und zwar mit
+
+
+Blitzesschnelle, die gefahrvollen Schritte des Nachtwandlers len⸗
+ken? — Daß übrigens, beiläufig gesagt, der Nachtwandler ohne
+
+
+Fehl und ohne Furcht die gefahrlichsten Wege durchläuft, wie er
+
+
+es wachend nimmermehr könnte, ist daraus erklärlich, daß sein
+
+
+Intellekt nicht ganz und schlechthin, sondern nur einseitig, näm⸗
+
+
+lich nur soweit thätig ist, als es die Lenkung seiner Schritte er⸗
+fordert; wodurch die Reflexion, mit ihr aber alles Zaudern und
+Schwanken, eliminirt ist. — Endlich giebt uns darüber, daß
+
+
+wenigstens die Träume eine Funktion des Gehirns sind, fol⸗
+
+
+gende von Treviranus (über die Erscheinungen des organi⸗
+schen Lebens, Bd. 2. Abth. 2. S. 117), nach Pierquin ange⸗
+führte Thatsache sogar faktische Gewißheit: „Bei einem Mäd⸗
+
+
+„chen, dessen Schädelknochen durch Knochenfraß zum Theil so
+„zerstört waren, daß das Gehirn ganz entblößt lag, quoll dieses
+
+
+„beim Erwachen hervor und sank beim Einschlafen. Während
+
+
+„des ruhigen Schlafs war die Senkung am stärksten. Bei leb⸗
+
+
+„haften Träumen fand Turgor darin Statt.“ Vom Traum ist
+aber der Somnambulismus offenbar nur dem Grade nach
+
+
+schieden: auch seine Wahrnehmungen geschehn durch das Traum⸗ :
+
+
+organ: er ist, wie gesagt, ein unmittelbares Wahrträumen.
+Man könnte indessen die hier bestrittene Hypothese dahin
+
+
+modifiziren, daß das Bauchgangliengeflecht nicht selbst das Sen⸗ 4
+sorium würde, sondern nur die Rolle der äußern Werkzeuge
+
+
+desselben, also der hier ebenfalls gänzlich depotenzirten Sinnes⸗
+organe übernähme, mithin Eindrücke von außen empfienge, die
+es dem Gehirn überlieferte, welches solche feiner Funktion ge⸗
+mäß bearbeitend, nun daraus die Gestalten der Außenwelt eben
+so schematisirte und aufbaute, wie sonst aus den Empfindungen
+in den Sinnesorganen. Allein auch hier wiederholt sich die
+Schwierigkeit der blitzschnellen Ueberlieferung der Eindrücke an dass
+von diesem innern Nervencentro so entschieden isolirte G.
+
+Sodann ist das Sonnengeflecht, seiner Structur nach, zum
+
+
+und was damit zusammenhängt. 233
+
+
+und Hörorgan eben so ungeeignet, wie zum Denkorgan, überdies
+
+auch durch eine dicke Scheidewand aus Haut, Fett, Muskeln, Peri⸗
+tonäum und Eingeweiden vom Eindrucke des Lichts gänzlich ab-
+gesperrt. Wenn also auch die meisten Somnambulen, (imgleichen
+V. Helmont, in der von Mehreren angeführten Stelle Ortus
+medicinae, Lugd. bat. 1667. demens idea $. 12. p. 171.)
+aussagen, ihr Schauen und Denken gehe in der Magengegend
+vor sich; fo dürfen wir dies doch nicht sofort als objektiv gültig
+annehmen; um fo weniger, als einige Somnambulen es ausdrück⸗
+lich leugnen: z. B. die bekannte Auguste Müller in Karlsruhe
+giebt (in dem Bericht über fie S. 53 ff.) an, daß sie nicht mit
+der Herzgrube, sondern mit den Augen sehe, sagt jedoch, daß
+e meisten andern Somnambulen mit der Herzgrube sähen;
+und auf die Frage „kann auch die Denkkraft in die Herzgrube
+
+pflanzt werden?“ antwortet sie: „nein, aber die Seh- und
+aft.“ Diesem entspricht die Aussage einer andern Som⸗
+ule, in Kiesers Archiv Bd. 10. H. 2. S. 154, welche auf
+Frage: „denkst du mit dem ganzen Gehirn, oder nur mit
+m Theil desselben?“ antwortet: „mit dem ganzen, und ich
+de sehr müde.“ Das wahre Ergebniß aus allen Somnam⸗
+u⸗Aussagen scheint zu seyn, daß die Anregung und der
+f zur anschauenden Thätigkeit ihres Gehirns, nicht, wie im
+u von außen und durch die Sinne, sondern, wie oben bei
+Be auseinandergesetzt worden, aus dem Innern des
+ismus kommt, dessen Vorstand und Lenker bekanntlich die
+Geslechte des sympathischen Nerven sind, welche daher,
+icht auf die Nerventhätigkeit, den ganzen Organismus,
+ahme des Cerebralsystems, vertreten und reprasentiren.
+igen find damit zu vergleichen, daß wir den Schmerz
+zu empfinden vermeinen, den wir doch wirklich nur im
+rt empfinden, daher er, sobald die Nervenleitung zu die⸗
+mterbrochen ist, wegfällt. Es ist daher Täuschung, wenn
+nambulen mit der Magengegend zu sehn, ja, zu lesen
+oder, in seltenen Fällen, sogar mit den Fingern, Zehen,
+Nasenspitze, diese Funktion zu vollziehn behaupten (3. B.
+Arst in Kiesers Archiv Bd. 3. Heft 2., ferner die
+e Koch, ebendas. Bd. 10. H. 3. S. 8 — 21., auch
+in Just. Kerner's „Geschichte zweier Somnambu⸗
+
+
+[S. 234]
+len,“ 1824, S. 323 — 30, welches aber hinzufügt „der
+
+
+Ort dieses Sehns sei das Gehirn, wie im wachen Zustande. “).
+
+
+Denn, wenn wir auch die Nervensensibilität solcher Theile noch
+so hoch gesteigert uns denken wollen; so bleibt ein Sehn im ei⸗
+gentlichen Sinne, d. h. durch Vermittelung der Lichtstrahlen, in
+Organen, die jedes optischen Apparats entbehren, selbst wenn
+sie nicht, wie doch der Fall ist, mit dicken Hüllen bedeckt, sondern
+dem Lichte zugänglich wären, durchaus unmöglich. Es ist ja
+nicht bloß die hohe Sensibilität der Retina, welche sie zum Sehn
+befähigt, sondern eben so sehr der überaus künstliche und kompli⸗
+cirte optische Apparat im Augapfel. Das physische Sehn erfor
+dert nämlich zwar zunächst eine für das Licht sensible Fläche,
+dann aber auch, daß auf dieser, mittelst der Pupille und der
+lichtbrechenden, unendlich künstlich kombinirten durchsichtigen Me⸗
+dien, die draußen aus einander gefahrenen Lichtstrahlen sich wir⸗
+der sammeln und koncentriren, so daß ein Bild, — ri
+
+ein dem äußern Gegenstand genau entsprechender Nerven
+druck, — entftehe, als wodurch allein dem Verstande die
+
+len Data geliefert werden, aus denen er sodann, durch n
+
+
+intellektuellen, das Kausalitätsgesetz anwendenden Proceß, die
+
+
+Anschauung in Raum und Zeit hervorbringt. Hingegen Magen⸗
+gruben und Fingerspitzen könnten, selbst wenn Haut, Mus⸗
+
+
+keln u. s. w. durchsichtig wären, immer nur vereinzelte Licht⸗
+veflere erhalten; daher mit ihnen zu sehn fo unmöglich ist, wie
+einen Daguerrotyp in einer offenen Kamera obffura ke
+lungsglas zu machen. Einen ferneren Beweis, daß diese
+
+lichen Sinnes funktionen paraborer Theile, es nicht eigen
+sind, und daß hier nicht, mittelst physischer Einwirkung der Licht
+strahlen gesehn wird, giebt der Umstand, daß der erwähnte Km
+
+
+Kieser's mit den Zehen las, auch wann er dicke wollene Strümpfe n
+
+
+anhatte, und mit den Fingerspitzen nur dann sah, wann er es
+ausdrücklich wollte, übrigens in der Stube, mit den Händen
+voraus, herumtappte: Dasselbe bestätigt seine eigene Aussage
+über diese abnormen Wahrnehmungen (a. a. O. S. 128): „er
+„nannte dies nie Sehen, sondern auf die Frage, wie er =
+„wisse, was da vorgehe, antwortete er, er wisse es eben, das
+„sei ja das Neue.“ Eben so beschreibt, in Kiesers Archiv
+
+
+H. 1. S. 52., eine Somnambule ihre Wahrnehmung ue ein
+
+
+und was damit zusammenhängt. 235
+
+
+Sehn, das kein Sehn ist, ein unmittelbares Sehn.“ In der
+0 der hellsehenden Auguste Müller,“ Studtgard 1818,
+wird S. 36 berichtet: „sie sieht vollkommen hell und erkennt alle
+„uns unmöglich wäre, die Hand vor den Augen zu unterscheiden.“
+Das Selbe belegt, hinsichtlich des Hörens der Somnambulen,
+ferd Aussage (Tellurismus, Bd. 2. S. 172. erste Aufl.), daß
+ne Schnüre vorzüglich gute Leiter des Schalles seien, —
+Wolle bekanntlich der allerschlechteste Schallleiter ist.
+ers belehrend aber ist, über diesen Punkt, folgende Stelle
+— eben erwähnten Buch über die Auguste Müller: „Merk⸗
+dig ist, was jedoch auch bei andern Somnambulen beobach⸗
+wird, daß sie von Allem, was unter Personen im Zimmer,
+dicht neben ihr, gesprochen wird, wenn die Rede nicht un⸗
+ar an sie gerichtet ist, durchaus nichts hört; jedes, auch
+> leise, an fie gerichtete Wort hingegen, selbst wenn meh⸗
+Personen bunt durcheinander sprechen, bestimmt versteht
+beantwortet. Auf dieselbe Art verhält es sich mit dem
+esen: wenn die ihr vorlesende Person an etwas An⸗
+als an die Lektüre denkt, so wird sie von ihr nicht
+S. 40. — Ferner heißt es, S. 89. „Ihr Hören
+Hören auf dem gewöhnlichen Wege durch das Ohr:
+nan kann dieses fest zudrücken, ohne daß es ihr Hören
+afleben der Somnambule Auguste K. in Dresden,“
+wiederholentlich angeführt, daß sie zu Zeiten ganz allein
+Handfläche, und zwar das lautlose, durch bloße Be⸗
+
+
+N kun 1 88 ein Hören im 1 Sinne hallen
+
+
+5 is, bei Somianbüten swer Art, durchaus nicht
+lichen Wahrnehmungen im eigentlichen Verstande des
+8 die Rede; sondern ihr Wahrnehmen ist ein unmittelba⸗
+ahrträumen, geschieht also durch das fo raͤthselhafte
+gan. Daß die wahrzunehmenden Gegenstände an ihre
+auf ihre Magengrube gelegt werden, oder daß, in
+ten einzelnen Fällen, die Somnambule ihre ausge⸗
+Fingerspitzen auf dieselben richtet, geschieht bloß, um
+
+
+der Lippen Gesprochene, hörte: S. 32 warnt fie selbst, ;
+
+
+[S. 236]
+
+
+ihre Aufmerksamkeit entschieden darauf hinzulenken, oder, in der
+Kunstsprache, sie mit diesen Objekten in näheren Rapport zu
+setzen. Es ist folglich dem Gebrauche der Hände beim Magne⸗
+tisiren analog, als welche nicht eigentlich physisch einwirken; son⸗
+dern der Wille des Magnetiseurs ist das Wirkende: aber eben
+dieser erhält durch die Anwendung der Hände seine Richtung und
+Entschiedenheit. Denn zum Verständniß der ganzen Einwirkung
+des Magnetiseurs, durch allerlei Gesten, mit und ohne Berührung,
+selbst aus der Ferne und durch Scheidewände, kann nur die aus
+meiner Philosophie geschöpfte Einsicht führen, daß der Leib
+dem Willen völlig identisch, nämlich nichts Anderes ist, als das
+im Gehirn entstehende Bild des Willens. Daß das Sehn der
+Somnambulen kein Sehn in unserm Sinne, kein durch Licht phy⸗
+sisch vermitteltes ist, folgt schon daraus, daß es, wenn zum
+
+sehn gesteigert, durch Mauern nicht gehindert wird, ja e
+
+in ferne Länder reicht. Eine befondere Erläuterung zu demsel ö
+liefert uns die bei den hoͤhern Graden des Hellsehns eintretende
+Selbstanschauung nach innen, vermöge welcher solche Somnam⸗
+bulen alle Theile ihres eigenen Organismus deutlich und
+wahrnehmen, obgleich hier, sowohl wegen Abwesenheit alles eich.
+tes, als wegen der, zwischen dem angeschauten Theile und dem
+Gehirne liegenden vielen Scheidewände, alle Bedingungen zum
+physischen Sehn gänzlich fehlen. Hieraus nämlich können wir
+abnehmen, welcher Art alle somnambule Wahrnehmung, —
+auch die nach außen und in die Ferne gerichtete, und 1
+überhaupt alle Anschauung mittelst des Traumorgans sei, mit
+alles somnambule Sehen äußerer Gegenstände, auch alles
+
+
+men, alle Visionen im Wachen, das zweite Gesicht, — 8
+
+
+Erscheinung Abwesender, namentlich Sterbender u. s. w. Denn
+das erwähnte Schauen der innern Theile des eigenen F
+entsteht offenbar nur durch eine Einwirkung von innen, wah
+
+
+scheinlich unter Vermittelung des Gangliensystems, auf das Ge⸗ 6
+
+
+hirn, welches nun, seiner Natur getreu, diese innern Eindrü
+
+
+eben so wie die ihm von außen kommenden verarbeitet, —
+
+
+sam einen fremden Stoff in seine ihm selbst eigenen und ge⸗
+wohnten Formen gießend, woraus denn eben solche Anschauun⸗
+gen, wie die von Eindrücken auf die äußern Sinne herrühren⸗
+
+
+den entstehn, welche denn auch, in eben dem Maaße und Sinne a
+
+
+| und was damit zusammenhängt. 237
+
+
+wie jene, den angeschauten Dingen entsprechen. Demnach ist
+jegliches Schauen durch das Traumorgan die Thätigkeit der an⸗
+jauenden Gehirnfunktion, angeregt durch innere Eindrücke,
+1 3 sonst, durch äußere. Daß eine solche dennoch, auch
+wenn sie äußere, ja, entfernte Dinge betrifft, objektive Reali⸗
+tät und Wahrheit haben könne, ist eine Thatsache, deren Erklä⸗
+ig jedoch nur auf metaphysischem Wege, nämlich aus der Be⸗
+fung aller Individuation und Abtrennung auf die Erschei⸗
+im Gegensatz des Dinges an sich, versucht werden könnte,
+den wir darauf zurückkommen. Daß aber überhaupt die
+e ung der Somnambulen mit der Außenwelt eine von
+Grund aus andere sei, als die unsrige im wachen Zustande, be⸗
+seit am deutlichsten der, in den höhern Graden häufig eintre⸗
+ende Umstand, daß, während die eigenen Sinne der Hellseherin
+Eindrucke unzugänglich sind, sie mit denen des Magneti⸗
+upfindet, z. B. niest, wann er eine Prise nimmt, schmeckt
+bestimmt was er ißt, und sogar die Musik, die in
+yon ihr entfernten Zimmer des Hauses vor seinen Ohren
+r physiologische Hergang bei der somnambulen Wahrneh⸗
+mu st ein schwieriges Räthsel, zu dessen Lösung jedoch der
+erste Schritt eine wirkliche Phyfiologie des Traumes seyn würde,
+. eine deutliche und sichere Erkenntniß, welcher Art die Thä⸗
+es Gehirns im Traume sei, worin eigentlich sie sich von
+Wachen unterscheide, — endlich von wo die Anregung
+zu ihr, mithin auch die nähere Bestimmung ihres Verlaufs, aus⸗
+e. Nur soviel läßt sich bis jetzt, hinsichtlich der gesammten
+hauenden und denkenden Thätigkeit im Schlafe, mit Sicher⸗
+men: erstlich, daß das materielle Organ derselben, un⸗
+r relativen Ruhe des Gehirns, doch kein anderes, als
+s seyn könne; und zweitens, daß die Erregung zu
+Traum⸗Anschauung, da fie nicht von außen durch die
+mmen kann, vom Innern des Organismus aus ge⸗
+sse. Was aber die, beim Somnambulismus unverkenn⸗
+ichtige und genaue Beziehung jener Traumanschauung zur
+nwelt betrifft; so bleibt sie uns ein Räthsel, dessen Lösung
+unternehme, sondern nur einige allgemeine Andeutungen
+eiterhin geben werde. Hingegen habe ich, als Grundlage
+
+
+[S. 238]
+
+
+der besagten Physiologie des Traums, also zur Erklärung unsrer
+gesammten träumenden Anschauung, mir folgende Hypothese aus⸗
+gedacht, die in meinen Augen große Wahrscheinlichkeit hat.
+Da das Gehirn, während des Schlafs, seine Anregung zur
+Anschauung räumlicher Gestalten besagterweise von innen, statt,
+wie beim Wachen, von außen, erhält; so muß diese Einwirkung
+dasselbe in einer, der gewöhnlichen, von den Sinnen kommenden,
+entgegengesetzten Richtung treffen. In Folge hievon nimmt nun
+auch seine ganze Thätigkeit, also die innere Vibration oder Wal⸗
+lung seiner Fibern, eine der gewöhnlichen entgegengesetzte
+tung, geräth gleichsam in eine antiperiftaltifche Bewegung. =:
+daß fie nämlich sonst in der Richtung der Sinneseindrücke, also
+von den Sinnesnerven zum Innern des Gehirns vor sich ge *
+wird sie jetzt in umgekehrter Richtung und Ordnung,
+aber mitunter von andern Theilen, vollzogen, so daß jetzt, z
+wohl nicht die untere Gehirnfläche, statt der obern, aber viel
+die weiße Mark-⸗Substanz statt der grauen Kortikal⸗Su
+und vice versa fungiren muß. Das Gehirn arbeitet alst
+wie umgekehrt. Hieraus wird zunächst erklärlich, warur
+der somnambulen Thätigkeit keine Erinnerung ins Wachen
+geht, da dieses durch Vibration der Gehirnfibern in d
+gegengesetzten Richtung bedingt ist, welche folglich von
+vorher dagewesenen jede Spur aufhebt. Als eine sp
+Bestätigung dieser Annahme könnte man beiläufig die f
+wöhnliche, aber seltsame Thatsache anführen, daß, wan
+aus dem ersten Einschlafen sogleich wieder erwachen,
+totale räumliche Desorientirung bei uns eingetreten
+Art, daß wir jetzt alles umgekehrt aufzufassen, nämlie
+rechts vom Bette ist links, und was hinten ist nach
+zu imaginiren, genöthigt find, und zwar mit solcher Entf
+denheit, daß, im Finstern, selbst die vernünftige Ueberlegt
+es verhalte sich doch umgekehrt, jene falsche Imagination
+aufzuheben vermag, sondern hiezu das Getast nöthig ist. Be⸗
+sonders aber läßt, durch unsere Hypothese, jene fo merkwür
+dige Lebendigkeit der Traumanschauung, jene oben geschilderte,
+scheinbare Wirklichkeit und Leibhaftigfeit aller im Traume
+genommenen Gegenstände sich begreiflich machen, nämlich d
+daß die aus dem Innern des Organismus kommende und
+
+
+und was damit zusammenhängt. 239
+
+
+Centro ausgehende Anregung der Gehirnthätigkeit, welche eine
+der gewöhnlichen Richtung entgegengesetzte befolgt, endlich ganz
+diaurchdringt, also zuletzt sich bis auf die Nerven der Sinnesor⸗
+gane erstreckt, welche nunmehr von innen, wie sonst von außen,
+erregt, in wirkliche Thätigkeit gerathen. Demnach haben wir
+im Traume wirklich Licht⸗, Farben⸗, Schall⸗, Geruchs⸗ und Ge⸗
+„Empfindungen, nur ohne die sonst fie erregenden äußern
+chen, bloß vermöge innerer Anregung und in Folge einer
+wirkung in umgekehrter Richtung und umgekehrter Zeitord⸗
+ung. Daraus aifo wird jene Leibhaftigkeit der Träume er⸗
+
+5 lich, durch die sie sich von bloßen Phantasien so mächtig un⸗
+5 en. Das Phantasiebild (im Wachen) ist immer bloß im
+denn es ist nur die, wenn auch modifizirte Reminiscenz
+frühern, materiellen, durch die Sinne geschehenen Erregung
+| nfhauenden Gehirnthätigfeit. Das Traumgesicht hingegen
+it nicht bloß im Gehirn, sondern auch in den Sinnesnerven,
+ist entstanden in Folge einer materiellen, gegenwärtig wirk⸗
+aus dem Innern kommenden und das Gehirn durchdrin⸗
+Erregung derselben. Das Traumorgan ist also das selbe
+Organ des wachen Bewußtseyns und Anschauens der
+elt, nur gleichsam vom andern Ende angefaßt und in
+ter Ordnung gebraucht, und die Sinnesnerven, welche
+n fungiren, können sowohl von ihrem innern, als von
+ßern Ende aus in Thätigkeit versetzt werden; — etwan
+> eiferne Hohlkugel sowohl von innen, als von außen,
+gemacht werden kann. Weil, bei diesem Hergange, die
+erven das Letzte find, was in Thätigkeit geräth; fo kann
+„ daß diese erst angefangen hat und noch im Gange
+das Gehirn bereits aufwacht, d. h. die Traumanschauung
+er gewöhnlichen vertauscht: alsdann werden wir, soeben er⸗
+an Töne, z. B. Stimmen, Klopfen an der Thüre, Flin⸗
+f. w. mit einer Deutlichkeit und Objektivität, die es
+keit vollkommen und ohne Abzug gleichthut,
+oder auch, was jedoch seltener ist, Gestalten sehn,
+er empirischer Realität; wie dieses Letztere schon Ari⸗
+erwähnt, de insomniis c. 3. ad finem. — Das hier
+e Traumorgan nun aber ist es, wodurch, wie oben
+m aus einandergesetzt, die somnambule Anschauung, das
+
+
+[S. 240]
+Hellsehn, das zweite Gesicht und die Visionen jeder Art botoge
+werden. — MOD SET
+
+
+Von diesen physiologischen Betrachtungen kehre ich nun⸗
+mehr zurück zu dem oben dargelegten Phänomen des Wa hr⸗
+träumens, welches schon im gewöhnlichen, nächtlichen Schlafe
+eintreten kann, wo es dann alsbald durch das bloße Erwachen
+bestätigt wird, wenn es nämlich, wie meistens, ein unmittel⸗
+bares war, d. h. nur auf die gegenwärtige nächste Umgebung
+sich erstreckte; wiewohl es auch, in schon selteneren Fällen, ein
+wenig darüber hinausgeht, nämlich bis jenseits der nächsten
+Scheidewände. Diese Erweiterung des Gesichtskreises kann nun
+aber auch sehr viel weiter gehn und zwar nicht nur dem
+Raum, sondern sogar der Zeit nach. Den Beweis hievon
+geben uns die hellsehenden Somnambulen, welche, in a
+riode der höchsten Steigerung ihres Zustandes, jeden b
+Ort, auf den man fie hinlenkt, sofort in ihre anschauende !?
+wahrnehmung bringen und die Vorgänge daselbst richtig x
+können, bisweilen aber sogar vermögen, das noch gar nie
+handene, sondern noch im Schooße der Zukunft Liegende un
+im Laufe der Zeit, mittelst unzähliger, zufällig 1
+
+der Zwischenursachen, zur Verwirklichung Gelangende v
+verkündigen. Denn alles Hellsehn, sowohl im künstlich he
+führten, als im natürlich eingetretenen somnambulen Schlafn
+alles in demselben möglich gewordene Wahrnehmen des V
+ten, des Abwesenden, des Entfernten, ja des Zukünftigen
+durchaus nichts Anderes, als ein Wahrträumen de
+dessen Gegenstände sich daher dem Intellekt anschaulich und
+haftig darstellen, wie unsere Träume, weshalb die Som
+von einem Sehn derselben reden. Wir haben inzwi
+diesen Phänomenen, wie auch am spontanen Nachtwandel 5
+sichern Beweis, daß auch jene geheimnißvolle, durch keinen E
+von außen bedingte, uns durch den Traum vertraute Ar
+zur realen Außenwelt im Verhältniß der Wahrn
+stehn kann; obwohl der dies vermittelnde Zusammenh
+derselben uns ein Räthsel bleibt. Was den gewöhnlichen, n.
+lichen Traum vom Hellsehn, oder dem Schlafwachen üb
+unterscheidet, ist erstlich die Abwesenheit jenes Verhältnif
+Außenwelt, also zur Realität; und zweitens, daß sehr oft eine
+
+
+und was damit zusammenhängt. 21
+
+
+Erinnerung von ihm ins Wachen übergeht, während aus dem
+somnambulen Schlaf eine solche nicht Statt findet. Diese bei⸗
+den Eigenschaften könnten aber wohl zusammenhängen und auf
+einander zurückzuführen seyn. Nämlich auch der gewöhnliche
+Traum hinterläßt nur dann eine Erinnerung, wann wir unmit⸗
+telbar aus ihm erwacht sind: dieselbe beruht also wahrscheinlich
+bloß darauf, daß das Erwachen aus dem natürlichen Schlafe
+sehr leicht erfolgt, weil er lange nicht so tief ist, wie der
+somnambule, aus welchem eben dieserhalb ein unmittelbares, also
+schnelles Erwachen nicht eintreten kann, sondern erst mittelst eines
+Tangfamen und vermittelten Ueberganges die Rückkehr zum wachen
+eyn gestattet ist. Der somnambule Schlaf ist nämlich
+r ein ungleich tieferer, stärker eingreifender, vollkommenerer;
+welchem eben deshalb das Traumorgan zur Entwickelung sei⸗
+ganzen Fähigkeit gelangt, wodurch ihm die richtige Bezie⸗
+hung zur Aussenwelt, also das anhaltende und zusammenhängende
+rträumen möglich wird. Wahrscheinlich hat ein solches auch
+len im gewöhnlichen Schlafe Statt, aber gerade nur dann,
+wann er so tief ist, daß wir nicht unmittelbar aus ihm erwachen.
+Di ie Träume, aus denen wir erwachen, sind hingegen die des
+leichteren Schlafes: fie find, auch im letzten Grunde, aus bloß
+lischen, dem eigenen Organismus angehörigen Ursachen ent⸗
+igen, daher ohne Beziehung zur Aussenwelt. Daß es jedoch
+n Ausnahmen giebt, haben wir schon erkannt an den Träu⸗
+welche die unmittelbare Umgebung des Schlafenden dar⸗
+Jedoch auch von Träumen, die das in der Ferne Ge⸗
+ja das Zukünftige verkündigen, giebt es ausnahms⸗
+Erinnerung, und zwar hängt diese hauptsächlich davon
+wir unmittelbar aus einem solchen Traum erwachen. Die⸗
+hat, zu allen Zeiten und bei allen Völkern, die Annahme
+
+
+t sich versucht 1 — dies N die weiße und graue Ge⸗
+ibstanz zu deuten. Am öftersten bewähren sich 515 prophe⸗
+
+
+[S. 242]
+
+
+tisch solche Träume, welche sich auf den Gesundheitszustand des
+Träumenden beziehn, und zwar werden diese meistens Krankhei⸗
+ten, auch tödtliche Anfälle vorherverkünden, (Beispiele derselben
+sgg.); welches Dem analog if, daß auch die hellsehenden Som
+nambulen am häufigsten und sichersten den Verlauf ihrer eigenen
+Krankheit, nebst deren Krisen u. s. w. vorhersagen. Nächsidem
+werden auch äußere Unfälle, wie Feuersbrünste, Pulverexplosio⸗
+nen, Schiffbrüche, besonders aber Todesfälle, bisweilen durch
+Träume angekündigt. Endlich aber werden auch andere, mitun⸗
+ter ziemlich geringfügige Begebenheiten von einigen
+
+haarklein vorhergeträumt, wovon ich selbst, durch unzweideutige
+Erfahrungen, mich überzeugt habe. Zur Zurückführung der prophe⸗
+tischen Träume auf ihre nächste Ursache bietet sich uns der Um⸗
+stand dar, daß sowohl vom natürlichen, als auch vom magne⸗
+tischen Somnambulismus und seinen Vorgängen bekanntlich
+keine Erinnerung im wachen Bewußtseyn Statt findet, wohl
+aber bisweilen eine solche in die Träume des natürlichen,
+gewöhnlichen Schlafes, deren man sich nachher wachend erinnert,
+übergeht; so daß alsdann der Traum das Verbindungsglied, die
+Brücke, wird, zwischen dem somnambulen und dem wachen 5
+Bewußtseyn. Diesem also gemäß müssen wir die pro
+
+Träume zuvörderst Dem zuschreiben, daß im tiefen Schlafe das
+Träumen sich zu einem somnambulen Hellsehn steigert: ——
+aber aus Träumen dieser Art, in der Regel, kein u
+
+Erwachen und eben deshalb keine Erinnerung Statt findet;
+
+sind die, eine Ausnahme hievon machenden und also d f
+mende unmittelbar und sensu proprio vorbildenden Träume,
+welche die theorematischen genannt worden, die . 4
+Hingegen wird öfter von einem Traume solcher Art, wenn
+Inhalt dem Träumenden sehr angelegen ist, dieser sich eine
+nnerung dadurch zu erhalten im Stande seyn, daß er sie i
+
+Traum des leichtern Schlafs, aus dem sich unmittelbar —
+läßt, hinübernimmt: jedoch kann dieses alsdann nicht unmittel⸗
+bar, sondern nur mittelst Uebersetzung des Inhalts in eine Alle⸗
+gorie geschehn, in deren Gewand gehüllt nunmehr der ursp
+
+liche, prophetische Traum ins wachende Bewußtseyn gelangt, wi
+
+folglich dann noch der Auslegung, Deutung, bedarf. An
+
+
+und was damit zusammenhaͤngt. 243
+
+
+| die andere und häufigere Art der fatidiken Träume, die all e⸗
+gorische. Beide Arten hat schon Artemidoros in seinem
+Drneirokritikon, dem ältesten der Traumbücher, unterschieden und
+der ersteren Art den Namen der theorematischen gegeben.
+In dem Bewußtseyn der stets vorhandenen Möglichkeit des oben
+dargelegten Herganges hat der keineswegs zufällige, oder ange⸗
+künstelte, sondern dem Menschen natürliche Hang, über die
+Bedeutung gehabter Träume zu grübeln, seinen Grund: aus ihm
+entsteht, wenn er gepflegt und methodisch ausgebildet wird, die
+DOneixromantik. Allein diese fügt die Voraussetzung hinzu, daß
+die Vorgange im Traum eine sesistehende, ein für alle Mal gel⸗
+bende Bedeutung Hätten, über welche sich daher ein Lerikon machen
+ließe. Solches ist aber nicht der Fall: vielmehr ist die Alle⸗
+giorie dem jedesmaligen Objekt und Subjekt des dem allegorischen
+| zum Grunde liegenden theorematischen Traumes eigens
+und individuell angepaßt. Daher eben ist die Auslegung der
+allegorischen fatidiken Träume größtentheils so schwer, daß wir
+sie meistens erst, nachdem ihre Verkündigung eingetroffen ist, vers
+stehn, dann aber die ganz eigenthümliche, dem Träumenden sonst
+bullig fremde, dämonische Schalkhaftigkeit des Witzes, mit wel⸗
+die Allegorie angelegt und ausgeführt worden, bewundern
+en: daß wir aber bis dahin diese Träume im Gedächtniß
+n, ist Dem zuzuschreiben, daß sie durch ihre ausgezeichnete
+chaulichkeit, ja Leibhaftigkeit, sich tiefer einprägen, als die
+. Allerdings wird Uebung und Erfahrung auch der Kunst,
+Träume auszulegen, förderlich seyn. Aber nicht Schuberts
+untes Buch, an welchem nichts taugt, als bloß der Titel,
+dern der alte Artemidoros ist es, aus dem man wirklich
+ymbolik des Traumes“ kennen lernen kann, zumal
+en zwei letzten Büchern, wo er an Hunderten von Bei⸗
+uns die Art und Weise, die Methode und den Humor,
+macht, deren unfre träumende Allwissenheit sich bedient,
+n, wo möglich, unsrer wachenden Unwissenheit Einiges beizu⸗
+bringen. Dies ist nämlich aus feinen Beispielen viel besser zu
+lernen, als aus feinen vorhergängigen Theoremen und Regeln
+ber. — Daß auch Shakespeare den besagten Humor der
+je umen gefaßt hatte, zeigt er im Heinrich VI., Th. II.
+3, Sc. 2, wo, auf die ganz unerwartete W vom
+
+
+2A Versuch über Geistersehn
+
+
+plötzlichen Tode des Herzogs von Gloster, der schurkische Kardi⸗
+nal Beaufort, der am besten weiß, wie es darum steht, ausruft:
+„Geheimnißvolles Gericht Gottes! mir träumte diese Nacht, der
+Herzog wäre stumm und könnte kein Wort reden“
+Dem oben Gesagten zufolge sind die theorematischen
+fatidiken Träume der höchste und seltenste Grad des Vorhersehns
+im natürlichen Schlafe, die allegorischen der zweite, geringere.
+An diese nun schließt sich noch, als letzter und schwächster Aus-
+fluß der selben Quelle, die bloße Ahndung, das Vorgefühl.
+Dasselbe ist öfter trauriger, als heiterer Art; weil eben des
+Trübsals im Leben mehr ist, als der Freude. Eine finstere
+Stimmung, eine ängstliche Erwartung des Kommenden, hat sich,
+nach dem Schlafe, unserer bemächtigt, ohne daß eine Ursache dazu
+vorläge. Dies ist, der obigen Darstellung gemäß, daraus zu er⸗
+klären, daß jenes Uebersetzen des im tiefsten Schlafe dagewesenen,
+theorematischen, wahren, Unheil verkündenden Traumes, in einen
+allegorischen des leichteren Schlafs nicht gelungen und daher
+von jenem nichts im Bewußtseyn zurückgeblieben ist, als sein
+Eindruck auf das Gemüth, d. h. den Willen selbst, diesen ei⸗
+gentlichen und letzten Kern des Menschen. Dieser Eindruck
+klingt nun nach, als weissagendes Vorgefühl, als finstere Ahn⸗
+vung. Bisweilen wird jedoch diese sich unserer erst dann bemäch⸗
+tigen, wann die ersten, mit dem im theorematischen Traume ge⸗
+sehenen Unglück zusammenhängenden Umstände in der Wirklich⸗
+keit eintreten, z. B. wann Einer das Schiff, welches untergehn
+soll, zu besteigen im Begriffe steht, oder wann er sich dem Pul⸗
+perthurm, der auffliegen soll, nähert: schon Mancher ist dadurch,
+daß er alsdann der plötzlich auffteigenden bangen Ah
+ihn befallenden innern Angst, Folge leistete, gerettet worden. ’
+Wir müssen dies daraus erklären, daß aus dem theorematischen
+Traume, obwohl er vergessen ist, doch eine schwache Reminiscenz,
+eine dumpfe Erinnerung übrig geblieben, die zwar nicht vermag
+ins deutliche Bewußtseyn zu treten, aber deren Spur aufgefrischt
+wird durch den Anblick eben der Dinge, in der Wirklichkeit, die
+im vergessenen Traume so entsetzlich auf uns gewirkt hatten.
+Dieser Art war auch das Dämonion des Sokrates, jene innere
+Warnungsstimme, die ihn, sobald er irgend etwas
+zu unternahmen sich entschließen wollte, davon abmahnte, immer
+
+
+und was damit zusammenhängt. 245
+
+
+jedoch nur ab⸗, nie zurathend. Eine unmittelbare Bestätigung
+der dargelegten Theorie der Ahnzungen ist nur vermittelst des
+nagnetischen Somnambulismus möglich, als welcher die Geheim⸗
+ale des Schlafes ausplaudert. Demgemäß finden wir eine
+solche in der bekannten „Geschichte der Auguste Müller zu Karls⸗
+ruhe“ S. 78. „Den 15. December ward die Somnambule, in
+ihrem nächtlichen, (magnetischen) Schlaf, eines unangenehmen,
+‚hie betreffenden Vorfalls inne, der fie sehr niederbeugte. Sie
+„bemerkte zugleich: sie werde den ganzen folgenden Tag ängst⸗
+Hl und beklommen seyn, ohne zu wissen warum.“ — Ferner
+giebt eine Bestätigung dieser Sache der in der „Seherin von
+1 (erste Aufl. Bd. 2. S. 73, — 3. Aufl. S. 325.)
+
+
+ihlte Eindruck, den gewisse, auf die somnambulen Vorgänge
+6 beziehende Verse, im Wachen, auf die von jenen jetzt
+nichts wissende Seherin machten. Auch in Kieser's „Telluris⸗
+— 271, findet man Thatsachen, die auf diesen N Licht
+Hinsichtlich alles Bisherigen ist es sehr wichtig, solgende
+SOGrundwahrheit wohl zu fassen und festzuhalten. Der magneti⸗
+stche Schlaf ist nur eine Steigerung des natürlichen; wenn man
+will, eine höhere Potenz desselben: es ist ein ungleich tieferer
+schlaf. Diesem entsprechend ist das Hellsehn nur eine Steige⸗
+rung des Träumens: es ist ein beständiges Wahrträum en,
+elches aber hier von aussen gelenkt und worauf man will ge⸗
+richtet werden kann. Drittens ist denn auch die, in so vielen
+ankheitsfällen bewährte, unmittelbar heilsame Einwirkung des
+gnetismus nichts anderes, als eine Steigerung der natürli⸗
+zen Heilkraft des Schlafs in allen. Ist doch dieser das wahre
+ße Panakeion und zwar dadurch, daß allererst mittelft feiner
+ie Lebenskraft, der animalischen Funktionen entledigt, völlig frei
+vird, um jetzt mit ihrer ganzen Macht als vis naturae medi-
+catrix aufzutreten und in dieser Eigenschaft alle im Organis⸗
+mus eingerissenen Unordnungen wieder ins rechte Gleis zu brin⸗
+gen; weshalb auch überall das gänzliche Ausbleiben des Schla⸗
+ses ke ne Genesung zuläßt. Dies nun aber leistet der ungleich
+14 fere , magnetische Schlaf in viel höherem Grade; daher er
+wann er, um große, bereits chronische Uebel zu heben, von
+eint ritt, bisweilen mehrere Tage anhält, wie z. B. in dem
+
+
+[S. 246]
+
+
+vom Grafen Szapary veröffentlichen Fall („Ein Wort üb. anim.
+Magn.“ Leipzig 1840); ja, in Rußland einst eine höchst schwind⸗
+süchtige Somnambule, in der allwissenden Krise, ihrem Arzte
+befahl, sie auf 9 Tage in Scheintod zu versetzen, während wel⸗
+cher Zeit alsdann ihre Lunge völliger Ruhe genoß und dadurch
+heilte, so daß sie vollkommen genesen erwacht ist. Da nun aber
+das Wesen des Schlafs in der Unthätigkeit des Cerebralspstems
+besteht und sogar seine Heilsamkeit gerade daraus entspringt,
+daß dasselbe, mit seinem animalen Leben, jetzt keine Lebenskraft
+mehr beschäftigt und verzehrt, diese daher sich jetzt gänzlich dem
+organischen Leben zuwenden kann; so könnte es als seinem Haupt⸗
+zweck rsprechend erscheinen, daß gerade im magnetischen
+Schlafe bisweilen eine überschwänglich gesteigerte Erkenntnißkraft
+hervortritt, die, ihrer Natur nach, doch irgendwie eine Gehirn⸗
+thätigkeit seyn muß. Allein zuvörderst müssen wir uns erinnern,
+daß dieser Fall nur eine seltene Ausnahme ist. Unter 20 Kran⸗
+ken, auf die der Magnetismus überhaupt wirkt, wird nur Einer
+somnambul, d. h. vernimmt und spricht im Schlafe, und unter
+5 Somnambulen wird kaum Einer hellsehend (nach Deleuze,
+hist. crit. du e 1813. Vol. 1. p. 138.). In der
+Regel also ist die kung des Magnetismus nur ein überaus
+tiefer Schlaf, welcher traumlos ist, ja, das Cerebralsystem der⸗ a
+maßen depotenzirt, daß weder Sinneseindrücke, noch Verletzungen
+irgend gefühlt werden; daher denn auch derselbe auf das Wohl⸗
+thätigste benutzt wurde zu chirurgischen Operationen, aus welchem
+Dienste jedoch das Chloroform ihn verdrängt hat. Zum Hell⸗
+sehn, dessen Vorstufe der Somnambulismus, oder das Schlafre⸗
+den ist, läßt die Natur es eigentlich nur dann kommen, wann
+ihre blindwirkende Heilkraft zur Beseitigung der Krankheit
+nicht ausreicht, sondern es der Hülfsmittel von außen bedarf,
+welche nunmehr, im hellsehenden Zustande, vom Patienten selbst
+richtig verordnet werden. Also zu diesem Zweck des Selbstwer⸗
+ordnens bringt fie die Clairvoyance hervor: denn naturn nihil
+facit frustra. Ihr Verfahren hierin ist dem analog, welches
+sie im Großen, bei der ersten Hervorbringung der Wesen, befolgt
+hat, als sie den Schritt vom Pflanzen⸗ zum Thierreich that:
+nämlich für die Pflanzen hatte noch die Bewegung auf bloße
+Reize ausgereicht; jetzt aber machten spetiellere auge i
+
+
+| und was damit zusammenhängt. 247
+
+
+tere Bebürfnisse, deren Gegenftände aufzusuchen, auszuwählen,
+ja, zu überwältigen, oder gar zu überliften waren, die Bewe⸗
+gung auf Motive und daher die Erkenntniß, in vielfach ab⸗
+gestuften Graden, nöthig, welche demgemaͤß der eigentliche Cha⸗
+rakter der Thierheit ist, das dem Thiere nicht zufällig, sondern
+wesentlich Eigene, das, was wir im Begriff des Thieres noth⸗
+wendig denken. Ich verweise hierüber auf mein Hauptwerk
+| Bb. 1. S. 170. ff.; ferner auf meine Ethik, S. 33, und auf
+den „Willen in der Natur“ S. 54 ff. und 70 — 78. Also im
+ceinen, wie im andern Falle zündet die Natur sich ein Licht an,
+um so die Hülfe, deren der Organismus von außen bedarf,
+und herbeischaffen zu können. Die Lenkung der nun
+ein Mal entwickelten Sehergabe der Somnam auf an⸗
+dere Dinge, als ihren eigenen Gesundheitszustand, ist bloß ein
+aceidenteller Nutzen, ja, eigentlich schon ein Mißbrauch derselben.
+Ein solcher ist es auch, wenn man eigenmächtig, durch lange
+tes Magnetisiren, Somnambulismus und Hellsehn, ge⸗
+2 Absicht der Natur, hervorruft. Wo diese hingegen wirk⸗
+ordert find, bringt die Natur fie nach kurzem Magnetisi⸗
+en, ja, bisweilen als spontanen 2 mus, ganz von selbst
+N her r. Sie treten alsdann auf, w on gejagt, als ein
+ihrträumen, zunächst nur der — Umgebung, dann
+jterem Kreise und immer weiter, bis dasselbe, in den höch⸗
+raden des Hellsehns, alle Vorgänge auf Erden, wohin
+die Aufmerksamkeit gelenkt wird, erreichen kann, mitunter
+in die Zukunft dringt. Mit diesen verschiedenen Stufen
+die Fähigkeit zur pathologischen Diagnose und zum thera⸗
+hen Verordnen, nächst für sich und abusive für Andere,
+en Sinne, also dem krankhaften Nachtwandeln, tritt ein
+Wahrträumen ein, hier jedoch nur für den unmittelbaren
+ch, daher bloß auf die nächste Umgebung sich erstreckend;
+cen hiermit der Zweck der Natur, in diesem Fall,
+rreicht wird. In solchem Zustande nämlich hat nicht, wie im
+etischen Schlaf, im spontanen Somnambulismus und in der
+alepsie — Lebenskraft, als vis medicatrix, das animale
+t, um auf das organische ihre ganze Macht ver⸗
+
+
+wir
+
+
+[S. 248]
+
+
+wenden und die darin eingerissenen Unordnungen aufheben zu
+können; sondern sie tritt hier, vermöge einer krankhaften Ver⸗
+stimmung, der am meisten das Alter der Pubertät unterworfen
+ist, als ein abnormes Uebermaaß von Irritabilität auf, dessen
+nun die Natur sich zu entladen strebt, welches bekanntlich durch
+Wandeln, Arbeiten, Klettern, bis zu den halsbrechendesten Lagen
+und den gefährlichsten Sprüngen, alles im Schlafe, geschieht:
+da ruft denn die Natur zugleich, als den Wächter dieser so ge⸗
+fährlichen Schritte, jenes räthselhafte Wahrträumen hervor, wel⸗
+ches sich hier aber nur auf die nächste Umgebung erstreckt, da
+dieses hinreicht, den Unfällen vorzubeugen, welche die losge⸗
+lassene a wenn sie blind wirkte, herbeiführen müßte.
+Dasselbe also hier nur den negativen Zweck, Schaden zu ver⸗
+hüten, während es beim Hellsehn den positiven hat, Hülfe von
+außen aufzufinden: daher der große Uutechbieb; im unt
+So geheimnißvoll die Wirkung des Magnetisrens auch iß,
+so ist doch soviel klar, daß sie zunächst im Einstellen der anima⸗
+lischen Funktionen besteht, indem die Lebenskraft vom Gehirn,
+welches ein bloßer Pensionär oder Parasit des Organismus ist,
+abgelenkt, oder vi r zurückgedrängt wird zum organischen
+Leben, als ihrer primitiven Funktion, weil jetzt daselbst ihre un⸗
+getheilte Gegenwart und ihre Wirksamkeit als vis medieatrix
+erfordert ist. Innerhalb des Nervensystems, also des ausschließ⸗
+lichen Sitzes alles irgend sensibeln Lebens, wird aber das orga⸗
+nische Leben repräsentirt und vertreten durch den Lenker und Be⸗
+herrscher feiner Funktionen, den sympathischen Nerven und dessen
+Ganglien; daher man den Vorgang auch als ein Zurückdrängen
+der Lebenskraft vom Gehirn zu diesem hin ansehn, überhaupft
+aber auch Beide als einander entgegengesetzte Pole auffassen
+kann, nämlich das Gehirn, nebst den ihm anhängenden Organen
+der Bewegung, als den positiven und bewußten Pol; den sym⸗
+pathischen Nerven, mit seinen Gangliengeflechten, als den nega⸗
+tiven und unbewußten Pol. In diesem Sinne nun ließe sich
+folgende Hypothese über den Hergang beim Magnetisiren auf⸗
+stellen. Es ist ein Einwirken des Gehirnpols (also des äußeren
+Nervenpols) des Magnetiseurs auf den gleichnamigen des
+Patienten, wirkt demnach, dem allgemeinen Polaritätsgesetze ge⸗
+
+
+und was damit zusammenhängt. 249
+
+
+mäß, auf diesen repellirend, wodurch die Nervenkraft auf den
+andern Pol des Nervensystems, den innern, das Bauchganglien⸗
+system, zurückgedrängt wird. Daher sind Männer, als bei de⸗
+nen der Gehirnpol überwiegt, am tauglichsten zum Magnetisiren;
+hingegen Weiber, als bei denen das Gangliensystem vorwaltet
+am tauglichsten zum Magnetisirtwerden und dessen Folgen. Wäre
+Nees möglich, daß das weibliche Gangliensystem eben fo auf das
+männliche, also auch repellirend, einwirken könnte; fo müßte,
+| durch den umgekehrten Proceß, ein abnorm erhöhtes Gehirnleben,
+ein temporäres Genie, entstehn. Dies ist nicht ausführbar, weil
+das Ganglienspstem nicht fähig ist, nach außen zu wirken. Hin⸗
+gegen ließe sich wohl als ein, durch Wirken ungleichnamiger
+auf einander, attrahirendes Magnetisiren das Ba⸗
+— so daß die mit demselben, durch zur Herzgrube
+ende, eiserne Stäbe und wollene Schnüre, verbundenen sym⸗
+j Nerven aller umhersitzenden Patienten, mit vereinter
+ö — die anorganische Masse des Baquetts erhöhter Kraft
+wirkend, den einzelnen Gehirnpol eines jeden von ihnen an sich
+Ab ögen, also das animale Leben depotenzirten, es untergehn lassend
+in den magnetischen Schlaf Aller; — dem Lotus zu vergleichen,
+der Abends sich in die Fluth versenkt. Diesem entspricht auch,
+daß, als man einst die Leiter des Baquets, statt an die Herz⸗
+je, an den Kopf gelegt hatte, heftige Kongestion und Kopf⸗
+nerz die Folge war (Kieser, Tellurism., erste Aufl. Bd. 1.
+39.). Daß, im siderischen Baquet, die bloßen, unmag⸗
+Metalle die selbe Kraft ausüben, scheint damit zusam⸗
+gen, daß das Metall das Einfachste, Ursprünglichste,
+te Stufe der Objektivation des Willens, folglich dem Ge⸗
+der höchsten Entwickelung dieser Objektivation, gerade
+egengesetzt, also das von ihm Entfernteste ist, zudem die
+Masse im kleinsten Raum darbietet. Es ruft demnach
+Billen zu feiner Ursprünglichkeit zurück und ist dem Gang⸗
+jenfoftem verwandt, wie umgekehrt das Licht dem Gehirn: das
+her scheuen die Somnambulen die Berührung der Metalle mit
+den Organen des bewußten Pols. Das Metall- und Wasser⸗
+fühlen der hiezu Organisirten findet ebenfalls darin feine Erklä⸗
+rung. — Wenn, beim gewöhnlichen, magnetisirten Baquet, das
+Wirkende die mit demselben verbundenen Gangliensysteme aller
+
+
+[S. 250]
+
+
+um dasselbe versammelten Patienten find, welche mit vereinter
+Kraft, die Gehirnpole herabziehn; so giebt Dies auch eine An⸗
+leitung zur Erklärung der Ansteckung des Somnambulismus
+überhaupt, wie auch der ihr verwandten Mittheilung der gegen⸗
+wärtigen Aktivität des zweiten Gesichts, durch Anstoßen der da⸗
+mit Begabten unter einander, und der Mittheilung, folglich der
+Gemeinschaft, der Visionen überhaupt. N eee
+Wollte man aber von der obigen, die Polaritätsgesete zum
+Grunde legenden Hypothese über den Hergang beim aktiven
+Magnetisiren eine noch kühnere Anwendung sich erlauben; so ließe
+sich daraus, wenn auch nur schematisch, ableiten, wie, in den
+höhern des Somnambulismus, der Rapport so weit gehn
+kann, daß die Somnambule aller Gedanken, Kenntnisse, Spra⸗
+chen, ja aller Sinnesempfindungen des Magnetiseurs theilhaft
+wird, also in seinem Gehirn gegenwärtig ist, während hingegen
+‚ fein Wille unmittelbaren Einfluß auf fie hat und sie so sehr
+beherrscht, daß er sie fest bannen kann. Nämlich bei dem jetzt
+gebräuchlichsten Galvanischen Apparat, wo die beiden Metalle
+in zweierlei durch Thonwände getrennte Säuren eingesenkt sind,
+geht der positive Strom, durch diese Flüssigkeiten hindurch, vom
+Zink zum Kupfer und dann außerhalb derselben, an der Elektrode,
+vom Kupfer zum Zink zurück. Diesem also analog gienge der
+positive Strom der Lebenskraft, als Wille des Magnetiseurs,
+von dessen Gehirn zu dem der Somnambule, sie beherrschend
+und ihre, im Gehirn das Bewußtseyn hervorbringende Lebens⸗
+kraft zurücktreibend zum sympathischen Nerven, also der Magen⸗
+gegend, ihrem negativen Pol: dann aber gienge derselbe Strom
+von hier weiter in den Magnetiseur zurück, zu seinem positiven
+Pol, dem Gehirn desselben, woselbst er dessen Gedanken und
+Empfindungen antrifft, deren dadurch jetzt die Somnambule
+theilhaft wird. Das sind freilich sehr gewagte Annahmen: aber
+bei so durchaus unerklärten Dingen, wie die, welche hier unser
+Problem sind, ist jede Hypothese, die zu irgend einem, wenn
+auch nur schematischem, oder — neee
+führt, zulässig. 23,
+Das überschwänglich Wunderbare und daher, bis es durch
+die Uebereinstimmung hundertfältiger, glaubwürdigster Zeugnisse
+bekräftigt war, schlechthin Unglaubliche des somnambulen Hell⸗
+
+
+und was damit zusammenhängt. 251
+
+
+| sehns, als welchem das Verdeckte, das Abwesende, das weit Ent-
+fernte, ja, das noch im Schooße der Zukunft Schlummernde
+offen liegt, verliert wenigstens seine absolute Unbegreiflichkeit,
+wenn wir wohl erwägen, daß, wie ich so ost gesagt habe, die
+dbbjektive Welt ein bloßes Gehirnphänomen ist: denn die auf
+Raum, Zeit und Kausalität (als Gehirnfunktionen) beruhende
+Ordnung und Gesetzmäßigkeit desselben ist es, die im somnambu⸗
+| len Hellsehn in gewissem Grade befeitigt wird. Nämlich in
+eee Lehre von der Idealität des Raumes und
+der Zeit begreifen wir, daß das Ding an sich, also das allein
+wahrhaft Reale in allen Erscheinungen, als frei von jenen bei⸗
+den Formen des Intellekts, den Unterschied von Nähe und Ferne,
+don Gegenwart, Vergangenheit und Zukunft nicht kennt; daher
+N die auf jenen Anschauungsformen beruhenden Trennungen sich
+nicht als absolute erweisen, sondern für die in Rede stehende,
+durch Umgestaltung ihres Orgaus im Wesentlichen veränderte
+Erkenntnißweise, keine unübersteigbare Schranken mehr darbieten.
+Wären hingegen Zeit und Raum absolut real und dem Wesen
+an sich der Dinge angehörig; dann wäre allerdings jene Seher⸗
+Somnambulen, wie überhaupt alles Fernsehn und Vor⸗
+„ein schlechthin unbegreifliches Wunder. Andrerseits er⸗
+ut sogar, durch die hier in Rede stehenden Thatsachen, Kants
+lehre gewissermaaßen eine faktische Bestätigung. Denn, ist die
+Zeit keine Bestimmung des eigentlichen Wesens der Dinge; fo
+hinsichtlich auf dieses, Vor und Nach ohne Bedeutung: dem⸗
+gema also muß eine Begebenheit eben so wohl erkannt werden
+können, ehe sie geschehn, als nachher. Jede Mantik, sei es im
+Traum, im somnambulen Vorhersehn, im zweiten Gesicht, oder
+4 ch etwan sonst, besteht nur im Auffinden des 2 zur
+
+
+läßt die Sache sich in folgendem Gleichniß veranschaulichen.
+Ding an sich ist das primum mobile in dem Mechanismus,
+der dem ganzen, komplicirten und bunten Spielwerk dieser Welt
+— — ertheilt. Jenes muß daher von anderer Art
+8 und Beschaffenheit seyn, als dieses. Wir sehn wohl den Zusam⸗
+menhang der einzelnen Theile des Spielwerks, in den absichtlich
+in Tage gelegten Hebeln und Rädern (Zeitfolge und Kau⸗
+
+ität): aber Das, was diesen allen die erste Bewegung ertheilt,
+
+
+[S. 252]
+
+
+sehn wir nicht. Wenn ich nun lese, wie hellsehende Somnam⸗
+bulen das Zukünftige so lange vorher und so genau verkünden,
+so kommt es mir vor, als wären sie zu dem da hinten verbor⸗
+genen Mechanismus gelangt, von dem Alles ausgeht, und wo⸗
+selbst daher schon jetzt und gegenwärtig Das ist, was äußerlich,
+d. h. durch unser optisches Glas Zeit gesehn, m als künftig
+und kommend sich darstellt. u Bun
+Ueberdies hat nun der selbe animalische Magnetismus, dem
+wir diese Wunder verdanken, uns auch ein unmittelbares Wir⸗
+ken des Willens auf Andere und in die Ferne auf mancherlei
+Weise beglaubigt: ein solches aber ist gerade der Grundcharakter
+Dessen, was der verrufene Name der Magie bezeichnet. Denn
+diese ist ein von den kausalen Bedingungen des physischen Wir⸗
+kens, also des Kontakts, im weitesten Sinne des Wortes, befrei⸗
+tes, unmittelbares Wirken unsers Willens selbst; wie ich dies in
+einem eigenen Kapitel dargelegt habe in der Schrift „über den
+Willen in der Natur.“ Das magische verhält sich daher zum
+physischen Wirken, wie die Mantik zur vernünftigen Konjektur:
+es ist wirkliche und gänzliche actio in distans, wie die ächte
+Mantik, z. B. das somnambule Hellsehn, passio a distante ist.
+Wie in diesem die individuelle Isolation der Erkenntniß, so ist
+in jener die individuelle Isolation des Willens aufgehoben. In
+Beiden leisten wir daher unabhängig von den Beschränkungen,
+welche Raum, Zeit und Kausalität herbeiführen, was wir sonst
+und alltäglich nur unter diesen vermögen. In ihnen hat also
+unser innerstes Wesen, oder das Ding an sich, jene Formen
+der Erscheinung abgestreift und tritt frei von ihnen hervor. Da⸗
+her ist auch die Glaubwürdigkeit der Mantik der der Magie ver⸗
+wandt und ist der Zweifel an e stets zugleich gekommen
+und gewichen. ALTEN —
+Animalischer Magnetismus, sowpathetiche Ruten, Magie;
+zweites Gesicht, Wahrträumen, Geifterfehn und Visionen aller
+Art sind verwandte Erscheinungen, Zweige Eines Stammes, und
+geben sichere, unabweisbare Anzeige von einem Nerus der We⸗
+sen, der auf einer ganz andern Ordnung der Dinge beruht, als
+„die Natur if, als welche zu ihrer Basis die Gesetze des Rau⸗
+mes, der Zeit und der Kausalität hat; während jene andere
+Ordnung eine tiefer liegende, ursprünglichere und unmittelbarer
+
+
+und was damit zufanmenhängt. 253
+
+
+ist, daher vor ihr die ersten und allgemeinsten, weil rein forma-
+len, Gesetze der Natur ungültig sind, demnach Zeit und Raum
+die Individuen nicht mehr trennen und die eben auf jenen For⸗
+men beruhende Vereinzelung und Isolation derselben nicht mehr
+der Mittheilung der Gedanken und dem unmittelbaren Einfluß
+des Willens unübersteigbare Gränzen setzt; so daß Veränderun⸗
+gen herbeigeführt werden auf einem ganz andern Wege, als dem
+der physischen Kausalität und der zusammenhängenden Kette ihrer
+Glieder, nämlich bloß vermöge eines auf besondere Weise an den
+Tag gelegten und dadurch über das Individuum hinaus potenzir⸗
+ten Willensaktes. Demgemäß ist der eigenthümliche Charakter
+sämmtlicher, hier in Rede stehender, animaler Phänomene visio
+in distans et aetio in — sowohl der Zeit, als dem
+Raume nach.
+Beilaäusig gesagt, ift der wahre Begriff der actio in deten
+dieser, daß der Raum zwischen dem Wirkenden und dem Be-
+wirkten, er sei voll oder leer, durchaus keinen Einfluß auf die
+Wirkung habe, — sondern es völlig einerlei sei, ob er einen
+Zoll, oder eine Billion Uranusbahnen beträgt. Denn, wenn die
+Wirkung durch die Entfernung irgend geschwächt wird; so ist es,
+entweder weil eine den Raum bereits füllende Materie dieselbe
+flanzen hat und daher, vermöge ihrer steten Gegenwirkung,
+nach Maaßgabe der Entfernung, schwächt; oder auch, weil
+ache selbst bloß in einer materiellen Ausströmung besteht,
+im Raum verbreitet und also desto mehr verdünnt, je
+ßer dieser ist. Hingegen kann der leere Raum selbst auf keine
+eise widerstehn und die Kausalität schwächen. Wo also die
+Wirkung, nach Maaßgabe ihrer Entfernung vom Ausgangspunkte
+der Ursache, abnimmt, wie die des Lichtes, der Gravitation, des
+Magneten u. s. w., da ist keine actio in distans; und eben so
+da, wo sie durch die Entfernung auch nur verspätet wird.
+f a das Bewegliche im Raum ist allein die Materie: diese
+Ho. der den Weg zurücklegende Träger einer solchen
+P Wirkung seyn und demgemäß ext wirken, nachdem fie angefom-
+ö men, mithin erst beim Kontakt, folglich nicht in distans. N
+— die hier in Rede stehenden und oben als Zweige
+eines tammes aufgezählten Phänomene haben, wie gesagt, ge⸗
+ide die actio in distans und passio a distante zum sperifi⸗
+
+
+[S. 258]
+
+
+schen Kennzeichen. Hiedurch aber liefern sie, wie auch schon er⸗
+wähnt, zunächst eine so unerwartete, wie sichere faktische Be⸗
+stätigung der Kantischen Grundlehre vom Gegensatz der Erschei⸗
+nung und des Dinges an sich, und dem der Gesetze Beider. Die
+Natur und ihre Ordnung ist nämlich, nach Kant, bloße Erschei⸗
+nung: als den Gegensatz derselben sehn wir alle bier in Rede
+stehenden, magisch zu benennenden Thatsachen unmittelbar im
+Dinge an sich wurzeln und in der Erscheinungswelt Phänomene
+herbeiführen, die, gemäß den Gesetzen dieser, nie zu erklären
+sind, daher mit Recht geläugnet wurden, bis hundertfältige Er⸗
+fahrung dies nicht länger zuließ. Aber nicht nur die Kantische,
+sondern auch meine Philosophie erhält durch die nähere Unter⸗
+suchung dieser Thatsachen eine wichtige Bestätigung, in dem
+Fakto, daß in allen jenen Phänomenen das eigentliche Agens
+allein der Wille ist; wodurch dieser sich als das Ding an sich
+kund giebt. Von dieser Wahrheit demnach, auf seinem empiri⸗
+schen Wege, ergriffen, betitelt ein bekannter Magnetiseur, der un⸗
+garische Graf Szapary, welcher augenscheinlich von meiner
+Philosophie nichts, und vielleicht von aller nicht viel, weiß, in
+feiner Schrift „ein Wort über den animalischen Magnetismus,“
+Leipzig 1840, gleich die erste Abhandlung: „physische Beweise,
+daß der Wille das Princip alles geistigen und kö:
+Lebens sei.“ er")
+Ueberdies nun aber und davon ganz abgesehn „ geben die
+besagten Phänomene jedenfalls eine faktische und vollkommen
+sichere Widerlegung nicht nur des Materialismus, sondern auch
+des Naturalismus, wie ich diesen, Kap. 17 des 2 Bandes mei⸗
+nes Hauptwerkes, als die auf den Thron der Metaphysik gesetzte
+Physik geschildert habe; indem fie die Ordnung der Na tur,
+welche die genannten beiden Ansichten als die absolute und ein⸗
+zige geltend machen wollen, nachweisen als eine rein phänome⸗
+nale und demnach bloß oberflächliche, welcher das von ihren Ge⸗
+setzen unabhängige Wesen der Dinge an sich selbst zum Grunde
+liegt. Die in Rede stehenden Phänomene aber sind, wenigstens
+vom philosophischen Standpunkt aus, unter allen Thatsachen,
+welche die gesammte Erfahrung uns darbietet, ohne allen Ver⸗
+gleich, die wichtigsten; daher sich mit ihnen gründlich bekannt
+zu machen die Pflicht jedes Gelehrten ist. 10
+
+
+und was damit zusammenhängt. 255
+
+
+Diese Erörterung zu erläutern, diene noch folgende allgemei⸗
+nere Bemerkung. Schon der große Haufe und das Volk, wohl aller
+| Länder und Zeiten, unterscheidet Natürliches und Ueberna⸗
+
+türliches, als zwei grundverschiedene, jedoch zugleich vorhandene
+
+Ordnungen der Dinge. Dem Uebernatürlichen schreibt er Wunder /
+Weissagungen, Gespenster und Zauberei unbedenklich zu, läßt aber
+überdies auch wohl gelten, daß überhaupt nichts durch und durch
+
+
+bis auf den letzten Grund, natürlich sei, sondern die Natur selbst
+auf einem Uebernatürlichen beruhe. Daher versteht das Volk
+sich sehr wohl, wann es frägt: „geht Das natürlich zu, oder
+nicht?“ Im Wesentlichen fällt nun diese populäre Unterschei⸗
+dung zusammen mit der Kantischen zwischen Erscheinung und
+an sich; nur daß diese die Sache genauer und richtiger
+„nämlich dahin, daß Natürliches und Uebernatürliches
+
+nicht zwei verschiedene und getrennte Arten von Wesen sind, son⸗
+dern Eines und Dasselbe, welches an sich genommen übernatür⸗
+lich zu nennen ist, weil erst indem es erscheint, d. h. in die
+Wahrnehmung unsers Intellekts tritt und daher in dessen For⸗
+men eingeht, die Natur sich darstellt, deren bloß phänomenale
+näßigkeit es eben ist, die man unter dem Natürlichen ver⸗
+
+Ich nun wieder, meines Theils, habe nur Kants Aus⸗
+deutlicht, als ich die „Erscheinung“ geradezu Vorstel⸗
+
+genannt habe. Und wenn man nun noch beachtet, daß,
+
+
+. an sich aus dem Dunkel, in welchem er es hält,
+
+
+so wird man —— einsehn, daß ich, durch Nachweisung des
+Willens als des Dinges an sich, ebenfalls bloß Kants Gedan⸗
+eutlicht und durchgeführt habe.
+
+animalische Magnetismus ist, freilich nicht vom ökono⸗
+m und technologischen, aber wohl vom philosophischen Stand⸗
+
+a betrachtet, die inhaltschwerste aller jemals gemachten Ent⸗
+* 38 wenn er auch einstweilen mehr Räthsel aufgiebt, als
+löst. Er ist wirklich die praktische Metaphysik, wie schon Bako von
+Verulam die Magie definirt: er ist gewissermaaßen eine Experi⸗
+
+mentalmetapppsik: denn die ersten und allgemeinsten Gesetze der
+8 Natur werden von ihm beseitigt; daher er das zu a priori für
+
+
+in der Kritik der reinen Vernunft und den Prolegomenen,
+
+
+[S. 256]
+
+
+unmöglich Erachtete möglich macht. Wenn nun aber schon in
+der bloßen Physik die Experimente und Thatsachen uns noch
+lange nicht die richtige Einsicht eröffnen, sondern hiezu die oft
+sehr schwer zu findende Auslegung derselben erfordert ist; wie
+viel mehr wird Dies der Fall seyn bei den mysteriösen That⸗
+sachen jener empirisch hervortretenden Metaphysik! Die rationale,
+oder theoretische Metaphysik wird also mit derselben gleichen
+
+
+Schritt halten müssen, damit die hier aufgefundenen Schätze ge⸗
+
+
+hoben werden. Dann aber wird eine Zeit kommen, wo Philo⸗
+sophie, animalischer Magnetismus und die in allen ihren Zwei⸗
+gen beispiellos vorgeschrittene Naturwissenschaft gegenseitig ein
+so helles Licht auf einander werfen, daß Wahrheiten zu Tage
+
+
+durfte. Nur denke man hiebei nicht an die metaphysischen Aus⸗
+sagen und Lehren der Somnambulen: diese sind meistens armsä⸗
+lige Ansichten, entsprungen aus den von der Somnambule er⸗
+
+
+lernten Dogmen, und deren Mischung mit Dem, was sie im
+
+
+Kopf ihres Magnetiseurs vorfindet; daher keiner Beachtung
+werth. M een
+
+Auch zu Ausschlüssen über die zu allen Zeiten so hartnäckig
+behaupteten, wie beharrlich geleugneten Geistererscheinungen
+sehn wir durch den Magnetismus den Weg geöffnet: allein ihn
+
+
+kommen werden, welche zu erreichen man außerdem nicht hoffen
+
+
+richtig zu treffen wird dennoch nicht leicht seyn; wiewohl er ir⸗
+
+
+gendwo in der Mitte liegen muß zwischen der Leichtgläubigkeit
+unsers sonst sehr achtungswerthen und verdienstvollen Justinus
+Kerner und der, jetzt wohl nur noch in England herrschenden, An⸗
+sicht, die keine andere, als eine mechanische Naturordnung
+
+
+zuläßt,
+um nur alles darüber Hinausgehende desto sicherer bei einem
+
+
+von der Welt ganz verschiedenen, persönlichen Wesen, welches
+
+
+nach Willkür mit ihr schaltet, unterbringen und koncentriren zu
+
+
+können. Die lichtscheue und mit unglaublicher Unverschaͤmtheit
+
+
+jeder wissenschaftlichen Erkenntniß frech entgegentretende, daher
+unserm Welttheile nachgerade zum Skandal gereichende Englische
+Pfaffenschaft hat, durch ihr Hegen und Pflegen aller dem „kalten
+Aberglauben, den sie ihre Religion nennt,“ günstigen Vorurtheile
+
+
+und Anfeindung der ihm entgegenstehenden Wahrheiten, haupt⸗
+
+
+sächlich Schuld an dem Unrecht, welches der animalische Magne⸗
+
+
+tismus in England hat erleiden müssen, woselbst er nämlich,
+
+
+und was damit zusammenhängt. 257
+
+
+nachdem er schon 40 Jahre lang in Deutschland und Frankreich,
+in Theorie und Praxis anerkannt gewesen, noch immer, unge⸗
+prüft, mit der Zuversicht der Unwissenheit, als plumpe Betrüge⸗
+rei verlacht und verdammt wurde: „wer an den animalischen
+Magnetismus glaubt, kann nicht an Gott glauben“ hat noch im
+Jahre 1850 ein junger englischer Pfaffe zu mir gesagt: hine
+illae lacrimae! Endlich hat dennoch auch auf der Insel der
+Vorurtheile und des Pfaffentruges der animalische Magnetismus
+fein Banner aufgepflanzt zu abermaliger und glorreicher Bestä⸗
+des magna est vis veritatis, et praeyalebit, dieses
+13 Spruches, bei welchem jedes Anglikanische Pfaffenherz
+mit Recht für seine Pfründen zittert. Ueberhaupt ist es an der
+‚ Miffionen der Vernunft, Aufklärung und Antipfäfferei nach
+
+
+in der einen, und der Kritik der reinen Vernunft in der andern
+Hand, um jenen, sich selbst reverend schreibenden, hochmüthig⸗
+sten und frechsten aller Pfaffen der Welt das Handwerk zu le⸗
+gen und dem Skandal ein Ende zu machen. Denn es ist nicht
+länger zu dulden, daß fie die intelligenteste und in fast jeder
+
+
+ir letzten degradiren und fie dadurch verächtlich machen; am
+igsten wenn man an das Mittel denkt, wodurch fie diesen
+erreicht haben, nämlich die Volkserziehung, die ihnen an⸗
+t war, so einzurichten, daß Zwei Drittel der Englischen
+
+
+„ daß fie sogar die ganz sichern, allgemeinen Resultate
+Geologie in öffentlichen Blättern mit Zorn, Hohn und
+Spott angreifen; weil sie nämlich das Mosaische
+ungsmährchen in ganzem Ernst geltend machen wollen,
+merken, daß sie in solchen Angriffen mit dem irdenen
+
+
+ı weiteften Sinne genommen) eine Versorgung der jün⸗
+hne nothwendig macht: für diese nun ist, wenn fie we⸗
+
+
+Hinsicht erste Nation Europa's durch die pöbelhafteste Bigotterie
+
+
+land zu schicken, mit v. Bohlens und Straußens Bibelkritik
+
+
+nicht lesen können. Dabei geht ihre Dummdreistigkeit
+
+
+und dem Hellsehn, wie auch beim Nachtwandeln, eine unmit e
+bare und ganz richtige; bei der Vision und dem etwanigen Ge
+
+
+[S. 258]
+
+
+warum in der guten, will sagen vornehmen, Englischen Gesell⸗
+schaft, jeder Spott über die Kirche und ihren kalten, Aber⸗
+glauben als schlechter Ton, ja, als eine Unanständigkeit betrach⸗
+tet wird. Dabei bleiben die demoralisirenden Wirkungen des
+Pfaffentruges und der Bigotterie natürlich nicht aus. Demorali⸗
+sirend muß es wirken, daß die Pfaffenschaft dem Volfe vorlügt,
+
+
+die Hälfte aller Tugenden bestehe im Sonntags faulenzen und im
+
+
+Kirchengeplärr, und eines der größten Laster, welches den Weg
+zu allen andern bahne, sei das Sabathbreaking, d. h. Nicht⸗
+faulenzen am Sonntage; daher sie auch, in den Zeitungen, die zu
+hängenden armen Sünder sehr oft die Erklärung abgeben lassen,
+aus dem Sabathbreaking, diesem gräulichen Laster, sei ihr ganzer
+sündiger Lebenslauf entsprungen. Eben wegen besagter
+gungsanstalt muß noch jetzt das unglückliche Irland, dessen
+wohner zu Tausenden verhungern, neben seinem eigenen
+
+
+„lischen, aus eigenen Mitteln und freiwillig von ihm Sachen
+
+
+Klerus, eine nichtsthuende protestantische Klerisei, mit Erzbis
+12 Bischöfen und einer Armee von deans, und rectors ex
+ten, wenn auch nicht direkt auf Kosten des Volks, ane
+dem Kirchengut. 8 elt
+Ich habe bereits darauf aufmerksam gemacht, daß Traum,
+somnambules Wahrnehmen, Hellsehn, Vision, Zweites Gefü
+und etwaniges Geistersehn, nahe verwandte Erscheinungen
+Das Gemeinsame derselben ist, daß wir, ihnen verfallen, eine
+sich objektiv derstelleude Anschguung durch ein ganz anderes
+Organ, als i hnlichen wachen Zustande, erhalten; näm⸗
+lich nicht dung e äußern Sinne, dennoch aber e
+genau eben so, wie mittelst dieser: ich habe solches !
+das Traumorgan genannt. Was sie hingegen von
+ander unterscheidet, ist die Verschiedenheit ihrer . 4
+
+
+der durch die Sinne wahrnehmbaren, empirisch⸗realen A
+welt. Diese nämlich ist beim Traum, in der Regel, gar k
+und sogar bei den seltenen fatidiken Träumen doch
+nur eine mittelbare und entfernte, sehr selten eine direkte: :
+gegen ist jene Beziehung bei der somnambulen Wahrnehmung
+
+
+stersehn eine problematische. — Nämlich das Schauen von
+
+
+und was damit zusammenhängt. 259
+
+
+„jelten im Traum ist anerkannt illusorisch, also eigentlich ein bloß
+” fubjeftives, wie das in der Phantasie: die selbe Art der Anschauung
+aber wird, im Schlafwachen und im Somnambulismus, eine
+völlig und richtig objektive; ja, sie erhält im Hellsehn gar einen,
+den des Wachenden unvergleichbar weit übertreffenden Gesichts⸗
+Wenn sie nun aber hier sich auf die Phantome der Abge⸗
+denen erstreckt; jo. will man fie. wieder bloß als ein subjek⸗
+tives Schauen gelten lassen. Dies ist indessen der Analogie die⸗
+ser Fortschreitung nicht gemäß, und nur soviel läßt sich behaup⸗
+ten, daß jetzt Objekte geschaut werden, deren Daseyn durch die
+gewöhnliche Anschauung des dabei etwan gegenwärtigen Wachen⸗
+den nicht beglaubigt wird; während auf der zunächst vorherge⸗
+gangenen Stufe es solche waren, die der Wache erst in der
+Ferne aufzusuchen, oder der Zeit nach abzuwarten hat. Aus die⸗
+ser Stufe nämlich kennen wir das Hellsehn als eine Anschauung,
+die sich auch auf Das erstreckt, was der wachen Gehirnthätigkeit
+nicht unmittelbar zugänglich, dennoch aber real vorhanden
+und wirklich ist: wir dürfen daher jenen Wahrnehmungen, de⸗
+nen die wache Anschauung auch mittelst Zurücklegung eines Rau⸗
+oder einer Zeit, nicht nachkommen kann, die objektive Rea⸗
+wenigstens nicht sogleich und ohne Weiteres absprechen.
+N. der. Analogie nach, dürften wir sogar vermuthen, daß ein
+Inschauungs vermögen, welches sich auf das wirklich Zukünftige
+noch gar nicht Vorhandene erstreckt, auch wohl das einft
+wesene, nicht mehr Vorhandene, als gegenwärtig wahrzu⸗
+nen fähig seyn könnte. Zudem ist noch nicht ausgemacht, daß
+in Rede stehenden Phantome nicht auch das wache Be⸗
+wußiseyn gelangen können. Am häufigsten werden fie wahrge-
+mmen im Zustande des Schlafwachens, also wo man die une
+Umgebung und Gegenwart, wiewohl träumend, rich⸗
+: da nun hier Alles, was man sieht, objektiv real ist;
+ben die darin auftretenden Phantome die Präsumtion der
+Nun aber lehrt überdies die Erfahrung, daß die Funktion
+Tsaumorgans, welche in der Regel den leichteren, ge⸗
+lichen, oder aber den tiefern magnetischen Schlaf zur Bedin⸗
+
+
+ir Ausübung gelangen kann, ale. daß ie Ae. mit
+
+
+Thätigkeit hat, ausnahmsweise auch bei wachem Ge-
+
+
+und in entgegengesetzter Richtung geschehend, jene , |
+
+
+[S. 260]
+
+
+welchem wir die Träume sehn, auch wohl ein Mal im Wachen
+aufgehn kann. Alsdann stehn Gestalten vor uns, die denen,
+welche durch die Sinne ins Gehirn kommen, so täuschend glei⸗
+chen, daß sie mit diesen verwechselt und dafür gehalten werden,
+bis sich ergiebt, daß sie nicht Glieder des jene Alle verknüpfen⸗
+den, im Kausalnexus bestehenden Zusammenhangs der Erfahrung
+sind, den man unter dem Namen der Körperwelt begreift; was
+nun entweder sogleich, auf Anlaß ihrer Beschaffenheit, oder aber
+erst hinterher an den Tag kommt. Einer so sich darstellenden
+Gestalt nun wird, je nach Dem, worin sie ihre entferntere
+Ursache hat, der Name einer Hallucination, einer Wien e
+zweiten Gesichts, oder einer Geistererscheinung zukommen. Denn
+
+
+ihre nächste Ursache muß allemal im Innern des Organismus
+
+
+liegen, indem, wie oben gezeigt, eine von innen ausgehende
+Einwirkung es ist, die das Gehirn zu einer anschauenden Thür
+tigkeit erregt, welche, es ganz durchdringend, sich bis auf die
+Sinnesnerven erstreckt, wodurch alsdann die sich so darstellenden
+Gestalten sogar Farbe und Glanz, auch Ton und Stimme der
+Wirklichkeit erhalten. Im Fall dies jedoch unvollkommen ge⸗
+schieht, werden fie nur schwach gefärbt, blaß, grau und faft durch⸗
+sichtig erscheinen, oder auch wird, dem analog, wenn fie für das
+Gehör dasind, ihre Stimme verkümmert seyn, hohl, leise, belle,
+oder zirpend klingen. Wenn der Seher derselben eine ge
+Aufmerksamkeit auf fie richtet, pflegen fie zu verschwinden; wa
+die dem äußern Eindrucke sich jetzt mit Anstrengung z
+den Sinne nun diesen wirklich empfangen, der, als der — 1
+
+
+innen kommende Gehirnthätigkeit überwältigt und zurü a
+Eben um diese Kollision zu vermeiden geschieht es, daß, bei Vi⸗ iR
+fionen, das innere Auge die Gestalten soviel wie möglich dahin ;
+projicirt, wo das äußere nichts sieht, in finftere Winkel, hinter 2
+Vorhänge, die plötzlich durchsichtig werden, und überhaupt in die
+Dunkelheit der Nacht, als welche bloß darum die Geisterzeit ist,
+weil Finsterniß, Stille und Einsamkeit, die äußern er |
+aufhebend, jener von innen ausgehenden Thätigkeit des Ger
+hirns Spielraum gestatten; so daß man, in dieser Hinsicht, 2
+selbe dem Phänomene der Phosphorescenz vergleichen kann,
+welches auch durch Dunkelheit bedingt ist. In lauter Gese
+
+
+und was damit zusammenhängt. 261
+
+
+und beim Scheine vieler Kerzen ist die Mitternacht keine Gei⸗
+sterstunde. Aber die finstere, stille und einsame Mitternacht ist
+es; weil wir schon instinktmäßig in ihr den Eintritt von Erschei⸗
+N nungen fürchten, die sich als ganz äußerlich darstellen, wenn
+gleich ihre nächste Ursache in uns selbst liegt: sonach fürchten
+wir dann eigentlich uns selbst. Daher nimmt wer den Einrit
+Miher er Erscheinungen befürchtet Gesellschaft zu sich.
+Obgleich nun die Erfahrung lehrt, daß die Erscheinungen
+der ganzen hier in Rede stehenden Art allerdings im Wachen
+statt haben, wodurch gerade fie sich von den Träumen unterschei⸗
+denz so bezweifele ich doch noch, daß dieses Wachen ein im streng⸗
+sten Sinne vollkommenes sei; da schon die hiebei nothwendige
+Vertheilung der Vorstellungskraft des Gehirns zu heischen scheint,
+daß wenn das Traumorgan sehr thätig ist, dies nicht ohne einen
+Abzug von der normalen Thätigkeit, also nur unter einer ge⸗
+\ ssen Depotenzirung des wachen, nach außen gerichteten Sin⸗
+0 ußtseyns geschehn kann; wonach ich vermuthe, daß, wäh⸗
+> einer solchen Erscheinung, das zwar allerdings wache Be⸗
+ıftfeyn doch gleichsam mit einem ganz leichten Flor überschleiert
+„ wodurch es eine gewisse, wiewohl schwache, traumartige Fär⸗
+ag erhält. Hieraus wäre zunächst erklärlich, daß Die, welche
+rllich dergleichen Erscheinungen gehabt haben, nie vor Schreck
+er gestorben si sind; während hingegen falsche, künstlich ver⸗
+altete Geistererscheinungen bisweilen diese Wirkung gehabt
+Ja, in der Regel, verursachen die wirklichen Visionen
+Art gar keine Furcht; sondern erst bitter, beim Nach⸗
+darüber, stellt sich einiges Grausen ein: dies mag freilich
+daran liegen, daß sie, während ihrer Dauer, für leibhaftige
+hen gehalten werden, und erst hinterher sich zeigt, daß sie
+icht seyn konnten. Doch glaube ich, daß die Abwesenheit
+urcht, welche sogar ein charakteristisches Kennzeichen wirkli⸗
+Visionen dieser Art ist, hauptsächlich aus dem oben angege⸗
+Grunde entspringt, indem man, obwohl wach, doch vou
+Art Traumbewußtseyn leicht umflort ist, also sich in einem
+ente befindet, dem der Schreck über unkörperliche Erschei⸗
+gen, wesentlich fremd ist, eben weil in demselben das Ob⸗
+ive vom Subjektiven nicht so schroff geschieden ist, wie bei
+Einwirkung der Körperwelt. Dies findet eine Bestätigung
+
+
+[S. 262]
+
+
+an der unbefangenen Art, mit welcher die Seherin von Prevorst
+ihres Geisterumganges pflegt: z. B. Bd. 2. S. 120 (erfte Aufl.)
+läßt sie ganz ruhig einen Geist dastehn und warten, bis sie ihre
+Suppe gegessen hat. Auch sagt J. Kerner selbst, an mehreren
+Stellen, (3. B. Bd. 1. S. 209), daß sie zwar wach zu seyn
+chien, aber es doch nie ganz war; was mit ihrer eigenen Aeu⸗
+ßerung, (Bd. 2. S. 11. 3. Aufl. S. 256.) daß sie jedesmal,
+wenn sie Geister sehe, ganz wach sei, allenfalls noch zu vereini⸗
+gen seyn möchte. eee e
+Von allen dergleichen, im wachen Zustande eintretenden An⸗
+schauungen mittelst des Traumorgans, welche uns völlig objekt
+und den Anschauungen mittelst der Sinne gleich kommende Er⸗
+scheinungen vorhalten, muß, wie gesagt, die nächste Ursache
+stets im Innern des Organismus liegen, wo dann irgend eine
+ungewöhnliche Veränderung es ist, welche, mittelst des, dem Ce⸗
+rebralsystem schon verwandten vegetativen Nervensystems, also
+des sympathischen Nerven und seiner Ganglien, auf das Gehirn
+wirkt; durch welche Einwirkung nun aber dieses immer nur in .
+die ihm natürliche und eigenthümliche Thätigkeit der objekliven,
+Raum, Zeit und Kausalität zur Form habenden, Anschauung ber
+setzt werden kann, gerade so wie durch die Einwirkung, welche von
+außen auf die Sinne geschieht; daher es diese seine normale 1
+tion jetzt ebenfalls ausübt. — Sogar aber dringt die nun fo
+von innen erregte, anschauende Thätigkeit des Gehirns bis zu
+den Sinnesnerven durch, welche demnach jetzt ebenfalls von innen,
+wie font von außen, zu den ihnen fpecifiichen Empfindungen an⸗
+geregt, die erscheinenden Gestalten, mit Farbe, Klang, Geruch
+u. s. w. ausstatten und dadurch ihnen die vollkommene Objekti⸗
+vität und Leibhaftigkeit des sinnlich Wahrgenommenen verlei
+Eine beachtenswerthe Bestätigung erhält diese Theorie der S
+durch folgende Angabe einer hellsehenden Somnambule Heine.
+kens über die Entstehung der somnambulen Anschauung:
+„der Nacht war ihr, nach einem ruhigen, natürlichen Schlafe,
+„auf ein Mal deutlich geworden, das Licht entwickele sich aus
+„dem Hinterkopfe, ströme von da nach dem Vorderkopfe, komme
+„dann zu den Augen, und mache nun die umstehenden
+„stände sichtbar: durch dieses dem Daͤmmerlichte ähnlic
+„habe sie Alles um sich her deutlich gesehn und erkannt.“
+
+
+und was damit zusammenhaͤngt. 263
+
+
+ers Archto für d. thier. Magn. Bd. 2, Hest 3, S. 43) Die
+dargelegte nächste Ursache solcher im Gehirn von innen aus
+erregten Anschauungen muß aber selbst wieder eine haben, welche
+die entferntere Ursache jener ist. Wenn wir nun fin⸗
+den sollten, daß die se nicht jedesmal bloß im Organismus, sondern
+
+8 auch außerhalb desselben zu suchen sei; so würde, in
+letzterem Fall, jenem Gehirnphänomene, welches, bis hieher, als
+so subjektiv wie die bloßen Träume, ja, nur als ein wacher
+sich darstellt, die reale Objektivität, d. h. die wirkliche
+
+manusale Beziehung auf etwas außer dem Subjekt Vorhandenes,
+von einer ganz anderen Seite aus, wieder gesichert werden, also
+gleichsam durch die Hinterthüre wieder hereinkommen. — Ich
+demnach jetzt die entfernteren Ursachen jenes Phäno⸗
+us, so weit fie uns bekannt find, aufzählen; wobei ich zunächst
+erke, daß, fo lange diese allein innerhalb des Organis⸗
+s liegen, das Phänomen mit dem Namen der Hallueina⸗
+tion bezeichnet wird, diesen jedoch ablegt und verschiedene an⸗
+dere Namen erhaͤlt, wenn eine außer halb des Organismus lie⸗
+2 nachzuweisen ist, oder wenigstens erer e
+
+
+. 10 Die häufigste Ursach des in Rede sehenden Gehimphä⸗
+naomens sind Heftige, akute Krankheiten, namentlich hitzige Fieber,
+e das Delirium herbeiführen, in welchem, unter dem Na⸗
+ider Fieberphantasien, das besagte Phänomen allbekannt ist.
+e Ursache liegt offenbar bloß im Organismus, wenn gleich
+das Fieber selbst durch äußere Ursachen 2 7 seyn mag.
+5 272) Der Wahnsinn ist keineswegs i aber doch bis⸗
+weilen von Hallucinationen begleitet, als deren Ursache die ihn zu⸗
+mächst herbeiführenden, meistens im Gehirn, oft aber auch im übri⸗
+er Organismus vorhandenen krankhaften Zustände anzusehn sind.
+0) In seltenen, glücklicher weise aber vollkommen konstatirten
+len, entstehn, ohne daß Fieber, oder sonst akute Krankheit,
+veige Wahnsinn, vorhanden sei, Hallucinationen, als Er⸗
+ungen menschlicher Gestalten, die den wirklichen täuschend
+ichen. Der bekannteste Fall dieser Art ist der Nikolai's,
+er ihn 1799 der Berliner Akademie vorgelesen und diesen
+
+
+auch besonders abgedruckt hat. Einen ähnlichen findet
+
+
+Vol. 4. N. 8, Oct: — April 18314, und mehrere andere liefen
+Brierre de Boismont, des hallucinations, 1845, ein für den
+gesammten Gegenstand unsrer Untersuchung sehr brauchbares
+Buch. Zwar giebt dasselbe keineswegs eine tief eingehende Ex⸗
+klärung der dahin gehörigen Phänomene, sogar hat es leider
+nicht ein Mal wirklich, sondern bloß scheinbar, eine systematische
+Anordnung; jedoch ist es eine sehr reiche, auch mit Umsicht und
+Kritik gesammelte Kompilation aller in unser Thema irgend ein⸗
+schlagenden Fälle. Zu dem speciellen Punkte, den wir soeben
+betrachten, gehören darin besonders die Observations 7, 13, 15,
+29, 65, 108, 110, 111, 112, 114, 115, 132. Ueberhaupt aber
+muß man annehmen und erwägen, daß von den Thatsachen,
+welche dem gesammten Gegenstande der gegenwärtigen Betrach⸗
+tung angehören, auf Eine öffentlich mitgetheilte tausend ähnliche
+kommen, deren Kunde nie über den engen Kreis ihrer unmittel⸗
+baren Umgebung hinausgelangt ist, aus verschiedenen Ursachen,
+die leicht abzusehn find. Daher eben schleppt sich die wissenschaft⸗
+liche Betrachtung dieses Gegenstandes seit Jahrhunderten, ja
+Jahrtausenden, mit wenigen einzelnen Fällen, Wahrträumen und
+Geistergeschichten, deren Gleiche seitdem hundert tausend Mal
+vorgekommen, aber nicht zur öffentlichen Kunde gebracht und .
+durch der Litteratur einverleibt worden sind. Als Beispiele jener,
+durch zahllose Wiederholung typisch gewordenen Fälle nenne ich
+nur den Wahrtraum, welchen Cicero de div. I. 27, erzählt, das
+Gespenst bei Plinius, in der epistola ad San) und die Gei⸗
+stererscheinung des Marsilius Ficinus, gemäß der Verabredung
+mit seinem Freunde Mercatus. — Was nun aber die unter ge⸗
+genwärtiger Nummer in Betrachtung genommenen Fälle betrifft, 5
+deren Typus Nikolai's Krankheit ist; so haben sie sich sämmt⸗
+lich als aus rein körperlichen, gänzlich im Organismus
+gelegenen, abnormen Ursachen entfprungen erwiesen, sowohl durch
+ihren bedeutungslosen Inhalt und das Periodische ihrer Wieder⸗
+kehr, als auch dadurch, daß sie therapeutischen Mitteln, besonders
+Blutenziehungen, allemal gewichen sind. Sie gehören also eben⸗
+falls zu den bloßen Hallueinationen, ja, sind im agent
+4) Denselben reihen sich nun zunächst gewisse, ihnen, äbri-.
+gens ähnliche Erscheinungen objektiv und äußerlich dastehender 2
+
+
+264 5 Versuch über Geistersehn
+
+
+und was damit zufammenhängt. 265
+
+
+Gestalten an, welche sich jedoch durch einen, eigens für den Se⸗
+her bestimmten, bedeutsamen und zwar eifiene finiftern Charak⸗
+ter unterscheiden, und deren reale Bedeutsamkeit meistens durch
+den bald darauf erfolgenden Tod Dessen, dem sie sich darstellten,
+außer Zweifel gesetzt wird. Als ein Muster dieser Art ist der
+Fall zu betrachten, den Walter Scott, on demonology and
+„witeheraft, letter 1, erzählt, und den auch Brierre de Bois⸗
+mont wiederholt, von dem Justizbeamteten, welcher, Monate lang,
+erst eine Katze, darauf einen Ceremonienmeister, endlich ein Ske⸗
+lett leibhaftig stets vor sich sah, wobei er abzehrte und endlich
+starb. Ganz dieser Art ist ferner die Vision der Miß Lee,
+welcher die Erscheinung ihrer Mutter ihren Tod auf Tag und
+* Stunde richtig verkündet hat. Sie ist zuerst in Beaumont's
+dee on spirits (welches Buch 1721 von Arnold übersetzt
+utsch erschien) erzählt und danach in Hibberts sketches of
+Signs before death, 1825, und findet sich gleichfalls in J. C.
+ö | de Boismont. Ein drittes Beispiel giebt die, in dem
+erwähnten Buche von Welby (S. 156) erzählte Geschichte
+er Frau Stephens, welche, wachend, eine Leiche hinter ihrem
+1 e liegen sah und einige Tage darauf starb. Ebenfalls ge⸗
+hören hieher die Fälle des Sichselbstsehns, sofern sie bisweilen,
+wiewohl durchaus nicht immer, den Tod des sich Sehenden anzei⸗
+Einen sehr merkwürdigen und ungewöhnlich gut beglaubigten
+3 eser Art hat der Berliner Arzt Formey aufgezeichnet, in
+m „Heidnischen Philosophen“: man findet ihn in Horst's
+* Bd. 1. S. 115, wie auch in dessen Zauberbiblio⸗
+Bd. 1, vollständig wiedergegeben. Doch ist zu bemerken,
+hier die Erscheinung eigentlich nicht von der sehr kurz dar⸗
+und unvermuthet gestorbenen Person selbst, sondern nur von
+er Angehörigen gesehn wurde. Von ‚eigentlichen Sichselbst⸗
+. sehn berichtet einen von ihm selbst verbürgten Fall Horst im
+2. Th. der Deuteroskopie S. 138. Sogar Göthe erzählt, daß
+Bu selbst gefehn habe, zu Pferde und in einem Kleide, in
+elchem er 8 Jahre später, eben dort wirklich geritten sei.
+Aus meinem Leben“ 11. Buch.). Diese Erscheinung hatte
+beiläufig gesagt, eigentlich den Zweck, ihn zu trösten; indem sie
+
+
+[S. 266]
+
+
+ihn sich sehn ließ, wie er, die Geliebte, von der er soeben sehr
+
+
+schmerzlichen Abschied genommen, nach 8 Jahren wieder zu be⸗
+suchen, des entgegengesetzten Weges geritten kam: fie lüstete
+also auf einen Augenblick den Schleier der Zukunft, um ihm, in
+seiner Betrübniß, das Wiedersehn zu verkündigen. —
+nungen dieser Art sind nun nicht mehr bloße ee
+fondern Visionen. Denn sie stellen entweder etwas Reales
+dar, oder beziehen sich auf künftige, wirkliche Vorgänge. Daher
+find fie im wachen Zustande Das, was im Schlafe die fatidiken
+Träume, welche, wie oben gesagt, am häufigsten sich auf den
+eigenen, besonders den ungünstigen, Gesundheitszustand des Träu⸗
+menden beziehn; — während die bloßen Hallueinationen den
+gewöhnlichen, nichtsbedeutenden Träumen entsprechen.
+Der Ursprung dieser bedeutungsvollen Visionen ist
+
+
+darin zu suchen, daß jenes räthselhaste, in unserm Innern ver⸗
+
+
+borgene, durch die räumlichen und zeitlichen Verhältnisse nicht
+
+
+beschränkte und insofern allwissende, dagegen aber gar nicht ins
+
+
+gewöhnliche Bewußtseyn fallende, sondern für uns verst
+
+
+Erkenntnißvermögen, — welches jedoch im magnetischen Hellsehn
+seinen Schleier abwirft, — ein Mal etwas dem Individuo sehr
+Interessantes erspäht hat, von welchem nun der Wille, der f.
+
+
+der Kern des ganzen Menschen ist, dem cerebralen Erkennen
+gern Kunde geben möchte; was dann aber nur durch die ihm
+felten gelingende Operation möglich ist, daß er ein Mal das
+
+
+Traumorgan im wachen Zustande aufgehn läßt und so dem
+cerebralen Bewußtseyn, in anschaulichen Gestalten, entweder
+
+
+direkter, oder von allegorischer Bedeutung, jene feine E
+
+
+mittheilt. Dies war ihm in den oben kurz angeführten Fo :
+gelungen. Dieselben bezogen sich nun alle auf die Zukunft: —
+
+
+kann auch ein eben jetzt Geschehendes auf diese Weise offenbart
+werden, welches jedoch alsdann natürlich nicht die eigene ei
+fon betreffen kann, sondern eine andere. So kann z. B. de
+eben jetzt erfolgende Tod meines entfernten Freundes, mir
+durch kund werden, daß dessen Gestalt sich mir plötzlich, so =
+
+
+haftig wie die eines Lebenden, darstellt; ohne daß etwan hiebei
+
+
+der Sterbende selbst, durch seinen lebhaften Gedanken an mich,
+
+
+mitgewirkt zu haben braucht; wie Dieses hingegen in Kr
+einer andern, weiter unten zu erörternden Gattung
+
+
+und was damit zusammenhängt. 267
+
+
+Statt hat. Auch habe ich Dieses hier nur erläuterungsweise
+
+beigebracht; da unter dieser Nummer eigentlich nur von den
+Bisionen die Rede ist, welche sich auf den Seher derselben selbst
+beziehn und den ihnen analogen fatidiken Träumen entsprechen.
+5) Nun wieder denjenigen fatidiken Träumen, welche sich
+nicht auf den eigenen Gesundheitszustand, sondern auf ganz äu⸗
+ßerliche Begebenheiten beziehn, entsprechen gewisse, den obigen
+
+
+n entspringenden, sondern die von außen uns bedrohenden
+Gefahren ankündigen, welche aber freilich oft über unsere Häup⸗
+ber vorüberziehn, ohne daß wir fie irgend gewahr würden; in
+Fall wir die äußere Beziehung der Vision nicht konsta⸗
+können. Visionen dieser Art erfordern, um sichtbar aus⸗
+„mancherlei Bedingungen, vorzüglich, daß das betreffende
+
+ft die dazu eignende Empfänglichkeit habe. Wenn hinge⸗
+es, wie meistentheils, nur im niedrigeren Grade der Fall
+o wird die Kundgebung bloß hörbar ausfallen und dann
+durch mancherlei Töne manifestiren, am häufigsten durch
+n, welches besonders Nachts, meistens gegen Morgen ein⸗
+pflegt und zwar so, daß man erwacht und gleich darauf
+l starkes und die völlige Deutlichkeit der Wirklichkeit ha⸗
+Klopfen an der Thüre des Schlafgemachs vernimmt. Zu
+en Visionen, und zwar in allegorisch bedeutsamen Gestalten,
+un von denen der Wirklichkeit nicht zu unterscheiden sind,
+s am ersten dann kommen, wann eine sehr große Gefahr
+ben bedrohet, oder aber auch wann wir einer solchen,
+e es gewiß zu wissen, glücklich entgangen find; wo fie
+leichsam Glück wünschen und anzeigen, daß wir jetzt noch
+ahre vor uns haben. Endlich aber werden dergleichen
+n auch eintreten, ein unabwendbares Unglück zu verkün⸗
+
+
+. Philippi, sich darstellend als fein boͤser Genius;
+
+
+erzählt. Ueberhaupt vermuthe ich, daß die Visionen die⸗
+ittung ein Hauptanlaß zum Mythos der Alten von dem
+beigegebenen Genius, so wie der Christlichen Zeiten vom
+
+is fämiliuris gewesen find. In den mittlern Jahrhun⸗
+
+
+stehende Visionen, welche nicht die aus dem Organis⸗
+
+
+leser letztern Art war die bekannte Visi on des Brutus vor
+
+
+e ihr sehr ähnliche des Kassius Parmensis, nach der
+
+
+$. 153 u. s. f. findet. Auch die berühmte Prophezeiun Y
+
+
+[S. 268]
+
+
+derten suchte man fie durch die Astralgeister zu erklären, wie bi
+die in der vorhergehenden Abhandlung beigebrachte Stelle de
+Theophr. Paracelsus bezeugt: „Damit aber das Fatum wohl
+„erkannt werde, ist es also, daß jeglicher Mensch einen Geist
+„hat, der außerhalb ihm wohnt und setzt seinen Stuhl in die obern
+habenen Arbeiten; davon Bossiren] „seines Meisters.
+„ist der, der da die Präsagia demselbigen vorzeigt und nachz
+„denn sie bleiben nach diesen. Diese Geister heißen Fatum.“
+Im 17. und 18. Jahrhundert hingegen gebrauchte man, um diese,
+wie viele andere, Erscheinungen zu erklären, das Wort spiritus f
+vitales, welches, da die Begriffe fehlten, sich zu rechter Zeit ein⸗
+gestellt hatte. Die wirklichen entfernteren Ursachen der Visionen
+dieser Art können, wenn dieser ihre Beziehung auf äußere Ge⸗
+fahren konstatirt ist, offenbar nicht bloß im Organismus liegen:
+wie weit wir die Art ihrer Verbindung mit der Außenwelt uns
+faßlich zu machen vermögen werde ich weiterhin untersuchen
+6) Visionen, welche gar nicht mehr den Seher d
+betreffen und dennoch künftige, kürzere oder längere Zeit
+eintretende Begebenheiten, genau und oft nach allen ihren Ein
+zelheiten, unmittelbar darstellen, find die jener seltenen Gabe, die
+man second sight, das zweite Gesicht, oder Deuteroskopt
+nennt, eigenthümlichen. Eine reichhaltige Sammlung d
+richte darüber enthält Horst's Deuteroskopie, 2 Bände,
+auch findet man neuere Thatsachen dieser Gattung in ven
+nen Bänden des Kieser'schen Archivs für thierischen Magnet
+Die seltsame Fähigkeit zu Visionen dieser Art ist keinesweg
+schließlich in Schottland und Norwegen zu finden, sondern
+namentlich in Bezug auf Todesfälle, auch bei uns vor;
+man Berichte in Jung⸗Stillings Theorie der Geist
+
+
+Cazotte scheint auf fo etwas zu beruhen. Ja, schon im Ho⸗
+mer finden wir (Od. XX., 351 — 57) eine wirkliche Deutero⸗
+skopie dargestellt, die ogg eine seltsame Aehnlichkeit mit der
+Geschichte des Cazotte hat. — In diesem zweiten Gesicht
+erreicht die, hier wie immer zunächst aus dem Organismus
+springende Vision den höchsten Grad von objektiver, realer
+
+heit und verräth dadurch eine von der gewöhnlichen, physi
+
+
+und was damit jufammenhängt. 269
+
+
+verschiedene Art unserer V g mit der Außen⸗
+welt. Sie geht, als wachender Zustand, den höchsten Graden
+des somnambulen Hellsehns parallel. Eigentlich if fie ein voll⸗
+enes Wahrträumen im Wachen, oder wenigstens in
+einem Zustande, der mitten im Wachen auf wenige Augenblicke
+eintritt. Auch ist die Vision des zweitens Gesichts, eben wie
+die äume, in vielen Fällen nicht theorematisch, sondern
+8 ch, oder symbolisch, jedoch, was höchst merkwürdig ist,
+tach fesistehenden, bei allen Sehern in gleicher Bedeutung ein⸗
+retenden Symbolen, die man im erwähnten Buche von .
+Bd. 1, S. 63 — 69, wie auch in Kieser's Archiv, Bd. VI, 3,
+RE Zu den eben betrachteten, der Zukunft zugekehrten Visio⸗
+iefern nun das Gegenstück diejenigen, welche das Vergan⸗
+namentlich die Gestalten ehemals lebender Personen, vor
+
+
+wiß, daß fie veranlaßt werden können durch die in der
+befindlichen Ueberreste der Leichen derselben. Diese sehr
+ge Erfahrung, auf welche eine Menge Geistererscheinungen
+zuführen sind, hat ihre solideste und ungemein sichere Be⸗
+gung an einem Briefe vom Prof. Ehrmann, dem Schwie⸗
+me des Dichters Pfeffel, welcher in extenso gegeben
+n Kiesers Archiv Bd. 10, H. 3. S. 151, ff.: Auszüge
+s aber findet man in vielen Büchern, z. B. in F. Fischer's
+je durch viele Fälle, welche auf fie zurückzuführen find, bestä⸗
+diesen will ich hier nur einige anführen. Zunächst näm⸗
+ört dahin die in eben jenem Briefe, und auch aus guter
+mitgetheilte Geschichte vom Pastor Lindner, welche ebenfalls
+Büchern wiederholt worden ist, unter andern in der Se⸗
+n Prevorst (Bd. 2, S. 98 der ersten und S. 356 der
+ferner ist dieser Art eine in dem angeführten Buche
+S. 252) von diesem selbst, nach Augenzeugen, mitge-
+lte Geschichte, die er zur Berichtigung eines kurzen, in der
+
+n von Prevorst (S. 358 der 3. Aufl.) befindlichen Be⸗
+a en über die auffallendesten neuern Geistererscheinungen“,
+00, finden wir, gleich im ersten Kapitel, sieben folge Erschei⸗
+
+
+Wachen aufgehende Traumorgan bringen. Es ist ziem⸗
+
+
+jene deshalb in Verruf gekommenen Häuser, die niemand be
+nen will, welche man hin und wieder immer antreffen .
+
+
+[S. 270]
+
+
+nungsgeschichten, die sämmtlich die in der Nähe befindlichen Ue⸗
+berreste der Todten zum Anlaß haben, Die Pfeffel sche Geschichte
+ist die letzte darunter: aber auch die übrigen tragen ganz den
+Charakter der Wahrheit und durchaus nicht den der Erfindung,
+Auch erzählen sie alle nur ein bloßes Erscheinen der Gestalt des
+Verstorbenen, ohne allen weitern Fortgang, oder gar dramatischen
+Zusammenhang. Sie verdienen daher, hinsichtlich der Theorie
+dieser Phänomene, alle Berücksichtigung. Die rationglistischen
+Erklärungen, die der Verfasser dazu giebt, können dienen, die
+gänzliche Unzulänglichkeit solcher Auflösungen in helles I
+stellen. Hieher gehört ferner, im oben angeführten Buche des
+Brierre de Boismont, die 4. Beobachtung; nicht weniger
+manche der von den alten Schriftstellern uns überlieferten Gei⸗
+stergeschichten, z. B. die vom jüngern Plinius 2
+epist. 27) erzählte, welche schon deshalb merkwürdig ist, daß
+so ganz denselben Charakter trägt, wie unzählige aus der 1
+Zeit. Ihr ganz ähnlich, vielleicht sogar nur eine andere
+derselben, ist die, welche Lukianos, im Philopseudes
+vorträgt. Sodann ist dieser Art die Erzählung vom 2
+in Plutarchs erstem Kapitel des Kimon; ferner was Pa
+(Attica I, 32.) vom Schlachtfelde bei Marathon berichtet
+
+
+zurückzuführen seyn, wo Geister stets an derselben Stelle et
+nen und der Spuk an eine bestimmte Lokalität gebunden if
+Kirchen, Kirchhöfe, Schlachtfelder, Mordstätten, Hochgericht
+
+
+auch mir find, in meinem Leben deren mehrere. vorgefom
+Solche Lokalitäten sind der Anlaß gewesen zu dem Buche
+Jesuiten Petrus Thyraeus: de infestis, ob molestantes
+moniorum et defunctorum spiritus, loecis, Köln 159
+Aber die merkwürdigste Thatsache dieser Art liefert viell
+Observ. 77 des Brierre de Boismont. Als eine wohlzul
+tende Bestätigung der hier gegebenen Erklärung so vieler Gei⸗
+stererscheinungen, ja, als ein zu ihr führendes Mittelglied, ist
+die Vision einer Somnambule zu betrachten, die in Kerners
+
+
+und was damit zusammenhängt. 271
+
+
+aus Prevorst, Samml. 10, S. 64, mitgetheilt wird: die⸗
+ser nämlich stellte sich plötzlich eine, von ihr genau beschriebene,
+häusliche Scene dar, die sich vor mehr als 100 Jahren daselbst
+. haben mochte; da die von ihr beschriebenen Personen
+Porträts glichen, die sie jedoch nie gesehn hatte.
+Die hier in Betrachtung genommene wichtige Grund⸗Erfah⸗
+0 H aber, auf welche alle solche Vorgänge zurückführbar
+85 und die ich retrospective second sight benenne, muß
+phänomen stehn bleiben; weil, fie zu erklären, es uns bis
+ch an Mitteln fehlt. Inzwischen läßt sie sich in nahe
+bindung bringen mit einem andern, freilich eben so uner⸗
+järliche n Phänomen; wodurch jedoch schon viel gewonnen wird;
+wir alsdann, statt zweier unbekannter Größen, nur eine be⸗
+; welcher Vortheil dem so gerühmten analog ist, den wir
+Zurückführung des mineralischen Magnetismus auf die
+ität erlangt haben. Wie nämlich eine in hohem Grade
+ende Somnambule sogar durch die Zeit nicht in ihrer
+sehmung beschränkt wird, sondern mitunter auch wirklich
+ünftige und zwar ganz zufällig eintretende Vorgänge vorher⸗
+wie das Selbe, noch auffallender, von den Deuteroskopisten
+eichensehern geleistet wird; wie also Vorgänge, die in un⸗
+
+
+is der Nacht der Zukunft heraus, schon auf dergleichen
+wirken und in ihre Perception fallen können; so kön⸗
+
+
+„eine Nachwirkung äußern; ja, Dieses ist weniger
+
+ich, als Jenes, zumal wann eine solche Auffassung ver⸗
+und eingeleitet wird, durch etwas Materielles, wie etwan
+ch wirklich vorhandenen, leiblichen Ueberreste der wahrge⸗
+enen Personen, oder Sachen, die in genauer Verbindung
+1. geweien,. ihre Kleider, das von ihnen bewohnte Ge⸗
+der woran ihr Herz gehangen, der verborgene Schatz;
+galog, wie die sehr hellsehende Somnambule bisweilen nur
+gend ein leibliches Verbindungsglied, z. B. ein Tuch,
+ee einige Tage auf dem bloßen Leibe getragen
+Archiv, III, 3, S. 24), oder eine abgeschnittene Haar⸗
+
+
+[S. 272]
+
+
+locke, mit entfernten Personen, über deren Gesundheitszustand
+sie berichten soll, in Rapport gesetzt wird und dadurch ein Bild
+von ihnen erhält; welcher Fall dem in Rede stehenden nahe ver⸗
+wandt ist. Dieser Ansicht zufolge wären die an bestimmte Loka⸗
+litäten, oder an die daselbst liegenden leiblichen Ueberreste Ver⸗
+storbener, sich knüpfenden Geistererscheinungen nur die Wahrneh⸗
+mungen einer rückwärts gekehrten, also der Vergangenheit
+wandten Deuteroffopie, — a retrospective second dhe fe
+wären demnach ganz eigentlich, was schon die Alten (deren ganze
+Vorstellung vom Schattenreiche vielleicht aus Geistererscheinungen
+hervorgegangen ist: man sehe Odyssee XXIV.) fie nannten,
+Schatten, umbrae, adwia zauovıov, — vervav allexnvce ac
+o, — manes (von manere, gleichsam Ueberbleibsel, Spuren),
+also Nachklänge dagewesener Erscheinungen dieser unserer in geit
+und Raum sich darstellenden Erscheinungswelt, dem Traumo
+wahrnehmbar werdend, in seltenen Fällen während des
+Zustandes, leichter im Schlaf, als bloße Träume, am lei
+natürlich im tiefen magnetischen Schlafe, wann in ihm der D
+zum Schlafwachen und dieses zum Hellsehn sich gesteigert
+aber auch in dem gleich Anfangs beschriebenen natürlichen
+wachen, welches als ein Wahrträumen der nächsten
+des Schlafenden beschrieben wurde und gerade durch das
+ten solcher fremdartigen Gestalten zuerst als ein vom wachen
+stande verschiedener sich zu erkennen giebt. In diesem Schle ;
+nämlich werden am häufigsten die Geftalten eben gestorbener Wer-
+sonen, deren Leiche noch im Haufe ist, sich darstellen; wi J
+haupt eben dem Gesetz, daß diese rückwärts gekehrte Deut
+pie durch leibliche Ueberreste der Todten eingeleitet wird,
+die Gestalt eines Verstorbenen den dazu disponirten Pei
+selbst im wachen Zustande, am leichtesten erscheinen kann,
+er noch nicht bestattet ist; wiewohl sie auch dann im
+durch das Traumorgan wahrgenommen wird.
+Nach dem Gesagten versteht es sich von selbst, da
+auf diese Weise erscheinenden Gespenste nicht die ur
+Realität eines gegenwärtigen Objekts beizulegen ist
+ihm mittelbar doch eine Realität zum Grunde liegt:
+was man da sieht ist keineswegs der Abgeschiedene selbst, f
+es ist ein bloßes erco, ein Bild Dessen, der ein Ma
+
+
+und was damit zusammenhängt. 273
+
+
+entstehend im Traumorgan eines hiezu disponirten Menschen;
+
+auf Anlaß irgend eines Ueberbleibsels, irgend einer zurückgelasse⸗
+
+nen Spur. Dasselbe hat daher nicht mehr Realität, als die Er⸗
+scheinung Dessen, der sich selbst sieht, oder auch von Andern
+dort wahrgenommen wird, wo er sich nicht befindet. Fälle die⸗
+
+ser Art aber sind durch glaubwürdige Zeugnisse bekannt, von de⸗
+nen man einige in Horst's Deuteroskopie Bd. 2, Abschn. 4 zu⸗
+sammengestellt findet: auch der erwähnte von Göthe gehört da⸗
+hin; desgleichen die nicht seltene Thatsache, daß Kranke, wann
+dem Tode nahe, sich im Bette doppelt vorhanden wähnen. „Wie
+geht es?“ fragte hier vor nicht langer Zeit ein Arzt seinen schwer
+ee Kranken: „jetzt besser, seitdem wir im Bette
+zwei sind,“ war die Antwort: bald darauf farb er. — Dem⸗
+nach steht eine Geistererscheinung der hier in Betrachtung genom⸗
+et: zwar in objektiver Beziehung zum ehemaligen Zu⸗
+
+; er sich darstellenden Person, aber keineswegs zu ihrem
+enwärtigen: denn dieselbe hat durchaus keinen aktiven Theil
+daher auch nicht auf ihre noch fortdauernde individuelle
+ah daraus zu schließen ist. Zu der gegebenen Erklärung
+auch, daß die so erscheinenden Abgeschiedenen in der Re⸗
+gel bekleidet und in der Tracht, die ihnen gewöhnlich war, ge⸗
+sehn werden; wie auch, daß mit dem Mörder der Gemordete,
+3 l dem Reiter das Pferd erscheint u. dgl. m. Den Vistonen
+dieser Art sind wahrscheinlich auch die meisten der von der Se⸗
+in zu Prevorst gesehenen Gespenster beizuzählen, die Gespräche
+
+„die sie mit ihnen geführt hat, als das Werk ihrer eigenen
+Einbildungskraft anzusehn, die den Tert zu dieser stummen Pros
+n (dumb shew) und dadurch eine Erklärung derselben, aus
+
+genen Mitteln, lieferte. Der Mensch ist nämlich von Natur
+trebt, sich Alles was er sieht irgendwie zu erklären, oder we⸗
+
+
+ig en, reden zu lassen; daher Kinder sogar den leblosen
+9 oft! einen Dialog unterlegen. Demnach war die Geber
+selbst, ohne es zu wissen, der Soufleur jener ihr erscheinen⸗
+
+onen) wobei ihre Einbildungskraft in derjenigen Art
+unbewußter Thätigkeit war, womit wir, im gewöhnlichen, bedeu⸗
+1 Traum, die e Re ran und fügen, J je **
+
+
+27a Versuch über Geistersehn
+
+
+wohl bisweilen den Anlaß dazu von objektiven, zufälligen Um⸗
+ständen, etwan einem im Bette gefühlten Druck, oder einem von
+außen zu uns gelangenden Ton, oder Geruch u. s. w. nehmen,
+welchen gemäß wir sodann lange Geschichten träumen. Um diese
+Dramaturgie der Seherin sich zu erläutern, sehe man was in
+Kieser's Archiv, Bd. 11, H. 1. S. 121., Bende Bendsen
+von feiner Somnambule erzählt, welcher, im magnetischen Schlafe,
+bisweilen ihre lebenden Bekannten erschienen, wo sie dann, mit
+lauter Stimme, lange Gespräche mit ihnen führte. Daselbst
+heißt es: „unter den vielen Gesprächen, welche sie mit Abwe⸗
+„senden hielt, ist das nachstehende charakteristisch. Während der
+„vermeintlichen Antworten schwieg fie, schien mit gespannter
+„Aufmerksamkeit, wobei fie sich im Bette erhob und den Kopf
+„nach einer bestimmten Seite drehte, den Antworten der Andern
+„zuzuhören und rückte dann mit ihren Einwendungen dagegen
+„an. Sie dachte sich hier die alte Karen, mit ihrer Magd,
+„gegenwärtig und sprach abwechselnd bald mit dieser, bald mit
+jener. — — — — Die scheinbare Zerspaltung der eigenen
+„wöhnlich ist, gieng hier fo weit, daß ich die Schlafende damals
+„gar nicht davon überzeugen konnte, sie mache alle drei Perso⸗
+„nen selbst.“ Dieser Art also find, meiner Meinung nach, auch
+die Geistergespräche der Seherin von Prevorst, und findet diese
+Erklärung eine starke Bestätigung an der unaus sprechli
+geschmacktheit des Tertes jener Dialoge und Dramen, welche
+allein dem Vorstellungskreise eines unwissenden Gebirgsmädchens
+und der ihr beigebrachten Volksmetaphysik entsprechen, und welchen
+eine objektive Realität unterzulegen, nur unter Voraussetzung
+einer so gränzenlos absurden, ja empörend dummen
+
+möglich ist, daß man ihr anzugehören sich schämen müßte. —
+Hätte der so befangene und leichtgläubige Just. Kerner nicht im
+Stillen doch eine leise Ahndung von dem hier angegebenen Ur⸗
+sprunge jener Geisterunterredungen gehabt; so würde er nicht,
+mit so unverantwortlicher Leichtfertigkeit, überall und jedes Mal
+unterlassen haben, den von den Geistern angezeigten, materiellen
+Ketten in Burggewölben, begrabenen Kindern in Pferdeställen,
+mit allem Ernst und Eifer nachzusuchen, statt sich durch die leich⸗
+
+
+und was damit zusammenhöängt. 275
+
+
+testen Hindernisse davon abhalten wenka Denn Das hätte
+Licht auf die Sachen geworfen. a
+
+Uueberhaupt bin ich der Meinung, daß die ‚alletwieiften wirk⸗
+lich gesehenen Erscheinungen Verstorbener zu dieser Kategorie der
+Visionen gehören und ihnen demnach zwar eine vergangene, aber
+keineswegs eine gegenwärtige, geradezu objektive Realität ent⸗
+spricht: so z. B. der Erscheinung des Präsidenten der Berliner Aka⸗
+demie, Maupertuis, im Saale derselben gesehen vom Botaniker
+Gleditschz welches Nikolai in seiner schon erwähnten Vorlesung
+vor eben dieser Akademie anführt; desgleichen die von Walter Scott
+in der Edinb. review vorgetragene und von Horst in der Deute⸗
+roskopie Bd. 1. S. 113 wiederholte Geschichte von dem Landam⸗
+mann in der Schweiz, der, in die öffentliche Bibliothek tretend, sei⸗
+nen Vorgänger, in feierlicher Rathsversammlung, von lauter Ver⸗
+storbenen umgeben, auf dem Präsidentenstuhl sitzend erblickt. Auch
+geht aus einigen, hierher gehörigen Erzählungen hervor, daß der
+objektive Anlaß zu Visionen dieser Art nicht nothwendig das Ske⸗
+
+tt, oder ein sonstiges Ueberbleibsel eines Leichnams seyn muß, son⸗
+dern daß auch andere, mit dem Verstorbenen in naher Berührung
+jeipefene Dinge dies vermögen: fo z. B. finden wir, in dem oben
+
+
+angeführten Buche von G. J. Wenzel, unter den 7 hierher gehö⸗
+
+
+rigen Geschichten 6, wo die Leiche, aber eine, wo der bloße, stets
+agene Rock des Verstorbenen, der gleich nach dessen Tode ein⸗
+schlossen wurde, nach mehreren Wochen, beim Hervorholen, seine
+aftige Erscheinung vor der darüber entsetzten Wittwe veran⸗
+
+it. Und sonach könnte es seyn, daß auch leichtere, unsern Sin⸗
+n kaum mehr wahrnehmbare Spuren, wie z. B. längst vom Bo⸗
+
+den eingesogene Blutstropfen, oder vielleicht gar das bloße von
+Mauern eingeschlossene Lokal, wo Einer, unter großer Angst,
+oder Verzweiflung, einen gewaltsamen Tod erlitt, hinreichten, in
+dem dazu Prädisponirten eine solche rückwärts gekehrte Deute⸗
+roskopie hervorzurufen. Hiemit mag auch die von Lukian (Phi⸗
+Top Kap. 29.) angeführte Meinung der Alten zufammen-
+„daß bloß die eines gewaltsamen Todes Gestorbenen er
+könnten. Nicht minder könnte wohl ein vom Verstorbe⸗
+
+13 vergrabener und stets ängstlich bewachter Schatz, an welchen
+
+
+N noch feine: letzten Gedanken sich hefteten, den in Rede stehenden
+
+
+obleltiven Anlaß zu einer solchen Vision abgeben, die dann, mög⸗
+
+
+[S. 276]
+
+
+licher Weise, sogar lukrativ ausfallen könnte. Die besagten ob⸗
+jektiven Anlässe fpielen bei diesem durch das Traumorgan ver⸗
+mittelten Erkennen des Vergangenen gewissermaaßen die Rolle,
+welche bei dem normalen Denken der nexus idearum seinen
+Gegenständen ertheilt. Uebrigens gilt von den hier in Rebe
+stehenden, wie von allen im Wachen durch das Traumorgan mög«
+lichen Wahrnehmungen, daß sie leichter unter der Form des Hör:
+baren, als des Sichtbaren ins Bewußtseyn kommen, daher die
+Erzählungen von Tönen, die an diesem, oder jenem Orte bis⸗
+weilen gehört werden, viel häufiger sind, als die von sichtba⸗
+ren Erscheinungen. 4
+Wenn nun aber, bei einigen Beispielen der hier in Benrach⸗
+tung genommenen Art, erzählt wird, die erscheinenden Verstor⸗
+benen hätten dem sie Schauenden gewisse, bis dahin unbekannte
+Thatsachen revelirt; fo ist Dies zuvörderst nur auf die sichersten
+Zeugnisse hin anzunehmen und bis dahin zu bezweifeln: sodann
+aber ließe es sich allenfalls doch noch, durch gewisse Analogien
+mit dem Hellsehn der Somnambulen, erklären. Manche
+nambulen nämlich haben, in einzelnen Fällen, den ihnen vorge:
+führten Kranken gesagt, durch welchen ganz zufälligen la
+diese, vor langer Zeit, sich ihre Krankheit zugezogen hätten, und
+haben ihnen dadurch den fast ganz vergessenen Vorfall ins Ge⸗
+dächtniß zurückgerufen. (Beispiele dieser Art sind, in Kiesers
+Archiv Bd. 3, Stck. 3, S. 70, der Schreck vor dem 3
+2 Leiter, und, in J. Kerners Geschichte zweier Somnambulen
+S. 189, die dem Knaben gemachte Bemerkung, er gabe in frü⸗
+perer Zeit bei einer epileptischen Person gefchlafen.) Auch ge⸗
+hört hierher, daß einige Hellsehende aus einer Haarlocke, e oder
+dem getragenen Tuch eines von ihnen nie gesehenen P
+ihn und seinen Zustand richtig erkannt haben. — Also beweisen
+selbst Revelationen nicht schlechthin die wenne eines
+Ingleichen läßt sich, daß die erscheinende Gehalt eines Ver⸗
+storbenen bisweilen von zwei Personen gesehn und gehört wor⸗
+den, auf die bekannte Ansteckungs fähigkeit sowohl des So ’
+bulismus, als auch des zweiten Gesichts, zurückführen. nal
+Sonach hätten wir, unter gegenwärtiger Nummer, wenige
+stens den größten Theil der beglaubigten Erscheinungen der Ge⸗
+
+
+stalten Verstorbener in fo fern erklärt, als wir fie zurückgeführt
+haben auf einen gemeinschaftlichen Grund, die retrospektive Deu⸗
+teroskopie, welche in vielen folder Fälle, namentlich in den An⸗
+fangs aer Nummer angeführten, nicht wohl geleugnet werden
+kann. — Hingegen ist sie selbst eine höchst seltsame und uner⸗
+klärte Thatsache. Mit einer Erklärung dieser Art müssen wir
+
+
+und was damit zusammenhaͤngt. 277
+
+
+aber in manchen Dingen uns begnügen; wie denn z. B. daͤs
+
+
+ganze große Gebaͤude der Elektricitätslehre bloß aus einer Un⸗
+| terordnung mannigfaltiger Phänomene unter ein völlig unerklaͤrt
+bleibendes Urphänomen besteht.
+99 Der lebhafte und sehnsüchtige Gedanke eines Andern an
+uns vermag die Vision feiner Gestalt in unserm Gehirn zu er⸗
+regen, nicht als bloßes Phantasma, sondern fo, daß fie, lei⸗
+| haftig und von der Wirklichkeit ununterscheidbar, vor uns steht.
+| Namentlich sind es Sterbende, die dieses Vermögen äußern und
+g in der Stunde ihres Todes ihren abwesenden Freunden
+einen, sogar mehreren, an verschiedenen Orten, zugleich.
+Der Fall ist so oft und von so verschiedenen Seiten erzählt und
+2 worden, daß ich ihn unbedenklich als thatsächlich be⸗
+ndet nehme. Ein sehr artiges und von distinguirten Perso⸗
+vertretenes Beispiel findet man in Jung⸗Stillings Theorie
+er Geisterkunde §. 198. Zwei besonders frappante Fälle find
+erner die Geschichte der Frau Kahlow, im oben erwähnten Buch
+Wenzel, S. 11, und die vom Hofprediger, im ebenfalls er⸗
+ynten Buche von Hennings, S. 329. Als ein ganz neuer
+ier folgender stehn: Vor Kurzem starb, hier in Frankfurt,
+chen Hospitale, bei Nacht, eine kranke Magd. Am fol⸗
+genden Morgen ganz früh trafen ihre Schwester und ihre Nichte,
+denen die Eine hier, die Andere eine Meile von hier wohnt,
+der Herrschaft derselben ein, um nach ihr zu fragen; weil
+sie ihnen beiden in der Nacht erschienen war. Der Hospital⸗
+fieher, auf dessen Bericht diese Thatsache beruht, versicherte, daß
+Fälle öfter vorkämen. Daß eine hellsehende Somnam⸗
+bule, die während ihres am höchsten gesteigerten Hellsehns alle⸗
+Er mal in eine, dem Scheintode ähnliche Katalepsie verfiel, ihrer
+en: leibhaftig erschienen fei, berichtet die schon erwähnte
+der Auguste Müller in Karlsruhe“, und wird nach⸗
+erzählt in Kieser's Archiv, III, 3, S. 118. Eine andere ab⸗
+
+
+[S. 278]
+
+
+sichtliche Erscheinung derselben Person, wird, aus vollkommen
+glaubwürdiger Quelle, mitgetheilt in Kiesers Archiv VI, 1.
+S. 34. — Viel seltener hingegen ist es, daß Menschen, bei vol⸗
+ler Gesundheit, diese Wirkung hervorzubringen vermögen: doch
+fehlt es auch darüber nicht an glaubwürdigen Berichten. Den
+ältesten giebt St. Augustinus, zwar aus zweiter, aber, seiner
+Versicherung nach, sehr guter Hand, de eivit. Dei XVIII, 18,
+im Verfolg der Worte: Indicavit et alius se domi suse 'ete,
+Ein neuerer Fall der Art ist dem zuletzt angeführten Bericht in
+Kieser's Archiv (VI, 1. 35) beigefügt. Eine wunderbare hier⸗
+her gehörige Geschichte erzählt Jung⸗Stilling in feine The:
+der Geisterkunde, §. 101, jedoch ohne Angabe der Quelle.
+rere giebt Horst in seiner Deuteroskopie Bd. 2. Abschn. 4. 4
+Aber ein höchst merkwürdiges Beispiel der Fähigkeit zu fo
+Erscheinen, noch dazu vom Vater auf den Sohn vererbt un
+Beiden sehr häufig, auch ohne es zu beabsichtigen, ausg
+steht in Kieser's Archiv Bd. VII, H. 3, S. 158. An
+sich ein älteres, ihm ganz ähnliches, in Zeibich's „Gedanken
+von ber Erscheinung der Geiser“ 1776, S. 20, und wiederholt
+beide gewiß unabhängig von einander erzählt worden, dienen
+sie sich gegenseitig zur Bestätigung, in dieser so hoͤchst wunder⸗
+baren Sache. Auch in Nasse's Zeitschrift für Anthropologie,
+2. S. 111. wird vom Prof. Grohmann ein solcher Fall n
+theilt. Ebenfalls in Horace Welby's signs before ‘death,
+Lond. 1825 findet man einige Beispiele von Erscheinungen le⸗
+bender Menschen an Orten, wo fie nur mit ihren Gedanken ge⸗
+scheinen die von dem grundehrlichen Bende Bendsen, in Kiefe 0
+erzählten Fälle dieser Art. — Den hier in Rede
+Wachen Statt findenden Visionen entsprechen im schlasenden
+stande die sympathetischen, d. h. sich in distans
+Träume, welche demnach von Zweien zur selben Zeit und
+gleichmäßig geträumt werden. Von diesen sind die Beispiele
+kannt genug: eine gute Sammlung derselben findet man in
+Fabius de somniis &. 21, und darunter ein besonders artes,
+in holländischer Sprache erzähltes. Ferner steht in Kieser's Ar⸗
+
+
+und was damit zusammenhängt. 279
+
+
+chiv, Bd. VI, H. 2, S. 135, ein überaus merkwürdiger Auf⸗
+satz von H. M. Wesermann, der 5 Fälle berichtet, in welchen
+er absichtlich, durch seinen Willen, genau bestimmte Träume
+in Andern bewirkt hat: da nun aber, im letzten dieser Fälle, die
+betreffende Person noch nicht zu Bette gegangen war, hatte sie,
+nebst einer andern gerade bei ihr befindlichen, die beabsichtigte
+Erscheinung im Wachen und ganz wie eine Wirklichkeit. Folg⸗
+lich ist, wie in solchen Träumen, so auch in den wachenden Vi⸗
+
+
+schauung. Als Verbindungsglied beider Arten ist die oben er⸗
+wähnte von St. Augustinus mitgetheilte Geschichte zu betrachten;
+fofern daselbst dem Einen im Wachen erscheint was der Andere
+u thun bloß träumt. Zwei derselben ganz gleichartige Fälle
+findet man in Hor. Welby's sigus before death, p. 266 und
+
+p. 297; letztern aus Sinolair's invisible world entnommen.
+un. also entstehen die Visionen dieser Art, fo täuschend und
+sich auch in ihnen die erscheinende Person darstellt,
+
+s mittelst Einwirkung von außen auf die Sinne, son⸗
+
+dern vermöge einer magischen Wirkung des Willens Desjeni⸗
+gen, von dem fie ausgehn, auf den Andern, also auf das Wefen
+an sich eines fremden Organismus, der dadurch, von innen aus,
+eine Veränderung erleidet, die nunmehr, auf sein Gehirn wir⸗
+ad, daselbst das Bild des solchermaaßen Einwirkenden eben fo
+ebhaft erregt, wie eine Einwirkung mittelst der, von dessen Leibe
+auf die Augen des Andern me nenen Lichtstrahlen es nur
+
+könnte.
+
+Eiben die hier zur Sprache gebt Doppelgänger, als
+1 welchen die erscheinende Person offenkundig am Leben, aber
+abbwesend ist, auch in der Regel von ihrer Erscheinung nicht weiß,
+8 3 5 den richtigen Gesichtspunkt für die Erscheinungen Ster⸗
+und Gestorbener, also die eigentlichen Geistererscheinungen,
+
+e Hand, indem sie uns lehren, daß eine unmittelbare reale
+. wie die eines auf die Sinnen wirkenden Körpers,
+egs eine nothwendige Voraussetzung derselben sei. Gerade
+Voraus setzung aber ist der Grundfehler aller früheren Auf⸗
+der Geistererscheinungen, sowohl bei der Bestreitung, als
+4 bei der Behauptung derselben. Jene Voraussetzung beruht nun
+4 leder darauf, daß man sich auf den Standpunkt des Spiri⸗
+
+
+sionen dieser Klasse, das Traumorgan das Medium der An⸗
+
+
+tualis mus, statt auf den des Idealismus, gestellt hatte.) Je⸗
+nem nämlich gemäß gieng man aus von der völlig unberechtigten
+Annahme, daß der Mensch aus zwei grundverschiedenen Substanzen
+bestehe, einer materiellen, dem Leibe, und einer immateriellen, der
+sogenannten Seele. Nach der im Tode eingetretenen Trennung bei⸗
+der: follte nun die letztere, obwohl immateriell, einfach und unaus⸗
+gedehnt, doch noch im Raume existiren, nämlich sich bewegen, ein⸗ 6
+hergehn und dabei von außen auf die Körper und ihre Sinne ein-
+wirken, gerade wie ein Körper, und demgemäß auch eben wie ein
+solcher sich darstellen; wobei dann freilich die selbe reale Ge
+im Raume, die ein von uns gesehener Körper hat, die Bedingung
+ist. Dieser durchaus unhaltbaren, spiritualistischen Ansicht v
+Geistererscheinungen gelten alle vernünftigen 1 8
+ben und auch Kant's kritische Beleuchtung der Sache, welche
+ersten, oder theoretischen Theil feiner „Träume eines Geist
+erläutert durch Träume der Metaphysik“ ausmacht. Diese f
+tualistische Ansicht also, diese Annahme einer immateriellen und
+doch lokomotiven, imgleichen, nach Weise der Materie, auf Körpe
+mithin auch auf die Sinne wirkenden Substanz, hat man, um en.
+richtige Ansicht von allen hieher gehörigen Phänomenen zu erlangen, 1
+ganz aufzugeben und, statt ihrer, den idealistischen Standpunkt N
+gewinnen, von welchem aus man diese Dinge in ganz anderm Lichte
+erblickt und ganz andere Kriterien ihrer Möglichkeit erhält. Hiezu
+den Grund zu legen ist eben der Zweck gegenwärtiger Abhandlt
+9) Der letzte in unsere Betrachtung eingehende Fall nun wäre,
+daß die unter der vorigen Nummer beschriebene, magisch Ein⸗ „5
+wirkung auch noch nach dem Tode ausgeübt werden 3 En,
+durch dann eine eigentliche Geistererscheinung, mittelst direfter
+Einwirkung, also gewissermaaßen die würlliche, perso liche Ge⸗
+genwart eines bereits Gestorbenen, welche auch Rückwirkung auf
+ihn zuließe, Statt fände. Die Ableugnung a. priori jeder A ög
+lichkeit dieser Art und das ihr angemessene Verlachen der entge⸗
+gengesetzten Behauptung kann auf nichts Anderem beruhen, als
+auf der Ueberzeugung, daß der Tod die absolute Vernichtung
+des Menschen sei; es wäre denn, daß sie si sich auf den prote |
+tischen . Räße, nach legend nicht
+e Wengleiche el als Wille und Bersteüung “, Bd. 2. S. 18.70%
+
+
+und was damit zusammenhängt. 281
+
+
+erscheinen können, weil sie, gemäß dem während der wenigen
+Jahre des irdischen Lebens gehegten Glauben oder Unglauben,
+dem Himmel mit seinen ewigen Freuden, oder der
+e, mit ihrer ewigen Quaal, gleich nach dem Tode, auf immer
+zugefallen seien, aus beiden aber nicht zu uns heraus können;
+daher, dem protestantischen Glauben gemäß, alle dergleichen Er⸗
+en von Teufeln, oder von Engeln, nicht aber von Men⸗
+eistern, herrühren; wie dies ausführlich und gründlich aus⸗
+— hat Lavater, de spectris, Genevae 1580, pars
+II, cap. 3 et 4. Die katholische Kirche hingegen, welche schon
+Jahrhundert, namentlich durch Gregor den Großen, jenes
+und empörende Dogma, sehr einsichtsvoll, durch das zwi⸗
+jene desperate Alternative eingeschobene Purgatorium ver⸗
+t hatte, läßt die Erscheinung der in diesem vorläufig woh⸗
+en Geister, und aus nahmsweise auch anderer, zu; wie aus⸗
+ch zu ersehen aus dem bereits genannten Petrus Thyraeus,
+le eis infestis, pars I, cap. 3, sd. — Jedoch von der⸗
+8 pthologischen Ansichten absehend sagte ich oben, daß die
+] verfung a priori der Möglichkeit einer wirklichen Erschei⸗
+ing Verstorbener allein auf die Ueberzeugung, daß durch den
+tod das menschliche Wesen ganz und gar zu nichts werde, sich
+ünder könne. Denn so lange diese fehlt, ist nicht abzusehn,
+ein Wesen, das noch irgendwie existirt, nicht auch sollte
+dw e sch manifestiren und auf ein anderes, wenn gleich in
+andern Zuftande, befindliches, einwirken können. Daher
+„ cha wie naiv, daß Lukianos, nachdem er erzählt
+nokritos sich durch eine ihn zu schrecken veranstaltete
+mummerei i keinen Augenblick hatte irre machen lassen, hin⸗
+obne Beßauns. enqreus, unde cıvau Tas, H gti,
+esse animas a corpore separatas.) Philops. 32. —
+gen am Menschen, außer der Materie, noch irgend et⸗
+bares; so ist wenigstens a priori nicht einzusehn,
+welches die wundervolle Erscheinung des Lebens her⸗
+„nach Beendigung derselben, jeder Einwirkung auf die
+nden durchaus unfähig seyn sollte. Die Sache wäre
+allein a posteriori, durch die Erfahrung, zu entscheiden:
+aber ist mu so schwieriger, als, abgesehn von allen absichtlichen
+
+
+[S. 282]
+
+
+und unabsichtlichen Täuschungen der Berichterslatter, selbst die
+wirkliche Vision, in welcher ein Verstorbener sich darstellt, gar
+wohl einer der bis hieher von mir aufgezählten acht Arten an⸗
+gehören kann; daher es vielleicht sich immer fo verhalten mag. Ja,
+selbst in dem Falle, daß eine solche Erscheinung Dinge wonder
+hat, die Keiner wissen konnte; so wäre, in Folge —
+Schluß der Nr. 7 gegebenen Auseinandersetzung, Dies viell
+doch noch als die Form, welche die Revelation eines spom nen
+somnambulen Hellsehns hier angenommen hätte, auszulegen; ob
+gleich das Vorkommen eines solchen im Wachen, oder e
+mit vollkommener Erinnerung aus dem somnambulen
+wohl nicht sicher nachzuweisen ist, sondern dergleichen Offe
+rungen, so viel mir bekannt, allenfalls nur durch Trät
+kommen sind. Inzwischen kann es Umstände geben, d
+eine solche Auslegung unmöglich machen. Heut 2
+wo Dinge dieser Art mit viel mehr Unbefangenheit als jemale
+angesehn, folglich auch dreister mitgetheilt und besprochen we
+den, dürfen wir wohl hoffen, über 51 See ch
+Manche Geistergeschichten sind allerdings 0 beschaffen,
+jede anderartige Auslegung große Schwierigkeit hat; sobald
+sie nicht für gänzlich erlogen hält. Gegen dies Letzte
+spricht in vielen Fällen theils der Charakter des ursprün
+Erzählers, theils das Gepräge der Redlichkeit und A
+welches feine Darstellung trägt, mehr als Alles jedoch d
+kommene Aehnlichkeit in dem ganz eigenthümlichen "Her
+Beschaffenheit der angeblichen Erscheinungen, so w
+der auch die Zeiten und Länder liegen mögen, au
+Berichte stammen. Dieses wird am Auffaiendefen, v ö
+ganz besondere Umstände betrifft, welche erst in n
+in Folge des magnetischen Somnambulismus und
+naueren Beobachtung aller dieser Dinge, als bei 2
+weilen Statt findend, erkannt worden sind. Ein
+Art ist anzutreffen in der höͤchst verfänglichen G
+vom J. 1697, die Brierre de Boismont in seiner Ob
+erzählt: es ist der Umstand, daß dem Jünglinge der
+nes Freundes, obwohl er 1 Stunden mit ihm
+nur seiner bern Hälste nach sichtbar wär. Dieses h
+
+
+und was damit zusammenhängt. 283
+
+
+Erscheinen menschlicher Gestalten nämlich hat sich in unserer
+Zeit beftätigt, als eine bei Visionen solcher Art bisweilen
+Eigenthümlichkeit; daher auch Brierre, S. S.
+45 und 474 seines Buches, dieselbe, ohne Beziehung auf
+schichte, als ein nicht seltenes Phänomen anführt. Auch
+EN; III, 2, 139) berichtet den selben Umstand vom
+Arst, schreibt ihn jedoch dem vorgeblichen Sehn mit
+Rafenfpige zu. Demnach liefert dieser Umstand, in der oben
+en Geschichte, den Beweis, daß jener Jüngling die Er⸗
+ung wenigstens nicht erlogen hatte: dann aber ist es schwer
+e anders, als eben aus der ihm früher versprochenen und
+ei Einwirkung seines am Tage vorher, in einer
+Gegend ertrunkenen Freundes zu erklären. — Ein ande⸗
+umstand der besagten Art ist das Verschwinden der Erschei⸗
+n, sobald man die Aufmerksamkeit absichtlich auf fie heftet.
+liegt nämlich schon in der bereits oben erwähnten Stelle
+anias, über die hörbaren Erscheinungen auf dem Schlacht⸗
+Marathon, welche nur von den zufällig dort Anwesen⸗
+ncht aber von den absichtlich dazu Hingegangenen vernom⸗
+en wurden. Analoge Beobachtungen aus neuester Zeit finden
+an mehreren Stellen der Seherin von Prevorst (z. B. Bd.
+10; und S. 38.), wo es daraus erklärt wird, daß, was
+as Gangliensystem wahrgenommen wurde, vom Gehirn
+eich wieder weggestritten wird. Meiner Hppothese zufolge
+urde es aus der plötzlichen Umkehrung der Richtung der Vi⸗
+lion der Gehirnfibern zu erklären seyn. — Beiläufig will ich
+eine sehr auffallende Uebereinstimmung jener Art bemerklich
+Photius nämlich in feinem Artikel Damafeius sagt:
+. dene vg org wi h deri, zoger x Te
+Selbe, so unbegreiflich es ist, wird von der Sehe⸗
+J evorst berichtet, S. 87 der 3. Aufl. — Der Charak⸗
+
+
+und eigenthümlicher, daß der Geübte beim Lesen einer fol-
+schichre beurtheilen kann, ob fie eine erfundene, oder auch
+
+
+une
+
+
+28⁴ Versuch über Geistersehn
+
+
+auf optischer Täuschung beruhende, oder aber eine wirkliche V
+sion gewesen sei. Es ist wünschenswerth und steht zu hof
+daß wir bald eine Sammlung Chinesischer Gespe
+erhalten mögen, um zu sehn, ob sie nicht auch, im Wesentlichen,
+ganz den selben Typus und Charakter wie die unsrigen, trag ger
+und sogar in den Nebenumständen und Einzelnheiten eine große
+Uebereinstimmung zeigen; welches alsdann bei so durchg a
+Grundverschiedenheit der Sitten und Glaubenslehren, ein
+Beglaubigung des in Rede stehenden Phänomens üb
+abgeben würde. Vor der Hand mache ich in dieser
+darauf aufmerksam, daß die meisten der die Charakterist
+Geisterspuks ausmachenden Phänomene, wie sie in den
+angeführten Schriften von Hennings, Wenzel, Teller u
+sodann später von Just. Kerner, Horst und vielen andern k
+ben werden, sich schon ganz eben so finden in sehr alten B
+3. B. in dreien, mir eben vorliegenden, aus dem 16. Jab
+dert, nämlich Lavater de speetris; Thyraeus de 1
+festis, und de speetris et apparitionibus Libri du
+sind z. B. das Klopfen, das scheinbare Versuchen v
+Thüren zu forciren, auch solche, die gar nicht verschlosse
+der Knall eines sehr schweren, im Hause herabfallenden G
+tes, das lärmende Umherwerfen alles Geräthes in der
+oder des Holzes auf dem Boden, welches nachher sich ir
+ger Ruhe und Ordnung vorfindet, das Zuschlagen von
+fässern, das deutliche Vernageln eines Sarges, wann ein
+genosse sterben wird, die schlürfenden, oder tappenden
+finstern Zimmer, das Zupfen an der Bettdecke, der Mod
+das Verlangen erscheinender Geister nach Gebet, u. dg
+während nicht zu vermuthen steht, daß die, aan r
+raten Urheber der modernen Aussagen jene alten, selter „
+nischen Schriften gelesen hätten. Unter den Argumenten für die
+Wirklichkeit der Geistererscheinungen verdient auch der
+Unglaubens, in welchem die gelehrten Erzähler aus zweiter K
+sie vortragen, erwähnt zu werden; weil er, in der Re
+Gepräge des Zwanges, der Affektation und Heuchelei
+
+
+und was damit zusammenhängt. 285
+
+
+neuester Zeit aufmerksam machen, welche verdient, genauer unter⸗
+sucht und besser gekannt zu werden, als durch die aus sehr schlechter
+r geflossene Darstellung derselben in den Blättern aus Pre⸗
+8. Sammlung S. 166; nämlich theils weil die Aussagen dar⸗
+über gerichtlich protokolirt ind, und theils wegen des höchst merk⸗
+würdigen Umstandes, daß der erscheinende Geist, mehrere Nächte
+indurch, von der Person, zu der er in Beziehung stand und
+Bette er sich zeigte, nicht gesehn wurde, weil sie schlief,
+u bloß von zwei Mitgefangenen und erst späterhin auch
+selbst, die aber dann so sehr dadurch erschüttert wurde,
+aß fie, aus freien Stücken, fieben Vergiftungen eingestand. Der
+
+richt steht in einer Broschüre: „Verhandlungen des Assisen⸗
+fe in Mainz über die Giftmörderin Margaretha Jäger.“
+1835. — Die wörtliche Protokol⸗Aussage ist abgedruckt
+
+
+Ich be Aber legt — Menphysiche der Sache in Be⸗
+tung zu nehmen; da über das Physsche, hier Physiolo⸗
+
+e, bereits oben das Nöthige beigebracht worden. — Was
+; lich bei allen Visionen, d. h. Anschauungen durch Aufgehn
+umorgans im Wachen, unser Interesse erregt, ist die
+Beziehung derselben auf etwas empirisch Objektives,
+ßer uns Gelegenes und von uns Verschiedenes: denn
+b diese erhalten sie eine Analogie und gleiche Dignität
+u gewöhnlichen, wachen Sinnesanschauungen. Daher
+„von den im Obigen aufgezählten, neun möglichen Ur⸗
+olcher Visionen, nicht die drei ersten, als welche auf
+einationen hinauslaufen, interessant, wohl aber die
+Denn die Perplexität, welche der Betrachtung der
+d Geistererscheinung anhängt, entspringt eigentlich dar⸗
+bei diesen Wahrnehmungen die Gränze zwischen Sub⸗
+ind Objekt, welche die erste Bedingung aller Erkenntniß ist,
+elhaft, undeutlich, wohl gar verwischt wird. „Ist Das
+g in mir?“ frägt, — 3 schon Macbeth, als ihm ein
+chwebt, — Jeder, dem eine Vision solcher Art nicht
+heit benimmt. Hat Einer allein ein Gespenst ge⸗
+ill man es für bloß subjektiv erklären, so objektiv es
+
+
+[S. 286]
+
+
+ihm sofort die Realität eines Körpers beigelegt; weil wir näm⸗
+lich empirisch nur eine Ursache kennen, vermöge welcher mehrere
+Menschen nothwendig die selbe anschauliche Vorstellung zu glei⸗
+cher Zeit haben müssen, und diese ist, daß ein und derselbe Kör⸗
+per, das Licht nach allen Seiten reflektirend, ihrer aller Augen
+affizirt. Allein ausser dieser sehr mechanischen könnte es wohl
+noch andere Ursachen des gleichzeitigen Entstehns derselben an⸗
+schaulichen Vorstellung in verschiedenen Menschen geben. Ueber⸗
+haupt aber ist der Unterschied zwischen subjektiv und objektiv im
+Grunde kein absoluter, sondern immer noch relativ: denn g
+Objektive ist doch insofern, als es immer noch durch ein Sub:
+jekt überhaupt bedingt, ja eigentlich nur in diesem red
+wieder subjektiv; weshalb eben in letzter Instanz der Ideal
+Recht behält. Man glaubt meistens die Realität einer
+erscheinung umgestoßen zu haben, wenn man nachweist,
+subjektiv bedingt war: aber welches Gewicht kann dieses Argument
+bei Dem haben, der aus Kants Lehre weiß, wie stark der Anthell
+subjektiver Bedingungen an der Erscheinung der Körperwelt ist,
+nämlich diese, sammt dem Raum, darin sie dasteht, und der Ze
+darin fie sich bewegt, und der Kausalität, darin das Wesen d
+Materie besteht, also ihrer ganzen Form nach, bloß ein 9
+der Gehirnfunktionen ist, nachdem solche durch einen Reiz
+Nerven der Sinnesorgane angeregt worden; so daß dabei nur noc
+die Frage nach dem Ding an sich übrig bleibt. — Die ma
+rielle Wirklichkeit der auf unsere Sinne von außen wi
+Körper kommt freilich der Geistererscheinung so wenig z
+dem Traum, durch dessen Organ sie ja wahrgenommen
+daher man sie immerhin einen Traum im Wachen Ai G
+dream) nennen kann: allein im Grunde büßt sie dadurch ihre
+Realität nicht ein. Allerdings ist fie, wie der Traum, eine
+blosse Vorstellung und als solche nur im erkennenden Bewußt
+seyn vorhanden: aber das Selbe läßt sich von unserer
+Außenwelt behaupten; da auch diese zunächst und u m
+uns nur als Vorstellung gegeben und, wie gesagt, ein
+durch Nervenreiz erregtes und den Gesetzen subjektiver 8
+nen (Formen der reinen Sinnlichkeit und des Verstandes)
+entstandenes Gehirnphänomen ist. Verlangt man eine an -
+tige Realität derselben; so ist dies schon die Frage nach m
+
+
+und was damit zusammenhängt. 287
+
+
+Ding an sich, welche von Locke aufgeworfen und voreilig erle⸗
+digt, dann aber von Kant in ihrer ganzen Schwierigkeit nach⸗
+gewiesen, ja als unlösbar aufgegeben, von mir jedoch, wiewohl
+unter einer gewissen Restriktion, beantwortet worden ist. Wie
+aber jedenfalls das Ding an sich, welches in der Erscheinung
+einer Außenwelt sich manifestirt, toto genere von ihr verschie⸗
+den ist; so mag es sich mit Dem, was in der Geistererscheinung
+
+„analog verhalten, ja, was in Beiden sich kund
+
+
+5 giebt vielleicht am Ende das Selbe seyn, nämlich Wille. Die⸗
+
+
+ser Ansicht entsprechend finden wir, daß es, hinsichtlich der ob⸗
+jektiven Realität, wie der Körperwelt, so auch der Geistererschei⸗
+nungen, einen Realismus, einen Idealismus und einen Skepti⸗
+giebt, endlich aber auch einen Kriticismus, in dessen
+wir eben jetzt beschäftigt sind. Ja, eine ausdrückliche
+derselben Ansicht giebt sogar folgender Ausspruch der
+en und am sorgfältigsten beobachteten Geisterseherin,
+der von Prevorst (Bd. 1. S. 12.): „ob die Geister sich
+„mur unter dieser Gestalt sichtbar machen können, oder ob mein
+Aug — unter dieser Gestalt sehn und mein Sinn sie nur
+auffassen kann; ob sie für ein geistigeres Auge nicht geisti⸗
+e wire, Das kann ich nicht mit Bestimmtheit behaupten,
+er ahnde es fast.“ Ist dies nicht ganz analog der Kantischen
+e: „was die Dinge an sich selbst seyn mögen, wissen wir
+1014 e Dämonologie und Geisterkunde des Alterthums und
+Nittela lers, wie auch ihre damit zusammenhängende Ansicht
+ie, hat zur Grundlage den noch unangefochten dastehen⸗
+lismus, der endlich durch Cartesius erschüttert
+rde. Erst der in der neueren Zeit allmälig herangereifte
+Idealismus führt uns auf den Standpunkt, von welchem aus
+wir übe r auch über Visionen und Geister⸗
+erscheinungen, ein richtiges Urtheil erlangen können. Zugleich
+drerseits, auf dem empirischen Wege, der animalische Mag⸗
+is die zu allen frühern Zeiten in Dunkel gehüllte und
+uchtsam versteckende Magie an das Licht des Tages gezo⸗
+8 d eben so die Geistererscheinungen zum Gegenstand nüch⸗
+w orschender Beobachtung und unbefangener Beurtheilung ge⸗
+mach Das Letzte in allen Dingen fällt immer der Philosophie
+
+
+men, folglich aus Gehirnfunktionen entspringen. D er au
+
+
+[S. 288]
+
+
+anheim, und ich hoffe, daß die meinige, wie sie aus der
+gen Realität und Allmacht des Willens in der Natur die
+gie wenigstens als möglich denkbar und, wenn vorhanden, als
+begreiflich dargestellt hat,“) so auch, durch entschiedene Ueber⸗
+antwortung der objektiven Welt an die Idealität, selbst über
+Visionen und ene einer — eng;
+Der entschiedene Unglaube; mit — —
+den Menschen einerseits die Thatsachen des Hellsehns, andrerseils
+des magischen, vulgo magnetischen Einflusses zuerst vernommen
+werden, und der nur spät der eigenen Erfahrung, oder hunder⸗
+ten glaubwürdigster Zeugnisse weicht, beruht auf einem u 1
+selben Grunde: nämlich darauf, daß — 5
+bewußten Gesetzen des Raumes, der Zeit und der Kausalitat,
+wie sie in ihrem Kompler den Hergang möglicher Erfahrung
+beftimmen, zuwiderlaufen, — das Hellsehn mit feinem Erkennen
+in distans, die Magie mit ihrem Wirken in distans) Daher
+wird, bei der Erzählung dahin gehöriger Thatsachen, nicht bloß
+gesagt „es ist nicht wahr,“ sondern „es ist nicht möglich“ (a non
+posse ad non esse), andrerseits jedoch erwidert „es ist abe 1
+(ab esse ad posse). Dieser Widerstreit beruht nun dar
+ja, liefert sogar wieder einen Beweis dafür, daß jene von uns
+a priori erkannten Gesetze keine schlechthin unbedingte, keine scho⸗
+lastische veritates aeternae, keine Bestimmung der Dinge
+sich find; sondern aus bloßen Anschauungs⸗ und Verste
+
+
+sen bestehende Intellekt selbst aber ist bloß zum Behuf des Ver⸗
+
+folgens und Erreichens der Zwecke individueller Wil
+
+nungen, nicht aber des Auffassens der absoluten Best
+der Dinge an sich selbst entstanden; weshalb er, wie ich
+a. W. u. V. Bd. 2. S. S. 177, 273, 285 — 289) darg
+habe, eine blosse Flächenkraft ist, die wesentlich und u
+nur die Schaale, nie das Innere der Dinge trifft. D
+Stellen lese nach wer recht verstehn will was ich hier n
+
+Gelingt es uns nun aber ein Mal, weil doch au
+selbst zum innern Wesen deen eg 9
+
+
+ö *) Siehe „über den Willen in ber Aatur“ die 1
+mus und Magie.“
+
+
+und was damit zufammenhängt. 289
+
+
+principii individuationis, den Dingen von einer ganz andern
+Seite und auf einem ganz andern Wege, nämlich geradezu von
+innen, statt bloß von aussen, beizukommen, und so uns derselben,
+im Hellsehn erkennend, in der Magie wirkend, zu bemächtigen;
+dann entsteht, eben für jene cerebrale Erkenntniß, ein Resultat,
+welches auf ihrem eigenen Wege zu erreichen wirklich unmöglich
+war; daher sie darauf besteht, es in Abrede zu stellen: denn eine
+Leitung solcher Art ist nur metaphysisch begreiflich, physisch ist fie
+eine Unmöglichkeit. Diesem zufolge ist andrerseits das Hellsehn
+deine Bestätigung der Kantischen Lehre von der Idealität des Rau⸗
+mes, der Zeit und der Kausalität, die Magie aber überdies auch
+igen von der alleinigen Realität des Willens, als des
+us aller Dinge: hiedurch nun wieder wird auch noch der
+konische Ausspruch, daß die Magie die praktische Metaphysik
+Erinnern wir uns jetzt nochmals der weiter oben gegebenen
+nandersetzungen und der daselbst aufgestellten physiologischen
+fe, welchen zufolge sämmtliche durch das Traumorgan
+Anschauungen von der gewöhnlichen, den wachen Zu⸗
+begründenden, Wahrnehmung sich dadurch unterscheiden,
+2 letzteren das Gehirn von aussen, durch eine physische
+irkung auf die Sinne erregt wird, wodurch es zugleich die
+1 erhält, nach welchen es, mittelft Anwendung feiner Funk⸗
+— Kausalität, Zeit und Raum, die empirische An⸗
+g zu Stande bringt; während hingegen bei der Anschauung
+das Traumorgan die Erregung vom Innern des Organis⸗
+8 ag und vom plastischen Nervensystem aus sich in das
+fortpflanzt, welches dadurch zu einer der erstern ganz
+ichen Anschauung veranlaßt wird, bei der jedoch, weil die
+g dazu von der entgegengesetzten Seite kommt, also auch
+gengesetzter Richtung geschieht, anzunehmen ist, daß auch die
+Schwingungen, oder überhaupt innern Bewegungen der Gehirn⸗
+fibern, in umgekehrter Richtung erfolgen und demnach erst am
+de sich auf die Sinnesnerven erstrecken, welche also hier das
+1 Thätigkeit Versetzte find, statt daß fie, bei der gewöhn⸗
+nschauung, zuallererst erregt werden. Soll nun, — wie
+äumen, prophetischen Visionen und Geistererscheinungen
+men wird, — eine nne dieser Art . sich auf
+
+
+[S. 290]
+
+
+etwas wirklich Aeußeres, empirisch Vorhandenes, also vom Sub⸗
+jekt ganz Unabhängiges beziehn, welches demnach in sofern durch fie
+erkannt würde; so muß dasselbe mit dem Innern des Organis⸗
+mus, von welchem aus die Anschauung erregt wird, in irgend
+eine Kommunikation getreten seyn. Dennoch läßt eine solche sich
+empirisch durchaus nicht nachweisen, ja, da sie, vorausgesetzter⸗
+weise, nicht eine räumliche, von außen kommende seyn soll, so
+ft fie empirisch, d. h. physisch nicht ein Mal denkbar. Wenn sie
+also doch Statt hat; fo muß dies nur metaphysisch zu verstehn
+und sie demnach zu denken seyn als eine unabhängig von der
+Erscheinung und allen ihren Gesetzen, im Dinge an sich, welches,
+als das innere Wesen der Dinge, der Erscheinung derselben
+überall zum Grunde liegt, vor sich gehende und nachher an der
+Erscheinung wahrnehmbare: — eine solche nun ist es, die man
+unter dem Namen einer magischen Einwirkung versteht.
+Frägt man, welches der Weg der magischen Waime er |
+gleichen uns in der sympathetischen Kur, wie auch in dem Ein⸗
+fluß des entfernten Magnetiseurs gegeben ist, sei; so sage ich;
+es ist der Weg, den das Insekt zurücklegt, das hier stirbt und
+aus jedem Ei, welches überwintert hat, wieder in voller Leben
+digkeit hervorgeht. Es ist der Weg, auf welchem es g
+daß, in einer gegebenen Volksmenge, nach außerordentlicher V
+mehrung der Sterbefälle, auch die Geburten sich vermehren.
+ist der Weg, der nicht am Gängelbande der Kausa
+
+
+Wir nun aber wissen aus meiner Philosophie, d
+Ding an sich, also auch das innere Wesen des De
+Wille ift, und daß der ganze Organismus eines Jed
+er sich empirisch darstellt, bloß die Objektivation delaben, a
+das im Gehirn entstehende Bild dieses seines Willens if
+Wille als Ding an sich liegt aber außerhalb des prin
+viduationis (Zeit und Raum), durch welches die
+gesondert find: die durch dasselbe entstehenden Schrai
+also für ihn nicht da. Hieraus erklärt sich, so rn
+dieses Gebiet betreten, noch unsere Einsicht aachen Aa
+Möglichkeit unmittelbarer Einwirkung der Individuen g
+ander, unabhängig von ibrer Nähe oder Ferne im Re um
+sich in 5 oben aufgezählten neun Arten d
+
+
+und was damit zufommenhängt. 291
+
+
+Anschauung durch das Traumorgan, und öfter in der schlafenden,
+„ faktisch kund giebt; und eben so erklärt sich, aus dieser unmittel-
+baren, im Wesen an sich der Dinge gegründeten Kommunikation,
+die Möglichkeit des Wahrträumens, des Bewußtwerdens der
+nächsten Umgebung im Somnambulismus und endlich die des
+Hellsehns. Indem der Wille des Einen, durch keine Schranken
+der Individuation gehemmt, also unmittelbar und in distans,
+auf den Willen des Andern wirkt, hat er eben damit auf den
+Organismus desselben, als welcher nur dessen räumlich angeschau⸗
+ter Wille selbst ist, eingewirkt. Wenn nun eine solche, auf die⸗
+sem Wege, das Innere des Organismus treffende Einwirkung
+sich auf dessen Lenker und Vorstand, das Gangliensystem, erstreckt,
+und dann von diesem aus, mittelst Durchbrechung der Isolation,
+sich bis ins Gehirn fortpflanzt; so kann sie von diesem doch immer
+nur auf Gehirnweise verarbeitet werden, d. h. sie wird Anschau⸗
+ungen hervorbringen, denen vollkommen gleich, welche auf äußere
+Anregung der Sinne entstehn, also Bilder im Raum, nach dessen
+drei Dimensionen, mit Bewegung in der Zeit, gemäß dem Ge⸗
+der Kausalität u. s. w.: denn die einen wie die andern
+ud eben Produkte der anschauenden Gehirnfunktion, und das
+kann immer nur seine eigene Sprache reden. Inzwischen
+— Einwirkung jener Art noch immer den Charakter, das
+zus, ihres Ursprungs, also Desjenigen, von dem fie aus⸗
+gegangen ist, an sich tragen und dieses demnach der Gestalt, die
+h fo weitem Umwege, im Gehirn hervorruft, aufdrücken,
+1 erschieden ihr Wesen an sich auch von dieser seyn mag.
+Wirkt z. B. ein Sterbender durch starke Sehnsucht, oder sonstige
+0 sintention, auf einen Entfernten; so wird, wenn die Ein⸗
+. energisch ist, die Gestalt desselben sich im Gehirn
+dern darstellen, d. h. ganz so wie ein Körper in der
+b lichtet ihm erscheinen. Offenbar aber wird eine solche,
+urch das Innere des Organismus geschehende Einwirkung
+a en fremdes Gehirn leichter, wenn dieses schläft, als wenn
+es wacht, Statt haben; weil im erstern Fall die Fibern desselben
+gar keine, im letztern eine der, die sie jetzt annehmen sollen, ent⸗
+este Bewegung haben. Demnach wird eine schwächere
+ng der in Rede stehenden Art sich bloß im Schlase
+n können, durch Erregung . Wachen
+
+
+292 i Versuch über Geistersehn
+
+
+aber allenfalls Gedanken, Empfindungen und Unruhe erregen;
+jedoch Alles immer noch ihrem Ursprunge gemäß und dessen Ge⸗
+präge tragend: daher kann sie z. B. einen unerklärlichen, aber
+unwiderstehlichen Trieb, oder Zug, Den, von dem sie ausgegan⸗
+
+
+gen ist, aufzusuchen, hervorbringen; und eben so, umgekehrt,
+Den, der kommen will, durch den Wunsch ihn nicht zu sehn,
+
+
+noch von der Schwelle des Hauses wieder zurückscheuchen, selbst
+
+
+wenn er gerufen und bestellt war (experto erede Roberto).
+
+
+Auf dieser Einwirkung, deren Grund die Identität des Dinges
+an sich in allen Erscheinungen ist, beruht auch die faktisch er⸗
+kannte Kontagiosität der Visionen, des zweiten Gesichts und des
+Geistersehns, welche eine Wirkung hervorbringt, die im Resultat
+derjenigen gleich kommt, welche ein körperliches Objekt auf die
+Sinne mehrerer Individuen zugleich ausübt, indem auch in Folge
+jener Mehrere zugleich das Selbe sehn, welches alsdann sich ganz
+objektiv konstituirt. Auf derselben direkten Einwirkung berußt
+auch die oft bemerkte unmittelbare Mittheilung der Gedanken,
+die so gewiß ist, daß ich Dem, der ein wichtiges und gefährliches
+Geheimniß zu bewahren hat, anrathe, mit Dem, der es nicht
+wissen darf, über die ganze Angelegenheit, auf die es sich bezieht,
+niemals zu sprechen; weil er, während Dessen, das wahre Sach⸗
+verhältniß unvermeidlich in Gedanken haben müßte, wodurch dem
+
+
+Andern plötzlich ein Licht aufgehn kann; indem es eine Mitthei⸗
+
+
+lung giebt, vor der weder Verschwiegenheit, noch Verstellung
+
+schützt. Göthe erzählt (in den Erläuterungen zum W. O. Divan,
+
+Rubrik „Blumenwechsel“), daß zwei liebende Paare, auf einer
+
+Lustfahrt begriffen, einander Charaden aufgaben: „gar bald wir
+
+„nicht nur eine jede, wie sie vom Munde kommt, sogleich
+
+„then, sondern zuletzt sogar das Wort, das der —
+
+„und eben zum Worträthsel umbilden will, durch die
+
+
+Wirthin in Mailand, vor langen Jahren, fragte mich, in
+
+sehr animirten Gespräche, an der Abendtafel, welches die d
+
+Nummern wären, die sie als Terne in der Lotterie belegt
+
+ohne mich zu besinnen, nannte ich die erste und die —
+
+tig, dann aber, durch ihren Jubel stutzig geworden, gleichsam
+
+aufgeweckt und nun reflektirend, die dritte fal.
+Da nun andrerseits für uns fest steht, daß der Wille, fo
+
+
+und was damit zufammenhängt. 293
+
+
+fern er Ding an sich ist, durch den Tod nicht zerstört und ver⸗
+nichtet wird; so läßt sich a priori nicht geradezu die Möglichkeit
+ableugnen, daß eine magische Wirkung der oben beschriebenen
+Art, nicht auch sollte von einem bereits Gestorbenen ausgehn
+können. Eben so wenig jedoch läßt eine solche Möglichkeit sich
+deutlich absehn und daher positiv behaupten; indem sie, wenn
+auch im Allgemeinen nicht undenkbar, doch, bei näherer Betrach⸗
+tung, großen Schwierigkeiten unterworfen ist, die ich jetzt kurz
+angeben will. — Da wir das im Tode unversehrt gebliebene
+innere Wesen des Menschen uns zu denken haben, als außer der
+Zeit und dem Raume eristirend; fo könnte eine Einwirkung
+desselben auf uns Lebende nur unter sehr vielen Vermittelungen,
+die alle auf unsrer Seite lägen, Statt finden; so daß schwer
+auszumachen seyn würde, wie viel davon wirklich von dem Ver⸗
+storbenen ausgegangen wäre. Denn eine derartige Einwirkung
+hätte nicht nur zuvörderst in die Anschauungsformen des sie
+wahrnehmenden Subjekts einzugehn, mithin sich darzustellen als
+ein Räumliches, Zeitliches und nach dem Kausalgesetz materiell
+Wirkendes; sondern sie müßte überdies auch noch in den Zusam⸗
+
+menhang seines begrifflichen Denkens treten, indem er sonst nicht
+wissen würde, was er daraus zu machen hat, der ihm Erschei⸗
+nende aber nicht bloß gesehn, sondern auch in seinen Absichten und
+den diesen entsprechenden Einwirkungen einigermaaßen verstanden
+will: demnach hätte dieser sich auch noch den befchränften
+_ Anfihten und Vorurtheilen des Subjekts, betreffend das Ganze
+der Dinge und der Welt, zu fügen und anzuschließen. Aber noch
+yr! Nicht allein zufolge meiner ganzen bisherigen Darftellung
+erden die Geister durch das Traumorgan und in Folge einer
+innen aus an das Gehirn gelangenden Einwirkung, statt
+RR öhnlichen von aussen durch die Sinne, gesehn; sondern
+— die objektive Realität der erscheinenden Geister fest ver⸗
+J. Kerner sagt das Selbe, in seiner oft wiederholten
+ö g/ daß die Geister „nicht mit dem leiblichen, sondern
+N ud ben geistigen Auge gesehn werden.“ Obwohl demnach durch
+innere, aus dem Wesen an sich der Dinge entsprungene,
+£& also magische, Einwirkung auf den Organismus, welche sich mit⸗
+telst des Ganglienspstems bis zum Gehirn fortpflanzt, zu Wege
+acht, wird die Geistererscheinung doch aufgefaßt nach Weise
+
+
+[S. 294]
+
+
+der von aussen, mittelst Licht, Luft, Schall, Stoß und Duft auf
+uns wirkenden Gegenstände. Welche Veränderung müßte nicht
+die angenommene Einwirkung eines Gestorbenen bei einer solchen
+Uebersetzung, einem so totalen Metaschematismus, zu erleiden
+haben! Wie aber läßt sich nun gar noch annehmen, daß dabei
+und auf solchen Umwegen noch ein wirklicher Dialog mit Rede
+und Gegenrede Statt haben könne; wie er doch oft berichtet wird!
+— Beiläufig sei hier noch angemerkt, daß das Lächerliche, welches,
+so gut wie andrerseits das Grausenhaste, jeder Behauptung ei⸗
+ner gehabten Erscheinung dieser Art, mehr oder weniger, anklebt
+und wegen dessen man zaudert sie mitzutheilen, daraus entsteht,
+daß der Erzähler spricht wie von einer Wahrnehmung durch die
+äußern Sinne, welche aber gewiß nicht vorhanden war, schon
+weil sonst ein Geist stets von allen Anwesenden auf gleiche
+Weise gesehn und vernommen werden müßte; eine in Folge in⸗
+nerer Einwirkung entstandene, bloß scheinbar äußere Wahrneh⸗
+mung aber von der bloßen Phantasterei zu unterscheiden, nicht
+die Sache eines Jeden ist. — Dies also wären, bei der An⸗
+nahme einer wirklichen Geistererscheinung, die auf der Seite des
+sie wahrnehmenden Subjekts liegenden Schwierigkeiten. Andere
+wieder liegen auf der Seite des angenommenermaaßen einwir⸗
+kenden Verstorbenen. Meiner Lehre zufolge hat allein der Wille
+eine metaphysische Wesenheit, vermöge welcher er durch den Tod
+unzerstörbar ist; der Intellekt hingegen ist, als Funktion eines
+körperlichen Organs, bloß physisch und geht mit demselben
+Daher ist die Art und Weise, wie ein en
+Lebenden noch Kenntniß erlangen follte, um solcher gemaͤß
+sie zu wirken, höchst problematisch. Nicht weniger ist e
+Art dieses Wirkens selbst; da er mit der beitlichkit alle ge-
+wöhnlichen, d. i. physischen, Mittel der Einwirkung auf Andere,
+wie auf die Körperwelt überhaupt, verloren hat. Wollen wir
+dennoch den von so vielen und so verschiedenen Seiten f
+und betheuerten Vorfällen, die entschieden eine objektive Einwi
+kung Verstorbener anzeigen, einige Wahrheit einräumen; fo:
+müßten wir uns die Sache so erklären, daß in solchen Fallen
+der Wille des Verstorbenen noch immer leidenschaftlich auf — 4
+irdischen Angelegenheiten gerichtet wäre und nun, in Ermang
+lung aller physischen Mittel zur Einwirkung auf dieselben, jetzt
+
+
+und was damit zusammenhaͤngt. 295
+
+
+seine Zuflucht nähme zu der ihm in seiner ursprünglichen, also
+metaphysischen Eigenschaft, mithin im Tode, wie im Leben, zu⸗
+stehenden magischen Gewalt, die ich oben berührt und über
+Magnetismus und Magie“ meine Gedanken ausführlicher darge⸗
+Nur vermöge dieser magischen Gewalt also könnte
+
+er allenfalls selbst noch jetzt was er möglicherweise auch im Le⸗
+ben gekonnt, nämlich wirkliche actio in distans, ohne körper⸗
+liche Beihülfe, ausüben und demnach auf Andere direkt, ohne
+alle physische Vermittelung, einwirken, indem er ihren Organis⸗
+mus in der Art affizirte, daß ihrem Gehirne sich Gestalten an⸗
+schaulich darstellen müßten, wie sie sonst nur in Folge äußerer
+Einwirkung auf die Sinne von demselben producirt werden. Ja,
+da diese Einwirkung nur als eine magische, d. h. als durch das
+innere, in Allem identische Wesen der Dinge, also durch die na-
+tura naturans, zu vollbringende denkbar ist; so könnten wir,
+wenn die Ehre achtungswerther Berichterstatter dadurch allein
+zu retten wäre, allenfalls noch den verfänglichen Schritt wagen,
+4 diese Einwirkung nicht auf menschliche Organismen zu beschrän⸗
+ken, sondern sie auch auf leblose, also unorganische Körper, die
+ee durch sie bewegt werden könnten, als nicht durchaus
+und schlechterdings unmöglich einzuräumen; um nämlich der
+deten, zu entgehn, gewisse hochbetheuerte Geschichten,
+der Art wie die des Hofrath Hahn in der Seherin von Pre⸗
+eil diese keineswegs isolirt dasteht, sondern manches ihr
+äh onliche Gegenstück in älteren Schriften, ja, auch in neue⸗
+i ionen, aufzuweisen hat, geradezu der Lüge zu bezüchti⸗
+ings aber gränzt hier die m. ans Absurde: dam
+
+
+N agnetis mus) also legitim enen wird, bietet bis jetzt
+eine solche Wirkung allenfalls nur ein schwaches und auch
+bezweifelndes Analogon dar, nämlich die in den 7
+aus dem Schlafleben der Auguste æ .
+0 en wiederholt gelungen fei, durch ihren
+ohne allen Gebrauch der Hände, die Magnet⸗
+r dargelegte Ansicht des in Rede stehenden Problem
+
+
+[S. 296]
+
+
+erklärt zuvörderst, warum, wenn wir eine wirkliche Einwirkung
+Gestorbener auf die Welt der Lebenden auch als möglich zuge⸗
+ben wollen, eine solche doch nur überaus selten und ganz aus⸗
+nahmsweise Statt haben könnte; weil ihre Möglichkeit an alle
+die angegebenen, nicht leicht zusammen eintretenden Bedingungen
+geknüpft wäre. Ferner geht aus dieser Ansicht hervor, daß,
+wenn wir die in der Seherin von Prevorst und den ihr ver⸗
+wandten Kernerschen Schriften, als den ausführlichsten und be⸗
+glaubigtesten, gedruckt vorliegenden Geisterseherberichten, erzähl⸗
+ten Thatsachen nicht entweder für rein subjektiv, bloße aegri
+somnia, erklären, noch auch uns mit der oben dargelegten An⸗
+nahme einer retrospective second sight, zu deren dum
+shew (stummer Prozession) die Seherin aus eigenen Mitteln
+den Dialog gefügt hätte, begnügen, sondern eine wirkliche Ein⸗
+wirkung Gestorbener der Sache zum Grunde legen wollen;
+dennoch die so empörend absurde, ja niederträchtig dumme Welt⸗
+ordnung, die aus den Angaben

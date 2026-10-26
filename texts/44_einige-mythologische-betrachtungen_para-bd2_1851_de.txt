@@ -1,0 +1,298 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Einige mythologische Betrachtungen (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Some mythological reflections - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 336-344. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "Kapitel XVII. Einige mythologifhe Betrachtungen. $. 196."; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (88 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XVII. Einige mythologifhe Betrachtungen. $. 196. Es m", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 196 to § 204, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (3 made, S. 338 to S. 342); the chapter's range by the volume's own heads is S. 336-344.]
+
+Kapitel XVII.
+Einige mythologifhe Betrachtungen.
+
+
+$. 196.
+
+Es mag eine Folge der Urverwandbtichaft aller Wesen bie
+fer Erfcheinungswelt, mittelft ihrer Einheit im Dinge an fid,
+feun; jedenfalls ift es Thatfache, daß fie sämmtlich einen Ahnli-
+hen Typus tragen und gewisse Gesetze sich als bie jelben bei
+allen geltend machen, wenn nur allgemein genug gefaßt, Hier
+aus wird es erflärlih, dag man nicht nur die heterogenften
+Dinge an einander erläutern, oder veranfchaulichen kann, fondern
+auch treffende Alfegorien felbft in Darftellungen findet, bei denen
+fie nicht beabfichtigt waren. Einen auserlefenen Beleg biezu
+giebt Göthe's unvergleichlih fchönes Mährchen von der grünen
+Schlange u. f. w. Jeder Lefer fühlt fich faft nothgedrungen, eine
+allegorifche Deutung dazu zu fuchen; daher diefes auch gleid
+nah dem Erfcheinen deflelben, von Bielen, mit großem Ernft
+und Eifer und auf die verjchiedenfte Weife ausgeführt wurde,
+zur großen Beluftigung des Dichters, der feine Allegorie dabei
+im Sinne gehabt Hatte. Man findet den Bericht hierüber in
+den „Studien zu Göthe's Werfen”, 1849, von Düntzel: mir
+war es überdies durch perfönliche, von Göthen ausgehende Mit-
+theifungen, schon längst befannt. — Diefer univerfellen Analogie
+und typifchen Identität der Dinge verdankt die Aesopische Fabel
+ihren Urfprung, und auf ihr beruht es, daß das Hiftorifche alle-
+gorifch, das Allegorifche Hiftorifch werden kann.
+
+Mehr als alles Andere jedoch hat von jeher die Mythologie
+der Griechen Stoff zu allegorifchen Auslegungen gegeben; weil
+fie dazu einladet, indem fie Schemata zur Veranschaulichung faft
+jedes Grundgebanfens Liefert, ja, gewissermaaßen bie Urtypen
+
+
+Einige mythologische Vetrachtungen. 337
+
+
+aller Dinge und Verhältnisse enthält, welche, eben als solche,
+immer und überall durchscheinen. Daher wurden schon in den
+ältesten Zeiten, ja, schon vom Hesiodus selbst, jene Mythen alle—
+gorisch aufgefaßt. So z. B. ist es eben nur moralische Allegorie,
+wenn er (Theog. v. 211f.f.) die Kinder der Nacht und bald
+darauf (B. 226f.f.) die Kinder der Eris aufzählt, welche näm-
+ich find: Anftrengung, Schaden *), Hunger, Schmerz, Kampf,
+Mord, Zanf, Lügen, Unrechtlichfeit, Unheil und der Eid. Phy-
+fiiche Allegorie nun wieder ift feine Darftellung der perfonifizir-
+ten Nacht und Tag, Schlaf und Tod (VB. 746765).
+
+Auch für jedes Eosmologifche, und felbft jedes metaphysische
+System wird fih, aus dem angegebenen Grunde, eine in ber
+Mythologie vorhandene Allegorie finden lassen. Weberhaupt ha—
+ben wir die meiften Mythen als den Ausdrud mehr bloß geahn-
+beter, als deutlich gebachter Wahrheiten anzufehn. Hingegen das
+von Greuzer, mit unendliher Breite und marternder Weit-
+schweifigkeit ausgeführte, ernfle und penible Auslegen der My-
+thologie, ald des Depofitoriums absichtlich darin niebergelegter
+physischer und metaphysischer Wahrheiten, muß ich mit der Ab-
+weifung des Ariftoteles abfertigen: a/Ax rregı uev Twv uvdrws
+vopıLlousvwov ovx akıov era onovdns oxorıeıy (sed ea, quae
+mythice blaterantur, non est operae pretium serio et ac-
+curate considerare). Metaph. II, A. Uebrigens aber zeigt
+Ariftoteled fih auch Hierin ald den Antipoden Plato's, welcher
+ich gern mit ben. Mythen, jedoch auf dem allegorifchen Wege,
+u thun madt. —
+
+Sn dem oben bargelegten Sinne also mögen die folgenden,
+son mir versuchten, allegorischen Deutungen einiger Griechischer
+Mythen: genommen werben.
+
+$. 197.
+
+In den erften, großen Grundzügen des Göttersystems kann
+nan eine Alfegorie der oberften ontologifchen und kosmologischen
+Brineipien erbliden. — Uranos ift der Raum, bie erfte Be—
+ingung alles Dafeyenden, alfo der erste Erzeuger, mit der Gäa,
+ver Trägerin der Dinge. — Kronos ift die Zeit. Er ent-
+nannt das zeugende Princip: die Zeit vernichtet jede Zeugungs-
+
+
+*) Sch lese nämlich, nach eigener Konjeftur, ftatt Ay9Inw, Außıw.
+ul. 22
+
+ [S. 338]
+
+
+kraft; oder genauer: bie Fähigkeit der Erzeugung neuer For—
+men, die Urerzeugung der Iebenden Gefchlechter, hört, nach ber
+erften Weltperiode, auf. — Zeus, welcher der Freßgier feines
+Baterd entzogen wird, ift die Materie: fie allein entgeht ber,
+alfes Andere vernichtenden Gewalt der Zeit: fie beharrt. Aus
+ihr aber gehn alle Dinge hervor: Zeus ift Vater der Götter
+und Menschen.
+
+Nun etwas näher: Uranos läßt die Kinder, melde er
+mit der Erde erzeugt hat, nicht an’s Licht, fondern verbirgt fie
+in die Tiefen der Erbe (Hes. Theog. 156 89q.). Dies läßt
+sich deuten auf bie erften thierifchen Erzeugnifle der Natur, bie
+und nur im foffilen Zuflande zu Gesichte kommen. Eben fo wohl
+aber fann man in ben Knochen der Megatherien und Mafto-
+donten die vom Zeus in die Unterwelt binabgefchleuderten Gi⸗
+ganten sehn; — Hat man ja noch im vorigen Jahrhundert bie
+Knochen der gefallenen Engel darin erfennen wollen. — Wirk:
+lich aber feheint der Theogonie des Hesiodus ein dunkler Begriff
+von den erften Veränderungen ber Erbfugel und dem Kampfe
+zwifchen der orybirten, Tebendfähigen Oberfläche und ben burd
+fie ind Innere gebannten, unbändigen, die orybablen Stoffe bes
+herrfchenden Naturfräften zum Grunde zu Liegen.
+
+Kronos nun ferner, der verfchmigte, ayavAounımns, ent
+mannt den Uranos, dur Til. Dies läßt sich deuten: die Alles
+befchleichende Zeit, welche mit Allem fertig wird, und uns Eines
+nad) dem Andern heimlich entwendet, nahm endlich auch dem
+Himmel, der mit der Erbe zeugte, d. i. der Natur, bie Kraft,
+neue Geftalten urfprünglich hervorzubringen. Die aber be-
+reits erzeugten beftehn fort, in der Zeit, ald Speried. Kro—
+nos jedoch verichlingt feine eigenen Kinder: — die Zeit, ba fie
+nicht mehr Gattungen bervorbringt, fondern bloß Individuen
+zu Tage fördert, gebiert nur fterbliche Wesen. Zeus allein
+entgeht diefem Schidjal: die Materie beharrt: — zugleich aber
+auch: Helden und Weife find unfterblih. Der nähere Hergang
+des Obigen ift nun no dieser. Nachdem Himmel und Erbe,
+d. i. die Natur, ihre Urzeugungsfraft, welche neue Geftalten
+lieferte, verloren haben, verwandelt diefelbe fih in die Aphror
+bite, welde nämlih aus dem Schaum der ind Meer gefallenen
+abgeschnittenen Genitalien des Uranos entfteht und eben die ge-
+
+
+Einige mythologische Betrachtungen. 339
+
+
+schlechtliche Zeugung bloßer Individuen, zur Erhaltung ber
+
+vorhandenen Species, ist; da jest Feine neue mehr entftehn fün-
+
+nen. Als Begleiter und Helfer der Aphrodite fommen, zu dies
+
+fem Zweck, Eros und Himeros hervor (Theog. 173 — 201).
+&. 198.
+
+Der Zufammenhang, ja, die Einheit ber menfchlichen mit
+ber thierifchen und ganzen übrigen Natur, mithin des Mifrofos-
+mos mit dem Mafrofosmos, fpricht aus der geheimnißvollen,
+rätbfelfchwangern Sphinr, aus den Kentauren, aus ber Ephe-
+fiihen Artemis mit den, unter ihren zahlfofen Brüften ange-
+brachten, mannigfaltigen Thiergeftalten, eben wie aus den Ae-
+gyptifchen Menfchenkörpern mit Thierföpfen und dem indifchen
+Ganefa.
+
+$. 199.
+
+Die Zapetiden ftellen vier Grundeigenschaften des mensch—
+Iihen Charafters, nebft den ihnen beigegebenen Leiden bar. At-
+las, der Geduldige, muß tragen. Menötius, der Tapfere,
+wird überwältigt und ind Verderben geftürzt. Prometheus,
+der Bedächtige und Kluge, wird gefeflelt, d. H. in feiner Wirf-
+famfeit gehemmt, und der Geier, d. i. die Sorge, zernagt ihm
+das Herz. Den Epimetheug, den Gedanfenlofen, Unüberlegten,
+fraft feine eigene Thorheit.
+
+Ym Prometheus ift ganz eigentlih die menschliche
+Borforge yerfonifizirt, dad Denfen an morgen, weldes ber
+Mensch vor dem Thiere voraushat. Darum hat Prometheus
+Reiffagungsgabe: fie bebeutet bad Vermögen ber bebädhtigen
+Vorherfehung. Darum auch verleiht er dem Menfchen den Ges
+brauch des Feuers, den Fein Thier hat, und legt den Grund zu
+den Künften bes Lebend. Aber dieses Privilegium der Vor—
+forge muß ber Menfch büßen durch die unabläffige Duaal der
+Sorge, bie ebenfalls Fein Thier Fennt: fie ift der Geier, wel-
+der an ber Leber des angefchmiebeten Prometheus zehrt. — Epi-
+metheus, der wohl nachträglich, als Korollarium, hinzuerfunden
+feyn wird, repräfentirt die Nachsorge, den Lohn des Leichtfinns
+und der Gedanfenlofigkeit.
+
+Eine ganz anderartige, nämlich eine metaphysische, jeboch
+finnreiche Deutung des Prometheus giebt Plotinus (Enn. IV,
+1.1, 0.14). Da. ift Prometheus die Weltfeele, macht Men-
+
+22"
+
+ [S. 340]
+
+
+fchen, geräth dadurch felbft in Banden, die nur ein Herkules lö⸗
+fen fann, u. f. w.
+
+Den Kirchenfeinden unferer Zeit nun wieder würde folgende
+Deutung zufagen: der IZooumdevs dsouwems ift bie von ben
+Götiern (der Religion) gefeflelte Bernunft: nur durch den Sturz
+des Zeus kann fie befreiet werben.
+
+
+| $. 200.
+
+Die Fabel von der Pandora ift mir von jeher nicht Far
+gewefen, ja, ungereimt und verfehrt vorgefommen. Ich ver-
+mutbe, daß fie schon vom Hefiodus felbft mißverfianden und ver-
+dreht worden ift. Nicht alle Uebel, fondern alle Güter der Welt
+hat die Pandora, wie es schon ihr Name anzeigt, in der Büchse.
+Als Epimetheus diefe voreilig öffnet, fliegen die Güter auf und
+davon: die Hoffnung allein wird noch gerettet und bleibt ung
+zurüd. — Endlich habe ich denn die Befriedigung gehabt, ein
+Paar Stellen der Alten zu finden, welche dieser meiner Anficht
+gemäß find, nämlid ein Epigramm in der Anthologie (Delectus
+epigr. graec. ed. Jacobs, cap. VII, ep. 84) und eine dafelbft
+eitirte Stelle des Babrius, melde gleih anhebt: Zeus ev ud
+a Äonore nievre ovAlskag,
+
+
+$. 201.
+
+Das befondere Epitheton Ayvpmvor, welches Hefiodus, an
+zwei Stellen der Theogonie (v. 275 et 518), den Hesperiden
+beifegt, hat, zufammengenommen mit ihrem Namen und ihrem fo
+weit nad) Abend Hin verlegten Aufenthalt, mich auf den allerdings
+feltfamen Gedanken gebracht, ob nicht irgendwie unter ben Hes—
+periden Fledermäuse gedacht worden feien. Jenes Epitbeton
+nämlich entfpricht fehr gut dem furzen, pfeifenden Ton diefer
+Thiere, welche überdies paflender Eorregudes, ald vurzegides hei-
+fen würden, ba fie viel mehr Abends, als Nachts fliegen, indem
+fie auf Insektenfang ausgehn, und Zorsgıdss geradezu das la—
+teinifhe vespertiliones ift. Sch habe daher den Einfall nicht
+unterdrüden wollen, da es möglich wäre, bag, hiedurch aufmerf-
+sam gemacht, Jemand noch etwas zur Beftätigung beffelben fände.
+Sind doch die Cherubim geflügelte Ochfen; warum follten die
+Hesperiden nicht Fledermäuse feyn?
+
+
+Einige mythologifche Betrachtungen. 341
+
+
+$. 202.
+
+Daß die Eule der Vogel der Athene ift, mag die nächtli—
+
+hen Studien der Gelehrten zum Anlaß haben.
+$. 203.
+
+Es ift nicht ohne Grund und Sinn, daß der Mythos den
+Kronos Steine verfhlingen und verbauen Yäßt: denn das fonft
+ganz Unverdaulihe, alle Betrübniß, Aerger, Berluft, Kränfung,
+verbaut allein die Zeit.
+
+$. 204.
+
+So ftehe denn bier zum Schluffe noch meine fehr fubtile und
+höchst feltfame allegorifhe Deutung eines befannten, befonders
+durch Apuleius verherrlihten Mythos; obwohl fie, ihres Stoffes
+halber, dem Spotte aller Derer bloß Tiegt, die dag du sublime
+au ridicule il n’y a qu’un pas fi dabei zu Nutze machen
+wollen.
+
+Vom Gipfelpunfte meiner Philofophie, welcher befanntlich
+ber asketische Standpunft ist, aus gefehn, foncentrirt die Beja-
+hung des Willens zum Leben fih im Zeugungsaft und die—
+fer ift ihr entichiedenfter Ausdrud. Die Bedeutung diefer Be-
+jahung nun aber ift eigentlich diese, daß der Wille, welcher ur-
+fprünglich erfenntnißlos, aljo ein blinder Drang ift, nachdem
+ihm, durch die Welt ald Vorftellung, die Erfenntniß feines ei-
+genen Wesens aufgegangen und geworden ift, hiedurch in feinem
+Wollen und feiner Sucht fih nicht flören oder hemmen Yäßt,
+fondern nunmehr, bewußt und befonnen, eben Das will, was
+er bis dahin als erfenntnißlofer Trieb und Drang gewollt hat.
+(Siehe Welt ad W. u. DB. Bd. 1. $. 54). Diefem gemäß
+nun finden wir, daß ber, durch freimillige Keufchheit, das Leben
+asfetifh Berneinende von dem, durch Zeugungsafte, baffelbe
+Bejahenden empirisch dadurch sich unterfcheidet, daß bei Jenem
+ohne Erkenntniß und als blinde, phyfiologiihe Funktion, nämlich
+im Schlafe, Das vor fi geht, was von Diefem mit Bewußt-
+feyn und Befonnenheit vollbracht wird, aljo beim Lichte der Er-
+fenntniß gefhieht. Nun ift es in der That sehr merkwürdig,
+dag dieses abftrafte und dem Geifte der Griechen keineswegs
+verwandte Philofophem, nebft dem es belegenden empirifchen
+Hergang, feine genaue allegoriihe Darftellung hat an der fchö-
+nen Fabel von der Psyche, welche den Amor nur ohne ihn zu
+
+ [S. 342]
+
+
+fehn genießen follte, jedoch, damit nicht zufrieden, ihn, aller
+Warnungen ungeachtet, durchaus auch fehn gewollt hat, wodurch
+fie, nad) einem unabwendbaren Ausspruch geheimnißvoller Mächte,
+in gränzenlofes Elend gerieth, weldes nur durch eine Wande—
+rung in bie Unterwelt, nebft schweren Leiftungen bafelbft, abge
+büßt werden konnte.

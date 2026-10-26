@@ -1,0 +1,3667 @@
+# TIER 1 PRIMARY (published work) | German original, collected edition of 1877 | a readable printing of the collected edition, 1877
+# title: Zur Philosophie und Wissenschaft der Natur (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On philosophy and the science of nature - the English title is this collection's rendering
+# year: 1877 printing of a work first published 1851
+# edition: Arthur Schopenhauer's saemmtliche Werke: Parerga und Paralipomena, zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), in the arrangement made by Julius Frauenstaedt; this layer does not state which edition it is, so none is claimed. Chapter VI of this volume, pages 108-189, sections 72-103 by ITS OWN numbering - which runs one ahead of the 1851 first edition, verified at six points by matching opening sentences (see the file header). Text layer scored 10.9 common words per hundred by bin/ia-read.js: readable, but it prints f for the long s, f for k and j for i here and there.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/arthurschopenha01schogoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 13, which got the FRONT of Parerga - lost in the 1851 scan, whose display headings are shredded across its first 169 pages (GAP-4) - by turning to a LATER printing whose OCR is clean. Two things to keep straight when quoting these files: the text-state is 1877, not 1851, being Frauenstaedt's arrangement and a later text; and the paragraph numbers run one ahead, so "§ 62" here is "§ 61" in the first edition. Where the same chapter exists in both printings (file 63 beside file 53) the collection holds two witnesses and says which it used. The largest of the recovered chapters, and the one a RAG collection will most often want when it asks what he made of natural science: his reading of the empirical sciences of his day, with the standing claim that his metaphysics alone meets the sciences at a common point - the claim he had already made on the title page of On the Will in Nature (files 58, 59).
+
+[Note of this collection, not part of the print: this chapter comes from the READABLE printing in Arthur Schopenhauer's saemmtliche Werke, "Parerga und Paralipomena" zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), NOT from the 1851 first edition. That is a decision with two consequences, both recorded here rather than hidden. (1) The text is the collected edition as Julius Frauenstaedt arranged it, and this printing is dated 1877 on its title page, three years after his death; the layer does not give the edition number, so none is claimed. It is a LATER text-state than files 27 and 30-52: a quotation from these files is quoted as 1877, not as 1851, and its chapter numbers follow this edition's contents, which differ from the 1851 print's. (2) ITS PARAGRAPH NUMBERS RUN ONE AHEAD of the 1851 print - verified at six points, and at each the opening sentence is the same text, so the pairing is not guessed: Dinges an sich 1851 § 61 / here § 62 (the opening sentence being identical in both, which is what proves the pairing); Pantheismus 1851 § 68 / here § 69; Farbenlehre 1851 § 103 / here § 104; Ethik 1851 § 108 / here § 109; Nichtigkeit 1851 § 142 / here § 143; Selbstmord 1851 § 157 / here § 158. Below § 61 the two printings were not compared when this note was written, so the shift is asserted only where it was verified. Anyone citing a paragraph number must say which printing it came from. This volume's own table of contents gives the chapter as Kapitel VI on pages 108-189, and its opening paragraphs as § 72; the copy's heading in this layer reads "ller Intellekt ſeyn muß. Diefer ift ebenfalls fein Produkt. 8. 72. Statt, wie die Engländer, an den Werken ber Na" - the OCR mangles the word Kapitel now and one numeral, so the number is taken from the volume's contents, not from the heading's letters. Page markers: 0 made from the volume's GENERAL running head ("Schopenhauer, Parerga. II. 12" and its garbled twins - the OCR spoils that title differently on every page, which is why it was once thrown out as a junk line and why repetition could not identify it), recovered only where the number continues the sequence within twelve pages and falls inside the contents range for this chapter (none), plus 1 from heads naming this chapter (S. 165 to S. 165). Both are recovered, neither is estimated: where the OCR lost a head there is no marker. WHAT WAS TRIED AND DECLINED, pass 18: the general head was measured before it was trusted - only 8 lines in the whole 34,746 still spell 'Parerga', and loosening the test to mere shape (a short line with a comma, ending in a figure) turns up a handful per chapter whose numbers fall OUTSIDE the pages the contents give for that chapter, so they are furniture from another gathering, not this chapter's pages. The general head is therefore recorded as NO DATA, and these files are cited by chapter, by their own paragraph numbers, and by the few chapter heads that survived. Short OCR noise lines were dropped (76); the long s is normalised to s (1114 here), and this layer also prints f for k and j for i now and then, so read a quotation against the scan.]
+
+lekt seyn
+muß. Diefer ift ebenfalls fein Produkt.
+
+
+Statt, wie die Engländer, an den Werken ber Natur und
+der funfttriebe, die Weisheit Gottes zu demonftriren, follte man
+daraus verftehen Iernen, daß Alles, was burd) das Medium ber
+VBorftellung, alfo des Intellefts, und wäre diefer ein bis zur
+Vernunft gefteigerter, zu Stande kommt, bloße Stümperei iit
+gegen ba8 vom Willen, af$ dem Ding an fidj, unmittelbar Aus⸗
+gehende und durch Feine Vorftellung VBermittelte, dergleichen bie
+Werke der Natur find. Dies ijt das Thema meiner Abhandlung
+. „über den Willen in der Natur”, bie ich daher meinen Lefern
+nicht genug empfehlen Tann: in ihr findet man deutlicher ale
+irgendwo ben eigentlihen Brennpunkt meiner Lehre dargelegt.
+
+
+Wenn man betrachtet, wie die Natur, während fie um bic
+Individuen wenig beforgt ift, mit fo übertriebener Sorgfalt über
+die Erhaltung der Gattungen wacht, mittefjt der Allgewalt des
+Geschlechtstriebes und vermöge des unberechenbaren Ueberschusses
+der Keime, welcher, bei Pflanzen, Fischen, Infelten, das Inbi-
+pibuum oft mit mehreren Hunderttaufenden zu erfegen bereit ijt;
+
+
+Zur Philosophie und Wiffenfchaft ber Natur. 109
+
+
+fo fommt man auf die Vermuthung, daß, wie ber Natur bie
+Hervorbringung des Individui ein Leichtes ift, fo die urfprüng-
+[ide Hervorbringung einer Gattung ihr äußerst [der werde,
+Demgemäß jen wir diefe nie neu entftehn: felbft bie generatio
+aequivoca, wenn fie Statt hat (weldyes, zumal bei Epizoen und
+überhaupt SBarafiten, nicht wohl zu bezweifeln ijt), bringt bod)
+nur befannte Gattungen hervor: unb bie höchst wenigen unter-
+gegangenen Species der jebt die Erde bevölfernden Fauna, 3. 39.
+die des Vogels Dudu (Didus ineptus), vermag die Natur, ob:
+wohl fie in ihrem Plane gelegen haben, nicht wieder zu erjsgen;
+— daher wir ftehn und uns wundern, daß c8 unferer Gier ge-
+lungen ijt, ihr einen jofdjen Streich zu fpielen.
+
+
+In bem leudjtenben Urnebel, aus welchem, nad) Laplace'scher
+Kosmogonie, bie bis zum Neptun reichende Sonne beftand,
+lonntet bie chemifchen Urstoffe nod) nicht actu, fondern bloß
+potentia vorhanden feyn: aber das erfte und urfprüngliche Aus-
+einandertreten der Materie, in Hhdrogen unb Orhgen, Schwefel
+unb Kohle, Azot, Chlor u. f. m. wie aud) in die verichiedenen,
+einander jo ähnlichen und bod) (darf gejonberten Metalle, —
+war das erfte Anfchlagen des* Grunbadorbé der Welt.
+
+Uebrigens muthmaaße id), daß alle Metalle die Verbindung
+zweier uns nod) unbefannter, abfoluter Urftoffe find und bloß
+durh das verhältnigmäßige Ouantum beider fid) unterfcheiden,
+worauf aud) ihr eleftrifcher Gegenjag beruht, nad) einem Gejebe,
+denjenigen analog, in Folge deffen das Oxygen ber Basis eines
+Salzes zu feinem Radikal in umgefehrtem Verhältniffe desjeni-
+gen fteht, welches Beide in ber Säure desselben Salzes zu ein-
+ander haben. Wenn man die Metalle in jene Beftandtheile zu
+jerjegen vermöcte; fo würde man wahrjcheinlich fie aud) machen
+fönnen. Da aber ift der Niegel vorgefchoben.
+
+
+Unter philofophifch rohen Leuten, denen alle Die beizuzählen
+find, welche bie Kantische Philofophie nicht ftudirt haben, folglich
+unter den meilten Ausländern, nicht weniger unter vielen heuti⸗
+gm Medicinern u. dgl. in Deutfchland, welche getroft auf ber
+
+
+110 Zur Philosophie unb Wissenschaft ber Natur.
+
+
+Grundlage ihres Katechismus philofophiren, befteht nod) ber alte,
+grundfalfche Gegenfag zwifchen Geift und Materie. Bejon-
+ber8 aber haben die Hegelianer, in Folge ihrer ausgezeichneten
+Unwiffenheit und philofophifchen Nohheit, ihn, unter dem, aus
+ber vorfantifchen Zeit wieder hervorgeholten, Namen „Geift unb
+Natur“, von Neuem in Gang gebradjt, unter mefdjem fie ihn
+ganz naid auftifhen, als hätte e8 nie einen Kant gegeben und
+giengen wir noch, mit Allongenperüden geziert, zwischen gejcho-
+venen Heden umher, indem wir, wie Leibnig im Garten zu
+und Hofdamen philofophirten, über „Geist nnd Natur”, unter
+fegterer bie gefchorenen Heden, unter erfterem den Inhalt der
+Perücken verftehend. — Unter Vorausfegung diefes falfchen Gegen:
+íate8 giebt e8 dann Spiritualiften und Materialiften. Letztere
+behaupten, die Materie bringe, durch ihre Form unb Mifchung,
+Alles, folglich auch das Denken und Wollen im Menschen Der-
+vor; worüber denn bie Erftern Jeter fchreien, u. f. w.
+
+In Wahrheit aber giebt c8 weder Geijt, noch Materie,
+wohl aber viel Unfinn und Hirngefpinnfte in der Welt. Das
+Streben der Schwere im Steine ift gerade fo unerklärlich, wie
+das Denken im menfchlichen Gehirne, würde alfo, aus biejem
+Grunde, aud) auf einen Geift im^ Steine fchließen lassen. Ic
+würde daher zu jenen Disputanten fagen: ihr glaubt eine tobte,
+b. B. vollfommen pajfive und eigenfchaftslofe Materie zu erfen-
+nen, weil ihr alles Das wirklich zu verftehn wähnt, was ihr
+auf mechanische Wirkung zurüdzuführen vermögt. Aber wie
+bie physikalischen und demijden Wirkungen euch eingeftändfich
+unbegreiflich find, jo lange ihr fie nidt auf mechanische zurüd-
+zuführen wißt; gerade fo find biefe mehanifchen Wirkungen
+jelbft, alfo bie 9leuBerungen, welche aus ber Schwere, ber Uns
+durhdringlichkeit, der Kohäfton, der Härte, der Starrheit, ber
+Clafticität, ber Fluidität, u. |. w. hervorgebn, eben jo geheim-
+nißvoll, wie jene, ja, wie das Denken im Menfchenfopf. Kann
+die Materie, ihr wißt nit warum, zur Erde fallen: (o fann
+fie auch, ihr wißt nit warum, benfen. Das wirffid) rein und
+durch und durch, bi$ auf das Lebte, Berftändliche in der Mechanik
+geht nicht weiter, als das rein Mathematische in jeder Erklä⸗
+rung, ijt afjo bejchränft auf Beftimmungen des Raumes unb
+
+
+Zur Philofophie unb Wissenschaft ber Natur. 111
+
+
+ber Zeit. Nun find aber diefe Beiden, sammt ihrer ganzen
+Gejebfid)feit, uns a priori bewußt, find daher bloße Formen
+unfers Erfennens, und gehören ganz allein unferen Vorftellungen
+an. Ihre Beitimmungen find afjo im Grunde fubjeftio und
+betreffen nicht das rein Objektive, ba$ von unferer Erfenntnig
+Unabhängige, das Ding am fid) selbst. Sobald wir aber, felbft
+in der Mechanik, weiter gehn, als das rein Mathematifche,
+fobald wir zur Undurdpdringlichkeit, zur Schwere, zur Starrheit,
+oder Fluidität, oder Gafeität, fommen, ftehn wir jchon bei Aeuße:
+rungen, die uns eben fo geheimmißvoll find, wie das Denken und
+Wollen des Dienfchen, alfo beim bireft Unergründlichen: denn
+ein folches ijt jede 9taturfraft. Wo bleibt nun afjo jene Materie,
+bie ihr fo intim fennt und verfteht, daß ihr Alles aus ihr ere
+fíüren, Alles auf fie zurüdführen wollt? — Rein begreiffid) und
+ganz ergründlich ijt immer nur das Mathematifche; weil e8 das
+im Subjelt, in unjerm eigenen Vorjtellungsapparat, Wurzelnde
+ijt: fobald aber etwas eigentlich Objektives auftritt, etwas nicht
+a priori Beitimmbares; ba ijt es aud) fofort in Letter Inftanz
+ımergrüändliih. Was überhaupt Sinne und Verftand wahrnehmen,
+ijt eine ganz oberflächliche Erfcheinung, bie ba8 wahre unb. innere
+Wesen der Dinge unberührt läßt. Das wollte Kant. Nehmt ihr
+nun im Deenjchentopfe, als Deum ex machina, einen Geift an;
+fo müßt ihr, wie gejagt, audj jedem Stein einen Geift zugeftehn.
+Kann hingegen eure tobte und rein paffive Materie als Schwere
+ftreben, oder, als Gíeftricitüt, anziehn, abftoßen und Funken fchla-
+gen; fo fann fie aud) a[8 Gehirnbrei denten. Kurz, jedem angebr-
+fien Geift fann man Materie, aber aud) jeder Materie Geift
+unterlegen; woraus fid) ergiebt, daß der Gegenjat faljd) ijt.
+
+Alfo nicht jene Kartefianifche Gintbeilung aller Dinge in
+Geijt und Materie ift die pbilojopDijd) richtige; fondern bie in
+Wille und VBorftellung ijt es: bieje aber geht mit jener feinen
+Schritt parallel. Denn fie vergeiftigt Alles, indem fie einer
+seits aud) das dort ganz Neale und Objektive, den Körper, bie
+Materie, in bie Vorftellung verlegt, und andrerfeits das
+Wesen an fid) einer jeden Erscheinung auf Willen zurüdführt.
+
+Den Urfprung der Vorftellung der Materie überhaupt, als
+des objektiven, aber ganz eigenjdjaftélojen Trägers aller Eigen:
+schaften, habe ish zuerft in meinem Hauptwerfe Bd. 1. 8. 4 und
+
+
+112 Zur Bhilofophie unb Wissenschaft ber Natur.
+
+
+dann, deutlicher und genauer, in ber zweiten Auflage meiner Al-
+handlung über den Sat vom Grunde, 8. 21, ©. 77 (3. Auf.
+©. 82), dargelegt und erinnere hier daran, damit man bieje neie
+und meiner Philofopie wefentliche Lehre nie aus den Augen be
+(iere. — ene Materie ijt demnach nur bie objeftibirte, b. D. nah
+außen projicirte Verftandesfunction ber Kaufalität felbit, al’o
+das objektiv Hypoftafirte Wirken überhaupt, ohne nähere Be—
+jtimmung feiner Art und Weife. Demzufolge giebt, bei der ob-
+jeftiven Auffaffung der Körperwelt, der Intellekt die fämmtlichen
+Formen derjelben aus eigenen Mitteln, nämlich Zeit, Raum
+und Raufalität, und mit diefer auch den Begriff der abftraft ge-
+dachten, eigenschafts- und formlofen Materie, die als foldje in
+der Erfahrung gar nidt vorfommen fan. Sobald nun aber
+der Intelleft, mittelft diefer Formen und in ihnen, einen (ftets
+nur von ber Sinnesempfindung ausgehenden) realen Gehalt, b. D.
+etwas von feinen eigenen Erfenntnißformen Unabhängiges spürt,
+welches nicht im Wirken überhaupt, fondern in einer be-
+jtimmten Wirkungsart fid) fund giebt; fo ijt e8 Dies, was er
+als Körper, b. D. als geformte und fpecifiih beftimmte Materie
+(e&t, melde aljo als ein von feinen Formen Unabhängiges aufs
+tritt, b. 5. als ein durchaus SObjeftioe8. Hiebei hat man fi
+aber zu erinnern, daß die empirisch gegebene Materie fid) überall
+nur burd) die in ihr fid) äußernden Kräfte manifeftirt; wie aud)
+umgelehrt jede Kraft immer nur als einer Materie inhärirend
+erfannt wird: Beide zufammen maden ben empirisch realen
+‚Körper aus. Alles empirifc Reale behält jebod) transfcendentale
+Idealität. Das in einem foldhen empiri[d) gegebenen Körper,
+alfo in jeder Erfcheinung, jid) darftellende Ding an fid) felbft,
+babe id als Willen nadjgemiejen. Nehmen wir nun wieder
+diefes zum Ausgangspunkt; jo ift, mie id) e8 öfter ausgefprochen
+habe, die Materie uns die bloße Sichtbarkeit des Willens,
+nicht aber biejer felbit: demnach gehört fie bem bloß Formellen
+unferer Vorftellung, nicht aber dem Ding an fid, an. Diesem—
+gemäß eben müfjen wir fie al8 form- und eigenfchaftslos, abfolut
+träge unb pajfio denken; können fie jedoch nur in abstracto alfo
+benfen: denn empirisch gegeben ift die bloße Staterie, ohne Form
+und Qualität, nie. Wie e8 aber nur eine Materie giebt, bie,
+unter den mannigfaltigften Formen und Accidenzien auftretend,
+
+
+Zur Philofophie unb Wissenschaft ber Natur. 113
+
+
+bj bie fefbe ift; fo ift aud) ber Wille in allen Erfcheinungen
+zuletzt Einer unb derfelbe.
+
+Dem Obigen zufolge muß unferm, an feine Formen gebun-
+denen und von Haus aus nur zum Dienft eines individuellen
+Vllens, nicht zur objektiven Erfenntniß des Wesens der Dinge,
+beftimmten Intelleft Das, woraus alle Dinge werben und hervor-
+sehn, eben als bie Materie erjcheinen, b. B. als Das Reale über-
+haupt, das Raum und Zeit Erfüllende, unter allem Wechfel ber
+Suafitüten und Formen Beharrende, welches das gemeinfame Sub-
+trat aller Anfhauungen, jebod) für jid) allein nicht anjdjaubar
+it; wobei denn, was diefe Materie an fid) jefbjt seyn möge,
+zunächst unb unmittelbar unausgemacht bleibt. Verfteht man nun
+unter dem jo viel gebraudjten Ausdrud Abfolutum Das, was
+nie ent[tanben seyn, nod) jemals vergehn Tann, woraus hingegen
+Alles, was eriftirt, befteht und geworden ift; jo Dat man dafjelbe
+nicht in imaginären Räumen zu suchen; fondern es ijt ganz Har,
+daß jenen Anforderungen bie Materie gänzlich entspricht. —
+Nachdem mm Kant gezeigt Hatte, daß die Körper bloße Erschei—
+nungen feien, ihr Wefen an fid) aber unerfennbar bliebe, bin ich
+dennoch dahin burdjgebrungen, diefes Wesen als identifch mit Dem,
+was wir in unferm Selbftbewußtfeyn unmittelbar als Willen er»
+femen, nachzuweifen. Ich Habe demnah (Welt a. 28. u. 8.
+dd. 2. Rap. 24) die Materie dargelegt als die bloße Sichtbar-
+teit des Willens. Da num ferner bei mir jede Naturfraft Er-
+scheinung des Willens ift; fo folgt, bag feine Kraft ohne mate-
+rielles Subftrat auftreten, mithin aud) feine Kraftäußerung ohne
+irgend eine materielle Veränderung vor fid) gehn kann. Dies
+ftimmt zu der Behauptung des Zoochemikers Liebig, daß jede
+Muskelaktion, ja jeder Gedanke im Gehirn, von einer chemischen
+Stoffumfeung begleitet fer müffe. Wir haben hiebet jedoch immer
+feftzubalten, daß wir anbrerfeit& die Materie stets nur burd) bie
+in ihr fid) manifeftirenden Kräfte empirifch erfennen. Sie ift eben
+mr bie Manifeftation diefer Kräfte überhaupt, d. D. in ab-
+stracto, im Allgemeinen. An fid ijt fie bie Sichtbarkeit des
+Billens,
+
+
+Wenn wir ganz einfadje Wirkungen, bie mir im Kleinen
+lefu vor Augen Haben, einmal in fofoffafer Größe zu fehn
+
+
+114 Zur Philosophie und Wiffenfchaft ber Natur.
+
+
+Gelegenheit finden; fo iff uns der Anbli neu, intereffant unb
+befehrend; weil wir ev(t jest von ben in ihnen fid) äufßernden
+Naturfräften eine angemeffene Vorftellung erhalten. Beifpiele
+diefer Art find Mondfinfterniffe, Feuersbrünfte, große Wasserfälle,
+das Oeffnen der Kanäle im Innern des Berges bei C. Feriol,
+welche den Languedofer Kanal mit Waffer verfehn, das Getüm-
+mel unb Gebrünge der Eisfchollen beim Aufgehn eines Stroms,
+ein Schiff, ba8 vom Stapel gelafjen wird, jogar nod) ein etwan
+200 Ellen langer, gefpannter Strid, welder fajt in einem
+Augenblid, feiner ganzen Länge nad), aus dem Waller gezogen
+wird, wie Dies beim Schiffeziehn vorfommt, u. dgl. m. Was
+würde e8 erjt fjeyn, menn wir das Wirken der Gravitation,
+welches wir nur aus einem fo höchst einfeitigen 3Serfültnijje, wie
+die irdiihe Schwere ift, anfchaulich fennen, ein Mal in feiner
+Thätigfeit im Großen, amijden den Weltförpern, unmittelbar
+anjdjaufid) überjehn fünnten und vor Augen hätten
+„wie fie fpielen
+nach den Iodenben Zielen‘.
+
+
+Gmpiri[d) im engern Gimme iff die Grfenntnig, welche bei
+den Wirkungen ftehen bleibt, ohne bie Urfachen erreichen zu
+fünnen. Zum praftifchen Behuf reicht fie oft aus, 4. B. in der -
+Therapie. — Die Possen ber Naturphilofophen aus der Schel-
+Iingifhen Schule einerfeits und die Erfolge der Empirie andrer-
+feit& haben bei Vielen eine solche Syftems- und Theorie» Scheu
+bewirkt, daß fie die Fortfchritte der Phyfit ganz von den Händen,
+ohne Zuthun des Kopfs, erwarten, alfo am liebften bloß experi-
+mentiren möchten, ohne irgend etwas dabei zu denken. Sie
+meynen, ihr physikalischer oder chemischer Apparat folle ftatt ihrer
+benfen und folle felbft, in der Sprache bloßer Experimente, bie
+Wahrheit ausfagen. Zu diefem mede werden nun die Experi-
+mente ins Unendlide gehäuft und in benjelbem wieder bie Be—⸗
+dingungen, fo daß mit lauter höchst Fompflicirten, ja, endlich mit
+ganz vertradten Experimenten operirt wird, alfo mit foldhen, bie
+nimmermehr ein reines und entjchiedenes Refultat liefern fünnen,
+jebod) al8 der Natur angelegte Daumfchrauben wirken follen, um
+fie zu zwingen jelbft zu reden; während ber ächte und felbft-
+
+
+| Zur Philosophie und Wissenschaft ber Natur. 115
+
+
+Wnfenbe Forscher feine Experimente möglichft einfach einrichtet,
+um die deutliche Ausfage der Natur rein zu vernehmen unb ba:
+md) zu urtheilen: denn die Natur tritt [tet& nur al8 Zeuge auf.
+Beifpiele zu dem Gefagten liefert vorzüglich der ganze chromato-
+lgifhe Theil ber SOptif mit Einfchluß der Theorie ber phyfio-
+gifhen Farben, wie folder von Franzofen unb Deutschen in
+den fegten 20 Jahren behandelt worden.
+
+Ueberhaupt aber wird zur Entdedung der midtigften
+Wahrheiten nicht die Beobachtung der feltenen und verborgenen,
+nur. burd) Experimente darftellbaren Erfcheinungen führen; jon-
+(rm bie ber offen daliegenden, Jedem zugänglichen Phänomene.
+Daher ijt die Aufgabe nicht sowohl, zu fehn was nod Keiner
+gefehn Hat, als, bei Dem, was Jeder fieht, zu denken, was nod)
+feiner gedacht Hat. Darum aud) gehört fo fehr viel mehr dazu,
+ein Bhilofoph, als ein Physiker zu seyn.
+
+
+Für das Gehör ijt der Unterfchied der Töne, in Hinficht
+auf Höhe und Tiefe, ein qualitativer: die Physik führt ihn
+jebod) auf einen bloß quantitativen zuräd, nämlich auf den
+ber fchnellern, ober langfamern Vibration; wobei fif demnad)
+Alles aus bloß mehanifher Wirksamkeit exffürt. Daher eben
+läuft in ber Musik nicht nur das rhythmische Element, der Saft,
+jondern auch ba$ harmonische, bie Höhe und Tiefe ber Töne,
+auf Bewegung, folglih auf bloßes Zeitmaaß und demnach auf
+Zahlen zurüd.
+
+Hier ergiebt nun die Analogie eine ftarke Präfumtion für
+die Locke'sche Naturanfiht, bag nämlich Alles, was wir, mittelft
+der Sinne, an den Körpern als Dualität wahrnehmen (Locke's
+jefundäre Qualitäten), an fid) nichts weiter fel, als Ver⸗
+Ihiedenheit des Duantitativen, nümfidj bloßes Refultat ber
+ünburd)bringlidfeit, der Größe, ber Worm, ber Ruhe oder Be-
+wegung und Zahl der kleinsten Theile; weld Eigenfchaften
+?ode als die allein objektiv wirklichen beftehn läßt unb demnad)
+ließe fid) nun Diefes bloß barum geradezu nadjmeijen, weil hier
+das Erperiment jede Vergrößerung erlaubt, indem man nümlid)
+lange und bide Saiten fohwingen lüft, deren fangíame Vibra⸗
+
+
+116 Zur Philosophie und Wissenschaft ber Natur.
+
+
+tionen fid zählen fajjen: e8 verhielte fid) jedoch mit allen Dua-
+Titäten eben fo. Daher wurde e8 3unüdjt auf das idt über-
+tragen, be[jen Wirkung und Färbung aus den Vibrationen eines
+völlig imaginären Aethers abgeleitet und fehr genau beredjnet
+wird; welche, mit unerhörter Dreiftigfeit vorgetragene, Toloffale
+Auffchneiderei und Narrenspoffe befonders von den Unwiffendeften
+der Gelehrtenrepublif mit einer jo finbfiden Zuversicht und
+Sicherheit nachgesprochen wird, daß man benfen follte, fie hätten
+den Wether, feine Schwingungen, Atome und was fonft für
+Possen feyn mögen, wirklich gefehn unb in Händen gehabt. —
+Aus diefer Anfiht würden jid) dann Folgerungen zu Gunften ber
+Atomiftit ergeben, wie fie bejonber8 in Frankreich Herrfcht, aber
+aud) in Deutfchland um fid) greift, nachdem schon die chemische
+Stöchiometrie be8 Berzelius ihr Vorschub geleiftet hat. (Pouil-
+let I, p. 23.) Auf bie Widerlegung der Atomiftif bier aus-
+füprfid) einzugehn, wäre überflüffig; da fie höchstens für eine
+unerwiefene Hhpothefe gelten Tann.
+
+Giu Atom, fo Kein e8 aud) seyn mag, ift doch immer Kon⸗
+tinuum ununterbrochener. Materie: fünnt ihr ein solches end,
+Hein benfen; warum denn nicht groß? wozu dann aber die
+Atome? Die djemijdjen Atome find bloß ber Ausdrud ber be-
+ftändigen feften Verbältniffe, in denen die Stoffe (i mit ein-
+ander verbinden, welchem Ausdrud, da er in Zahlen gegeben
+werden mußte, man eine beliebig angenommene Einheit, das
+Gewicht des Quantums Qrygen, mit dem [fid jeder Stoff ver-
+bindet, zum Grunde gelegt hat: für diefe Gewichtsverhältniffe
+hat man aber, höchst unglüdlicher Weife, den alten Ausdrud
+Atom gewählt; unb hieraus ijt unter den Händen der franzöfi-
+iden Chemiker, die ihre Chemie, fonft aber nichts gelernt
+haben, eine frojje Atomiftit erwachlen, welde bie Sade als
+Ernjt nimmt, jene bloßen Recenpfennige als wirflihe Atome
+bypoftafirt und nun von der Zufammenftellung (arrangement)
+berfelben in einem Körper fo, im Andern anders, ganz in ‘Demo-
+krits Weife redet, um daraus deren Qualitäten und Verschieden⸗
+heiten zu erklären; ohne irgend eine Ahndung von ber Abfur-
+dbität ber Cade zu haben. Daß es in Deutjchlaud nidt an
+unmijjenben Apothefern fehlt, bie aud) „das Katheder zieren‘
+und jenen nachtreten, verfteht fid) von felbft, und darf e8 une
+
+
+Zur Philofephie und Wiffenfhaft ber Natur. 117
+
+
+nidjt wundern, wenn fie in SKompendien, geradezu bogmati(d)
+ub ganz ernfthaft, als wüßten fie wirklich etwas davon, den
+Studenten vortragen, „die Kryftallform ber Körper Habe
+ihren Grund in einer geradlinigen Anordnung ber
+Atome” (€. Wöhler, Grundriß der Chemie, Th. I, unorgan.
+Chemie, p. 3.) Diefe Leute aber find Sprachgenossen Kants und
+haben von Jugend auf feinen Namen mit Ehrfurdt nennen
+hören, jedoch nie die Nafe in feine Werke geftedt. Dafür müssen
+fie fofd)e flandalöfe Pofjen zu Markt bringen. — An ben Frans
+zofen fünnte man jo recht ein gutes Werl (une charité) aus-
+üben, wenn man ihnen Kants metaphufiiche Anfangsgründe ber
+Naturwiffenfhaft richtig unb genau überjegen wollte, um fie vom
+Rückfall in jenen Demokritismus, wenn es nod) möglich ift, zu
+furiren. Sogar aus Schellings „Ideen zur Philojophie der Natur’
+könnte man einige Stellen, 3. 99. aus bem 3. unb D. Kap. des
+2. Buchs, zur Erläuterung beigeben; denn Bier, mo Scelling auf
+Kants Schultern fteht, jagt er viel Gutes und Beherzigungswerthes*).
+
+
+*) Schelling (,Sbeen zu einer Bhilofophie ber Natur, Buch 2, Kap. 3.
+Einige Bemerkungen über bie mechanifche Physik des Herrn Te Sage‘) fagt
+unter andern: „Die erften Körperchen alfo benft fid bie mechanijche
+Phyfik als Punkte; bod) als erfüllte (materielle, phufifche) Punkte. Wenn
+aber biefe Bunfte noch materiell find, jo fragt fid: was den Atomiftifer bes
+tehtigt, bei diefen Punkten ftehen zu bleiben? Denn die Mathematik fährt
+beswegen bod) fort, auf ber unendlichen Zheilbarkeit des Raums zu beftehn
+und bie Bhilojophie, ob fie fid) gleich nicht anmaßt, zu fagen: Die Materie
+(an fid betrachtet) beftehe aus unendlich vielen Theilen, hört besiegen
+nicht auf, eine unendliche Theilbarkeit, b. b. bie Unmöglichkeit einer
+je vollendeten Theilung zu behaupten. Wenn alfo bie mechanifche Physik
+erfte (ober fette) Körperchen voransjett, (o kann fie ben Grund für diese
+Seranefetsung nicht ans ber Mathematik ober aus ber Philofophie her rech⸗
+nen. Der Grund faim alfo nur ein physischer feyn, b. b. fie muß (wenn
+nit beweiien, doch) behaupten, e8 feyen Körperchen, welche weiter zu theilen
+Pbofijd unmöglich fepe. Allein nachdem man vorher den Gegenftanb aller
+möglien Erfahrung entzogen hat, mie bie8 ber Fall ift, wenn man phyfifche
+untheifbare &órperdjen behauptet, Dat man auch weiter fein Recht, fi) auf
+Erfahrung, b. 5. auf einen phyfifhen Grund (wie bier auf bie physische
+Unmöglichkeit) zu berufen. Alfo ift jene Annahme eine völlig willkührliche
+Annahme, b. 5. man bildet fid) eim, e8 fey möglich, in ber Theilung ber
+Materie auf Körperchen zu ftoßen, welche ferner zu theilen, ber Natur biefer
+Körperhen nach, unmöglich fey. Allein es giebt feine physische Unmöglich-
+
+
+118 Zur Bhilofophie und Wissenschaft der Natur.
+
+
+Wohin Denken ohne Erperimentiren führt, hat uns das
+Mittelalter gezeigt: aber dies Jahrhundert ijt beitimmt, uns
+fehn zu laffen, wohin Erperimentiven ohne Denken führt, und
+was bei ber Iugendbildung herausfommt, bie fid) auf Physik
+und Chemie bejd)rünft. Nur aus der gänzlichen Unkunde ber
+Kantifhen Philofophie bei den Franzofen und Engländern von
+jeher, und aus der Vernadjläffigung und Vergefienheit berfelben
+bei den Deutjchen, [eit dem Hegelschen Verdummungs⸗Prozeß,
+it die unglaublide Rohheit der jegigen medanifden
+Physik zu erklären, deren Adepten jede Naturfraft höherer
+Art, Licht, Wärme, Gleftricitüt, chemifchen 9Droceg u. f. m. zu:
+rüdführen wollen auf bie Gejege der Bewegung des Stoßes
+unb Drudes und auf geometrifhe Geftaltung, nämlich ihrer
+imaginären Atome, bie fie meiftens, verfchämter Weile, bloß
+„Moleküle“*) betiteln, wie fie auch, aus derselben Verfhämtheit,
+fid mit ihren Erklärungen nicht ebenjo an die Schwere madjen
+und aud) diefe, à la Descartes, aus einem Stoffe ableiten,
+damit e$ auf der Welt nichts gebe, als Stoßen und Geftoßen-
+werden, das ihnen allein Faßliche. Am ergöglichiten find fie,
+menn fie von den Molekülen der Luft, oder des Drhgens ber.
+jelben reden. Danach wären die drei Aggregationszuftände wohl
+bloß ein feineres unb nod) feinere8 und wieder feineres Pulver.
+Dies ijt ihnen faßlich. Diefe Leute, bie viel erperimentirt und
+
+
+feit, bie, als folche, abfolut wäre. Sebe physische Unmöglichkeit it veía»
+tiv, b. b. nur in Beziehung auf gewiffe Kräfte oder Ursachen in ber Natur
+gültig, e8 [et denn, daß man zu verborgenen Qualitäten feine Zuflucht nehme.
+Alfo behauptet man mit ber phyfifhen Untheilbarkeit jener erften Körperchen
+nur fo viel: e8 fep in ber Natur feine (bewegende) Kraft vorhanden, bie
+ben Zufammenbang jener Körperchen unter fid) überwältigen könnte. Allein für
+bieje Behauptung läßt fid) weiter fein Grund anführen, als ein aus bem
+System jelbft Dergenommener, b. b. weil ohne fie das Syftem nicht befteben
+lónnte. Alfo muß fie darauf befehränkt werden: Man könne fid) feine Natur⸗
+fraft benfen, ber e8 möglich wäre, jene Körperchen zu theilen. Wirb aber
+die Behauptung fo ausgebrüdt, [o [pringt ihre Unwahrbeit in bie Augen.
+Denn jeder Sufanumenfang in der Welt bat Grade, und fobafb es darauf
+anfommt, was ich mir denken fann, kann ich feinen Grab von Zufammenhang
+benfen, für den ich mir nicht aud) eine Kraft denken fónnte, bie hinreichend
+wäre, ihn zu überwältigen.‘‘
+*) Die Molefüle find verfhämte Atome,
+
+
+Zur Philofophie unb Wiffenfhaft ber Natur. 119
+
+
+weg gedacht Haben, mithin Realiften der voheften Art find,
+halten eben die Materie und bie Stoffgefege für etwas abfolut
+Gegebenes und von Grund aus Verftändliches; daher eine Zu-
+rüdführung auf diefe ihnen eine völlig befriedigende Erklärung
+Ieint, ba bod) in Wahrheit jene mechanischen Eigenschaften der
+Materie eben fo geheimnißvoll find, wie die aus ihnen zu ers
+Härenden; daher wir 3. 39. bie Kohäfion nicht besser verftehn,
+als das Licht oder bie Gleftricitüt. Die viele Handarbeit des
+Erperimentirens entfremdet unfere Phyfiler wirklich dem Denken,
+wie dem Lejen: fie vergejfen, daß Experimente nie die Wahrheit
+jelbit, fondern bloß die Data zur Auffindung derjelben liefern
+Tonnen. Ihnen verwandt find bie Phyfiologen, meldje die Lebens⸗
+fraft leugnen und derjelben chemifche Kräfte fubftituiren wollen. —
+
+(in Atom wäre nidjt etwan.bloß ein Stüd Materie ohne
+affe Boren; fondern, ba es untheilbar jeyn muß, entweder ohne
+Ausdehnung (dann wäre es aber nicht Dlaterie), ober mit ab-
+joluter, d. 5. jeder möglichen Gewalt überlegener Kohäsion jeiner
+Theile begabt. Ich verweife bier auf Das, was ich im zweiten
+©. 344), darüber gejagt habe. — Ferner, menn bie chemifchen
+Atome im eigentlihen Sinn, aljo objektiv und als real verftan-
+den werden; fo giebt es im Grunde gar feine eigentliche chemi-
+ihe Verbindung mehr; fondern eine jede Läuft zurüd auf ein
+sehr feines Gemenge verjchiedener und ewig gefchieden bleibender
+Atome; während der eigenthümliche Charakter einer demijdjen
+Verbindung gerade barin befteht, daß ihr Produft ein durchaus
+Demogener Körper fei, b. b. ein folcher, in weldem fein felbft
+unendlich Kleiner Theil angetroffen werden kann, der nicht beide
+verbundene Subftanzen enthielt. Daher eben ijt Wasser fo
+himmelweit verfchieden von Knallgas, weil e8 bie chemische Ver⸗
+einigung der beiden Stoffe ijt, die in biefem (id) bloß als das
+feinste Gemenge zufammenbefinden. in bloßes (Gemenge ijt
+das Knallgas. Entzündet man e$, fo kündigt eine fürchterliche
+Detonation, unter fehr ftarfer Licht- unb Wärme- Entwidelung,
+tne große, eine totale, eine das Innerfte jener beiden Gemeng-
+tbeile treffende und ergreifende Veränderung an; und in ber
+That finden wir [ogíeid) als Probuft derjelben eine von jenen
+beiden Beftandtheilen von Grund aus unb in jeder infit per»
+
+
+120 Zur Bhilofophie und Wissenschaft ber Natur.
+
+
+fchiedene, dabei aber durch und durch homogene Subftanz, das
+Wasser, jehn alfo, bag bie hier vorgegangene Veränderung dem
+fie anfünbigenben Aufruhr der Naturgeifter entjprechend war;
+bag nämlich jene beiden DBeitandtheile des Knallgases, unter
+völliger Aufgebung ihres jelbfteigenen, fo entgegengejegten Wesens,
+einander völlig durchdrungen haben, fo daß fie jegt nur Einen,
+durhaus homogenen Körper darftellen, in beffem felbft Fleinft-
+möglichitem Theil jene beiden Componentia nod) immer unge:
+schieden und vereint bleiben, jo daß feine8 mehr allein und ale
+ein jolches darin anzutreffen ist. Darum war e8 ein chemischer
+unb fein mechanischer Proceß. Wie ijt e8 nur möglid, mit
+unfern modernen Demokriten diefen Vorgang dahin auszulegen,
+daß die vorher unorbentfid) unter einander geworfenen „Atome“ (!)
+nunmehr fid) jett in Reih und Glied gejtellt haben, paarweife,
+ober vielmehr, wegen großer Ungleichheit ihrer Anzahl, fo, bag um
+ein Atom Hydrogen, 9 wohlrangtrte Atome Drhgen fid) gruppirt
+hätten, in Folge angeborener und unerflärliher Taktik; wonad
+dann die Detonation bloß der Trommelfchlag zu diefem „Stellt
+euch” gewesen wäre, also eigentlich viel Qerm um nichts. 3d
+fage daher: Das find Possen, wie der vibrivende Aether umb bie
+ganze Leufippo-Demofrito- Kartefianifche Phyfit mit allen ihren
+hölzernen Erklärungen. Es ijt nicht genug, daß man verftehe,
+der Natur Daumfchrauben anzulegen: man muß aud) fie verftehn
+können, menn fie ausfagt. Daran aber fehlt es.
+
+Ueberhaupt aber, wenn e8 Atome gäbe, müßten fie unter:
+Idiedslos und eigenfchaftslos feyn, alfo nicht Atome Schwefel
+und Atome Gijen u. f. m., fondern bloß Atome Materie; weil
+die Unterjchiede die Einfachheit aufheben, 3. B. das Atom Gijen
+irgend etwas enthalten müßte, was dem Atom Schwefel fehlt,
+demnach nicht einfach, fondern zufammengefett wäre, und über:
+haupt die Aenderung der Qualität nicht ohne 9lenberung ber Ouan-
+tität Statt haben fann. Ergo: Wenn überhaupt Atome müglid,
+jo find fie nur als bie legten Beftandtheile ber abjoluten ober
+abftraften Materie, nicht aber ber bejtimmten Stoffe denkbar.
+
+Bei der erwähnten Zurüdführung ber chemifchen Verbin-
+dungen, auf fer feine Atomengemenge findet freilich bie SDtanie
+und fire Idee der Franzofen, Alles auf mech anische Hergänge
+zurüdzuführen, ihre Rechnung; aber nicht bie Wahrheit, in deren
+
+
+Sur Philofophie unb Wiffenjchaft ber Natur. 121
+
+
+Intereffe ich vielmehr an den Ausspruch Oken's (über Licht unb
+Wärme p. 9) erinnere, „daß nichts, durchaus nichts im Univer-
+jum, was ein Weltphänomen ijt, durch mechanifche Principien
+vermittelt fei." Es giebt im Grunde nur Eine mechanische
+Virkungsart, fie befteht im Eindringenwollen eines Körpers
+in den Raum, den ein anderer inne Hat: darauf läuft Drud
+wie Stoß zurüd, als welche fid) bloß burd) das Allmälige ober
+Plögliche unterfcheiden, wiewohl durch Letzteres die Kraft „leben⸗
+dig“ wird. Auf diefen aljo beruht Alles, was die Mechanik feiftet.
+Der Zug ift bloß fcheinbar: 4. 3B. der Strid, mit mefdjem man
+einen Körper zieht, fchiebt ihn, b. i. drüdt ihn, von hinten. Dar⸗
+aus wollen fie aber jett die ganze Natur erflären: da foll bie
+Wirkung des Lichts auf die Retina bejtehn aus bald fangfameren,
+bald fchnelleren mechanischen Stößen. Zu biefem Zwed haben
+fie einen Aether imaginirt, ber ftoßen fol; während fie bod)
+fen, bag im [türtiten Sturm ber Lichtftrahl fo unbeweglich wie
+ein Gespenst fteht. Die Deutschen thäten wohl, fid) von der
+belobten Empirie und ihrer Handarbeit [o weit abzumüßigen, als
+nöthig ift, Kants Metaphysische Anfangsgründe ber Naturwissen⸗
+(haft zu ftudiren, um ein Mal nicht bloß im Laboratorio, fon-
+dern aud) im Kopfe aufzuräumen. Die Phyfit [tópt, in Folge
+ihres Stoffs, fehr oft und unvermeidlich an die metaphufifchen
+Probleme an, unb da offenbaren denn unjere Physiker, die nichts
+als ihre Elektrisirspielzeuge, Volta’fhe Säulen und Froschkeulen
+lemen, eine fo fraffe, ja (djufterfafte Unwifjenheit und Rohheit
+in Sachen ber Philofophie, (deren Doctores fie heißen), nebft
+der bie Unwiffenheit meijten8 begleitenden Dummdreistigkeit, ver»
+möge welder fie über Probleme, welche die Philofophen feit Jahr⸗
+teujenben bejdjüftigen, wie Materie, Bewegung, Veränderung, in
+den Tag hinein philofophiren, wie rohe Bauern, — daß fie feine
+andere Antwort verdienen, als bie Xenie:
+
+Arıner, empirifher Teufel! Du Fennft nicht einmal dag Dumme
+
+In Dir felber, es ift, adj! a priori fo dumm.
+Sch.
+(S. Gb. Boas, Schiller unb Goethe im Xenienfampf, B &. 121.)
+
+
+Chemische Auflöfung ijt lleberminbung ber Kohäfion burd)
+die Verwandtschaft. Beides find qualitates occultae.
+
+
+122 Zur Philofophie und Wiffenfchaft ber Natur.
+
+
+Das Licht ift eben fo wenig mechanifch zu erklären, wie
+bie Schwerkraft. Auch bieje hat man Anfangs ebenfo burdj ben
+Stoß eines Aethers zu erklären verfudt; ja, Neuton felbft Bat
+Dies als Hypothese aufgeftellt, bie er jebod) bald fallen lief.
+Leibnig aber, der die Gravitation nicht zugab, war ihr völlig
+zugethan. Dies De[tütigt aud) nod) ein Brief des Leibnig in
+feinen Lettres et opuscules inédits, welche Careil 1854 heraus:
+gegeben, p. 63. — Der Erfinder des Aethers ift Kartefius:
+„Aether ille Cartesianus, quem Eulerus ad luminis pro-
+pagandi doctrinam adornavit", jagt Platner in feiner Differ-
+tation de principio vitali, p. 17. — Mit der Gravitation fteht
+das Cit ohne Zweifel in einem gewiffen Zusammenhang, jedoch
+indireft unb im Sinne eines Widerfpiels, als ihr abfolutes
+- Gegentheil. Es ift eine mefent(id) ausbreitende Kraft, wie jene
+eine zufammenziehende. Beide wirken ftetS geradlinig. Vielleicht
+fann man, in einem tropijdjet Sinne, das Licht ben Nefler ber
+Gravitation nennen. — Kein Körper fanum durh Stoß wirken,
+ber nicht zugleich schwer ift: das Licht ijt ein imponderabile:
+alfo kann cs nicht medjanijd), b. b. burdj Stoß wirken. Sein
+nächster Verwandter, im Grunde aber feine bloße Metamorphofe,
+ijt die Wärme, deren Natur daher am erften dienen könnte, bie
+feinige zu erläutern.
+
+Die Wärme ift zwar, wie das Licht felbft, unmwägbar, zeigt
+jedoch eine gewisse Materialität darin, daß fie fid) als beharrliche
+Subjtanz verhält, fofern fie von einem Körper und SOrt in ben
+andern übergeht und jenen räumen muß, um diefen in Befit zu
+nehmen; fo daß, wenn fie aus einem Körper gewichen ijt, jid)
+ftets muß angeben laffen, wohin fie gefommen fei, umb fie
+irgendwo muß anzutreffen feyn; wäre e8 aud) nur im latenten
+Zuftande, Hierin alfo verhält fie fid) als eine beharrende Sub-
+- ftanz, b. D. wie die Materie. Zwar giebt e8 feinen ihr abfolut
+undurchdringlichen Körper, mittelft deffen fie ganz eingefperrt
+werden könnte: jedoch jehn wir fie langsamer ober jehneller ent-
+weichen, je nachdem [ie durch bejfeve oder schlechtere Nichtleiter
+gehemmt war, und dürfen daher nicht zweifeln, daß ein abfoluter
+Nichtleiter fie auf immer fperren und aufbewahren könnte, Be⸗
+
+
+Zur Philofophie unb Wiffenfchaft der Natur. 123
+
+
+sonders deutlich aber zeigt fie diefe ihre Beharrlichleit und fub-
+ftanzielle Natur, wann fie latent wirb, indem fie dann im
+einen Zuftand tritt, in welchem fie jede beliebige Zeit Dinburd)
+fif aufbewahren und nachmals wieder, als freie Wärme, fid)
+unpermindert zu Tage bringen läßt. Das Latent- und wieder
+frei: Werden der Wärme beweift unwidersprechlich ihre materielle
+Natur und, da fie eine Metamorphofe des Lichts ijt, aud) bie
+des Fichte. Alfo hat das Emanationssyften Recht oder vielmehr
+fommt der Wahrheit am mnüdjtem. Sie iff materia impon-
+derabilis, wie man fie vidjtig benannt Bat. Kurz, wir jehn fie
+zwar migriren, auch fid) verbergen, aber nie verfchwinden, und
+fönnen allezeit angeben, was aus ihr geworben jei. Bloß beim
+Glühen verwandelt fie fid) in Licht und nimmt dann dessen
+Natur und ihre Gejege an. Diese Metamorphose wird befonders
+augenfällig im Drummondschen Kalklicht, welches befanntfid) zum
+Hydro⸗Oxygen-Mikroskop benußt worden if. Da alle Sonnen
+ene ftete Duelle neuer Wärme find, die vorhandene aber, wie
+gezeigt, nie vergeht, fondern nur wandert, höchftens latent wird;
+fo fónnte man fchließen, bag die Welt im Ganzen immer wärmer
+werde. Ich Taffe Dies dahingejtellt. — Die Wärme als foíde
+zeigt fid) alfo ftets als ein zwar nicht wägbares, aber bod
+beharrendes Duantum. — Gegen bie Anficht jebod), baf fie
+tit Stoff fei, der mit dem erwärmten Körper eine chemifche
+Tebinbung eingienge, ift geltend zu maden, daß, je_mehr Ver-
+wandtihaft zwei Stoffe zu einander haben, defto fchwerer fie zu
+trennen find: mum aber laffen die Körper, welche die Wärme
+am leichteften annehmen, fie auch am leichteften wieder fahren,
+* 9. die Metalle. Als eine wirklich chemifche Verbindung ber
+Rärme mit den Körpern hingegen ift das Latentwerden ber»
+selben anzufehn: fo giebt (i8 und Wärme einen neuen Körper,
+Sejfer. Weil fie mit einem solchen wirklich und durch über-
+viegende Verwandtschaft verbunden ijt, geht fie nicht von ifm,
+wie von den Körpern, denen fie bloß abfürirt, in jeden andern,
+Wt ihr nahe kommt, fogleih über. — Wer Dies zu Gleid-
+fen der Art, wie Goethes Wahlverwandtichaften, benuten will,
+imm jagen, ein treues Weib ift mit bem Manne verbunden, wie
+die Intente Wärme mit bem Waffer; die treulofe Yuhlerin Bin-
+gegen ift ihm mur, wie bem Metall die Wärme, von außen
+
+
+124 Zur Philosophie und Wissenschaft ber Natur.
+
+
+angeflogen, auf fo lange, als fein Andrer nahe kommt, der ihrer
+mehr begehrte. —
+
+Zu meiner Verwunderung finde ih, bag die Phyfifer durd:
+gängig (vielleicht ohne Ausnahme) Wärmefapacität und
+ipecififde Wärme als das Selbe und Synonyma von cin
+ander nehmen. Ih finde vielmehr, daß fie einander entgegen
+gefeßt find. Je mehr fpecififde Wärme eim Körper hat,
+bejto weniger ihm zugeführte Wärme kann er aufnehmen, fon:
+
+
+dern er giebt fie gleich wieder ab; defto geringer ift afjo feine —
+
+
+Würmelapacität, und umgefefrt. Wenn, um einen Körper auf
+
+
+einen bejtimmten Grad thermometrifher Wärme zu bringen, er
+
+
+mehr von außen ihm zuftrömender Wärme bedarf, als ein an —
+
+
+berer; fo hat er größere Wärmelapacität: 3. B. Leinöl hat
+
+
+bie halbe Kapacität des Waffere. Um 1 & Waffer auf CR
+
+
+zu bringen, ift jo viel Wärme erforderlih, wie um 1 d Eis
+zu schmelzen, wobei fie latent wird. Leinöl hingegen wird burd)
+
+
+halb (o viel ihm zugeführte Wärme auf 60° gebradjt; Tann aber
+
+
+aud, indem e8 folche wieder abgiebt und auf O finft, nur !/ &.
+Eis Schmelzen. Darum alfo Bat Leinöl nod) ein Mal fo viel
+fpecififhe Wärme als Waffer, folglich Halb jo viel Kapacität:
+denn e8 kann nur bie ihm zugeführte Wärme wieder von fid)
+geben, nicht die specifische. Alfo je mehr specifische, b. B. ihm
+eigentbümlide Wärme ein Körper bat, defto geringer ift feine
+Rapacität, b. b. defto leichter ftößt er zugeführte Wärme von fid,
+welche auf das Thermometer wirkt. Se mehr ifm zugeführte Wärme
+hiezu nöthig ijt, defto größer ift feine Sapacitüt und befto geringer
+feine [pecifi[de, ihm eigene und unveräußerliche Wärme: er
+giebt demnach bie zugeführte Wärme wieder ab: daher fchmilzt
+1 &. Wasser von 60° thermometifher Wärme 1 d Eis, wobei
+es auf O finft; 1 24 Leinöl von 60° thermometifher Wärme
+faun nur !4 zi Eis fohmelzen. Es ijt lächerlich, zu fagen, daß
+Wafjer mehr fpecififhe Wärme habe, als Del. Je mehr spe—
+cififhe Wärme ein Körper hat, defto weniger äußere Wärme
+bedarf es, ihn zu erhiten: aber audj bejto weniger Wärme Tann
+er abgeben: er erfaltet fchnell, wie er fid) jchnell erhitzt hat.
+Die ganze Sadıe fteht volífommen richtig in Tob. Maiers Physik,
+8. 350 fg.; aber aud) er verwechselt, 8. 365, bie Kapacität mit
+der [pecifijden Wärme unb nimmt fie als identifh. Seine
+
+
+Sur Philosophie unb Wiffenfhaft ber Natur. 195
+
+
+specifische Wärme verliert der flüffige Körper erit, wenn er feinen
+Aggregatzuftand ändert, alfo wenn er gefriert: bemmad) wäre
+fie bei flüffigen Körpern die latente Wärme: aber auch feite
+haben ihre fpecifiihe Wärme. Baumgärtner führt Eifenfeile an.
+
+Nicht fo materiell wie die Wärme verhält fid das Licht,
+als welches vielmehr nur eine Gefpenfternatur hat, indem es
+erfheint und verfchwindet, ohne Spur, wo e8 geblieben fei.
+Sogar ift e8 eigentlih nur ba, fo [ange e8 entjteht: Hört e8
+auf, fid) zu entwideln; jo hört e$ aud) auf, zu leuchten, ijt ver-
+schwunden, und wir fünnen nicht (agen, wo e$ hingekommen | fei.
+Gefäße, deren Stoff ihm undurchdringlich ijt, giebt e8 genug:
+dennoch fónnen wir e8 nicht einfperren und wieder herauslassen.
+Höchftens bewahrt der Bononische Stein, wie aud) einige Dia-
+manten, e8 ein Paar Minuten. Jedoch wird in neuefter Zeit
+von einem violetten Flußspath, den man deshalb Chlorophan
+oder Pyrosmaragd benannt Hat, berichtet, daß er, wenn dem
+Sonnenlihte nur einige Minuten ausgefekt, drei bis vier
+Boden Teuchtend bleibe. (Siehe Neumann’s Chemie, 1842.)
+Das erinnert ftarf an die alte Mythe vom Karfunfel, carbun-
+culus, Auxuerng, — über welden man, beifüufig gefagt, alle
+Notizen zufammengeftellt findet in Philostratorum opera, ed.
+Olearius, 1709, ©. 65. nota 14, zu welden id) noch diefe
+füge, daß er erwähnt wird in ber GCafontala, Alt 2, ©. 31
+der Ueberfegung von W. Jones, und daß ein neuerer aus⸗
+führliher Bericht über ihm fid) befindet in des Benv. Cellini
+racconti, seconda ediz, Venezia, 1829, racc. 4; welcher
+abgefürzt vorfommt in beffem trattato del Oreficeria, Milano
+kuhtend wird, fo müjfen wir fehließen, daß diefer Stein über-
+haupt Teicht die Wärme in Licht verwandelt, und eben darum
+der Pyrosmaragd nidt das idt in Wärme, wie andere Körper,
+sondern es gleichsam unverdauet wieder von fid) giebt: Dies gilt
+dann auch vom Bononifchen Steine und einigen Diamanten. —
+Also bloß mann das Licht, auf einen opafen Körper treffend,
+fd, nad Maaßgabe feiner Dunkelheit, in Wärme verwandelt
+md nun bie fubftanziellere Natur diefer angenommen hat, Tönnen
+bit infofern Rechenschaft von ihm geben. — Dagegen mum aber
+figt es eine gewilfe Materialität, in ber Reflerion, als mo
+
+
+e8 die Gesetze des Abprallens elaftifcher Körper befolgt; und eben.
+falls in ber 9tefraftion. Bei biefer legt es dann auch feinen
+Willen an den Tag, indem es nämlich, unter den ihm offe
+ftehenden, also ben durchfichtigen Körpern, bie bidjterem vor |
+zieht unb erwählt*). Denn es verläßt feinen geradlinigen, tin |
+gejdfagenen Weg, um dahin fid) zu neigen, wo das größere |
+Quantum ber dichteren durchfichtigen Materie fid) befindet; daher |
+e8, beim Hinein- und Herausfahren aus Einem Medio in das
+
+andere, immer dahin abfenft, wo ihm bie Masse am nächsten
+
+liegt, ober wo fie am ftärkften angehäuft ift, aljo allemal diefer |
+fij anzunähern ftrebt. Beim Konverglafe liegt die meifte Mafie '
+in der Mitte, alfo fährt das Licht fegeffórmig aus: beim Konlav —
+glas ijt bie Masse an ber Peripherie angehäuft, alfo führt das —
+Licht, beim Herauskommen, trichterförmig aus einander: fällt e£
+
+schief auf eine ebene Fläche; jo fenft e8, beim Ein- und Aus —
+gange, ftet ber Masse zu, von feinem Wege ab, jtredt gleihfam
+biefer, beim Willlommen oder Abjchied, bie Hand entgegen. Auch
+bei ber Beugung zeigt e8 dieses Hinftreben mad) ber Materie.
+Bei der Reflexion prallt e$ zwar ab, aber ein Theil geht burd:
+darauf beruht bie fogenannte Polarität des Lichte. — Analogt
+Willensäußerungen ber Wärme wären befonders in ihrem Ber:
+halten zu guten und fchlechten Leitern nachzuweifen. — Im Ber:
+folgen der Bier berührten Eigenfchaften des Lichtes Tiegt die
+alleinige Hoffnung feine Natur zu ergründen; midt aber in
+mechanischen Hypothesen von Vibration, ober Emanation, die
+feiner Natur unangemefjen find; gefchweige in abjurden Mähr-
+chen von Lichtmolefülen, diefer krassen Ausgeburt der firen Idee
+der Franzosen, daß jeder Hergang zulett ein mechanischer feyn
+und Alles auf Stoß und Gegenftoß beruhen müjje. Mich mun:
+bert, daß fie mod) nicht gejagt Haben, die Säuren beftänden aus
+Hältchen und bie Allalien aus Defen, und deshalb giengen fie
+fo fefte Verbindungen ein. Ihnen ftedt nod) immer ber Kar:
+tejiu& in den Gliedern. Die Unmöglichkeit jeder mechanischen
+Grffürung erhellt aber fchon aus der alltäglichen Thatsache ber
+
+
+*) Bu diefem Gate bat Schopenhauer beigefchrieben: „If zu morbi:
+füiren: fiehe Pouillet, Vol. 2, p. 180.“ Dafelbft fagt nämlich Pouillet:
+
+Der Herausgeber.
+
+
+126 Bur Philosophie und Wiffenfchaft ber Natur. |
+
+
+Zur Philosophie und Wissenschaft der Natur. 127
+
+
+ienfrehten Spiegelung. Stehe id) nämlich gerabe vor bem
+Spiegel; jo fallen Strahlen von meinem Gesicht senkrecht auf
+die Spiegelflähe, unb von diefer gehen fie denfelben Weg zurüd
+zu meinem Geficht. Beides geschieht immerfort und ununter-
+broden, folglich aud) gleichzeitig. Bei jedem mechanischen Her⸗
+gang der Sache, möge er Vibration oder Emanation seyn,
+müßten bie in gerader Linie und in entgegengejetter Richtung
+auf einander treffenden Lichtfehwingungen ober Lichtjtröme (wie
+zwei unelajtifche, fid) in entgegengefegter Richtung mit gleicher
+Geidjwinbigfeit begegnende Kugeln) einander hemmen und auf-
+heben, jo daß Fein Bild erschiene, oder einander zur Seite
+drüäden und Alles verwirren: aber mein Bild fteht feft und
+Belt als W. unb 35. 38b. II, p. 303, 4; 3. Aufl. 342.) Nun
+follen aber, dies ijt die allgemeine Annahme (Pouillet, Vol. 2,
+p. 282), die Vibrationen nidjt longitudinal, fondern transverfal
+fn, b. 5. fenfred)t auf die Richtung des Strahls gefchehn; nun,
+fo fommt die Vibration und mit ihr ber Lichteindrud nicht von
+der Stelle, fondern tanzt mo er ift, unb die Vibration reitet
+auf ihrem Strahl, wie GCandj Pansa auf dem ifm unters
+geihobenen hölzernen Gíef, den er burd) fein Spornen von ber
+Stelle bringt. Daher eben jagen fie ftatt Vibration gern
+Bellen, weil fie mit diefen besser vorwärts fommen: aber
+Bellen fchlägt nur ein unelastischer und absolut verichiebbarer
+Körper, wie das Wafjer, nicht ein ab[olut elaftifcher, wie Luft,
+Ather. Sa, jdon die Imponderabilität der Imponderabilien
+ihließt alle mechanische Erklärungen ihres Wirkens aus: was
+nit wiegt, Tann auch nicht ftoBen: was nicht ftößt, Tann
+nijt durch Vibration wirken. Die Dummbreiftigleit aber, mit
+welher die ganz unermiejene, grundfalfche und aus ber Luft
+(tet eigentlih, nämlih aus den mufilalifchen Luftvibrationen)
+gegriffene Hypothese, daß die Farben auf ber verjchiedenen
+Schnelligkeit der Schwingungen des (ganz hypothetischen) Aethers
+berubten, verbreitet wird, — ijt eben ein Beweis ber Urtheils-
+losigleit der allermeiften Menschen. Affen thun nad, was fie
+sehn; Menschen fagen nad, was fie hören. —
+
+Ihre chaleur rayonnante ift eben eine Mittelftation auf
+dem Wege ber Metamorphofe des Lichts in Wärme, oder, wenn
+
+
+128 Zur Philofophie und Wissenschaft ber Natur.
+
+
+man will, die Chrysalis derfelben. Die ftrahlende Wärme ijt
+Licht, welches die Eigenfhaft, auf die Retina zu wirken, abgelegt,
+bie übrigen aber beibehalten hat, — damit zu vergleichen, daß
+eine fehr tiefe Baßsaite, ober aud) Orgelpfeife, nod) fichtlich
+vibrirt, aber nicht mehr tönt, b. B. aufs Ohr wirkt, — aljo
+in geraden Strahlen fortfchießt, einige Körper traverfirt, jedod
+aud) erjt, mann e8 auf opafe trifft, folche erwärmt. — Die
+Methode ber Franzofen, burdj Anhäufung der Bedingungen die
+Experimente zu fompliciren, fann die Genauigkeit derfelben ver-
+mehren und ber Meßarbeit günftig seyn, erfchwert aber, ja
+verwirrt das Urtheil, unb ift mit daran Schuld, daß, wie
+Goethe gefagt Bat, mit der empirischen Grfenntnig unb 3e
+reiherung an Thatfahen das Verständniß der Natur und das
+Urtheil Teineswegs gleihen Schritt gehalten hat.
+
+Ueber bie Bolarifation des Lichts Haben die Fran-
+zofen nichts als unfinnige Theorien, aus ber linbulation und
+der homogenen Lichter-Lehre, nebft Rechnungen, die fid auf
+nichts gründen, Stets find fie eilig, nur zu mejfen und zu
+rechnen, halten es für bie Hauptfache, und le calcul! le calcul!
+tft ihr Feldgefchrei. Aber ich fage: oà le calcul commence,
+intelligence des phénoménes cesse: während Einer bloße
+Zahlen und Zeichen im Kopfe Bat, fanm er nicht dem Kaufal-
+zufammenhang auf die Spur fommen, Das Wieviel und Wie-
+groß Hat für praktische Zwecke Wichtigkeit: in der Theorie
+aber fommt e8 hauptfählih und zunädft auf das Was am.
+Dies erlangt, fanm man Dinfidjtfid) des Wieviel und Wiegroß
+mit einer ungefähren Schäßung weit genug kommen.
+
+Goethe wieder war zu alt, als bie Phänomene entbedt
+
+Ih (ege mir im Allgemeinen die Gadje (o aue. “Die
+Neflerion des Lichts im / von 35° zerlegt wirklich das Licht
+in zwei verichiedene Bestandtheile, davon ber refleftirte bejondere
+Cigen(djaften zeigt, bie aber alle darauf zurüdlaufen, daß dieses
+fidt nunmehr, eines integrivenden Bestandtheils beraubt, fid)
+schwach und jchlaff, eben dadurh aber aud) zur Ergeugung
+phyfifcher Farben [efr geneigt zeigt: denn jede phyfiiche arbe
+entjteht ftet8 aus einer befondern Dämpfung, Schwächung des
+Lichts. Jene specifische Schwächung al[o zeigt es zunächst darin,
+
+
+Zur Bhilofophie unb Wiffenfchaft ber Natur. 129
+
+
+daß e8 von ben zwei Bildern des Isländischen Kalfipaths nur
+Eines liefert: ba8 andere entftand alfo vermöge des andern,
+jest ausgefchiedenen Lichtbeftandtheile. Sodann ben schnell ge-
+fühlten Glaskubus kann e$ nicht ganz ausfüllen, verbreitet jid)
+jedod nicht gleihmäßig in demfelben, fondern zieht fid) zusammen,
+moburd) e$ einige Stellen erleuchtet und andere leer läßt, bie
+baburd) schwarz erfcheinen und in gewissen Lagen ein Kreuz
+bilden, eigentlih aber zwei biegfame, fchwarze Banden dar-
+(teen, bie, je nahdem man ben Kubus dreht, ihn bald wellen-
+fórmig in allerlei Richtungen durchziehn, bald einen fchwarzen
+Rand bilden und bloß, wann der Kubus feine Seite horizontal
+dem Auge zumwendet, in der Mitte, wie ein x, zufammenftoßen
+unb fo das Kreuz darftellen: jebod) ift, um dies Alles deutlich
+zu fehn, ein PBarallelepipedon, und nicht der eigentliche
+Kubus, der geeignetefte Glaskörper. Die vier gelben Flede in
+den Winkeln des Kreuzes lassen fid) ebenfalls durch Drehen
+als Streifen am Rande vertheilen. Im Ganzen zeugen fie von
+der großen Neigung dieses, eines integrivenden Beftandtheils
+beraubten Lichtes, physische Farben zu erzeugen, unter welchen
+befanntíid) bie gelbe am leichteften entsteht. Besagte Neigung
+giebt fid) nun in allerlei Phänomenen fund: Glimmer- und
+Gypsspath⸗Blättchen auf ben Kubus, ober auf einander gelegt,
+zeigen allerlei Farben. Die Neutonifchen Ringe, welde, um
+durch Spiegelglas, ober Linsen hervorgebradht zu werden, sonst
+jtet8 eines gewifjen Drudes bedürfen, entjtehen im polarifirten Licht
+mit größter etd)tigfeit: befonders bringen zwei gefchliffene Bergfry-
+italfplatten fie ohne andern Drud, als den ihres eigenen Gewichts,
+in größter Schönheit und wundervoller Regelmäßigkeit hervor.
+
+Das größte Wunder des polarifirten Lichtes liefert freilich
+das in eine Zange zwifchen zwei Turmalinplatten eingellemmte
+Stüd Doppelfpath, indem es ein, je nad) ber Cage, schwarzes
+oder weißes Kreuz, umgeben von einer Glorie neutonifcher
+Ringe sehn fügt. Daß nämlich ber Doppeljpath das Licht
+ebenfalls (wie die Reflerion im Winkel von 35°) polarifirt,
+jheint gewiß. Dies Wunder muß alfo bod) aus obigen Prins
+zipien abzuleiten jeu. —
+
+Ueber das Wefen ber Bellucidität können uns vielleicht
+den beiten Aufschluß diejenigen Körper geben, welche bloß im
+
+
+130 Zur Bhilojophie und Wiffenfchaft der Natur.
+
+
+flüjfigen Zuftande durchfichtig, im feften Hingegen opaf find: der-
+gleichen find Wache, Wallrath, Talg, Butter, Delu.a.m. Pan
+fann vorläufig fid) die Sache fo auslegen, daß das biejem, wit
+allen fejten Körpern, eigene Streben nad) dem flüffigen Zuftande,
+fid) zeigt in einer ftavfen Verwandtschaft, b. i. Liebe, zur Wärme,
+als bem alleinigen Mittel dazu. Deshalb verwandeln fie, im
+feften Zuftande, alles ihnen zufallende Licht fofort in Wärme,
+bleiben alfo opaf, bis fie flüffig geworden find: dann aber find
+fle mit Wärme gejüttigt, lassen alfo das Licht als solches burdj*).
+
+Jenes allgemeine Streben ber feiten Körper nad) bem flüf-
+figen Zuftande Bat feinen legten Grund wohl darin, daß berjelbe
+die Bedingung alles Lebens ijt, ber Wille aber immer aufwärts
+ftrebt, in feiner Objektivationsstala. —
+
+Die Metamorphofe des Lichts in Wärme und umgelefrt
+erhält einen frappanten Belag durch das Verhalten des Glases
+bei der Erwärmung. Es glüht nämlich bei einem gewiffen Grad
+von Erhigung, b. b. verwandelt bie empfangene Wärme in idt:
+bei vermehrter Erhigung aber schmilzt e8 und Hört jetgt anf zu
+feuchten; weil nunmehr die Wärme finreidjt, es in Fluß zu ver
+feßen, wobei der größte Theil derjelben fatent wird, zum Behuf
+des flüffigen Aggregationszuftandes, alfo feine übrig bleibt, fid)
+müßigerweife in Licht zu verwandeln: dies letztere gejchieht jebod)
+bei abermals vermehrter Erbitung, bei welcher nämlich der Glas
+fluß selbst leuchtend wird, ba er die ihm jegt nod) zugeführte
+Wärme nit mehr anderweitig zu verwenden braudt. (Die
+Thatsache, ohne das minbefte Verständniß derfelben, wird beiläufig
+angeführt in der Revue des deux mondes, Novemb. 1855). —
+
+Dean giebt an, daß auf hohen Bergen die Semperatur
+ber Luft zwar fehr niedrig, aber der unmittelbare Sonnenbrand
+auf dem Leibe (efr ftark jei: Dies ijt daraus zu erklären, daß
+das Sonnenlicht nod) ungeschwächt durch die bidere Atmofphäre
+
+
+*) Sa, id mage bie VBermuthung, baB aus einem ähnlichen Borgang |
+
+
+das alltägliche Phänomen zu erklären seyn möchte, daß bie hellweißen Pflafter-
+fteine, Tobald fie vom Regen benett find, schwarzbraun erfcheinen, b. Db. tein
+Licht mehr zurüdwerfen; weil nämlich jeBt das Waffer, in feiner Gier zu
+verdunften, alles bie Steine treffende Licht fogleih in Wärme verwanbelt;
+während bie Steine, wenn troden, e8 zurückwerfen. Aber warum erjcheint
+weißer polirter Marmor, benett, nicht fchwarz? auch weißes Porzellan nicht?
+
+
+Zur Philosophie unb Wissenschaft ber Natur. 131
+
+
+der untern Schicht auf ben Leib trifft und fofort bie Metamor—⸗
+phoje in Wärme erleidet. —
+
+Die befannte Thatfahe, baf Nachts alle Töne und Ge-
+räusche lauter fchallen, als bei Tage, wird gewöhnlich aus ber
+allgemeinen Stille. der Nacht erklärt. Ich weiß nicht mehr, wer
+vor etwan 30 Jahren bie Hhpothefe aufgeitellt Dat, bag viel-
+mehr bie Cade auf einem wirklichen Antagonismus zwifchen
+Schall und Licht beruhe. Bei Öfterer Beobachtung jenes Phä—
+nomens fühlt man fid) allerdings geneigt, diefe Erklärung gelten
+zu lassen. Methodische Versuche allein können bie Cade ent;
+scheiden. Sener Antagonismus nun aber fünnte daraus erflärt
+werden, daß das in abjolut geraden Linien ftrebenbe Wesen des
+Lichtes, indem "es die Luft durchdringt, die Clafticität derfelben
+verminderte. Wäre num dies fon[tatict, jo würde es ein Datum
+mehr zur Kenntniß ber Natur des Lichtes seyn. Wäre der Aether
+und das Vibrationssystem erwiesen; fo würde bie Erflärung, daß
+jeine Wellen die des Schalles burdjfreugen und hemmen, Alles
+für fid) haben. — Die Endurfache Hingegen ergäbe fid) bier febr
+leiht: bag nämlich bie Abwejenheit des Lichtes, während fie ben
+thierifchen Wefen den Gebraud des Gefichts benimmt, ben des
+Gehörs erhöhte. — Alerander v. Humboldt erörtert bie
+Sade in einem fpäter nadjgebejjerten Auffat von 1820, befind-
+fi in feinen „Kleineren Schriften“, Bd. 1, 1853. Auch er tjt
+der Meinung, daß die Erklärung aus ber Stille der Nacht nicht
+ausreicht und giebt dagegen diefe, daß bei Tage der Boden,
+die Selfen, ba8 Wasser und bie ‚Gegenftände auf der Erbe
+ungleich erwärmt würden, wodurch Luftfäulen von ungleicher
+Dichtigkeit auffteigen, weldje bie Schallwellen fucceffiv zu durd-
+dringen hätten und dadurch gebrochen und ungleich würden.
+Aber bei Nacht, fage ih), müßte die ungleihe Abkühlung
+da8 Selbe bewirken: zudem gilt diefe Erklärung bloß, wenn das
+Gerünjd) weit herfommt und fo ftark ift, daß es hörbar bleibt:
+denn bloß dann burdjgeft e$ mehrere Quftfäulen. Aber die
+Jue, der Springbrunnen und ber Bach vor unfern Füßen
+riejelt Nachts zwei bis drei Mal ftärker. Weberhaupt trifft
+Yumboldts Erklärung bloß die Fortpflanzung des Schalls,
+ét bie unmittelbare VBerftärfung bdeffelben, die aud in
+ößter Nähe Statt finde. Sodann müßte ein allgemeiner
+
+
+139 Zur Bhilofophie uud Wissenschaft ber Natur.
+
+
+Regen, da er bie Temperatur des Bodens überall ausgleicht,
+diefelbe Verstärkung des Schalls, wie die Nacht, herbeiführen.
+Auf dem Meere aber müßte die Verftärfung gar nicht Statt
+haben: er jagt, fie wäre geringer; dies ijt jedoch [d)mer zu
+prüfen. — Seine Erklärung ijt affo gar nicht zur Cade: daher
+muß die nächtliche Verftärfung des Schall entweder dem Weg—
+fallen des Tageslerms, — ober einem direlten Antagonismus
+zwischen Schall und Licht zugejchrieben werden.
+
+
+Jede Wolle Dat eine Kontraftilität: fie muß durch irgend
+eine innere Kraft zufammengehalten werden, damit fie fid) nicht
+ganz auflöfe unb zerftreue in bie Atmofphäre; mag mum diese
+Kraft eine elektrifhe, oder bloße Kohäfion, oder Gravitation oder
+fonft etwas feyn. 3e thätiger unb wirffamer aber biefe Kraft
+ift, defto fejter fehnürt fie, von innen, die Wolfe zufammen, und
+erhält diese baburd) einen fchärfern Kontour und überhaupt ein
+maffiveres Anfehn; (o im Cumulus: ein folcher wird nicht leicht
+regnen; während bie Regenwolken verwifchte Kontoure haben.*)
+
+
+*) Schopenhauer bat bier aud) eine eigene Hypothefe fiber ben Urjprung
+des Donners aufgeftellt. Die betreffende Manufcriptftelle (aus bem Mann
+feript „Senilia“, angefangen zu Frankfurt a. Main 1852) ift jebod) fo meni
+zu einem Abschluß gelangt, bafj id) fie nicht in ben Zert aufnehmen konnte.
+Nur ber Anfang berfelben ift Mar unb deutlich. Er lautet: „Ich bin bimjicht
+fid; des Donners auf eine Hypothese geratben, welche jehr gewagt ift und
+vielleicht ertravagant genannt werden kann und von ber ich felbft nicht über-
+seugt bin, fann jedoch mich nicht entfchließen, fie zu unterbeliden, jondern will
+fie denen, welche aus ber Physik ihre Hauptbefhäftlgung machen, vorlegen,
+Damit fie zunähft bie Möglichkeit ber Sache prüfen: wäre bieje ein Mal
+feftgeftellt, dann möchte bie Wirklichkeit faum zu bezweifeln fegr." Tas
+auf diefen Eingang Folgende aber ift in einem fo ungeorbneten Zuftande und
+ftellenweis fo febr von Schopenhauers eigenen Zweifeln durchbrochen, Daß
+ich kein Ganzes daraus herzuftellen vermochte. Ich gebe e8 daher bier nur
+wie ich e$ gefunden habe: „Da man iiber bie nächfte llrfadje des Donners
+nod immer nicht ganz im Reinen ift, indem bie gangbaren Erklärungen nict
+zureichen, zumal wenn man beim &naden bes Funkens aus dem Sonbuftet
+den Schall des Donners fid) vergegenwärtigt; könnte man vielleicht bie kühne,
+ja verwegene Hypothefe wagen, daß bie eleftrijde Spannung in ber Wolle
+Waffer zerfeße und nachher ber elektrifche Funken das fo entftanbene Knall
+gas entzlinde? Gerade einer jofden Detonation entípridjt ber Schall des
+Donners, und ber auf einen heftigen Donnerfchlag meiftens fogleih fofgente
+
+
+Zur Bhilofophie und Wissenschaft ber Natur. 133
+
+
+Keine Wiffenfchaft imponirt der Menge fo fehr, wie bie
+Atronomie. Demgemäß thun denn auch die Aftronomen, die
+großentheils bloße SRedjenfüpfe unb, wie e8 bei folchen die Regel
+ijt, übrigens von untergeordneten Fähigkeiten find, oft fehr vor-
+
+
+Kegenguß wäre baburdj aud) erklärt. Efeftrifche Schläge in ber Wolfe ohne
+vorhergegangene Wasserzersetzung wären Wetterleuchten und überhaupt Blik
+ehne Donner. Diefes will man jedoch jett wieber für febr fernes Gewitter
+halten. Poey bat in ber Acad. d. sc. 1825. einen fangen Streit über Blitz
+ebne Donner unb Donner ohne Blit geführt: er giebt (im April 1857) ait,
+daß fogar bie energischen Zickzack-Blitze bisweilen ohne Donner abgehn
+[Analyse des hypothöses sur les éclairs sans tonnerre par Poey im our:
+nal des mathématiques). — Mit bem Geräufch des überfpringenben eleftrijchen
+Funkens bat ber Donner bod) gar feine Aehnlichkeit, nicht jo viel wie bie Mücke
+‚ mit dem Elephanten: ber Unterschied zwifchen beiden Tönen ift nicht ein bloß
+quantitativer, jonbern ein qualitativer (9. Birnbaum, „Reich ber Wolfen‘,
+Leipzig 1859, p. 167. 169); hingegen mit einer Reihe von Detonationen fat
+er bie größte Achnlichkeit: bieje mögen fimultan feyn und bloß vermöge ber
+langen Strede fucceffiv zu unserm Ohr gelangen. geibenfdje Flafchen-Batterie?
+— Or. Scoutetten bat ber Acad. d. sciences eine mémoire sur l’elec-
+tricite atmosphérique vorgelefen, davon ber Auszug in bein comptes rendus
+vem 18. Auguft 1856 ftebt; fid auf gemachte Experimente stützend giebt er
+an, bag ber im Sonnenschein vom Waffer unb ben Pflanzen auffteigente, bie
+Bolten bildende Dunft aus mifroffopifdjen Bläschen beftebt, deren Inhalt
+elektrifirtes Orpgen, bie Hülle Waffer ift. Weber das biefem Orygen ent»
+sprechende Hydrogen jagt er nichts. Aber mwenigftens hätten wir bier schon
+das eine Element des Knallgafes, fogar ohne eine eleftrifche Wafjerzerjeßung
+in ber Wollte annehmen zu müssen.“ — Inmitten biejer Stelle des Manu—
+kripts findet fid nod) folgendes beigefchrieben: „Wenn, wie man annimmt,
+tie Wolken aus hohlen Bläschen beftehn (ba eigentlicher Wafferdunft unfichtbar
+it, jo müssen bieje, um zu schweben, mit einer feidjtern Luftart, ale
+tit atmofpbärifche, angefillft seyn: alfo entmeber mit bloßem Wasserdunst
+eter mit Hydrogen. Dazu num aber wieber ift bingugefdvieben: „Ist
+lih: Gegengrunb in Birnbaum’s „Reich ber Wolfen‘ p. 91: „Die aus
+Mr Luft ausgefchiedenen Wasserdünste find tropfbares Wafler, aber üt fo
+seiner Bertheilung, bag fie von ber Luft getragen werben.“ — Bei ber Zer-
+'ssung des atmofphärischen Waffers in zwei Gafe wird nothwendig jehr viel
+"irme latent: aus ber baburd) entftehenden Kälte ließe fid ber nod) fo proble-
+matische Hagel erffüren, ber am häufigften als Begleiter des Gemwitters vor-
+lemmt, wie zu erjehn im ,,9teid) ber Wolken‘ p. 138. Freilich entfteht er aud)
+tam nur vermöge einer bejonbern Komplikation von Umständen und baber felten.
+Rir jehn bier nur bie Duelle bec Kälte, welche erfordert ift, um im heißen Som⸗
+ne Regeutropfen zum Gefrieren zu bringen." Der Herausg.
+
+
+134 Zur Philofophie und Wiffenfhaft ber Natur.
+
+
+nehm mit ihrer „allererhabenften Wiffenichaft” u. dgl. m. Schon
+Platon hat über bieje Anfpriiche ber Aftronomie ge[pottet und daran
+erinnert, daß das Erhabene nicht. gerade Das heiße, was nad
+oben zu fiegt (de Rep. L. VII. p. 156, 57. ed Bip). —
+Die fat abgöttifche Verehrung, welche, zumal in England, 9t eu
+ton genießt, überfteigt allen Glauben. Noch kürzlich wurde er,
+in ben Times, the greatest of human beings (das größte
+aller menfchlihen Wefen) genannt, und in einem andern Auf—
+fate desselben Blattes fucht man uns baburd) wieder aufzurid-
+ten, daß man uns verfichert, er wäre bod) aud) nur ein Mensch
+gemejen! Im Jahr 1815 ift (nad) Bericht der Wochenschrift
+Examiner, abgebrudt im Galignani vom 11. Ianuar 1853) ein
+Zahn Neutons für 730 Pfund Sterling verfauft worden, an einen
+Lord, ber ihn in einen Ring faffen ließ; welches an den Heiligen
+Zahn des Buddha erinnert. Diefe lächerliche Veneration des
+großen NRechenmeifters beruht nun darauf, daß bie Leute zum
+Maafitabe feines Werdienftes,die Größe der Maffen nehmen,
+deren Bewegung er auf ihre Gejege, unb bieje auf die baru
+wirkende 9taturfra[t, zurüdgeführt hat (welches Letztere übrigens
+nicht ein Mal feine, fondern Robert Hooke's Gntbedung war,
+ber er bloß, durch Berehnung, Gewißheit ertheilt Bat). Denn
+sonst ijt nicht abzufehen, warum ihm mehr Verehrung gebührt,
+als jedem Andern, der gegebene Wirkungen auf die Aeußerung
+einer beftimmten Naturfraft zurüdführt, unb warum nidjt 3. 99.
+Zavoifier eben fo Hoch zu schätzen feyn folltee Im Gegentheil
+ift die Aufgabe, aus vielerlei zufammenwirkenden Naturfräften
+gegebene Grjdjeinungen zu erflären, und fogar jene erft aus bie:
+fen herauszufinden, viel schwieriger, af8 bie, welche nur zwei und
+zwar jo simple und einförmig wirkende Kräfte, wie Gravitation
+unb Trägheit, im widerjtandslofen Raume, zu berüdfichtigen hat: —
+und gerade auf diejer unvergleichlichen Einfachheit, oder Aerm-
+fidjfeit, ihres Stoffes beruht bie mathematifche Gewißheit, Sicher:
+heit und Genauigkeit der Aftronomie, vermöge welcher fie bie Welt
+dadurch in Erftaunen verfegt, daß fie fogar noch nicht gefehene
+Planeten ankündigen kann; — welches Lebtere, fo fehr e8 aud
+bewundert worden, beim Lichte betrachtet, bod) nur die felbe Ver-
+ftandesoperation ijt, bie bei jedem Beltimmen einer nod) unge-
+jehenen Ursache aus ihrer fid) funbgebenben Wirfung vollzogen -
+
+
+Zur Philofophie und Wiffenfchaft ber Natur. 135
+
+
+wird und im mod) bewunderungswürbdigerem Grade ausgeführt
+wurde, durch jenen Weinfenner, der aus einem Gíaje Wein mit
+Sicherheit erfannte, e8 müßte Leder im Waffe seyn, welches ihm
+abgeleugnet wurde, bis, mad) endlicher Ausleerung deffelben, fid,
+auf befjen Boden Tiegend, ein Sclüffel, mit einem Riemchen
+daran, fand. Die Hiebei und bei der Gntbedung des Neptun
+Statt finbenbe Verftandesoperation ift biefefbe, und der Unter-
+schied Tiegt bloß in der Anwendung, alfo im Gegenftanb; fie ijt bloß
+duch den Stoff, Teineswegs durch die Form verfchieden. —
+Daguerre’s Erfindung hingegen, wenn nicht etwan, wie Einige
+behaupten, der Zufall viel dazu beigetragen Hat, daher Arago
+die Zheorie dazu erft Hinterher erfinnen mufte,*) ift Hundert
+Mal Scharffinniger, als die [o bewunderte Entdeckung des ever-
+rier. — Aber, wie gejagt, auf der Größe ber in Rede ftehenden
+Massen und den gewaltigen Entfernungen beruht die Ehrfurdt
+ber Dienge. — Bei biejer Gelegenheit fei aud) gefagt, daß mande
+phnfifalifche unb djemijde Gntbedungen von unberechenbarem
+Werth und Nugen für das ganze Menjchengeichlecht feyn Tonnen;
+während gar wenig Wit dazu gehörte fie zu machen, [o wenig,
+daß bisweilen der Zufall die Funktion defjelben allein verfieht.
+Alfo ift ein weiter Unterfchied zwifchen bem geiftigen und bem
+materiellen Werth folcher Gntbedungen.
+
+Bom Standpunkte der Philofophie aus, Tönnte man die
+Atronomen Leuten vergleichen, welche der Aufführung einer gro-
+Ben Dper beimohnten, jebod), ohne fid) durch die Mufil, ober
+den Inhalt des Gilde, zerstreuen zu faffen, bloß Acht gäben auf
+die Mafchinerie der Dekorationen und auch fo glücklich wären,
+das Getriebe und ben Zufammenhang derfelben vollfommen her-
+
+
+auszubringen.
+
+
+Die Zeichen des Thierfreifes find das Familienwappen der
+Menschheit: denn fie finden sich af8 die felben Bilder und in
+der fefben Ordnung bei Hindu, Chinefen, Persern, Aegyptern,
+Griehen, Römern u. f. m. und über ihren Urfprung wird ge-
+itritten. Sbeler „Ueber den Urfprung des Thierkreises“, 1838,
+
+
+*) Die Erfindungen geschehen meiftens durch bloßes Tappen und
+Prebtren : bie Theorie einer jeden wirb hinterher erdacht; eben mie zu einer
+alannten Wahrheit ber Beweis.
+
+
+136 Zaur philosophie und Wissenschaft ber Natur.
+
+
+wagt nicht zu enticheiden, wo er fid) zuerft gefunden. Yepfius
+hat behauptet, er finde fich evít auf Monumenten zwifchen der
+Ptolemäer- und Römer-Zeit. Aber Uhlemann „Orundzüge
+ber Aftronomie und Aftrologie der Alten, befonders ber Aegypter“,
+1357, führt an, bag in Königsgräbern aus bem 16. Sahrhundert
+v. Chr. fid) schon die Zeichen des Thierkreises finden *).
+
+
+In Rüdfiht auf bie Pythagorische Harmonie ber Sphären,
+follte man bod) ein Mal berechnen, welcher Adord herauskäme,
+wenn man eine Folge von Tönen im Verhältniß ber verschiede⸗
+nen Belocitäten der Planeten zufammenftellte, fo daß Neptun
+bett Baß, Merkur den Sopran abgübe. — Man jefe hierüber
+
+
+Wenn, mie c8 bem jebigen Stande unfrer Kenntniffe gemäß
+erjdeint unb auch [don Seibnig und Büffon behauptet haben,
+die Erde einft im Suftanbe der Glühehige und Schmelzung war,
+ja, es nod) ijt, indem bloß ihre Oberfläche fid) abgekühlt und
+verhärtet Hat; fo war fie vor Diefem, wie alles Glühende, aud
+
+
+*) Star Uhlemann, Handbnch ber gesammten ägyptischen Alterthums⸗
+kunde, Th. 2, Aegyptische Archäologie, Leipzig 1857, S. 239 sagt: „Auch die
+Eintheilung des Thierkreises in bie bekanuten zwölf Zeichen war ihnen nicht
+unbefannt. Denn obgfíeid) Ideler (Ueber ben Urfprung bes Thierkreises,
+Berlin 1838, 4.) bie Frage nicht zu entfcheiben wagt, welchen 3Boffe bee
+Altertfums bie uns befannten Namen umb Bezeichnungen ber zwölf Abfchnitte
+des Thierkreifes urfprünglich angehörten, während Lepfius fagt (Chronol.
+Einleit. S. 65): «Wir finden die Thierzeichen ausfchließlich gerade auf ben
+jüngften der dgpptijden Denkmäler und bis jet find fie mit Sicherheit nicht
+früher als im llebergange von ber Ptolemäischen zu ber römischen Herrfchajt
+nachweisbar», fo find diefelben allerdings in nenerer Zeit auf viel älteren
+Monumenten aufgefunden worden. Denn auf einem in ben Gräbern ber
+Könige gefuntenen Relief (Ideler S. 22) findet fidy af8 Thierzeichen ein
+Stier, ein Löwe und ein Skorpion, unb auf einer im Sabre 1855 veröffent:
+lichten altägyptischen Kupferplatte (Seyffarth, Berichtigungen S. 137), welde
+eine Gonftellation oom J. 1573 v. Chr. enthält, fleber deutlich das Zeichen
+ber Fijche, der Steinbod unb bie im Waffer madjfenbe Lotusblüthe, um das
+Zeichen bes Waffermanne anzudeuten.“ Der Herausg.
+
+
+Zur Bhilofophie unb Wiffenfhaft der Natur. 137
+
+
+feuhtend, und da aud) die großen Planeten Dies, und zwar nod)
+länger waren; jo wird von den Aftronomen ferner und älterer
+Velten damals die Sonne als ein Doppelstern, ober ein drei-
+fader, ja vierfacher aufgeführt worden feyn. Da nun die Er-
+fältung ihrer Oberfläche fo langsam vor fid) geht, bap, in Dijto-
+riihen Seiten, nicht bie geringfte Zunahme derjelben nachweisbar
+it, ja, fofde, nad) Fourier's Berechnungen, gar nicht mehr
+in irgend merf(idyem Grade Statt findet, weil gerade fo viel
+Bärme, als die Erde jährlich ausftrahlt, fie von der Sonne
+wiedererhält; fo muß, an bem 1384472 Mal größern Volumen
+der Sonne, deren integrirenber Theil die Erde einjt gemejen, bie
+Grlältung in dem biejer Differenz entfprechenden Verhältnifse
+fangjamer, wenngleich ‚ohne Kompenfation von außen, vor fid)
+gehn; wonach denn das Leuchten unb Wärmen ber Sonne fid)
+daraus erflärt, daß fie noch in dem Zustande ift, in melden
+einft aud) die Erde gewefen, deifen Abnahme aber bei ihr viel
+zu langfam geht, als daß der Einfluß berjefben, jelbft aud) nur
+in Sahrtaufenden, zu fpüren wäre. Daß dabei eigentlich ihre
+Atmofphäre das Leuchtende jeyn foll, Tiefe fid) wohl aus ber
+Sublimation ber glühendeiten Theile erklären. — Das Selbe
+gite bann von ben Firfternen, unter denen die Doppelfterne
+jolhe wären, deren Planeten nod) im Zuftande des Selbft-Xeud)-
+lm8 fnb. Dieser Annahme zufolge würde aber alímüfig bod)
+alle Gluth verlöfchen und nad) Billionen Jahren bie ganze Welt
+in Kälte, Starrheit und Nacht verfinten müffen; — wenn nicht
+inzwischen etwan neue Firfterne aus leuchtendem Nebel zufammen-
+gerinnen, und jo ein Kalpa fidj an das andere fnüpft.
+
+
+Man fónnte aus ber physischen Aftronomie folgende teleo-
+logische Betrachtung ableiten.
+
+Die zum Erlalten ober Erwärmen eines Körpers in einem
+Diedio von heterogener Temperatur nöthige Zeit fteht in einem
+iänell anwachsenden Verhältniß zu feiner Größe, welches banad)
+ta Hinficht auf die als heiß angenommenen verfchiedenen Maffen
+ur Blaneten zu berechnen (don Büffon bemüht gemefen ift;
+oh mit mehr Gründlichkeit und Erfolg, in unfern Tagen,
+Sonrier. Im Kleinen zeigen e8 uns bie Gletfcher, welche
+
+
+138 Zur Bhilofophie unb Wissenschaft ber Natur.
+
+
+fein Sommer zu fehmelzen vermag, unb fogar das Eis im Keller,
+als wo eine Hinlänglich große Masse defjelben fid) erhält. Hienach
+hätte, beiläuftg gejagt, das divide et impera feine be[te Ber:
+anfhaulihdung an der Wirkung ber Sommerwärme auf das Eis.
+Die vier großen Planeten empfangen äußerft wenig Wärme
+von der Sonne; da 3. B. auf dem Uranus die Beleuchtung nur
+les derjenigen beträgt, welche die Erde erhält. Folglich find fie,
+zur Erhaltung des Lebens auf ihrer SOber[füdje, ganz auf ihre
+innere Wärme bermiejen; während die Erbe e8 faft ganz auf
+bie äußere, von ber Sonne kommende ijt; wenn nämlich wir
+den Berechnungen Fourier's trauen, nad) melden die Wir:
+fung ber fo intenje fige des Innern der Erde auf bie Ober:
+flähe nur nod) ein Minimum beträgt. Bei der Größe ber vier
+großen Planeten, melde bie der Erde vefpeftive 80 bis 1300 Mal
+übertrifft, ift nun die zu ihrer Abkühlung erforderliche Zeit un:
+beredjenbar lang. Haben wir bodj von der Abkühlung der gegen
+fie fo Heinen Erde nicht bie geringfte Spur in der Diftori[den
+Zeit; wie dies ein Franzose, höchst scharfsinnig, daraus bewiesen
+hat, daß ber Mond im Verhältniß zur Rotation der Erde, nid
+fangfamer geht, aí8 in ber frühelten Zeit, von ber wir Kunde
+haben. Würe nümlid) die Erde irgend Tälter geworden; jo
+müßte fie in eben dem Maaße fid) zufammengezogen haben;
+wodurd eine Befchleunigung ihrer Notation entftanden fen
+würde, während der Gang des Mondes unverändert blieb.
+Diesemnach erfcheint e8 als höchst zwedmäßig, daß die großen
+Planeten die von der Sonne weit entfernten, die Tleinen Din
+gegen die ihr naheftehenden find und der allerkleinfte ber aller-
+nüdjte. Denn diefe werden allmälig ihre innere Wärme ver:
+[ieren, oder wenigftens jid) fo bid inkruftiren, bag fie nicht mehr
+zur Oberflähe durchdringt: fie bedürfen daher der äußeren
+Würmequelle. Die Planetoiden find, als bloße Fragmente eines
+auseinandergefprengten Planeten, eine ganz zufällige Abnormi-
+tät, fommen aljo bier nidjt in Betracht. Wohl aber ift dieses
+Accidens an und für fid) ein bedenklich antiteleologifchee. Wir
+wollen Hoffen, daß dic Kataftrophe Statt gefunden Dat, ehe ber
+Planet bewohnt gewefen. Jedoch kennen wir bie Rüdfichtslofig:
+feit der Natur: id) ftehe für nichts. Daß aber diefe von Okbers
+aufgeftellte und durchaus wahrscheinliche Hypothese jett wieder
+
+
+Zur Bhilofophie und Wiffenfchaft ber Natur. 139
+
+
+beftritten wird, — Hat vielleicht ebenfo viel theologifche, als
+aftronomifche Gründe,
+
+Damit jedoch die aufgeftellte Teleologie vollfommen wäre,
+müßten die vier großen Planeten fo ftehn, bag der größte unter
+ihnen ber entferntefte, der Heine aber der nüdjíte wäre: allein
+hiemit verhält es fid) vielmehr umgekehrt. Auch fónnte man
+einwenden, bag ihre Masse viel Leichter, alfo aud) Loderer ijt,
+als bie der Heinen Planeten: bod) ift fie Dies lange nicht in dem
+Verhältniß, um den enormen Unterfchied der Größe zu fompen-
+firen. Vielleicht ift fie e8 nur in Folge ihrer innern Wärme.
+
+Ein Gegenftanb ganz befonderer teleologifher Bewunderung
+it die Schiefe der Gffiptif; weil nümfid) ohne fie fein Wechsel
+der Sahreszeiten eintreten, fondern iminerwährender Frühling
+auf der Erde herrschen würde, wobei die Früchte nicht reifen
+und gedeihen könnten und folglich die Erde nicht überall bie
+nahe an die Pole heran bewohnt feyn fónnte. Daher jehn in
+der Schiefe der Ekliptik die Physikotheologen die weifelte aller
+Borfehrungen und bie Materialiften den glücklichsten aller Zu—
+fälle. Diefe Bewunderung, bei ber befonders Herder (Jbeen
+zur Bhilofophie ber Geschichte I, 4) fid) begeiftert, ijt jebod)
+beim Lichte betrachtet, ein wenig einfüftig. Denn, wenn be:
+fagtermaaßen ewiger Frühling herrfchte; fo würde die Pflanzen-
+weit gewiß nicht verfehlt haben, ihre Natur aud) banad) einzu-
+richten, nämlich fo, daß eine weniger intenfe, dagegen aber ftet&
+anhaltende und gleichmäßige Wärme ihr angemeffen wäre; eben
+vie die jeßt foffile Flora der Vorwelt fid) auf eine durchaus
+andere Beschaffenheit des Planeten eingerichtet Hatte, gleichviel
+wodurch bieje verurfacht wurde, und bei derjelben wundervoll
+gedieh.
+
+Daß auf dem Monde feine Atmosphäre fid) durch 9tefvaftion
+fund giebt, ift nothwendige Folge feiner geringen Masse, die
+um der unjeré Planeten beträgt und bemnad) fo geringe
+Anziehungskraft ausübt, bag unfere Luft, dahin verfegt, nur Js
+ihrer Dichtigleit behalten würde, folglich feine merkliche 9tefrat-
+tion bewirken könnte und eben fo machtlos im Uebrigen fen muß. —
+
+Hier mag mun nod) eine Hhpothefe über bie Mondoberfläche
+tme Stelle finden; ba id) fie zu verwerfen mid) nicht entfchließen
+kam; obwohl id; die Schwierigkeiten, denen fie unterworfen ift,
+
+
+140 Zur Philofophie und Wissenschaft ber Natur.
+
+
+recht wohl einjefe, fie aud) nur als eine gewagte Sowjeftur be:
+tradjte unb mittheile. Es ift diefe, bag ba8 Wasser des Mondes
+nicht abmejenb, fondern gefroren fei, indem ber Mangel einer
+Atmosphäre eine fajt abjolute Kälte herbeiführt, welche jogar die,
+außerdem durch denfelben begünftigte Verdünftung des Eises
+nicht zuläßt. Nämlih bei der Kleinheit des Mondes, — an
+Volumen !/,,, an Mafle Ya, der Erde, — müssen wir feine
+innere Wärmequelle als erichöpft, ober wenigftens als nicht mehr
+auf die Oberfläche mirfenb, betrad)ten. Von ber Sonne erhält
+er nicht mehr Wärme, als die Erde. Denn, obgleid) er, ein
+Mal im Monat, ifr um fo viel, als fein Abjtand von uns be
+trägt, näher fommt, wobei er zudem ftet nur bie allezeit von
+ung abgemanbte Seite ihr zufehrt; jo erhält diefe Seite dadurd,
+nad Mädler, bod) nur eine im Verhältniß von 101 zu 100
+hellere Beleuchtug (folglich aud) Erwärmung), als die uns zu
+gefehrte, welche nie in diefen Fall und fogar in den entgegen
+gefegten kommt, wann er nämlih, nad) 14 Tagen, wieder um
+eben fo viel weiter, als wir von ihm abftehn, von ber Sonne
+fid) entfernt Dat. Wir Haben alfo feinem ftärfern erwärmenden
+Einfluß der Sonne auf den Mond anzunehmen, als der ift, den
+fie auf die Erde hat; ja, fogar einen schwächern, ba derjelbe für
+jede Seite zwar 14 Tage dauert, dann aber durch eine eben jo
+lange Nacht unterbrochen wird, welde die Anhäufung feiner
+Wirkung verhindert. — Nun aber ijt jede Erwärmung durd
+das Sonnenliht von der Gegenwart einer 9(tmo[pDüre ab:
+hängig. Denn fie gefchieht nur vermöge ber Metamorphofe dee
+Lichtes in Wärme, welche eintritt, wann dafjelbe auf einen
+opafen, b. f. ihm als Licht unburdjbringliden Körper trifft: einen
+folhen fann es nämlih nicht, wie den durchfichtigen, durch
+welchen e8 zu ihm gelangte, in feinem blißfchnellen geradlinigen
+Gange durchschießen: alsdann verwandelt e8 fid) in die fid) nad
+allen Seiten verbreitende und auffteigenbe Wärme. Diefe mum
+aber, als abfolut leicht (imponberabel), muß Tohibirt und zufam-
+mengehalten werden, durch den Drud einer Atmofphäre, fonft ver-
+fliegt fie fd im Gntftebn*). Denn fo blitfchnell auch das
+
+
+*) Eine über eine Pflanze gefetste Glasglode bringt einen hohen Grat
+von Wärme hervor, weil das Licht augenbfidiid burdjgebt unb fid) auf bem
+
+
+Zur Philosophie und Wissenschaft ber Natur. 141
+
+
+e$t, in feiner urfprünglichen, ftraBfenben Natur, die Quft durd-
+[dntibet, fo langsam ijt Hingegen fein Gang, wann es, in Wärme
+verwandelt, das Gewicht unb ben Widerftand eben biejer ut
+s überwältigen Bat, welche befanntlih der fchlechteite aller
+Wärmeleiter ijt. Ist Hingegen diefelbe verdünnt; [o entmeidt
+auch die Wärme leichter, und wenn diefelbe ganz fehlt, anugenblid-
+fif. Dieferhalb find bie hohen Berge, wo ber Drud der Atmo-
+Iphäre bod) erft auf die Hälfte vebucirt ift, mit ewigem Schnee
+bebedt, hingegen tiefe Thäler, wenn weit, bie wärmjten: was
+muB e8 mun erft feyn, wo bie Atmofphäre ganz fehlt! Hinficht-
+(if) ber Temperatur alfo hätten wir unbedenklid alles Wasser
+auf dem Monde aí8 gefroren anzunehmen. Allein jebt entfteht
+die Schwierigkeit, daß, wie die Verdünnung ber Atmofphäre das
+$oden befördert und den Siedepunkt erniedrigt, die gänzliche
+Abwefenheit derjelben den Verdünftungs-Proceß überhaupt febr
+beihleunigen muß, wonad) das gefrorene Waller des Mondes
+längst hätte verbünftet feyn müjjen. Diefer Schwierigkeit nun
+begegnet die Erwägung, daß jede Verdünftung, felbft bie im
+Iuftleeren  9taume, nur vermöge einer fehr bedeutenden, eben
+burd) fie latent werdenden, Quantität Wärme vor fid) geht.
+Tiefe Wärme nun aber fehlt auf dem Monde, als wo die Kälte
+beinahe eine abfolute seyn muß; weil die, durch bic unmittelbare
+Einwirfung der Sonnenftrahlen entwidelte Wärme augenblicklich
+verfliegt und die geringe Verdünstung, die fie etwan dabei
+dennoch bewirkt, alsbald burd) die Kälte wieder niedergefchlagen
+wird, gleich bem Reif*). Denn daß die Verdünnung ber
+vuft, fo febr fie, an fid) felbft, die Verdünftung befördert, diefe
+noch mehr dadurd verhindert, daß fie die dazu nöthige Wärme
+entweichen Täßt, febu wir eben aud am Alpenfchnee, ber fo
+menig burd) Verdünstung, wie durch Schmelzung, verjdyminbet.
+Bei güngfider Abwefenheit der Luft num wird, in gleihem
+
+
+epilen Boden in Wärme verwandelt: biejer Wärme aber ift ba8 Glas nicht
+ie leicht permeabel, wie dem Lichte: daher häuft fie fid) unter der Gíode an
+md erreicht einen hohen Grab.
+
+
+*) Diefer Hypothese ift das Leslie'sche Experiment, vorgetragen von
+donillet, Vol. I, p. 368, durchaus giluftig. Wir fehn ndmlid) das Waffer
+A tuftleeren gefrieren, weil die Berbünftung ibm felbft bie Wärme geraubt
+
+
+142 Zur Philofophie unb Wissenschaft ber Natur.
+
+
+Verhältniß, das augenblidlihe Entweichen ber (id) entwidelnden
+Wärme der Verdünftung ungünftiger fem, als der Mangel des
+Luftdrucks, an fid jelbit, ihr günftig ift. — Diefer Hypothest
+zufolge hätten wir alles Wasser auf dem Monde als in Cif
+verwandelt und namentlich den ganzen, fo räthjelhaften, graueren
+Theil feiner Oberflähe, ben man allezeit a[8 maria bezeidnet
+hat, al8 gefrorenes Waffer anzufehn, wo alsdann feine vielen
+Unebenheiten Teine Schwierigkeit mehr machen und die fo auf
+fallenden, tiefen und meift geraden Nillen, die ihn durchschneiden,
+als weit Tíajfenbe Spalten im geborftenen Eife zu erklären wären,
+welcher Auslegung ihre Geftalt febr günjtig ift*).
+
+Im Allgemeinen ijt Übrigens der Schluß vom Mangel ber
+Atmofphäre und des Wassers auf Abwejenheit alles Lebens nicht
+
+
+ganz fider; fogar könnte man ihn ffeinftübtijd) nennen, sofern
+
+
+er auf ber Voraussetzung partout comme chez nous beruft.
+"Das Phänomen des thierifchen Lebens Tönnte wohl nod) auf
+andere Weife vermittelt werden, als durch Nefpiration und Blut
+umlauf: denn das Wejentliche alles Lebens ift allein der beftäns
+bige Wechjel der Materie, beim Beharren der Form. Wir [rti
+fid) fónnen uns Dies nur unter Vermittelung des Flüssigen und
+Dunftförmigen benfen. — Allein die Materie ijt überhaupt bi
+bloße Sichtbarkeit des Willens. Diefer mum aber ftrebt überall
+die Steigerung feiner Erideinung, von Stufe zu Stufe, an.
+Die Formen, Mittel und Wege dazu füónnen gar mannigfaltig
+fep. — Andrerfeits wieder ift zu erwägen, daß höchst wahr-
+fcheinlich die chemischen Elemente, nicht nur auf dem Monde,
+fondern auch auf allen Planeten die felben, wie auf der Erde
+find; weil ba8 ganze System aus bem felben Ur-Kicht-Nebel, in
+ben bie jeßige Sonne ausgebreitet war, fid) abgejegt hat. Dies
+(üt allerdings eine Aehnlichkeit audj der höhern Willenserfcei-
+nungen vermuthen,
+
+
+*) Der ater Sechi in Rom fchreibt, bei lleberfenbung einer Photo
+graphie bes Monbes, am 6. April 1858: trés remarquable dans la pleine
+lune est le fond noir des parties lisses, et le grand éclat des parties
+raboteuses: doit-on croire celles-ci couvertes de glaces ou de neige?
+
+(Su einem ganz neuen Drama heißt e$: That I could clamber to thc
+frozen moon, and draw the ladder after me! — ift Dichter-Instinkt.)
+
+
+Jum Philofophie unb Wissenschaft ber Natur. 143
+
+
+Die höchst Iharffinnige Kosmogonie, b. Bb. Theorie vom
+Urfprunge des Planetenfyftens, welche zuerit Kant, in feiner
+„Raturgefchichte des Himmels’, 1755, und darauf vollendeter
+im 7. Kapitel feines „einzig möglichen Beweisgrundes“ geliefert
+hat, ijt, beinahe 50 Jahre jpüter, von Laplace (expos. du
+systeme du monde V, 2) mit größerer aftronomifher eunte
+mig entmitfeft unb fefter begründet worden. Ihre Wahrheit bes
+rubt jedoch nicht allein auf ber von Laplace urgirten Grumb-
+lage des räumlichen PVerhältniffes, bag nämlid) 45 Weltförper
+fümmtlih nad einer Richtung cirkuliren und zugleich nad) eben
+derfelben rotiren; fondern fie Dat eine nod) feftere Stüße an
+dem zeitlichen Verhältniß, welches durch das erste und dritte
+Kepler'sche Gefeg ausgedrüdt wird, fofern diefe Gefete bie fefte
+Regel und genaue Formel angeben, nad) welcher alle Planeten
+in ftreng gefegmüpigem Verhältniß, fchneller cirfuliven, je näher
+fie der Sonne ftehn, bei biejer selbst aber an die Stelle der
+Girfufation die bloße Rotation getreten ijt und nun als das
+Marimum der Schnelligkeit jenes progreffiven Verhältnifjes da-
+(tet. ALS die Sonne nodj bi8 zum Uranus ausgedehnt war,
+rotirte fie in 84 Jahren, je&t aber, nachdem fie burd) jede ihrer
+Zufammenziehungen eine Beichleunigung erlitten, unb in Folge
+der fegten, in 25%, Tag.
+
+Wären nämlich die Planeten nicht ftehn gebliebene Theile
+des ehemals fo großen Gentralförpers, fondern auf irgend an:
+bem Wege unb jeder für fid) entftanben; fo wäre nicht zu be-
+greifen, wie jeder Planet genau auf die Stelle zu ftehn gekom⸗
+men fei, mo er, den beiden [egten SKepler’fchen Gefegen gemäß,
+gerade (tert muß, wenn er nicht, ben Neutonifchen Gravitations-
+unb Gentrifugal-Gefeten zufolge, entweder in die Sonne fallen,
+oder davon fliegen foll. Hierauf ganz vorzüglich beruht bie Wahr-
+beit der Kant⸗Laplace'schen Kosmogonie. Sehn wir nämlid), mit
+Jeuton, die Eirkulation der Planeten an als das Produft ber
+Iravitation und einer ihr kontragirenden Centrifugalfraft; jo giebt
+t$ für jeden Planeten, feine vorhandene Gentrifugalfraft als ge:
+geben unb fejtitebenb genommen, nur eine einzige Stelle, wo feine
+Gravitation biejer gerade das Gleihgewicht hält unb er bemnad)
+in feiner Bahn bleibt. Daher num muß es eine und diefelbe Ur-
+
+
+144 Zur Philofophie und Wissenschaft der Natur.
+
+
+sache gewefen fen, welche jedem Planeten feine Stelle und zugleid)
+feine Velocität ertBeilte. — Rückt man einen Planeten näher zur
+Sonne; fo muß er um fo fehneller laufen, folglich auch mehr Gentri-
+fugalfraft erhalten, wenn er nicht hineinfallen foll: vidt man ihn
+weiter von der Sonne meg; jo muß, in dem Maaße, wie da-
+durch feine Gravitation vermindert wird, aud) feine Gentrifugal-
+fraft vermindert werden: fonft fliegt er davon. Seine Stelle
+fónnte aljo ein Planet überall haben, wenn mur eine Ursache
+damäre, welche ibm die jeder Stelle genau angepaßte, nümlid)
+der dafelbft wirkenden Gravitation gerade ba8 Gleichgewicht Hal-
+tende, Gentrifugalfra[t ertheilte. Da wir nun finden, daß jeder
+Planet wirklich bie an dem Drte, mo er fteht, gerade erforder:
+fide Velocität Hat; jo ijt Dies nur daraus zu erklären, daß die
+felbe Urfache, welche ihm feine Stelle ertheilte, auch zugleich den
+Grad jeiner Ge[d)minbigfeit bejtummt hat. Dies mun ijt allein aue
+ber in Rede ftehenden Kosmogonie begreiflih; ba fie den Gen
+traffórper jid) ruckweise zufammenziehn und baburd) einen ing,
+ber fid) nachher zum Planeten ballt, abjegem läßt, wobei, bem
+erften und dritten Kepler'schen Gesetze zufolge, nad jeder Zu-
+fammenziehung, die Rotation des Centralförpers jid stark be-
+fchleunigen muß, und er die Dieburd) bejtimmte Velocität, bei
+der folgenden, abermaligen Zufammenziehung, dem daselbst abge-
+setzten Planeten zurüdläßt. Nun fann er ihn an jedem beliebi-
+gen Ort feiner Sphäre abjegen: denn allemal erhält der Planet
+genau die für diefen, aber für feinen andern Ort pajjeube
+Schwungfraft, als melde um jo ftürfer ausfällt, je näher bem
+Gentvalfürper biejer Ort ift und je ftürfer daher bie ihn zu jenem
+ziehende Gravitation wirft, welcher feine Schwungfraft entgegen-
+zuwirten bat: denn gerade in dem dazu erforderlihen Maaße
+hatte dazu fid) aud) die Schnelligkeit der Rotation des die Plane-
+ten fuccejfiv abfegenden Körpers vermehrt. — Wer übrigens diefe
+nothwendige Beschleunigung der Notation, in Folge der Zufam-
+menziehung, verfinnlicht sehn möchte, dem wird Dies auf eine
+ergögliche Art ein großes, fpiralgewundenes, brennendes Feuer⸗
+rab leiften, als welches Anfangs langfam und dann, in dem
+Maaße als es ffeiner wird, fchneller unb immer fchneller rotirt.
+
+Kepler Hat, in feinem erften und dritten Gefeße, blos;
+das thatfächlihe Verhältnig zwischen bem Abftand eines Pla—
+
+
+Zur Bhilofophie und Wiffenfchaft ber Natur, 145
+
+
+neten von der Sonne unb der Schnelligkeit feines Laufes ausge-
+fprohen; e8 mag nun einen und denfelben Planeten, zu verfdie-
+denen Zeiten, ober zwei verjdjiebene Planeten betreffen. Dieses
+Verhältniß Dat Neuton, indem er Robert Hooke's Grund-
+gedanken, den er Anfangs verworfen Hatte, endlich annahm, aus
+der Gravitation und ihrem (Gegengemidjte, der Centrifugalfraft
+abgeleitet unb hieraus bargetban, daß und warum es fo feyn
+müffe; weil nämlich, bei folder Entfernung vom Centrafför-
+per, der Planet gerade solche Gefchwindigfeit haben müjje, um
+nift entweder hineinzufallen, oder davonzufliegen. Dies ift zwar
+in abfteigender Kaufalreihe bie causa efficiens; aber in auf-
+fteigender ift e8 erft die causa finalis. Wie nun aber ber Pla-
+net dazu gekommen fei, gerade an biefer Stelle eben die Hier
+erforderte Gefchwindigfeit wirklich zu erhalten, ober aud), bei bie-
+fer gegebenen Gejd)vinbigfeit, gerade an die Stelle verfett zu
+werden, wojelbft allein ihr bie Gravitation das Gleichgewicht
+hält, — diese Ursache, diefe nod) Höher hinauf liegende causa
+efficiens lehrt ganz allein die Kant» Laplace’fhe Kos—
+mogonie.
+
+Eben diefe wird einjt aud) noch die ungefähr regelmäßige
+Stellung der Planeten uns begreiffid) madjem, fo daß wir fie
+nicht mehr bloß als regelmäßig, jonbern als gejegmäßig, b. f.
+ans einem Naturgefege hervorgegangen, verftehn werden. Auf
+an foldyes deutet folgendes Schema, welches (don 100 Jahre
+vor ber Entdedung des Uranus befannt war und darauf beruht,
+daß man, in ber obern Reihe, allemal die Zahl verdoppelt unb
+dann in ber unterm 4 Hinzuzählt; wonach bieje die ungefähren
+mittleren Abftände der Planeten in erträglicher Uebereinftimmung
+mit den Deut zu Tage geltenden Angaben barftellt:
+
+
+0. 3. 6. 12. | 24. 48." 9. 192. 384
+
+
+Die Regelmäßigkeit diefer Stellung ift unverfennbar, wenn
+gleid) nur approrimativ zutreffend. Vielleicht giebt «8 jedoch
+für jeden Planeten eine Stelle feiner Bahn, zwifchen ihrem me»
+rijefio und Aphelio, wo bie Regel genau zutrifft: diefe würde
+dann als feine eigentliche unb urfprüngliche Stelle anzufehn feyn.
+Jedenfalls muß bieje mehr oder minder genaue Regelmäßigfeit
+
+
+146 Zur Philofophie unb Wissenschaft ber Natur.
+
+
+eine Folge ber, bei ber fucceffiven Zufammenziehung des Eentral-
+fürperé thätig gewefenen Kräfte und ber Befchaffenheit des ihnen
+zum Grunde liegenden Urjtoffes gewesen seyn. Jede neue Zu:
+fammenziehung der Urnebelmaffe war eine Folge der durch bie ihr
+vorhergegangenen herbeigeführten Beschleunigung der Rotation,
+als welcher jet die üußere Zone nicht mehr folgen Tonnte, fib
+daher losriß und ftehen blieb, wodurd eine abermalige Zusammen⸗
+ziehung entjtanb, welche abermalige Beschleunigung herbeiführte,
+u. s. f. Da biebei der Gentralfürper rudweife an Größe abnafm;
+[o betrug aud) die Weite der Zufammenziehung jedes Mal, in
+eben dem Verhältniß, weniger, nämlid) etwas unter der Hälfte
+der ihr vorhergegangenen; indem er fid) jedes Mal um bie Häffte
+feiner nod) vorhandenen Ausdehnung (— 2) zufammenzog. —
+Auffallend ist übrigens, bag gerade den mittelften der Planeten
+die Statajtropfe betroffen Bat, im Folge welcher nur mod) feine
+Fragmente erijtiren. Er war ber Gränzpfahl amijdje den 4 gro
+Ben unb den 4 kleinen Planeten. |
+Auch darin Liegt eine Beftätigung der Theorie im Ganzen
+genommen, daß die Planeten, je weiter von der Sonne, beíto
+größer find; weil nämlich die Zone, aus ber fie fi zufammen-
+gebalit haben, defto größer war; wiewohl Diebei einige Linregel
+mäßigfeiten in Folge der zufälligen Verfchiedenheit in der Breite
+folder Zone, fid eingefunden haben. Eine anderweitige Bestä—
+tigung der Kant-Laplace'ichen Kosmogonie -ift die Thatfache, das
+die Dichtigfeit der Planeten ungefähr in bem Verhältniß, wie |
+fie ferner von ber Sonne ftehn, abnimmt. Denn Dies erffürt.
+fid) daraus, daß ber entferntefte Planet ein Weberreft der Sonn
+ijt, aus der Zeit, ba fie am ausgedehnteften, folglich am dünnften
+mar: darauf 30g fie fid) zufammen —, wurde alfo dichter; —
+unb fo fort. Daffelbe Hat eine Beftätigung daran, daß der
+Mond, welcher fpäter, auf gleiche Weife, durch Zufammenziehung
+ber nod dunftförmigen, aber dafür bis zum jegigen Monde
+reihenden Erde, entftanden ift, auch nur %, ber Dichtigkeit der,
+Erde Hat. Daß aber die Sonne felbft nicht ber dichtefte von
+allen Körpern des Systems ijt, wird baburd) erflärli, daß jeder
+Planet aus der nahherigen Zufammenballung eines ganzen Rin-
+ges zu einer Kugel entftanden, die Sonne aber bloß das mid
+weiter zufammengedrüdte Nefiduum jenes Centralförpers nad
+
+
+Zur Philofophie unb Wiffenfchaft ber Natur. 147
+
+
+feiner legten Zufammenziehung ift. Noch eine fpecielle Beftäti-
+gung der in Rede ftehenden Kosmogonie giebt der Umftand, dag,
+während bie Neigung aller Planetenbahnen gegen die Glfiptit
+Erdbahn) zwifchen °/, und 3%, Grab variirt, die des Merkure
+i^ 0° 66" beträgt: dies ijt aber beinahe gleich ber Neigung des
+Aequators der Sonne gegen die Gifiptif, als meídje 7° 30' be-
+trägt, unb ift daraus erflärlich, daß der legte Ring, den bie
+Sonne abjegte, mit dem Aequator derfelben, von bem er fid)
+Iostrennte, beinahe parallel geblieben ift; während bie früher
+abgejeßten dabei mehr aus dem Gleichgewicht famen, ober aud)
+die Sonne feit deren Lostrennung ihre Rotationsare verrüdt
+hat. Schon die Venus, als ber vorlekte, hat eine Neigung von
+315°, die andern alle fogar unter 2°, mit Ausnahme des Sa-
+turns, ber 2!/,^ hat. (S. Humboldt's Kosmos, Bd. 3, p. 449.)
+— Sogar ber fo jeltfame Gang unfers Mondes, in welchem
+Rotation und Umlauf Eines find, wodurch er uns immer die
+jelbe Seite zufehrt, ijt allein daraus zu begreifen, daß ‘Dies ge-
+tade die Bewegung eine8 um die Erbe cirkulivenden Ringes ijt:
+aus einem solchen ijt, duch Zufammenziehung defjelben, nachher
+br Mond ent[tanben, darauf aber nicht, gleich ben Planeten,
+ducch irgend einen zufälligen Anftoß, in jchnellere Rotation ver-
+setzt worden.
+
+Diefe Tosmogonifchen Betradhtungen geben uns zunächst zu
+zwei metaphysischen Anlaß. Erftlih, bag im Wefen aller Dinge
+eine Sujammenjtimmung begründet ijt, vermüöge welcher die
+utaenfüuglid)ften, blinden, rohen, niebrigíten Naturfräfte, von
+der ftarreften Gejeglichkeit geleitet, durch ihren Konflikt an der
+ihnen gemeinschaftlich Preis gegebenen Materie und durch bie
+solchen begleitenden accidentellen Folgen, ‚nichts Geringeres zu
+Stande bringen, als das Grunbgerüft einer Welt, mit bewun⸗
+derungswürdiger Smedmüfigfeit zum Entftehungsort und Aufent-
+halt lebender Wefen eingerichtet, in der Vollfommenheit, mie es
+die befonnenfte Ueberlegung, unter Leitung des burdjbringenbeften
+Berftandes und ber schärfsten Berechnung, nur irgend vermodt
+hätte. Wir fehn bier alfo, in überrafchendefter Weife, wie bie
+cusa efficiens und bie causa finalis, bie atta €& avayıng
+wb bie yagtv tou BeXttovoz; des Ariftoteles, jede unabhängig von
+Wt andern baberjdjreitenb, im Resultat zufammentreffen. Die
+
+
+148 Zur Bhilofophie unb Wiffenfhaft ber Natur. -
+
+
+Ausführung diefer Betrachtung und die Erklärung des ifr zum
+Grunde Tiegenden Phänomens aus den Principien meiner Meta
+physik findet man im zweiten Bande meines Hauptwerks, Kap.
+25, ©. 324 fg. (3. Aufl. 368 fg.) Hier ermüfne ich fie nur, um
+darauf hinzuweisen, daß fie ung ein Schema an die Hand giebt,
+woran wir analogifch uns faßlich machen, oder wenigitens im All
+gemeinen abfehn fünnen, wie die zufälligen Begebenheiten, welde
+in den Lebenslauf des einzelnen Menschen eingreifen und fid) durch—
+freugen, bennod) in geheimer und präftabifirter Harmonie, zu
+fammenftimmen, um ein, in Beziehung auf feinen Charakter und
+fein wahres, fegte8 Wohl, eben jo zweckmäßig übereinjtimmendes
+Ganzes herauszubringen, wie menm Alles nur jeinetwegen da
+wäre, aí8 eine bloße Phantasmagorie für ihn allein. Dieses
+näher zu beleuchten ift die Aufgabe der im erjten Bande befind-
+lichen Abhandlung über bie anfcheinende Zweckmäßigkeit im Leben
+des Einzelnen.
+
+Die zweite burd) jene Kosmogonie veranlafte metaphufiice
+Betrachtung ift eben, daß selbst eine fo beträchtlich weit reichende
+physische Erklärung der Entftehung der Welt dennoch nie das
+Verlangen nad) einer metaphysischen aufheben, ober die Stelle
+derfelben einnehmen kann. Im Gegentheil: je weiter man ber
+Grídjeinung auf die Spur gefommen ift, bejto deutlicher merlt
+man, daß man e8 nur mit einer folhen und nicht mit bem
+Wesen ber Dinge an fid) fefbjt zu thun hat. Damit meldet fid
+denn das Q3ebürfnig einer Metaphysik, als Gegengewicht jener
+fo weit getriebenen Physik. Denn alle Materialien, daraus jene
+
+
+Welt, vor unferm Berftande, aufgebaut worden, find im Grunde .
+
+
+eben fo viele unbekannte Größen, und treten gerade als bie
+Räthfel und Probleme der Metaphysik auf: nämlich das innere
+Wesen jener Naturfräfte, deren blindes Wirken hier das Gerüst
+
+
+ber Welt fo zweckmäßig aufbaut; fodann das innere Wesen der
+
+
+hemifch verfchiedenen und demgemäß auf einander wirkenden
+Stoffe, aus deren Kampf, ben am volllommenften Ampere ge
+schildert Hat, die individuelle Beichaffenheit der einzelnen Planeten |
+
+
+hervorgegangen ift; wie solches an den Spuren beffefben nad;
+zumeifen bie Geologie bejchäftigt ift; endlich denn aud) das innere
+Wesen ber Kraft, bie fid) zulett als organifivend ermeift und
+auf der äußersten Oberfläche der Planeten, wie einen Anhauch,
+
+
+Zur Bhilofophie und Wissenschaft der Natur. 149
+
+
+wie einen Schimmel, Vegetation und Animalisation hervorbringt,
+mit welcher letztern allererst das Bewußtseyn, mithin bie Gr»
+kenntniß eintritt, welche wiederum die Bedingung des ganzen
+soweit gediehenen Herganges ist; da Alles, woraus er besteht,
+nur für fie, mur im ifr, ba ist unb nur in Bezug auf fie Reali⸗
+tät bat, ja, bie Vorgänge und Veränderungen selbst nur ber-
+möge ihrer felbfteigenen Kormen (Zeit, Raum, Kaufalität) fid)
+darstellen Tonnten, afjo aud) nur relativ, für ben Intellekt,
+existiren.
+
+Wenn man nämlich einerseits zugeben muß, daß alle jene
+phnfifchen, Tosmogonifchen, chemischen und geologifchen Vorgänge,
+da fie nothwendig, a(8 Bedingungen, dem Eintritt eines Bewußt⸗
+jeyns lange vorhergehen mußten, aud) vor diefem Eintritt, alfo
+außerhalb eines Bewußtseyns, eriftirten; jo i[t andrerfeits nicht
+zu leugnen, daß eben bie bejagten Vorgänge außerhalb eines
+Bewußtjeyns, da fie in und burd) dessen Formen allererft fid)
+darftelfen fónnen, gar nichts find, sich nicht ein Mal denken
+lassen. Allenfalls Tieße fid). fagen: das Bewußtseyn bedingt bie
+in Rede ftehenden phuyfifchen Vorgänge, vermöge feiner Formen;
+üt aber wiederum durch fie bedingt, vermöge ihrer Materie. Im
+runde jebod) find alle jene Vorgänge, melde Kosmogonie umb
+Geofogie als lange vor dem Dafeyn irgend eines erfennenben
+Wesens gefchehen vorauszufegen uns nöthigen, felbft nur eine
+leberjegung in die Sprache unfers anfchauenden Intellefts, aus
+dem ihm nicht faßlichen Wefen an fid) ber Dinge. Denn ein
+Daseyn an fid) felbft Haben jene Vorgänge nie gehabt, fo wenig
+als die jet gegenwärtigen; fondern ber Regressus an ber Hand
+der Principien a priori aller möglichen Erfahrung leitet, eini-
+gen empirifchen datis folgend, zu ihnen hin: er felbft aber ift
+ame die Verfettung einer Reihe bloßer Phänomene, bie feine un-
+bedingte Eriftenz haben*). Daher eben behalten jene Vorgänge,
+
+
+*) Die allem Leben auf ber Erbe vorhergegangenen geologifchen
+Torgänge find in gar feinem Bewußtseyn bagemejen: nicht im eigenen,
+weil fie Feines haben; nicht in einem fremben, weil feines ba war. Also
+hatten fie, aus Mangel an jebem Subjelt, gar kein objeftioe8 Dafeyn, b. b.
+he waren überhaupt nicht; oder mas bedeutet denn noch ihr Dagemwejenfeyn ?
+— Gs ift im Grunde ein bloß bypothetifches: nämlich wenn zu jenen
+Irzeiten ein Bewußtjeyn dagewesen wäre; fo würden in bemfelben folche Sore
+
+
+150 Zur Philofophie und Wissenschaft der Satur.
+
+
+(efbft in ihrem empirifchen Dafeyn, bei aller mechanifchen Sid.
+tigfeit und mathematifchen Genauigkeit der Beitimmungen ihres
+Eintretens, bod) immer einen dunkeln Kern, wie ein schweres,
+im Hintergrunde lauerndes Geheimniß; nämlid) an den in ihnen
+(i äußernden Naturfräften, an der diefe tragenden Urmaterie
+und an ber notfmenbig anfangslofen, alfo unbegreiflichen, Gri-
+ftenz dieser, — melden dunkeln Kern auf empirischem Wege auf
+zubellen unmöglich ift: daher hier die Metaphhsik einzutreten
+hat, welde an unferm eigenen Wefen uns den Kern aller Dinge
+im Willen fennen Tehrt. In diefem Sinne Bat aud Kant
+gejagt: „es ift augenfcheinlich, daß die allererften Quellen von
+den Wirkungen der Natur durchaus ein Vorwurf ber Meta
+physik fein müffen.^ (Bon der wahren Schäßung der Lebenbigen
+
+
+gänge fid) Dargeftellt haben: babin leitet uns ber Stegreffu& ber Erfcheinungen:
+
+
+aljo fag es im Wefen des Dinges an fid, fid) in folden Borgängen bor
+zustellen.
+
+Wenn wir sagen, Anfangs sei ein leuchtender Urnebel gewesen, der
+sich zur Kugelferm geballt und zu kreisen angefangen habe, dadurch sei er
+linsenförmig geworben, unb fein äußerster Umkreis babe fid) ringförmig at
+gesetzt, dann zu einem Planeten geballt, unb das Selbe babe fid) abermals
+wiederholt, unb fo fort, — bie ganze Laplace'sche Kosmogonie; — und wenn
+wir nun ebenfalls die frühesten geologischen Phänomene bis zum Auftreten
+der organischen Natur hinzufügen; so ist Alles, was wir da sagen, nicht im
+eigentlichen Sinne wahr, sondern eine Art Bildersprache. Denn es ist die
+Beschreibung von Erscheinungen, bie als solche nie dagewesen find: denn
+es find räumliche, zeitliche und kausale Phänomene, welche als solche
+schlechterdings nur in ber Vorstellung eines Gehirns eriftiren können, welchet
+Kaum, Zeit und Kausalität zu Formen feines Erkennens fat, folglich cbnt
+ein solches unmöglich unb nie dagewesen find; daher jene Beschreibung bloß
+besagt, daß, wenn damals ein Gehirn existirt hätte, alsdann besagte Borgäng:
+sich darin dargestellt haben würden. An sich selbst sind jene Vorgänge nichts
+Anderes, als der dumpfe, erkenntnißlose Drang des Willens zum Leben nach
+feiner ersten Objektivation, welcher jetzt, nachdem Gehirne ba find, in dem
+Gedankengange derselben und mittelst des Regresses, den die Formen ibres
+Vorstellens nothwendig herbeiführen, fid) darstellen muß als jene primären,
+fosmogonifhen und geologischen Phänomene, bie alfo dadurch zum ersten
+Male ihre objektive Eriftenz erhalten, welche aber deswegen ber (ut:
+jebtiven nicht weniger entspricht, als wein fie mit dieser gleichzeitig unb
+nicht erst ungezählte Jahrtausende hinterher eingetreten wäre.
+
+
+Zur Philosophie unb Wiflenfchaft ber Natur. 151
+
+
+W(fo von dem Bier betretenen Standpunkt, welcher der ber
+Metaphysik ift, aus gefehn, erjcheint jene mit fo vielem Auf-
+wonde von Mühe unb Scharffinn erlangte physische Erklärung
+der Welt als ungenügend, ja, als oberflächlich, und wird ge-
+wiffermanßen zur bloßen Scheinerflärung; weil fie in einer Zu-
+rüfführung auf unbelannte Größen, auf qualitates occultas,
+beiteht. Sie ift einer bloßen Flächenkraft, die nicht ins Innere
+dringt, dergleichen die &leftricität ijt, zu vergleichen; ja, fogar
+bem PBapiergelde, welches nur relativ, unter Vorausfegung eines
+andern, Werth fat. Sch bermeije bier auf bie ausführlichere
+Darlegung diefes BVerhältniffes in meinem Hauptwerke, Bd. 2,
+Rap. 17, ©. 173 fg. (3. Aufl. 191 fg.) Platte Empirifer
+giebt es in Dentfchland, die ihr Bublilum glauben machen
+wollen, e$ gäbe überhaupt nichts als die Natur und ihre Ge-
+setze. Das geht nicht: die Natur ift Fein Ding an fich, und ihre
+Gesetze find feine abjofute.
+
+Reihet man, in Gedanken, die Kant⸗Laplace'sche Kosmogo-
+nie, die Geologie, von Delüc an bi$ auf Elie be Beaumont
+herab, endlich auch noch die vegetabilifche und animalifche Ur⸗
+erzeugung mit dem Kommentar ihrer Folgen, nämlich Botanik,
+Zoologie und Phyfiologie, an einander; fo hat man eine voll
+ftändige Gefhichte der Natur vor fid, indem man das Ganze
+des Phänomens der empirisch gegebenen Welt im Zufammenhange
+überblidt: diefe aber macht erst das Problem der Metaphysik
+aus. Vermöchte die bloße Physik es zu lösen; jo wäre e8 fchon
+nahe daran, gelöft zu werden. Aber das i[t ewig unmöglich;
+die oben erwähnten zwei Punkte, das Wesen an fid) der Natur-
+kräfte und das Bedingtfeyn der objektiven Welt durch den Intel-
+it, woran fidj aud) nod) bie a priori gewisse Anfangslofigfeit
+fowohl ber Kaufalreihe, mie der Materie, Inüpft, benehmen ber
+physik alle Selbftftändigleit, oder find bie Stengel, womit ihr
+?otu& auf dem Boden der Metaphysik wurzelt.
+
+Uebrigens würde das 3Berfültnig ber legten Refultate ber
+Geologie zu meiner Metaphuyfit fif, in der Kürze, folgender-
+maafen auébrüden lassen. In ber allereriten Periode des Erdballs,
+eife bie dem Granit vorhergängige gemejen ijt, Hat bie Objel-
+twation des Willens zum Leben fid) auf ihre unterften Stufen
+beihräntt, alfo auf die Kräfte ber unorgani[djen Natur, wofelbft
+
+
+152 Zur Philofophie und Wiffenfhaft der Natur.
+
+
+“fie nun aber fid) im allergrößten Stil und mit blindem linge
+itüme manifeftirte, indem die schon djemifd) differenzirten Uxftoffe
+in einen Konflikt geriethen, dessen Schauplag nicht bie bloße
+Oberfläche, jondern die ganze Mafje des Planeten war und
+dessen Erfcheinungen fo fofoffaf gemejen feyn müffen, daß feine
+Einbildungstraft fie zu erreichen vermag. Die, jene riefenhaften
+hemifchen Urproceffe begleitenden Lichtentwidelungen werden von
+jedem Planeten unfers Syftems aus fichtbar gemejen seyn, wäh—
+rend die dabei Statt habenden Detonationen, die jedes Ohr ge-
+iprengt haben würden, freilich nicht über bie Atmofphäre Hinauss
+gelangen konnten. Nachdem endlich diefer Titanenfampf ausge-
+tobt unb ber Granit, als Grabftein, die Kämpfer bebedt hatte,
+manifeftirte, mad) angemeffener Baufe und dem Zwifchenfpiel
+neptunijd)er Niederjchläge, der Wille zum Leben fi, im ftärfiten
+Kontrafte dazu, auf der nächsthöheren Stufe, im [tummen und
+ftilen Leben einer bloßen Pflanzenwelt, welches fid nun aber
+ebenfalls im fofojfafen Maaßstabe darftellte, in den himmelhohen
+und endlofen Wäldern, deren lleberrejte uns, nad) Myriaden von
+Jahren, mit einem uner[djópifiden Vorrath von Steinfohlen ver-
+forgen. Diefe Pflanzenwelt defarbonifirte nun auch allmälig bie
+Zuft, wodurd bie[e allererft für das thierifche Leben tauglich
+wurde. Bis dahin dauerte der [ange und tiefe Friede diefer
+thierlofen Periode und endigte zuletzt durch eine Naturrevolution,
+meídje jenes Pflanzenparadies zerftörte, indem fie die Wälder
+begrub. Da jegt bie Quft rein geworden war, trat bie dritte
+große Objektivationsftufe des Willens zum Leben ein, in ber
+Thierwelt: Fische und Getaceen im Meer; aber auf dem Lande
+noch bloße Reptilien; diefe jedoch fofojjal. Wieder fiel ber Welt-
+vorhang, und jobanm folgte die höhere Dbjeltivation des Willens
+im Leben warmblütiger Landthiere; wiewohl folcher, deren genera
+jogar nicht mehr erijtirem und die meiftens Pachydermata waren.
+Nach abermaliger Zerftörung der Erdoberfläche, mit allem Leben-
+ben darauf, entzündete endlich das Leben fid) abermals von Neuem,
+indem jegt ber Wille zu demfelben fid in einer Thierwelt ob-
+jeftivirte, bie viel zahlreichere und mannigfaltigere Geftalten bar»
+bot und deren species zwar nicht mehr, wohl aber nod) bie ge-
+nera borhanden find. Diefe durch jolche Vielheit und Verschie—
+denheit ber Geftalten vollfommener gewordene Objeftivation bee
+
+
+Zur Philosophie unb Wissenschaft ber Natur. 153
+
+
+Billens zum Leben fteigerte fid) bereits bis zum Affen. Allein
+and diefe, unjre fegte Borwelt mußte untergehn, um, auf erneuer:
+tem Boden, der gegenwärtigen Bevölkerung Pla zu machen, in
+der bie Objektivation die Stufe der Menschheit erreicht Bat.
+Eine intereffante Nebenbetrachtung hiebei ijt e8, fid) zu vergegen-
+wärtigen, wie jeder ber bie zahllojen Sonnen im Raum um-
+freifenden Planeten, wenn aud) nod) im chemifchen Gtabio, mo
+er der Schauplatz des [djvedfiden Kampfes der roheften Boten-
+zen ijt, oder in ben ftillen Zwifchenpaufen fid) befindet, doch schon
+in feinem Innern die geheimnißvollen Kräfte birgt, aus denen
+einft bie Pflanzen- und Thierwelt, in ber unerfchöpflichen Man-
+nigfaltigleit ihrer Geftalten, hervorgehn werden, unb zu denen
+jener Kampf nur das Vorfpiel ift, indem er ihnen den Schau—
+plag vorbereitet und bie Bedingungen ihres Auftretens ihnen
+juedjt(egt. Sa, man kann foum umbin, anzunehmen, daß es
+das Selbe ift, was in jenen Feuer- und Wafferfluthen tobt und
+fpüter jene Flora und Fauna beleben wird. Die Erreihung ber
+Iegten Stufe nun aber, der Menfchheit, muB, meines Erachtens,
+bit febte feyn; weil auf ihr bereits bie Möglichkeit der Vernei-
+nung des Willens, aljo der Umkehr von dem ganzen Treiben,
+“eingetreten ift; wodurch alsdann diefe divina commedia ihr
+Ende erreiht. Wenn bemnad) aud) feine phyfilalifche Gründe
+den Nichteintritt einer abermaligen Weltkataftrophe verbürgen;
+jo ftebt einer folchen doch ein moralifcher Grund entgegen, näm⸗
+fif diefer, daß fie jett zwedlos feyn würde, indem das innere
+Wesen der Welt jegt Feiner höheren SObjeftibation zur Möglich—
+fit feiner Erlöfung daraus bedarf. Das Meoralifche ift aber
+der Kern, ober der Grundbaß, ber Cadje; fo wenig bloße Phy-
+ftr dies begreifen mögen. :
+
+
+Um ben Werth des von Neuton jedenfalls zur Vollendung
+mb Gewißheit erhobenen Gravitationsfyftems in feiner
+Größe zu fchägen, muß man fid zurüdrufen, in mefder Ber-
+legenheit, Binfidjtfid) des Urfprunges der Bewegung ber Welt-
+forper, die Denker fid) feit Fahrtaufenden befanden. Ariftoteles
+hieß die Welt aus eingeschachtelten durchfichtigen Sphären zufam-
+mengejegt feyn, deren äußerfte die Fixsterne trug, und die fol-
+
+
+154 Zur Philofophie und Wissenschaft ber Natur.
+
+
+genden jede einen Planeten, die legte den Mond; der Kern ber
+Mafchine war die Erde. Welche Kraft nun diefe Celer. unabläffig
+drehe, war die Frage, auf die er nichts zu fagen wußte, als baf
+irgendwo ein rowrov xtvouv fehn müsse; — welche Antwort man
+nachher (o gütig gewesen ift, ihm zum Theismus auszulegen;
+während er feinen Gott Schöpfer, vielmehr Ewigkeit der Welt
+und bloß eine erste Bewegungsfraft lehrt, zu feiner Weltenleier.
+Aber fogar, nachdem Kopernikus an die Stelle jener fabelhaften
+die richtige Konftruktion ber Weltmafchine gefegt und aud), nad;
+bem Kepler die Gejete ihrer Bewegung entbedt Hatte, beftand
+nod) immer die alte Verlegenheit hinfichtlich der bewegenden Kraft.
+Schon NAriftoteles Hatte den einzelnen Sphären cebenfo viele
+Götter vorgefegt, zur Lenkung. Die Scholaftifer hatten diefe
+Lenkung gemiffen fogenannten Intelligenzen, welches bloß ein
+vornehmeres Wort für bie lieben Engel ijt, übertragen, deren
+jede num ihren Planeten kutschirte. Später wußten freier Den-
+fende, wie Jordanus Brunus und Banini*), bod) auch nidts
+Befferes, als die Planeten felbft zu einer Art lebender, göttlicher
+Wefen zu maden. Darauf fam Kartefius, der ftetS Alles mecha⸗
+nisch erklären wollte, jedoch feine andere bewegende Kraft faunte,
+als den Stoß. Demnah nahm er einen unfichtbaren und ium
+fühlbaren Stoff an, ber fchichtweife die Sonne umfreifte und die
+Planeten vorwärtsichöbe: bie Kartefifchen Wirbel. — Wie kindisch
+und plump ift bod) dies Alles und wie Dod) daher das Gravi-
+tationssystem zu fchäten, welches bie bewegenden Urfachen und
+
+
+exercit. 33) fagt: „Cum adminiculo et ministerio Intelligentiarum
+orbem a Deo regi voluerit Aristoteles, de iisdem nonnulla enucleate
+edissere operae pretium putavi..... Intelligentia dicta est a per-
+fectione illa, qua ducitur in amorem primae causae etc. Earum duo
+sunt ordines primarii, coelestis, et supercoelestis: Coelestis offi-
+cium est suum movere cujusque orbem. Supercoelestis assistit
+primae causae“ etc. Weiterhin werben bie Intelligenzen mit ben Engeln
+ibentificirt. Borher p. 207 (exercit. 32) fagt Banini, daß Ariftoteles in
+diesem Sinne zu verftehen fei, und de admirandis naturae, Lutet. 1616,
+p. 20 (Dial. 4) nennt er bie bewegenden Kräfte ber Qünmelslürper „men-
+tes orbium motrices“ unb fagt: „Si in Christianorum scholis enutritus
+non essem, asseverarem, Coelum esse animal, quod & propria forma,
+quae anima est, movetur'', etc, Der Herausg.
+
+
+Zur Philofophie unb Wiffenfhaft ber Natır. 155
+
+
+bie in ihnen thätigen Kräfte unleugbar nadjgemiejen Hat, und
+dies mit folder Sicherheit und Genauigkeit, daß aud) die Heinfte
+Aweihung und Unregelmäßigleit, Beichleunigung und VBerlang-
+jomung im Lauf eines Planeten oder Zrabanten (ifj aus ihrer
+nähften Urfache volífommen erklären und genau berechnen Täßt.
+
+Demnach ift der Grundgedanke, bie uns nnmittelbar nur
+als Schwere befannte Gravitation zum Zufammenhaltenden des
+Planetenfyftems zu machen, ein, burd) bie Wichtigfeit dev fid)
+daran Inüpfenben Folgen, jo Büdjt bedeutender, daß bie Nad-
+forihung nach feinem Urfprunge nicht als irrelevant befeitigt zu
+werden verdient: zumal wir uns beftreben follten, \wenigftens
+als Nachwelt gered)t zu seyn, ba wir al8 Mitwelt e8 fo felten
+vermögen.
+
+Daß, als Neuton 1686 feine principia veröffentlichte,
+Robert Hoole ein lautes Gefchrei über feine Priorität des
+Srundgedanfens erhob, ift befannt; wie aud), daß feine und
+Anderer bittere Klagen bem Neuton das Versprechen abnöthigten,
+in der eriten vollftändigen Ausgabe ber principia, 1687, ihrer
+zu erwähnen, was er denn aud in einem Scolion zu P. I.
+prop. 4, corol. 6, mit möglichfter Wortlargheit getan hat, näm⸗
+fid in parenthesi: „ut seorsum collegerunt etiam nostrates
+Wrennus, Hookius et Hallaeus.“
+
+Daß Hooke schon im Jahre 1666 das Wefentliche des
+Gravitationssystems, wiewohl nur als Hhpothefe, in einer com-
+munication to the Royal society ausgesprochen hatte, erfehn
+wir aus ber Hanptftelle derfelben, welche, in Hooke's eigenen
+Worten, abgebrudt iff in Dugald Stewart’s philosophy of the
+human mind, Vol. 2, p. 434. — In ber Quarterly review
+vom Auguft 1928 ftebt eine recht artige koncise Geschichte ber
+Witronomie, welde Hooke's Priorität als ausgemadjte Cade
+behandelt.
+
+3n der beinahe Hundert Bände befajjenden Biographie
+universelle par Michaud fcheint ber Artikel Neuton eine Ueber-
+jegung aus ber Biographia Britannica zu feyn, auf welche er
+ih beruft. Er enthält die Darftellung des Weltsystems aus
+dem Gravitationsgesetz, wörtlih und ausführlih, nad) Robert
+Hooke’s an attempt to prove the motion of the earth from
+observations, Lond. 1674, 4. — Werner fagt ber Artikel, ber
+
+
+156 Zur Philofophie und Wiffenfhaft ber Natur.
+
+
+Grundgedanke, bag die Schwere fid) auf alle Weltkörper erftrede,
+finde fid) [dom ausgefprocdhen in Borelli theoria motus plane-
+tarum e causis physicis deducta. Flor. 1666. Endlich giebt
+er noch die lange Antwort Neuton’s auf Hoofe’s oben erwähnte
+Reklamation der Priorität der Gntbedung. — Die zum Cfel
+wiederholte Apfelgefchichte Hingegen ijt ohne 9luftoritüt. Sie
+findet fid) zuerft als eine befannte Thatfache erwähnt in Turnor's
+history of Grantham, p. 160. Bemberton, ber nodj ben
+Neuton, wiewohl in hohem und ftumpfem Alter, gefannt hat,
+erzählt zwar, in der Vorrede zu feiner view of Newton's phi-
+losophy, ber Gedanke jei demfelben zuerft in einem Garten ge-
+fommen, fagt aber nichts vom Apfel: biejer wurde nachher ein
+plaufibler 3ujag. Voltaire will ihn von Neuton’s Nichte
+mündlich erfahren haben; was denn wahrjcheinlich bie Quelle der
+Geschichte iit. Siehe Voltaire Éléments de philos. de Neuton,
+P. II. ch. 3. (ine Note zu BYyrons Don Juan, canto X,
+st. l. (€. Works of Byron, 1850, pag. 704, note 1) fagt:
+The celebrated apple tree, the fall of one of the apples of
+which is said to have turned the attention of Newton to the
+subject of gravity, was destroyed by wind about four years
+ago. The anecdote of the falling apple is mentioned neither
+by Dr. Stukeley nor by Mr. Conduit, so, as I have not
+been able to find any authority for it whatever, I did not
+feel myself at liberty to use it. —  Brewster'* Life of
+
+Zu allen diefen, ber Annahme, bag ber große Gedanke ber
+allgemeinen Gravitation ein Bruder der grundfalichen homogenen
+Lichter- Theorie fei, widerfprechenden Auftoritäten habe id) nun
+noch ein Argument zu fügen, weldes zwar nur piychologifch ift,
+aber für Den, ber bie menjdjfide Natur aud) von ber intellel-
+tuellen Seite Tennt, viel Gewicht haben wird.
+
+Es ift eine befannte und unbeftrittene Thatfache, daß Neu:
+ton, febr frühe, angeblich schon 1666, möge es nun aus eigenen,
+oder aus fremden Mitteln gewejen feyn, das Gravitationssystem
+aufgefaßt hatte und nun, burd) Anwendung deffelben auf ben
+Mondlauf, es zu verifiziren verjuchte; daß er jebod), weil das
+Grgebnig nicht genau zur Hypothese ftunmte, bieje wieder fallen
+gelafien "unb fid) der Gadje auf viele Jahre entjchlagen hat.
+
+
+Zur Philosophie und Wissenschaft ber Natur. 157
+
+
+Eben fo bekannt ift der Urfprung jener ihn davon zurüdichreden-
+bw Diskrepanz: fie war nämlich bloß daraus entftanden, daß
+Neuton ben Abftand des Mondes von uns um beinah !/ zu Hein
+annahm, und Diefes wieder, weil derjelbe zunächft nur in Grb-
+halbmefjern ausgerechnet werden fann, ber Erdhalbmesser nun
+wieder au& ber Größe ber Grade des Erdumkfreifes berechnet
+wird, diese letzteren allein aber unmittelbar geme[jen werben.
+Nenton nahm nun, bloß nad) der gemeinen geographifchen Be-
+ftimmung, in runder Zahl, den Grab zu 60 Englifchen Meilen
+an, während er in Wahrheit 69", Bat. Siebon war die Folge,
+baf ber Mondlauf zur Hypothese der Gravitation, als einer
+Kraft, bie nah dem Quadrat der Entfernung abnimmt, nicht
+ftimmte. Darum alfo gab Neuton die Hhpothefe auf und ent-
+schlug fif) derfelben. Erst etman 16 Sabre fpäter, nämlich 1682,
+erfuhr er zufällig das Refultat der bereits feit einigen Jahren
+vollendeten Gradmeffung des Franzosen Picard, wonad der
+Grab beinahe '/, größer war, als er ihn ehemals angenommen
+hatte. Ohne Dies für befonders wichtig zu halten, notirte er
+t$ fij, in ber Wfabemie, wojelbit e8 ihm aus einem Briefe
+mitgetheilt worden, und hörte fobann, ohne baburd) zerftreut zu
+jeyn, dem Bortrage dafelbft aufmerfjam zu. Erft hinterher fief
+ihm die alte Hhpothefe ein: er nahm feine Rechnungen darüber
+wieder vor unb fand jest den Xfatbejtanb genau derfelben ent-
+Iprehend, worüber er befannt(id) in große Gfftaje gerieth.
+
+Jetzt frage ich Seben, der felbft Vater ijt, der felbft Hhpo-
+tbefen erzeugt, genüfrt und gepflegt bat: geht man fo mit fel-
+nen Rindern um? ftößt man fie, wenn nicht Alles gleich flappen
+wif, fofort unbarmherzig aus dem Haufe, fchlägt bie Thüre zu
+und frägt in 16 Jahren nicht mehr nad ihnen? wird man
+idt vielmehr in einem Ball obiger Art, che man das fo bittere
+„es ift nichts damit‘ ausfpricht, vorher nod) überall, und müßte
+(6 bei Gott Vater in der Schöpfung feyn, einen Fehler ver-
+muthen, eher als in feinem theuern, jelbfterzeugten und gepflegten
+Kinde? — und nun gar hier, wo ber Verdacht feine richtige
+Stelle fo leicht hätte finden fünnen, nämlid in bem (neben
+einem vifirten Winkel) alleinigen empirifchen Dato, welches ber
+Rechnung zum Grunde lag, und dessen Unfiderfeit fo befannt
+war, bag bie Sranzofen ihre Gradmefjungen fehon [eit 1669
+
+
+158 Sur PHilofophie unb Wiflenfchaft der Natur.
+
+
+betrieben, welches jchwierige Datum Neuton aber so ganz oben
+Dim, mad) der gemeinen Angabe, in Englifhen Meilen, ange:
+nommen hatte. Und fo verführe man mit einer wahren und
+welterflärenden Hhpothefe? Nimmermehr, wenn fie eine
+eigene ift! — Hingegen mit wem man fo umgeht, weiß id
+aud) zu fagen: mit fremden, ungern ins Haus gelafjenen Fin-
+dern, auf weíde man, (am Arm feiner eigenen, unfruchtbaren
+Gemahlin, bie nur Ein Mal, und zwar ein Monstrum, geboren)
+(decl und mißgänftig Hinfieht und fie, eben nur von Amts wegen,
+zur Prüfung zuläßt, fchon Doffenb, bag fie nicht beftehn werden,
+jobald aber fid) Diejes beftätigt, fie mit Hohngelächter aus bem
+Haufe jagt.
+
+Diefes Argument ijt, wenigftens bei mir, von [o vielem
+Gewicht, daß id) darin eine vollfommene Beglaubigung ber Au-
+gaben erfenne, welche ben Grundgedanken der Gravitation bem
+Hooke zufchreiben und nur bie Verifilation deffelben burd) Be
+vehnungen bem Neuton laffen; monad) e$ bem armen Hoole
+ergangen ift, mie bem Kolumbus: es heißt „Amerika“, und e?
+heißt „das Neutonifche Gravitationssystem“. —
+
+Was übrigens das oben berührte fiebenfarbige Monstrum
+
+
+betrifft; fo könnte, bag e8 40 Jahre nad) Erfcheinung der Goethe |
+
+
+iden Farbenlehre nod) in vollem Ansehn fteht und bie alte
+gitanei vom foramen exiguum und ben 7 iyarben, aller Augen
+
+
+füffigfeit zum Sog, nodj immer abgefungen wird, mid) aller —
+
+
+dings irre machen; — hätte ich nicht (djon längst mich gewöhnt,
+das Urtheil der Zeitgenoffen den Imponderabilien beizuzählen.
+Daher alfo fefe id) darin nur einen Beweis ber trübfäligen und
+beflagenswerthen Beichaffenheit einerfeits der Phyfifer von Pro-
+felfton und andrerfeits des fogenannten gebildeten Publikums,
+welches, ftatt zu prüfen was ein großer Mann gejagt hat, jenen
+Sündern gläubig nadjrebet, Goethe's Farbenlehre [ei ein mif:
+[ungener, unberufener Versuch, eine zu vergeffende Schwachheit.
+
+
+Die Handgreiflihe Thatfache ber foffilen Diufcheln, welde |
+
+
+[Bon dem Gíeaten Zenophanes befannt war unb von ihm, im
+
+
+Allgemeinen, and richtig ausgelegt wurde, wird von Voltaire
+beftritten, geleugnet, ja, für eine Chimäre erf(üct. (Man sehe
+
+
+Zur Bhilofophie und Wissenschaft ber Natur. 159
+
+
+Brandis, comment. Eleaticae, p. 50 und Voltaire, dict. phil.
+art. coquille.) So groß nämlid) war fein Widerwille, irgend etwas
+gelten zu laffen, was zu einer Beftätigung ber Mofaifchen Be-
+rihte, in diefem Falle der Sündfluth, aud) nur verdreht werden
+fünnte. Ein warnendes Beifpiel, wie febr uns der Eifer irre
+führen fan, wenn wir Partei ergriffen haben.
+
+
+Eine volffommene Verfteinerung ijt eine totale chemifche
+Veränderung, ohne alle mechanische.
+
+
+Wenn ih, um einen Blid in bie Inkunabeln des Erdballs
+zu genießen, den frijden Bruch eines Stüdes Granit betrachte,
+will e8 mir gar nicht in den Sinn, daß biefe8 Urgeftein irgend-
+wie burd) Fusion und Krhftallifation, auf dem trodenen Wege,
+entftanden seyn follte, aud) nicht durch Sublimation, aber aud
+eben fo wenig burd) Niederfchlag; fondern mir dünkt, es müsse
+burd) einen demijden Proceß ganz anderer Art, der jegt nicht
+mehr vorfommt, entftanden feyn. Am beften entfpricht meinem
+Begriff der Sache ber einer fchnellen und fimultanen Verbren⸗
+nung einer Mifhung von Metalfoiden, vereint mit ber fogleich
+wirtenden Wahlverwandtfchaft der Produkte jener Verbrennung.
+96 man wohl je verfucht hat, Silicium, Aluminium u. f. f., in
+dem Verhältnisse, wie fie die Radikale der Erden der drei
+Beitandtheile des Granit ausmahen, zufammenzumifchen und
+dann, unter Wasser, oder an der Luft, schnell verbrennen zu
+
+Unter den dem bloßen Auge fichtbaren Beifpielen der gene-
+ratio aequivoca ijt das alltäglichfte das Hervorfchießen von Pil⸗
+zen überall wo ein vegetabilifcher abgeftorbener Körper, fel es
+Stamm, Aft oder Wurzel, fault; und zwar an feinem andern
+Fleck als ba, dann aber, in der Regel nicht vereinzelt, fondern
+gleich Haufenweife; — fo daR augenscheinlich nicht ein vom blin⸗
+ben Zufall hier ober dort Bingeworfenes Saamenforn (Spora)
+die Stelle bejtimmt Hat, fondern der bajefbjt faulende Körper,
+welher dem allgegenwärtigen Willen zum Leben einen geeigne-
+ten Stoff barbot, den biejer jogíeid) ergreift. — Daß eben diefe
+
+
+160 — Zur Philofophie unb Wissenschaft ber Natur.
+
+
+Bilze fid) nachmals durch Sporen fortpfíangen, fpricht nicht da-
+gegen: denn es gilt von allen belebten Weien, als meldje Saamen
+haben, unb bod) einft ohne Saamen entjtanden seyn müssen.
+
+
+Die Vergleihung ber Flußfische in febr weit von einan-
+ber entfernten Ländern legt vielleicht das beutíid)fte Zeugniß ab
+von ber urfprünglichen Schöpferfraft der Natur, welche fie über:
+all, wo Ort und Umftände ähnlich find, aud) auf ähnliche Weise
+ausgeübt Dat. Bei ungefährer Gleichheit der geographischen
+Breite, ber topographifchen Höhe, endlich aud) der Größe und
+Ziefe der Ströme wird man, felbft an den von einander ent
+legenften Orten, entweder ganz die felben, ober bod) jehr ähn-
+fide Fifchfpecies finden. Dean benfe nur an die Forellen in
+den Bächen faft aller Gebirge. Die Muthmaaßung absichtlicher
+
+
+Einführung fällt bei diefen Thieren meiftens "ganz weg. Die |
+
+
+Verbreitung burd) Vögel, die den Qaid) fräßen, aber nicht otv
+daueten, reicht bei großen Entfernungen nicht aus: denn in für
+zerer Zeit, als ihre 9teije, wird ihr Verdauungsproceß vollbragit.
+Auch möchte id) wiffen, ob e8 mit bem Nichtverdauen, alfo einem
+
+
+zwedwidrigen Freffen auch feine Richtigkeit habe; da mir bod |
+den Kaviar fehr gut verbauen, Kropf und Magen ber Bögel
+
+
+aber jogar auf Verdauung harter Körner eingerichtet find. —
+Will man den Urfprung der Flußfifche zurüdverlegen auf die
+(egte große allgemeine Ueberschwemmung; fo vergiBt man, baf
+diefe aus Gees und nicht aus Flußwasser beftand.
+
+
+Wir verftehn das Anschießen Tubifcher Kryftalle aus dem
+Salzwasser nicht besser, als das des Hühnchens aus ber Flüssig⸗
+feit im Gi: und zwifchen diefem wiederum und ber generatio
+aequivoca wollte Delamark feinen. wejentfidjen Unterfchied
+finden. Jedoch ijt ein folder vorhanden: da nämlich aus jedem
+Ei nur eine bestimmte Species hervorgeht; fo ift Dies gene-
+ratio univoca (e£ öpwvupou' Arist. metaph. Z, 25). Hie—
+gegen Tieße fid) wieder einwenden, daß jede gemau beftimmte
+Infufion aud) nur eine beftimmte Art mifrojfopifder Thiere zu
+erzeugen pflege.
+
+
+Zur Philofophie und Wissenschaft ber Natur. 161
+
+
+Bei den allerfchwierigften Problemen, an deren [ung bei-
+nahe verzweifelt wird, müfjen wir bie wenigen und geringen
+Tata, welhe wir haben, zum möglichften Vortheil benugen, um,
+bur) Kombination derjelben, bod) etwas herauszubringen.
+
+In ber „Chronif der Seuhen” von Schnurrer, 1825,
+finden wir, daß, nachdem im 14. Jahrhundert der fhwarze Tod
+ganz Europa, einen großen Theil Asiens unb aud) Afrika’s ent-
+völfert hatte, gleich darauf eine ganz außerordentliche Fruchtbar⸗
+feit des Menfchengefchlechtes eingetreten und namentlich die Zwil-
+Iingsgeburten fehr häufig geworden jeien. In Uebereinftimmung
+hiemit lehrt Casper („Weber bie wahrfcheinliche Lebensdauer des
+Menschen“, 1835), auf vielfach wiederholte Erfahrungen im Großen
+gejtügt, daß, in ber gegebenen Bevölkerung eines Diftrifts, bie
+Sterblichfeit und Lebensdauer ftet8 gleichen Schritt Hält mit ber
+Zahl der Zeugungen in derjelben; fo daß bie Sterbefälle und bie
+Geburten. allemal und allerorten fid) in gleichem Verhältniß ver-
+mehren und vermindern, weldes er, durch aufgehäufte Belege
+ans vielen Ländern und ihren verjchiedenen Provinzen, außer
+Zweifel setzt. Nur irrt er darin, daß er durchgängig Urfady und
+Wirfung vermedjelt, indem er die Vermehrung der Geburten
+für bie Urfache der Vermehrung der Todesfälle hält; nad) meiner
+lebergengung hingegen und in llebereinftimmung mit dem von
+Schnurrer beigebrad)ten Phänomen, welches ihm nicht befannt
+zu jeyn (dint, umgelehrt, die Vermehrung der Sterbefälle es
+it, welche die Vermehrung der Geburten, nit burd) physischen
+Einfluß, fondern burd) einen metaphysischen Zufammenhang nad)
+ih zieht; mie id) diefes schon erörtert Habe im 2. Bande meines
+Hauptwerks, Kap. 41, €. 507 (3. Aufl. 577). Alfo hängt, im
+Ganzen genommen, die Zahl der Geburten ab von der Zahl ber
+Sterbefälle.
+
+$ienad) wäre e& ein Xtaturgeje&, daß die prolifife Kraft
+des Menfchengefchlehts, welche nur eine befondere Ge[talt ber
+Zeuugungsfraft der Natur überhaupt ijt, burd) eine ihr antago-
+nistische Ursache erhöht wird, aljo mit dem Widerftande wädjlt;
+— daher man, mutatis mutandis, bieje8 Gefeß bem Mariotti-
+ihen fubfumiren fünnte, bag mit ber Kompreffion ber Widerftand
+ins Unendliche zunimmt. Nehmen wir mum an, jene, ber profi
+
+
+169 Sur Philofophie und Wiffenfchaft ber Natur.
+
+
+fifen Kraft antagoniftifche Ursache trüte ein Mal, burd Per:
+nod) nie bagemejenen Größe und Wirkfamfeit auf; fo müßte
+nachher auch wieder bie profifife Kraft auf eine bis jekt ganz
+unerhörte Höhe fteigen. Gehn wir endlich in jener Verstärkung
+der antagoniftifchen Ursache bis zum äußerften Punkt, aljo ber
+gänzlichen Ausrottung des Menfchengejchlechts; jo wird aud) bie
+fo eingezwängte profifife Kraft eine bem Drud angeme[fene Ge
+walt erlangen, mithin zu einer Anftrengung gebradjt werden, die
+das jetzt unmöglich Scheinende feiftet, nämlich, da ihr bie gene-
+ratio univoca, b. B. die Geburt des Gleichen vom Gleichen,
+verfperrt wäre, fid) dann auf die generatio aequivoca werfen.
+Diefe jedoch Täßt fid) auf den obern Stufen des Thierreichs
+nicht mehr fo benfen, wie fie auf den allerunterften fid) uns dar-
+ftelít: nimmermehr fann die Geftalt des Löwen, des Wolfes, des
+Elephanten, des Affen, ober gar des Menschen, nad) Art ber
+Infuftonsthierhen, der Entogoen und Epizoen entítanben feyn
+und etwan geradezu fid) erhoben haben aus zufanmengerinnen-
+dem, fonnebebrüteten Meeresihlamm, oder Schleim, oder aus
+faufenber organischer Masse; Tondern ihre Entftehung kann nur
+gebadjt werden aí8 generatio in utero heterogeneo, folglid
+fo, baf aus dem Uterus, ober vielmehr bem Ei, eines befonders
+begünftigten thierifchen Paares, nachdem die durch irgend etwas
+gehemmte Lebenskraft feiner Species gerade in ihm fid an-
+gehäuft und abnorm erhöht Hatte, nunmehr ein Mal, zur glüd-
+lichen Stunde, beim rechten Stande der Planeten und dem Zusam—
+mentreffen aller günftigen atmofphärifchen, tellurifchen und aftra=
+lischen Einflüffe, ausnahmsweije nicht mehr feines Geiden, fon:
+dern bie ihm zumächft verwandte, jedoch eine Stufe höher ftehende
+Gestalt hervorgegangen wäre; fo daß dieses Paar, diefes Mal,
+nicht ein bloßes Individuum, fondern eine Species erzeugt hätte.
+Vorgänge diefer Art fonnten natürlich er(t eintreten, nachdem
+die allerunterften Thiere fi, durch bie gewöhnliche generatio
+aequivoca, aus organijder Fäulniß, oder aus dem Zellen:
+gewebe lebender Pflanzen ans Licht emporgearbeitet hatten, ale
+erite Vorboten und Duartiermadjer der kommenden Thiergefchledh-
+ter. Ein folder Hergang muß eingetreten feyn nach jeder jener
+großen Erdrevolutionen, welche fd)on wenigftens dreimal alles
+
+
+Zur Philofophie unb Wiffenfhaft ber Natur. 163
+
+
+Peben auf dem Planeten völlig ausgelöfcht Haben, fo bap e8 fid)
+von Neuem zu entzüinden Hatte, wonach e8 jedes Mal im voll-
+fommeneren, b. D. ber jeßigen. Fauna näher jtehenden Geftalten
+aufgetreten ift. Aber erft in der, nach der lebten großen Sata-
+ilropje der Erboberflähe auftretenden Thierreihe hat jener Her-
+gang fij bis zur Entjtehung des Menfchengefchlechtes gejteigert,
+nachdem er fchon nad) ber vorleßten es bis zum Affen gebradjt
+hatte. Die Batrachier führen vor unfern Augen ein Fijchleben,
+ehe fie ihre eigene, vofffommene Geftalt annehmen, und nad) einer
+jest ziemlich allgemein anerkannten Bemerkung, durchgeht eben
+jo jeder Fötus fucceffive die Formen der unter feiner Species
+ttehenden Klassen, bi8 er zur eigenen gelangt. Warum foffte nun
+mft jede neue und höhere Art baburd) entjtanden feyn, daß
+ele Steigerung der Fötusform ein Mal nod) über die Form
+der ihn tragenden Mutter um eine Stufe hinausgegangen ift? —
+G8 ift die einzige rationelle, b. B. vernünftigerweife denkbare
+Entftehungsart der Species, bie fid) erfinnen läßt.
+
+Wir haben aber bieje Steigerung uns zu benfen nicht als
+in einer einzigen Linie, fondern in mehreren nebeneinander auf-
+feigenden. So 3. 9. ift ein Mal aus bem Ei eines Fifches
+ein Ophidier, ein ander Mal aus diefes feinem ein Saurier,
+jugleid) aber aus dem eines andern Fifches ein Batrachier, dann
+aber aus diefes feinem ein Chelonier hervorgegangen, aus dem
+ines dritten ein Getacee, etwan ein Delphin, fpäter wieder hat
+tt Cetacee eine Phofa geboren und endlich einmal eine Phofa
+das Wallroß; und vielleicht ijt aus bem Ei ber Ente das Schnabel-
+Ser unb aus dem eines Straufßen irgend ein größeres Säuge⸗
+ter entftanden. Weberhaupt muß ber Vorgang in vielen Län-
+den der Erde zugleich und in gegenfeitiger Unabhängigkeit Statt
+runden Haben, überall jebod) in fogleich beftimmten, deutlichen
+Stufen, deren jede eine fejte, bleibende Species gab; nicht aber
+in allmäligen, verwifchten llebergüngen; alfo nicht nach Analogie
+ün$ von ber untern Oktave bis zur oberjten allmälig fteigen-
+*m, folglich Deufenben Tones, fondern nad) ber einer in bestimm⸗
+m Absätzen auffteigenden Tonleiter. Wir wollen e8 uns nicht
+vergehlen, daß wir danach die erften Menfchen uns zu benfen
+hätten als in Afien vom Pongo (deffen Junges Drang -Utan
+Big) und in Afrifa vom Scimpanfee geboren, wiewohl nidjt
+
+
+164 : Sur Philosophie unb Wissenschaft ber Natur.
+
+
+.- als Affen, fondern jogleih als Menschen. Merkwürdig ijt es,
+
+
+daß diefen Ursprung fogar ein Buddhaiftifcher Mythos lehrt, der
+zu finden ijt in X. 3. Schmidt’s „Forfhungen über bie Mon—
+golen und Tibeter”, €. 210— 214, wie aud) in Klaproth's
+Fragments Bouddhiques im nouveau Journal asiatique, 1851,
+Den bier ausgeführten Gebanfen einer generatio aequi-
+voca in utero heterogeneo hat zuerft der anonyme Verfasser
+ber Vestiges of the natural history of Creation (6th edi-
+tion, 1847) aufgeftellt, wiewohl keineswegs mit gehöriger Deut:
+fid)feit und Bestimmtheit; weil ev ihn eng vermebt hat mit um
+haltbaren Annahmen und großen Irrthümern; welches im (et:
+ten Grunde daraus entjpringt, daß bei ihm, als Kngländern,
+jede die bloße Physik überfchreitende, aljo metaphysische An-
+nahme fogleih zufammenfält mit bem Hebräischen Theismus,
+welchen eben vermeiden wollend er dann ba8 Gebiet ber Phy-
+[if ungebübrlid) ausdehnt. So ein Engländer, in feiner Ber
+wahrlofung und völligen Rohheit Hinfichtlid aller spekulativen
+Philosophie, oder Metaphysik, ijt eben gar feiner geiftigeu Auf: -
+faffung der Natur fähig: er kennt daher kein Mittleres zwifchen
+einer Auffaffung ihres Wirkens, als nad) jtrenger, wo möglid)
+mechanischer Gejegmäßigkeit vor fid) gehend, ober aber als das
+vorher wohlüberlegte Kunftfabrifat des SHebräergottes, ben er
+feinen maker nennt. — Die Pfaffen, bie Pfaffen in England
+haben e8 zu verantworten, biefe verjchmigteften aller SObffuran. |
+ten. Sie haben die Köpfe dafelbft fo zugerichtet, daß fogar in
+den kenntnißreichsten und aufgeflärteften derfelben das Grund-
+gebanfenjp[tem cin emijd) von fraffeftem Meaterialismus mit
+plumpefter Iudenfuperftition ijt, bie darin, wie Effig und Tel,
+durch einander gerüttelt werden, und jehn mögen, wie fie fid) ver:
+tragen, und daß, in Yolge ber SOrforber Erziehung, Mylords und
+Gentlemen in der Hauptfache zum Pöbel gehören. Aber es wird
+nicht befjer werden, jo lange nod) bie ortfoboren Ochfen in Oxford
+bie Erziehung der gebildeten Stände vollenden. Auf demfelben |
+Standpunkt finden wir nod) im Jahre 1859 den Anterifanifir-
+ten Franzosen Agaffiz, in feinem Essay on classification.
+Auch er fteht nod) vor derfelben Alternative, daß bie organi-
+Ihe Welt entweder das Wert des reinften Zufalls fei, bet
+
+
+Zur Philofophie und Wiffenfchaft ber Natur. [S. 165]  hemifcher Kräfte, zufam-
+
+mengewürfelt hätte; ober aber ein am Lichte der Erfenntniß
+(diefer functio animalis) mad) vorfergegangener Ueberlegung
+md Berechnung klug verfertigtes Kunstwerk. Eines ist fo falfch
+wie das andere, und Beides beruht auf einem naiven Realismus,
+ber aber 80 Jahre nah Kants Auftreten geradezu schimpflich
+(t. Agaffiz alfo philofophirt über die Entftehung der organi-
+ien Wefen, wie ein Amerikanischer Schuster. Wenn die Her-
+ren nichts weiter gelernt haben und lernen wollen, als ihre Natur-
+mijenjda[t; (o müjfen fie in ihren Schriften feinen Schritt über
+diefe hinausgehn, fondern strictissime bei ihrer Empirie blei-
+ben, damit fie fid) nicht, wie ber Herr Agaffiz, proftituirem und
+sum Spott machen dadurch, daß fie vom Urfprung der Natur
+reden, wie die alten Weiber.
+
+Gine Folgerung nach der andern Seite aus jenem von
+Ehnurrer und Casper aufgeftellten Gejege wäre nun diefe.
+G8 ift offenbar, daß in dem Maaße, als e8 uns gelänge, burd
+rihtigfte und forgfältigfte Benutzung aller Naturkräfte und jedes
+vandftriches, das Elend ber unterjten Volksklassen zu verringern,
+die Zahl biejer überaus treffend fo genannten Proletarier zuneh-
+men und baburd) das Elend fid) immer von Neuem einftellen
+würde. Denn ber Gefchlechtstrieb arbeitet ftetS bem Hunger in
+die Hände; wie diefer, wann er befriedigt ift, dem Gefchlechte-
+trieb. Das obige Gesetz nun aber würde uns dafür bürgen,
+daß die Sache nicht bi8 zu einer eigentlichen Uebervölkerung ber
+Erde getrieben werden könne, einem Uebel, dessen Entfeßlichkeit
+die lebhafteste Phantafie fid) faum auszumalen vermag. Näm-
+li dem in Rede ftehenden Gefeße zufolge würde, nachdem bie
+Erde fo viele Menschen erhalten hätte, als fie zu ernähren höch—
+tens fähig ift, bie Fruchtbarkeit des Geschlechts unterbe[fen bis
+zu dem Grade abgenommen haben, daß fie Inapp ausreichte, bie
+Sterbefälle zu erjegen, wonad alsdann jede zufällige Vermeh—
+rung diefer die Bevölkerung wieder unter ba8 Marimum zurüd-
+bringen würde.
+
+
+Auf verfchiedenen Theilen ber Erde ift unter gleichen, ober
+analogen, ffimatijd)en, topographiichen und atmofphärifchen Be⸗
+dingungen das gleiche, oder analoge, Pflanzen- und Thier⸗
+
+
+106 Zur Philosophie unb Wissenschaft ber Natur,
+
+
+gefchlecht entjtanden. Daher jind einige Species einander sehr
+“ähnlich, ohme jedoch identisch zu seyn, (und dies ijt der eigent-
+fide Begriff de8 Genus), und zerfallen mande in Rassen und
+Varietäten, die nicht aus einander entftanden jepn können, wie-
+wohl die Species biejelbe bleibt. Denn Einheit der Species
+implicirt feineswegs Einheit des Urfprungs und Abjtammung
+von einem einzigen Paar. Diese ijt überhaupt eine ab[urbe
+Annahme Wer wird glauben, daß alle Eichen von einer ein-
+zigen eriten Eiche, alle Mäufe von einem ersten Mäufepaar, alle
+Wölfe vom erften Wolfe abftamınen? Sondern bie Natur mieber-
+holt, unter gleihen Umständen, aber an verfchiedenen Orten,
+denfelben Proceß und ijt viel zu vorfichtig, aí8 daß jie bie
+Eriftenz einer Species, zumal der obern Geschlechter, ganz pre-
+für feyn Tieße, indem (ie diefelbe auf eine einzige Karte ftellte
+und dadurch ihr jchwer gelungenes Werk taufend Zufällen Preis
+gäbe. Vielmehr weiß fie was fie will, will c8 cnt[djiebem, und
+demgemäß geht fie zu Werke. Die Gelegenheit aber ift nie einc
+ganz einzige und alleinige.
+
+So wenig nun ber nie abgerichtete afrifanijde Elephant,
+deffen Ohren, fehr breit und lang, den Naden bebeden, und
+deffen Weibchen ebenfalls Stoßzähne Dat, ab[tammen kann von
+bem [o gelehrigen und intelligenten afiatifchen Elephanten, bejfen
+Weibchen Feine Stoßzähne Dat und beffem Ohren bei Weitem
+nicht fo groß find; — uud jo wenig ber amerifani[de Alligator
+von Krokodil des Nils abjtammt, da beide (id) durd die Zähne
+und die Zahl ber Schilder auf bem Naden unterfcheiden; —
+eben fo wenig faun der Neger von der Kaufafifchen Rasse ab-
+stammen.
+
+Jedoch ift das Menschengeschlecht höchst wahrscheinlich nur
+an drei Stellen entstanden; weil wir nur drei bestimmt geson—
+derte Typen, die auf ursprüngliche Rassen deuten, haben: den
+kaukasischen, den mongolischen und den äthiopischen Thpus. Und
+zwar hat diese Entstehung nur in der alten Welt Statt finden
+können. Denn in Australien hat die Natur es zu gar keinen
+Affen, in Amerika aber nur zu langgeschwänzten Meerkatzen,
+nicht aber zu den knurzgeschwänzten, geschweige zu den obersten,
+den ungeschwänzten Affengeschlechtern bringen können, welche die
+letzte Stufe, vor dem Menschen, einnehmen. Natura non facit
+
+
+Zur Philefophie und Wiffenfhaft ber Natur. 167
+
+
+saltus. Ferner Dat die Entjtehung des Menfchen nur zwifchen
+
+
+den Wendefreifen eintreten können; weil in den andern Zonen
+der nen entitandene Mensch im eriten Winter umgelommen wäre.
+Denn er war, wenn aud wohl nicht ohne mütterliche Pflege,
+doch ohne Belehrung herangewachsen und hatte von feinen DBor-
+jahren Renntnijje ererbt. Alfo mußte der Säugling der Natur
+juerft an ihrem warmen Bufen ruben, ehe fie ihn in bie raube
+Belt Hinausfchiden durfte In den heißen Zonen nun aber ijt
+der Menfch jchwarz, ober wenigitens dunkelbraun. Dies aljo
+ift, ohne Unterschied der Rasse, die wahre, natürliche und eiggn-
+thümliche Farbe des Menfchengefchlehts und nie hat es eine von
+Natur weiße Kaffe gegeben; ja, von einer folchen zu reden und
+
+
+die Menschen, finbijdjer Weife, in die weiße, gelbe und schwarze
+
+
+Kaffe einzutheilen, wie nod) in allen Büchern gefchieht, zeugt von
+großer Befangenheit und Maugel an Nachdenken. Schon in
+meinem Hauptwerk, Bd. 2, Kap. 44, ©. 550 (3. Aufl. 627),
+habe id) den Gegenitand kurz erörtert und es ausgefprocen,
+daß nie ein weißer Mensch urfprünglid aus dem Schooße ber
+Natur hervorgegangen ijt. Nur zwifchen ben Wendelreijen üt
+der Mensch zu Haufe, unb da ijt er überall fchwarz, oder duntel-
+braun; bloß in Amerika nicht burdjgüugig, weil diefer Welt-
+theil größtentheil8 von bereits abgeblid)enen Nationen, haupt-
+sächlich Chinesen, bevöltert worden ijt. Inzwischen find bie
+Bilden in den brafilianifchen Wäldern bod) schwarzbraun *). Grit
+nachdem der Mensch außerhalb der ihm allein natürlichen, zwijchen
+den Wendekreifen gelegenen Heimath, lange Zeit Binburd) fid)
+tortgepflanzt hat und, in Folge diefer Berniehrung, fein Gefchlecht
+id bis in die Fälteren Zonen verbreitet, wird er heil unb endlich
+weiß. Alfo erst in Folge des klimatischen Einfluffes der gemäßigten
+und falten Zone ift ber Europäifche Deenfchenftamm allmälig
+weiß geworden. Wie [angjam dies geht, fehn wir an ben
+Zigeunern, einem Hindu-Stamm, der feit dem Anfange des
+
+
+*) Die Wilden find nicht Urmenfchen, fo wenig af8 bie milden Hunde
+in Sid-Amerifa Urhunde; fondern biefe find bermilberte Hunde, unb jene
+eermilberte Menfchen, Abkömmlinge dahin verirrter oder verfchlagener Men-
+iben aus einem fultivirten Stamm, beffen Kultur unter fid) zu erhalten fie
+unjähig waren.
+
+
+168 Zur Philosophie und Wissenschaft ber Natur.
+
+
+15. Iahrhunderts in Europa nomadifirt und deffen Farbe nod
+ziemlich die Mitte hält zwifchen ber ber Hindu umb der unjrigen;
+desgleihen an den Negerjklavenfamilien, welche feit 300 Jahren
+in Nordamerika fi fortpflanzen und bloß etwas heller geworden
+find: indeffen werben diefe dadurch aufgehalten, bap fie bod
+zwischendurch mit frifchen, ebenholzfchwarzen Ankömmlingen sich
+vermifchen; eine Erneuerung, welche den Zigeunern nicht zu Theil
+wird. Die nüdjte physische Ursache bieje8 Verbleihens des aue
+feiner natürlichen Heimath verbannten Menschen vermuthe id)
+darin, daß, im heißen Klima, Licht unb Wärme auf dem rete
+Malpighi eine fangjíame, aber beftändige Desorydation der bei
+ung unzersetzt burd) die Poren entweichenden Kohlenfäure her-
+vorbringen, welche alsdann foviel Karbon zurüdläßt, als zur
+Färbung der Haut ausreicht: der jpecififde Gerud) ber Neger
+hängt wahrfcheinlid damit zufammen. Daß bei weißen Völkern
+bie untern, angeftrengt arbeitenden Klaffen durhängig dunkler
+find, als bie höhern Stände, erflärt fih daraus, daß fie ınchr
+schwitzen, welches, in viel schwächerem Grabe, dem heißen Klima
+analog wirkt. Demnach nun muß jedenfalls der Adam unserer
+Rasse schwarz gedacht werden, und lächerlich ist es, wenn Maler
+diesen ersten Menschen weiß, in der durch Verbleichung entstandenen
+Farbe, darstellen: da ferner Jehovah ihn nach seinem eigenen
+Bilde geschaffen hat, so ist auf Kunstwerken auch dieser schwarz
+darzustellen; wobei man ihm jedoch den herkömmlichen weißen
+Bart lassen kann; da die Dünnbärtigkeit nicht der schwarzen
+Farbe, sondern bloß der Aethiopischen Rasse anhängt. Sind ja
+body: aud) bie ältesten Madonnenbilder, wie man fie im Orient
+und auch noch in einigen alten italiänischen Kirchen antrifft, mit
+sammt bem Christuskinde, von schwarzer Gesichtsfarbe. In ber
+That ist das ganze auserwählte Volk Gottes schwarz, oder doch
+dunkelbraun gewesen und ist noch jetzt dunkler, als wir, die wir
+von früher eingewanderten heidnischen Völkerschaften abstammen.
+Das jetzige Syrien aber ist von Mischlingen, die zum Theil aus
+Nordasien stammen (wie z. B. die Turkomannen), bevölkert
+worden. Imgleichen wird aud) Buddha bisweilen schwarz bat:
+gestellt, und sogar auch Konfuzius. (€. Davis, the Chinese,
+Vol. 2, p. 66.) Daß die weiße Gesichtsfarbe eine Ausartung
+und unnatürlich sei, bezeugt der Ekel und Widerwille, den, bei
+
+
+Zur Philofophie unb Wissenschaft ber Natur. 169
+
+
+einigen Völkern des innern Afrifa’s, der erste Anblick derjelben
+erregt Hat: fie ericheint diefen Völfern als eine krankhafte Ver-
+fümmerung. Einen NReifenden in Afrika bewirtheten Neger-
+mädchen febr freundlih mit Mil und fangen bagu: „armer
+sremdling, wie dauerft bu uns, daß bu fo weiß bift!” Eine
+Note zu Byron's Don Juan (Canto XII, stanza 70, note)
+berichtet Folgendes: Major Denham says, that when he first
+saw European women after his travels in Afrika, they
+appeared to him to have unnatural sickly countenances. '
+(Major Denham fagt, daß als er, nad) feinen Reifen in Afrika,
+zuerft wieder Guropäifche Weiber faf, fie ihm unnatürlich Tranf-
+hafte Gefidjter zu Haben jdjienen.) — Inzwifchen reden, nad)
+Büffon’8 Vorgang (€. Flourens, Buffon. Histoire de
+ses traveaux et de ses idées, Paris 1844, pag. 160 fg.), bie
+Ethnographen mod) immer ganz getroft von ber weißen, ber
+gelben, ber rothen und ber fchwarzen Rasse, indem fie ihren
+Cintheilungen hauptfächlich bie arbe zum Grunde legen, wäh-
+rend, in Wahrheit, bieje gar nichts Wefentliches ijt und ihr
+Unterfchied feinen andern Urfprung Dat, als bie größere oder
+geringere, und frühere ober fpätere Entfernung eines Stammes
+von ber heißen Zone, als in welcher allein das Menfchengefchlecht
+indigen ijt und daher außerhalb ihrer nur unter fünftlicher Pflege,
+indem es, wie die erotifchen Pflanzen, im Treibhause überwintert,
+beftehen Tanıı, dabei aber allmälig, und zwar zunächst in ber
+Farbe, ausartet. Daß, nad) ber Abbleihung, die Farbe ber
+mongolifhen Kaffe etwas gelblicher ausfällt, al8 bie ber ftau-
+fafi(den, Tann allerdings in einem NRaffenunterfchiede begründet
+jeyn. — Daß die höchste Eivilifation und Kultur fif, — ab-
+gejehn von den alten Hindu und Aegyptern, — ausfchließfich
+bei den weißen Nationen findet und fogar bei mandjen dunkeln
+Völkern bie herrichende Kafte, oder Stamm, von hellerer Farbe,
+bie Bramanen, bie Inkas, die Herrfcher auf den Südfeeinfeln, —
+Dies beruht darauf, daß bie Noth die Mutter der Künfte ijt;
+weil nämlich die früh nad) Norden ausgewanderten und dort
+allmälig weißgebleichten Stämme dafelbft im Kampfe mit ber
+durch das Klima herbeigeführten, vielgeftalteten Noth alle ihre
+intelleftuellen Kräfte haben entwideln und alle Künfte . erfinden
+
+
+110 Zur Philofophie unb Wissenschaft ber Natur.
+
+
+und ausbilden müffen, um die Kargheit ber Natur zu kompen—
+(tren. Daraus ift ihre hohe Civilifation hervorgegangen.
+
+Wie die dunkle Farbe, fo aud) ift bem Menschen die vege:
+tabilische Nahrung die natürliche. Aber wie jener, fo bleibt ex
+aud) biejer nur im tropifchen Klima getreu. Als er fid) in die
+fälteren Zonen verbreitete, mußte er dem ihm unnatürlichen Klıma
+burd) eine ihm unnatürliche Nahrung entgegenwirken. Im eigent-
+[iden Norden fanum man ohne Tleifchipeife gar nicht beftehn:
+man hat mir gejagt, daß schon in Kopenhagen eine sechswöchent⸗
+fide Gefängnißftrafe bei Waffer und Brod, wenn im ftrengiten
+Sinn und ohne Ausnahme vollzogen, als lebensgefährlich be-
+trachtet werde. Der Mensch ist alfo zugleich weiß und farnipor
+geworden. Eben baburd) aber, wie aud) burd) die ftärkere Be-
+Heidung, bat er eine gewiffe unreine und efelhafte Bejchaffenheit
+angenommen, welche die andern Thiere, wenigftens in ihrem
+Naturzuftande, nicht Haben, und ber er burd) beftändige, bejonbere
+Keinlichleit entgegenarbeiten muß, um nicht widerwärtig zu seyn;
+daher folches aud) mur ber wohlhabenderen, bequemer Lebenden
+Klaffe, der deshalb im Italiänifchen treffend benannten gente
+pulita, zufteht. Eine andere Folge der ftärkeren Bekleidung ijt,
+daß, während alle Thiere in ihrer natürlichen Gejtalt, Bedeckung
+unb arbe einhergehend, einen naturgemäßen, erfreulichen und
+äfthetifchen Anblik gewähren, der Mensch, in feiner mannig-
+faltigen, oft fehr wunderlichen und abenteuerlichen, zudem aud)
+oft ärmlihen und Iumpigen Bekleidung, unter ihnen als eine
+Karikatur umfergebt, eine Geftalt, die nicht zum Ganzen paßt,
+nidt hinein gehört, indem fie nicht, wie alle übrigen, das Werf
+ber Natur, jondern eines Schneiders ijt, unb [omit eine imper-
+tinente Unterbrechung des harmonischen Ganzen der Welt ab:
+giebt. Der edele Sinn und Geschmack der Alten fuchte diefen
+Uebeljtand baburd) zu mildern, bag bie Bekleidung möglichst
+leiht war und fo geftaltet, daß fie nicht, eng anfchließend, mit
+dem Leibe zu Eins verfhmolz, fondern als ein Fremdes auf
+liegend gefondert blieb unb bie menfchliche Gejtalt in allen Theilen
+möglihft deutlich erkennen ließ. Durch den entgegengejebten
+Sinn ift die Kleidung des Mittelalters und ber neuen Zeit ge-
+schmacklos, barbarijd) und widerwärtig, Aber das Widerwär-
+tigfte ijt die heutige Kleidung der, Damen genannten Weiber,
+
+
+Zur Philofophie und Wilfenfchaft ber Natur. 171
+
+
+welhe, der Sejchmadlofigkeit ihrer Urgroßmütter nachgeahmt,
+die ntüglid)ft große Entftellung der Menfchengeftalt liefert, und
+dazu noch unter dem Gepäd des Neifrods, ber ihre Breite ber
+Höhe .gíeid) macht, eine Anhäufung unfauberer Evaporationen
+vermuthen läßt, wodurd fie nicht nur häßlich und mibermürtig,
+jondern auch efelhaft finb *). —
+
+
+Das Leben Täßt fid) befiniven als der Zuftand eines Körpers,
+darin er, unter bejtändigem Wechfel der Materie, feine ihm
+wefentliche (fubftanzielle) Form allezeit behält. — Wollte man
+mir einwenden, daß aud) ein Wafferftrudel, ober Wafjerfall, feine
+Form, unter fteten Wechjel der Materie, behält; fo wäre zu
+antworten, daß bei biefen bie Form durchaus nicht wesentlich,
+Sondern, allgemeine Naturgefege befolgend, durch und durch zu—
+fällig ift, indem fie von äußern Umftänden abhängt, durch deren
+Veränderung man aud die Form beliebig ändern Tann, ohne
+baburd) das Wesentliche anzutaften.
+
+
+Das Deut zu Tage Mode werdende Polemifiren gegen bie
+Annahme einer Lebenskraft verdient, trot feiner vornehmen
+Mienen, nicht sowohl falsch, als geradezu dumm genannt zu
+werden. Denn wer die Lebenskraft feugnet, feugnet im Grunde
+fein eigenes Dafeyn, Tann fid) afjo rühmen, den höchsten Gipfel
+der Abjurdität erreicht zu Haben. Sofern aber diefer freche
+Unfinn von Xerzten und Apothefern ausgegangen ijt, enthält er
+überdies den fchnödelten Undank; da bie Lebenskraft es ift,
+welhe die Krankheiten überwältigt und die Seifungen herbei-
+führt, für welche jene Herren nachmals das Geld einftreichen
+und quittiren. — Wenn nicht eine eigenthümliche Naturkraft,
+ber e8 fo wefentlih ift, zwedmäßig zu verfahren, wie ber
+
+
+*) Eine wohl nod) nit bemerkte phyfifhe Berfhiebenheit bes
+Menschen pon ben Thieren tft, daß das Weiße ber Sclerotica beftändig
+fihtbar bleibt. Kapitän Mathew fagt, e& märe bei den Bufchmännern, bie
+jest in London gezeigt werben, nicht ber Walf, ihre Augen feien rund und
+ließen nicht bas Weiße sehen. Bei Goetbe mar umgelehrt das Weiße aud)
+über ber Iris meiftens fichtbar.
+
+
+112 Zur Philofophie und Wissenschaft ber Natur.
+
+
+Schwere wesentlich, die Körper einander zu nähern, das ganze
+fomplicirte Getriebe des Organismus bewegt, fenft, orbnet und
+in ihm fid) fo darftellt, wie bie Schwerkraft in den Erscheinungen
+des Fallens und Gravitirens, die eleftrifche Kraft in allen burd)
+die Neibmafchine ober bie Volta'sche Säule bervorgebradhten
+Erfcheinungen u. f. f.; nun dann ijt das Leben ein falfcher
+Schein, eine Züujdung, und ijt in Wahrheit jedes Wefen ein
+bloßes Automat, b. D. ein Spiel mechanifher, physikalischer und
+demijder Kräfte, zu biejem Phänomen zufammengebradjt ent:
+weder burd) Zufall, ober burdj Abfiht eines Künftlers, bem
+e8 |o beliebt bat. — Mlerdings wirken im thierifchen Organis—
+mus physikalische und chemifche Kräfte: aber was diefe zusam—
+menhält und lenft, fo daß ein zwedmäßiger Organismus bar
+aus wird und befteht, — das ift die Lebenskraft: fie beherrscht
+bemnad) jene Kräfte und modificirt ihre Wirfung, die aljo bier
+nur eine untergeordnete ift. Hingegen zu glauben, daß fie für
+(id) allein einen Organismus zu Stande brüdjten, ijt nicht blof
+fatíó, fondern, wie gejagt, dumm. — An id) ist jene Lebenskraft
+der Wille.
+
+Man hat einen fundamentalen Unterschied der Lebenskraft
+von allen andern Naturkräften darin finden wollen, daß sie den
+Körper, von dem fie ein Mal gewichen ist, nicht wieder in Besitz
+nimmt. Die Kräfte der unorganijdjet Natur weichen eigent-
+fid) nur ausnahmsweife von dem Körper, ben fie ein Mal be
+herrfchen: jo 3. 39. kann der Magnetismus dem Stahl durd)
+Gíüben genommen und durch neues Magnetifiven wiedergegeben
+werden. Noch entichiedener läßt von ber Elektricität das Em:
+pfangen und DBerlieren fi) behaupten; obgleid man annehmen
+muß, daß der Körper fie nicht felbft von außen empfängt, fon:
+dern nur die Anregung, in Folge welcher die in ihm schon vor-
+Danbene eleftrifche Kraft jett in -]- E und — E auseinander:
+tritt. Hingegen weicht die Schwere nie von einem Körper unb
+eben [o wenig feine chemifhe Qualität. Diefe nämlich wird,
+burd) Verbindung mit andern Körpern, bloß fatent und ift, nad)
+wird zur Schwefeljäure; bieje zum Gips: aber burd) fucceffive
+Zerfegung Beider wird der Schwefel wieder hergeitellt. Die
+Lebenskraft aber fann, nachdem fie einen Körper verlaffen hat,
+
+
+Zur Philofophie unb Wiffenfhaft ber Natur. 173
+
+
+ihn nicht wieder in Befiß nehmen. Der Grund hievon tft jebod),
+daß fie nicht, wie die Kräfte der unorganifchen Natur an dem
+bloßen Stoff, fondern zunähft an ber Form haftet. Ihre Thä-
+tigkeit befteht ja eben im ber Hervorbringung und Erhaltung
+(b. i. fortgefeßten Hervorbringung) ‚diefer Form: daher nun ijt,
+jobald fie von einem Körper weicht, aud) [don feine Form,
+menigíten8 in ihren feineren Xheilen zerstört. Nun aber Hat
+die Hervorbringung ber Yorm ihren regelmäßigen und sogar
+planmäßigen Hergang in beftimmter Succeffion des Hervorzu-
+bringenden, also Anfang, Mittel und Fortfchritt. Daher muß
+die Lebenskraft, wo immer fie von Neuem eintritt, aud) ihr
+Gewebe von vorne anfangen, aíjo ganz eigentlid) ab ovo be-
+ginnen: folglih fann fie nicht das ein Mal ftehengelajfene, ja
+(don im Berfall begriffene Werk wieder aufnehmen, aljo nicht
+gehn und kommen, wie der Magnetismus. Hierauf alfo beruht
+ber in Rede ftehende Unterfchied zwischen der Lebenskraft und
+andern Naturkräften.
+
+Die Lebenskraft ift. geradezu ibentijd) mit dem Willen, fo
+dag was im Selbftbewußtfeyn als Wille auftritt, im bewußt«
+ofen, organijden eben jenes primum mobile beffefben ijt,
+welches sehr pafjenb als Lebenskraft bezeichnet worden. Bloß
+aus der Analogie mit diefer (d)fieBen wir, daß aud) bie übrigen -
+Naturfräfte im Grunde mit dem Willen identifh find, nur daß
+er in biejen auf einer niedrigeren Stufe feiner SObjeftibation
+ítet. Daher aus ber unorganifhen Natur die organifche
+und alfo das Leben, das Erfennen und enbíid) das Wollen
+zu erklären fudjen, Heißt aus der Erscheinung, diefem bloßen
+Gehirnphänomen, das Ding an [id ableiten wollen; es ijt
+wie menn man aus dem Schatten den Körper erklären wollte.
+
+Die Lebenskraft ift nur eine, welde, — als Urfraft, als
+metapfpfiíd), als Ding an fih, al8 Wille, — unermüdlich, alfo
+feiner Ruhe bedürftig ijt. Jedoch ihre Erjcheinungsformen,
+Irritabilität, Senftbilität und Neproduftivität, ermüden aller-
+dings und bedürfen ber Ruhe; eigentlich wohl nur, weil fie
+alfererft mittelft lleberminbung ber Willenserjheinungen niedri-
+gerer Stufen, die ein früheres Recht an die jelbe Materie haben,
+den Organismus hervorbringen, erhalten und beherrichen. Am
+unmittelbarjten wird Dies fidtbar an der Irritabilität, ale
+
+
+174 Zur Philofophte und Wiffenfhaft der Natur.
+
+
+welche fortwährend mit der Schwere zu fümpfen Dat; daher fie
+am fchnellften ermüdet: aber zur Rast dient ihr aud) schon jedes
+Ctügen, Anlehnen, Siten, Liegen. Eben deshalb find diese
+ruhenden Lagen der ftärkften Anftrengung der Senfibilität,
+dem Denken, günftig; weil bie Lebenskraft fid) dann ungetfeift
+diefer Funktion zumenden Tann; zumal, wann fie nicht gerade
+von der dritten, der Reproduktion, befonders in Anspruch ge-
+nommen wird, wie Dies während der Verdauung der Fall ijt.
+Sebod) wird wohl jeder irgend jefbftbenfenbe Kopf bemerkt haben,
+daß das Gehn in freier Luft dem Auffteigen eigener Gedanken
+ungemein günftig ijt. Dies aber [d)reibe ich dem, durch jene
+Bewegung bejchleunigten Athmungsproceß zu, als welcher theils
+den Blutumlauf früftigt und befchleunigt, theils das Blut beffer
+oxydirt; wodurch, erjtlich, bie zwiefadhe Bewegung des Gehirns,
+nämlich die, welche jedem Athemzuge, und die, welde jedem Puls-
+fchlage folgt, vafer unb enmergifcher, wie auch der turgor vita-
+lis deffelben gefpannter wird, und zweitens ein- vollkommener
+orydirtes und defarbonifirtes, alfo vitaleres, arterielles Blut
+aus ben bon den Karotiden ausgehenden WVerzweigungen im bie
+ganze Subftanz des Gehirns dringt und die innere Vitalität
+deffelben erhöht. Die burd) alles Dieses herbeigeführte Belebung
+ber Denkkraft dauert jedoch nur, fo lange man vom Gehn burd-
+aus nicht ermibet. Denn beim Eintritt der leisesten Ermüdung
+nimmt bie jett erzwungene Anftrengung der Srritabilität die
+Lebenskraft in Anspruch: baburd) sinkt die Thätigfeit der Sen-
+fibifität, und zwar bei großer Ermüdung, bis zur Stumpfheit.
+
+Die Senfibilität nun wieder ruht bloß im Schlafe, hält
+alfo eine längere Aktivität aus. Während zugleih mit ihr,
+Nachts, aud) die Irritabilität ruht, nimmt die Lebenskraft, als
+welche nur unter einer ihrer drei Formen ganz und ungetheilt,
+daher mit voller Macht, wirken Tann, durchweg die Geftalt bet
+NReproduftionstraft an. Darum geht die Bildung und Gr:
+nährung ber Theile, namentfid) die Nutrition des Gehirns,
+aber audj jedes Wachsthum, jeder Erfat, jede Heilung, alfo bie
+Wirkung der vis naturae medicatrix in allen ihren Geftalten,
+befondere aber in mohlthätigen Krankheitskrisen, hauptsächlich
+im Schlafe vor fid. Dieferwegen ijt zur anhaltenden Gefund-
+heit, folglich aud) zur fangen Lebensdauer cine. Hauptbedingung,
+
+
+Zur Philosophie und Wissenschaft ber Natur. 175
+
+
+daß man  umunterbrodjenen feften Schlafes Tonftant genieße.
+Jedoch ift e8 nicht wohlgethan, ihn jo viel wie möglich zu ver-
+längern: denn was er an Grten(ion gewinnt verliert er an n»
+tnfion, b. i. an Tiefe: gerade aber der tiefe Schlaf ijt es, in
+welhem bie fo eben angeführten .organifchen Lebensprocefie am
+vofffommenften vollbraht werden. Dies Tann man daraus
+abnehmen, daß, wenn in einer Nacht der Schlaf geftört und
+verfürgt worden, unb nun, wie e8 nicht ausbleibt, der Schlaf
+ber folgenden Nacht defto tiefer ausfällt, man alsdann beim
+Grmadjen fid) ganz auffallend geftärft und erquidt fühlt. ‘Diefe
+jo überaus wohlthätige Tiefe des Schlafs kann durch feine
+Vünge deffelben erjegt werden; fondern. gerade durch die $e
+fdrünfung jeiner Dauer wird fie erlangt. Hierauf beruht bie
+Bemerkung, daß alle die Leute, melde ein Hohes Alter erreicht
+haben, Frühauffteher gewefen find, wie aud) Homers Ausspruch
+àv xat xolu; Uxvoc (Od. XV, 394)*). Dieferhalb foll man,
+wenn man am frühen Morgen von felbft erwacht, nicht fid) be-
+itreben, wieder einzufchlafen, fondern, mit Goethe fagenb ‚Schlaf
+ift Schaale, wirf fie weg”, aufftehen. Die eben angegebene wohl-
+tbütige Wirkung des tiefen Schlafs erreicht ihren höchsten Grad
+im magnetifchen, als welcher bloß der alíertiefíte ift, daher er
+als das Panakeion vieler Krankheiten auftritt. Wie alle Funk⸗
+tionen be8 organifchen Lebens, |o geht aud) die Verdauung im
+Sclafe, wegen des Paufirens der Gehirnthätigkeit, Leichter unb
+idnelfer vor fid; daher ein kurzer Schlaf, von 10—15 Minu-
+teu, Y, Stunde nad) der Mahlzeit, wohlthätig wirft, und burd)
+den Kaffee, eben weil diefer die Verdauung befchleunigt, befür-
+dert wird. Hingegen ijt ein längerer Schlaf nadtheilig und
+fann fogar gefährlich werden; welches id) mir daraus erfläre,
+dag im Schlaf einerfeits bie Refpiration bedeutend fangfamer
+und Ihwäcer vor fid) geht, anbrerjeit8 aber, fobald die burd)
+denfelben befchleunigte Verdauung bis zur Chylififation vorge-
+jchritten ift, der Chylus in das Blut ftrömt, und folches hyper⸗
+farbonifirt, fo daß es ber Defarbonifation, mittelft des Athmungs-
+procefjes, mehr als jon[t bedarf: diefer ift num aber durch den
+
+
+*) Bergleihe Welt als Wille und S3orftelfung. 3. Auflage, Bd. II,
+
+
+176 Zur Philosophie und Wiflenfchaft ber Natur.
+
+
+Schlaf vermindert und mit ihm fowohl die Oxydation, als bie
+Girfulation. Die Folge hievon kann man an blonden Subjeften,
+mit weißer, zarter Haut, wann fie nad) dem Effen lange ge
+fchlafen Haben, sogar augenfällig wahrnehmen, indem ihr Ge
+(idt, wie aud) die Sklerotila, eine etwas braungelbe Farbe, als
+Symptom ber Stperfacbonijation, annimmt. (Daß diefe Theorie
+des Nachtheils des Nachmittagsfchlafs wenigftens in England utr
+befaunt ift, fiebt man aus Mayo's philosophy ot living p. 168.)
+Aus bemjelben Grunde [etgen vollblütige, gedrungene Naturen,
+burd) langen Mittagsjchlaf, (id) ber Apoplerie aus: fogar will
+man in Folge defjelben, wie auch fopiofer Abendmahlzeiten,
+Schwindfuht bemerft haben, die aus demfelben Princip fid
+leicht erklären ließe. Eben daraus erhellt aud), warum ces leicht
+Ihädlich werden fann, nur Ein Mal täglich und (tarf zu essen;
+weil nämlich dadurch nicht nur dem Magen, fondern auch, nad
+jo vermehrter Chylififation, der Lunge zu viel Arbeit auf ein
+Mal aufgelegt wird. — Webrigens ijt, daß bie Refpiration im
+Schlafe abnimmt, daraus zu erklären, daß folche eine Tombinirte
+Funktion, b. D. zum Xheil von Spinalnerven ausgeht und foweit
+Neflerbewegung ijt, die als solche aud) im Schlafe fortbauert:
+zum Theil aber geht fie von Gehirnnerven aus und mirb daher
+von ber Willkür unterftügt, deren Pausiren im Cafe die Re
+fpiration verlangfamt und aud) das Schnarchen veranlaßt; mic
+des Näheren zu erfehen bei Marshal Hall, diseases of the
+nervous system $8. 200—311, womit zu vergleichen Flou-
+rens, du systéme nerveux, 2de Edit. chap. 11. Aus diefem
+Antheil der Gebirnneroen an der Refpiration ift aud) zu ere
+Hären, daß, bei Sammlung der Gehirnthätigfeit zum ange
+jtrengten Nachdenken oder Qejen, die Refpiration feijer und fang:
+famer wird; mie Naffe bemerkt Hat. Anftrengungen der Irri-
+tabilität Hingegen, imgleichen die rüftigen Affekte, wie Freude,
+Zorn u. dgl. beichleunigen, mit dem Blutumlauf, aud) die Re
+ipiration; daher der Zorn keineswegs unbedingt fchädlich ift unb
+fogar, wenn er nur fid) gehörig auslaffen fann, auf mande
+Staturen, bie eben deshalb inftinftmäßig nad) ihm jtreben, wohl:
+thätig wirkt, zumal er zugleich den Erguß der Galle befördert.
+
+Einen anderweitigen Beleg zu dem Bier in Betracht genou
+menen Balancement der drei physiologischen Grundfräfte gegen
+
+
+Zur Philosophie unb Wissenschaft ber Natur. 177
+
+
+einander giebt die wohl nicht zu bezweifelnde Thatjache, daß bie
+Neger mehr Körperfraft haben, als die Menschen ber andern
+Rassen, folglih was ihnen an Senfibilität abgeht an Srritabili-
+tät mehr haben; wodurch fie freilich den Thieren näher ftehn,
+als welche alle, im Berhältnif ihrer Größe, mehr Mustelfraft
+haben, als der Mensch.
+
+Ueber das verjchiedene Verhältniß der drei Grundfräfte in
+den Individuen verweife ih auf den „Willen in der Natur“
+am Schluß der Rubrik „Phyfiologie”.
+
+
+Man würde den lebenden thierifihen Organismus anfehn
+fönnen als eine Mafchine ohne primum mobile, eine Reihe von
+Bewegungen ohne Anfang, eine Kette von Wirkungen und Ur-
+jachen, deren feine die erfte wäre; wenn das Leben feinen Gang
+gienge, ohne an bie Außenwelt anzufnüpfen. Aber diefer An-
+fnüpfungspunft ift ber Athmungsproceß: er ijt das nüdjte und
+wefentfid)ite Verbindungsglied mit der Außenwelt und giebt den
+erften Anftoß. Daher muß die Bewegung des Lebens als von
+ihm ausgehend und er als das erfte Glied der Kausalkette ge-
+dacht werden. Demnach tritt als er[ter. Impuls, alfo als erfte
+äußere llrjad) des Lebens, ein wenig Luft auf, melde, eindrin-
+gend und orpbirenb, fernere Processe einleitet und jo das Leben
+jur Folge Bat. Was nun aber diefer äußern Ursache von tu.
+nen entgegentommt, giebt ji funb als Deftige8 Verlangen, ja,
+unaufhaltfamer Drang, zu atfmen, aljo unmittelbar als Wille,
+— Die zweite äußere Ursach des Lebens ift die Nahrung. Auch
+fie wirft anfangs von außen, aí8 Motiv, bod) nicht fo dringend
+und ohne Auffchub zu gejtatten, wie die Luft: erít im Magen
+fängt ihre physiologische kausale Wirksamkeit an. — Liebig
+fat das Budget der organifhen Natur nachgerechnet und bie
+Bilanz ihrer Ausgaben und Einnahmen gezogen.
+
+
+Es ijt doch ein hübsches Stüd Weges, welches binnen
+200 Jahren Philojfophie und Phyfiologie zurückgelegt Haben,
+von des Kartesius glandula pinealis unb ben fie bewegenden
+
+
+178 Zur Philofophie unb Wissenschaft der Natur,
+
+
+ober audj von ihr bewegten spiritibus animalibus, zu den
+motorifhen unb fenfibeln Rückenmarks⸗-Nerven bes Charles
+Bell unb ben NReflerbewegungen des Marfhal Hall. —
+Marihal Hall's Schöne Entdedung der Neflerbewegungen, dar-
+gelegt in feinem vortrefflichen Buche on the diseases of the
+nervous system, ijt eine Theorie der unwillfürlichen Aktionen,
+b. B. folcher, die nicht durch den Intelleft vermittelt werden; wie-
+wohl fie dennoch vom Willen ausgehn müjfen. Daß diefelbe auf
+meine Metaphysik Licht zurüdwirft, indem fie den Unterschied
+jmijden Willen unb Wilffür zu verdeutlichen Hilft, habe id) im
+zweiten Bande meines Sauptmerfó Kap. 20 auseinanderge
+feßt. — Hier nod) einige, burd Hall’s Theorie veranlaßte
+Bemerkungen.
+
+Daß der Eintritt in ein kaltes Bad die Respiration augen:
+bfidíid) febr bejchleunigt, weldhe Wirkung, wenn das Bad ehr
+faít war, aud nad) dem Herausfommen eine Weile anhält, er
+Hört Marshal Hall, in feinem oben erwähnten Buche 8. 302,
+für eine Neflerbewegung, welde durd die plötzlich auf das
+Rückenmark wirkende Kälte hervorgerufen wird. Zu diefer causa
+efficiens ber Sache möchte ih nod) die Endurjache Hinzufügen,
+daß nämlih die Natur einen fo bedeutenden und plößlichen
+Wärmeverlust möglichjt fd)nell erjegen will, welches dann eben
+burd) Vermehrung ber Nefpiration, als der innern Wärmequelle,
+gefchieht. Das sekundäre Nefultat derfelben, Vermehrung des
+arteriellen und Verminderung des venöfen Bluts, mag, neben
+der bireften. Wirkung auf die Nerven, viel Antheil haben an ber
+unvergleichlich Haren, Heitern und rein bejdjaufid)en Stimmung,
+welche die unmittelbare Yolge eines Talten Bades zu feyn pflegt,
+
+Das Gähnen gehört zu den Reflexbewegungen. Id ber:
+muthe, daß feine entfernte Ursache eine burd) Yangeweile, Geiftes-
+trägheit, oder Schläfrigfeit herbeigeführte muomentane Depoten-
+zirung des Gehirns ijt, über welches jekt das Rückenmark das
+Uebergewicht erhält unb nun aus eigenen Mitteln jenen fonder-
+baren Krampf hervorruft. Hingegen fans das bem Gähnen oft
+gleichzeitige Reden ber Glieder, da es, obwohl unvorjäglich ein:
+tretend, bod) der Willfür unterworfen bleibt, nicht mehr ben 9te-
+flerbewegungen beigezählt werden. Ic glaube, daß, wie das
+
+
+Zur Philofophie unb Wissenschaft ber Natur. 179
+
+
+Gähnen in letter Inftanz aus einem Deficit an Senfibilität ente
+itebt, fo ba8 Reden aus einem angehäuften, momentanen Weber-
+schuß an Srritabilität, deffen man fid) dadurch zu entledigen fucht.
+Demgemäß tritt e8 nur in Perioden ber Stärke, nidjt in denen
+der Schwäche ein. — Ein berüdfichtigumgswerthes Datum zur
+Grforidung der Natur der Sierbentfütigfeit ijt das Einfchlafen
+gerüdter Glieder, mit dem beachtenswerthen Umftand, daß es
+im Schlaf (des Gehirns) nie Statt findet.
+
+Daß der Drang zum Uriniren, wenn ihm widerjtanden
+wird, ganz verjchwindet, ipüter wiederlommt, und das Selbe fid)
+wiederholt, erkläre ich mir folgendermaaßen. Das Berfchloffen-
+halten be$ sphincter vesicae ijt eine NReflerbewegung, die als
+jolhe von Spinalnerven, folglih ohne Bewußtseyn und Willkür,
+unterhalten wird. Wenn nut bieje Nerven, durch den vermehr-
+ten Drud der gefüllten Blase, ermüden, laffen fie .los, alsbald
+aber übernehmen andere, dem Gevebratjpitem angehörige Nerven
+die Funktion derfelben; welches daher mit bewußter Wilffür und
+peinliher Empfindung geschieht und fo lange dauert, bis jene
+erfteren Nerven ausgeruht find und ihre Funktion wieder are
+treten. Dies fanm (id mehrmals wiederholen. — Daß wir,
+während jenes Vikariats cerebraler Nerven für fpinale und
+dengemäß bewußter Funktionen für unbewußte, durch rasche Be—
+megung der Deine und Arme uns einige Erleichterung zu fchaffen
+suchen, evffüre ih daraus, daß, indem Dieburd) bie Nervenkraft
+auf die aktiven, die Srritabilität ercitirenben Nerven gelenkt wird,
+die jenfibelen Nerven, welche, al8 Boten zum Gehirn, jene pein-
+lide Empfindung verurfachen, etwas an Senftbilität verlieren. —
+
+Mich wundert, daß Marfhal Hall zu den Neflerbewegun-
+gen nit aud) Lachen und Weinen zählt. Denn ohne Zweifel
+gehören fie dahin, als entichieden unwillfürlihe Bewegungen.
+Bir können fie nämlich fo wenig, wie das Gähnen, oder das
+Niefen, duch bloßen Vorfag zu Wege bringen; fondern eben wie
+von Diejen, nur eine fchlechte, fogleich erfaunte Nachahmung: eben:
+falls find diefe alle Vier gleich schwer zu unterbrüden. ‘Daß
+Yahen und Weinen auf bloßen stimulus mentalis eintreten,
+haben fie mit der Erektion, welche ben Neflerbewegungen bei-
+gezählt wird, gemein: überdies kann das Laden auch ganz phyfifch,
+durch Kiteln, erregt werden. Seine gewöhnliche, alfo mentale
+
+
+180 Zur Bhilofophie und Wiffenfchaft der Natur.
+
+
+Erregung, muß man fid) daraus erklären, daß bie Gehirnfunk—
+tion, mitteljt welcher wir plößlih die Infongruenz einer anschau—⸗
+fihen und einer ihr fonft angemejfenen abjtraften Vorstellung
+erfennen, eine eigenthümliche Einwirfung auf die Medulla oblon-
+gata, ober fonft einen dem ercitor=-motorifhen System angehöri-
+gen Theil hat, von dem fobann bieje feltfame, viele Theile gu
+gleich erjchütternde Neflerbewegung ausgeht. Das par quintum
+unb ber nervus vagus fcheinen den meiften Antheil daran zu
+
+In meinem Hauptwerfe wird (Bd. 1, $. 60) gejagt: „Die
+Genitalien find viel mehr, als irgend ein anderes üufere8 Glied
+des Leibes, bloß dem Willen und gar nicht der Erfenntniß unter-
+worfen: ja, der Wille zeigt fid) Hier faft fo unabhängig von
+der Erfenntniß, als in den, auf Anlaß bloßer Reize, dem vege-
+tativen Leben dienenden Zeilen." In ber That wirken Bor:
+ftellungen auf die Genitalien nicht, wie fonft auf den Willen
+überall, als Motive, fondern, eben weil bie Erektion eine Refler
+bewegung ijt, bloß als Reize, mithin unmittelbar unb nur
+jo lange fie gegenwärtig find: aud) ijt eben deshalb zu ihrer
+Wirksamkeit eine gewiffe Dauer ihrer Anwefenheit erfordert;
+während hingegen eine Vorftellung, bie als Motiv wirkt, dies
+oft nad) der kürzesten Anwesenheit thut und überhaupt in ihrer
+Wirksamkeit an fein Verhältniß zur Dauer ihrer Gegenwart
+gebunden ift. (Diefen und jeden Unterfchied zwischen Reiz umb
+Motiv findet man auseinandergefeßt in meiner Ethif, ©. 32,
+auch in der Abhandlung über den Cat vom Grund, €. 47.)
+Terner Tann die Wirkung, welche eine Vorftellung auf bie Ge-
+nitalien hat, nicht, wie bie eines Motivs, durch eine andere Vor⸗
+fteffung aufgehoben werden, a(8 nur fofern bie erftere burd)
+diefe aus bem Bewußtfeyn verdrängt wird, alfo nicht mehr
+gegenwärtig ift: dann aber gefchieht e8 unfehlbar und aud
+wenn jene gar nichts der erften Entgegengejettes enthält; wie
+hingegen Dies von einem Gegenmotio erfordert ijt. Dem ent.
+sprechend ift, zur Vollziehung des coitus, nicht Hinveihend, daß
+die Gegenwart eines Weibes auf den Mann als Motiv (etwan
+zum Kinderzeugen, oder zur Pflichterfüllung u. dgl.) mirfe, man
+dieses aud) als folches ein nodj jo mächtiges wäre; fondern jene
+Gegenwart muß unmittelbar als Reiz wirken.
+
+
+Zur Philofophie unb Wiffenfchaft ber Natur. 181
+
+
+Daß ein Ton, um hörbar zu seyn, wenigftens 16 Schwin- .
+gungen in ber Sekunde madjen muß, jdeint mir daran zu
+liegen, baf feine Schwingungen dem Gehörnerven medjani[d)
+mitgetheilt werden müjfen, indem die Empfindung des Hörens
+nicht, mie bie des Schns, eine durch bloßen Ginbrud auf ben
+Nerven Berborgerufene Erregung ijt, fondern erfordert, daß der
+Nero felbjt hin unb Der geriffen werde. Diefes muß daher
+mit einer beftimmten Schnelle und Kürze gefchehn, welche ihn
+nöthigt, fury umzulehren, im fcharfen Zidzad, nicht in gerünbeter
+Biegung. Zudem muß Dies im Innern des Labyrinths und der
+Schnecke vor jid) gehn; weil überall die Knochen ber Refonanz-
+boden ber Nerven find: bie Lymphe jebod), welche bajefb[t ben
+Gehörnerven umgiebt, mildert, als unelaftifch, bie Gegenwirkung
+des Knochens,
+
+
+Wenn man erwägt, daß, den neuesten Unterfuhungen au
+folge, die Schädel der Idioten, wie aud) der Neger, allein in
+der Breitendimenfion, alfo von Schläfe zu Schläfe, durchgängig
+gegen andere Schädel zurüditehn, und daß, im Gegentheil, große
+Denker ungewöhnlid) breite Köpfe haben, wovon fogar Platone
+Namen abgeleitet wird; — wenn man ferner dazu nimmt, daß
+das Weißwerden der Haare, meídje8 mehr die Folge der Geiftes-
+anftrengung, wie auch des Grams, als des Alters ijt, — von
+den Scläfen auszugehn pflegt, und fogar ein Spanifches Sprid)-
+wort jagt: canas son, que no lunares, cuando comienzan
+por los aladares (weiße Haare find fein Makel, mann fie an
+den Scläfen anfangen); — jo wird man zu der DBermuthung
+geführt, baB der unter der Schläfengegend Tiegende Theil des
+Gehirns der beim Denken vorzugsweife thätige fei. — Vielleicht
+wird man einft eine wahre Kraniologie aufftellen können, die
+aber dann ganz anders Tauten wird, als bie Galjde, mit
+ihrer fo plummpen, wie abfurden pfychologifchen Grundlage und
+ihrer Annahme von Gehirnorganen für moralifhe Eigen-
+Ihaften. — Mebrigens ift ba8 graue und weiße Haar für ben
+Menfhen, was für die Bäume das rotfe und gelbe Laub im
+Oftober, und Beides nimmt fid) oft recht gut aus; nur darf
+fein Ausfall Hinzugefommen fet.
+
+
+182 Zur Pyilofophie unb Wiffenfhaft ber Natur.
+
+
+Da das Gehirn aus gar vielen, meiden und burd unzäh—
+fige Zwifchenräume getrennten Falten und Bündeln befteht, aud
+in feinen Höhlen wäfjrichte Feuchtigkeit enthält; fo müssen bod,
+in Folge der Schwere, alle jene fo weichen Theile theils fid
+beugen, theil® auf einander drüden, und zwar, bei verschiedenen
+Lagen be8 Kopfes, auf fehr verfchiedene Weife; welches der tur-
+gor vitalis bodj wohl nicht ganz aufheben Tann. Dem Drude
+der größern Massen auf einander beugt zwar bie dura mater vor
+768, 775), indem fie zwifchen biefefben fid) einfenft, bie falx
+cerebri und da8 tentoicum cerebelli bifbenb; aber über bit
+Heineren Theile geht fie hinweg. Stellt man fih mun bit
+Dentoperationen al8 mit wirkliden, wenn aud) noch fo Kleinen,
+Bewegungen in ber Gehirnmasse verknüpft vor; jo müßte, durch
+den Drud der Heineren Theile auf einander, der Einfluß ber
+Lage ein fehr großer und augenblidlicher feyn. Daß nun er aber
+dies nicht ijt, bemeiit, daß die Sache nicht gerade medjanifd) vor
+fid) gebe. Dennod Tann die Lage des Kopfes, ba von ihr nid
+nur jener Druck der Gehirntheile auf einander, fondern aud) der,
+jedenfalls wirffame, größere oder geringere Blutzufluß abhängt,
+nicht gleichgültig feyn. Sd) Habe wirklich gefunden, baB, wenn
+ich vergeblich beftrebt war, mir etwas ins Gedächtniß zurüd:
+zurufen, e8 mir fodann burd) eine jtarfe Veränderung der Lage
+gelungen ijt. Für das Denken überhaupt fcheint die vortheil:
+haftefte 9age die, bei welcher bie basis encephali ganz horizon-
+tal zu Tiegen fommt. ‘Daher man beim tiefen Nachdenken den
+Kopf nad) vorne fenft — und großen Denkern, 3. 3B. Kanten,
+diefe Stellung habituell geworden ijt; mie denn aud Kardanus
+e8 von fid) berichtet (Vanini Amphith. p. 269) *); — weldes
+jedoch, vielleicht und zum Theil, aud) dem abnorm größeren
+
+
+*) Die fier citirte Stelle aus Vanini Amphith. p. 269 (Exercitatio 39)
+lautet wörtlich: Excusandus tamen Cardanus est (bafj er bie Mifigeftafteten
+für geiftreich hält, p. 268), nam a seipso desumpsit argumentum, in ex-
+positione suae geniturae haec habet verba. Quod etiam natus sim
+parentibus senibus, fui minus pulcher et validus. Mater enim cum me
+genuit 37. pater 56. annum agebat, et ob hoc etiam, et quia nodus erat
+in ascendente, fui maxime in ambulando aliqualiterincurvu:
+collo etiam a pueritia ut senes, etc, Der Heransg.
+
+
+Zur Philofophie und Wiffenfchaft ber Natur, 183
+
+
+Gewicht ihres Gehirns überhaupt und insbefondere dem zu
+ftarfen Webergewicht ber vordern (vor bem foramen occipitale
+liegenden) Hälfte über die Hintere, bei ungewöhnlicher Dünnheit
+des Rückenmarks und demnach aud) ber Wirbelbeine, zuzuschreiben
+(jt. Diese Qebtere findet nicht Statt bei denjenigen Dickköpfen,
+die zugleih Dummköpfe find; daher diefe bie Nafe ganz Dod)
+tragen: zudem verrathen die Köpfe diefer Art fid) aud) burd)
+die fichtbarlich biden und mafliven Schädelknochen, in Folge
+welcher, trot ber Dide des Kopfes, der Gebiruraum fehr klein
+ausfällt. Es giebt wirklich ein gewifjes Hochtragen des Kopfes,
+bei febr gerader Wirbelfäule, welches wir, aud) ohne Reflexion
+und SSorfenntnijje, als ein phyfiognomifches Merkmal von Dumm⸗
+heit geradezu empfinden; wahrfcheinlich weil es darauf beruht,
+dag bie hintere Gehirnhälfte der vordern wirklich das Gleich—
+gewicht hält, wenn nicht gar überwiegt. Wie bie nad) vorne
+gefenfte Lage des Kopfes dem Nachdenken, fo fcheint bie ent-
+gegengejebte, alfo das Erheben und fogar Zurüdbeugen deffelben,
+das nah oben Sehn, ber augenblidlihen Anftrengung des
+Gedächtnisses günftig zu seyn, da Die, welche fid) auf etwas
+zu befinnen bemüht find, oft eine folche Stellung und mit Erfolg,
+annehmen. — Auch gehört hieher, bag febr ffuge Hunde, welde
+befanntlich einen Theil der menfchlihen Rede verftehn, menn ihr
+Herr zu ihnen fpricht und fie fid) anftrengen, den Sinn feiner
+Worte herauszubringen, den Kopf abwechjelnd auf bie eine und
+auf die andere Seite fegen; welches ihnen ein höchit intelligentes
+unb ergögliches Anfehn giebt.
+
+
+Mir Hat bie Anfiht gar sehr eingeleuchtet, daß bie akuten
+Krankheiten, von einigen Ausnahmen abgefehn, nichts Anderes
+find, als Heilungsproceffe, welche die Natur felbit einleitet, zur
+Abftellung irgend einer im Organismus eingeriffenen Unordnung;
+zu welchem Zwecke nun bie vis naturae medicatrix, mit bifta-
+torijder Gewalt beffeibet, anßerordentliche Maaßregeln ergreift,
+und biefe machen die fühlbare Krankheit aus. Den einfachften
+Typus diefes fo allgemeinen Hergangs liefert uns der Schnupfen.
+Durch Erkältung ijt die Thätigleit der äußern Haut paralyfirt
+und Dieburd) bie fo mächtige Erkretion mittelft der Erhalation
+
+
+184 Zur Philosophie unb Wissenschaft der Natur.
+
+
+aufgehoben; weldes den Tod des Individuums herbeiführen
+fónnte. Da tritt alsbald die innere Haut, die Schleimhaut, für
+jene äußere vifarirend ein: hierin befteht der Schnupfen, eine
+Krankheit: offenbar ift aber dieje bloß das Heilmittel des eigmt-
+fidjen, aber nicht fühlbaren Uebels, be8 Stillftandes der Haut-
+funktion. Diefe Krankheit, der Schnupfen, durchläuft nun die
+felben Stadien, wie jede andere, den Eintritt, die Steigerung,
+bie Alme, und die Abnahme: anfangs akut, wird fie allmälig
+djronijd) unb Hält nun als jolde an, bi8 das fundamentale,
+aber felbft nicht fühlbare llebef, die Lähmung der Hautfunktion
+vorüber ift. Daher ijt es Tebensgefährlich, den Schnupfen zurüd:
+zutreiben. Derfelbe Hergang madt das Wefen ber allermeiften
+Krankheiten aus, und biefe find eigentlich nur das Medikament
+der vis naturae medicatrix. *) Einem folden Proceß arbeitet bie
+Alfopathie, ober Enantiopathie, aus allen Kräften entgegen; bie
+Homoiopathie ihrerfeits tradjtet ihn zu befchleunigen, oder zu
+verftärfen; wenn nit etwan gar, burdj Kariliren bejfefbeu, ihn
+ber Natur zu verleiden; jedenfalls um die, überall auf jedes
+Uebermaaß und jede Einfeitigfeit folgende, Reaktion zu bejchlen:
+nigen. Beide demnad) wollen e8 bejjer verstehn, als die Natur
+jelbft, bie bod) gewiß fomob( das Maaß, als die Richtung ihrer
+Heilmethode fennt. — Daher ist vielmehr bie Phyfiatrif in
+allen den Fällen zu empfehlen, die nicht zu den bejagten Aus-
+nahmen gehören. Nur die Heilungen, welde die Natur felbft
+und aus eigenen Mitteln zu Stande bringt, find gründlih. Aud)
+hier gilt da8 Tout ce qui n'est pas naturel est imparfait.
+
+
+*) Schopenhauer schrieb feine Gedanken mitunter aud in fremden
+Sprachen nieder. So Babe ih in feinen Manufcripten englifche, franzöfifche,
+fateinijde, bald längere, bald kürzere Stellen gefunden, bie nur feine eigenen
+Gedanken enthielten umb dieses aud) durch bie Unterfchrift ,,Ego" zu erkennen
+gaben. Obige Anfiht nun von den Krankheiten als Heilungsproceffen ber
+9tatur hat er in feinem Mannfeript „Senilia, angefangen zu Frankfurt a. M.
+im April 1852, welches er bis zu feinem Tode fortgeführt bat, lateinisch
+fo ausgebrildt: „Morbus ipse est medela naturae, qua opitulatur per-
+turbationibus organismi: ergo remedium medici medetur medelae." In
+bemfelben Manufeript fagt Schopenhauer aud): „Es giebt nur Eine Heil⸗
+kraft, und das ift bie Natur: in Salben und Billen ftedt feine: höchstens
+fünnen fte der Heilkraft der Natur einen Winf geben, wo etwas für fie zu
+tbun ift." Der Herausg.
+
+
+Zur Philosophie und Wissenschaft ber Natur. 185
+
+
+Die Heilmittel der Aerzte find meistens bloß gegen die Symptome
+gerichtet, als welche fie für bas llebe[ felbft Halten; daher wir
+nadj einer folhen Heilung uns unbehaglic fühlen. Läßt man
+bingegen der Natur nur Zeit; jo vollbringt fie allmälig selbst
+bie Heilung, nad) welcher wir alébann uns bejjer befinden, als
+vor der Krankheit, oder, wenn ein einzelner Theil litt, diefer fid)
+stärkt. Dan Tann Dies an leichten Uebeln, wie fie uns oft
+heimfuchen, bequem und ohne Gefahr beobachten. Daß es Aus⸗
+nahmen, alfo Fälle giebt, wo nur der Arzt helfen kann, gebe
+ich ju: namentlich ijt die Syphilis der Triumph der Medicin.
+Aber bei Weitem die meiften Genefungen find bloß das Wert
+ber Natur, für welches der Arzt bie Bezahlung einjtreiht, —
+fegar wenn fie nur feinen Bemühungen zum Trotz gelungen
+find; unb e8 würde (djled)t um den Ruhm und die Rechnungen
+der Aerzte ftehn, wenn nicht ber Schluß cum hoc, ergo propter
+hoc fo allgemein üblich wäre. Dazu kommt, daß medicus est
+animi consolatio. Die guten Kunden der Aerzte fehn ihren
+Leib an, wie eine Uhr, ober fonftige Mafchine, bie, wenn etwas
+an ihr in Unordnung gerathen ijt, nur baburd) wieder hergeftellt
+werben fann, bag ber Mechanikus fie reparirt. So ijt e8 aber
+nicht: der Leib ijt eine fid) felbft reparirenbe Mafchine: die
+meiften — fid) einftellenden größern und kleinern Unordnungen
+werden, mad) längerer oder Türzerer Seit, burd) bie vis naturae
+medicatrix ganz von felbft gehoben. Also lasse man diefe ge-
+währen, und peu de medicin, peu de médecine.
+
+
+Die Nothwendigfeit der Metamorphofe ber Insekten
+erfläre ich mir foígenbermaafen. Die metaphufifche Kraft, welche
+der Erjheinung eines folden Thierdhens zum Grunde fiegt, ift
+fo gering, daß fie die verfchiedenen Funktionen des thierifchen
+Lebens nicht gleichzeitig vollziehen kann; daher muß fie diefelben
+vertheilen, um fucceffiv zu leiften, was bei den höher jtefenben
+Thieren gleichzeitig vor fid) geht. Demnach theilt fie das In⸗
+jeltenleben in zwei Hälften: in ber erften, bem Larvenzuftande,
+iet fie fid) ausschließlich dar als Reproduktionskraft, Ernäh⸗
+rung, Blafticität. Diejes Leben ber Qarbe hat zu feinem un-
+mittelbaren Zwede bloß die Hervorbringung ber Chrhfalis; biefe
+
+
+186 Zur Philofophte und Wiffenfchaft ber Natur.
+
+
+nun aber, da fie im Innern ganz flüffig ijt, kann angefehen
+werden als ein zweites Ei, daraus fünftig bie Imago hervor:
+gehn wird. Also Bereitung der Säfte, daraus die Imago wer:
+den kann, ift ber alleinige Zweck be8 Larvenlebens. Im der
+zweiten Hälfte des Insektenlebens, welche von ber ersten durd)
+jenen eterartigen Zuftand gefchieden ift, ftellt bie an fid) meta-
+physische Lebenskraft fid) dar als Bunbertfad) vermehrte Srrita-
+bilität, — im unermüdliden Fluge, —. als Hochgefteigerte Sen:
+fibilität, — in volllommmeren, oft ganz neuen Sinnen, und in
+wundervollen Inftinkten und Kunfttrieben, — hauptsächlich aber
+als Genitaffunftion, bie jett als legter Zwed des Lebens auf
+tritt: dagegen ift die Nutrition fehr verringert, bisweilen felbit
+ganz aufgehoben; wodurch denn das Leben einen völlig ätheri-
+iden Charakter angenommen hat. Diese gänzliche Veränderung
+und Sonderung der Lebensfunftionen ftellt also gewiffermaaßen
+zwei fucceffiv Iebende Thiere dar, deren höchst verfchiedene Ge.
+ftalt dem Unterfchied ihrer Funktionen entjpridt. Was fie ber
+bindet iff der eierartige 3ujtanb ber Chryfalis, deren Inhalt
+und Stoff zu bereiten ba8 LXebensziel des erften Thieres war,
+deffen bormaítenb plaftifche Kräfte nunmehr, in diefem Puppen-
+zuftande, burdj Hervorbringung der zweiten Geftalt, ihr Letztes
+thun. — Alfo die Natur, oder vielmehr das ifr zum Grunde
+[fiegenbe Metaphysische, vollbringt bei diefen Thieren in zwei
+Absätzen was ihr auf Ein Mal zu viel wäre: fie theilt ihre
+Arbeit. Demgemäß fehn wir, daß bie Metamorphofe am volf-
+kommensten dort iff, wo bie Sonderung ber Funktionen jid) am
+entfchiedenften zeigt, 3. B. bei den LZepidopteren. Viele Raupen
+nämlich) freien täglich das Doppelte ihres Gewichts: dagegen
+freffen viele Schmetterlinge, wie aud) mande andere Insekten,
+im vollfommenen Zuftande, gar nicht, 3. 8. der Schmetterling
+der Seibenraupe m. a. m. Hingegen ijt die Metamorphofe un-
+vollfommen bei denjenigen Infelten, bei welden aud) im voll-
+fommenen Zuftande die Nutrition stark von Statten gebt, 3.2.
+bei den Gryllen, Qofujten, Wanzen u. f. w.
+
+
+Das faft allen gallertartigen Nadiarien (radiaires mol-
+lasses) eigene phosphorescirende Leuchten im Meere entipringt
+
+
+Zur Philofophie und Wiffenfchaft ber Natur. 187
+
+
+vielleicht, eben wie das Leuchten be8 Phosphors felbit, aus einem
+fangíamen PVerbrennungsproceß, wie ja aud) das Athınen der
+Wirbelthiere ein folcher ift, deffen Stelle e8 vertritt, als eine
+Reipiration mit der ganzen Oberfläche und demnach ein äußer⸗
+fihes Tangfames Verbrennen, wie jenes ein innerliches ijt: oder
+vielmehr fünde aud) hier ein innerliches Verbrennen Statt, deffen
+Yichtentwidelung bloß vermöge der völligen Durchsichtigkeit aller
+diefer gallertartigen Thiere äußerlich fichtbar würde. Daran
+könnte man die fühne Vermuthung knüpfen, daß jedes Athmen,
+mit Lungen oder Kiemen, von einer Phosphorescenz; begleitet
+und folglid) da8 Innere eines Ichenden Thorax erleuchtet wäre.
+
+
+Wenn e8 nicht objektiv einen ganz beftimmten LUnterfchied
+zwifchen Pflanze und bier gäbe; [o würde die Frage, worin
+er eigentlich beftehe, feinem Sinn haben: denn fie verlangt nur
+biefen, mit Sicherheit, aber unbeutfid), von Jedem verftandenen
+Unterfhied auf deutliche Begriffe zurüdgeführt zu fehn. Ich
+habe ihm angegeben in meiner Ethik ©. 31 fg. und in ber
+Abhandlung über den Sat vom Grunde ©. 47.
+
+Die verfchiedenen Thiergeftalten, in denen der Wille zum
+Leben fid) barftefít, verhalten fid) zu einander mie ber felbe Ges
+danke, in verjchiedenen Spraden und dem Geiste einer jeden
+derfelben gemäß ausgedrüdt, und bie verfchiedenen Species
+eines Genus Taffen fid anjehn wie eine Anzahl Variationen
+auf dafjelbe Thema. Näher betradjtet jebod) ijt jene Verschieden⸗
+heit ber ZTchiergeftalten abzuleiten aus ber verfchiedenen Lebens-
+weile jeder Species und der aus diefer ent[pringenben Ver—⸗
+Ihiedenheit der Zwecke; — wie Dies von mir fpeciell ausgeführt
+it in der Abhandlung vom „Willen in der Natur”, unter ber
+Rubrik ‚vergleichende Anatomie”. Bon der Verfchiedenheit ber
+Pflanzenformen Hingegen fünnen wir im Einzelnen die Gründe
+fange nicht fo beftimmt angeben. Wie weit wir e8 ungefähr
+vermögen habe idj im Allgemeinen angedeutet in meinem Haupt-
+werte Bd. 1, 8. 28. Dazu kommt nun nod, daß wir
+Einiges an den Pflanzen teleologifch erklären können, wie 3. 3B.
+die abwärts gefehrten niederhängenden Ylüten ber Fuchsia dar-
+aus, daß ihr Pistill febr viel länger ift, als bie Stamina;
+
+
+188 Zur Philofophie unb Wiffenfchaft der Natur.
+
+
+daher bieje Lage das Herabfallen und Auffangen des Bollens
+begünftigt, u. dgl. m. Im Ganzen jedoch läßt fid) fagen, bag
+üt ber objektiven Welt, alfo ber anfchaulichen Vorstellung, fid
+überhaupt nichts darftellen fanm, was nicht im Wefen der Dinge
+an fid, afjo in bem der Grídjinung zum Grunde liegenden
+Willen, ein genau bent entfprechend modificirtes Streben hätte,
+Denn die Welt als Vorftellung fann nichts aus eigenen Mit-
+teln liefern, eben barum aber aud) Tann fie Fein eitles, müßig
+erfonnenes Mährchen auftifchen. Die endlofe Mannigfaltigkeit
+der Formen und [ogar der Färbungen ber Pflanzen umb ihrer
+Blüten muß bod) überall der Ausdrud eines eben fo modifizirten
+jubjeftiven Wesens feyn: b. D. ber Wille als Ding an fib, ber
+fid) darin barjtefít, muß durd) fie genau abgebildet febr.
+
+Aus demfelben metaphufifchen Grunde und weil aud) ber
+Leib des menjd)fiden Individuums nur die Sichtbarkeit feines
+individuellen Willens ijt, aljo biejem objektiv darftellt, zu bem
+felben aber jogar auch fein Suteffeft, oder Gehirn, eben als Gr
+scheinung feines Grfennenmolfen8 gehört, muß eigentlich nicht nur
+die DBefchaffenheit feines Intellekts aus der feines Gehirns unb
+dem bajfefbe excitivenden Blutlauf, fondern aud) fein gefammter
+moralifcher Charakter, mit allen feinen Zügen und Eigenbeiten,
+muß aus der nähern Bejchaffenheit feiner ganzen übrigen Kor:
+porifation, alfo aus ber Textur, Größe, Dualität unb dem
+gegenfeitigen Verhältniß des Herzens, der Leber, der Zunge, ber
+Milz, ber Nieren u. |. w. zu verftehn unb. abzuleiten seyn; wenn
+wir aud wohl nie dahin gelangen werden, dies wirklich zu
+[eiften. — Aber objektiv muß die Möglichkeit dazu vorhanden
+seyn. ALS Uebergang dazu diene folgende Betrachtung. Nicht
+bloß wirken bie Leidenfchaften auf verfchiedene Theile des Leibes
+(€. Welt als Wille und Vorftellung, 3. Aufl, Bd. II, p. 297);
+fondern aud) umgefefrt: der individuelle Zuftand einzelner Dr-
+gane erregt bie Leidenfchaften unb fogar die mit biefem zufammen-
+hängenden Vorftellungen. Wenn bie vesiculae seminales perio-
+difh mit Sperma überfüllt find, fteigen alle Augenblid, ohne
+' befondern Anlaß, wollüftige und objcöne Gedanken auf; wir
+denken wohl, der Grund bagu [eb rein p[pdjijd, eine perverfe
+
+
+Richtung unferer Gedanken: allein er ift rein phufifch und Hört ——
+
+
+auf, fobald bie befagte Ueberfüllung vorüber ijt, — durch Re⸗
+
+
+Zur Philosophie unb Wiffenfhaft ber Natur. 189
+
+
+jorption des Sperma in’s Blut. Bisweilen find wir zum Aerger,
+Zanf, Zorn aufgelegt und fuchen ordentlich nad) Anläffen dazu:
+finden wir feine äußern; fo rufen wir füngft vergeffenen Verdruß
+in Gedanken hervor, um uns daran zu ürgeru und zu toben.
+Höchst wahrscheinlich ijt diefer Zuftand Folge eines Meberfluffes
+an Galle. Bisweilen ift uns innerlich angft und bange, ohne
+alle Anlap, und der Zustand ift anhaltend; wir (uden in
+nfern Gedanken nah Gegenftänden ber Beforgniß und bilden
+ung leicht ein, fie gefunden zu haben: — dies nennt die englifche
+Sprade: to catch blue devils: wahrfcheinlich entfpringt e8 aus

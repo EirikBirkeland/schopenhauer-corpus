@@ -1,0 +1,2125 @@
+# TIER 1 PRIMARY (published work) | German original, collected edition of 1877 | a readable printing of the collected edition, 1877
+# title: Den Intellekt ueberhaupt und in jeder Beziehung betreffende Gedanken (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Thoughts bearing on the intellect as such and in every respect - the English title is this collection's rendering
+# year: 1877 printing of a work first published 1851
+# edition: Arthur Schopenhauer's saemmtliche Werke: Parerga und Paralipomena, zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), in the arrangement made by Julius Frauenstaedt; this layer does not state which edition it is, so none is claimed. Chapter III of this volume, pages 35-95, sections 33-61 by ITS OWN numbering - which runs one ahead of the 1851 first edition, verified at six points by matching opening sentences (see the file header). Text layer scored 10.9 common words per hundred by bin/ia-read.js: readable, but it prints f for the long s, f for k and j for i here and there.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/arthurschopenha01schogoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 13, which got the FRONT of Parerga - lost in the 1851 scan, whose display headings are shredded across its first 169 pages (GAP-4) - by turning to a LATER printing whose OCR is clean. Two things to keep straight when quoting these files: the text-state is 1877, not 1851, being Frauenstaedt's arrangement and a later text; and the paragraph numbers run one ahead, so "§ 62" here is "§ 61" in the first edition. Where the same chapter exists in both printings (file 63 beside file 53) the collection holds two witnesses and says which it used. The long polemic against Rosenkranz, and the richest of the chapters recovered this pass: it opens "Die einfachste, unbefangene Selbstbeobachtung, zusammengehalten mit dem anatomischen Ergebniß, fuehrt zu dem Resultat, dass der Intellekt, wie seine Objektivation, das Gehirn...". Note also what sits at its end, section 61: talent works for money and fame, while the spring that moves genius is harder to name - a SECOND talent-and-genius passage, distinct from the famous one in the second World volume (spot-check 17) and from the quotation-book formula (T3-05).
+
+[Note of this collection, not part of the print: this chapter comes from the READABLE printing in Arthur Schopenhauer's saemmtliche Werke, "Parerga und Paralipomena" zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), NOT from the 1851 first edition. That is a decision with two consequences, both recorded here rather than hidden. (1) The text is the collected edition as Julius Frauenstaedt arranged it, and this printing is dated 1877 on its title page, three years after his death; the layer does not give the edition number, so none is claimed. It is a LATER text-state than files 27 and 30-52: a quotation from these files is quoted as 1877, not as 1851, and its chapter numbers follow this edition's contents, which differ from the 1851 print's. (2) ITS PARAGRAPH NUMBERS RUN ONE AHEAD of the 1851 print - verified at six points, and at each the opening sentence is the same text, so the pairing is not guessed: Dinges an sich 1851 § 61 / here § 62 (the opening sentence being identical in both, which is what proves the pairing); Pantheismus 1851 § 68 / here § 69; Farbenlehre 1851 § 103 / here § 104; Ethik 1851 § 108 / here § 109; Nichtigkeit 1851 § 142 / here § 143; Selbstmord 1851 § 157 / here § 158. Below § 61 the two printings were not compared when this note was written, so the shift is asserted only where it was verified. Anyone citing a paragraph number must say which printing it came from. This volume's own table of contents gives the chapter as Kapitel III on pages 35-95, and its opening paragraphs as § 33; the copy's heading in this layer reads "unmittelbar 3ufommt. wnb in jeber Beziehung betreffende Gebanten. 49 8. 33. Die einfad)fte, unbefangene Selbftbe" - the OCR mangles the word Kapitel now and one numeral, so the number is taken from the volume's contents, not from the heading's letters. Page markers: 0 made from the volume's GENERAL running head ("Schopenhauer, Parerga. II. 12" and its garbled twins - the OCR spoils that title differently on every page, which is why it was once thrown out as a junk line and why repetition could not identify it), recovered only where the number continues the sequence within twelve pages and falls inside the contents range for this chapter (none), plus 8 from heads naming this chapter (S. 56 to S. 88). Both are recovered, neither is estimated: where the OCR lost a head there is no marker. WHAT WAS TRIED AND DECLINED, pass 18: the general head was measured before it was trusted - only 8 lines in the whole 34,746 still spell 'Parerga', and loosening the test to mere shape (a short line with a comma, ending in a figure) turns up a handful per chapter whose numbers fall OUTSIDE the pages the contents give for that chapter, so they are furniture from another gathering, not this chapter's pages. The general head is therefore recorded as NO DATA, and these files are cited by chapter, by their own paragraph numbers, and by the few chapter heads that survived. Short OCR noise lines were dropped (58); the long s is normalised to s (397 here), and this layer also prints f for k and j for i now and then, so read a quotation against the scan.]
+
+wnb in jeber Beziehung betreffende Gebanten. 49
+
+
+Die einfad)fte, unbefangene Selbftbeobadhtung, zusammen⸗
+gehalten mit dem anatomischen Ergebniß, führt zu dem Reful-
+tat, daß der Intelleft, wie feine Objektivation, das Gehirn, nebft
+diefem anhängenden Sinnenapparat, nichts Anderes jei, als eine
+jehr gefteigerte Empfänglichleit für Cinwirfungen von außen;
+nift aber unfer urfprüngliches und eigentlich inneres Wesen
+auémadje; alfo, bag in uns ber Intellekt nicht Dasjenige fei,
+was in der Pflanze bie treibende Kraft, oder im Steine bie
+Schwere, nebst hemifchen Kräften, ijt: als Diejes ergiebt jid)
+allein ber Wille. Sondern ber Intellett ijt in uns Das, was
+in ber Pflanze die bloße Gmpfünglidfeit für äußere Einflüffe,
+für physikalische und demijde Einwirkungen und was nod) fonjt
+ijr Wachsthum und Gedeihen fördern oder hindern mag; nur
+bag in uns bieje Empfänglichkeit jo überaus Dod) gejteigert ijt,
+ba, vermöge ihrer, bie ganze objektive Welt, die Welt als Vor⸗
+ttellung, fid) darftellt, folglich [ofdjermaagen ihren Urfprung, als
+Objeft, nimmt. Um fid) dies zu veranschaulichen, ftelle man
+ih die Welt vor, ohne alle animalifche Wesen. Da ift fie ohne
+Vahrnehmung, alfo eigentíid) gar nicht objektiv vorhanden; in-
+defien fet e8 fo angenommen. Jetzt benfe man fid) eine Anzahl
+Pflanzen dicht neben einander aus dem Boden emporgefchofjen.
+Auf diefe wirft nun manderfei ein, wie Luft, Wind, Stoß
+einer Pflanze gegen die andere, Näffe, Kälte, idt, Wärme,
+eleftriiche Spannung u. f. m. Jetzt fteigere man, in Gedanlen,
+mehr und mehr, die Empfänglichkeit diefer Pflanzen für ber»
+gleichen Einwirkungen: da wird fie embfid) zur Empfindung, be:
+gleitet von ber Fähigkeit bieje auf ihre Urfachen zu beziehen, und
+jo am Ende zur Wahrnehmung; alsbald aber fteht die Welt da,.
+m Raum, Zeit und Kaufalität fid) darftellend; bleibt aber bennod)
+ein bloßes S9iejultat der äußern Einflüffe auf die Empfänglichkeit
+der Pflanzen. Diefe bildlihe Betrachtung ijt sehr geeignet, bie
+bloß phänomenale Eriftenz der Außenwelt fagfid) zu machen.
+Tenn, wem wird e$ banad) wohl einfallen, zu behaupten, daß
+die Berhältniffe, welche in einer joldjen, aus bloßen Relationen
+zwischen äußerer Einwirkung und lebendiger Empfänglichleit ent-
+stehenden Anschauung ihr Dafeyn haben, die wahrhaft objektive,
+innere und urfprüngliche Befchaffenheit aller jener angenommener-
+
+
+50 Den Intelleft überhaupt
+
+
+maaßen auf die Pflanze einwirfenden Naturpotenzen, alfo bie
+Welt der Dinge an fid) darftellen. Wir können afjo an diefem
+Bilde uns faBlid) machen, marum der Bereich des menfchlichen
+Sutelíeft8 fo enge Schranken Hat, wie ihm Kant in der Kritik
+ber reinen Vernunft nachweift.
+
+Dos Ding an fid) Hingegen ift allein ber Wille Dem—
+nad) ijt er der Schöpfer und Zräger aller Eigenfchaften der Gr-
+Iheinung.e Das Moralifche wird ihm. unbebenfíid) zur aft ge
+legt: aber aud) die Erfenntniß und ihre Kraft, alfo ber In-
+tefíeft, gehört feiner Grid)einung, alfo mittelbar ihm an. — Daß
+be[d)rünfte und dumme Menfchen ftets einige Verachtung erfahren,
+mag, wenigftens zum Xheil, darauf beruhen, daß in ihnen ber
+Wille jid) die Laft fo Leicht gemacht und, zum Behuf feiner
+Jede, nur zwei Quentchen Grfenntnipfraft geladen Dat.
+
+
+Nicht nur ift, wie ich oben, 8. 25, und aud) [don in meinem
+Hauptwerke (Bd. I, 8. 14) gejagt habe, alle Evidenz anjchaus
+fid, jonberu auc alles wahre und ächte VBerftändniß ber
+Dinge ijt e8. Dies bezeugen (don die unzähligen tropifchen
+Ausdrücke in allen Spraden, als welche sämmtlich Beitrebungen
+find, alles Abftrafte auf ein Anfchauliches zurüdzuführen. Denn
+bloße abftrafte Begriffe von einer Cade geben fein wirkliches
+Derftändniß derfelben; wiewohl fie in den Stand fe&en, davon
+zu reden, wie Viele von Bielem reden: ja, Einige bedürfen hiezu
+nicht ein Mal der Begriffe, fondern reichen mit bloßen Worten,
+3. 9. Runftausdrüden, bie fie erlernt haben, aus. — Um hin-
+gegen irgend. etwas wirklich und wahrhaft zu verjtehn, ift erfor-
+bert, bag man e8 anschaulich erfaffe, ein deutliches Bild davon
+empfange, wo méógfid) aus der Realität felbft, außerdem aber
+mittelft der Phantafie. Selbst was zu groß, ober zu fomplicirt
+ift, um mit Einem Blide überfehen zu werden, muß man, um
+es wahrhaft zu verjtehn, entweder theilweife, oder burd) einen
+überjehbaren NRepräfentanten fid) anfchaulich vergegenwärtigen;
+Das aber, welches selbst Diejes nicht zuläßt, muß man wenig:
+ftens burdj ein anschauliches Bild und Gleichniß fid) faßlich zu
+maden juden. So fehr ift die Anschauung die Basis unferes
+Erfennens. Dies zeigt fid) aud) darin, daß wir fehr große
+
+
+und in jever Beziehung betreffende Gebanten. 51
+
+
+Zahlen, imgleichen febr weite, nur durch fofdje ansdrückbare Ent-
+fernungen, wie bie aftronomifchen, zwar in abstracto benfen,
+dennoch aber nicht eigentlich und unmittelbar verftehn, jonberm
+bloß einen Verhältnigbegriff davon haben.
+
+Aber mehr nod, als jeder Andere, jolí ber Philofoph aus
+jener Urquelle, der anfchauenden Erfenntniß, fchöpfen und daher
+ftet8 bie Dinge felbft, die Natur, die Welt, das Leben ins Auge
+affen, fie, und nicht die Bücher, zum Texte feiner Gedanken
+madew, auch ftet8 an ihnen alle fertig überfommenen Begriffe
+prüfen und fontrofiren, bie Bücher afjo nicht af8 Duellen der
+GrfenntniB, jondern nur als Beihülfe benugen. ‘Denn mas fie
+geben empfängt er ja nur aus zweiter Hand, auch meiftens schon
+etwas verfälicht: es ijt ja mur ein Wiederfchein, ein Sonterfei
+des Originals, nämlih der Welt, und felten war der Spiegel
+volffommen rein. Hingegen die Natur, die Wirklichkeit, Tügt
+nie: fie madjt ja alle Wahrheit erft zur Wahrheit. Daher hat
+der Philofoph an ihr fein Studium zu madjen, und zwar find
+es ihre großen, deutlichen Züge, ihr Haupt- umb Grundcharafter,
+woraus fein Problem ermüdjt. Demnad) wird er bie wejent-
+lichen und allgemeinen Erfcheinungen, Das, was allezeit unb
+überall ijt, zum Gegenftande feiner Betrachtung machen, hingegen
+die speciellen, befonderen, feltenen, mifrojlopifchen, oder vorüber,
+fliegenden Erfcheinungen bem Physiker, dem Zoologen, bem Hifto-
+rer u. s. w. überlafien. Ihn befchäftigen wichtigere Dinge:
+das Ganze und Große ber Welt, das Wejentliche derfelben, die
+Brundwahrheiten, find [eim hohes Ziel. Daher famm er nidt
+iugleich fid) mit Einzelheiten und Mikrologien befafjen; gleich.
+wie Der, welcher, vom hohen Berggipfel aus, das Land über-
+schant, nicht zugleich bie da unten im Thale madjjenben Pflanzen
+mterfuchen und beftimmen Tann, fondern Dies dem dort Bota-
+nifirenden überläßt. — Um fih und alle feine Kräfte einer fpe-
+delen. Wiffenfhaft zu widmen, muß man allerdings große Liebe
+3 ihr, jebod) aud) große Gleichgültigkeit gegen alle übrigen
+haben; weil man jenes nur fann unter der Bedingung, in diefen
+allen unwiffend zu bleiben; wie wer Eine heirathet, allen An⸗
+dern entfagt. Geifter erften Ranges werden daher nie fid) einer
+Specinlwiffenfchaft widmen: denn ihnen Liegt die Einfiht in das
+Ganze zu fehr am Herzen. Sie find Teldherren, nicht Haupt-
+
+
+52 Den Intelleft iiberhaupt
+
+
+leute, Rapellmeifter, nicht DOrchefterfpieler. Wie jolfte bod) ein
+großer Geift feine Befriedigung darin finden, aus der Gejammt-
+heit der Dinge eine bestimmte Abzweigung derfelben, ein einziges
+Feld, genau und in feinen Verhältniffen zu den übrigen Fennen
+zu.lernen, alles Andere aber außer Acht zu fafjen? Vielmehr ijt
+er offenbar auf das Ganze gerichtet: fein Streben geht auf die
+Gefammtheit ber Dinge, die Welt überhaupt, und da darf ihm
+nichts fremd bleiben: folglich kann er bann nicht fein Leben
+damit zubringen, bie Mifrologien eines Faches zu erjchöpfen
+
+
+Daß bie niedrigfte aller Geiftesthätigfeiten bie arithmetische
+fei, wird baburd) belegt, daß fie die einzige tjt, welche auch burd)
+eine Majchine ausgeführt werden fann, wie denn jegt in Eng:
+land dergleihen Rechenmaschinen bequemlichleitshalber jdm in
+Büufigent Gebraude find. — Nun läuft alle analysis fini-
+torum et infinitorum im Grunde bodj auf Rechnerei zurüd.
+Danach bemejje man den „mathematifchen Zieffinn‘, über melden
+schon Lichtenberg fid) lustig madt, indem er jagt: „Es ift fajt
+mit ber Mathematil, wie mit der Theologie. So mie bie ber
+legtern Befliffenen, zumal wenn fie in Aemtern jtehen, Anjprud)
+auf einen bejondern Credit von Heiligkeit und eine nähere Ver—
+wandtschaft mit Gott machen, obgleich fehr viele darunter wahre
+Taugenichtse find, [o verlangt jehr oft der fogenannte Mathe-
+matifer für einen tiefen Denker gehalten zu werben, ob es gleid)
+darunter die größten Plunderföpfe giebt, die man nur finden
+fann, untauglih zu irgend einem Gefchäft, das Nachdenfen er-
+fordert, wenn es nicht unmittelbar durch jene leichte Verbindung
+von Zeichen gejchehen Tann, bie mehr ba8 Werf ber Noutine,
+als des Denkens find.” (C. Lichtenbergs vermijdgte Schriften,
+
+
+*) Alles Verstehen ijt ein unmittelbare, und baber intuitives Auffafien
+bes Kausalzusammenhangs, obwohl e8 sogleich in abftrafte Begriffe abgejcbt
+werden muß, um firirt zu werben. Daher ift Rechnen nicht Verstehen unb
+fiefert an fid) fein Berfländniß ber Saden. Dies erhält man nur auf bem
+Wege ber Anschauung, durch richtige Grfenntni der Kaufalität und geo-
+metrifche Konftruftion des Hergangs; mie jolde Euler beffer als irgend
+
+
+und im jeder Beziehung betreffende Gedanken. 53
+
+
+Das Auge wird durd langes Anftarren eines Gegenftandes
+ftumpf unb fieht nichts mehr: eben fo wird ber Intelleft durch
+fortgefeßtes Denken über die felbe Sache unfähig, mehr davon zu
+ergrübeln unb zu faffen, ftumpf und verwirrt. Man muß fie
+verlaffen, um wieder darauf zurüdzufommen, mo man fie frifch
+mit deutlihen Umriffen wiederfindet. Daher, wenn Platon im
+Saftmahl (p. 220) erzählt, dag Sokrates, im Nachdenken über
+etwas, das ihm eingefallen, 24 Stunden starr und fteif wie eine
+Bildsäule dageftanden babe; jo muß man biezu nit nur non
+e vero jagen, fondern Hinzufügen 6 mal trovato. — Aus biejer
+Auhebedürftigkeit des Intellekts ijt aud) Dies erffürlid), daß,
+wenn wir, nad) irgend einer längern Paufe, wie neu und fremd
+in den alltäglichen Lauf der Dinge biejer Welt jchauen und fo
+einen frifchen, ganz eigentlich unbefangenen Blick in fie thun,
+ihr Zufammenhang und ihre Bedeutung ung am reinften und
+tiefften Kar wird; fo daß wir alsdann Dinge handgreiflich fef,
+von denen wir nur nicht begreifen, wie fie von Allen, bie fid)
+jtündfich darin bewegen, nicht bemerkt werden. . Ein folcher
+heller Augenblid Tann demnah einem lucido intervallo ver-
+glihen werden. '
+
+
+In höherm Sinne find fogar die Stunden der Begeifterung,
+mit ihren Augenbliden der Erleuchtung und eigentlihen Koncep-
+tion, mur bie lucida intervalla des Genies. Demnach fünnte
+man fagen, das Genie wohne nur ein Stockwerk höher, als der
+Vahnsinn. Aber wirkt doc fogar bie Vernunft des SBernünf-
+
+
+ımand gegeben hat; weil er bie Sachen von Grund aus verftand. Das
+Xehnen hingegen hat es mit lauter abftraften Größenbegriffen zu tum, beren
+Terbältniß zu einander es jeftftellt. Dadurch erlangt man nie das mindefte
+Verständniß eines phufifhen Vorgangs. Denn zu einem fofdjen ift erfordert
+inidaufidje Auffaffung ber räumlichen Serbültniffe, mittelft welcher bie
+Urahen wirken. Das Rechnen beftimmt das Wieviel unb Wiegroß, ift ba-
+Mr zur Braris umentbehrlih. Sogar faim man fagen! wo bag Rechnen
+ınfängt, Hört das SSerfteben auf, Denn ber mit Zahlen befchäftigte
+Rep ift, während er rechnet, dem faujalen Zusammenhang unb ber geome⸗
+züden Konftruftion bes phyfifchen Hergangs gänzlich entfrembet: er ftedt in
+lauter abftraften Zahlenbegriffen. Das Nejultat aber fagt nie mehr als
+Zieviel; nie Was,
+
+
+54 Den Intellett überhaupt
+
+
+tigen eigentlich nur in lucidis intervallis: denn er ift e8 aud
+nicht immer. Auch ber Kluge ijt es nicht jederzeit; felbit der
+bloß Gelehrte ift es nicht jeden Augenblid: denn bisweilen wird
+er die ihm geläufigften Dinge nicht fid) zurüdrufen und ordent:
+fid) zufammenbringen fónnen. Kurzum, nemo omnibus horis
+sapit. Alles Diefes [djeint auf eine gewifle Fluth und Ebbe
+ber Säfte des Gehirns, oder Spannung und Abjpannung der
+Sibern defjelben, Bingubeuten *).
+
+Wenn nun, bei einer Springfluth diefer Art, irgend eine
+neue und tiefe Ginfidt uns plötzlich aufgeht, wobei natürlich
+unjre Gedanken einen hohen Grab von Lebhaftigkeit erreichen;
+jo wird ber Anlaß dazu allemal ein anschaulicher seyn, und eine
+intuitive Einficht wird jedem großen Gedanken zum Grunde liegen.
+Denn Worte erweden Gedanken in Andern, Bilder in ung,
+
+
+Daß man werthoolle eigene Meditationen möglichft bald
+niederfchreiben joll, verfteht fid) von felbft: vergessen wir bod)
+bisweilen was wir erlebt, wie viel mehr was wir gedacht Haben.
+Gedanken aber fommen nidt, mann wir, fondern wann fie
+wollen. Hingegen, was wir von außen fertig empfangen, ba
+bloß Erlernte, was fid) aud) jedenfalls in Büchern wiederauffin-
+
+
+den läßt, ift e8 beffer nicht aufzufchreiben, aljo feine Sotfeftanea. —
+
+
+zu maden: denn etwas auffchreiben heißt e8 der Vergeffenheit
+übergeben. Mit feinem Gedächtniß aber [off man ftreng und
+despotifch verfahren, damit e8 den Gehorfam nicht verlerne, 3. 2.
+wenn man irgend eine Sache, oder Vers, oder Wort, fid) nicht
+zurüdrufen Tann, folches ja nidt in Büchern auffchlagen, fonbern
+das GebüdjtniB, wochenlang, periobijd) damit quälen, bis e8 feine
+Schuldigfeit getfan hat. Denn je länger man fi) hat darauf
+befinnen müffen, bejto fejter haftet e8 nadhher. Was man jo
+mit vieler Anftrengung aus der Tiefe feines Gedächtnisses Her-
+
+
+*) Ye nadbem bie Energie des Geiftes gefleigert ober erfchlafft ift
+(in Folge des phyfiolegifhen Zuftandes des Organismus), nimmt er einen
+Flug in febr verjchiedener Höhe, bisweilen oben im Aether schwebend
+unb bie Welt überjchauend, bisweilen über bie Moräfte bec Erbe streifend,
+meiftens zwifchen beiden Grtvemen, aber biefem ober jenem näher! Der
+Wille vermag dabei nichts,
+
+
+und in jeber Beziehung betvejfeube Gedanken. 55
+
+
+aufgearbeitet Dat, wird dann ein ander Mal viel leichter zu Gebote
+ttehn, al8 wenn man e8 mit Hülfe der Bücher wieder aufgefrifcht
+hätte*). — Die Dinemonif hingegen beruht im Grunde darauf,
+baB man feinem Wie mehr, als feinem Gedächtniffe zutraut und
+daher die Dienfte bieje8 jenem überträgt, Er nümlid) muß einem
+ihwer zu Behaltenden ein leicht zu Behaltendes jubftituiven, um
+ed einft wieder in Jenes zurüd zu überjegen. Diefe Mnemonif
+verhält fid) aber zum natürlichen Gedächtniß, wie ein Fünftliches
+Bein zum wirklichen, und unterliegt, wie Alles, dem Napoleoni-
+iden Ausfprud): tout ce qui n'est pas naturel est imparfait.
+Es i[t dienlich, fid) ihrer bei neu erlernten Dingen, ober Worten,
+Anfangs zu bedienen, wie einer einftweiligen Krüde, bis fie dem
+natürlichen, unmittelbaren Gedächtniß einverleibt find. Wie unfer
+Gedächtniß e8 anfange, aus dem oft unabjehbaren Bereich feiner
+Borräthe, das jedes Mal Erforderte fogíeid) Heraus zu finden,
+wie das bisweilen längere, blinde Suchen bamad) eigentlich vor
+jih gehe, wie das zuerjt vergeblid Gejudjte meistens wann wir
+ein ihm anhängendes Fädchen entdeden, fonft aber wohl aud)
+nad) ein Paar Stunden, bisweilen aber Tagen, ganz von felbft
+und ohne Anlaß, wie eingeflüftert, uns kommt, dies Alles ift ung
+jelber, bie wir dabei tfütig find, ein Räthsel: aber unbezweifel-
+bar scheint mir, daß bieje [o fubtilen und geheimmißvolfen
+Operationen, bei [o ungeheurer Menge und Mannigfaltigleit des
+Grinnerungsftoffes, nimmermehr durd ein Fünftliches und bee
+wußtes Spiel mit Analogien erfeßt werden können, bei denen
+(a8 natürliche Gedächtniß bod) immer wieder das primum
+mobile bleiben muß, nun aber ftatt Eines gar Zwei zu behalten
+bat, das Zeichen und das Bezeichnete. Jedenfalls kann ein
+
+
+*) Das Gebáditnifj ijt ein fapriziöfes und launiges MWefen, einem jungen
+Mädchen zu vergleichen: bisweilen verweigert e8 ganz unerwartet mas c8
+hundert Mal geliefert bat, unb bringt es dann später, wenn man nicht mehr
+daran denkt, ganz von felbft entgegen. —
+
+Gin Wort haftet fefter im Gedächtniß, wenn man es ait ein Phantasma
+gefnüpft hat, als wenn an einen bloßen Begriff. —
+
+(8 wäre eine schöne Sache, wenn man Das, was man gelernt bat,
+mm Ein für alle Mal und auf immer wüßte: allein bem ift anders: jedes
+Eriernte muß von Zeit zu Zeit burd) Wiederholung aufgefrifcht werben; fonft
+wird e$ allmälig vergeffen. Da num aber die bloße Wiederholung langweilt,
+zug man immer noch etwas hinzulernen: daher aut progrodi, aut regredi.
+
+
+ [S. 56]
+
+
+solches Fünftliches Gedächtnig nur einen verhältnißmäßig febr
+geringen Vorrath fajfer. — Meberhaupt aber giebt es zwei
+Weifen, auf melde Dinge unferm Gedächtniß eingeprägt werben:
+nämlich entweder burdy Vorsatz, indem wir abfichtlid fie memo-
+riren; wobei mir, wenn c8 bloße Worte, oder Zahlen, find,
+uns einftweilen auch mnemonijder fünfte bedienen fünnem: ober
+aber fie prägen fidj, ohne unfer Zuthun, von felbft ein, vermöge
+des Eindruds, den fie auf uns machen; wo wir fie danı aud
+wohl unvergeklich nennen. Wie man jedoch eine Wunde meiftens
+nicht indem man fie empfängt, fondern erjt [püter fühlt, jo macht
+mander Vorgang, oder mancher gehörte oder gelefene Gedanke
+auf uns einen tiefern Ginbrud, a(8 wir (ogleid) uns bewußt
+werden: aber jpüter fällt e8 uns immer wieder ein; wobon die
+Folge ijt, daR wir es nicht vergeffen, fondern e8 dem System
+unferer Gedanken einverleibt wird, um zur rechten Stunde her-
+porzutreten. Dazu gehört offenbar, daß es uns, in irgend einer
+Beziehung, - intereffant fei. Darum aber ift erfordert, daß man
+einen lebhaften, das Objektive begierig aufnehmenden, nad)
+Senntuig und Ginfidjt ftrebenden Geift habe. Die überrafchenbe
+Unmiffenheit vieler Gelehrten, in Dingen ihres Faches, hat zum
+legten Grunde ihren Mangel an objeftivem Interesse für bie
+Gegenftände defjelben, daher die fofdje betreffenden Wahrnehmun-
+gen, Bemerkungen, Einfihten u. f. wm. feinen lebhaften Ginbrud
+auf fie machen, folglid nicht haften; wie fie denn überhaupt
+nicht con amore, fondern unter Selbitzwang ftudiren. — An
+je mehr Dingen nun ein Menfch Tebhaftes, objektives Interesse
+nimmt, defto Mehreres wird fid) ihm auf diefe spontane Weife
+im Gebüdtnif firiren, daher auch am meiften in der Jugend, ale
+wo die Neuheit der Dinge das Intereffe an ihnen erhöht. Diefe
+zweite Weife ift viel ficherer, als die erfte, und wählt zudem, ganz
+von felbft, das uns Wichtige aus; wiewohl fie, bei Stumpf»
+föpfen, fid) auf perfönliche Angelegenheiten befchränfen wird.
+
+
+Die Dualität unferer Gedanken (ihr formeller Werth)
+fommt von innen: aber ihre Richtung, und dadurd ihr Stoff,
+von außen; fo bag, maé wir in jedem gegebenen Augenblide
+denken, das Produkt zweier grundverjchiedener Faktoren ijt. Dem⸗
+
+
+und in jeder Beziehung betreffende Gebanfen. 57
+
+
+nad find für den Geift bie Objekte nur Das, was das Bleftron
+für die Lyra: daher die große Verschiedenheit der Gedanken,
+welhe der selbe Anblid in verfchiedenen Köpfen erregt. Wann,
+als ih uod) in den Blüthejahren meines Geiftes und im Kul-
+minationspnnkte feiner Kräfte ftand, durch günftige Umftände
+die Stunde herbeigeführt wurde, wo das Gehirn bie höchfte
+Spannung Hatte; jo mochte mein Auge treffen auf welchen
+Segenftand e8 wollte, — er redete Dffenbarungen zu mir und
+es entfpann fid) eine Reihe von Gedanken, weldhe werth waren,
+aufgejchrieben zu werden und e$ wurden. Aber im Fortgang
+be8 Lebens, zumal in den Safren ber abnehmenden Kräfte, find
+jene Stunden immer feltener geworden: denn das Pleftron find
+zwar bie Objekte, aber bie Lyra ift der Geift. Ob bieje mwohl-
+geftimmt und hochgestimmt fei, Das begründet den großen Unter-
+(fib ber in jedem Kopfe fid) darjtellenden Well. Wie nun
+Diefes von phyfiologifhen und anatomifhen Bedingungen ab-
+hängt; fo Hält andrerseits das Plektron der Zufall in der Hand,
+indem er die Gegenftände, die uns be|djüftigen jollen, herbeiführt.
+Allein bier it bod) nod) ein großer Theil der Cade in unfre
+Willkür geftellt, indem wir benjelben, wenigftens zum Theil,
+beliebig beftimmen fünnen, mittelft ber Gegenftände, mit denen
+wir uns befchäftigen, oder umgeben. Hierauf follten wir daher
+einige Sorgfalt verwenden und mit methodifcher Abfichtlichkeit
+verfahren. Die Anweifung zu einer folchen giebt uns Locke's
+bortreffliches Büchelchen on the conduct of the unterstanding
+(über bie Leitung des Verstandes). Gute, ernite Gedanken, über
+mürbige Gegenftände, lassen jid) jedoch nicht zu jeder Zeit will«
+kürlich heraufbeschwören: Alles was wir thun fónnen ijt, ihnen
+den Weg frei zu halten, durch Veriheuhung aller futilen, Täp-
+piihen, oder gemeinen Ruminationen und Abwendung von alfen
+Slanfen und SBojfen. Dean fann daher fagen, daß, um etwas
+Gescheutes zu benfen, ba8 nächfte Mittel fei, nichts Abgeschmack⸗
+tes zu benfem. Man [ajje den guten Gebanfen nur den Plan
+frei: fie werden kommen.  Gbenbeéfalb foll man auch nicht, in
+jedem unbefchäftigten Augenblick, fogleich nad) einem Buche grei-
+in, fondern (affe e8 doc ein Mal ftille werden im Kopf: dann
+lann fid) Leicht etwas Gutes darin erheben. Sehr richtig ijt die
+von Riemern, in feinem Buche über Goethe, gemachte Bemer-
+
+ [S. 58]
+
+
+fung, daß die eigenen Gedanken fait nur im Gehn oder Stehn,
+höchst felten im Siten Tommen Weil nun alfo überhaupt ber
+Eintritt lebhafter, einbringenber, mertfoolfer Gedanken mehr bie
+Folge günftiger innerer, als äußerer Bedingungen ijt; jo ift
+hieraus erflärlih, daß von dergleichen Gedanken meijten$ mehr-
+rere, ganz verschiedene Gegenjtünbe betreffende, fid) schnell Hinter
+einander, oft fogar beinahe zugleich einftellen, in welchem Falle
+fie fid) freugem und beeinträchtigen, wie bie Krystalle einer Drufe,
+ja, e8 uns gehen fann, mie Dem, der zwei Hafen zugleich verfolgt.
+
+
+Wie febr befdyrünft und dürftig der normale menschliche
+Intelleft fei und wie gering die Klarheit be8 Bewußtseyns, fügt
+fid daran ermeifen, daß, ungeachtet der ephemeren Kürze des in
+endlofe Zeit hineingeworfenen Menfchenlebeng, der Mißlichkeit
+unjer$ Dafeyns, der zahllofen, fid) überall aufdringenden Räth⸗
+icf, des bedeutfamen Charakters fo vieler Erscheinungen und da—
+bei des durchweg Ungenügenden be8 Lebens, — dennod nicht
+Alfe beftändig und wnabläffig philofophiren, ja, nicht ein Mal
+Viele, ober auch nur Einige, nur Wenige; nein, mur bin und
+wieder Einer, nur bie gänzlidhen Ausnahmen. — Die llebrigeit
+leben in diefem Traum dahin, nicht jo gar viel anders, al® bie
+Thiere, von denen fie fid) am Ende nur durch bie Vorforge auf
+einige Jahre im Voraus unter|d)jeiben. Für das jid) bei ihnen
+etwan meldende metapbpfijde Bedürfnig iff von oben und zum
+voraus gejorgt, durch bie Religionen; und diefe, mie fie aud)
+feien, genügen. — Indessen könnte e8 bod) feyn, daß im Stillen
+viel mehr philofophirt wird, als es ben Anfchein Hat; wenn e$
+gleih aud) banad) ausfallen mag. Dem wahrhaftig eine mif-
+Tiche Lage ijt bie unfrige! eine Spanne Zeit zu feben, voll Mühe,
+Roth, Angft und Schmerz, ohne im Mindeften zu wiffen, woher,
+wohin und wozu, und dabei nun nod) die Pfaffen aller Farben,
+mit ihren refpeftiven Offenbarungen über die Gade, nebit
+Drohungen gegen Ungläubige,
+
+
+Saft möchte man glauben, daß die Hälfte alles unfers Den-
+fens ohne Bewußtfeyn vor fid) gehe. Meeiftens fommt bie Kon-
+Hufion, ohne daß bie Prämiffen deutlich gedacht worden. “Dies
+
+
+unb in jeber Beziehung betreffende Gedanken. 50
+
+
+ift fon daraus abzunehmen, bap bisweilen eine :Begebenpeit,
+deren Folgen wir Teineswegs abfebn, mod) weniger ihren etwa-
+nigen Einfluß auf unfere eigenen Angelegenheiten deutlich ermeffen
+lónnen, bennod) auf unfere ganze Stimmung einen unverkenn⸗
+baren Einfluß ausübt, indem fie folche ins Heitere, oder aud) ins
+Xraurige, verändert: Das kann nur bie Folge einer unbewußten
+Rumination feyn. Noch erfichtlicher ift diefe in Folgendem. Ich
+babe mid) mit den faktifchen Datis einer theoretifchen, oder praf-
+tifhen Angelegenheit belannt gemadjt: oft nun wird, ohne daß
+ich wieder daran gedacht hätte, nad) einigen Tagen, ba8 Resul⸗
+tat, wie nämlih die Sade jid) verhalte, oder was babet zu thun
+fei, mir ganz von felbit in den Sinn kommen, und deutlich vor
+mir ftehn; wobei die Dperation, durch bie c8 zu Stande ge:
+fommen, mir [o berbedt bleibt, wie die einer Rechenmaschine:
+es ijt eben eine unbewußte Rumination gemejen. Ebenjo, wann
+ich fürgfid) über ein Thema etwas gefchrieben, bann aber mid)
+der Sache entichlagen Habe, fällt mir bisweilen, während id)
+durhaus nicht daran badjte, ein Zufak bagu ein. Desgleichen
+fann ich nad) einem Namen, der mir entfallen ift, Tage lang
+in meinem Gebüdjtnig fuchen: dann aber, während ich gar nicht
+daran denke, fällt er mir plöglih ein, wie zugeflüftert. Ja,
+unfre beten, finnreichften und tiefften Gedanken treten plötzlich
+ins Bewußtjeyn, mie eine Infpiration und oft fogleih in Form
+einer gewichtigen Sentenz. Offenbar aber find fie Resultate
+langer, unbewußter Meditation und zabllofer, oft weit zurüd
+fiegender, im Einzelnen vergeflener Appercüs. Ich verweife
+bier auf Das, was ich in meinem Sauptmert, Bd. 2, Rap. 14,
+€. 134 (3. Aufl. 148), jhon hierüber beigebracht Babe. —
+Beinahe möchte man c8 wagen, die pbyfiofogijdje Hypothese
+aufzuftellen, daß das bemufte Denken auf ber Oberfläche des
+Gehirns, das unbewußte im Innern feiner Markjubftanz vor
+
+
+Bei der Monotonie und daraus entfpringenden Schaalheit -
+des Kebens, würde man, nach einer beträchtlichen Dauer dessel⸗
+ben, e8 unerträglich langweilig finden; wenn nicht das beftän-
+dige Fortichreiten der Erkenntniß unb Ginjidt, im Ganzen und
+Großen, und das immer Dejjere und deutlichere Verftändnig aller
+
+ [S. 60]
+
+
+Dinge und Verhältniffe, nod) immer feinen Fortgang Hätte, theils
+als Frucht der Reife und Erfahrung, theil8 aud) in Folge ber
+Veränderungen, welche wir felbft, burd) bie verfchiedenen Lebens-
+alter, erleiden und dadurch gewiffermaaßen auf einen immer
+neuen Gefihtspuntt geftellt werden, von welchem aus die Dinge
+uns nod) nicht erkannte Seiten zeigen und anders erjcheinen;
+wodurch denn, troß ber Abnahme ber Intenfität der Geisteskräfte,
+das dies diem docet nod) immer unermüdlich anhält und einen
+ftet8 neuen Reiz über das Neben verbreitet, indem das Iden—
+tifche ftets als ein Anderes und Neues fid) darftellt. Daher Dat
+jeder irgend benfenbe Alte das Solonifhe yıpasıo 5' acc xoXÀx
+ördaoxonevos zu feinem Wahliprud).
+
+Nebenbei Teiftet uns, zu allen Zeiten, den felben Dienft ber
+vielfache Wechjel unjrer Stimmung und Laune, vermöge bejfen
+wir die Dinge tüglid) in einem andern Lichte erbliden: aud) er
+verringert die Monotonie unfers Bewußtseyns und Denkens,
+indem er auf daffelbe wirkt, mie auf eine fchöne Gegend die ftets
+(id ändernde Beleuchtung, mit ihren unerschöpflich mannigfaltigen
+idjteífeften, in Folge welcher die hundert Mal gefehene Land-
+(daft uns aufs Neue entzüdt. So erscheint einer veränderten
+Stimmung das Bekannte neu und ermedt neue Gedanken und
+Anfichten.
+
+
+Wer a posteriori, alfo durch Verfuhe, etwas ausmachen
+will, ba8 er a priori einfehen und entjcheiden fónmnte, 3. B. die
+S9totfmenbigfeit einer Ursache zu jeder Veränderung, ober mathe-
+matijde Wahrheiten, ober auf Mathematik zurädführbare Sätze
+aus der Mechanik, Aftronomie, oder selbst folche, bie aus febr
+befannten und unbezweifelbaren Naturgefegen folgen, — der
+macht fid) verächtlich. Ein schönes Beispiel diefer Art geben
+unfere neueften, von der Chemie ausgehenden Mtaterialiften,
+deren höchst einjeitige Gelefrjamfeit mid) schon anderwärts zu
+ber Bemerkung veranlaßt Hat, daß bloße Chemie wohl zum
+Apothefer, aber nicht zum Pbilofophen befähige. (Vergl. die
+Vorrede zu der Schrift „über den Willen in der Natur“,
+2. Aufl., ©. IV; 3. Aufl, S. VL) Diefe nümfid) glauben auf
+empiri(dem Wege eine neue Entdedung gemadht zu haben an
+ber vor ihnen taufend Mal ausgefprochenen Wahrheit a priori,
+
+
+unb in jeber Beziehung betreffende Gebanten. 61
+
+
+be bie Materie beharrt, verkünden diefe fühn, ber Welt, bie
+davon nichts wijje, zum rog, und bemeijen fie redlid, auf
+empirifhem Wege. („Den Beweis dafür fonnten uns erft
+unjere Wagen unb Retorten liefern‘, fagt Herr Dr. Louis Büchner
+in feinem Buch „Kraft und Stoff”, 3. Aufl. 1856, ©. 17,
+welches das naive Echo diefer Schule ijt.) Dabei aber find fie
+jo verzagt ober unwiffend, daß fie nicht das hier allein richtige
+und gültige Wort „Materie, jonberm das ihnen vertrantere
+„Stoff“ gebrauchen und daher den Sat a priori: „die Materie
+beharrt, daher ihr Quantum nie vermehrt, nod) vermindert werden
+fann^ fo auébrüden: , ber Stoff ijt unsterblich“, und dabei fid)
+neu und groß fühlen, scilicet. in ihrer neuen Entdedung: denn
+daß feit Sahrhunderten, ja feit Sahrtaufenden disputirt wird über
+den Borrang und das Verhältniß ber beharrenden Materie zur
+ftet vorhandenen Form ijt folchen Leutchen natürlich unbekannt:
+fie fommen quasi modo geniti und leiden ftarf an ber Subına-
+su, wefde Gellius (XI, 7) befchreibt als vitium serae
+eruditionis; ut, quod nunquam didiceris, diu ignoraveris,
+cum id scire aliquando coeperis, magni facias quo in loco
+cunque et quacunque in re dicere. Wenn bod) Semanb, dem
+die Natur Geduld verliehen Hat, fid) bie Mühe geben wollte,
+diefen Apothelerburfchen und Barbiergefellen, die, aus ihren
+demijden Garküchen fommenb, von nichts wiffen, ben Unter:
+ihied beizubringen zwifhen Materie und Stoff, welder Ieß-
+tere Schon die qualifizirte Materie, b. f. die Verbindung ber
+Materie mit ber Form ift, welche fid) auch wieder trennen
+lónnten, daß mithin das Beharrende allein die Materie ijt, nicht
+ber Stoff, als welder möglicherweife immer noch ein anderer
+werden Tann, — eure 60 chemifhen Grundftoffe nicht aus-
+genommen. Die Unzerftörbarfeit der Materie ijt nie burd)
+Erperimente auszumachen; daher wir darüber ewig ungewiß
+bleiben müßten, wenn fie nicht a priori fejtítünbe. Wie gänz-
+[if und entídjeben die Erfenntniß der Unzerftörbarfeit ber Ma-
+terie und ihres Wanderns durch alle Formen, a priori und alfo
+von aller Erfahrung unabhängig fei, bezeugt eine Stelle im
+Shalefpeare, ber doc gewiß blutwenig Physik und über-
+haupt nicht viel wußte, jedoch. den Hamlet in der Todtengräber-
+
+
+ [S. 62]
+
+
+Der große Cäfar, tobt und Lehm geworben,
+Berftopft ein Loch wohl vor dem rauben Norden.
+O bafj bie Erbe, ber bie Welt gebebt,
+
+Bor Wind und Wetter eine Wand verklebt.
+
+
+Er macht alfo schon diefelbe 9(ppfifation jener Wahrheit, welche
+unfere heutigen Materialiften aus ber Apothefe und bem Kliniko
+oft aufgetifcht Haben, indem fie fichtlih fogar fid) etwas darauf
+zu Gute thun und dabei, wie oben gezeigt, foldye für ein Reful-
+tat der Empirie halten. — Wer Hingegen, umgelehrt, a priori
+darthun will, was fid) allein a posteriori, aus ber Erfahrung,
+wiffen fügt, ber charlatanifirt und madt fid) [üderíid. War-
+nenbe Beifpiele bieje8 Fehlers haben Schelling unb die Schellin-
+gianer geliefert, wenn fie, wie damals Jemand es fehr artig
+ausgedrüdt Hat, a priori nad) einem a posteriori gejtedten
+Biefe fchoffen. Schellings Leiftungen in diefer Art und Sunt
+wird man am deutlichften aus feinem „Ersten Entwurf einer
+Naturphilofophie” Tennen Ternen. Dafelbft (pringt e8 in bie
+Augen, daß er, im Stillen und ganz empirijdj, aus der uns
+vorliegenden Natur allgemeine Wahrheiten fid) abftrahirt und
+danach einige Ausbrüde ihrer Beschaffenheit im Ganzen gefor-
+melt hat. Mit diefen tritt er auf, als mit a priori gefuns
+denen Principien ber Denkbarkeit einer Natur überhaupt, aus
+benen ı er fodann den vorgefundenen und ihnen eigentlich zum
+Grunde liegenden Thatbestand glüclich wieder ableitet und bem.
+nad) feinen Schülern beweift, daß die Natur nichts anders seyn
+fónne, als fie ijt:
+„Der Bhilofoph, ber tritt herein
+Und beweift euch, es müßt’ fo seyn.“
+
+Als beluftigendes Beifpiel diefer Art (eje man, auf ©. 96, 97
+bes befagten Buches, bie Deduftion a priori ber unorganifdhen
+Natur unb der Schwere. Mir ift dabei, wie wenn ein Kind
+mir Tafchenfpielerftücihen macht und ich deutlich jefe, wie c8
+bie Kügelchen unter den Becher prafticirt, wofelbft fie zu finden
+id nachher erftaunen foll. — Nach folhem Vorgange des Meifters
+wird e8 uns nicht wundern, feine Schüler nod) lange auf bem
+felben Wege anzutreffen, und zu fen, wie fie aus vagen, empirisch
+aufgegriffenen Begriffen, 3. B. Giform, Kugelform, und mad)
+willkürlich gefaßten, fehielenden Analogien, wie Eithiere, Rumpfr
+
+
+und in jeber Beziehung betreffende Gedanken. 63
+
+
+thiere, Bauchthiere, Bruftthiere, und ähnlichen Flausen mehr,
+das Berfahren der Natur a priori ableiten wollen; während
+man ihren ernfthaften Deduftionen deutlich anfieht, daß fie [tete
+nad) dem allein gewiffen A posteriori finüber[djiefen unb dennoch
+der Natur oft fchreiende Gewalt anthun, um fie nad) jenen
+Grillen zu modeln. — Wie würdig ftehen ihnen gegenüber bie
+Franzosen ba, mit ihrer vedlihen Empirie, eingeftändfich beftrebt,
+mur pom der Natur zu lernen und ihren Gang zu erforfchen,
+ijt aber ihr Gejete vorzufchreiben. Bloß auf dem Wege der
+Induktion haben fie ihre fo tief gefaßte, wie treffende .Einthei-
+lung des Thierreichs gefunden, welche bie Deutfchen nicht ein
+Mal zu schätzen verftehn, fie daher im den Hintergrund [djieber,
+um ihre eigene Originalität, durch fonderbare und jdiefe Einfälle,
+wie die oben erwähnten, an den Tag zu legen, worüber fie fid)
+dann unter einander bewundern, — diefe fcharffinnigen und ges
+tehten Beurtheiler geiftiger Verdienfte. Welch’ ein Glück unter
+einer folchen Nation geboren zu feyn!
+
+
+G$ ift ganz natürlich, daß wir gegen jede neue Anficht, über
+deren Gegenstand wir irgend ein Urtheil uns schon festgestellt
+haben, uns abwehrend und verneinend verhalten. Denn fie
+dringt fetmbfid) in das vorläufig abgefchloffene System unferer
+Ueberzeugungen, erschüttert die dadurch erlangte Beruhigung,
+muthet uns neue Bemühungen zu und erflärt alte für verloren.
+Temgemäß ift eine uns von Irrthümern zurüdbringende Wahr-
+heit einer Arznei zu vergleichen, fomwohl durd ihren bittern und
+widerlichen Gefchmad, als auch dadurd, daß fie nicht im Augen-
+Bf des Einnehmens, fondern erft nad) einiger Zeit ihre Wir-
+fung äußert.
+
+Sehn wir alfo schon das Individuum hartnädig im teft
+halten feiner Irrthümer; fo ift e& bie Maffe und Menge ber
+Wenschen mod) viel mehr: an ihren ein Mal gefaßten Meinun-
+gen Können Erfahrung und Belehrung fid) Iahrhunderte fang
+vergeblich abarbeiten. Daher giebt es denn aud) gewiffe allgemein
+befiebte umb feft advebitirte, täglich von Unzählbaren mit Selbft-
+genügen nachgejprochene Irrthümer, von denen id) ein Verzeich⸗
+W$ angefangen habe, welches fortzuführen ich Andre bitte,
+
+
+64 Den Intelleft überhaupt
+
+
+1) Selbftmord ijt eine feige Handlung.
+
+2) Wer Andern mißtraut ift felbft unvebtid).
+
+3) Verdienft und Genie find aufrichtig befcheiden.
+
+4) Die Wahnfinnigen find überaus unglüdlic.
+
+5) Die Bhilofophie läßt fid) nicht lernen, fondern nur das
+Philofophiren. (Fit ba8 Gegentheil der Wahrheit.)
+
+6) Ge ijt leichter eine gute Tragödie, al8 eine gute Komödie
+
+1) Das bem Bako von Berulam 9tadjge[prodene: Ein wenig
+
+Philosophie führt von Gott ab; ein vieles zu ihm zurüd.
+
+8) Knowledge is power. Den Teufel audj! Einer fann febr
+viel Kenntniß Haben, ohne darum bie mindefte Macht zu
+bejigen, während ein Anderer bie höchfte Gewalt hat, bei
+biutwenigen Kenntniffen. Daher fpriht Herodot febr
+richtig da8 Gegentheil jenes Gates aus; EyIıorm de Cduwm
+xcatee» (IX, 16). — Daß Hin unb wieder Einem feine
+Kenntniffe Gewalt über Andere geben, 3. B. wenn er ihr
+Gebeimnig weiß, oder fie nicht Hinter das Seinige kommen
+fönnen u. |. w., berechtigt nod) nicht zu jenem Ausfprud).
+Die meiften bderfelben jagen fie einander nur fo nad, ohne
+
+fonderlich viel dabei zu denfen, und bloß, weil fie, als fie jolche
+zuerjt vernahmen, gefunden haben, daR jie gar weife fíüngen.
+
+
+Wie Bart unb erjtarrt bie Denfungsart des großen Haufens
+jei und wie fchwer ihr beizufommen, fann man bejonber8 auf
+Reifen beobadjten. Denn mer das Glück hat mehr mit Büchern,
+als mit Menfchen leben zu dürfen, hat immer nur bie leichte
+Mittheilung der Gedanken und Erfenntuiffe, nebít der fchnellen
+Aftion und Reaktion der Geifter auf einander vor Augen; mo-
+bei er leicht bergiBt, wie ganz anders e8 in ber fo zu fagen
+allein wirklichen Menfchenwelt Bergebt, und am Ende gar ver-
+meint, jede gewonnene Einficht gehöre fogleih der Menschheit
+an. Man braucht aber nur einen Tag auf der Eifenbahn weiter
+gefahren zu feyn, um zu bemerfen, daß da, wo man jebt fid)
+befindet, gewifje Vorurtheile, Wahnbegriffe, Sitten, Gebräude
+unb Kleidungen herrschen, ja, (eit SafrBunberten fid) erhalten,
+
+
+unb in jeber Beziehung betreffende Gedanken. 65
+
+
+welhe dort, mo man gejtern gewefen, unbefannt find. Ist e8
+bod) mit den Provinzialdialeften nit anders. Hieraus kann
+man abnehmen, wie weit die Kluft ift zwifchen dem Voll und
+den Büchern, und wie langjam, wenn aud) ficher, die erkannten
+Wahrheiten zum Volke gelangen, weshalb, in Hinficht auf bie
+Schnelligkeit der Fortpflanzung, dem physischen Lichte nichts
+unähnlicher ist, als das geistige.
+
+Dies Alles kommt daher, daß der große Haufe gar wenig
+denkt; weil ihm Zeit und Uebung hiezu mangelt. So aber be—
+wahrt er zwar feine Irrthümer sehr lange, ift dagegen aber auch
+nicht, wie bie gelehrte Welt, eine Wetterfahne der gefammten
+Windrofe täglich wechjelnder Meinungen. Und dies ift febr glüd-
+fij: denn bie große, jchwere Masse fid) in rascher Bewegung
+vorzuftelfen, ift ein fchredlicher Gedanke, zumal wenn man babei
+erwägt, was Alles fie bei ihren Wendungen fortreißen unb ume
+jtoßen würde.
+
+
+Das Begehren nad) Kenntniffen, wenn auf das Allgemeine
+gerichtet, heißt Wißbegier; wenn auf das Einzelne, Neugier.
+— Knaben zeigen meiftens Wißbegier; feine Mädchen bloße
+Neugier, bieje aber in ftupendem Grade unb oft mit widerwär-
+tiger Naivetät. Die dem tweibliden Geschlechte eigenthümliche
+Richtung auf das Einzelne, bei Unempfünglidjfeit für das All⸗
+gemeine, Tündigt fid) Hierin schon an.
+
+
+Ein glüdlih organifirter, folglid) mit feiner Urtheilsfraft
+ausgeftatteter Kopf Hat zwei Vorzüge.  Grjt(id) diefen, daß von
+Allem, was er fieht, erfährt und lieft, das Wichtige und Bedeut-
+jame fid) bei ihm anfett und von selbst fid) feinem Gedächtnisse
+einprägt, um einft hervorzufommen, wann e$ gebraudjt wird;
+während die übrige Masse wieder abfließt. Sein Gedächtniß
+gleicht bemmad) einem feinem Siebe, welches nur die grüpern
+Stüde aufbewahrt: andere gleichen groben Sieben, welche Alles
+durchlaffen, bis auf das zufällig darin Bleibende. Der zweite,
+dem erftern verwandte Vorzug eines fofdjen Geiftes ijt, daß ifm
+jedes Mal das zu einer Sache Gehörige, ihr Analoge, oder font
+Verwandte, läge es aud) nod) fo fern, zur rechten Zeit einfällt.
+
+
+ [S. 66]
+
+
+Dies beruht darauf, bag er an den Dingen das eigentlich Wefent-
+[fide auffaßt, wodurd er, aud) in den fonjt verfchiedenften, das
+Identische und daher Zufammengehörige fogleich erkennt.
+
+
+Der SBerftanb ift feine ertenfive, fonbern eine intenfive Größe:
+daher Tann hierin Einer e8 getroft gegen Zehntaufend aufnehmen
+und giebt eine Berfammlung von taufend Dummköopfen nod)
+feinen gejcheuten Mann.
+
+
+Was den feibigen Alltagsköpfen, von denen die Welt voll-
+gepfropft ift, eigentlich abgeht, find zwei nahe verwandte Fähig—
+feiten, nämlich) bie, zu urtheilen, und die, eigene Gedanken zu
+haben. Aber beide fehlen ihnen in einem Grabe, von welchem
+wer nicht zu ihuen gehört fid) nicht Teicht einen Begriff madt
+und eben deshalb aud) nicht von der Trübsäligkeit ihrer Eriftenz,
+dem fastidio sui, quo laborat omnis stultitia. Aus jenem
+Mangel aber erklärt fid) cinerjeit8 die Armfäligfeit aller der
+Schreiberei, bei allen Nationen, die fid, bei den Mitlebenden,
+für ihre Litteratur ausgiebt, und anberer[eit8 das Schidjal des
+Achten unb Wahren, bei feinem Auftreten unter folchen Leuten.
+Alles wirkliche Dichten und Denken nämlich ift gewiffermaaßen
+ein Versuch, ben Heinen Leuten einen großen Kopf au[gujeben:
+fein Wunder, daß er nicht gíeid) gelingt. Der Genuß, den eim
+Schhriftfteller gewährt, verlangt immer einen gemijjen Eintlang
+zwifchen feiner Denkweife und ber des Lefers und wird um fo
+größer fepn, je vollkommner derfelbe ift; daher ein großer Geift
+ganz und bofffommen nur von einem anderen großen Geijte ge-
+nojjem wird. ben Hierauf beruht denn aud) der Efel und
+Widerwilfe, den fchlechte, oder mebiofre Schriftfteller benfenben
+Köpfen erregen: fogar wirft die Konverfation mit den meiften
+Menfchen ebenjo; bei jedem Schritte fühlt man das Unzulängliche
+und bie Disharmonie.
+
+Doc iei, bei diefer Gelegenheit, die Warnung eingefchaltet,
+daß man nicht einen neuen, vielleiht wahren Ausspruch oder
+Gedanken, gering fchäge, weil man ihn in einem fchlechten
+Bude findet, ober aus dem Wunde eines Dummfopfs vernimmt.
+
+
+und in jeter Beziehung betreffende Gedanken. 67
+
+
+Jenes hat ihm gejtohlen, biejer ihn aufgejchnappt; was fie frei
+fif) verhehlen. Sobann kommt nod Hinzu, was das jpanijdje
+Spridjmort fagt: mas sabe el necio en su casa, que el
+cuerdo en la agena („in feinem Haufe weiß ber Narr bejjer
+Beiheid, als der Kluge in einem fremden‘): alfo, in feinem
+Sache weiß Jeder mehr als wir. Endlih ijt befannt, daß aud)
+die blinde Henne bisweilen ein Körnchen findet; fogar aber it
+wahr, daß il y a un mystére dans l'esprit des gens qui
+n'en ont pas. “Daher alfo:
+
+IIo)Àaxt xat x(xGpoc Avnp aka xatptov eine.
+
+(Et hortulanus saepe opportunissima dixit.) *)
+
+
+Auch geldjicbt e8 wohl, bap man eine Bemerkung. oder
+Erfahrung vor langer Zeit ein Mal von einem unbedeutenden
+und ungelchrten Menfchen vernommen, jie feitdem aber bod)
+nit wieder vergeffen Bat, nun aber, jener Duelle halber, ge-
+neigt ijt, fie gering zu schätzen, oder fie, al8 eine wohl längit
+und allgemein befannte Sache anzufehn: bann frage man fid,
+ob man fie in jener langen Zeit jemals wieder gehört, ober
+auch gelejen babe: wann dies nicht der Fall ijt; fo Halte man
+fie in Ehren. — Würde man einen Diamanten gering fchäten,
+weil man ihn etwa aus einem Mifthaufen herausgeicharrt hätte?
+
+
+Es kann fein musikalisches Inftrument geben, das nicht bem
+reinen Zone, als welcher aus den Schwingungen der Luft allein
+besteht, nod) einen fremdartigen Zufat beimifchte, in Folge ber
+Schwingungen feines eigenen Stoffes, welche ja, durch ihren Im-
+pul8, bie der Luft allererft hervorbringen und ein unmwefentliches
+Nebengeräufch verurfachen, wodurd) eben jeder Ton das ihm [pee
+dfijf) Eigene erhält, alfo das, was 3. 39. den der Geige von dem
+der Flöte unterfcheidet. Allein je geringer diefe unwesentliche
+Beimifhung ijt, be|to reiner ijt ber Xon: daher eben hat bie
+
+
+*) Obiges führt Gaisjorb in ber Vorrede zu Stob. Florileg. p. XXX.
+nah Gellius II, c. 6 an. Sm Florileg. fefb(t Vol. I, p. 107 ftebt:
+(Saepe etiam stupidi non intempesta loquuntur),
+ale ein Vers bea Aeschylus, welches der Heransgeber bezweifelt.
+
+
+68 Den Intelleft überhaupt
+
+
+menjdjíide Stimme den reinften; weil bem natürlichen Werkzeuge
+e8 fein Fünftliches gleichthut. Ebenfo nun Tann Fein Intellett
+feyn, der nicht bem Wefentlichen und rein Objektiven ber Er:
+lenntnig ein biejem fremdes GSubjeftives, aus der ben Intellekt
+tragenden und bedingenden Persönlichkeit Entipringendes, alfo
+etwas Individuelles, beimifchte, wodurd denn Jenes allemal oer:
+unreinigt wird. Der Intelleft, bei welchem diefer Einfluß am
+geringften ift, wird am reinften objektiv, mithin der vollfom-
+menfte feyn. Daß, in Folge hievon, feine Produktionen fajt nur
+Das enthalten und wiedergeben, was an den Dingen jeder In—
+telleft gleichmäßig auffagt, alfo das rein Objektive, ijt eben
+ber Grund, marum fie Jeden, [jobafb er fie nur verfteht, an:
+ipredjen. Daher habe ich gejagt, daß bie Genialität in der Ob—
+jeftivität des Geiftes beftehe. Jedoch ein abfolut objektiver, mit-
+hin volffommen reiner Intellekt ijt fo unmöglih, wie ein ab.
+folut reiner Ton: diefer nicht, weil bod) die Luft nicht von selbst
+in Schwingungen gerathen Tann, fondern irgendwie impellirt
+werden muß; jener nicht, weil nicht ein Intelleft für fid) be
+ftehn, fondern nur als Werkzeug eines Willens auftreten Tann,
+oder (real zu reden) ein Gehirn nur als Theil eines Drganis-
+mus möglich ijt. Ein unvernünftiger, ja blinder Wille, der fid)
+als Organismus darftellt, ijt die Bafis und Wurzel eines jeden
+Intellekts; daher bie Mangelhaftigkeit eines jeben unb bie Züge
+von Thorheit und Verfehrtheit, ohne welde fein Mensch ijt.
+Alfo aud) hier; , fein Lotus ohne Stengel“, und fagt Goethe:
+
+Noch ipuft ber Babylon’ihe Thurm,
+
+Sie find nicht zu vereinen!
+
+Ein jeder Mann bat feinen Wurm,
+
+Kopernitus ben feinen.
+
+
+Zu den Verunreinigungen der Erfenntniß burd) die ein für
+alle Mal gegebene Beichaffenheit des Subjefts, die Individuea-
+fitit, fommen nun nod) bie biveft aus dem Willen und feiner
+einftweiligen Stimmung, aljo aus dem Jntere(je, den Leiden-
+fdjaften, den Affelten des Erfennenden bervorgehenden. Um
+ganz zu ermejjen, wie fefr viel Subjektives unfrer Erkenntniß
+beigegeben ijt, müßte man öfter einen und denfelben Vorgang
+mit den Augen zweier verfchieden gejinnter und verfchieden be-
+theiligter Leute jehn. ‘Da dies nicht angeht, muß uns bie Be-
+
+
+unb in jeder Beziehung betreffende Gebanfen. 09
+
+
+obadhtung genügen, wie jehr verfchieden uns felber, zu verschie—
+denen Zeiten, in verfchiedenen Stimmungen und bei Der[djiebe:
+nen Anläffen, bie felben Personen und Gegenftände fid dar-
+stellen.
+
+Allerdings wäre es ein herrliches Ding um unsern Intellekt,
+wenn er für sich bestände, alfo ursprüngliche und reine In—
+telligenz wäre und nicht ein bloß sekundäres Vermögen, welches
+nothwendig auf einem Willen wurzelt, vermöge dieser Basis
+aber eine Verunreinigung fast aller feiner Erkenntnisse unb Ur⸗
+tfeife zu erleiden hat. Denn, wäre Dies nicht; fo Tönnte er
+ein reines Organ ber Erfenntnig und Wahrheit feyn. Allein
+wie es jet fteht, wie felten werden wir ba ganz klar fehn in
+einer Sache, bei ber wir irgendwie intereffirt find! Es ift faum
+möglich: denn bei jedem Argument unb jedem hinzufommenden
+Datum fpricht fogleih der Wille mit, unb zwar ohne daß man
+jeine Stimme von der des Intellekts felbft unterfcheiden fünnte,
+indem ja Beide zu Einem Ich verfchmolzen find. Am deutlich
+ftem wird bie$, menn wir den Ausgang einer uns angelegenen
+Sache prognofticiren wollen: da verfälfcht das Juteresse faft
+jeden Schritt des Intellefts, bald als Furcht, bald als Hoffnung.
+Es ift faum möglich dabei Har zu fehn: denn der Intellekt gleicht
+dann einer Fadel, bei der man lesen foll, während ber Nadt-
+wind fie heftig bewegt. Dieferhalb eben ijt, unter jehr erregen«
+den Umftänden, ein treuer und aufrichtiger Freund von unschätz⸗
+barem Werth; weil er, felbft unbetheiligt, bie Dinge fieht wie
+fit find; während fie unjerm Blide durch die Gaufelei ber
+Leidenfchaften verfälicht fid) daritellen. — Ein richtiges Urtheil
+über gefchehene, ein richtiges SProgno[tifon über kommende Dinge
+fönnen wir nur dann haben, wann fie uns gar nicht angehn,
+alfo unfer Interesse durchaus unberührt laffen: denn außerdem
+find wir nidt unbestochen, vielmehr ift unfer Intellekt vom
+Willen infizirt und inquinirt, ohne daß wir e8 merfen. Daraus
+und nächstdem aus ber Unvollftändigfeit ober gar Verfälfchung
+der Data erfíürt e8 fih, daß Leute von Kopf und fenntnijfen,
+im VBorherfagen des Ausgangs politifcher Angelegenheiten, bis»
+weilen toto coelo irren.
+
+Bei Künftlern, Dichtern und Schriftitellern überhaupt ge»
+hört zu den fubjektiven Verunreinigungen des Intellelts aud)
+
+
+10 Den Intellett überhaupt
+
+
+Das, was man die Zeitideen, heut zu Tage das „ Zeitbewußt-
+fen ^, zu nennen pflegt, alfo gewiffe im Schwange ftehende An-
+fichten und Begriffe Der mit ihrer Farbe getündjte Schrift-
+fteller Bat fid) von ihnen imponiren laffen, ftatt fie zu überjehn
+und abzumeifen. Wann nun, nad) einer fürzern ober längern
+Reihe von Jahren, jene Anfichten gänzlich verfchwunden und oct
+fhollen find; ba entbehren feine nod) aus jener Zeit vorhandenen
+Werke der Stüße, bie fie an ihnen hatten, und oft erjcheinen
+fie dann unbegreiflich abge[dymadt, jedenfalls aber wie ein alter
+Kalender. Nur ber ganz üdjte Dichter, oder Denker, ift über
+alle foíde Einflüffe erhaben. Schiller fogar fatte in die Kritil
+ber praftifchen Vernunft hineingefehn, und fie hatte ihm impo-
+nirt: aber Shalefpeare Hatte nur in die Welt hineingefehn.
+Darum finden wir, in allen feinen Schaufpielen, am deutlichiten
+aber in den Englifch-hiftorifchen, bie Perfonen durchgängig burd)
+bie Motive des Eigennußes, oder ber Bosheit, in Bewegung
+gefeßt; mit wenigen und nicht zu grelf abftehenden Ausnahmen.
+Denn Menfhen wollte er im Spiegel der Dichtkunft zeigen,
+nicht moralifche Karikaturen: darum erkennt fic Seder im Spiegel,
+und feine Werke Ieben, heute und immerdar. Die Schillerfchen
+Personen im Don Karlos fann man ziemlich) scharf im weiße
+und fehwarze, in Engel und Teufel, eintheilen. Schon jett er-
+scheinen fie fonderbar: was wird es er[t über 50 Sahre feyn!
+
+
+Das Leben der Pflanzen geht auf im bloßen Dafeyn:
+demnach it fein Genuß ein rein und abfolut fubjeftives, dumpfes
+Behagen. Bei den Thieren tritt Erfenntniß Hinzu: bod)
+bleibt fie gänzlich auf Motive, und zwar die nüdjten, befchränft.
+Daher finden aud) fie im bloßen Dafeyn ihre volle Befriedigung,
+und e8 reicht zu, ihr Leben auszufüllen. Sie können bemmad)
+viele Stunden ganz unthätig zubringen, ohne Unbehagen, oder
+Ungeduld zu empfinden; objdjon fie nicht benfen, fondern bloß
+anfchauen. Nur in den allerflügften Thieren, wie Hunden und
+Affen, madt fid (don das Bedürfniß ber Beihäftigung, und
+(omit bie Langeweile fühlbar; daher fie gern fpielen, aud) wohl
+fih mit Gaffen nad den Vorübergehenden unterhalten; wodurch
+fie fchon in Eine Klaffe mit den menfchlichen Fenftergaffern tre-
+
+
+und in jeder Beziehung betreffende Gebanfen. 11
+
+
+ten, die uns alfer Orten entgegenftarren, aber mur warn man
+merkt, bag bieje Menjchen Studenten find, eigentlihe Indignation
+erregen.
+
+Grit im Menfchen Bat die Erfenntniß, — b. t. das Be-
+wußtfeyn von andern Dingen, im Gegensatz des bloßen Selbit-
+bewußtseyns, -— einen hohen Grab erreicht unb ift, burd) Ein-
+tritt der Vernunft, bis zur Befonnenheit gejticgen. In Folge
+hievon kann fein Leben, neben bem bloßen Dafeyn, aud) durd)
+das Erkennen als solches ausgefüllt werden, welches gewifjer-
+maaßen ein zweites Dafeyn, außerhalb ber eigenen Berfon, in
+andern vorhandenen Wesen und Dingen, ift. Allein aud) bei
+ihm bejchränft das Erfennen fid) meiftentheil® auf Motive,
+jedoh mit Inbegriff der entfernten, welche, wenn in größern
+Maffen umfaßt, „nützliche Kenntnisse“ heißen. Hingegen gelangt
+in ihm das freie, b. f. das zwedlofe, Erkennen meiftens nicht
+weiter, als Neugier und Bedürfniß der furgmeil es treiben, ijt
+jedvoh in jedem Menschen, wenigftens fo weit, vorhanden. Ins
+ieijden, wenn ihm die Motive Rast geftatten, wird aud) bei
+ibm ein großer Theil feines Lebens durch das bloße Dafeyn
+ausgefüllt; wovon das häufige Maulaffen und aud) diejenige
+Gefelligfeit, welche hauptfächlich im bloßen Beifammenjeyn, bei
+gar feinem, ober Höchft fargem und ärmlichem Gejprüdje, be-
+jteht, Zeugniß ablegen. a, bie meiften Menfchen haben, wenn
+aud nicht mit deutlihem Bewußtseyn, bod) im Grunde ihres
+Herzens, als oberfte Maxime und Richtschnur ihres Wandele,
+ben Vorsatz, mit bem Fleinftmöglihen Aufwand von Ge-
+danfen auszulommen; weil ihnen das Denken eine Laft und
+Beichwerde ijt. Demgemäß benfen fie nur fnapp fo viel, wie
+ijr Berufsgeschäft fchlechterdings nöthig macht, und dann wieder
+jo viel, wie ihre verjchiedenen Zeitvertreibe, sowohl Gespräche,
+als Spiele, erfordern, die dann aber beide daranf eingerichtet
+ftn müffen, mit einem minimo von Gedanken beftritten werden
+zu fónnen. Fehlt e8 jebod), in arbeitsfreien Stunden, an Der-
+gleichen, jo werben fie ftunbenfang am Fenster Tiegen, die uns
+bedeutendeiten Vorgänge angaffend und fo recht eigentlich das
+ozio lungo d’uomini ignoranti des Ariofto uns veranfchaulichen,
+eher als daß fie ein Buch zur Hand nehmen follten; weil dieg
+die Denffraft in Anfpruch nimmt.
+
+
+12 Den Intellekt überhaupt
+
+
+Nur wo der Intelleft [don das nothwendige Maaß über:
+Schreitet, wird das Erkennen, mehr ober weniger, Selbftzwed.
+Demnach ift e8 eine ganz abnorme Begebenheit, mann, in irgend
+einem Menschen, der Intellekt feine natürliche Beftimmung, alfo
+den Dienst des Willens und demgemäß bie Auffaffung der bloßen
+Relationen der ‘Dinge, verläßt, um fid) rein objektiv zu beichäf-
+tigen. Aber eben dies ift der Urfprung ber Kunft, der Poefie
+und ber Philofophie, welche alfo durch ein Organ hervorgebracht
+werden, das urjprüngíid) nicht für fie be[timmt ift. ‘Der In
+telfeft nämlich ift, von Haufe aus, ein fauerer Arbeit obliegenber
+Manufalturlöhnling, den fein vielfordernder Herr, der Wille,
+pont Morgen bis in die Nacht befchäftigt hält. Kommt aber
+dennoch diefer getriebene Frohnknecht ein Mal dazu, in einer
+Feierftunde, ein Stüd von feiner Arbeit freiwillig, aus eigenem
+Antrieb und ohne Nebenabficht, bloß zu eigener Befriedigung und
+Ergögung zu verfertigen; — dann ijt dies ein ächtes Kunftwerf,
+ja, wenn Bod) getrieben, ein Werk des Genies.
+
+Ein folder, auf das rein Objektive gerichteter Gebraud)
+des Intellefts, Tiegt, wie in feinen höhern Graben allen Tünft-
+lerifchen, poetifchen, philofophifchen, (o aud) überhaupt den vein
+“ wiffenfchaftlihen Leiftungen zum Grunde, findet felbft schon Statt
+beim Auffaffen und Studiren derjelben und ebenfalls im freien,
+b. B. nicht das perfönliche Intereffe irgend betreffenden Nach—
+denken über irgend einen Gegenftand. Ja, derjelbe belebt fogar
+das bloße Gejprüdj, wenn defjen Thema vein objektiv ift, b. B.
+im feimerfei Beziehung zum Interesse, folgfid) dem Willen, ber
+Redenden fteht. Jeder folcher rein objeltiver Gebrauch des In⸗
+tef(eft8 verhält fid) zum jubjeftiven, b. B. das persönliche Inter:
+ejfe, wenn aud) nod) jo mittelbar, betreffenden, wie Tanzen zum
+Gehn: denn er ijt, wie das Tanzen, bie zwedlofe Verwendung
+überjchüffiger Kräfte. Hingegen ijt der fubjeftive Gebraud) des
+Intellekts allerdings der natürlihe, da der Intelleft bloß zum
+Dienfte des Willens entftanden ijt. Aber eben deshalb haben
+mir jenen mit ben Thieren gemein: er ijt der Sklave ber Noth-
+durft, trägt den Stempel unfrer Armfäligfeit und wir erfcheinen
+in ihm fo recht als glebae adscripti. Er findet nicht etman
+bloß bei der Arbeit und bem perfönlichen Treiben Statt, son—
+dern auch in allen Ge[prüdjen über perfönliche und überhaupt
+
+
+unb in jebev Beziehung betreffende Gedanken. 13
+
+
+materielle Angelegenheiten, a(8 da find Gffen, Zrinfem und fon-
+ftige Bequemlichkeiten, fodann ber Erwerb und was dazu gehört,
+benebjt Nüslichleiten jeder Art, felbft wenn fie ba8 gemeine
+Velen betreffen: denn das gemeine Wesen bleibt ein gemeines
+Velen. Die meiften Menfchen find freilich Teines andern Ge-
+brauchs ihres Intellekts fähig; weil diefer bei ihnen bloß ein
+Werkzeug zum Dienfte des Willens ijt unb in biejem Dienfte
+gänzlih aufgeht, ohne bag etwas übrig bliebe. Dies eben madt
+jie jo troden, fo thierifch-ernft und zu jedem objektiv unterhal-
+tenden Gespräch unfähig; wie denn aud) auf ihrem Gefichte bie
+Kürze des Bandes zwischen Intellekt und Willen fidjtbar ijt.
+Der Ausdrud von Beichränftheit, der uns oft auf fo nieber-
+ihlagende Weife daraus entgegentritt, bezeichnet eben nur bie
+Beschränkung ihres gefammten Erfennens auf die Angelegenheiten
+ihres Willens. Man fieht, daR gerade nur fo viel Intelleft ba
+it, mie ber Bier gegebene Wille zu feinen Zwecken braucht,
+und nichts darüber: hierauf beruht die Vulgarität ihres Anfehns.
+(Bergl. Welt als W. unb 35, 39b. II, p. 380; 3. Aufl. 435.)
+Demgemäß verfinft denn aud) ihr Intelleft in Unthätigfeit, fobald
+ber Wille ihn nicht antreibt. Sie nehmen an gar nichts ein
+objeftives Intereffe. Ihre Aufmerkfamkeit, ge[d)meige 9tad-
+denken, fdjenfen fie keiner Sache, die nicht eine, wenigftens mög-
+life, Beziehung zu ihrer Person hat: außerdem gewinnt feine
+ihnen eim Intereffe ab. Nicht ein Mal burd) Scherz und Wik
+werden fie merklich angeregt, hassen vielmehr Alles, was aud)
+wur das Leichtefte Nachdenken erfordert: allenfalls bringen plumpe
+Possen fie zum Lachen: außerdem find fie ernfthafte Bestien:
+Alles nur weil fie bloß eines subjektiven Interefjes fähig find.
+Zarum eben ift die für fie pajfenbe Unterhaltung das Karten-
+fpi, — und zwar um Geld; weil dies nicht, wie Schaufpiel,
+Musik, Konverfation u. f. m. jid in der Sphäre des bloßen
+Erkennens hält, fondern den Willen jelbit, das Primäre,
+welches überall zu finden feyn muß, in Bewegung fest. Uebri⸗
+ns find fie, vom erften bis zum legten Athemzuge, Geschäfts⸗
+Inte, die geborenen Laftträger des Lebens. Ihre Genüffe find
+alle finnlih: für andere haben fie feine Gmpfüngfidjfeit. Man
+tel. mit ihnen in Geschäften veben; fonft nidi. Geselligkeit
+mit ihnen ijt Degradation, vecht eigentlihes Sichgemeinmachen.
+
+
+14 Den Intellekt überhaupt
+
+
+Ihre Gefpräche find es, weldhe Giordano Bruno (am Schluß
+der cena delle ceneri) bezeichnet af8 vili, ignobili, barbare
+ed indegne conversazioni, meldje schlechthin zu meiden er fid
+jelber angelobt. Hingegen ijt das Gespräch zwifchen Leuten, bic
+nur irgendwie eines rein objektiven Gebraudj8 ihres Intellekts
+fähig find, und wäre der Stoff aud) nod) fo leicht, und Liefe er
+auf bloßen Scerz Hinaus, bod) immer (dn ein freies Spiel
+
+
+geiftiger Kräfte, verhält fid) alfo zu jenem ber Andern, wie
+Tanzen zum Gehn. (Gin folches Gejprüd) ift, in der That, wie
+
+
+wenn Zwei oder Mehrere mit einander tanzen; während jenes
+
+
+andere einem bloßen Marjchiren neben oder Hinter einander, um —
+
+
+anzufommen, gleicht.
+
+
+Diefer, ftets mit der Fähigkeit dazu verbundene Hang zu
+
+
+einem folchen freien und daher abnormen Gebraud) des Intellekts
+erreiht nun im Genie den Grad, wo das Erfennen zur Haupt:
+fache, zum Zwed des ganzen Lebens wird; das eigene Daseyn
+hingegen zur Nebenfadhe, zum bloßen Mittel ferabfinft; alfo
+das normale Verhältniß fid) gänzlich wmfebrt. Demnach Lebt
+das Genie, im Ganzen genommen, mehr in der übrigen Welt,
+mittelft der erfennenden Auffaffung derfelben, als in feiner eige-
+nen Perfon. Ihm benimmt die ganz abnorme Erhöhung der
+Erfenntnißfräfte die Möglichkeit, feine Zeit durch das bloße
+Dafeyn und deffen 3mede auszufüllen: fein Geift bedarf be
+ftünbiger und [tarfer Befchäftigung. Daher mangelt ihm jene
+GSelafjenheit in Durchführen der breiten Scenen des Alltags:
+
+
+lebens und jenes behaglihe Aufgehn in diefem, wie es den ge
+wöhnlichen Menfchen gegeben ijt, bie fogar den bloß ceremo-
+
+
+niellen Theil deffelben mit wahrem Wohlgefallen durchmachen.
+Demgemäß ift denn aud) für das gewöhnliche, praftifche Leben,
+af8 welches den bloß normalen Geiftesträften angemeffen  ift,
+das Genie eine fchlechte Ausftattung und, wie jede Abnormität,
+ein Hinderniß. Denn bei diefer Steigerung der intellektuellen
+Kräfte hat bie intuitive Auffaffung der Außenwelt eine fo große
+objektive ‘Deutlichkeit erlangt und liefert jo viel mehr, als zum
+Dienfte des Willens erforderlich ift, bag diefer Reichthum jenem
+
+
+Dienfte geradezu Dinberfid) wird, indem die Betradhtung der ger
+
+
+gebeten Erfcheinungen, als folder unb an fid), ftets abzieht von
+
+
+ber Betrachtung der Beziehungen derfelben zum indivibuellen
+
+
+und in jeber Beziehung betreffende Gebanten. 15
+
+
+Villen und untereinander, fonad) bie ruhige Auffaffung diefer
+flórt und verhindert. Zum Dienfte des Willens ijt vielmehr
+eine ganz oberflächliche Betradjtung der Dinge hinreichend, bie
+nihts weiter liefert, af8 die Verhältniffe derselben zu unfern
+jedesmaligen Zwecken und was mit diefen zufammenhängt, folg-
+fh aus Tauter Relationen beiteht, mit möglichster Blindheit
+gegen alles llebrige: bieje Art der Erfenntniß wird burd) eine
+objektive und vollfftändige Auffaffung des Wesens der Dinge ge-
+schwächt und verwirrt. Hier bewährt fid) daher ber Ausfprud :
+des Caftantiu$: Vulgus interdum plus sapit: quia tantum
+quantum opus est sapit. (Lactant. divin. institut. L. III, c. 5.)
+
+Daher alfo ftebt ba8 Genie ber Fähigkeit zum praftifchen
+Birken geradezu entgegen, zumal auf dem höchften TZummelplage
+derfelben, wo fie jid) im politifchen Welttreiben Derbortfut; weil
+eben die hohe Vollkommenheit und feine Empfänglichkeit des In-
+tellefts bie Energie des Willens hemmt, bieje aber, als Kühn-
+heit und Feftigfeit auftretend, wenn nur mit einem tüchtigen,
+geraden Veritande, rihtigem Urtheil und einiger Schlauheit aus-
+geitattet, e8 gerade ijt, bie den Staatsmann, den Feldherrn, und,
+wenn fie bis zur Verwegenheit und dem Starrjinn geht, unter
+günftigen Umftänden, aud) den melthiftorifchen Charakter madjt.
+Vöherlich aber ift e8, bei dergleichen Leuten von Genie reden
+zu wollen. Eben fo find es die niedrigeren Grade geiftiger
+Ucherlegenheit, alfo Klugheit, Schlauheit, und beftimmte, aber
+einfeitige Talente, bie zum Fortlommen in der Welt befähigen
+und Leicht das Glück der Perfon begründen, befonders wenn ihnen
+hier Unverfhämtheit (wie oben Verwegenheit) beigegeben ijt.
+Teyn auf allen diefen niedrigern Graben der lleberfegenfeit bleibt
+der Ontelíeft nod) immer feiner natürlichen Beftimmung, dem
+Dienfte des eigenen Willens, getreu, nur daß er ihn mit größerer
+Grnauigfeit und Leichtigkeit verrichtet. Beim Genie Hingegen
+entzieht er fid) demfelben. Daher ift da8 Genie dem Glilde der
+Ferfon entfchieden ungünftig; weshalb auch Goethe den Taffo
+jagen läßt:
+
+Ein Zeichen mehr des Leidens, als des Güde.“
+
+Genie ijf demnach für den damit Begabten zwar ein unmittel-
+barer Gewinn, jedoch fein mittelbare, — —
+
+
+16 Den Intelleft überhaupt
+
+
+Anhang verwandter Stellen *),
+
+
+Der Alltagsmenfch fdjeut bie Förperliche, aber noch mehr
+die geijtige Anftrengung: barum ift er (o unwiffend, fo gedankenlos
+und fo urtheilglos.
+
+Der Sntelfeft der gewöhnlichen Leute ijt ganz fur;
+angebunden, nämlich an feinen Anhaltspunkt, den Willen; fo,
+daß er einem furgen und daher (djnelf gehenden Pendel, ober
+einem Elongationswinfel mit furzem radius vector gíeidjt. “Daher
+lommt c8, daß fie an den Dingen eigentlich nichts fehn, als
+gerade nur ihren Vortheil, oder Nachtheil, von denfelben, biejen
+aber um fo fíürer; wodurd eine große Leichtigkeit im Behandeln
+derjelben entfteht. Der geniale Intellekt Hingegen fieht bie
+Dinge felbft, und darin befteht feine Befähigung. Dadurch
+aber wird die Grfenntnig feines Vortheils oder Nachtheils von
+ihnen verbunfelt ober gar verdrängt; wodurch es gejchieht, bap
+jene Andern ihren Weg im Leben meiftens viel gefchicter gehn,
+als er. Man kann Beide vergleichen mit zwei Schadjipielern,
+denen man, in einem fremden Haufe, ächt chinesische, überaus
+(din und künstlich gearbeitete Schachfiguren vorgefegt hätte.
+Der Eine verliert, weil die Betrachtung der Figuren ihn (tete
+abzieht und zerftreut; der Andere, ohne Interesse für jo etwas,
+fieht in ihnen bloße Schadhfiguren und gewinnt.
+
+Die große Mehrzahl ber Steniden ift jo beichaffen,
+daß, ihrer ganzen Natur nad, es ihnen mit nichts Grnjt feyn
+kann, als mit Effen, Trinken und fid) Begatten. Diefe werden
+Alles, was die feltenen erhabenen Naturen, fei e8 als Religion,
+oder als Wiffenfchaft, ober Kunft in die Welt gebradjt haben,
+fogleih als Werkzeuge zu ihren niedrigen Zwecken benugen,
+indem fie meiftens e8 zu ihrer Maske machen.
+
+Den Thieren fieht man deutlich an, daß ihr Intellekt
+bloß im Dienfte ihres Willens thätig ift: bei den Menschen
+
+
+*) Das in biefem Paragraphen behandelte Thema war ein Lieblingsthema
+Schopenhauer's; Daher hat er zu bemfelben ned) eine Anzahl verwandter Stellen
+aus feinen Manuseripten beigefeßt, bie fid) jedoch nicht in den Zert aufnehmen
+Vießen, ohne ben Zusammenhang zu febr zu unterbrechen, unb bie aud) zum
+Theil nur Wiederholungen oder Amplifitationen des im Texte bereits Ge;
+jagten find. Ich gebe fie daher im Obigen anhangsweise. Der Qerauog.
+
+
+unb im jeder Beziehung betreffende Gebanfen. 17
+
+
+it e8, in der Regel, nicht viel andere. Auch ihnen fieht man
+es durchgängig an; ja Mandyen fogar audj noch, daß er nie an-
+ders thätig war, fondern ftet8 bloß auf bie Heinlichen Zwecke
+des Lebens und die oft jo niedrigen "und unwürdigen Meittel
+dazu gerichtet gewejen ift. Wer einen entfchiedenen Weberfchuß
+von Intellekt, über das zum Dienfte des Willens nöthige Maaß
+hinaus, Hat, welcher Ueberfhuß bann von felbjt in eine ganz
+freie, nidt vom Willen erregte, noch die Zwecke des Willens
+betreffende Thätigkeit geräth, deren GrgebniB eine rein objektive
+Auffaffung ber Welt und ber Dinge feyn wird, — ein Solcher
+it ein Genie, und das prägt fid) in feinem Antlit aus: min-
+bet Stark jebod) aud) (dom jeder Ueberschuß über das befagte
+dürftige Staa.
+
+Kein Unter[djieb des Standes, des Ranges, ber Geburt,
+it jo groß, wie die Kluft zwifchen bem zahllofen Millionen, bie
+ihren Kopf nur als einen Diener des Baudes, b. D.
+als ein Werkzeug zu ben Zwecken des Willens betrachten und
+gebrauchen, — und den fo äußerst Wenigen und Seltenen, weldje
+den Muth Haben zu jagen: Nein, er ift zu gut dazu: er [olf
+bloß zu feinen eigenen Zweden thätig seyn, alfo zur Auffaffung
+de8 wundersamen und bunten Schaufpiels diefer Welt, um folches
+nachher wieder zu geben, in diefer oder jener Art, als Bild ober
+als Erklärung, nad) Beschaffenheit des jedesmaligen Individui,
+das ihn trägt. Dies find die wahrhaft Edeln, die eigentliche
+Nobleffe der Welt. Die Andern find Leibeigene, glebae ad-
+‚cripti. Freilih find bier aud) nur ‘Die gemeint, welche nicht
+bloß ben Muth, fondern aud) den Beruf und daher das Recht
+haben, den Kopf vom Dienfte des Willens loszufprechen, folglich
+jo, daß e8 fid) des Opfers lohnt. Bei ben Uebrigen, wo das
+Alles nur theilweife vorhanden ijt, ift aud) jene Kluft nicht jo
+weit; aber eine jcharfe Demarfationslinie bleibt doch immer,
+telbjt bei einem Kleinen, aber entfchiedenen Talent.
+
+Die ridjtigite Skala zur Abmeffung der Hierardie ber
+Intelligenzen liefert ber Grad, in welchem fie die Dinge
+bog individuell ober aber mehr und mehr allgemein aufs
+aen. Das Thier erkennt nur das Einzelne als foídje8, bleibt
+fo ganz in ber Auffaffung des Imdividuellen befangen. Ieder
+Nensch aber faft das individuelle in Begriffe zufammen, darin
+
+
+18 Den ntelleft überhaupt
+
+
+eben der Gebraud; feiner Vernunft befteht, und bieje Begriffe
+werden immer allgemeiner, je höher feine Intelligenz fteft. Wenn
+diefe Auffaffung des Allgemeinen nun aud) in die intuitive
+Erfenntniß dringt und nicht bloß die Begriffe, sondern aud) das
+Angefhaute unmittelbar als ein Allgemeines erfaßt wird; jo
+entfteht die Grfenntnig der (Platonischen) Ideen: fie ijt üjtbe
+tifh, wird, menn jelbitthätig, genial und erreicht den hödjiten
+Grad, menn fie pbilojopDijd) wird, indem alsdann das Ganze
+des Lebens, ber Wesen und ihrer Vergänglichkeit, der Welt und
+ihres Beftandes, in jeiner wahren Beichaffenheit intuitiv aufge
+faßt Hervortritt und in diefer Form fid) als Gegenftand der
+Meditation dem Bewußtseyn aufbrüngt. Es ift ber höchste Grad
+ber Befonnenheit. — Also zwifchen diefem und der bloß thier-
+iden Erfenntniß Tiegen unzählige Grade, bie fi burd) das
+immer allgemeiner Werden der Auffafjung unterjcheiden.
+
+
+Was eine Nation an Werken der [hönen Künjte, Poesit |
+
+
+und Bhilofophie aufzumweifen Hat, ift der Ertrag des in ifr
+vorhanden gemejenen Ueberschusses an Intellekt.
+
+
+Für Den, ber fähig ift, etwas cum grano salis gu ber
+fte, ließe das VBerhältnißg des Genies zum Normalmenfden
+fid) vielleicht am deutlichjten folgendermaagen ausdrüden. Gui
+Genie ift ein Mensch, der einen doppelten Intelleft Hat: den
+einen für fid, zum Dienfte feines Willens, und den andern
+für die Welt, deren Spiegel er wird, indem er fie rein ob-
+jeftiv auffaßt. Die Summe, oder Duinteffenz diefer Auf
+faffung wird, nachdem die technische Ausbildung Hinzugelommen
+it, in Werfen der Kunft, der Poesie, oder der Philojophie wieder:
+gegeben. — Der Normalmensch hingegen Dat den erften Intellelt
+allein, welchen man beu jubjeltiven nennen fann, wie beu
+
+
+genialen den objektiven. Obwohl jener fubjeltive Intellett in
+fódjt verfchiedenen Graben der Schärfe und Vollkommenheit
+
+
+vorhanden feyn Tann: fo trennt ihn bod) nod) immer eine be:
+ftimmte Abftufung von jenem doppelten Sntelfeft des Genies, —
+etam jo, wie bie Zöne der Bruftftimme, wären (ie aud) nod)
+fo Bod, immer nod) wesentlich verjd)eben find von ber Fistel,
+als welche, gerade jo wie bie zwei obern Oktaven der Flöte und
+
+
+unb in jeber Beziehung betreffende Gebanfen. 19
+
+
+die Slageollettöne der Geige, das Unifono beider Hälften der burd)
+einen Schwingungsfnoten getheilten Vibrationsfäule ber Luft ijt,
+während in ber Bruststimme und untern Flötenoktave nur bie
+ganze und ungetheilte Quftíüufe vibrirt. Hieraus aljo läßt fid)
+jene specifische Eigenthümtichfeit des Genies begreifen, welche den
+Werken und fogar ber Phyfiognomie de8 damit Begabten jo
+augenfüffig aufgeprägt ijt; imgleichen ift Har, daß ein folcher
+doppelter Snteífeft dem Dienste des Willens meiftens hinderlich
+jeyn muß, woraus die bereits oben erwähnte geringe Befähigung
+bó Genies zum praftijden Leben fid) erklärt, Besonders geht
+ihm die Nüchternheit ab, welche den gewöhnlichen, einfachen
+Intellekt, ev fei Scharf oder ftumpf, charakterifirt.
+
+
+Wie das Gehirn als ein Parafit, ber vom Organismus
+genährt wird, ohne bireft zu deffen innerer SOcfonomie beizu-
+tragen, da oben, in feiner feiten, wohlverwahrten Behaufung ein
+jelbjtftändiges, unabhängiges Leben führt; fo führt der geiftig
+bodjbegabte SOtenid) aufer dem Allen gemeinjamen, individuellen
+Veben, nod) ein zweites, rein intelfeftueffe8, welches in der
+fteten Zunahme, Berichtigung und Vermehrung nicht des bloßen
+Wissens, fondern der zufammenhängenden eigentlichen Erfennt-
+nip und Ginfidjt be[tebt und unberührt bleibt vom Schidfale ber
+Tejon, fofern e8 nicht etwan von diefem in feinem XQreiben
+geitört wird, daher aud) e8 den Menfchen über bajfefbe unb
+inen. Wechfel erhebt und Dinausjebt. Es befteht in einem teten
+tefen, Lernen, Berfuhen unb Ueben, und wird allmälig zur
+Sanpteriftenz, der die perfönliche fid) als bloßes Deittel zum Zweck
+unterorbnet. in Beifpiel der Unabhängigkeit und Abfonderung
+tiefes intellektuellen Lebens giebt uns Goethe, wann er, mitten
+im Feldgetümmel des Champagnekrieges, Phänomene zur Farben-
+ihre beobachtet und, jobafb ihm, unter dem gränzenlojen Elend
+jutá Feldzuges, eine furge Naft, in der Feftung Luxemburg,
+gegönnt ift, fogleich die Hefte feiner Farbenlehre vornimmt. So
+hat er denn uns ein Vorbild Hinterlaffen, dem wir follen nadj
+folgen, bie wir das Salz der Erde find, indem wir alfegeit unferm
+ntelfeftuellen Leben ungeftört obliegen, wie immer aud) das per-
+infihe vom Sturm ber Welt ergriffen und erfchüttert werden
+
+
+80 Den Ontelleft. überhaupt
+
+
+möge, stets eingebent, bag wir nicht ber Magd Söhne find,
+Sondern der Freien. Als unjer Emblem und Familienwappen
+ichlage id) vor einen vom Sturm heftig bewegten Baum, der
+dabei dennoch (eine rothen Früchte auf allen Zweigen zeigt,
+mit der Umfchrift: dum convellor mitescunt; ober aud): con-
+quassata, sed ferax.
+
+Senem rein intelfeftueffen Leben des Einzelnen entfpricht ein
+eben solches de8 Ganzen ber Menschheit, deren reales eben
+ja ebenfalls im Willen liegt, fowohl feiner empiri[d)en, als
+
+
+feiner transfcendenten Bedeutung nah. Diefes rein intellektuelle
+
+
+Leben der Menfchheit beftebt in ihrer fortfchreitenden Erfenntni —
+
+
+mittelft der Wiffenihaften, und in ber Vervollkommnung der
+Künfte, welche Beide, Menfchenalter und Iahrhunderte Dinburd,
+fid langsam fortjegen, ımd zu denen ihren Beitrag fiefernb, die
+einzelnen Geschlechter vorübereilen. Dieses intelleftuelle Leben
+schwebt, wie eine ätherifche Zugabe, ein fid) aus ber Gührung
+entwicelnder wohlriehender Duft über dem weltlichen reiben,
+dem eigentlich realen, vom Willen geführten Leben der Völker,
+unb neben der Weltgefchichte geht schuldlos und nicht bfutbeffedt
+bie Gefchichte ber Philofophie, ber Wissenschaft unb ber Künfte.
+
+
+Der Unterfchted zwifchen bent Genie und den Normalköpfen
+
+
+ijt allerdings nur ein quantitativer, fofern er ein Unterfchied —
+des Grades ijt: dennoch wird man versucht, ihn als quafita- -
+
+
+tiv anzufehn, wenn man betrachtet, wie die gewöhnlichen Köpfe,
+trot ihrer individuellen VBerjchiedenheit, bod) eine gewiffe gemein-
+(ame Richtung ihres Denkens haben, vermöge weldjer, bei glei:
+chem Anlaß, ihrer Aller Gedanken fofort den felben Weg ein-
+idíagen und in das felbe Gleis gerathen: daher die Häufige,
+nicht auf Wahrheit fid) jtüßende Webereinftunmung ihrer Urtbeile,
+welche (o weit geht, daß gemijje Grundanfichten von ihnen zu
+allen Zeiten fejtgefalten, immer wiederholt und von Neuem vor:
+gebracht werden, während denjelben die großen Geifter jeder Zeit,
+offen ober perbedt, fid) widerjegen.
+
+
+Ein Genie ift ein Mensch, in dessen Kopfe bie Welt ata
+Borftellung einen Grab mehr Helligkeit erlangt hat und beut-
+
+
+imb in jever Beziehung betreffende Gedanken. 81
+
+
+lijer ausgeprägt dafteht: und ba nicht bie forgfältige Beobach⸗
+tung des Einzelnen, jonbern nur bie Intenfität ber Auffaffung
+des Ganzen die wichtigfte und tieffte Einficht liefert; (o Dat bie
+Menschheit von ihm die größte Belehrung zu erwarten. Er wird
+fie, wenn er zur Ausbildung gelangt, bald in biefer, bald in
+jener Form, geben. Man kann demnad das Genie aud) befiniren
+als ein ausgezeichnet klares Bewußtseyn von den Dingen und
+dadurch aud) von ihrem Gegenjag, dem eigenen Selbft. Zu bem
+aljo Begabten fieht bie Menfchheit auf, nad) Auffchlüffen über
+die Dinge unb ihr eigenes Wefen *).
+
+Inzwifchen ijt ein Solcher, wie Jeder, was er ift zunächst
+für fid) fefbft: Dies ift mejent(id), unausbleiblich und unabänder-
+[if. Was er hingegen für Andere ijt, bleibt, als ein Sefundäres,
+den Zufall unterworfen. — Seinenfalí8 können fie von feinem
+Geiste mehr empfangen, als einen Nefler, mittelft eines von
+beiden Seiten beförderten Versuchs, feine Gebanfen mit ihren
+Köpfen zu benfen, in denen folche jedoch immer nod) exotische
+Pflanzen, folglich verfümmert und gefchwächt bleiben werben.
+
+
+Um originelle, außerordentlihe, vielleiht gar unfterbliche
+Gebanfen zu haben, ijt es hinreichend, fid der Welt und den
+Dingen auf einige Augenblide fo gänzlich zu entfremden, daß
+Einem die allergewöhnlichiten Gegenftände und Vorgänge als
+völlig neu und unbefannt ericheinen, als wodurch eben ihr
+wahres Wesen fid) aufschließt. Das hier Geforderte ift aber
+
+
+*) Durch das allerfeltenfte Zufanımentreffen mehrerer böchft günftiger
+Umftänbe wirb bamt und mann, etwan ein Dial im Sahrhundert, ein Stenjd)
+gekoren, mit einem das normale Maaß merklich Üiberfteigenden Su»
+tellett, — biefer fefunbüren, alfo in Bezug auf ben Willen accibentelfen
+Cigen[djaft. Run kann es lange bauern, ehe er erkannt umb anerfannt
+wird; — ba Erfterem der Stumpffinn, Lebterem ber Neid entgegenftebt:
+ift er e8 aber ein Mal, dann brüngen fi bie Menfchen um ihn imb feine
+Berfe, in der Hoffnung, daß bon ifm aus irgenb ein Licht in das Dunfel
+ihres Daseyns bringen, ja, ein Aufichluß über bajfelóe ihnen werden könne, —
+gewissermaaßen eine von einem (unb fei es noch fo wenig) bobern Wesen
+ausgehende Dffenbarung.
+
+
+ [S. 82]
+
+
+nicht etwan schwer; fondern e$ fteht gar nicht in unfrer Gewalt
+und ijt eben das Walten des Genius *).
+
+
+Das Genie ijt unter den andern Köpfen, was unter den
+Edelfteinen der Karfunfel: es ftrahlt eigenes Licht aus, während
+die andern nur das empfangene reflektiren. — Auch fann man
+fagen, es verhalte fid) zu ihnen, wie die idivelektrifchen Körper
+zu den bloßen Leitern der Gleftvicitüt; daher auch eben es nidt
+zum eigentlihen, bloßen Gelehrten, der weiter fert. was er
+‚gelernt, geeignet ift; gerade fo, wie die idiveleftrifchen Körper
+feine Leiter find. Vielmehr verhält es fid) zur bloßen Gelehr-
+famfeit wie der Zert zu den Noten. (Gin Gelehrter ijt, wer
+viel gelernt hat; ein Genie Der, von bem die Menfchheit [erut,
+was er von Keinem gelernt bat. — Daher find bie großen
+Geifter, von denen auf hundert Millionen Menfchen faum Einer
+fommt, bie Leuchtthürme ber Menfchheit, ohne welche bieje fid)
+in das gränzenlofe Meer der entjeglichiten Irrthümer und der
+Verwilderung verlieren würde.
+
+Indessen fieht der eigentliche, fimpfe Gelehrte, etwan ber
+Göttingifche Ordinarius, das Genie an ungefähr wie wir den
+Hafen, als welcher erft nad) feinen Tode genießbar und be
+Auridtung fähig wird; auf den man daher, fo lange er lebt,
+bloß schießen muß.
+
+
+Wer von feinem Zeitalter Dank erleben will, muß mit
+demfelben gleihen Schritt halten. Dabei aber fommt nie etwas
+Großes zu Stande Wer Diefes beabfichtigt, muß daher feine
+Blicke auf die Nachwelt richten und, mit fefter Zuverficht, für
+diefe fein Werk ausarbeiten; wobei e8 freilich fommen kann, baf
+er feinen Zeitgenoffen unbelannt bleibt und bann Dem zu ber
+gleichen ift, ber, genöthigt fein Leben auf einer wüften Infel zu:
+zubringen, dafelbft mühfam ein Denkmal errichtet, fünftigen See
+fabrern die Kunde von feinem Dafeyn zu überliefern. Scheint
+
+
+*) Das Genie für fid) allein kann fo wenig originelle Gedanken haben,
+wie das Weib für fid) allein Kinder gebären fann; fondern ber äußere
+Anlaß muß als Bater hinzulommen, das Genie zu befruchten, bamit es
+gebäre.
+
+
+unb in jeder Beziehung betreffende Gedanken. 83
+
+
+ihm dies fart; fo tröfte er fid) damit, daß fogar den gewöhn⸗
+[ifen, bloß praftifhen Menfchen, ber feine Kompenfation dafür
+zu hoffen Hat, oft das gleihe Scidjal trifft. Ein fofder nüm-
+fif) wird, wenn durd feine Lage begünftigt, auf materiellen
+Wege probuftio tfütig feyn, wird erwerben, anfaufen, bauen,
+urbar machen, anlegen, gründen, einrichten und ver(dünern, mit
+täglihem Fleiße und unermüdlichem Eifer. Er wähnt dabei, für
+fih zu arbeiten: jedoch kommt am Ende Alles nur den Nach—
+fommen zu Gute, unb febr oft nicht ein Mal feinen eigenen.
+Demnady fann aud) er fagen nos, non nobis, und fat zum
+Lohn feine Arbeit gehabt. Es geht ihm alfo nicht beffev, als
+bem Dann von Genie, der wohl aud) für fid) Lohn, wenigstens
+Ehre, hoffte, am Ende aber Alles bloß für die Nachwelt gethan
+fat. Freilich haben dafür Beide audj viel von den Vorfahren
+ererbt.
+
+Die erwähnte Sompenjation nun aber, welche das Genie
+voraus Bat, liegt in Dem, was e8 nicht Andern, fondern fidj
+felber if. Wer Hat wohl mehr eigentlich gelebt, als Der, _
+melder Augenblide Hatte, deren bloßer Nachklang burd) bie
+Sahrhunderte und ihren erm vernehmbar bleibt? — Ya, vielleicht
+wäre e8 für einen jolchen das Klügfte, wenn er, um ungestört
+und ungehudelt er felbft zu seyn, fid, fo lange er lebte, am
+Genusse feiner eigenen Gedanken und Werke genügen ließe und
+die Welt nur zum Erben feines reihen Dafeyns einfegte, deffen
+bloßer Abdruck, gleichsam Ichnolith, ihr erft nach feinem Tode
+zu Theil würde. (Vergl. Byron, Prophecy of Dante, Gin:
+
+Zudem aber ijt was ein Mann von Genie pr den Andern
+voraus Hat nicht auf die Thätigkeit feiner höchsten Kräfte be-
+schränkt. Sondern, wie ein außerordentlich wohlgebauter, ges
+lenker und behender Mensch alle feine Bewegungen mit auss
+uehmender Leichtigkeit, ja, mit Wohlbehagen vollzieht, indem er
+an ber Thätigleit, zu ber er fo besonders glüd(id) ausgeftattet
+ft, unmittelbare Freude hat, biefe[be daher aud) oft zwecklos
+ausübt; wie er ferner, nicht bloß als Geil» oder Solo- Tänzer,
+die Sprünge madt, bie feinem Andern ausführbar find, fondern
+ah in den leichtern Zanzjchritten, welche Andere ebenfalls
+machen, ja fefojt im bloßen Gange, durchweg feine feltene Feder⸗
+
+
+84 - Den Intelleft überhaupt
+
+
+fraft unb Behendigkeit verräth; — fo wird ein wahrhaft über:
+legener Geift nid) bloß Gedanken und Werfe hervorbringen,
+die von feinem Andern je ausgehn fünnten, und wird nicht in
+diefen allein feine Größe zeigen; fondern, indem das Erfennen
+und Denken felbft ihm eine natürliche und leichte Thätigkeit ilt,
+wird er fid) in derfelben alfezeit gefallen, wird daher jelbft das
+Geringere, aud) Andern Grreidjbare, bod) leichter, fchneller, vid
+tiger, als fie, auffaffen, wird daher an jeder erlangten Senntnig,
+jedem gelöften Problem, jedem finnreichen Gedanken, fei er nun
+eigen oder fremd, unmittelbare, lebhafte Freude haben; weshalb
+denn aud) fein Geift, ohne weitern Zwed, fortwährend thätig
+ijt und ihm baburd) zu einer [tet8 fließenden Duelle des Ge:
+nufjes wird; fo bag bie Langeweile, diefer beftändige Hausteufel
+ber Gewöhnlichen, fid) ihm nicht nähern Tann. Dazu fomut,
+daß bie Meifterwerfe der ihm vorhergegangenen, oder gleid-
+zeitigen großen Geifter eigentlih nur für ihn ganz da find. Der
+gewöhnliche, b. h. Schlechte, Kopf freut fid) auf ein ihm anempfoh-
+lenes großes Geiftesproduft etian fo, wie der Podagrift auf
+einen Ball; wenn gleich Diefer aus Konvenienz Hingeht unb
+Sener, um nicht zurüdzubleiben, es Lieft: denn gabrütjere hat
+ganz Recht, weni er fagt: tout l'esprit qui est au monde
+est inutile à celui qui n'en a point. — Zudem verhalten
+alle Gedanken ber Geiftreihen, ober gar Genialen, zu denen
+ber Gewöhnlichen, felbjt ba, wo fie im Wefentlichen die fefben
+find, fid) mie mit lebhaften, brennenden Farben ausgemalte
+Bilder zu bloßen Umriffen, ober mit schwachen Wafferfarben
+i(uminivten. — Dies Alles alfo gehört zum Lohn des Genies,
+zu feiner Entfhädigung für ein einfames Dafeyn in einer ihm
+heterogenen und nicht angemefjenen Welt. Weil nämlid alle
+Größe relativ ift; jo ift e8 einerlei, ob ich (age, Kajus fel ein
+großer Mann gemejen; ober, Kajus babe unter lauter erbärmlich
+Heinen Leuten leben müfjen: denn Brobdingnak und Lilfiput find
+nur dur) den Ausgangspunkt verfchieden.. So groß daher, fo
+bewunderungswürdig, fo unterhaltend ber Verfasser unfterblicher
+Werke feiner langen Nachwelt erfcheint; fo flein, fo erbärmlich,
+jo ungenießbar müffen ihm, während er Iebte, bie andern Men—
+[den erschienen seyn. “Dies habe ich gemeint, wo ich gefagt babe,
+daß, wenn vom Fuße des Thurmes bis zur Spike 300’ find;
+
+
+unb in jeber Beziehung betreffende Gebanfen. 85
+
+
+zuverläffig von der Spike bie zum Fuß gerade auch 300’ feyn
+werden”).
+
+Demzufolge hätte man fid) nicht wundern follen, wenn man
+die Leute von Genie meistens ungefellig, mitunter abftoßend ge-
+funden Bat; denn nicht Mangel an Gejelfigfeit ift daran Schuld:
+fonberm ihr Wandel durch diefe Welt gleicht dem eines Spazier-
+günger8 an einem fchönen, frühen Morgen, wo er, mit Ent-
+züden, die Natur betrachtet, in ihrer ganzen Frische und Pradt;
+jedoch an diefe fid) zu halten Dat: denn Gefellfchaft ift nicht zu
+finden; fondern höchstens nur Bauern, die, zur Erde gebüdt,
+das Land beitellen. So fommt c8 denn oft, daß ein großer Geift
+feinem Monolog vor ben in der Welt zu Baltenden Dialogen
+den Borzug giebt; läßt er fih bennod) ein Mal zu einem folchen
+herbei; (o kann e8 kommen, daß bie eere be[felben ihn bod)
+wieder in den Monolog zurüdfallen läßt, indem er den Inter-
+(ofutor vergißt, ober wenigitens unbefümmert, ob biejer ihn ver-
+ftehe, oder nicht, zu ihm redet wie das Kind zur Puppe.
+
+Beicheidenheit in einem großen Geifte würde den Leuten
+wohl gefallen: mur ijt fie leider eine contradictio in adjecto.
+Ein folder nämlich müßte den Gedanken, Meinungen und An-
+fihten, wie audj ber Art und Manier ber Andern, und zwar
+jener Andern, deren Zahl 9egio ijt, Vorzug und Werth vor
+feinen eigenen einräumen und diefe, [tet8 sehr davon abweichen-
+den, jenen unterordnen und anbequemen, ober aud) fie ganz
+unterdrüden, um jene walten zu laffen. Dann aber würde er
+eben nichts, oder das Selbe, hervorbringen und leiften, was
+audj bie Andern. Das Große, Aechte und Außerordentliche, Tann
+er vielmehr nur herborbringen, fofern er die Art und Weife, bie
+Gedanken und Anfichten, feiner Zeitgenofien für nichts achtet,
+ungeftört jchafft was fie tadeln, und verachtet was fie loben.
+Ohne diefe Arroganz wird fein großer Dann. Sollte nun aber
+fein Leben und Wirken etwan in eine Zeit gefallen seyn, die ihn
+nicht erkennen und fchägen kann; fo bleibt er bod) immer er
+selbst und gleiht dann einem vornehmen Reisenden, der die
+
+
+*) Die großen Geifter find ben Heinen Geiftern deshalb einige Scho⸗
+nung schuldig; weil fle eben nur vermöge ber Kleinheit Dieser große Geister
+fnb; indem Alles relativ ift,
+
+ [S. 86]
+
+
+Naht in einer elenden Herberge zubringen muß: er reift am
+andern Tage vergnügt weiter.
+
+Allenfalls fanm jedoch ein benfenber, ober dichtender Kopf mit
+feinem Zeitalter fchon zufrieden feyn, wenn e8 ihm nur vergönnt,
+in feinem Winkel ungeftört zu denfen und zu dichten; und mit
+feinem Glück, wenn e8 ihm einen Winkel fchenkt, in weldyem er
+denken und dichten kann, ohne fid) um die Andern Tümmern zu
+müffen.
+
+Denn daß das Gehirn ein bloßer Arbeiter im Dienfte des
+Bauches jei, ift freilich das gemeinfame Roos fat aller Derer,
+die nicht von ber Arbeit ihrer Hände leben, und fie mijfen fid
+reht gut darin zu finden. Aber für die großen Köpfe, b. 5.
+für Die, deren cerebrale Kräfte über das zum ‘Dienfte des
+Willens erforderlihe Maaß hinausgehn, ift e8 eine Sache zum
+verzweifeln. Daher wird ein Goldjer e8 vorziehn, nöthigenfalle
+in der befchränkteften Lage zu leben, wenn fie ihm bem freien
+Gebrauh feiner Zeit zur Entwidelung und Anwendung feiner
+Kräfte, alfo die für ihn unfchägbare Stufe, gewährt. Anders
+freilich ftebt e8 mit den gewöhnlichen Leuten, deren Muße ohne
+objektiven Werth, fogar für fie nicht ohne Gefahr ijt: fie fcheinen
+Dies zu fühlen. Denn bie zu beifpiellofer Höhe geftiegene Ted:
+nif unfrer Zeit giebt, indem fie bie Gegenstände des Luxus bet.
+vielfältigt und vermehrt, den vom Glüde Begünftigteren die
+Wahl zwifhen mehr Muße und Geiftesbildung einerjeits und
+mehr Luxus und Wohlleben, bei angeftrengter Thätigfeit, andrer-
+(eite: fie wählen, dharakteriftifch, in der Regel das Qegtere, unb
+ziehn den Champagner ber Stufe vor. Dies ift aud) fonfequent:
+denn ihnen ift jede Geiftesanftrengung, die nicht bem Zwecken
+des Willens dient, eine Thorbeit, und bie Neigung dazu nennen
+fie Erxeentricität. Danad) wäre das Beharren bei den Sweden
+des Willens und Bauches die Koncentricität: aud) ift allerdings
+der Wille das Centrum, ja, und der Kern der Welt.
+
+Im Ganzen jedoch find dergleichen Alternativen fein gar
+häufiger Fall. ‘Denn, wie bie meiften Menschen einerjeits Teinen
+Ueberfluß am Gelde haben, fondern Inapp das Nothdürftige; fo
+aud) anderererfeits nicht am Verstand. Sie haben defjen knapp
+fo viel, wie zum Dienfte ihres Willens, b. D. zur Betreibung
+ihres Erwerbs, ausreicht. Dies gethan, find fie froh, maulaffen
+
+
+und in jeber Beziehung betreffende Gedanken. 87
+
+
+ju bürfen, oder fid) an finnlichen Genüffen, aud) wohl an fin:
+biffen Spielen zu ergößen, an Karten, an Würfeln, ober aud)
+fie führen mit einander bie platteften Diskurse, oder fie puten
+fi Heraus und machen dann einander Büdlingee Schon Derer,
+die einen ganz kleinen Ueberfluß intelleftueller Kräfte haben,
+(nb Wenige. Wie nun Die, welche einen kleinen Ueberschuß
+am Gelde haben, fid) ein Plaisir madjen; fo machen auch bieje
+fich ein intellektuelle Plaisir. Sie betreiben irgend ein liberales
+Studium, das nichts abmirft, ober eine Kunft, unb find über-
+haupt (don eines objektiven Intereffes in irgend einer Art
+fähig; daher man aud) ein Mal mit ihnen Tonverfiren fanm.
+Mit ben Andern Hingegen ift e8 bejjer, fid nicht einzulaffen:
+denn mit Ausnahme der Fälle, wo fie gemachte Erfahrungen
+erzählen, aus ihrem Fache etwas berichten, oder allenfalls etwas
+von einem Andern Gelerntes beibringen, wird was fie fagen
+nid) des Anhörens werth seyn; was man aber ihnen jagt mer-
+den fie felten redit verftehen und fajjen, aud) wird es meiftens
+ihren Anfichten zumwiderlaufen. Balthazar Gracian bezeichnet fie
+daher febr treffend ald hombres que no lo son, — Menfchen,
+die feine find, und das Selbe fagt Giordano Bruno (della
+Causa, Dial. I.) mit biefen Worten: quanta differenza sia di
+contrattare e ritrovarsi tra gli uomini, e tra color, che
+son fatti ad imagine e similitudine di quelli (€. opp. ed.
+Wagner, Vol. I, p. 224), weldes Iettere Wort wundervoll
+übereinftimmt mit dem Ausspruch des fura: „Das gemeine
+Bolt fiebt wie Menfchen aus; Etwas diefem Gleiches Hab’ ich
+nie gefehn.” (S. den Kural bes Ziruvalluver, überfebt von
+Graul, €. 140.)*) — Für das Bedürfniß aufheiternder Unter:
+
+
+*) Menn man bie große Uebereinfiimmung des Gedankens, ja, bes Aus⸗
+drucks, bei jo weit auseinander liegenden Ländern und Zeiten bedenkt, fau
+man nicht zweifeln, daß fie aus bem Objelt entfprungen if.” Ich ftand
+haber gewiß nicht unter bem Einfluß biefer Stellen (von denen bie eine
+nod) nicht gebrudt, bie andere feit zwölf Jahren nicht in meinen Händen
+gewejen war), als id), vor etwa zwanzig Jahren, damit umging, mir eine
+Tabaksdose madjen zu Taffen, auf deren Dedel, wo möglich in Musaik, zwei
+ihone große Kaftanien abgebildet wären, nebit einem Blatt, welches verrieth,
+daß fie Roßlaftanien feien. Diejes Symbol follte eben jenen Gedanken jeber-
+yit mir bergegenwärtigen.
+
+
+ [S. 88]
+
+
+haltung unb um ber Ginjamfeit die SOebe zu benehmen, empfehle
+ih Hingegen die Hunde, an deren moralifchen und intelleftuel-
+len Gigenfdaften man faft allemal Freude und Befriedigung
+erleben wird.
+
+Indessen wollen wir überall uns hüten, ungerecht zu mer
+ben. Wie mich oft die Klugheit und bisweilen wieder vie
+Dummheit meines Hundes in Erjtaunen gejett hat; nicht anders
+it e8 mir mit bem Stenjdengeid)led)te gegangen. Unzählige
+Male Hat mich bie Unfähigkeit, gänzliche Urtheilslofigfeit und
+Beitialität defjelben in Entrüftung verfegt und habe id) in den
+alten Stoßfeufzer
+
+Humani generis mater nutrixque profecto
+Stultitia est,
+-einjtimmen müssen. Allein zu andern Zeiten wieder bin id) bare
+über erftaunt, wie bei einem foldhen Geschlechte vielerlei nütglidje
+und [dne Künfte unb Wiffenfchaften, wenn aud) ftetS von ben
+Einzelnen, den Ausnahmen, ausgegangen, bod) Haben entftehn,
+Wurzel fassen, fid) erhalten und vervollkommnen Tönnen, nnd
+wie dies Gefchlecht, mit Treue und Ausdauer, bie Werke großer
+Geifter, den Homer, den Platon, den Horaz u. s. w., zwei bie
+drei Jahrtausende hindurch, mittelft Abfchreiben und Aufbewahren
+fid) erhalten und vor dem Untergang gefhütt Hat, unter allen
+Plagen unb Gräueln feiner Geschichte; wodurch e$ bewiejem Dat,
+daß e8 den Werth derfelben erkannte; imgleichen über fpecielle,
+einzelne Leitungen, mitunter aud) über Züge von Geift, ober
+Urtheil, wie burd) Inspiration, bei Solchen, bie übrigens zum
+großen Haufen gehören, ja, bisweilen fogar bei diejem felbit,
+wann er, wie meiftens, fobald nur fein Chorus groß und voll-
+ftändig geworden, fehr richtig urtheilt: wie der Zusammenklang
+aud) ungeschulter Stimmen, wenn nur ihrer fehr viele find,
+stets harmonisch ausfällt. Die hierüber Hinausgehenden, welche
+man als Genies bezeichnet, find bloß bie lucida intervalla des
+ganzen Menfchengefchlehts. Sie lei[ten demnah was ben
+Uebrigen fchlehthin verfagt ift. Demgemäß ijt denn aud) ihre
+Originalität jo groß, daß nicht nur ihre Verfchiedenheit von
+ben übrigen Menfchen augenfällig wird, fondern jelbft bie In-
+dividualität eines Jeden von ihnen fo stark ausgeprägt ijt, daß
+zwijchen allen je bagemejenen Genies ein gänzlicher Unterschied
+
+
+unb in jeber Beziehung betreffende Gedanken 89
+
+
+des Charakters und Geiftes Statt findet, vermöge be[fen jedes
+derfelben an feinen Werfen der Welt ein Geschenk dargebradt
+bat, welches fie außerdem von gar feinem Andern in ber ge»
+jammten Gattung jemals hätte erhalten Tönnen. Darum eben
+(t Ariofto’8 natura lo fece, e poi ruppe lo stampo ein fo
+überaus treffendes unb mit Recht berühmtes Gleichniß.
+
+
+Vermöge des endlihen Maaßes der menfchlihen Kräfte
+überhaupt ift jeder große Geift bie8 nur unter der Vedingung,
+daß er, auch intelleftuell, irgend eine entfchieden Schwache Seite
+habe, alfo eine Fähigkeit, in welcher er bisweilen fogar den
+mittelmäßigrn Köpfen nachsteht. Es wirb bie seyn, welde
+feiner hervorftechenden Fähigkeit hätte im Wege ftehn Tönnen:
+bof wird es immer schwer Halten, fie, felbit beim gegebenen
+Einzelnen, mit Einem Worte zu bezeichnen. Eher läßt es fid)
+indireft ausdrüden: 3. B. Platons schwache Seite ift gerade. bie,
+worin des Ariftoteles Stärke befteht; und vice versa. Kant's
+schwache Seite ift Das, worin Goethe groß ift; und vice versa.
+
+
+Die Menschen verehren aud gern irgend etwas: nur
+hält ihre Verehrung meiftens vor ber unrechten Thür, wofelbft
+We fter bleibt, bis die Nachwelt kommt, fie zurechtzuweifen.
+Xadbem dies geschehn ift, artet bie Verehrung, melde der ge-
+bildete große Haufe dem Genie zollt, gerade jo wie bie, welde
+die Gläubigen ihren Heiligen widmen, gar leicht im Läppifchen
+Religniendienft aus. Wie Laufende von Chriften die Reliquien
+eines Heiligen anbeten, deffen Leben und Lehre ihnen unbefannt
+it; wie die Religion Taufender von Buddhaisten viel mehr in
+Mr Verehrung des Dalada (heiligen Zahne), oder fonftigen
+Dhatu (Reliquie)*) ja, ber fie einfhließenden Dagoba (Stupa),
+der ber heiligen Patra (Eßnapf), ober ber verfteinerten Fuß-
+Rapfe, ober des heiligen Baumes, den Buddha ge[üet hat, be-
+feht, als in der gründlichen Kenntniß unb treuen Ausübung
+
+
+*) Bergi. Spence Hardy, Eastern Monachism, London 1850, p. 224
+
+
+90 Den Intellekt überhaupt
+
+
+feiner hohen Lehre; fo wird Petrarka’s Haus in Arqua, Tafjo’s
+angebliches Gefüngnig in Ferrara, Shakespeare's Haus in Strat-
+ford, nebft feinem Stuhl darin, Goethe's Haus in Weimar, nebft
+Mobilien, Kant’8 alter Hut, imgleihen die vefpeltiven Auto-
+graphen, von Vielen aufmerfjam und ehrfurchtsvoll angegafft,
+welche die Werke ber Männer nie gelefen Haben. Sie Tönnen
+nun cben weiter nichts, als gaffen. Bei den Intelligenteren
+jebod) liegt der Wunfh zum Grunde, die Gegenjtünbe, welche
+ein großer Geift oft vor Augen hatte, zu je, wobei, durd eiue
+jeltfame Illusion, die Verwechselung obwaltet, daß fie mit dem
+SObjeft aud) das Cubjeft zurücbrächten, oder daß von btefem bem
+Dbjelt etwas anfleben müßte. Ihnen verwandt find Die, welche
+eifrig bemüht find, das Stoffliche ber Dichterwerke, 3. 1B. bie
+Fauftfage und ihre Citteratur, sodann bie vealen perfönlichen
+Berhältniffe und Begebenheiten im Leben bes Dichters, bie zu
+jeinem Werke Anlaß gegeben, zu erfor[d)en und gründlich fennen
+zu lernen: fie gleichen Dem, ber im Theater eine fchöne Defo-
+ration fiebt und nun auf die Bühne eilt, die hölzernen Gerüfte,
+von denen fie getragen wird, zu befichtigen. Beifpiele genug
+geben uns jetgt bie Fritifchen Forfcher mad) dem Faust und ber
+Tauftfage, nach der Friederife in Sefenheim, bem Gretchen in
+ber Weißadlergaffe und ber Familie der Lotte Werthers 1. f. m.
+Sie belegen die Wahrheit, daß die Menschen nicht für die Form,
+b. b. die Behandlung und Darftellung, fid intereffiren, fondern
+für bem Stoff: fie find (toffartig. Die aber, welde, ftatt die
+Gedanken eines Philofophen zu ftudiren, fid) mit feiner Lebens⸗
+geihichte bekannt machen, gleihen denen, welche, ftatt mit bent
+Gemälde, fid mit bem Rahmen bejchäftigen, ben Gefchmad feiner
+Schnitzerei und den Werth feiner Vergoldung überlegend.
+
+Sp weit gut. Aber nun giebt es nod eine Klaffe, deren
+Antheil ebenfalls auf das Meateriale und Berfönliche gerichtet
+ift, welche aber auf diefem Wege weiter geht und zwar big zur
+gänzlihen Nichtswürdigkeit. Dafür nämlih, daß ein großer
+Geift ihnen die Schäße feines Innerften eröffnet und durch bie
+äußerfte Anftrengung feiner Kräfte Werke hervorgebracht Dat,
+welche nicht nur ihnen, fondern aud) ihren Nachkommen, bis in
+bie zehnte, ja zwanzigfte Generation zur Erhebung und Erleud)-
+tung gereichen, dafür alfo, daß er ber Menschheit ein Geschenk
+
+
+unb in jeber Beziehung betreffende Gebanfen. 91
+
+
+gemadjt Hat, dem Tein anderes gleid)fommt, dafür halten biefe
+Buben fid) berechtigt, feine moraliihe Perfon vor ihren Richter⸗
+fup zu ziehn, um zu fehn, ob fie nicht dort irgend einen Makel
+an ihm entdeden Tönnen, zur Linderung der Pein, bie fie in
+ihres Nichts durchbohrendem Gefühl beim Anblid eines großen
+Beiftes empfinden. Daher rühren 3. B. bie weitläuftigen, in
+unzähligen Büchern unb Sournalen geführten Unterfuchungen des
+Lebens Goethe's von ber morafijd)en Seite, wie etman, ob er
+nicht biefe8 ober jenes Mädel, mit dem er als Jüngling eine
+giebelei gehabt, hätte heirathen follen und müssen; ob er nicht
+hätte follen, ftatt bloß redlich dem Dienfte feines Herrn obzu-
+liegen, ein Mann des Volks, ein deutfcher Patriot, würdig eines.
+Sites im ber Paulskirche, [em u. dgl. m. — Durch folden
+(hreienden Undank und hämifche Verkleinerungssucht, beweifen
+jene unberufenen Richter, daß fie moralifch eben folche Lumpe
+find, wie intelleftuell, — womit viel gefagt ift.
+
+
+Das Talent arbeitet um Geld und Ruhm: Hingegen ift
+die Zriebfeder, welche ba8 Genie zur Ausarbeitung feiner Werke
+bewegt, nicht [o Leicht anzugeben. Gelb wird ihm felten bafür.
+Der Ruhm ift e$ nicht: (o etwas können nur Sranzofen mehnen.
+Der Ruhm ift zu unfiher und, in der Nähe betrachtet, von zu
+geringem Werth: |
+
+Responsura tuo nunquàm est par fama labori.
+
+Ebenfalls ijf e8 nicht geradezu ba$ eigene Ergöken: denn
+diefes wird von der großen Anftrengung faft übermogen. Biel-
+mehr. ijt e8 ein Inftinkt ganz eigener Art, vermöge be[fem das
+geniale Individuum getrieben wird, fein Schauen und Fühlen
+in dauernden Werfen auszudrüden, ohne fid) dabei eines fer»
+neren Motivs bewußt zu (epu. Im Ganzen genommen, gefcdhieht
+t$ ans derfelben Nothwendigkeit, mit weldyer der Baum feine
+Früchte trägt, und erfordert von außen nichts weiter, als einen
+Boden, auf bem das Individuum gedeihen famm. Näher be-
+tradtet, ift e8 als .ob in einem folden Individuum der Wille
+zum Leben, als Geift ber Menfchengattung, fid) bewußt würde,
+hier eine größere Klarheit des Intellekts, durch einen feltenen
+Zufall, auf eine kurze Spanne Zeit, erlangt zu haben und num
+
+
+92 Den Intelleft überhaupt u. in jeber Beziehung betreffende Gebanfen.
+
+
+wenigftens bie Refultate, oder Produkte, jenes Haren Schaueng
+und Denkens, für die ganze Gattung, bie ja aud) bie[e8 Indi⸗
+viduums eigenftes Wefen ift, zu erwerben tradjtete, damit das
+Licht, welches davon ausgeht, nachmals wohlthätig einbrecdhen
+möge’ in bie Dunkelheit und Dumpfheit des gewöhnlichen Sen
+schenbewußtseyns. Hieraus alfo entfteht jener Inftinft, welcher
+das Genie treibt, ohne Rüdficht auf Belohnung, Beifall, ober
+Theilnahme, vielmehr mit Vernachlässigung der Sorge für fein
+perfünliches Wohl, emfig unb einfam, mit größter Anftrengung
+feine Werle zu vollenden, dabei mehr an die Nachwelt, als an
+bie Mitwelt, burd) weld e8 nur irre geleitet werden würbe,
+zu benfen; weil jene ein größerer Theil ber Gattung ift und
+weil im Laufe der Zeit die wenigen Urtheilsfähigen einzeln heran
+fommen. Es steht unterdeffen meiftens mit ihm wie Goethe
+feinen Künftler Klagen läßt:
+
+
+„Ein Fürft, ber bie Talente fchätte,
+Ein Freund, ber fid) mit mir ergößte,
+Die haben leider mir gefehlt.
+
+Sm Klofter fand id bumpfe Gönner:
+So hab’ ih, emfig, ohne Kenner
+Und ohne Schüler mich gequält.“
+
+
+Sein Werl, als ein heiliges Depofitum und die wahre Frucht
+feines Dafeyns, zum Eigentum ber Menfchheit zu madjen, es
+nieberfegenb für eine be[fer urtheilende Nachwelt, Dies wirb ihm
+dann zum Zweck, der allen andern Sweden vorgeht unb für ben
+er bie Dornenfrone trägt, welche einft zum Lorbeerfranze aus-
+ihlagen fol. Auf die Vollendung und Sicherftellung feines
+Wertes foncentrirt. fein Streben fid) eben fo entfchieden, wie
+das des Insekts, in feiner legten Geftalt, auf bie Sicherftellung
+feiner Eier und Vorforge für bie Brut, deren Dafeyn es nie
+erlebt: e8 deponirt die Eier ba, wo fie, wie es ficher weiß,
+einft Xeben und Nahrung finden werden, und ftirbt getroft,
+
+
+A. Das bisherige Mißlingen ber Philofophie ift noth-
+wendig unb daraus erklärlih, daß diefelbe, ftatt fid) auf das
+tiefere Verständniß ber gegebenen Welt zu befchränfen, fogleich
+darüber hinaus will unb bie legten Gründe alles Dafeyns, bie
+ewigen Verhältniffe aufzufinden fucht, welche zu denken unfer In⸗
+telleft ganz unfähig ift, dessen Fassungskraft burdaus nur für
+Das taugt, was bie Philofophen bald endliche Dinge, bald Er-
+ideinungen genannt haben, kurzum die flüchtigen Geftalten diefer
+Welt und Das, was für unfere Berfon, unjere Zwede und unfere
+Erhaltung taugt: er ift immmanent. Daher [off feine Philofophie
+aud immanent feyn und nicht fid) verfteigen zu überweltlichen
+Dingen, fondern fid) darauf befchränfen, die gegebene Welt von
+Grund aus zu verftehn: die giebt Stoff genug.
+
+19. Wenn e8 fo ift, jo haben wir an unjerm Intellekt ein
+armfäliges Gejdent der Natur: wenn er bloß taugt, bie Ver⸗
+hältniffe zu fassen, bie unjere erbärmliche, individuelle Eriftenz
+betreffen und bloß während ber kurzen Spanne unfers zeitlichen
+Dafeyns be[tebn, Hingegen Das, was allein werth ift, ein den-
+lenbe8 Wefen zu interejfiren, — die Erflärung unfers Dafeyns
+überhaupt, unb die Auslegung ber PVerhältniffe der Welt im
+Ganzen, kurz bie Lösung des Räthsels biefe8 Lebenstraumes, —
+wenn dies Alles gar nicht in ibn Hineingeht und er es nimmer-
+
+
+*) Echopenhauer fat zu biefem Kapitel ein Gefpräch aus feinem Jia»
+nufeript „Cogitats, angefangen 1830, im Februar, Berlin” beigefeht, ohne
+ben Ort beftimmt anzugeben, wo e$ einzufchalten fei. Ich gebe es bier zum
+Schluß bes Kapitels, ba Schopenhauer jolde Gespräche an ben Schluß eines
+Kapitels zu setzen pflegte (vergl. Welt als W. und $5. 3Bb. IT, Kap. 1, und
+die Meine dialogische Schlußbeluftigung zu Kap. X. des vorliegenden Bandes)
+und überdies für dieses Ge[prüd) das Ende bes Kapitels als Ort angebeutet
+hat, Der Herausg.
+
+
+mehr, auch wenn e8 ihm dargelegt würde, zu faffen vermöchte, —
+dann finde id) den Intellekt nicht werth, ibn auszubilden und
+mit ibm mid) zu befchäftigen: er ift ein Ding, nicht werth, (fid)
+
+A. Mein Freund, wenn wir mit ber Natur hadern, be-
+halten wir gewöhnlich Unrecht. Bedenke, Natura nihil facit
+frustra nec supervacaneum. Wir find eben bloß zeitliche, enb-
+(ide, vergünglide, traumartige, wie Schatten vorüberfliegende
+Wefen; was follte foldyen ein Intellelt, der unendliche, ewige,
+abfolute Verhältnisse fagte? Und wie follte ein folcher Intellekt
+diefe Berhältnifje wieder verlafien, um fid) zu den für uns allein
+realen, allein uns wirklich betreffenden, Heinen Verhältnissen
+unjer$ ephemeren Dafeyns zu wenden und mod) für bieje zu
+taugen? Die Natur würde burd) Verleihung eines solchen In-
+tellefts nicht nur ein unermeßlih großes Frustra gemacht, jon-
+dern ihren Zweden mit uns geradezu entgegen gearbeitet haben.
+Denn was würde e8 taugen, wie Shalejpeare jagt:
+
+
+So horridly to shake our disposition,
+With thoughts beyond the reaches of our souls.
+
+
+Würde eine fold volllommene und erfchöpfende metaphysische
+Einfiht uns nicht zu aller phhufifchen, zu allem unjern Thun
+und Treiben unfähig machen, vielleiht uns für immer in ein
+erftarrendes Entjeten versenken, wie Den, der ein Gespenst
+
+$8. (Ge ift aber eine verruchte petitio principii, bie bu
+madjt, daß mir bloß zeitliche, vergängliche, endliche Wesen find:
+wir find zugleich unendlich, ewig, das urjprüngliche Princip der
+Natur jelbit: daher ift e8 wohl der Mühe werth, unabläffig zu
+fuhhen, „ob nicht Natur zulegt fid) bod) ergründe”.
+
+A Nach deiner eigenen Metaphyfit find wir Das nur in
+gewilfen Sinne, als Ding an fij, nicht als Erfcheinung; ale
+
+
+*) 9tad) der Schlegel- Tied’ichen Uebersetzung:
+bag wir Narren ber Natur,
+So furdtbarlih uns schütteln mit Gebanfer,
+Die unjre Seele nicht erreichen fann?
+
+
+inneres Princip der Welt, nicht als Individuen; als Wille zum
+Leben, nicht als Subjekte des individuellen Erkennens. Hier ijt
+mm von unferer intelligenten Natur die Rebe, nicht vom Willen,
+und als Intelligenzen find wir individuell und endlich; bemgemüg
+it aud) unfer Intelleft ein folder. Der Zwed unfers Lebens
+(ba id) mir einen metaphorifchen Ausdrud erlaube) ijt ein praf-
+tiiher, Fein theoretifcher: unfer Thun, nicht unfer Erkennen ge-
+hört der Ewigkeit an: diejes Thun zu leiten und zugleich unserm
+Villen einen Spiegel vorzuhalten, ift unfer Intelleft da, und
+dies [eijtet er. Ein Mehreres würde ihn bódjt wahrjcheinlich
+hiezu untauglich machen: fehn wir bod) fchon das Genie, biejen
+Heinen Ueberschuß von Intellekt, der Laufbahn des damit begabten
+Individuums Hinderlich feyn und es äußerlich unglüdlich machen,
+wenn e8 auch innerlich beglüden mag.
+
+$9. Wohl, daß du mid) an das Genie erinnerft! es wirft
+zum Theil die Thatfachen um, die bu rechtfertigen willit: bei
+ihm ijt bie theoretifche Seite abnorm überwiegend über bie prat»
+tie. Wenn e8 aud) nicht ewige Verhältniffe faffen fann, fo
+fieht e8 bod) fchon etwas tiefer in bie Dinge diefer Welt, atta-
+men est quodam prodire tenus. Und allerdings madt [don
+Dies den damit begünftigten Intellekt zum Auffaffen der end»
+lihen, irdischen Berhältniffe weniger taugfid) und einem Teleskop
+im Theater vergleichbar. Hier fcheint ber Punkt zu feyn, ‚wo
+wir uns einigen, unb bei dem unfere gemeinfame Betrachtung
+stille steht.

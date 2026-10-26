@@ -1,0 +1,269 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber Erziehung (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On education - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 504-509. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "Kapitel XXVIN. Ueber Erziehung. — $. 372. Der Natur unf"; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (73 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XXVIN. Ueber Erziehung. — $. 372. Der Natur unfers In", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 372 to § 376, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (3 made, S. 504 to S. 508); the chapter's range by the volume's own heads is S. 504-509.]
+
+Kapitel XXVIN.
+Ueber Erziehung.
+
+
+—
+
+
+$. 372.
+
+Der Natur unfers Intellekts zufolge follen die Begriffe
+duch Abftraftion aus den Anfhauungen entftehn, mithin
+biefe früher dafeyn, als jene. Wenn es nun wirklich diesen
+Gang nimmt, wie es der Fall ift bei Dem, der bloß die eigene
+Erfahrung zum Lehrer und zum Buche hat; fo weiß der Mensch
+ganz gut, welche Anschauungen es find, Die unter jeben feiner
+Begriffe gebören und von demselben vertreten werben: er kennt
+Beide genau und behandelt demnach alles ihm Borfommende
+richtig. Wir können diefen eg die natürliche Erziehung nennen,
+
+Hingegen bei der Fünftlichen Erziehung wird, durch Bor-
+jagen, Lehren und Lefen, der Kopf voll Begriffe gepfropft, bevor
+nod eine irgend ausgebreitete Befanntichaft mit der anfchaulichen
+Welt da if. Die Anfchauungen zu allen jenen Begriffen foll
+nun die Erfahrung nachbringen: bis dahin aber werben biefelben
+falfch angewendet und demnach die Dinge und Menjchen falsch
+beurtheitt, falich gesehn, falic behandelt. So geschieht «8, daß
+die Erziehung fchiefe Köpfe macht, und daher fommt es, daß
+wir in der Jugend, nad langem Lernen und Lefen, oft theils
+einfältig, theils verschroben in die Welt treten und nun bald
+ängftlich, bald vermeflen uns darin benebmen; weil wir ben Kopf
+vol Begriffe haben, die wir jegt anzumenben bemüht find, aber
+faft immer fie verfehrt anbringen. Dies ift die Folge jenes
+vorsgoy rreoregov, durch welches wir, dem natürlichen Entwicke⸗
+lungsgange unsers Geified gerade entgegen, zuerft die Begriffe
+und zulegt die Anfchauungen erhalten. Nachmals hat dann eine
+lange Erfahrung alle jene, durch faliche Anwendung der Begriffe
+entstandenen Urtheile zu berichtigen. Dies gelingt felten ganz
+
+ [S. 504]
+
+
+Daher haben fo wenige Gelehrte den gejunden Menschenverstand,
+wie er bei ganz Ungelehrten Häufig ift.
+$. 373.
+
+Dem Gefagten zufolge wäre der Hauptpunft in der Erzie-
+bung, daß die Befanntihaft mit der Welt, deren Erlan—
+gung wir ald den Zwed aller Erziehung bezeichnen können, vom
+rechten Ende angefangen werde. Died aber beruht, wie ge-
+zeigt, hauptfächlich darauf, daß in jeder Sade die Anschauung
+dem Begriffe vorhergehe, ferner der engere Begriff dem wei—⸗
+teren, und fo die ganze Belehrung in der Drbnung gefchehe,
+wie bie Begriffe der Dinge einander vorausfegen. Sobald
+aber in diefer Reihe etwas überfprungen ift, entftehn mangelhafte,
+und aus diefen falfche Begriffe und endlich eine auf individuelle
+Art verfchrobene Weltanfiht, wie faft Jeder fie lange Zeit, die
+Meiften auf immer, im Kopfe herumträgt. Wer fich felbft prüft
+wird entdeden, daß über mande, ziemlich einfache Dinge und
+Verhältnisse das rechte, oder das deutliche Verftändnig ihm erft
+in fehr reifem Alter und bisweilen plögli aufgegangen ift.
+Dann lag bier fo ein dunkler Punkt feiner Befanntfchaft mit
+der Welt, der entftanden war durch Lleberfpringen des Gegen-
+standes, in jener feiner erften Erziehung, fei fie nun eine Fünft-
+liche durch Menschen, oder bloß eine natürliche, durch eigene
+Erfahrung, gewesen.
+
+Demnach sollte man die eigentlich natürliche Reihenfolge der
+Erkenntnisse zu erforschen suchen, um dann methodisch, nach der⸗
+selben, die Kinder mit den Dingen und Verhältnissen der Welt
+bekannt zu machen, ohne daß sie Flausen in den Kopf bekämen,
+als welche oft nicht wieder auszutreiben sind. Dabei hätte man
+zunächst zu verhüten, daß die Kinder nicht Worte gebrauchten,
+mit denen fie keinen deutlichen Begriff verbänden. Die Haupt-
+fache bliebe aber immer, daß die Anfchauungen den Begriffen
+vorbergiengen, und nicht umgefehrt, wie Dies der gewöhnliche,
+aber eben jo ungünftige Fall ift, als wenn ein Kind zuerft mit
+den Beinen, oder ein Vers zuerft mit dem Reim auf die Welt
+fommt. Während nämlich der Geift des Kindes noch ganz arm
+an Anschauungen ift, prägt man ihm schon Begriffe und Urtheile
+ein, recht eigentliche Vorurtheile: diefen fertigen Apparat bringt
+ed num nachher zur Anfchauung und Erfahrung mit; flatt daß
+
+
+Ueber Erziehung. 505
+
+
+erft aus diesen jene sich hätten abfegen follen. Die Anfchauung
+ift vieljeitig und reich, fann es daher an Kürze und Schnelle
+dem abftraften Begriffe, der mit Allem bald fertig ift, nicht
+gleichthun: daher wirb fie die Berichtigung foldher vorgefaßten
+Begriffe erft fpät, oder gar nie zu Ende bringen. Denn, melde
+ihrer Seiten fie auch ald mit denfelben im Widerspruch vor—
+weile; fo wird ihre Ausfage vorläufig als eine einfeitige ver-
+worfen, ja, wird verleugnet, und werden gegen fte die Augen
+geichloflen; damit nur nicht der vorgefaßte Begriff dabei zu
+Schaden fomme So gefhieht es denn, daß mander Mensch
+fi fein Leben hindurch herumträgt mit Flaufen, Grillen, Nüden,
+Einbildungen und Borurtheilen, bie bis zur firen Idee gehen,
+Hat er doch nie verfucht, für fich felber gründliche Begriffe aus
+Anfhauungen und Erfahrungen abzuziehn; weil er Alles fertig
+überfommen bat: Died eben madt ihn, madıt Unzählige, fo flach
+und feiht. Statt Dessen alfo follte, in der Kindheit, der naturs
+gemäße Gang der Erfenntnißbildung beibehalten werden. Kein
+Begriff müßte anders, als mittelft der Anfchauung eingeführt,
+wenigstens nicht ohne fie beglaubigt werden. Das Kind würde
+dann wenige, aber gründliche und richtige Begriffe erhalten.
+Es würde lernen, die Dinge mit feinem eigenen Maafftabe
+zu meflen, ftatt mit einem fremden. Dann würde ed taufend
+Grillen und VBorurtheile nie fallen, auf deren Austreibung der
+befte Theil der nachfolgenden Erfahrung und Lebensichule ver-
+wendet werden muß; und fein Geift würde auf immer an
+Gründlichfeit, Deutlichfeit, eigenes Urtheil und Unbefangenheit
+gewöhnt jeyn.
+
+Ueberhaupt follten Kinder das Leben, in jeder Hinficht,
+nicht früher aus der. Kopie Fennen lernen, ald aus dem Drigi-
+nal. Statt daher zu eilen, ihnen nur Bücher in die Hände zu
+geben, made man fie flufenmeife mit den Dingen und ben
+menschlichen Berhältniffen befannt. Bor Allem fei man darauf
+bedacht, fie zu einer reinen Auffaffung der Wirklichkeit anzufeiten
+und fie dahin zu bringen, daß fie ihre Begriffe ftetS unmittelbar
+aus der wirklichen Welt fchöpfen und fie nach der Wirklichkeit
+bilden, nicht aber fie anderswo herholen, aus Büchern, Mähr-
+hen, oder Reden Andrer, und folhe Begriffe nachher schon fer-
+tig zur Wirklichfeit hinzubringen,ewelche letztere fie alsdann, ben
+
+ [S. 506]
+
+
+Kopf voll Chimären, theils falsch auffafien, theils nach jenen
+Chimären umzumobeln fruchtlos fi bemühen, und fo durch Bei-
+des auf Irrwege geraten. Denn es ist unglaublich, wie viel
+Nachtheil früh eingepflanzte Chimären und daraus entitanbene
+Borurtheile bringen: die fpätere Erziehung, welche die Welt und
+das wirkliche Leben und geben, muß alddann hauptsächlich auf
+Ausmerzung jener verwendet werben. Hierauf beruht auch die
+Antwort ded Antifthenes, melde Diogenes Laertius (VI, T)
+berichtet: zowrmdsıs rı wv nadmueıov avayaaıprarov, &pM,
+„co xaxa amoyuadsıw.“ (interregatus quaenam esset disci-
+plina maxime necessaria, Mala, inquit, dediscere.)
+8. 374.
+
+Eben weil früh eingefogene Irrthümer meiftens unauslöjch:
+lich find und die Urtheilsfraft am fpäteften zur Reife fommt,
+soll man die Kinder, bis zum fechözehnten Jahre, von allen Leh—
+ven, worin große Irrthümer feyn können, frei erhalten, also von
+aller Philosophie, Religion und allgemeinen Anfichten jeder Art,
+und fie bloß solche Dinge treiben laflen, worin entweder feine
+Irrthümer möglich find, wie Mathematif, oder feiner sehr ge
+fährlih ift, wie Spraden, Naturkunde, Geschichte u. s. w.,
+überhaupt aber in jedem Alter nur solche Wiffenfchaften, die dem-
+felben zugänglid und ganz und gar verftändlich find. Die Kind-
+heit und Jugend ift die Zeit, Data zu fammeln und das Ein-
+zelne fpeciell und von Grund aus kennen zu lernen; hingegen
+muß das Urtheil im Allgemeinen noch fuspenbirt bleiben und bie
+festen Erflärungen hinausgefchoben werden. Man lafle die Ur—
+theilöfraft, da fie Reife und Erfahrung vorausjest, noch ruhen,
+und hüte fih, ihr dur Einprägung von Borurtbeilen zuvorzu-
+fommen, ald wodurd man fie auf immer lähmt.
+
+Hingegen ift das Gedächtniß, da es in ber Jugend feine
+größte Stärke und Tenacität hat, vorzüglich in Anspruch zu neb-
+men, jedoch mit foragfältigfter, aus ffrupulöfer Ueberlegung hervor-
+gegangener Auswahl. Denn, da das in ber Tugend Wohler-
+lernte auf immer haftet; fo follte diefe Föftliche Anlage zu mög—
+lichstem Gewinne benugt werben: weil nun aber dem Menschen
+nur wenige Jugendjahre befchieden find und auch die Kapacität
+des Gedächtnisses überhaupt, und noch mehr die des individuel⸗
+len, doch immer eine limitirte ist; jo käme Alles darauf an,
+
+
+Ueber Erziehung. 507
+
+
+dasselbe mit dem Wefentlichften und Michtigften in jeder Art,
+unter Ausfchließung alled Lebrigen, anzufüllen. Diese Auswahl
+folite ein Mal von den tüchtigften Köpfen und den Meiftern in
+jedem Race mit der reiflichften Leberlegung gemacht und ihr
+Resultat feftgeftellt werden, Zum Grunde Liegen müßte ihr eine
+Sichtung des dem Menfchen überhaupt und des für jedes beion-
+dere Gewerbe, oder Fach, zu willen Nöthigen und Wichtigen.
+Die Kenntniffe der erfteren Art müßten dann wieder in ftufen-
+meife erweiterte Kursus, oder Enfyflopäbien, je nach dem Grade
+alfgemeiner Bildung, die Jedem, nad Maaßgabe feiner äußern
+Berhältniffe, zugedacht ift, abgetheilt werden: von der Beichrän-
+fung auf nothbürftigen Wrimärunterricht an, bis auf den Inbe—
+griff sämmtlicher Lehrgegenftände der philofophifchen Fafultät
+hinauf. Die Kenntniffe der zweiten Art nun aber blieben ber
+Auswahl der wahren Meifter in jedem Fache überlaflen. Das
+Ganze gäbe einen fpeciell ausgeführten Kanon der intellektuellen
+Erziehung, welcher freilich alle 10 Jahre einer Revifion bebür-
+fen würde. Durch folde Beranftaltungen alfo würde man Die
+Jugendkraft des Gedächtniffes zu möglichftem Vortheile benugen
+und der fpäter auftretenden Urtheilskraft vortrefflichen Stoff
+überliefern.
+$. 375.
+
+Die Reife der Erfenntniß, d. b. die Vollkommenheit, zu
+der diefe in jedem Einzelnen gelangen fann, befteht darin, daß
+eine genaue Verbindung zwifchen feinen fämmtlichen abftraften
+Begriffen und feiner anfchauenden Auffaffung zu Stande gefom-
+men fei; jo daß jeder feiner Begriffe, unmittelbar oder mittel-
+bar, auf einer anfchaulichen Bafıs ruhe, als wodurd allein der-
+felbe realen Werth hat; und ebenfalls, daß er jede ihm vorfom-
+mende Anfchauung dem richtigen, ihr angemeflenen Begriff zu
+fubfumiren vermöge. Diefe Reife ift allein das Werf ber Er-
+fahrung und mithin der Zeit. Denn, da wir unfere anfchauli-
+hen und unsere abftraften Erfenntniffe meiftend feparat erwer⸗
+ben, erftere auf dem natürlihen Wege, legtere durch gute und
+Schlechte Belehrung und Mittheilung Anderer; fo ift in der Ju—
+gend meiftens wenig Uebereinftimmung und Verbindung zwischen
+unfern, dur bloße Worte firirten Begriffen und unfrer, durch
+die Anschauung erlangten realen Erfenntniß, Beide fommen erft
+
+ [S. 508]
+
+
+allmalig einander näher und berichtigen sich gegenfeitig: aber erfi
+wann fie mit einander ganz verwachsen find, ift Die Reife ver
+Erfenntnig da. Diefe Reife it ganz unabhängig .von der fon-
+fligen, größern, oder geringern Vollkommenheit der Fähigkeiten
+eines Jeden, ald welche nicht auf dem Zufammenhange ber ab-
+ftraften und intuitiven Erfenntniß, fondern auf dem intenfiven
+Grade Beider beruht.
+$. 376.
+
+Für den yraftifhen Menschen ift das nöthigfte Studium
+die Erlangung einer genauen und gründlichen Kenntnif davon,
+wie es eigentlich in der Welt hergeht: aber es ift au
+das Iangwierigfte, indem es bie ins jpäte Alter fortbauert, ohne
+daß man ausgelernt hätte, während man in den Wiflenfchaften
+doch fhon in der Jugend das Wichtigfte bemeiftert. Der Knabe
+und Jüngling hat, in jener Erfenntniß, als Neuling die erften
+und fehwerften Lektionen zu lernen; aber oft hat felbft der reife
+Mann no viel darin nachzuholen. Diese schon an fich bebeu-
+tende Schwierigfeit der Sache wird nun noch verdoppelt dur
+die Romane, ald melde einen Hergang der Dinge und bed
+Verhaltens der Menschen darftellen, wie er in der Wirklichkeit
+eigentlich nicht Statt findet. Diefer nun aber wird mit ber
+Leichtgläubigfeit der Jugend aufgenommen und dem Geifte ein:
+verleibt; wodurch jest an die Stelle bloß negativer Unkunde
+ein ganzes Gewebe falicher VBorausfegungen, als pofitiver Irr—
+thum, tritt, welcher nachher fogar die Schule der Erfahrung
+felbft verwirrt und ihre Lehren in falichem Lichte erfcheinen läßt.
+Gieng der Jüngling vorher im Dunkeln; fo wird er jest noch
+von Srrlichtern irre geführt: das Mädchen oft noch mehr. Dies
+hat meiftens den nadıtheiligften Einfluß auf das ganze Leben.
+Entfhieden im Vortheil ftehn Hier die Dienfchen, welche in ihrer
+Jugend zum Romanelefen Feine Zeit, oder Gelegenheit, gehabt
+haben, wie Handwerfer u. dgl. Wenige Romane find von obi-
+gem Vorwurf auszunehmen, ja, wirken ehr im entgegengefesten
+Sinne: 3. B. und vor allen Gil Blas und fonftige Werfe des
+Lefage (oder vielmehr ihre fpanifchen Originale), ferner auch
+der vicar of Wakefield und zum Theil die Romane Walter
+Seott’d. Der Don Quijote kann ald eine fatirifhe Darftellung
+jenes Irrweges felbft angejehn werben.

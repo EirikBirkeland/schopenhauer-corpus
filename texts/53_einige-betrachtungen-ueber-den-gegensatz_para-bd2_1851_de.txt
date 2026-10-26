@@ -1,0 +1,334 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Einige Betrachtungen ueber den Gegensatz des [...] und der Erscheinung (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Some reflections on the antithesis of the thing-in-itself and appearance - the missing words are supplied from the chapter's own opening, and are marked as supplied, because this copy's heading is broken in the middle
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, Kapitel IV, sections 61-67. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ. NO PAGE NUMBERS are given: the running heads of this span are too broken to recover, so the chapter is cited by its sections. Its bounding headings both survived, which is why this one front-matter chapter could be cut at all - see GAP-4.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 10, the only front-matter chapter taken this pass. It is the chapter where he argues the thing-in-itself against mere appearance outside the World as Will and Vorstellung, and its opening defines Ding an sich as what exists independently of our perception - which is why the title's gap can be filled with some confidence. Its sections (61-67) fit between the neighbouring chapters' numbers, so the seam is consistent with spot-check 23's method even though no page markers could be made. English: no counterpart checked, so none is claimed. OCR warning: f for the long s and sometimes f for k, B for V, b for d; search both shapes (bin/schop-grep.js -f).
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-52. This is the ONLY chapter of the volume's front (S. 1-169) that could be cut with confidence this pass, because both of its bounding display headings survived: here "V. Einige Betrachtungen über den Gegenfag des a I an 1 und der Erfheinung. 5. 61. D" and, where the chapter ends, "V. Einige Worte über den Pantheismus. $. 68. Die in jegiger". The title's middle words are broken in this copy; what can be read is "Einige Betrachtungen ueber den Gegensatz des ... und der Erscheinung", and the opening sentence ("Ding an sich bedeutet das unabhaengig unsrer Wahrnehmung Vorhandene...") is what identifies the subject. The chapter runs from section 61, as its own heading states, and the next chapter opens at section 68, so sections 61-67 is the whole of it. NO PAGE NUMBERS: the running heads of this span are too broken to recover, so no page is claimed here and the chapter must be cited by its sections. The volume's head map places Zur Logik und Dialektik at S. 24 and Zur Philosophie und Wissenschaft der Natur at S. 88, which is where this chapter lies, but that is a map and not a citation. OCR warning as elsewhere: f for the long s and sometimes f for k, B for V, b for d; the long s has been normalised to s (235 here).
+
+V.
+
+
+Einige Betrachtungen über den Gegenfag des a I
+an 1 und der Erfheinung.
+
+
+5. 61.
+
+Ding an fich bedeutet das unabhängig von unfrer Wahrs
+nehbmung Vorhandene, alfo das eigentlich Seiende. Died war
+dem Demofritos die geformte Materie: das Selbe war ed im
+Grunde noch dem Lode: Kanten war es — x; mir Wille.
+
+Wie gänzlich Demofritos die Sache schon in diesem Sinne
+nahm und daher an bie Spige biefer Zufammenftellung gehört,
+belegt folgende Stelle aus dem Sertus Empirifus (adv. math,
+L. Vu. &. 135), welcher deflen Werke felbft vor fi - und
+meiftend wörtlich aus ihnen citirt:
+
+Amuoxgirog ds OTı usv avanpıı Tu yawopeva Tas —R
+00V, za Tovewv Asysı undev pawsodn zur alydeıay, alla
+uovov zart dokav almdeg de 8v ToIs 0vCIW UnTapysıY TO 0T0-
+uovc zıvaı x x8v0» U.f.iw. (Democritus autem ea quidem
+tollit, quae apparent sensibus, et ex iis dicit nihil ut vere
+est apparere, sed solum ex opinione; verum autem esse
+in iis, quae sunt, atomos et inane). Ich empfehle, die ganze
+Stelle nachzulefen, wo dann ferner noch vorfommt: even uw vu»
+oloy Exaorov sOTıy, m oux 80T, ov Ovvısuev‘ (vere quidem
+nos, quale sit vel non sit unumquodque, neutiquam intel-
+ligimus), au: sten 0iov &xacrov (sort) yıyvworsıy &v arogı
+&0u' (vere scire, quale sit unum quodque, in dubio est),
+Died Alles befagt denn doch eben: „wir erfennen nicht die Dinge
+nah Dem, was fie an sich feyn ‚mögen, fondern bloß wie fie ers
+scheinen,“ und eröffnet jene, vom entschiedensten Materialismus
+ausgehende, aber zum Idealismus — mit mir sich ab⸗
+schließende Reihe.
+
+
+78 Einige Betrachtungen über ben Gegensah
+
+
+8. 62.
+
+Wie wir von der Erdkugel bloß die Oberfläche, nicht aber
+die große, solide Masse des Innern kennen; fo erkennen wir em-
+pirifch von ben Dingen und ber Welt überhaupt nichts, als nur
+ihre Erscheinung, d. i. die Oberfläche. Die genaue Kenntniß
+biefer ift die Physik, im’ melteften Sinne genommen. Daß aber
+diefe Oberfläche ein Inneres, welches nicht bloß Fläche fei, fons
+dern kubischen Gehalt ‚habe, voraussetzt, ift, nebst Schlüssen auf
+die Beschaffenheit desselben, das Thema der Metaphysik. Nach
+den Gesetzen der bloßen Erscheinung das Wesen an sich selbst der
+Dinge konstruiren zu wollen, ist ein Unternehmen, dem zu ver—
+gleichen, daß Einer aus bloßen Flächen und deren iss ben
+Arreomettingtn Körper fonftruiven wollte.
+
+
+$. 63. |
+
+Weil segliches Wesen in der Natur zugleich Erscheinung
+und Ding an sich, ober auch natura naturata und natura
+naturans, ist; fo if es deingemäß einer zwiefachen Erffärung
+fähig, einer physischen und einer metaphysischen. Die phy-
+sische ift allemal aus der Ursache; die metaphysische allemal
+aus dem Willen: denn biefer ist ed, der in der erkenntnißlo⸗
+fen Natur sich darftellt al8 Naturfraft, höher Hinauf als Le—
+bendfraft, in Thier und Menfch aber den Namen Willen er>
+Halt? Streng genommen, "wäre demnach, an einem gegebenen
+Menschen, der Grad und die Richtung feiner Intelligenz und die
+moralifche Beschaffenheit feines Charakters möglicherweise auch
+rein phyfifch abzufeiten, nämlich erstere aus der Befchaffenheit
+feines "Gehirns und Nervensystems, nebst darauf einwirkendem
+Blutumlauf; letztere aus der Beschaffenheit und Zusammenwir⸗
+fung feines Herzens, Gefäßsystems, Blutes, Lungen, Leber, Milz,
+Nieren, Intestina, Genitalia u. s. w., wozu aber freilich eine noch
+viel genauere Kenniniß der Gesetze, melde ben rapport du phy-
+sique au moral regeln, ats selbst Bichat und Cabanis Ber
+faßen, erfordert wäre. Sodann Tiefe Beides sich noch auf die
+entferntere physische Urfache, nämlich die Beschaffenheit feiner
+Eltern, zurückführen; indem diese nur zu einem ihnen gleicher
+Wefen, nicht aber zu einem höhern und beffern, den Keim fies
+fern fonnten. Metaphysisch Hingegen müßte ver felbe Mensch
+
+
+des Dinges an füh und ver Erscheinung. 79
+
+
+erflärt werben, ald die Erfiheinung feines eigenen, völlig freien
+und urfprünglichen Willens, der den ihm angemefienen Intellekt
+sich fchuf; daher denn alle feine Thaten, fo nothiwenbig fie auch
+ans feinem Charakter, im Konflift mit den gegebenen Motiven,
+hervorgehn, und dieser wieder ald das Rejultat feiner Korporifas
+ton auftritt, dennoch ihm gänzlich beizumefien find. Metaphy⸗
+sisch ift nun aber auch der Unterfchieb zwifchen ihm und feinen
+Eltern fein abfoluter.
+$. 64.
+
+aAlles Verstehn ist ein Akt des Vorstellens, bleibt da⸗
+her wesentlich auf dem Gebiete der Vorstellung: da nun diese
+nur Erscheinungen liefert, ist es auf die Erscheinung beschränkt.
+Wo dad Ding an sich anfängt, Hört die Erscheinung auf,
+folglich; auch die Vorstellung, und mit biefer das Verstehn. An
+deffen Stelle tritt aber hier das Seyende felbft, welches fih
+feiner bewußt wirb als Wille. Wäre biefes Sichbewußtwerden
+ein unmittelbares; fo ‚hätten wir eine völlig abäquate Erfenntniß
+bes Dinges an fih. Weil es aber dadurch vermittelt ift, daß
+der Wille den organischen Leib und, mittelft eines Theiles def-
+selben, sich einen Intellekt: fchafft, dann aber erft Durch diesen sich
+im Selbstbewußtseyn als Willen findet und erkennt; fo ist biefe
+Erfenntniß des Dinges an fich erstlich durch das darin schon ent⸗
+haltene Auseinandertreten eines Erkennenden und eines Erfannz
+fen und sodann durch die vom verebralen Selbstbewußtseyn ınt-
+zertrennliche Form der Zeit bedingt, baber also nicht völlig ers
+schöpfend und adäquat. (Man vergleiche. hiemit Kap. 16 im
+2 Bande meines Hauptwerfs,)
+
+Hieran fchließt fih die, in meiner Schrift „Aber den Wil⸗
+len in der Natur“, unter der Rubrik Physische Aftronomie, Si 86
+bargelegte Wahrheit, daß, je deutlicher die Verständlichkeit eines
+Borganges, oder Berhältnifies, ift, dieses desto mehr in der blo⸗
+gen Erfpeinung liegt und nicht das Wesen an fich betrifft.
+
+
+; rd $. 6%.
+
+
+— wir * ein Naturwesen, z. B. ein Tier, i in sei⸗
+m Daseyn, Leben und Wirken anschauen und betvachten; fo
+steht es⸗ trotz Allen, was Zoologie und Zootomie darüber leh⸗
+
+
+80 Einige Betrachtungen über ven Gegensat
+ren, ald ein unergrünbliches Geheimniß vor und.. - Aber folite
+denn die Natur, aus bloßer Berftodtheit, ewig vor unsrer
+Frage verftummen? Ist fie nicht, wie alles: Große, offen, mit⸗
+theifend und fogar naiv? Kann daher ihre Antwort je aus ei⸗
+nem andern Grunde fehlen, als weil bie, Frage verfehlt war,
+fchief war, von falschen VBorausfegungen audgieng, oder gar einen
+Widerspruch herbergte? Denn, läßt es fich wohl venfen, daß
+ed einen Zufammenhang von Gründen und Folgen ba geben
+fönne, wo er ewig und wesentlich unentdeckt bleiben muß? —
+Gewiß, das Alles nicht. Sondern das Unergründliche ift es
+darum, weil wir nad) Gründen und: Folgen: forfchen auf einem
+Gebiete, dem dieje Form fremd ift, und wir also der Kette der
+Gründe und Folgen auf einer ganz falfchen Fährte nachgehn:
+Wir fuhen nämlich das innere Wefen der Natur, mweldes aus
+jeder Erfcheinung ung entgegentritt, am Leitfaden des Satzes vom
+Grunde zu erreihen; — ‚während doch dieser ‚die bloße Form
+ift, mit der unfer Intelleft die Erscheinung, di. die, Oberfläche
+der Dinge, auffaßt: wir aber wollen damit über: bie Erscheinung
+hinaus. Denn: innerhalb diefer ift er brauchbar und ausreichend:
+Da läßt 3. B. das Dafeyn eines gegebenen: Thieres sich verflä«
+ren, — aus feiner Zeugung. Diese nämlich ift im Grunde nicht
+geheimnißvoller, als der Erfolg jeder andern, sogar der einfache
+ften Wirfung aus ihrer Ursache; indem auch. bei einem solchen
+die Erklärung zulest auf das Unbegreifliche stößt. Daß, bei der
+Zeugung, ein Paar Mittelglieder des Zufammenhangs: mehr und
+fehlen, ändert nichts Wesentliches: denn, auch wenn wir fie. häte
+ten, ftänden wir doch am Unbegreiflichen. Alles, weil die Er⸗
+fheinung Ericheinung bleibt und nicht zum Dinge an: sich wird.
+Das innere Wesen der Dinge ift dem Sag, vom Grunde
+fremd, Es ift das Ding an fih, und das ift lauterer Wilke,
+Der ist, weil er will, und will, weil er ist. Er ist in *
+Wesen das —— Reale.
+
+
+$. 66.
+
+
+Der Grundiharafter aller Dinge ift Bergängligfeit: wir
+fehn in der Natur. Alles, vom Metall bis zum: Organismus,
+theild durch fein. Daseyn jelbft, theils durch ben Konflikt mit
+Underem,: fi) aufreiben und verzehren. Wie: könnie babei bie
+
+
+*
+
+
+bes Dinges am sich und der Erscheinung. 8
+
+
+Natur das Erhalten der Formen und Ernenern ber Individuen,
+bie zahllose Wiederholung bed Lebensprocefies, eine unenbliche
+Zeit hindurch, aushalten, ohne zu ermüden; wenn nicht ihr eige-
+ner Kern ein Zeitlofed und dadurch völlig Unverwüstliches wäre,
+ein Ding an fich, ganz anderer Art, als feine Erfcheinungen, ein
+altem Physischen heierogenes Metaphysisches? — Diefes ift ber
+Wille in und und in Allem.
+
+
+| $. 67.
+
+Wir klagen über die Dunkelheit, in ber wir babinleben,
+ohne den Zulammenhang des Daseyns im Ganzen, zumal aber
+ben unjerd eigenen Selbft mit dem Ganzen zu verfiehn; fo daß
+nicht nur unfer Leben kurz, fondern auch unfre Erfenntnig ganz
+auf dasselbe beichränft ift; ba wir weder über bie Geburt zurüd,
+no über den Tod hinaus fehn können, mithin unfer Bewußt⸗
+seyn gleichfam nur ein Blig if, der augenblicklich die Nacht er-
+beit; demnach es wahrlich ausfieht, als ob ein Dämon heim⸗
+tüdiich alles weitere Willen ung verbaut hätte, um fih an un-
+free Berlegenheit zu weiden.
+
+Diese Klage ift. aber eigentlich nicht berechtigt: benn fie ent-
+flieht aus einer Illusion, welche herbeigeführt wird durch bie fal-
+Ihe Grundanficht, daß das Ganze der Dinge von einem Intel-
+left ausgegangen, folglich als bloße Vorstellung dagewesen
+sei, ehe es wirklich geworben; wonach ed, ald aus ber Erfennt-
+niß entiprungen, auch der Erkenntniß ganz zugänglich, ergründ-
+lich und durch fie erfehöpfbar ‚fegn müßte, — Aber, der Wahr-
+beit nach, möchte es vielmehr fih fo verhalten, daß alles Das,
+was wir. nicht zu wiflen uns beklagen, von Niemanden gewußt
+werde, ja, wohl gar an fich felbft gar nicht wißbar, d. h. nicht
+vorstellbar, sei. Denn bie Borftellung, in beren Gebiet alles
+Erkennen Liegt und auf bie daher alles Willen fich bezieht, ift
+nur die äußere Seite des Daseyns, ein Selundäred, Hinzuge-
+fommenes, nämlich etwas, das nicht zur Erhaltung ber Dinge
+überhaupt, alfo des Weltganzen, nöthig war, fondern bloß zur
+Erhaltung der einzelnen thierischen Wesen. Daher tritt das Da⸗
+seyn der Dinge überhaupt und im Ganzen nur per accidens,
+mithin fehr befchränfter Weife, in die Erfenntniß: es bildet nur
+den Hintergrund. bes Gemaͤldes im animalifchen Beuußien, als
+
+
+8 Einige Betrachtungen über ben Gegenfab
+
+
+wo die Objekte des Willens das Wesentliche find und ben ersten
+Rang einnehmen. Nun enisteht zwar, mittelst dieses Accidens
+die ganze Welt in Raum und Zeit, d. h. die Welt als Borftet-
+fung, als welche außerhalb der Erkenntniß ein derartiges Da⸗
+feyn gar nicht hat; deren inneres Wefen hingegen, das an sich
+Eriftirende, von einem folchen Dafenn aber auch ganz unabhän⸗
+gig ist. Da nun alfo, wie gefagt, die Erkenntniß nur zum Ber
+huf der Erhaltung jedes thieriichen Individui da ist; fo ift auch ihre
+ganze Beichaffenheit, alle ihre Formen, wie Zeit, Raum u. f. w.
+bloß auf die Zwecke eines folchen eingerichtet: biefe nım erfor-
+dern bloß die Erfenntnig von Berhältniffen zwischen Einzelnen
+Erscheinungen, keineswegs aber die vom Wesen der Dinge U
+dem Weltganzen.
+
+Kant Hat nachgewiesen, daß die Probleme ber Meraphvsn
+welche Jeden, mehr oder weniger, beunruhigen, keiner bireften,
+überhaupt feiner genügenden Lösung fähig feien. Died nim aber
+beruht, im Testen Grunde, darauf, baß fie ihren Ursprung in beit
+Formen unfers Intellekts, Zeit, Raum und Ranfalttät, haben,
+während diefer Intelleft bloß die Bestimmung hat, dem indivi⸗
+duellen Willen feine Motive vorzufchteben, d. h. bie Gegenftände
+feines Wollens, nebft den Mitteln und Wegen, fidy ihrer zu bes
+mächtigen, ihm zu zeigen. Wird nun aber biefer Intellekt abi
+sive auf das Wefen ar fi der Dinge, auf das Ganze und den
+Aufammenhang der Welt gerichtet; fo gebären die besagten, ihm
+anhängenden Formen des Neben, Nach und Durd einander affer
+irgend möglichen Dinge ihm die metaphysischen Probleme, wie
+
+etwan vom Ursprung und Zweck, Anfang und Ende der Welt
+und des eigenen Selbst, von der Vernichtung dieses durch den
+Tod, ober deffen Fortdauer troß demfelben, von der Freiheit des
+Willens u. dgl. m. — Denken wir uns num aber jene Formen
+ein Mal aufgehoben und dennoch ein Bewußtseyn von ben Din⸗
+gen vorhanden; fo würben biefe Probleme nicht etwan gelöfl,
+fondern ganz verschwunden feyn und ihr Ausbrud feinen Sinn
+mehr haben. Denn sie enffpringen ganz und gar aus jenen For⸗
+men, mit denen ed gar nicht auf ein Berflehn ber Welt und des
+Dafeyns, fondern bloß auf ein Verstehn unfrer perfönfichen Zwede
+abgesehn ift.
+
+Diefe gefammte Betrachtung num Tiefert ung eine Erlaͤute⸗
+
+
+bes Dinges an sich und der Erfcheinung. 83
+
+
+rung und objeftive Begründung ber KRantifchen, von ihrem Urs
+beber nur von ber fubjeftiven Seite aus begründeten Lehre,
+baß bie Formen bes VBerftandes bloß von immanentem, nicht von
+tranfcendentem Gebrauche feien. Man könnte nämlich statt deffen
+auch jagen: der ntelleft ift physisch, nicht metaphysisch: d. h.
+wie er aus dem Willen, ald zu dessen Objeftivation gehörig,
+entsprossen ift; fo ift er auch nur zu dessen Dienfte da: dieser
+
+
+aber betrifft bloß die Dinge in der Natur, nicht aber irgend et- _
+
+
+was über diese hinaus Liegendes. Jedes Thier hat (mie ich Dies
+im „Willen in der Natur“ ausgeführt und belegt Habe) feinen
+Intelleft offenbar nur zu dem Zwecke, daß es fein Butter auf-
+finden und erlangen könne; wonach dann auch das Maaß beffel-
+ben beftimmt ist. Micht anders verhält es sich mit dem Men-
+hen; nur daß bie größere Schwierigkeit feier Erhaltung und
+bie unendliche Bermehrbarfeit feiner Bedürfnisse hier ein viel
+größeres Maaß Yon Intellekt nöthig gemacht hat. Bloß wann
+biejes, durch eine Abnormität, noch excedirt wird, ftellt sich ein
+völlig dienftfreier Ueberschuß bar, welcher, wann beträdit-
+dh, Genie genannt wird: Hiedurch wird nun ein folder Ins
+telleft zumächft nur recht objektiv: aber es kann dahin führen,
+baß er, im gewissem Grabe, felbft metaphysisch werde, ober we⸗
+nigstens strebe, es zu seyn. Denn eben in Folge feiner Objef-
+Hoität wird jeßt die Natur selbst, das Ganze der Dinge, fein
+Gegenftand und fein Problem. In ihm nämlich fängt die Na-
+tur allererfi an, sich selbst so vecht wahrzunehmen als etwas,
+weiches ift und doch auch wicht feyn Könnte, ober wohl auch
+anders feyn könnte; während im gewöhnlichen bloß normalen
+Iutelleft die Natur sich nicht deutlich wahrnimmt; — wie ber
+Müller nicht feine Mühle Hört, oder der Parfümeur nicht feinen
+Laden riecht. Sie fcheint sich ihm von felbft zu verfiehn: er ift
+in ihr befangen. Bloß in gewissen hellern Augenblicken wird
+er fie gewahr und erschrickt beinahe darüber: aber es giebt sich
+bald, Was demnach solche Normaltöpfe in der Philofophie lei⸗
+ften können, auch wenn fie haufenweise zufammenlaufen, ift bald
+abzufehn. Wäre hingegen der Intellekt, urjprünglich und feiner
+Bestimmung nach, metaphysisch; fo Fönnten fie, befonders mit vers
+einten Kräften, bie Philofophie, wie jede andere Wiflenichaft,
+
+
+6*
+
+
+Kapitel

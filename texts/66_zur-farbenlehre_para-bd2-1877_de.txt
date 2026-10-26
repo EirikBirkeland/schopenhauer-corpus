@@ -1,0 +1,1601 @@
+# TIER 1 PRIMARY (published work) | German original, collected edition of 1877 | a readable printing of the collected edition, 1877
+# title: Zur Farbenlehre (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On the doctrine of colours - the English title is this collection's rendering
+# year: 1877 printing of a work first published 1851
+# edition: Arthur Schopenhauer's saemmtliche Werke: Parerga und Paralipomena, zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), in the arrangement made by Julius Frauenstaedt; this layer does not state which edition it is, so none is claimed. Chapter VII of this volume, pages 190-214, sections 104-108 by ITS OWN numbering - which runs one ahead of the 1851 first edition, verified at six points by matching opening sentences (see the file header). Text layer scored 10.9 common words per hundred by bin/ia-read.js: readable, but it prints f for the long s, f for k and j for i here and there.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/arthurschopenha01schogoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 13, which got the FRONT of Parerga - lost in the 1851 scan, whose display headings are shredded across its first 169 pages (GAP-4) - by turning to a LATER printing whose OCR is clean. Two things to keep straight when quoting these files: the text-state is 1877, not 1851, being Frauenstaedt's arrangement and a later text; and the paragraph numbers run one ahead, so "§ 62" here is "§ 61" in the first edition. Where the same chapter exists in both printings (file 63 beside file 53) the collection holds two witnesses and says which it used. His colours doctrine as he restated it in Parerga - the practical answer for most colour questions while GAP-2's last item (the 1816 treatise, and its 1870 second version) is still out: cite this as 1877 and say that the 1816 book itself is not yet in the collection.
+
+[Note of this collection, not part of the print: this chapter comes from the READABLE printing in Arthur Schopenhauer's saemmtliche Werke, "Parerga und Paralipomena" zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), NOT from the 1851 first edition. That is a decision with two consequences, both recorded here rather than hidden. (1) The text is the collected edition as Julius Frauenstaedt arranged it, and this printing is dated 1877 on its title page, three years after his death; the layer does not give the edition number, so none is claimed. It is a LATER text-state than files 27 and 30-52: a quotation from these files is quoted as 1877, not as 1851, and its chapter numbers follow this edition's contents, which differ from the 1851 print's. (2) ITS PARAGRAPH NUMBERS RUN ONE AHEAD of the 1851 print - verified at six points, and at each the opening sentence is the same text, so the pairing is not guessed: Dinges an sich 1851 § 61 / here § 62 (the opening sentence being identical in both, which is what proves the pairing); Pantheismus 1851 § 68 / here § 69; Farbenlehre 1851 § 103 / here § 104; Ethik 1851 § 108 / here § 109; Nichtigkeit 1851 § 142 / here § 143; Selbstmord 1851 § 157 / here § 158. Below § 61 the two printings were not compared when this note was written, so the shift is asserted only where it was verified. Anyone citing a paragraph number must say which printing it came from. This volume's own table of contents gives the chapter as Kapitel VII on pages 190-214, and its opening paragraphs as § 104; the copy's heading in this layer reads "Kapitel VII. Zur Sarbenlehre. 8. 104. Da an ber llebergeugung von ber Wahrheit unb Wichtig⸗ feit meine" - the OCR mangles the word Kapitel now and one numeral, so the number is taken from the volume's contents, not from the heading's letters. Page markers: 0 made from the volume's GENERAL running head ("Schopenhauer, Parerga. II. 12" and its garbled twins - the OCR spoils that title differently on every page, which is why it was once thrown out as a junk line and why repetition could not identify it), recovered only where the number continues the sequence within twelve pages and falls inside the contents range for this chapter (none), plus 8 from heads naming this chapter (S. 196 to S. 212). Both are recovered, neither is estimated: where the OCR lost a head there is no marker. WHAT WAS TRIED AND DECLINED, pass 18: the general head was measured before it was trusted - only 8 lines in the whole 34,746 still spell 'Parerga', and loosening the test to mere shape (a short line with a comma, ending in a figure) turns up a handful per chapter whose numbers fall OUTSIDE the pages the contents give for that chapter, so they are furniture from another gathering, not this chapter's pages. The general head is therefore recorded as NO DATA, and these files are cited by chapter, by their own paragraph numbers, and by the few chapter heads that survived. Short OCR noise lines were dropped (31); the long s is normalised to s (404 here), and this layer also prints f for k and j for i now and then, so read a quotation against the scan.]
+
+Kapitel VII.
+Zur Sarbenlehre.
+
+
+Da an ber llebergeugung von ber Wahrheit unb Wichtig⸗
+feit meiner Theorie der Farbe die Gleichgültigkeit der Seitgenojjeu
+mic keineswegs ivre machen fonnte, babe id) diefelbe zwei Mal
+bearbeitet und herausgegeben: Deutsch, im apre 1816, unb
+Latein, im Jahre 1830, im dritten Bande ber Scriptores oph-
+thalmologici minores von I. Radius. Weil jebodj jener gänz-
+[ide Mangel an Theilnahme mir, bei meinem vorgerüdten Alter,
+wenig Hoffnung läßt, eine zweite Auflage diefer Abhandlungen
+zu erleben; *) jo will id) ba8 Wenige, was ich über den Gegen
+ffanb nod) beizubringen Babe, hier niederlegen.
+
+Mer zu einer gegebenen Wirkung die Ursache zu entbeden
+unternimmt, wird, wenn er überlegt zu Werke geht, damit an-
+fangen, die Wirkung selbst vollftändig zu unterjudjen: da bic
+Data zur Auffindung ber Ursache nur aus ihr geihöpft werben
+fónnen, und fie allein die Richtung und den Leitfaden zur Auf-
+findung der Ursache giebt. Dennoch Hat Keiner von Denen, bie
+vor mir Theorien ber Farben aufgeftellt haben, Dies gethan.
+Nicht allein Neuton ijt, ohne die zu erklärende Wirkung irgend
+genau gefannt zu haben, zur Auffuchung ber Urfache gejchritten,
+fondern auch feine Vorgänger Hatten e8 jo gemacht, unb jelbit
+Goethe, ber allerdings viel mehr, al8 bie Andern, die Wirkung,
+das gegebene Phänomen, also die Empfindung im Auge, unter-
+
+
+*) Die Abhandlung „Leber das Sehn unb bie Karben‘ ift jeboch 1854
+in zweiter, verbeflerter unb vermehrter, von Schopenhauer felbft bejorgter
+Auflage erfchienen, Leipzig bei S. F. Hartknoch. Der Herausg.
+
+
+Zur Farbenlehre. -191
+
+
+jut und dargelegt Hat, ijt darin noch nicht weit genug gegan-
+gen; da er jonj hätte anf meine Wahrheiten gerathen müssen,
+wee die Wurzel aller Theorie ber Farbe find umb zu ber fci»
+nigen bie Gründe enthalten. So aber kann ich ihn nicht aus-
+nehmen, wenn ich fage, bag Alle vor mir, von ben älteften bis
+zu den lebten Zeiten, nur darauf bedacht gewefen find, zu er
+forschen, welche Mobdififation entweder die Oberfläche eines
+Körpers, oder aber das fidt, fei e8 nun burdj Zerlegung in
+feine Beftandtheile, oder burd) Zrübung ober fonftige Verdunke⸗
+[mg erleiden müsse, um Farbe zu zeigen, b. D. um unferm
+Ange jene ganz eigenthümliche und [pecififfe Empfindung zu
+erregen, bie fid) durchaus nicht befiniren, jondern nur sinnlich
+nachweisen läßt. Statt Deifen mun aber tjt offenbar der metho-
+dische unb rechte Weg, fid) zunächst am diefe Empfindung zu
+wenden, um zu fehn, ob nicht aus ihrer näheren Beichaffenheit
+unb der Gesetzmäßigkeit ihrer Phänomene fid) herausbringen lasse,
+was physiologisch dabei vorgehe. Denn fo alferer[t bat man eine
+gründlihe und genaue SKenntniß ber Wirfung, als des Ge-
+gebenen, welche jedenfalls aud) Data liefern muß zur Erforschung
+der Urfache, als des Gesuchten, b. b. hier des äußeren Reizes,
+der, auf unfer Auge mirfenb, jenen phyfiologiichen Vorgang her-
+vorru[t. Nämlich für jede mögliche Modifikation einer gegebenen
+Wirkung muß fid) eine ihr genau entfprechende Modifikabilität
+re Urfache nachweisen fajjen; ferner, wo die Modifikationen
+dr Wirkung feine fcharfen Gränzen gegen einander, zeigen, ba
+dirfen auch in der Urfache dergleichen nicht abgejtedt seyn, fon-
+den muß aud) hier diejelbe Allmäligkeit der llebergünge ftatt-
+finden: endlih, wo die Wirkung Gegenfäße zeigt, b. D. eine
+gänzliche Umkehrung ihrer Art und Weije gejtattet, da miüffeu
+auch Hiezu die Bedingungen in der Natur der angenommenen
+lürjadje Tiegen, u. dgl. m. Die Anwendung diefer allgemeinen
+Grundsätze auf die Theorie ber Farbe ift leicht zu machen. Jeder
+mit dem Thatbestande Bekannte wirb fofort einjefm, daß meine
+Zheorie, welche die Farbe nur am fid) felbft, b. D. als gegebene
+fide Empfindung im Auge, betrachtet, schon Data a priori
+an bie Hand giebt, zur Beurtheilung der Neutonifchen und
+Goethe’fchen Lehre vom Objektiven der Farbe, b. D. von bem
+üuperen Urfadhen, bic im Auge folde Empfindung erregen: bei
+
+
+näherer Unterfuchung aber wird er finden, bag, vom Standpunkt
+meiner Xheorie aus, Alles für bie Goetfe'fde und gegen bie
+Neutonische Lehre spricht.
+
+Um hier, für Sachkundige, nur einen Beleg zu dem Ge—
+sagten zu geben, will ich mit wenigen Worten darlegen, wie die
+Richtigkeit des Goethe'schen physikalischen Urphänomens aus meiner
+physiologischen Theorie schon a priori hervorgeht. — Sit bie
+Farbe an sich, d. h. im Auge, die qualitativ halbirte, also nur
+theilweise erregte Nerventhätigkeit der Retina; so muß ihre äußere
+Ursache ein vermindertes Licht seyn, jedoch ein auf ganz be—
+sondere Weise vermindertes, die das Eigenthümliche haben muß,
+daß fie jeder Farbe gerade [o viel Licht zutheilt, als bem physio⸗
+logischen Gegensatz unb Komplement derselben Finsterniß (oxtepov).
+Dies aber kann, auf einem sicheren und allen Fällen genügenden
+Wege, nur dadurch geschehn, daß die Ursache der Helle in einer
+gegebenen Farbe, gerade die Ursache des Schattigen oder Dunkeln
+im Komplement derselben sei. Dieser Forderung nun genügt voll⸗
+kommen die Scheidewand des zwischen Licht und Finsterniß ein—
+geschobenen Trüben, indem sie, unter entgegengesetzter Beleuchtung,
+allezeit zwei sich physiologisch ergänzende Farben hervorbringt,
+welche, je nach dem Grade der Dicke und Dichtigkeit dieses
+Trüben, verschieden ausfallen, zusammen aber immer zum
+Weißen, b. h. zur vollen Thätigkeit ber Retina, einander cc
+gänzen werden. Demgemäß werden diese Farben, bei größter
+Dünnheit des Trüben, die gelbe und die violette seyn; bei zu-
+nehmender Dichtigkeit beffelben werden bieje in Orange und Blau
+übergehn, unb endlich, bei noch größerer, Roth und Grün werden;
+welches legtere jedoch, auf diefem einfachen Wege, nicht wohl
+darzuftellen ijt; obgleich der Himmel, bei Sonnenuntergang, es
+. bisweilen zu schwacher Erfcheinung bringt. Wird endlich die
+Trübe vollendet, b. b. bis zur Undurchdringlichkeit verdichtet; fo
+erscheint, bei auffallendem Lichte, Weiß; bei dahinter geftelltem,
+die Finfterniß, ober Schwarz — Die Ausführung diefer 33e
+tradjtungéart ber Sache findet man in ber lateinifchen Bearbei-
+tung meiner Yarbentheorie, S. 11.
+
+Hieraus erhellt, bag wenn Goethe meine phyfiologifche Far:
+bentheorie, welche die fundamentale und wefentliche ijt, fefbjt auf-
+gefunden hätte, er daran eine ftarfe Stüße feiner phufilalifchen
+
+
+Zur Farbenlehre. 193
+
+
+Grunbanfidjt gehabt haben und zudem nicht in den Irrthum ge
+ratben seyn würde, die Möglichkeit der Herftellung des Weißen
+aus Farben [djfedjtbin zu Teugnen; während die Erfahrung fie
+bezeugt, wiewohl ftet8 nur im Sinne meiner Theorie, niemals
+aber in dem der Neutonischen. Allein obwohl Goethe die Ma-
+terialien zur phhfiologifhen Theorie der Farbe auf das vollitän-
+digfte zufammengebracdht hatte, blieb es ihm verjagt, jene felbft,
+welche doc, als das Fundamentale, bie eigentlihe Hauptsache
+ift, zu finden. — Dies läßt fid) jebod) aus ber Natur feines
+Geistes erklären: er war nämlich zu objektiv dazu. Chacun a
+les défauts de ses vertus foll irgendwo Madame George
+Sand gejagt haben. Gerade die erftaunlide Objektivität
+seines Geiftes, welche feinen Dichtungen überall den Stempel des
+Genie'8 aufbrüdt, ftanb ihm im Wege, mo e$ galt, auf das
+Subjekt, hier das fehende Auge felbft, zurüdzugehn, um bajefbjt
+die letzten Fäden, an denen die ganze Ericheinung ber Farben⸗
+welt hängt, zu erfaffen; während hingegen ih, aus Kants Schule
+fommend, biejer Anforderung zu genügen auf's Beste vorbereitet
+war: daher fonnte ich, ein Jahr nachdem ich Goethe's peviónfidjem
+Einfluß entzogen war, die wahre, fundamentale und unumftößfiche
+Theorie ber Farbe herausfinden. Goethe's Trieb war, Alles rein
+objektiv aufzufaffen und wiederzugeben: damit aber war er bann
+ih bewußt, das Seinige gethan zu haben, und vermodte gar
+nicht, darüber hinauszugehn. ‘Daher fommt e8, bag wir in feiner
+Sarbenlehre bisweilen eine bloße Beschreibung finden, mo wir
+eine Erklärung erwarten. So schien ifm denn aud) hier eine
+rihtige unb vollftändige Darlegung des objektiven Hergangs ber
+Sache das fegte Grreid)bare. Demgemäß ift bie allgemeinfte und
+oberfte Wahrheit feiner ganzen Farbenlehre eine ausgesprochene,
+objektive Thatfache, die er felbit ganz ridjtig Urphänomen
+benennt. Damit hielt er Alles für gethan: ein richtiges „jo ist's“
+war ihm überall das legte Ziel; ohne daß ihm nad) einem „jo
+muß e8 feyn“ verlangt hätte. Konnte er bod) fogar fpotten:
+„Der Bhilofopb, ber tritt herein,
+Und beweift euch, e8 müßt’ fo seyn.“
+
+Dafür nun freifid) war er eben ein Poet und fein Philofoph,
+b. B. von bem Streben nad) den Iegten Gründen und bem in
+nerften Zufammenhange ber Dinge nicht befeelt, — ober befefien;
+
+
+194 Zur Farbenlehre.
+
+
+wie man will. Gerade deshalb aber Hat er die bejte Erndte
+mir, als Nachlefe, lassen miljjen, indem bie midjtigiten Aufschlüsse
+über ba8 Wesen ber Tarbe, die lette Befriedigung und der
+Schlüffel zu Allem, was Goethe Iehrt, allein bet mir zu finden
+(inb. Demgemäß verdient fein Urphänomen, nachdem id c6,
+wie oben kurz angegeben, aus meiner Theorie abgeleitet babe,
+diefen Namen nicht mehr. Denn e8 ijt nicht, mie er e8 nahm,
+ein fchlechthin Gegebenes und aller Erklärung auf immer Ent:
+zogenes: vielmehr ijt e8 nur die Urfache, wie fie, meiner Xheorie
+zufolge, zur Hervorbringung der Wirkung, afjo der Halbirung
+der Thätigkeit der Netzhaut, erfordert ijt. Eigentliches Urphä-
+momen ift allein diefe organifche Fähigkeit der Nekhaut, ihre
+Nerventhätigkeit in zwei qualitativ entgegengefeßte, bald gleiche,
+bald ungleiche Hälften auseinandergehn und fucceffiv hervortreten
+zu laffen. Dabei freifid) müssen wir ftem bleiben, indem, von
+hier an, fid) höchftens nur nod) Endurfachen abjehn lajfen; wie
+uns Dies in ber Phyfiologie durchgängig begegnet: alfo etwan,
+daß wir, durd) die Farbe, ein Mittel mehr haben, bie Dinge
+zu unterfcheiden und zu erfennen.
+
+Zudem hat meine Sarbentheorie vor allen andern den großen
+Borzug, daß fie über die Eigenthümlichkeit des Eindruds jeder
+Farbe Nechenfchaft ertheilt, indem fie diefe kennen lehrt als einen
+beftimmten Zahlenbruch der vollen Thätigleit ber Retina, der dann
+ferner entweder der + oder der — Seite angehört; wodurd)
+man bie fpecififche VBerfchiedenheit der Farben und das eigen:
+thümliche Wefen einer jeden verftehn lernt; während bingegen
+bie Neutonifche Theorie jene fpecififche Verjchiedenheit und eigen:
+thümliche Wirkung jeder Farbe ganz unerflärt läßt, ba ihr bic
+Farbe eben eine qualitas occulta (colorifica) der fieben homo-
+genen Lichter ijt, demgemäß fie jeder diefer fieben Farben einen
+Namen giebt und fic dann laufen läßt; und Goethe feinerjeits
+fid) damit begnügt, die Farben in warme unb kalte zu theilen,
+da8 Uebrige feinen äfthetifhen Betrachtungen anheim gebend.
+Nur bei mir alfo erhält man den bisher ftetS vermißten Zu—
+fammenhang des Wesens jeder arbe mit der Empfindung
+derfelben.
+
+3d) darf endlich meiner Farbentheorie nod) einen eigenthüm⸗
+lichen, wiewohl äußerlichen Vorzug vindiciren. Nämlich bei allen
+
+
+Zur Farbenlehre. 195
+
+
+neu entdedten Wahrheiten, vielleicht ohne Ausnahme, wird bald
+gefunden, bap schon früher etwas ihnen sehr Aehnliches gejagt
+morden jei unb nur ein Schritt bis zu ihnen gefehlt habe, ja,
+bisweilen gar, daR fie geradezu ausgefprochen, jedoch unbeachtet
+geblieben waren, weil (ofdje8 ohne Nachdrud gefchehn war, indem
+der Auffteller felbjt ihren Werth nicht erkannt und ihren Folgen-
+reichthum nicht begriffen hatte, welches ihn verhinderte, fie etgente
+ich auszuführen. In dergleichen Fällen alfo hatte man, wenn
+gítid) nicht die Pflanze, doch den Samen gehabt. Hievon munt
+madjt meine Farbentheorie eine gfüdítdje Ausnahme Nie und
+nirgends ijt e8 Jemanden eingefallen, die Farbe, diefe fo ob-
+jeftive Erfcheinung, als halbirte Thätigfeit ber Netzhaut zu be-
+tradjten und demgemäß jeder einzelnen Farbe ihren beftimmten
+Zahlenbruch anzumeifen, ber mit dem einer andern die Ein-
+heit ergänzt, welde das Weiße darftellt. Und bod) find biefe
+Brühe fo entfchieden einleuchtend, bap Herr Profeffor Rosas,
+indem er fie fid) aneignen möchte, fie geradezu als felbft-evident
+einführt, in feinem „Handbuch der Augenheilkunde”, Band 1,
+
+Allerdings aber kommt diefe augenfülfige Richtigkeit der bon
+mir aufgejtellten Brüche ber Cade jehr zu ftatten: denn bic
+jelben eigentlich zu beweifen, würde, bei aller ihrer Gewißheit,
+doch schwer jepm. Allenfalls Tieße e8 fid) auf folgende Art be- -
+merfftelfigen. — Man verfchaffe fid) vollfommen fchwarzen und
+volffommen weißen Sand und mifche diefe in sechs Verhältnifien,
+deren jedes einer der sechs Hauptfarben an Dunkelheit genau
+gleihlommt: bann muß fid ergeben, daß das Berhältniß des
+Ihwarzen zum weißen Sande bei jeder Farbe dem von mir der-
+ielben beigelegten Zahlenbruch entjpricht, alfo 3. 3B. zu einem
+dem Gelben an Dunkelheit ent[pred)enben Grau drei Theile
+weißen und ein Theil fchwarzen Sandes genommen wäre, ein
+dem Violetten entiprechendes Grau hingegen die Mifchung des
+Sandes gerade in umgekehrtem Verhältniß erfordert hätte;
+Grün unb Roth Hingegen von beiden gleich viel. Jedoch ent-
+fteht hiebei die Schwierigkeit, zu beftimmen, weldes Grau jeder
+Barbe an Dunkelheit gleihlommt. Dies Tieße fid) dadurch ent-
+fheiden, daß man die Farbe, hart neben dem Grau, durch dag
+Prisma betrachtete, um zu fehn, welches von beiden jid) bei der
+
+
+ [S. 196]
+
+
+Refraktion als Helles zum Dunkeln verhält: find fie hierin
+gleich, (o muß bie Refraktion feine Farbenerscheinung geben.
+
+Unfere Prüfung der Reinheit einer gegebenen Farbe, 5. B.
+ob biefe8 Gelb genau ein folches fei, oder aber ins Grüne, oder
+auch ins Drange falle, bezieht fid) eben auf bie genaue Richtig
+feit des burd) fie ausgedrüdten Bruchs. Daß wir aber dies
+rein arithmetifche Verhältnig nad bem bloßen Gefühl beurtheilen
+fónnen, erhält einen Beleg von der Musik, deren Harmonie
+auf den viel größeren und Tomplicirteren Zahlenverhäftniffen ber
+gleichzeitigen Schwingungen beruht, deren Töne wir jebod), nad
+dem bloßen Gehör, höchst genau und bod) arithmetisch beurthei-
+fen. — Wie die fieben Töne der Zonleiter fid) von den unzäh: |
+fige andern, ber Möglichkeit nach, zwifchen ihnen Tiegenden nur
+durch bie Rationalität ihrer Vibrationszahlen auszeichnen; fo
+auch die sechs, mit eigenen Namen belegten Farben von ben
+unzähligen zwifchen ihnen liegenden nur burd) die Nationalität -
+und Simplicität des in ihnen fid) darftellenden Bruches dar
+Thätigfeit ber Retina. — Wie ih, ein Inftrument ftimmend, -
+bie Richtigkeit eines Tons baburd) prüfe, daß ich feine Duint -
+ober Oktave anfchlage; fo prüfe id) bie Neinheit einer vor
+liegenden Farbe dadurd, bag ich ihr phyfiologifches Spektrum her-
+vorrufe, dessen Farbe oft leichter zu beurtheilen ijt, als fie felbft:
+fo 3. 9. Habe ih, daß das Grün des Grafes ftavf ins Gelbe
+fällt, bloß daraus erjehn, daß das Roth feines Spektrums ftarf
+ins Violette zieht. j
+
+
+Das Phänomen der physiologischen Farben, auf melden
+meine ganze Theorie beruht, wurde, nachdem Büffon es ent
+bedt Hatte, vom Pater Scherffer in Gemäßheit der Neuto-
+nifhen Theorie ausgelegt, in feiner „Abhandlung von den zu:
+fälligen Barben”, Wien, 1765. Da man diefe Erflärung ber
+Thatfachen in vielen Büchern und fogar nod in Cüvier's
+anatomie comp. (lec. 12, art. 1.) wiederholt findet, will id
+fie hier ausdrüdlich widerlegen, ja, ad absurdum führen. Sie
+geht dahin, daß bas Auge, burd) das längere Anfchauen einer
+Qarbe ermüdet, für diefe Sorte homogener Lichtftrahlen die
+Empfänglichleit verlöre, daher e8 dann ein gleich darauf ange:
+Ihautes Weiß nur mit Ausschluß eben jener homogenen (arbe
+
+
+Zur Barbenlehre. 197
+
+
+itrahlen empfände, weshalb es dafjelbe nicht mehr weiß jübe,
+jondern ftatt deffen ein Produkt ber übrigen fechs homogenen
+Strahlen, bie mit jener erften Farbe zufammen das Weiße aus-
+machen, emp[ünbe: bieje8 Produkt nun aljo foll die als physio⸗
+logisches Spektrum  eríd)einenbe Farbe feyn. Diefe Auslegung
+ver Sache läßt fid) nun aber ex suppositis als abfurd erfennen.
+Sem nad) angejdjautem Violett erblidt das Auge auf einer
+weißen (nod) beffer aber auf einer grauen) Fläche ein gelbes
+Spelttum. Diefes Gelb müßte nun das Produkt der, nad)
+Ausfonderung des PVioletten, übrig bleibenden sechs homogenen
+Yihter, alfo aus Roth, Drange, Gelb, Grün, Blau und Jue
+digohlau zusammengesetzt feyn: eine fchöne Mifchung, um gelb
+zu erhalten! Straßenkothfarbe wird fie geben, fonft nichts. Zu-
+dem ijt ja das Gelbe felbft ein homogenes Licht: wie follte c8
+denn erit das Resultat jener Mifchung feyn? Allein schon das
+einfache Faktum, daß ein Homogenes Licht, für fid) allein, voll
+lommen bie geforderte und phhfiologifcd als Spektrum ihm nad)-
+jolgende Farbe bes andern ift, wie Gelb des Violetten, Blau
+des Drangen, Roth des Grünen, und vice versa, ftößt bie
+Sherfferfche Erklärung über den Haufen, indem es zeigt, baf
+was nad) anhaltendem Anjchauen einer Farbe das Auge auf ber
+weißen Fläche erblidt nichts weniger, al8 eine Vereinigung der
+i$ übrigen homogenen Lichter, fondern ftetS nur eines derfelben
+
+Außerdem giebt e8 nod) eine Menge Thatfachen, bie mit
+it es (don von vorne herein nicht wahr, daß das Auge burd)
+etwas anhaltendes Anfehn der ersten Farbe gegen bdiejelbe un-
+empfindlich werde, und gar in bem Maaße, daß es folche nad
+ber fogar im Weißen nicht mehr mitempfinben fünne: denn e$
+übt ja biefe erfte Farbe ganz deutlih, bis zu bem Augenblid,
+da t$ fid) von ihr zum Weißen wendet. — Ferner ijt e8 eine
+befannte Erfahrung, daß wir bie phhfiologifchen Farben am
+deutlihften unb Teichteften früh Morgens, gleih nad) bem Er-
+wachen, anfichtig werden: gerabe bann aber ift, in Folge ber
+langen Ruhe, das Auge in volliter Kraft, alfo am wenigften
+geeignet, durch das, einige Sekunden lang fortgejetgte Anfchauen
+dne Farbe, ermüdet und bis zur Unempfindlichkeit gegen bie.
+
+ [S. 198]
+
+
+felbe abgejtumpft zu werden. — Bollends aber ein jchlimmer
+Umftand ift, daß wir, um bie phhyfiologifchen Farben zu fehn,
+gar nicht auf eine weiße Fläche zu blicken brauchen: jede farb:
+lose Fläche ijt dazu taugíid), eine graue am beiten, selbst eint
+schwarze leiftet es, ja, sogar mit gefchloffenen Augen erbliden
+wir bie phnfiologifche Farbe! Dies Hatte bereits Büffon am
+gegeben, und Scherffer felbit gefteht c8, S. 17 feiner oben
+genannten Schrift, ein. Bier haben wir nun einen Fall, wo
+einer falfchen Theorie, fobald fie an einem bejtimmten Punkt an:
+gelangt ijt, die Natur geradezu in den Weg tritt und ihr die
+
+
+Lüge ins Geficht wirft. Auch wird hiebei Scherffer febr be
+
+
+treten und gefteht, hier Tiege die größte Schwierigkeit ber Sadı.
+Jedoch, ftatt an feiner Theorie, bie nimmermehr damit bejtehn
+fann, irre zu werden, greift er nad allerlei elenden und ab-
+jurden Hhpothefen, minbet fich erbärmlid und läßt zulekt die
+Sadje auf fid) beruhen. |
+
+Noch will id) fier eine nur felten bemerkte Thatsache cr:
+
+
+wähnen; theil® weil aud) fie ein Argument gegen die Scherffer:
+
+
+sche Theorie fiefert, indem fie diefer gemäß durchaus unbegreiflich
+ijt; theils aber auch, weil fie verdient, burd) eine Fleine Spe—
+cialerörterung als mit meiner Theorie vereinbar nachgemiejen
+zu werden. Wenn nämlid auf einer großen gefärbten Fläde
+
+
+einige kleinere farbloje Stellen find, fo werden bieje, wenn
+nachher das von ber gefärbten Fläche geforderte physiologische
+
+
+Spektrum eintritt, nicht mehr farblos bleiben, sondern sich in
+der zuerst dagewesenen Farbe der ganzen Fläche selbst darstellen,
+obgleich sie keineswegs vom Komplement derselben afficirt ge:
+wesen sind. Z. B. auf den Anblick einer grünen Hausmauer
+
+
+mit kleinen grauen Fenstern folgt als Spektrum eine rothe
+
+
+Mauer, nicht mit grauen, sondern mit grünen Fenstern. Ge—
+mäß meiner Theorie haben wir Dies daraus zu erklären, daß,
+nachdem auf der ganzen Retina eine bestimmte qualitative Hälfte
+ihrer Thätigkeit durch die gefärbte Fläche hervorgerufen war,
+jedoch einige kleine Stellen von dieser Erregung ausgeschlossen
+
+
+blieben, und nun nachher, beim Aufhören des äußern Reizes,
+
+
+die Ergänzung der durch ihn erregten Thätigkeitshälfte sich als
+Spektrum einftellt, alsdann die davon ausgefchloffen gewejeren
+Stellen, auf konsensuelle Weife, in jene zuerft bagemefene quali:
+
+
+Zur Farbenlehre. 199
+
+
+tative Hälfte der Thätigfeit gevatfen, indem fie jet gleichfam
+nahahmen, was vorher der ganze übrige Theil der Retina ge
+than Hat, während fie allein, durch Ausbleiben des Reizes,
+davon ausgejchloffen waren; mithin bap fie, fo zu jagen, nad)-
+ererciren.
+
+Wollte man endlich eine Schwierigkeit etwan darin finden,
+daß, meiner Theorie zufolge, beim Anblid einer sehr bunten
+Fläche, bie Zbütigfeit der Retina, an Hundert Stellen zugleich),
+in jehr verfchiedenen Proportionen getheilt würde; jo erwäge
+man, daß beim Anhören der Harmonie eines zahlreihen Dr-
+chesters, ober ber fchnellen Läufe eines Birtuofen, das Trommelfell
+und der Gehörnerv bald fimultan, bald in ber vafcheften Suc-
+cejfion, in Schwingungen nad) verjchiedenen Zahlenverhältniffen
+verfeßt wird, welche die Intelligenz alle auffaBt, arithmetisch
+abjdügt, die äfthetifche Wirkung davon empfängt und jede Ab-
+weihung von ber mathematifchen Nichtigkeit eines Tons fogleid)
+bemerft: dann wird man finden, daß ich bem viel vollkomm⸗
+neren Gefichtsfinne nicht zu viel zugetraut habe. '
+
+
+Der wefentfidj subjektiven Natur der Farbe ift erst burd)
+meine Theorie ihr volles Recht geworben; obgleich das Gefühl
+derjelben fchon in bem alten Sprichwort des goüts et des cou-
+leurs il ne faut disputer ausgedrüdt ift. Dabei aber gilt von
+ber Farbe, was Kant vom äfthetifchen, oder Geihmadsurtheil
+ausfagt, nämlich bag e8 zwar nur ein fubjeltives fei, jedoch
+den Anfprucd made, gleich einem objektiven, bie. Beiftimmung
+aller normal bejchaffenen Meenfchen zu erhalten. Wenn wir
+nicht eine (ubjeftibe Anticipation der fedj8 Hauptfarben hätten,
+die uns ein Maaß a priori für fie giebt; fo würden wir, ba
+dann die Bezeichnung derfelben durch eigene Namen bloß fon
+ventionell wäre, wie die mancher Modefarben es wirklich ijt,
+über bie Reinheit einer gegebenen Farbe Tein Urtheil haben und
+demnach Manches gar nicht verjtehn können, 3. B. was Goethe
+vom wahren Roth fagt, — daß c8 das des Karmins, nicht
+aber das gewöhnliche Scharladh-Roth fei, als welches gelbroth
+ift; — während jegt Dies uns jefr wohl verftändlich und dann
+auch einleuchtend ijt.
+
+
+ [S. 200]
+
+
+Auf diefer wejentlich jubjeltiven Natur der Farbe beruht
+julegt aud) die überaus Leichte Veränderlichkeit der chemischen
+Farben, als welche bismeilen fo weit geht, daß einer totalen
+Veränderung der Farbe nur eine äußerft geringfügige, ober jelbit
+gar nicht ein Mal nachweisbare in den Eigenjchaften des Ob:
+jekts, bem fie inhärirt, entipridjt. So 3. 38. ift der burd) Zu-
+fammenfchmelzen des Merkurs mit bem Schwefel erlangte Zin-
+nober schwarz, (ganz wie eine ähnliche Verbindung des Bleies
+mit dem Schwefel): erjt nachdem er fublimirt worden, nimmt er
+die befannte feuerrotbe Farbe an; und bod) ift eine chemische
+Beränderung durch bieje Sublimation nicht nachweisbar. Durd)
+bloße Erwärmung wird rothes Quedfilberoryd fchwarzbraun und
+gelber falpeterfaurer Merkur rotg. ine befaunte chinefifche
+Schminke fommt uns auf Stüdhen Pappe aufgetragen zu unb
+ijt bam dumfelgrün: mit benegtem Finger berührt färbt fte biejen
+augenb(id(id) hochroth. Selbit das Rothwerden ber Krebfe burd)
+Kochen gehört hierher; auch das Umfchlagen des Grüns mander
+Blätter in Roth, beim erften Froft, und das Rothwerden ber
+Aepfel auf ber Seite, bie von der Sonne bejdjienen wird, welches
+man einer jtärferen Desoxydation biejer Seite zuschreiben will;
+imgleihen, daß einige Pflanzen den Stengel und das ganze
+Gerippe des Blattes hochroth Haben, das Parenchyma aber
+grün; überhaupt die PVielfarbigfeit mancher Blumenblätter. In
+andern Fällen können wir die chemifche Differenz, welche von
+der Farbe indicirt wird, als eine sehr geringe nadjmeijen, 3. B.
+wann QCafmuétinftur, ober Veildhenfaft, durch bie Leichtefte Spur
+von Orhdation, ober Alkalifation, ihre Sarbe ändern. An diejem
+Allen nun erfehn wir, daß das Auge das empfindlidjfte
+Reagens, im demijden Sinne, ift; indem e8 nicht nur bie
+geringften nachweisbaren, fondern fagar folde Veränderungen
+der Mifchung, bie kein anderes Reagens anzeigt, uns augen-
+bfidíid) zu erfennen giebt. Auf dieser unvergleichlihen Ems
+pfindlichfeit des Auges beruht überhaupt die Möglichkeit ber
+hemifchen Farben, welche an fid) felbft noch ganz unerflärt
+ift, während wir in die physischen die richtige Einfiht, durd)
+Goethe, endlich erlangt haben; ungeachtet die vorgefchobene Neu-
+tonijde falsche Theorie folche erjd)merte. Die physischen Farben
+verhalten (id) zu den chemifchen genau fo, wie der durch ben
+
+
+Zur Farbenlehre. 201
+
+
+galvaniichen Apparat Berborgebrad)te unb injofern aus feiner
+nüdjten Urfache verftändliche Magnetismus zu dem im Stahl
+unb in Eifenerzen firirten. — Sener giebt einen temporären Magne-
+ten, ber mur durch eine Komplikation von Umständen bejtebt
+unb, fobald fie wegfallen, es zu seyn aufhört: diefer Hingegen
+it einem Körper inhärirend, unverünberfid) und bis jegt uner-
+klärt. Er ift eben Dineingebannt, wie ein verzauberter Prinz:
+daffelbe num gilt von ber chemifchen Farbe eines Körpers.
+
+
+Ich habe in meiner Theorie dargethan, daß aud) bie Her-
+itellung des Weißen aus Farben ausfchlieglih auf bem
+physiologischen runde ruht, indem fie allein dadurch zu
+Stande fommt, daß ein Yarbenpaar, aljo daß zwei Ergänzungs-
+farben, b. f. zwei Farben, in welche bie Thätigfeit ber Retina,
+sich Halbirend, auseinandergetreten it, wieder zufanmengebradht
+werden. Dies aber fanum nur baburd) gefchehn, daß die zwei
+äußern, jede von ihnen im Auge anregenden Urfachen zugleich auf
+eine und diejelbe Stelle ber Retina wirken. Ich Habe mehrere
+Arten Dies zu Wege zu bringen angegeben: am leichteften und
+einfadhiten erhält man es, menn man das Violett des prismatifchen
+Spektrums auf gelbes Bapier fallen läßt. Sofern man aber [id
+nicht mit bloß prismatifchen Farben begnügen will, wird es am
+beiten  baburd) gelingen, daß man eine transparente und eine
+refleftirte Farbe vereinigt, 3. B. auf einen Spiegel aus blauem
+Gíafe das Licht durch ein rothgelbes Glas fallen läßt. Der Aus:
+drud „komplementäre Farben“ Bat nur, fofern er im physio—
+logischen Sinne verftanden wird, Wahrheit und Bedeutung; außer⸗
+dem fehlechterdings nicht.
+
+Goethe Hat, mit Unrecht, die Möglichkeit der Herftellung
+v3 Weißen aus Farben überhaupt geleugnet; Dies fam aber
+daher, bag Neuton fie aus einem fafjden Grunde und in
+einem falschen Sinne behauptet Hatte. Wäre fie im Neutoni-
+hen Sinne wahr, oder überhaupt Neutons Theorie richtig; fo
+müßte zunächft jede Vereinigung zweier ber von ihm angenom-
+menen Grundfarben jofort eine hellere Farbe, als jede von
+ihnen allein ijt, geben; weil die Vereinigung zweier homogener
+Theile des in solche zerfallenen weißen Lichtes fchon ein Rück⸗
+
+
+ [S. 202]
+
+
+schritt zur Herftellung diefes weißen Lichtes wäre. Allein Jenes
+ift nit ein einziges Mal der Fall. Bringen wir nämlid die —
+drei im demi[den Sinne fundamentalen Farben, aus denen
+alle übrigen zufammengefett find, paarweife zufammen; fo giebt
+Blau mit Roth Violett, welches dunkler ijt, als jede von bei -
+den; Blau mit Gelb giebt Grün, welches, obwohl etwas Heller -
+als jenes, bod) viel bunf(er als bieje8 ijt; Gelb mit Noth giebt —
+Orange, welches heller als bieje8, aber dunkler als jenes ijt.
+Schon Hierin Liegt eigentlich eine Hinreichende Widerlegung der —
+
+^. Aber die rechte, faftijdje, bündige unb unabweisbare Wider —
+legung derfelben ijt der achromatifche Refraltor, daher eben aud
+Neuton, ehr fonjequent, einen solchen für unmöglich hielt.
+Befteht nämlich das weiße Licht aus fieben Lichtarten, deren jede -
+eine andere Farbe und zugleich eine andere Brechbarkeit hat: fo
+jind nothwendig ber Grad ber Bredung und bie arbe des Lichts —
+unzertrennliche Gefährten: alsdann muß, mo Licht gebroden
+ift, es fid) aud) gefärbt zeigen; wie jehr auch dabei die Brechung
+vermannigfaltigt und fontpficirt, Hin und her, hinauf und herab
+gezogen werden mag; jo lange nur nicht alle fieben Strahlen
+vollzählig wieder auf einen Klumpen zusammengebracht (inb umb
+dadurch, nad) Neutonifcher Theorie, das Weiße refomponirt, jue
+gleih aber aud) aller Wirkung der Brechung ein Ende gemadit,
+nämlich Alles wieder an Ort und Stelle gebradjt ijt. Als nun
+aber die Erfindung der Achromasie das Gegentheil diefes Resul—⸗
+tat$ an den Tag legte, da griffen die Neutonianer, in ihrer
+Berlegenheit, zu einer Erklärung, welche man mit Goetfen für
+finnlojen Wortkram zu Halten jid) fehr verjucht: fühlt: denn, beim
+beiten Willen, ijt e8 fehr schwer, ifr aud) nur einen verftänd-
+(iden Sinn, b. D. ein anfchaulich einigermaaßen Vorftellbares,
+unterzulegen. Da fol nämlich neben der Farbenbrechung mod)
+eine von ifr verfchiedene Farbenzerftreuung Statt finden und
+hierunter zu verftehn feyn das Sich-entfernen der einzelnen far:
+bigen Lichter von einander, das Auseinandertreten derjelben,
+welches die nächste Ursache ber Verlängerung des Speftri ift.
+Daffelbe ift aber, ex hypothesi, bie Wirfung ber verschiedenen
+Brechbarkeit jener farbigen Strahlen. Beruht nun alfo diefe
+fogenannte Zerftreuung, b. 5. die Verlängerung des Spektrums,
+
+
+Zur Sarbenlebre. 203
+
+
+aljo des Sonnenbildes mad) der Brechung, darauf, daß das Licht
+‘ans verfchiedenen farbigen Lichtern besteht, deren jedes, feiner
+Natur nad, eine verfchiedene Brechbarkeit Bat, b. B. in einem
+andern Winkel bricht; jo muß doch bieje beftimmte Brechbarkeit
+jedes Lichts, als wejentliche Eigenfchaft, ftet8 und überall ihm
+anhängen, alfo das einzelne homogene Licht jtet8 auf die jelbe
+Weife gebrochen werden, eben wie e8 jtet8 auf die je(be Weile
+gefärbt ift. Denn der 9teutonijdje homogene Lichtftrahl und feine
+Farbe find durhaus Eines und das Selbe: er ijt eben ein far-
+biger Strahl und fonft nichts: alfo wo der Lichtftrahl ift, ba ift
+jeine Farbe, und mo bieje ijt, ba ijt der Strahl. Liegt e$, ex
+hypothesi, in ber Natur eines jeden folchen anders gefärbten
+Strahls aud) in einem andern Winkel zu brechen; fo wird ihn
+in diefen und jeden Winkel aud) feine Farbe begleiten: folglich
+müjfen dann bei jeder Brechung bie verjchiedenen Tarben zum
+Borfchein fommen. Um aljo ber von den Neutonianern belieb-
+ten Erklärung „zwei verjdücbenartige brechende Mittel Touneu
+das Licht gleich ftark brechen, aber bie Farben in verjchiedenem
+Grade zerftreuen” einen Sinn unterzulegen, müffen wir anneh>
+men, daß, während Kromn- unb Flint-Glas das Licht im Gan-
+zen, aljo das weiße Licht, gleich [tav brechen, benmod) bie Theile, .
+aus welchen eben bieje8 Ganze burd) und durch befteht, vont
+Flint⸗ anders, af$ vom Krown⸗Glas gebrochen werben, alfo ihre
+S$redjbarfeit ändern. Kine Harte Nuß! — Ferner müjfen fie -
+ihre Brechbarkeit in ber Weile ändern, daß, bei Anwendung von
+Zlintglas, bie am brechbarsten Strahlen nod) ftärkere Brechbar⸗
+feit erhalten, die am wenigsten brechbaren hingegen eine noch
+geringere Brechbarkeit annehmen; bag aljo biefes Flintglas bie
+Brechbarkeit gewifjer Strahlen vermehrt und zugleich die gemiffer
+anderer vermindert, und Dabei dennoch ba8 Ganze, welches allein
+aus diefen Strahlen beiteht, feine vorherige Brechbarkeit behält.
+Nichts beftomeniger fteht bieje8 jo jdjmer fafBíidje Dogma mod,
+immer in allgemeinem Kredit und Respekt, und kann man, bis
+' auf den heutigen Tag, aus den optifchen Schriften aller Natio-
+nen erfehn, wie ernfthaft von der Differenz zwifchen Refraktion
+und Disperfion gerebet wird. Doch jett zur Wahrheit!
+
+Die nächte und wefentliche Urfache ber mittelft ber Roms
+bination des Konverglajes aus Krowu⸗ und des Konkapglafes aus
+
+ [S. 204]
+
+
+Flint-Glas zu Stunde gebrachten Achromafie tft, ohne Zweifel, eine
+durchaus phyfiologifche, nämlich bie Herftellung der vollen
+Thätigkeit der Retina, auf den von den physischen Farben getroffe:
+nen Stellen, indem dafelbft, zwar nicht 7, aber bod) 2 Farben,
+näntlich zwei fid) zu jener Thätigkeit ergänzende Farben, auf
+einander gebradjt werden, aljo ein Farbenpaar wieder vereinigt
+wird. Objektiv, ober phyfitalifich, wird dies folgendermaßen her⸗
+beigeführtt. Durd die zweimalige SRefraftion, in entgegengefek-
+tem Sinne (mittelft Konkav- und Konverglas) entfteht auch die
+entgegengefette Farbenerscheinung, nämlich einerfeits ein gelb-
+rother Rand mit gelbem Saum, und andrerfeits ein blauer Rand
+mit violettem Saum. Diefe zweimalige Refraktion, in entgegen:
+gesetztem Sinne, führt aber auch zugleich jene beiden farbigen
+Randerfcheinungen bergejtaft über einander, daß der blaue Rand
+den gelbrothen Rand und der violette Saum den gelben Saum
+bedt, wodurch diefe zwei phhyfiologifchen Warbenpaare, nämlich
+das von Y, und %,, und bas von !/, und °%, der vollen Thätig-
+feit der Netzhaut wieder vereinigt werben, mithin aud) die Yarb-
+[ofigfeit wiederhergeftellt wird. Dies alfo ift bie nächste Ursache
+ber Achromasie.
+
+Was nun aber ift bie entferntere? Da nämlich das
+verlangte dioptrifche Resultat, — ein Ueberschuß farblos blei—
+bender S9tefraftion, — dadurch herbeigeführt wird, bag das in
+entgegengejettem Sinne wirkende Flintglas, jchon bei bedeutend
+geringerer Refraftion, bie Tarbenerfcheinung des SKromnglafes,
+durch eine gleich breite ihr entgegengefeßte, zu neutralifiren ver-
+mag, weil [eine eigenen Farbenränder unb Säume schon urfprüng-
+lich bedeutend breiter, als die des Krownglases, find; so entjteht
+die Frage: wie geht es zu, daß zwei verichiedenartige bredjende
+Mittel, bei gleicher Brechung, eine fo jehr verfchiedene Breite
+ber Farbenerfcheinung geben? — Hievon lüpt fid) sehr .gemügenbe
+Rechenschaft, gemäß ber Goetfe'iden Theorie, geben, wenn man
+nämlich diefe etwas weiter und baburd) deutlicher ausführt, als
+er felbft c8 getfan Hat. Seine Ableitung der prismatifchen
+Farbenerfcheinung aus feinem oberften Grunbjag, den cr Ur
+phänomen nennt, ijt vollkommen richtig: nur bat er fie nid
+genug ins Einzelne herabgeführt; während bod) ohne eine gewiffe
+Akribologie fofdjen Dingen fein Genüge gejdjeft. Er erklärt
+
+
+Zur Farbenlehre. 205
+
+
+ganz richtig jene farbige, die Refraltion begleitende Randerschei—
+nung ans einem, das durch Drehung verrüdte Hauptbild be-
+gleitenden Nebenbilde. Aber er Hat nicht die Lage und Wir—
+fungsweife bieje8 Nebenbildes ganz fpeciell beftimmt und durch
+eine Zeichnung veranschaulicht; ja, er fpricht durchweg nur von
+einem Nebenbilde; moburd) denn die Sache fo zu ftehn kommt,
+daß mir annehmen müfjen, nicht bloß das Licht oder Teuchtende
+Bild, fondern audj die c8 umgebende Finfterniß erleide eine
+QSredjung. Ich muß daher hier feine Sache ergänzen, um zu
+zeigen, wie eigentlich jene, bei gleicher Brechung, aber verfchie-
+denen bredjenden Subjtanzen, verfchiedene Breite der farbigen
+Randerscheinung entfteht, welche bie Neutonianer burdj den finn-
+(ofen Ausdrud einer Verfchiedenheit der Nefraktion und Disper-
+jion bezeichnen.
+
+Zuvor ein Wort über den Urfprung biejer, bei der Refrak—
+tion, ba8 Hauptbild begleitenden Nebenbilder. Natura non fa-
+cit saltus: fo lautet das Gejeg der Kontinuität aller 3Ber-
+änderungen, vermöge bej]en, in der Natur, feit Webergang,. fei
+er im Raum, ober in der Zeit, oder im Grade irgend einer
+Eigenfchaft ganz abrupt eintritt. Nun wird das Licht, bei fei-
+nem Eintritt in das Prisma, und abermals bei feinem Austritt,
+alfo zwei Mal, von feinem geraden Wege plötzlich abgelenft.
+Sollen wir nun vorausfegen, dies gejchehe fo abrupt unb mit
+folder Schärfe, daß dabei das Licht auch nicht die geringfte DVer-
+mifchung mit ber c8 umgebenden Finfterniß erlitte, fondern, mit-
+ten durch diefe, in jo bedeutenden Winkeln, fid) (d)menfenb, bod)
+feine Grüngen auf das Schärfjte bemabrte, — fo daR e8 in ganz
+unvermifchter Lauterfeit durchkäme und ganz volfjtünbig zufam-
+menbliebe? Ist nicht vielmehr die Annahme naturgemäßer, daß,
+sowohl bei ber erften, als bei der zweiten Brechung, ein febr
+fleiner Theil diefer Lichtmaffe nicht fchnell genug in die neue
+Richtung fomme, jid) dadurch etwas abfondere unb nun, gleich
+(am eine Erinnerung bes eben verlaffenen Weges nadjtragenb,
+als Nebenbild das Hauptbild begleite, nad) ber einen Brechung
+etwas über, nad) der andern etwas unter ihm fehwebend? Sa,
+man fónnte hiebei an bie Bolarifation des Lichts, mittelft eines .
+Spiegels, denken, der einen Theil deffelben zurüdwirft, einen
+andern durchlüßt.
+
+ [S. 196]
+
+
+Refraftion als Helles zum Dunkeln verhält: find fie hierin
+gleich, (o muß bie Refraktion feine Farbenerscheinung geben.
+
+Unfere Brüfung der Reinheit einer gegebenen Farbe, 5.2. |
+ob diefes Gelb genau ein folches fei, oder aber ins Grüne, oder
+aud) ins Drange falle, bezieht fid) eben auf die genaue Richtig:
+feit des durch fie ausgedrüdten Bruchs. Daß mir aber dies
+rein arithmetifche Verhältniß nad) dem bloßen Gefühl beurtheilen
+fónnen, erhält einen Beleg von der Mufit, deren Harmonie
+auf ben viel größeren und komplicirteren Zahlenverhältniffen ber
+gleichzeitigen Schwingungen beruht, deren Töne wir jebod), nad)
+dem bloßen Gehör, höchst genau und doc) arithmetifch beurthei-
+(em. — Wie bie fieben Töne ber Tonleiter fid) von den unzäf:
+ligen andern, ber Möglichkeit nach, zwifchen ihnen Tiegenden nur
+burdj bie Rationalität ihrer BVibrationszahlen auszeichnen; [o
+auch die sechs, mit eigenen Namen belegten Farben von den
+unzähligen zwifchen ihnen liegenden nur durch die Nationalität
+und Simplicität des in ihnen fid) daritellenden Bruches der
+Thätigfeit der Retina. — Wie ih, ein Inftrument ftimmend,
+bie Nichtigkeit eines Tons baburd) prüfe, daß id) feine Duint
+ober Oktave anjdjíage; jo prüfe ich die Reinheit einer vor
+[iegenben Farbe dadurch, daß ich ihr physiologisches Spektrum Ber
+vorrufe, deifen Farbe oft leichter zu beurtheilen ijt, als fie felbft:
+jo 3. 3. babe ih, daß das Grün des Grafes ftarf ins Gelbe
+fällt, bloß daraus erfehn, bag das Roth feines Spektrums ftarl
+ins Violette zieht. j
+
+
+Das Phänomen ber phyfiologifchen Farben, auf welchen
+meine ganze Theorie beruht, wurde, nachdem Büffon e8 ent-
+bedt fatte, vom Pater Scherffer in Gemüfbeit der Neuto-
+nifhen Theorie ausgelegt, in feiner „Abhandlung von ben zu:
+fälligen Farben”, Wien, 1765. Da man bieje Erklärung der
+Thatfachen in vielen Büchern und fogar nod in Gibier'e
+anatomie comp. (leg. 12, art. 1.) wiederholt findet, will id)
+fie hier ausdrüdlic) widerlegen, ja, ad absurdum führen. Cit
+geht dahin, daß das Auge, burd) das längere Anfchauen einer
+Farbe ermüdet, für bieje Sorte homogener Lichtitrahlen die
+Empfänglichleit verlöre, daher e8 bann ein gleid) darauf ange
+Ihautes Weiß nur mit Ausschluß eben jener homogenen Farbe
+
+
+Zur Farbenlehre. 197
+
+
+strahlen empfände, weshalb es dafjelbe nicht mehr weiß fähe,
+jondern ftatt be[fem ein Produft der übrigen fechs homogenen
+Strahlen, bie mit jener eriten Farbe zufammen das Weiße aus-
+maden, empfände: diefes Produft nun alfo soll die als physio⸗
+(ogijd)e$ Spektrum erjcheinende Farbe feyn. Diese Auslegung
+der Sache fügt fid) nun aber ex suppositis als abfurd erfennen.
+Denn nah angeschautem Violett erblidt das Auge auf einer
+weißen (nod) beifer aber auf einer grauen) Fläche ein gelbes
+Spektrum. Diefes Gelb müßte nun das Produkt ber, nad)
+Ausfonderung des PVioletten, übrig bleibenden -fechs homogenen
+Lichter, alfo aus Roth, Orange, Gelb, Grün, Blau und Ime
+digoblau zufammengefett fep: eine fchöne Mifhung, um gelb
+zu erhalten! Straßentothfarbe wird fie geben, fonft nidjté. Zu-
+dem ift ja das Gelbe jelbft ein homogenes Licht: wie jolíte es
+denn erst das Resultat jener Mischung jepn? Allein jchon das
+einfache Faktum, daß ein homogenes Licht, für fid) allein, voll
+fommen die geforderte und phyfiologifch als Spektrum ihm nad)-
+folgende Farbe des andern ift, wie Gelb des Violetten, Blau
+des SOrangen, Roth des Grünen, unb vice versa, ftößt bie
+Scherfferfhe Erklärung über den Haufen, indem es zeigt, baf
+was nad) anhaltendem Anfchauen einer Farbe das Auge auf ber
+weißen Fläche erblidt nichts weniger, al8 eine Vereinigung ber
+sechs übrigen homogenen Lichter, fondern stets nur eines derselben
+ift: 3. B. nad) angefhautem Violett gelb.
+
+Außerdem giebt e8 mod) eine Menge Thatfachen, die mit
+ift e8 fon von vorne herein nicht wahr, daß das Auge burd)
+etwas anbaltendes Anfehn ber ersten Farbe gegen biefelbe un-
+empfindlich werde, und gar in bem Maaße, bag e$ folche nach⸗
+ber fogar im Weißen nicht mehr mitenpfinden könne: denn es
+fibt ja diefe erfte Farbe ganz deutlih, bis zu bem Augenblid,
+ba c8 fid) von ihr zum Weißen wendet. — Ferner ijt c8 eine
+befannte Erfahrung, daß wir bie phhyfiologifchen Farben am
+beutfid)ften und leichteften früh Morgens, gleich) nach dem Er-
+wachen, anfihtig werden: gerade dann aber ift, in Folge ber
+langen Ruhe, das Auge in volliter Kraft, alfo am menigften
+geeignet, durch das, einige Sekunden fang fortge[egte Anschauen
+einer arbe, ermüdet und bis zur Unempfindlichleit gegen bie:
+
+
+selbe abgeftumpft zu werden. — Vollends aber ein fehlimmer
+
+
+Umftand ijt, daß wir, um bie phufiologifchen Farben zu fehn, ^
+
+
+gar nicht auf eine weiße Fläche zu bfiden brauchen: jede farb-
+foje Fläche ijt dazu tauglich, eine graue am beiten, felbjt eine
+schwarze feiffet e8, ja, fogar mit gefchloffenen Augen erbliden
+wir bie phhyfiologifche Farbe! Dies Hatte bereits Büffon ate
+gegeben, und Scherffer felbit gefteht c8, 8. 17 feiner oben
+genannten Schrift, ein. Hier haben wir nun einen all, wo
+einer falfchen Theorie, fobald fie an einem bestimmten Punkt an-
+gelangt ijt, die Natur geradezu in den Weg tritt und ihr bit
+Rüge ins Gefiht wirft. Auch wird hiebei Scherffer febr be
+treten und gefteht, hier Tiege die größte Schwierigkeit der Cad.
+Jedoch, ftatt am feiner Theorie, die nimmermehr damit beftchn
+fann, irre zu werden, greift er mad) allerlei elenden und ab.
+furden Hhpothefen, windet jid) erbürmlid) und läßt zuleßt bie
+Sache auf jid) beruhen.
+
+
+Noch will id) hier eine mur felten bemerkte Thatfache er. |
+
+
+wähnen; theils weil aud) fie ein Argument gegen die Scherffer':
+íde Theorie liefert, indem fie diefer gemäß durchaus unbegreiflid
+ijt; tfeil8 aber auch, weil fie verdient, durch eine Heine Spe-
+cialerörterung als mit meiner Theorie vereinbar nachgewiesen
+
+
+zu werden. Wenn nämlih auf einer großen gefärbten Fläche
+einige Kleinere farblofe Stellen find, fo werden bieje, wenn |
+nachher das von der gefärbten Fläche geforderte physiologische
+Spektrum eintritt, nicht mehr farblos bleiben, fondern [fid in :
+ber guerjt dagewefenen Farbe der ganzen Fläche felbit darftellen,
+obgleich fie keineswegs vom Komplement derjelben afficirt ges
+
+
+weien find. 3. B. auf den Anblid einer grünen Hausmauer
+
+
+mit Heinen grauen Venftern folgt als Spektrum eine vothe —
+
+
+Sauer, nicht mit grauen, fordern mit grünen Fenftern. Gc
+
+
+mäß meiner Theorie haben wir Dies daraus zu erklären, daß,
+nachdem auf der ganzen Retina eine bestimmte qualitative Hälfte
+ihrer Zhätigfeit durch bie gefärbte Fläche hervorgerufen war, |
+
+
+jebod) einige Kleine Stellen von diefer Erregung ausgeschlossen
+blieben, und nun nachher, beim Aufhören des äußern Reizes,
+die Ergänzung der durch ihn erregten Thätigkeitshälfte fid) als
+Spektrum einftellt, alsdann die davon ausgefchloffen gewesenen
+Stellen, auf Tonfenfuelle Weife, in jene zuerft bagemejene quafi
+
+
+Zur Farbenlehre. 199
+
+
+tative Hälfte ber Thätigkeit gerathen, indem fie jet gleichjam
+nachahmen, was vorher der ganze übrige Theil der Retina ge-
+than Hat, während fie allein, durch Ausbleiben des Reizes,
+davon ausgefchloffen waren; mithin daß fie, fo zu fagen, nad)
+
+Wollte man endlich eine Schwierigkeit etwan darin finden,
+daß, meiner Theorie zufolge, beim Anblid einer febr bunten
+Fläche, die Tchätigkeit der Retina, an Hundert Stellen zugleich,
+in fehr verfchiedenen Proportionen getheilt würde; jo erwäge
+man, daß beim Anhören der Harmonie eines zahlreichen Dr-
+chesters, ober ber fehnellen Läufe eines Virtuofen, bae Trommelfell
+und ber Gebürnero bald fimultan, bald in ber ra[dje[ten Suc-
+cejfion, in Schwingungen nad) verfhhiedenen Zahlenverhältniffen
+verfegt wird, welche die Intelligenz alle auffaßt, arithmetifch
+abschätzt, bie üfthetifche Wirkung davon empfängt und jede Ab-
+weichung von der mathematischen Richtigkeit eines Tons fogleich
+bemerkt: dann wird man finden, daß ich dem viel volllomm-
+neren Gefidhtsfinne nicht zu viel zugetraut habe. '
+
+
+Der wejentfid) subjektiven Natur der Farbe ift. erft burd)
+meine Theorie ihr volles Recht geworden; obgfeid) das Gefühl
+berfelben [don in dem alten Sprichwort des goüts et des cou-
+leurs il ne faut disputer ausgedrüdt ift. ‘Dabei aber gilt von
+der Farbe, was Kant vom äjthetifchen, oder Gejchmadsurtheil
+ausfagt, nämlich bag c8 zwar nur ein fubjeltives fei, jedoch
+den Anspruch made, gleich einem objektiven, bie. Beiftimmung
+aller normal befchaffenen Menfchen zu erhalten. Wenn wir
+nicht eine (ubjeftioe Anticipation der sechs Hauptfarben hätten,
+die uns ein Maaß a priori für fie giebt; fo würben wir, ba
+dann die Bezeichnung derjelben durch eigene Namen bloß fon-
+ventionell wäre, wie die mander Modefarben «8 wirklich ijt,
+über die Reinheit einer gegebenen Farbe Fein Urtheil haben und
+bemnad) Manches gar nicht verftehn Können, 3. B. mas Goethe
+vom wahren Roth jagt, — daß es das des Karmins, nicht
+aber das gewöhnliche Scharlady- Roth (ei, als welches gelbroth
+ift; — während jett Dies uns fehr wohl verftändlich und bann
+aud) einleuchtend ijt.
+
+ [S. 200]
+
+
+Auf biejer wefentlich jubjektiven Natur der arbe beruht
+zulegt aud) bie überaus leichte Veränderlichkeit der chemischen
+Farben, als welche bismeilen (o weit geht, daß einer totalen
+Veränderung ber Farbe nur eine äußerst geringfügige, oder felbit
+gar nidt ein Mal nachweisbare in den Eigenfchaften des Ob-
+jekts, bem fie inDürirt, ent[prid)t. So 3. 1B. iff ber burd) Zu-
+fammenjchmelzen des Merkurs mit dem Schwefel erlangte Zin-
+nober schwarz, (ganz wie eine ähnliche Verbindung des Bleies
+mit dem Schwefel): erit nachdem er fublimirt worden, nimmt er
+die befannte feuerrothe Farbe an; unb bod) ift eine chemifche
+Veränderung durch bieje Sublimation nicht nachweisbar. Dur
+bloße Erwärmung wird rothes Quecksilberoryd fchwarzbraun und
+gelber falpeterfaurer Merkur rot. ine bekannte chinefifche
+Schminke fommt uns auf Stüdchen Pappe aufgetragen zu unb
+it dann dunkelgrün: mit benettem Finger berührt färbt fie diefen
+augenblicklich hochroth. Selbft ba& Rothwerden ber Krebfe burd)
+Kochen gehört Hierher; aud) das Umschlagen des Grüns mancher
+Blätter in Roth, beim erften Frost, und das Rothwerden ber
+Aepfel auf der Seite, bie von ber Sonne beschienen wird, welches
+man einer ftärkeren Desorhdation biejer Seite zufchreiben will;
+imgleihen, daß einige Pflanzen den Stengel und das ganze
+Gerippe des Blattes hochroth haben, das Parenchyma aber
+grün; überhaupt die Vielfarbigfeit mancher YBlumenblätter. Im
+andern Fällen Tönnen wir bie chemifche ‘Differenz, welche von
+ber Farbe indicirt wird, als eine jer geringe nachweisen, 3. B.
+warn Qofmustinftur, oder Veilchenfaft, durch die leid)teite Spur
+von Orhdation, ober 9[(fafijation, ihre Farbe ändern. An biejent
+Allen nun erfehn wir, daß das Auge das empfindlichste
+Reagens, im djemijden Sinne, ift; indem es nicht nur bie
+geringften nacweisbaren, fondern fagar (olde Veränderungen
+ber Mifhung, bie fein anderes Reagens anzeigt, uns auget
+b(idíid) zu erkennen giebt. Auf dieser unvergleihlihen Em»
+pfindlichfeit des Auges beruht überhaupt die Möglichkeit ber
+hemifhen Farben, melde an jid) felbft nod) ganz unerflärt
+ijt, während wir in die physischen die richtige Ginfidjt, durch
+Goethe, endlich erlangt haben; ungeachtet bie vorgefchobene Neu-
+tonifche falsche Theorie joldje erjchwerte. Die phyfiichen Farben
+verhalten fid) zu den djemijden genau fo, wie der burd) ben
+
+
+Zur Warbentebre. 201
+
+
+galbani(djen Apparat Berborgebradjte unb injofer aus feiner
+nüdjften Ursache verständliche Magnetismus zu dem im Stahl
+unb in Eifenerzen firirten. Jener giebt einen temporären Magne⸗
+ten, ber mur durch eine Komplikation von Umftänden befteht
+und, fobald fie wegfallen, e8 zu seyn aufhört: diefer Hingegen
+ijt einem Körper infürirenb, unveränderlid und bis jet uner-
+f(ürt. Gr ift eben Dineingebannt, wie ein verzauberter Prinz:
+daffelbe nun gilt von ber chemifchen Farbe eines Körpers.
+
+
+Ich habe in meiner Theorie bargetfan, daß aud) die Her-
+íiteffung des Weißen aus Farben ausfchlieglih auf dem
+phyfiologifhen Grunde ruht, indem fie allein dadurch zu
+Stande fommt, bag ein Yarbenpaar, alfo daß zwei Ergänzungs-
+farben, b. D. zwei "Farben, in melde bie Thätigkeit der Retina,
+fid Halbirend, auseinandergetreten ift, wieder zusammengebracht
+werben. Dies aber kann nur baburd) gefchehn, daß die zwei
+äußern, jede von ihnen im Auge anregenden Urfachen zugleich auf
+eine und diejelbe Stelle ber Retina wirken. Ich Habe mehrere
+Arten Dies zu Wege zu bringen angegeben: am leichteften und
+einfachften erhält man es, wenn man das Violett des pri&matijdjen
+Spektrums auf gelbes Papier fallen läßt. Sofern man aber fid)
+nicht mit bloß prismatiichen Farben begnügen will, wird e8 am
+beiten dadurch gelingen, daß man eine transparente und eine
+refleftirte Farbe vereinigt, 3. B. auf einen Spiegel aus blauem
+Gíafe das Licht burdj ein rothgelbes Glas fallen läßt. Der Aus-
+brud „Lomplementäre Farben“ hat nur, fofern er im phyfio-
+fogi[d)en Sinne verftanden wird, Wahrheit und Bedeutung; außer-
+dem fchlechterdings nidjt.
+
+Goethe Hat, mit Unrecht, die Möglichkeit der Herftellung
+des Weißen aus Farben überhaupt geleugnet: ‘Dies fam aber
+daher, daß Neuton fie aus einem falfchen Grunde unb in
+einem falihen Sinne behauptet hatte. Wäre fie im Neitoni-
+idet Sinne wahr, ober überhaupt Neutons Theorie richtig; fo
+müßte zunächst jede Vereinigung zweier ber von ihm angenom-
+menen  Grnnbfarben jofort eine hellere Farbe, als jede von
+ihnen allein ijt, geben; weil die Bereinigung zweier homogener
+Theile des in solche zerfallenen weißen Lichtes (don ein Rück—
+
+
+ [S. 202]
+
+
+ídritt zur Herjtellung diefes weißen Lichtes wäre. Allein Senes
+ift nicht ein einziges Mal ber Fall. Bringen wir nämlich die
+drei im djemi[djen Sinne fundamentalen Farben, aus denen
+affe übrigen zufammengefekt find, paarweife zufammen; fo giebt
+Blau mit Roth Violett, welches dunkler ijt, als jede von bei
+den; Blau mit Gelb giebt Grün, welches, obwohl etwas heller
+als jenes, doch viel dunkler als diefes ift; Gelb mit Roth giebt
+Orange, welches heller als dieses, aber dunkler als jenes ijt.
+Schon hierin Tiegt eigentlich eine hinreichende Widerlegung der
+Neutonifhen Theorie.
+
+Aber die rechte, fafti(d)e, bünbige und unabweisbare Wider:
+legung derfelben ijt der achromatiiche Refraktor, daher eben aud)
+Neuton, febr fonfequent, einen folhen für unmöglich hielt.
+Befteht nämlich das weiße Licht aus fieben Lichtarten, deren jede
+eine andere Farbe und zugleich eine andere Brechbarkeit Hat: fo
+jind nothwendig der Grad ber Brechung und bie tyarbe des Lichte
+unzertrennliche Gefährten: alsdann muß, wo Vidt gebroden
+ift, e8 fid) aud) gefärbt zeigen; wie fehr aud) dabei bie Brechung
+vermannigfaltigt und fomplicirt, hin und her, hinauf und herab
+gezogen werden mag; jo lange nur nicht alle fieben Strahlen
+vollzählig wieder auf einen Klumpen zufammengebradt find und
+baburdj, mad) Neutonifcher Theorie, ba8 Weiße refomponirt, au-
+gleich aber audj aller Wirkung ber Brechung ein Ende gemadt,
+nümíid) Alles wieder an Ort und Stelle gebrad)t tft. Als nun
+aber die Erfindung ber 9(djroma[ie das Gegentheil diefes 9te[ul-
+tat8 an den Tag legte, da griffen die Neutonianer, in ihrer
+Berlegenheit, zu einer Erklärung, weld man mit Goetfen für
+finnlofen Wortkram zu Halten fid) febr versucht fühlt: denn, beim
+beften Willen, ijt e8 febr [d)mer, ihr aud) nur einen verftänd-
+lihen Sinn, b. B. ein an[djaufid) einigermaaßen Vorftellbares,
+unterzulegen. Da fol nämlich neben ber Tarbenbrehung mod)
+eine von ifr verjdjiebene Farbenzerftreuung Statt finden und
+hierunter zu verftehn seyn das Gidyentfernen der einzelnen far»
+bigen Lichter von einander, das Auseinandertreten derjelben,
+welches bie nüdjfte Ursache der Verlängerung des Spektri ijt.
+Daffelbe ift aber, ex hypothesi, die Wirkung ber verfchiedenen
+SBred)barfeit jener farbigen Strahlen. Beruht num alfo Diele
+fogenannte Zerstreuung, b. 5. die Verlängerung des Spektrums,
+
+
+Zur tarbenfebre. 208
+
+
+alfo des Sonnenbildes nad) ber Brechung, darauf, bag das Licht
+aus verschiedenen farbigen Lichtern bejteht, deren jedes, feiner
+Statur nad), eine verjchiedene Brechbarkeit Dat, b. B. in einem
+andern Winkel bricht; fo muß bod) biefe beftimmte Brechbarkeit
+jedes Lichts, als wejent(idje Gigenjdjaft, ftet8 und überall ihm
+anhängen, alfo das einzelne homogene Licht ftet8 auf die felbe
+Weife gebrochen werden, eben wie c8 stets auf die felbe Weife
+gefärbt ift. Denn ber 9teutonijd)e homogene Tichtjtrahl und feine
+Farbe find durchaus Eines und das Selbe: cr ift eben ein far-
+biger Strahl und fonft nichts: afjo wo ber Lichtitrahl ijt, ba ijt
+feine Farbe, und wo dieje ijt, ba ijt der Strahl. Liegt c8, ex
+hypothesi, in ber Natur eines jeden solchen anders gefärbten
+Strahls audj in einem andern Winfel zu bredien; fo wird ihn
+in diefen und jeden Winkel aud) feine Farbe begleiten: folglid)
+müffen bann bei jeder Brechung die verjchiedenen Farben zum
+Vorschein kommen. Um alfo der von ben Neutonianern belieb-
+ten Erklärung „zwei »erjdjüebenartige brediende Mittel Tonnen
+das Licht gleich stark brechen, aber die Farben in verfchiedenem
+Srade zerftreuen” einen Sinn unterzulegen, müffen wir anneh>
+men, daß, während Krown- und Flint-Glas das Licht im Gan-
+zen, aljo das weiße Licht, gleich [tarf brechen, dennoch die Theile, .
+aus welchen eben diejes Ganze durch und durch befteht, vom
+Flint anders, al8 vom Krown⸗Glas gebrochen werden, alfo ihre
+Brechbarkeit ändern. Kine harte Nuß! — Ferner müjjen fie -
+ihre Brechbarkeit in der Weife ändern, daß, bei Anwendung von
+Ylintglas, die am brechbarsten Strahlen nod) ftärfere Brechbar⸗
+feit erhalten, bie amt wenigften brechbaren Hingegen eine iod)
+geringere Brechbarkeit annehmen; daß alfo diefes Flintglas bie
+Brechbarkeit gewifjer Strahlen vermehrt und zugleid die gemiffer
+anderer vermindert, und dabei dennoch das Ganze, welches allein
+aus biejen Strahlen befteht, feine vorherige Brechbarkeit behält.
+Nichts be[tomeniger fteht diefes fo fchwer faßliche Dogma mod)
+immer in allgemeinem Kredit und Respekt, und fann man, bis
+
+
+' auf den fertigen Tag, aus den optifhen Schriften aller Statio:
+
+
+nen erfehn, mie ernfthaft von der Differenz zwischen Refraktion
+und Disperfion geredet wird. Doc jett zur Wahrheit!
+
+Die nüdjte und wesentliche Urfache der mittelft der Son
+bination des Konverglafes aus Krown- und des Konfanglafes aus
+
+ [S. 204]
+
+
+Flint-⸗Glas zu Stunde gebradjten Achromafie ift, ohne Zweifel, eine
+durhaus phyfiologifche, nämlich die Herstellung ber vollen
+Thätigfeit der Retina, auf den von ben physischen Farben getroffe:
+nen Stellen, inbem dafelbft, zwar nicht 7, aber bod) 2 Farben,
+nämlich zwei fid) zu jener Thätigkeit ergänzende Farben, auf
+einander gebracht werden, aljo ein Farbenpaar wieder vereinigt
+wird. Objektiv, ober phyfilalifch, wird dies folgendermaaßen her-
+beigeführt. ‘Durch die zweimalige Refraktion, in entgegengefek-
+tem Sinne (mittelft Sonfaos und Konverglas) entjteht aud) bie
+entgegengejette Farbenerscheinung, nämlich einerjeit8 ein gelb⸗
+rother Rand mit gefbem Saum, und andrerjeits ein blauer Rand
+mit violettem Saum. Diefe ameimalige 9te[raftion, in entgegen-
+gefegtem Sinne, führt aber auch zugleich jene beiden farbigen
+Kanderfcheinungen bergejtalt über einander, bap der blaue Rand
+den gelbrothen Rand und ber violette Saum den gelben Saum
+bedt, wodurch bieje zwei phyfiologiichen Farbenpaare, nämlid)
+das von Y, und %,, und das von !/, und °/, der vollen Thätig-
+[feit ber Nethaut wieder vereinigt werden, mithin aud) bie Farb-
+[ofigfeit wiederhergejtellt wird. Dies alfo ift die nächte Ursache
+ber Achromasie.
+
+Was nun aber ift die entferntere? Da nämlih baé
+verlangte dioptrifche Resultat, — ein Ueberfhuß farblos blei-
+bender 9tefraftion, — dadurch herbeigeführt wird, daß das in
+entgegengefeßtem Sinne wirkende Flintglas, (dm bei bedeutend
+geringerer Refraftion, die Farbenerscheinung des Krownglafes,
+durch eine gleich breite ihr entgegengefeßte, zu neutralifiren ver-
+mag, weil feine eigenen Farbenränder und Säume [don urfprüng-
+lid) bedeutend breiter, als die des Krownglases, find; jo entfteht
+bie Trage: wie geht e8 zu, daß zwei verschiedenartige brechende
+Mittel, bei gleiher Brechung, eine fo fehr verichiedene Breite
+der Sarbenerfcheinung geben? — Hievon Täßt fid) febr genügende
+Rechenschaft, gemäß ber Goethe’schen Theorie, geben, wenn man
+nämlich dieje etwas weiter und baburd) deutlicher ausführt, als
+er selbst c8 getgan Dat. Seine Ableitung der prismatifchen
+Farbenerscheinung aus feinem oberjten Grundfag, den er Ur
+phänomen nennt, iff vollfommen vidjig: nur Dat ev fie nit
+genug ins Einzelne herabgeführt; während bod) ohne eine gemifje
+Wfribofogie folhen Dingen fein Genüge geschieht. Er erklärt
+
+
+Zur Farbenlehre. 205
+
+
+ganz richtig jene farbige, die Refraktion begleitende Randerfcei-
+nung aus einem, das durch Brechung verrüdte Hauptbild be-
+gleitenden Nebenbilde. Aber er Hat nicht bie Lage und Wir-
+fungsweife dieses Nebenbildes ganz fpeciell bestimmt und durch
+eine Zeichnung veranjchaulicht; ja, er fpridht durchweg nur von
+einem Nebenbilde; wodurd denn bie Cade fo zu ftehn kommt,
+dag mir annehmen miüjjen, nidjt bloß das Licht oder Teuchtende
+Bild, fondern aud) bie c8 umgebende Finfterniß erleide eine
+Brehung. Ih muß daher hier feine Sache ergänzen, um zu
+zeigen, wie eigentlich jene, bei gleicher Brechung, aber verfchie-
+denen brechenden Subjtanzen, verschiedene Breite der farbigen
+Randerscheinung entfteht, welche bie Nentonianer durch den finn-
+fofen Ausdrud einer VBerfchiedenheit der Refraftion und Disper-
+sion bezeichnen.
+
+Zuvor ein Wort über den Urfprung biejer, bei der 9tefrat-
+tion, das Hauptbild begleitenden Nebenbilder. Natura non fa-
+cit saltus: fo lautet das Gejeg der Kontinuität aller Ver—
+änderungen, vermöge dessen, im ber Natur, kein Uebergang,. fei
+er im Raum, ober in ber Zeit, ober im Grade irgend einer
+Figenfchaft ganz abrupt eintritt. Nun wird das Licht, bei fei-
+nem Eintritt in das Prisma, und abermals bei feinem Austritt,
+alfo zwei Mal, von feinem geraden Wege plötlich abgelenft.
+Sollen wir nun vorausfegen, dies gejchehe jo abrupt und mit
+folder Schärfe, daß dabei das Licht auch nicht die geringfte Ver⸗
+mifhung mit ber e8 umgebenden Finfterniß erlitte, fondern, mit-
+ten durch bieje, in fo bedeutenden Winkeln, jid) schwenkend, bod)
+feine Grüngen auf das Schärfite bewahrte, — fo daß e8 in ganz
+unvermifchter Lauterfeit durchläme und ganz vollitändig zusam—
+menbfiebe? — Sit nicht vielmehr die Annahme naturgemäßer, ba,
+fowohl bei der erften, als bei der zweiten Bredhung, ein febr
+feiner Theil biejer Lichtmasse nicht fchnell genug in bie neuc
+Richtung komme, fid) dadurd etwas abjonbere und nun, gleich—
+fam eine Erinnerung des eben verlafjenen Weges nadjtragenb,
+als Nebenbild das Hauptbild begleite, nad) der einen Brechung
+etwas über, nad) der andern etwas unter ihm fchwebend? Sa,
+man fünnte hiebei an die Bolarifation des Lichts, mittelft eines -
+Spiegels, benfen, ber einen Theil dejjelben zurüdwirft, einen
+andern durchläßt.
+
+ [S. 206]
+
+
+Beifolgende Figur zeigt nun jpecieffer, wie aus ber Wir-
+fung jener beiden, Dei der prismatifchen Refraftion abfallenden
+Nebenbilder, gemäß dem Goethe’fchen Grundgefeke, bie vier pris-
+matijden Farben entjtehn, als welche allein, nicht aber fieben,
+wirklich vorhanden find.
+
+
+Diefe, Figur ftellt eine auf schwarzes glanzlofes Papier geflebte,
+weiße Papieriheibe, von etwan 4 Zoll Durchmeffer, vor, wie
+jte, burd) das Prisma, in einer Entfernung von etwan 3 Schrit—
+ten, angefchaut, in der Natur und nicht nad) Neutonischen Sitio:
+nen, fid) darftellt. Hievon nun aber Bat hier Jeder, ber wifjen
+will wovon die Rede fei, fid) durch Autopfie zu überzeugen. Er
+wird alsdann, das Prisma vor die Augen Haltend und bald
+näher, bald ferner tretend, die beiden Nebenbilder beinahe geradezu
+und unmittelbar wahrnehmen, und wird fehn, wie fie, feiner Be-
+wegung folgend, fid) vom Hauptbilde bald mehr, bald weniger
+entfernen und über einander fchieben. — Brismatifche Versuche
+überhaupt laffen fid) auf zweierlei Weife madjen: entweder fo,
+
+
+Zur Farbenlehre. 207
+
+
+bap die Nefraktion der Reflerion, oder fo, daß diefe jener vor-
+fergebt: Ersteres gefchieht, wenn das Sonnenbild burd) das
+Prisma auf die Wand fällt; Lebteres, wenn man burd) das
+Prisma ein weißes Bild betrachtet. Diefe fettere Art ijt nicht
+wur weniger umjtändlih auszuführen, fondern zeigt aud) das
+eigentliche Phänomen viel deutlicher; welches daher fommt, daß
+hier die Wirkung ber Refraftion unmittelbar zum Auge gelangt,
+woburd) man ben Bortheil Hat, die Wirkung aus eriter Hand
+zu erhalten, während man fie, bei jener andern Art, erít ans
+zweiter Hand, nämlich nad) gejchehener Neflerion, von der Wand
+erhält: ein zweiter Vortheil hiebei ijt, daß das Licht von einem
+nahen, scharf begränzten und nicht blendenden Gegenftande aus-
+geht. Daher zeigt denn die hier abgebildete weiße Scheibe ganz
+deutlich bie fie begleitenden, auf Anlaß einer zweimaligen, fie
+nach oben verrückenden Refraktion entftandenen zwei Nebenbilder.
+Des von ber er[tem Refraktion, bie beim Eintritt des Lichts in
+da8 Prisma Statt findet,’ herrührende Nebenbild fchleppt Hinten
+nah und bleibt daher mit feinem äußerften Rande nod) in ber
+Finsterniß fteden und von ihr überzogen; das andere hingegen,
+welches bei ber zweiten Refraktion, afjo beim Austritt des Lichts
+aus dem Prisma, entiteht, eilt vor unb zieht fid) deshalb über
+die Finfterniß Ber. Die Wirkungsart beider erftredt fid) aber
+quj, wiewohl schwächer, auf ben Theil des Hauptbildes, ber
+duch ihren Verlust geschwächt ijt; daher nur der Theil deijelben,
+mer von beiden Nebenbildern bededt bleibt, und aljo fein
+volleg Licht behält, weiß erfcheint: da Hingegen, mo ein Neben-
+bild allein mit der Finfterniß kämpft, oder das burd) den Ab-
+gang diefes Nebenbildes etwas gejdjmüd)te Hauptbild schon von
+der Finfterniß beeinträchtigt wird, entitehn $yavben, und zwar
+dem Goethe’fchen Gejege gemäß. Demnach fchn wir am ober
+Zheile, wo ein Nebenbild allein voreilend fid) über bie schwarze
+Fläche zieht, violett entftehn; barunter aber, wo schon das Haupt-
+bild, jedoch durch Verluft geschwächt, wirft, blau; am untern
+Zheile des Bildes Hingegen zeigt fid) ba, wo das einzelne Neben-
+bild in ber Finfternig fteden bleibt, gelbroth, darüber aber, wo
+(jon das geschwächte Hauptbild durchscheint, gelb; eben wie bic
+aufgehende Sonne zuerft vom didern, niebern Dunftkreife bedeckt
+gelbroth, in den dünnern angelangt, mur nod) gelb ericheint.
+
+ [S. 206]
+
+
+Beifolgende Figur zeigt mum jpecieffer, wie aus ber Wir-
+fung jener beiden, bei der pri&matijdjen Nefraktion abfallenden
+Nebenbilder, gemäß dem Goethe'schen Grundgefete, die vier pris-
+matischen Farben entjtehn, als welche allein, nicht aber fieben,
+wirklich vorhanden find.
+
+
+Diefe, Figur ftellt eine auf schwarzes glanzlofes Papier gellebte,
+weiße Papierjcheibe, von etwan 4 Zoll Durchmesser, vor, wie
+fie, burd) das Prisma, in einer Entfernung von etwan 3 Schrit—
+ten, angefehaut, in der Natur und nit nad) Neutonifchen Fiktio—
+nen, fid) darftellt. Hievon nun aber fat hier Jeder, der wiffen
+will wovon die Rede fei, fid) durch Autopfie zu überzeugen. Er
+wird alsdann, das Prisma vor die Augen Haltend und bald
+nüher, bald ferner tretend, die beiden Nebenbilder beinahe geradezu
+und unmittelbar wahrnehmen, und wird fehn, wie fie, feiner Be-
+wegung folgend, fid) vom Hauptbilde bald mehr, bald weniger
+entfernen unb über einander [djieben. — Brismatifhe Versuche
+überhaupt Taffen fi auf zweierlei Weife machen: entweder fo,
+
+
+Sur Farbenlehre. 207
+
+
+bap bie Refraktion der Reflexion, oder fo, daß diese jener vor-
+hergeht: Erfteres gefhieht, wenn das Sonnenbild durch das
+Prisma auf die Wand fällt; Lebteres, wenn man durd) das
+Prisma ein weißes Bild betradjtet. Diefe lettere Art ift nicht
+nur weniger umftändlih auszuführen, fondern zeigt aud) das
+eigentliche Phänomen viel deutlicher; welches daher kommt, baf
+hier die Wirkung der Refraktion unmittelbar zum Auge gelangt,
+wodurch man den Bortheil Bat, die Wirkung aus erjter Hand
+zu erhalten, während man fie, bei jener andern Art, erft aus
+zweiter Hand, nämlich nad) gefchehener Reflerion, von der Wand
+erhält: ein zweiter Vortheil Hiebei ijt, daß das Licht von einem
+nahen, fcharf begränzten und nicht blendenden Gegenftande aus-
+geht. Daher zeigt denn die Hier abgebildete weiße Scheibe ganz
+deutlich bie fie begleitenden, auf Anlaß einer zweimaligen, fie
+nad oben verrüdenden Refraktion entftandenen zwei Nebenbilder.
+Das von ber erften Refraktion, bie beim Eintritt des Lichts in
+das Prisma Statt findet, herrührende Nebenbild fchleppt Hinten
+mad) unb bleibt daher mit feinem üußerften Rande nod) in ber
+Finsterniß fteden und von ihr überzogen; das andere Hingegen,
+welches bei der zweiten Refraktion, alfo beim Austritt des Lichte
+aus dem Prisma, entiteht, eilt vor und zieht fid) deshalb über
+die Finfterniß Der. Die Wirkungsart beider erftredt fid) aber
+aud), wiewohl schwächer, auf den Theil des Hauptbildes, ber
+durch ihren Verluft geschwächt ijt; daher nur ber Theil deffelben,
+weldher von beiden Nebenbildern bebedt bleibt, und alfo fein
+volfes Licht behält, weiß erjcheint: da Hingegen, wo ein Neben-
+bild allein mit der Finfterniß fümpft, oder das burd) den Ab-
+gang dieses Nebenbildes etwas geschwächte Hauptbild schon bon
+der Finfterniß beeinträchtigt wird, entftehn Farben, und zwar
+dem Goethe’fchen Gejege gemäß. Demnach fehn wir am ober
+Theile, wo ein Nebenbild allein voreilend fid) über die schwarze
+Fläche zieht, violett entftehn; darunter aber, wo schon das Haupt-
+bild, jebod) durch Verlust geschwächt, wirkt, blau; am untern
+Theile des Bildes hingegen zeigt fid) ba, mo das einzelne Neben-
+bild im ber Finfterniß fteden bleibt, gelbroth, darüber aber, wo
+(don das geschwächte Hauptbild durchicheint, gelb; eben wie bic
+aufgehende Sonne zuerft vom didern, niedern Dunftkreife bedeckt
+gelbroth, in den dünnern angelangt, nur nod) gelb erjcheint.
+
+
+Wenn wir nun diefes wohl gefaßt unb eingefehn Haben,
+wird e8 uns nicht fchwer werden, wenigftens im Allgemeinen zu
+begreifen, warum, bei gleicher Brechung des Lichts, einige
+brechende Mittel, wie eben das Flintglas, eine breitere, andere,
+wie das Kromnglas, eine fehmälere, farbige Randerfcheinung
+geben; oder, in ber Sprache der Neutonianer, worauf bie lli
+gleichmäßigfeit der Lichtbrechung und Tarbenzerftreuung, ihrer
+Möglichkeit nach, beruBe. Die Brehung nämlid) ijt die Ent-
+fernung des Hauptbildes von feiner Einfallslinier die Zer-
+streuung Hingegen ijf bie dabei eintretende Entfernung der bei-
+den Nebenbilder vom Hauptbilde: diefes Accidens nun aber finden
+wir bei verfchiedenartigen Tichtbrecdenden Subftanzen in ber:
+(diebenem Grade vorhanden. Demmad) fünnen zwei durchsichtige
+Körper gleihe Brechungskraft haben, b. D. das burd) fie gehende
+Lichtbild gleich weit von feiner Einfallslinie ablenfen; dabei
+jedoch können bie Nebenbilder, welche bie Farbenerjcheinung
+verurfachen, bei der Brechung burdj den einen Körper mehr, ale
+bei der durch den andern, fid) vom Hauptbilde entfernen.
+
+Um nun diefe Otedjenidjaft von ber Cade mit der jo oft
+wiederholten, oben analyfirten, Neutonianifchen Erklärung des
+Bhänomens zu vergleichen, wähle id) bem Ausdrud diefer lebte
+ren, welcher am 27. Dftober 1836 in den „Münchner gelehrten
+Anzeigen“, nach den philosophical transactions, mit folgenden
+Worten gegeben wird: „‚verjchiedene durchfichtige Subftanzen
+„brechen die verfchiedenen homogenen Lichter in sehr ungleidjem
+„Berhältniß;*) jo daß das Spektrum, durch verfchiedene bredhende
+„Mittel erzeugt, bei übrigens gleichen Umjtünben, eine febr ver:
+‚Ahiedene Ausdehnung erlangt.” — Wenn die Verlängerung des
+Spektrums überhaupt von ber ungleihen Brechbarfeit ber homo—
+genen Lichter jelbft herrührte; fo müßte fie überall dem Grade
+der Brechung gemäß ausfallen, und demnach könnte nur in Folge
+größerer Brechungskraft eines Mittels größere Verlängerung des
+Bildes entftehn. — Sft nun aber Dies nicht ber Fall; fondern
+giebt von zwei, gleich stark brechenden Mitteln das eine ein länge:
+res, das andere ein füvgere8 Speltrum; fo beweift ‘Dies, daß die
+
+
+*) jeboch die Summe en ba8 meife Licht, im gleichem! setze ich
+ergänzend hinzu.
+
+
+Zur Farbenlehre. 209
+
+
+Berlängerung des Spektri nicht direlte Wirkung ber Brechung,
+fondern bloß Wirkung eines bie Brechung begleitenden Accidens
+ji. Ein solches nun find bie dabei entftehenden Nebenbilder:
+diefe fónnen fehr wohl, bei gleicher Brehung, nad Befchaffen-
+heit ber brechenden Subftanz, fid) mehr obey weniger vom
+Hauptbilde entfernen.
+
+Solite man nit meynen, daß Betrachtungen diefer Art den
+Reutonianern die Augen öffnen müßten? Freilich wohl, . wenn
+man nod) nicht weiß, wie groß und wie entjeßlich der Einfluß
+ijt, den auf die Wissenschaften, ja, auf alle geiftigen eiftungen,
+ber Wille ausübt, b. b. bie Neigungen, und nod) eigentlicher
+zu reden, bie fchlechten Neigungen. Der Englische Maler unb
+Gallerieinfpeltor Eastlake Bat, 1840, eine fo überaus vor-
+trefffide Englifhe Weberfegung der Tarbenlehre Goethe's ge-
+liefert, bag fie das Original volllommen wiedergiebt und dabei
+fid) Leichter Tieft, ja, leichter zu verftchn ift, als diefes. Da
+mnB man nun fehn, wie Brewiter, ber fie in der Edinburgh
+review tecenfirt, fid) dazu gebürbet, nämlich ungefähr fo, wie
+eine Xiegerin, in beren Höhle man bringt, ihr bie Jungen zu
+entreißen. Ist etwan Das ber Ton ber ruhigen und fichern
+Ueberzeugung, dem Irrthum eines großen Mannes gegenüber?
+Es ift vielmehr ber Ton des intellektuellen fchlechten Gewissens;
+welches, mit Schreden, das Recht auf ber andern Seite jpürt
+unb num entfchloffen ift, bie ohne Prüfung gedankenlos ange-
+nommene Scheinwiffenfhaft, durch deren Fefthalten man jid) be-
+reits Tompromittirt hat, je&t als Nationaleigentbum rv& xat a£
+zu vertheidigen. Wird nun afjo, bei den Engländern, die Neu-
+tonifhe iarbenfebre al8 Nationaljache genommen; fo wäre eine
+gute Franzöfifhe Uebersetzung des Goethe'schen Wertes höchst
+wünjdenémertf: denn von ber Franzöfiichen Gelehrtenwelt, als
+einer infofern neutralen, wäre allerdings Gerechtigkeit zu hoffen;
+wenn gleich aud) von ihrer Befangenheit in der Neutonifchen
+Farbenlehre einftweilen beluftigende Proben vorfommen. So
+j. B. erzählt im Journal des savants, April 1836, Biot mit
+Herzensbeifall, wie Arago gar pfiffige Experimente angeltelít
+Babe, um zu. ermitteln, ob nicht etwan bie 7 homogenen Lichter
+eine ungleihe Schnelligkeit der Fortpflanzung hätten; fo daß
+bon ben veränderlichen Firfternen, die bald näher, bald ferner
+
+
+ [S. 210]
+
+
+jtehn, etwan ba8 rotfe, oder das violette Licht zuerft anlangte
+und daher der Stern successiv verfchieden gefärbt erjchiene: er
+"hätte aber am Ende glücklich herausgebracht, daß bem bod) nicht
+fo wäre. Sancta simplicitas! — Recht artig madjt es aud)
+démie des sciences le 13 Juin 1842, vor ber 9(fabemie, das
+alte Lied von Frifchem anftimmt, als wäre e8 ein neues; si on
+refracte un faisceau (!) de rayons solaires à travers un
+prisme, on distingue assez nettement (hier Hopft das
+Gewiffen an) sept sortes de couleurs, qui sont: le rouge,
+l'orangé, le jaune, le vert, le bleu, lindigo (diefe Mifchung
+von %, Schwarz mit !/, Blau fol im Lichte jtefen!) et le violet.
+Da Hr. Becquerel bieje8 Stüd aus bem Neutonifchen Credo,
+32 Sabre nad) dem Erfcheinen der Goethe'schen Farbenlehre, nod)
+(o unbefangen und furdtlos abzufingen fid) nicht entblödet; fo
+fónnte man fid) verfucht fühlen, ihm assez nettement zu belfa-
+riren: „entweder ihr feid blind, oder ihr lügt.“ Allein man
+würde ihm doch Unrecht thun: denn e8 liegt bloß daran, daß
+Herr Berquerel dem Neuton mehr glaubt, als feinen eigenen,
+zwei offenen Augen. Das wirft bie Neuton-Superftition. —
+
+Was aber die Deutichen betrifft, fo entipricht ihr Urtheil
+über Goethe's Farbenlehre den Erwartungen, die man fid zu
+machen Hat von einer Nation, weld einen geift- und verdienft-
+fofen, Unfinn (djmierenben, und durchaus hohlen Philofophafter,
+wie Hegel, 30 Sabre fang als den größten aller Denker und
+Weifen prüfoni[iren fonnte, und zwar in einem folchen Tutti, bag
+ganz Europa davon wiederhallte. Wohl weiß ich, daß desipere
+est juris gentium, b. D. daß jeder das Recht hat, zu urtheilen,
+wie er'8 verfteht und wie's ihm beliebt: dafür aber wird er fid)
+bann aud) gefallen lafien, von Nahlommen und zuvor noch
+von 9tadjbarn nad) feinen Urtheilen beurtheilt zu werden. Denn
+aud) hier giebt e8 noch eine Nemefis,
+
+
+Am Schlusse diefer d)romatofogi(d)et Stad)trüge will id) nod)
+ein Paar artige Thatfachen beibringen, welche zur. Beitätigung
+des von Soethen aufgeftellten Grundgesetzes der physischen Farben
+dienen, von ihm selbst aber nicht bemerkt worden find.
+
+
+Zur Farbenlehre. 211
+
+
+Wenn man, in einem finjtern Zimmer, bie Eleltricität des
+Konduktors in eine [uftleere Glasröhre einftrömen läßt; fo erfcheint
+dies eleftrifche Licht fehr schön violett. Hier ift, eben wie bei
+den blauen Flammen, das Licht felbft zugleich das trübe Mittel:
+denn es ijt fein wejentlicher Unterfchied, ob das erleuchtete
+Arübe, burd) weldes man ins Dunmkle fieht, eigenes ober
+reflektirtes Licht ind Auge wirft. Weil aber Bier dies elektrische
+“ht ein überaus dünnes und schwaches ift, verurfacht es,
+ganz nad) Goethe's Lehre, violett; ftatt baB aud) die schwächeste
+Flamme, wie die des Spiritus, Schwefels u. j. w. fchon blau
+
+Ein alltäglier und vulgarer, aber von Goethen überfehener
+Beleg zu feiner Theorie ijt, daß manche, mit rothem Wein, oder
+dunkelm Bier, gefüllte Bonteillen, nachdem fie längere Zeit im
+Keller ge[tanben haben, oft eine beträchtliche Trübung des Glases,
+durch einen Ansatz im Innern, erleiden, in Folge welcher fie als-
+dann, bei auffallendem Lichte, Hellblau erjcheinen, und eben fo,
+wenn men, nadjbem fie ausgeleert find, etwas Schwarzes da-
+hinter hält: bei durchscheinendem Lichte Hingegen zeigen fie bie
+Tarbe der Flüffigfeit, oder, wenn leer, des Glases. —
+
+Die gefärbten Ringe, welche fid) zeigen, wenn man zwei
+geichliffene Spiegelgläfer, ober aud) konvex gejchliffene Glüjer,
+mit den Fingern feft zufammenpreßt, exf(üre ich mir auf folgende
+Weise. Das Glas ijt nicht ohne Elafticität. Daher giebt, bei
+jener ftarfen Kompression, die Oberfläche etwas nad) und wird
+eingebrüdt: dadurd verliert fie für den Augenblid die voll-
+fommene Glätte und Ebenheit, woburd) denn eine grabweife
+zunehmende Trübung entítet. Wir haben alfo aud) Hier ein
+trübes Mittel, und die verfchiedenen Abftufungen feiner Trübung,
+bei theils aujfalfenbem, theils durchgehenden Licht, verurfachen
+die farbigen Ringe. Läßt man das Glas (o8, fo ftellt al8bald
+die Elafticität feinen vorigen Zuftand wieder Der, und die Ringe
+verfchwinden. Neuton legte eine Linse auf die Glasplatte; daher
+nennt man die Ringe bie Neutonifhen. Auf die Kurve biejer
+Linse und den Raum zwifchen ihr und ihrer Tangente gründet
+die heutige Undulationstheorie ihre Berechnung der Schwingungs-
+zahlen der Farben; wobei fie die Luft in jenem Zwifchenraum
+als vom Glas verjchiedenes Medium, und demnah Brechung
+
+
+ [S. 212]
+
+
+unb homogene gidter annimmt. Alles ganz fabelhaft. (©.
+die Darftellung der &ade in Ule’s „Die Natur‘ 1859, 30. Juni
+Nr. 26.) Es ijt gar feine Linfe dazu nöthig: zwei Spiegel-
+gíüjer, mit dem Finger gedrüdt, Teiften e8 amt beften, und um
+fo befjer, je länger man fie bald Hier, bald ba brüdt; wobei
+gar Fein Zwischenraum nebst Quft(djid)t bleibt, ba fie pueu
+matifh an einander hängen. Eben fo find bie Yarbın
+ber Seifenblafen die Wirkung wechselnder lokaler Trübungen
+bieje8 halb durchsichtigen Stoffes; eben fo bie einer Terpentin
+
+
+Goethe Hatte den treuen, fid) Hingebenden, objektiven Bid
+in die Natur der Sahen; Neuton war bloß Mathematifa,
+stets eilig nur zu messen und zu rechnen, und zu bem Zweck ein
+aus der oberflächlich aufgefaften Erfcheinung zufanmengeflidt
+Theorie zum Grunde legend. Dies ift die Wahrheit: fchneide
+Gefichter wie ihr wollt!
+
+Hier mag nun nod ein Auffag dem größeren Publiko mit
+geteilt werben, mit welchem id) mein Blatt des, bei Gelegenheit
+des hundertjährigen Geburtstages Goethe’s, im Jahre 1849, von
+der Stadt Frankfurt eröffneten und in ihrer Bibliothek deponirten
+Albums auf beiden Seiten vollgefchrieben habe. — Der Eingang
+deffelben bezieht fid) auf bie höchst impofanten Feierlichkeiten, mit
+denen jener Tag öffentlich dafelbft begangen worden war. |
+
+
+In das Frankfurter Goethe-Album.
+
+
+Nicht befränzte Monumente, noch Kanonenfalven, nj
+Slodengelänte, gejchweige Festmahle mit Reben, reichen Hin, das
+fchwere und empürenbe Unrecht zu fühnen, welches Goethe erleikt
+in Betreff feiner Farbenlehre. Denn, ftatt daß die vollkommen
+Wahrheit und hohe Vortrefflichkeit derfelben gerechte Anerkennung
+gefunden hätte, gilt fie allgemein für einen verfehlten Versuch,
+über welden, wie jüngft eine Zeitfchrift fid) ausbrüdte, die
+Leute vom Fache mur Lächeln, ja, für eine mit Stadjfuft und
+Vergefjenheit zu bededende Schwähe des großen Mannes. —
+Diefe beifpiellofe Ungerechtigkeit, diefe unerhörte Verkehrung
+aller Wahrheit, ijt nur baburd) möglich geworben, bag ci
+
+
+Zur Farbenlehre. 213
+
+
+itumpfes, trüge8, gleidhgültiges, urtheilslofes, Folglich Leicht
+betrogenes Publikum in diefer Sache fich aller eigenen Unter:
+juhung unb Prüfung, — jo leiht auch, fogar ohne Vorfennt-
+niffe, folche wäre, — begeben hat, um fie den „Leuten von Fach“,
+b. f. den Leuten, mefdje eine Wissenschaft nicht ihrer felbft,
+jondern des Lohnes wegen betreiben, anheimzuftellen, unb mm
+von diefen fid) durch Machtsprüche und Grimaffen imponiren
+fügt. Wollte nun ein Mal diefes Publikum nicht aus eigenen
+Mitteln urtheilen, fondern, wie die Unmündigen, fid) durch Auf-
+terität leiten faffen; fo hätte doch wahrlih bie Auftorität des
+größten Mannes, weldhen, neben Sant, die Nation aufzuweifen
+fat, und nod) dazu in einer Sade, bie er, fein ganzes Leben
+hindurch, als feine Hauptangelegenheit betrieben hat, mehr Ge
+wicht haben follen, als bie vieler Tausende folder Gewerbsleute
+zusammengenommen. Was nun die QGnt(djeibung diefer Fach:
+männer betrifft; jo ijt die ungeschminkte Wahrheit, daß fie fid)
+erbärmlich gefhämt haben, als zu Tage fam, baf fie das hand⸗
+greiflih Falsche nicht nur fid) hatten aufbinden lassen, fondern
+es hundert Sabre Hindurch, ohne alle eigene Unterfuchung und
+Prüfung, mit blindem Glauben, und anbüdtiger Bewunderung,
+verehrt, gelehrt und verbreitet hatten, bis denn zulett ein alter
+Tot gelommen war, fie eines befjern zu belehren. Nach biefer,
+ijt zu verwindenden Demüthigung haben [ie alsdann, wie
+Sünder pflegen, fid) verftodt, die fpäte Belehrung trogig von
+fif gewiefen und burd) ein, jetzt (don vierzigjähriges, hartnäckiges
+seithalten am aufgededten und nachgewiefenen offenbar Faljchen,
+je, Abfurden, zwar Frist gewonnen, aber aud) ihre Schuld ver-
+hundertfacht. Denn veritatem laborare nimis saepe, extingui
+punquam, hat (djon Living gejagt: ber Tag ber Enttäufchung
+wird, er muß kommen: unb dann? — Nun dann — „wollen
+wir ung gebärben wie wir fünnen^. (Egm. 3, 2.)
+
+In den deutfchen Staaten, welche 9(fabemien der Wiffen-
+idaften befiten, könnten die benjefben vorgefegten Minifter des
+Önentlichen Unterrichts ihre, ohne Zweifel vorhandene, Ver—⸗
+ehrung Goethes nicht edler und aufridhtiger an ben Tag legen,
+d$ wenn fie jenen Alademien die Aufgabe ftellten, binnen ge-
+Met Frist, eine gründliche und ausführliche Unterfuchung und
+fritif ber Goetheschen Garbentefre, nebft Entfcheidung ihres Wider-
+
+
+streites mit der Neutonischen, zu liefern. Möchten bod) jene Body
+gestellten Herren meine Stimme vernehmen und, ba fie Gerech—
+tigkeit für unsern größten Todten anspricht, ihr willfahren, ohne
+erit Die zu Rathe zu ziehn, welche, durch ihr unverantwortlices
+Schweigen, felbjt Mitschuldige find. Dies ift der ficherite Weg,
+jene unverdiente Schmach von Goethen abzunehmen. Aldbanı
+nämlich würde bie Sade nidt mehr mit Machtsprüchen um
+Srimafjen abzuthun seyn und aud das unverfchämte Vorgeben,
+daß e$ bier nicht auf Urtheil, fondern auf Rechnerei anfümr,
+fid) nicht mehr hören laffen dürfen: vielmehr würden die Gilden
+meifter fid) in die Alternative verjeßt fehn, entweder der Wahr:
+heit die Ehre zu geben, ober fid) auf das Alferbedenklichfte zu
+fompromittiren. ‘Daher läßt, unter dem Einfluß folder Daum-
+ihrauben, fid) etwas von ihnen Hoffen; fürchten hingegen, nidi
+ba8 Geringfte. Denn, wie follten bod), bei ernftlicher unb ehr
+[ider Prüfung, bie Nentonifchen Chimären, die augenfällig gar
+nicht vorhandenen, fondern bloß zu Gunfte ber ZTonleiter er
+fundenen fieben prismatifchen Farben, das Roth, welches feine
+ijt, und das einfache Urgrün, welches auf das deutlichite, vor
+unfern Augen, fid) ganz naiv und unbefangen aus Ylau um
+Selb zufammenmifcht, zumal aber die Monftrofität ber im lau
+tern, Haren Sonnenlichte ftedenden und verhülften, bunten,
+jogar indigofarbnen, homogenen Lichter, dazu mod) ihre verfdic
+dene Refrangibilität, die jeder achromatifche SOpernfuder Lügen
+jtraft, — wie follten, fage ich, biefe Mährchen Hecht ‘behalten,
+gegen Goethe’ flare und einfache Wahrheit, gegen feine auf ein
+großes Naturgefeg zurücdgeführte Erklärung aller Farbenerfdei-
+nungen, für welches die Natur überall und unter jebweden Um:
+jtänden ihr unbeftochenes Zeugniß ablegt! Eben [o gut Tönnten
+mir befürdten, das Ein Dial Eins widerlegt zu fehn.
+
+Qui non libere veritatem pronuntiat proditor veritatis est.

@@ -1,0 +1,2705 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a readable scan whose display headings are garbled
+# title: Ueber die Universitaets-Philosophie (in: Parerga und Paralipomena, Erster Band)
+# title_en: On university philosophy - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Erster Band, Berlin: A. W. Hayn 1851, S. 129-188; the volume's preface is signed "Frankfurt a. M., im December 1850". Text layer: Internet Archive 10927137, scored READABLE (14 common words per hundred, und 4,366, unb 0, long s 31,774). SEAMS BY INTERPOLATION, and the file header says so: the display headings of this copy are garbled, so boundaries were fixed by measuring the running heads (page number with the piece's name) and interpolating between the nearest; a paragraph or two may therefore stand on the wrong side of a seam. Page markers were made only from heads that give a number and name the piece.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/10927137
+# fetched: 2026-10-26
+# note: ADDED IN PASS 14, which finally opened the FIRST band of 1851 - the five pieces the collection had never held in German, the Aphorismen (file 04) being the exception. THE TITLE CORRECTS THIS CATALOGUE. Pass 1 recorded a missing piece as "Ueber das Interesse an der Philosophie"; the volume's own table of contents names no such piece - what it names at S. 129 is "Ueber die Universitaets-Philosophie", and that is what is here. This is the text behind every story of his contempt for the professors: the thinker as the abnormal creature whose instinctive, objective, quixotic devotion to a work not his own is exactly what outlives him, with Aristotle's Ethics quoted against those who advise human thoughts for humans. If a RAG answer on "his quarrel with the universities" rests on a biography, it rests on sand; this is the ground. OCR warning as elsewhere in this scan: f for the long s, and letters mangled ("Philoſophi" for "Philosophie"), so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: the FIRST band of Parerga und Paralipomena, Berlin: A. W. Hayn 1851, from the Internet Archive scan 10927137, whose body is READABLE (bin/ia-read.js: 14 common words per hundred, und 4,366, unb 0, long s kept 31,774 times) but whose DISPLAY HEADINGS are garbled. So the seams of these pieces were fixed from the running heads rather than the headings: every head that gives a page number and names one of the pieces was measured (page and offset), and a boundary was taken by interpolating between the two nearest measured heads. THE ERROR IS NAMED, not hidden: a paragraph or two may stand on the wrong side of a seam, and where the volume's own table of contents says a piece begins, that page is quoted in this header so the reader can see what was aimed at. This piece stands on pages 129-188 by that table of contents. Page markers in this file were made only from heads that give a number and name the piece (5 made, S. 138 to S. 175). Short OCR noise lines dropped (106); long s normalised to s (4246); and this layer prints f for the long s in places, so read a quotation against the scan (bin/schop-grep.js -f folds it). It also mixes stray words in now and then - the copy has English leaves bound with it - and it mangles letters ("Philoſophi" for "Philosophie", "Geifterfehn" for "Geistersehn"), so a query in correct modern spelling can return nothing. the piece behind every story about his contempt for the professors: philosophy as a branch of the police, and the thinker as the abnormal, eccentric, Quixotic creature whose work alone outlives him.]
+
+th auszulegen, sondern allein die Rich⸗
+des darin ausgedrückten Gedankens im Auge zu behalten,
+
+1 stehn lassend, ob irgend etwas davon auf mich Anwen⸗
+finden koͤnne, oder nicht. Quiconque se plait & consi-
+Tr esprit humain voit, dans chaque siècle, eing ou
+
+
+Folge des alten, unversöhnlichen Krieges, den überall
+dar Unfähigkeit und Dummheit gegen Geist und Ver-
+„= sie durch Legionen, er durch Einzelne vertreten, —
+
+der, der das Werthvolle und Aechte bringt, einen schweren
+ahn, gegen Unverstand, Stumpfheit, verdorbenen Ge⸗
+zatinteressen und Neid, alle in würdiger Allianz, näm⸗
+
+
+ue des sots contre les gens esprit, on croirait voir
+rat
+
+
+ration de valets pour €carter les maitres, Mir
+
+
+er, von welcher Chamfort sagt: en examinant la
+
+
+126 Einige Bemerkungen
+
+
+aber war außerdem noch ein ungewöhnlicher Feind hinzugege⸗
+ben: ein großer Theil Derer, welche in meinem Fache das Ur⸗
+theil des Publikums zu leiten Beruf und Gelegenheit hatten,
+war angestellt und besoldet, das Allerschlechteste, die Hegelei, zu
+verbreiten, zu loben, ja in den Himmel zu erheben. Dies kann
+aber nicht gelingen, wenn man zugleich das Gute, auch nur ei⸗
+nigermaaßen, will gelten lassen. Hieraus erkläre sich der spä⸗
+tere Leser die ihm sonst räthselhafte Thatsache, daß ich meinen
+eigentlichen Zeitgenossen fo fremd geblieben bin, wie der Mann
+im Monde. Jedoch hat ein Gedankensystem, welches, auch beim
+Ausbleiben aller Theilnahme Anderer, seinen Urheber ein langes
+Leben hindurch unablässig und lebhaft zu beschäftigen und zu an⸗
+haltender, unbelohnter Arbeit anzuspornen vermag, eben hieran
+ein Zeugniß für seinen Werth und seine Wahrheit. Ohne alle
+Aufmunterung von außen hat die Liebe zu meiner Sache ganz
+
+
+allein, meine vielen Tage hindurch, mein Streben aufrecht ge⸗ 5
+
+
+halten und mich nicht ermüden lassen: mit Verachtung blickte ich
+dabei auf den lauten Ruhm des Schlechten. Denn beim Eintritt
+ins Leben hatte mein Genius mir die Wahl gestellt, entweder
+die Wahrheit zu erkennen, aber mit ihr Niemanden zu gefallen;
+oder aber, mit den Andern das Falsche zu lehren, unter Anhang
+und Beifall: mir war fie nicht schwer geworden. Demgemäß
+nun aber wurde das Schicksal meiner Philosophie das Wider⸗
+spiel dessen, welches die Hegelei hatte, so ganz und gar, daß
+man beide als die Kehrseiten des selben Blattes ansehn kann,
+der Beschafsenheit beider Philosophien gemäß. Die Hegelei, ohne
+Wahrheit, ohne Klarheit, ohne Geist, ja ohne Menschenverstand,
+dazu noch im Gewand des ekelhaftesten Gallimathias, den man
+je gehört, auftretend, wurde eine oktroyirte nnd priviligirte Ka⸗
+thederphilosophie, folglich ein Unsinn, der seinen Mann nährte.
+Meine, zur selben Zeit mit ihr auftretende Philosophie hatte
+zwar alle Eigenschaften, welche jener abgiengen: allein sie war
+keinen höhern Zwecken gemäß zugeschnitten, bei den damaligen
+Zeitläuften für das Katheder gar nicht geeignet und also, wie
+
+
+man spricht, nichts damit zu machen. Da folgte es, wie Tag
+
+
+auf Nacht, daß die Hegelei die Fahne wurde, der Alles zulief,
+meine Philosophie hingegen weder Beifall, noch Anhänger fand,
+vielmehr mit übereinstimmender Absichtlichkeit, ganzlich ignorirt,
+
+
+über meine eigene Philofophie. 127
+
+
+vo möglich erstickt wurde; weil durch ihre Gegenwart
+
+liche Spiel gestört worden wäre, wie Schatten⸗
+Wand durch hereinfallendes Tageslicht. Demge⸗
+so wurde ich die eiserne Maske, oder, wie der edele
+fagt, der Kaspar Hauser, der Philosophieprosesso⸗
+esperrt von Luft und Licht, damit mich Keiner fähe
+
+
+a wir Ueber
+
+
+die Univerfitäts-Philofophie
+
+
+a arzt Ueber
+
+
+A die Univerfitäts- Philofophie.
+
+
+Dos die die Pbibscpbe auf Universitäten gelehrt wird, ist ihr al⸗
+lerdings auf mancherlei Weise ersprießlich. Sie erhält damit
+. und ihre Standarte ist aufgepflanzt vor
+
+n Augen schen; wodurch stets von Neuem ihr Daseyn
+erung gebracht und bemerklich wird. Der Hauptgewinn
+wird aber seyn, daß mancher junge und fähige Kopf
+mit ihr bekannt gemacht und zu ihrem Studio auferweckt wird.
+Inzwischen muß man zugeben, daß der zu ihr Befäͤhigte und
+eben daher ihrer Bedürftige fie auch wohl auf andern Wegen an⸗
+treffen und kennen lernen würde. Denn was sich liebt und für
+geboren ist findet sich leicht zusammen: verwandte See⸗
+en grüßen sich schon aus der Ferne. Einen Solchen nämlich
+wund jedes Buch irgend eines ächten Philosophen, das ihm in
+de fällt, mächtiger und wirksamer anregen, als der Vor⸗
+nag eines Kathederphilosophen, wie ihn der Tag giebt, es ver⸗
+mag. Auch sollte auf den Gymnasien der Plato fleißig gelesen
+
+
+rn welcher das wirksamste Erregungsmittel des philoso⸗ 2
+
+
+en Geistes ist. Ueberhaupt aber bin ich allmälig der Mei⸗
+nung geworden, daß der erwähnte Nutzen der Kathederphiloso⸗
+phie von dem Nachtheil überwogen werde, den die Philosophie
+ion der Philosophie als freier Wahrheitsforschung,
+Philo sophie im Auftrage der Regierung der Philosophie
+Auftrage der Natur und der Menschheit bringt.
+Zuvörderst nämlich wird eine Regierung nicht Leute besol⸗
+um Bun: was fie durch tausend von ihr angestellte Prie⸗
+
+
+„oder auch nur indirekt, zu widersprechen; da Dergleichen,
+dem Maaße, als es wirkte, jene erstere ne un⸗
+
+
+132 Ueber die Universitäts⸗Philosophie.
+
+
+wirksam machen müßte. Denn bekanntlich heben Urtheile ein⸗
+ander nicht allein durch den kontradiktorischen, sondern auch durch
+den bloß konträren Gegensatz auf: z. B. dem Urtheil „die Rose
+ist roth“ widerspricht nicht allein dieses „sie ist nicht roth“; son⸗
+dern auch schon dieses „fie ist gelb“, als welches hierin eben fo
+viel, ja, mehr leistet. Daher der Grundsatz improbant se-
+cus docentes. Durch diesen Umstand gerathen aber die Uni⸗
+versitätsphilosophen in eine ganz eigenthümliche Lage, deren
+öffentliches Geheimniß hier ein Mal Worte finden mag. In
+allen andern Wissenschaften nämlich haben die Professoren der⸗
+selben bloß die Verpflichtung, nach Kräften und Möglichkeit, zu
+lehren was wahr und richtig ist. Ganz allein bei den Professo⸗
+ren der Philosophie ist die Sache cum grano salis zu verstehn.
+Hier nämlich hat es mit derselben ein eigenes Bewandniß, wel⸗
+ches darauf beruht, daß das Problem ihrer Wissenschaft das
+selbe ist, worüber auch die Religion, in ihrer Weise, Aufschluß
+ertheilt; deshalb ich diese als die Metaphysik des Volkes bezeich⸗
+net habe. Demnach nun sollen zwar auch die Professoren der
+Philosophie allerdings lehren was wahr und richtig ist: aber
+eben dieses muß im Grunde und im Wesentlichen das Selbe
+seyn, was die Landesreligion auch lehrt, als welche ja ebenfalls
+wahr und richtig ist. Hieraus entsprang jener naive, schon in
+meiner Kritik der Kantischen Philosophie angezogene Ausspruch
+eines ganz reputirlichen Philosophieprofessors, im Jahr 1840:
+„leugnet eine Philosophie die Grundideen des Christenthums; so
+‚At fie entweder falsch, oder, wenn auch wahr, doch un⸗
+„brauchbar.“ Man sieht daraus, daß in der Universitätsphilo⸗
+sophie die Wahrheit nur eine sekundäre Stelle einnimmt und,
+wenn es gefordert wird, aufstehn muß, einer andern Eigenschaft
+Platz zu machen. — Dies also unterscheidet auf den Universitä⸗
+ten die Philosophie von allen andern daselbst We e.
+
+In Folge hievon würd, so lange die Kirche beßeht, lauf
+den Universitäten stets nur eine solche Philosophie gelehrt wer⸗
+den dürfen, welche, mit durchgängiger Rücksicht auf die Landes⸗
+religion abgefaßt, dieser im Wesentlichen parallel läuft und da⸗
+her stets, — allenfalls kraus figurirt, seltsam verbrämt und da⸗
+durch schwer verständlich gemacht, — doch im Grunde und in
+
+
+Ueber die Universitäts⸗Philosophie. 133
+
+
+der Hauptsache nichts Anderes, als eine Paraphrase und Apo⸗
+logie der Landesreligion ist. Den unter diesen Beschränkungen
+Lehrenden bleibt sonach nichts Anderes übrig, als nach neuen
+Wendungen und Formen zu suchen, unter welchen sie den in
+abstrakte Ausdrücke verkleideten und dadurch fade gemachten In⸗
+halt der Landesreligion aufstellen, der alsdann Philosophie heißt.
+Will jedoch Einer oder der Andre außerdem noch etwas thun;
+so wird er entweder in benachbarte Fächer divagiren, oder seine
+Zuflucht zu allerlei unschuldigen Pößchen nehmen, wie etwan
+shwwere analytische Rechnungen über das Aequilibrium der Vor⸗
+stellungen im menschlichen Kopfe auszuführen, und ähnliche
+Späße. Inzwischen bleiben die solchermaaßen beschränkten Uni-
+versitätsphilosophen bei der Sache ganz wohlgemuth; weil ihr
+eigentlicher Ernst darin liegt, mit Ehren ein redliches Auskom⸗
+men für sich, nebst Weib und Kind, zu erwerben, auch ein ge-
+wisses Ansehn vor den Leuten zu genießen; hingegen das tiefbe⸗
+wegte Gemüth eines wirklichen Philosophen, dessen ganzer und
+| Ernst im Aufsuchen eines Schlüssels zu unserm, fo räth⸗
+en wie mißlichen Daseyn liegt, von ihnen zu den mytho⸗
+1 Wesen gezählt wird; wenn nicht etwan gar der damit
+ete, sollte er ihnen je vorkommen, ihnen als von Mono⸗
+manie besessen erscheint. Denn daß es mit der Philosophie fo
+seht eigentlicher, bitterer Ernst seyn könne, läßt wohl, in der
+cgel, kein Mensch sich weniger träumen, als ein Docent der⸗
+benz gleichwie der ungläubigste Christ der Papst zu seyn pflegt.
+daher gehört es denn auch zu den seltensten Fällen, daß ein
+wirklicher Philosoph zugleich ein Docent der Philosophie gewesen
+wäre. Daß gerade Kant diesen Ausnahmsfall darstellt, habe
+ich, nebst den Gründen und Folgen der Sache, im zweiten Bande
+| liefert zu der oben aufgedeckten konditionellen Existenz aller
+rsitätsphilosophie einen Beleg das bekannte Schicksal Fich⸗
+te's; wenn auch dieser im Grunde ein bloßer Sophist, kein wirk⸗
+
+r Philosoph, war. Er hatte es nämlich gewagt, in feinem
+
+llosophiren die Lehren der Landesreligion außer Acht zu lassen;
+wovon die Folge seine Kassation war und zudem noch, daß der
+Pöbel ihn insultirte. Auch hat die Strafe bei ihm angeschlagen,
+indem, nach seiner spätern Anstellung in Berlin, das absolute
+
+
+134 Ueber die Universitäts⸗Philosophie.
+
+
+Ich sich ganz gehorsamst in den lieben Gott verwandelt hat und
+die ganze Lehre überhaupt einen überaus christlichen Anstrich er⸗
+hielt; wovon besonders die „Anweisung zum seligen Leben“
+zeugt. Bemerkenswerth ist bei seinem Falle noch der Umstand,
+daß man ihm zum Hauptvergehn den Satz, Gott fer nichts An⸗
+deres, als eben die moralische Weltordnung selbst, anrechnete;
+
+
+während solcher doch nur wenig verschieden ist vom Ausspeüth.
+
+
+des Evangelisten Johannes: Gott ist die Liebe.
+Es ist demnach leicht abzusehn, daß, unter solchen Umstän⸗
+
+den, die Kathederphilosophie nicht wohl umhin vo N Be
+
+
+„Wie eine der langbeinigen Cikaden,
+
+Die immer fliegt und fliegend springt ?
+
+Und gleich im Gras ihr altes Liedchen singt “““
+Das Bedenkliche bei der Sache ist auch bloß die doch einzuräumende
+Möglichkeit, daß die letzte dem Menschen erreichbare Einsicht in
+die Natur der Dinge, in sein eigenes Wesen und das der Welt
+nicht gerade zusammenträfe mit den Lehren, welche theils dem
+ehemaligen Völchen der Juden erössnet worden, theils vor 1800
+Jahren in Jerusalem aufgetreten sind. Dieses Bedenken auf
+Ein Mal niederzuschlagen, erfand der Philosophieprosessor Her
+gel den Ausdruck „absolute Religion“, mit dem er denn auch
+seinen Zweck erreichte; da er sein Publikum gekannt hat: auch ist
+fie für die Kathederphilosophie wirklich und recht eigentlich abso⸗
+lut, d. h. eine solche, die absolut und ee wahr seyn
+soll und muß, sonst —— — — — — Andere wieder, von
+diesen Wahrheitsforschern, schmelzen ee und Religion
+zu einem Kentauren zusammen, den sie Religionsphilosophie nen⸗
+nen; pflegen auch zu lehren, Religion und Philosophie seien ei⸗
+gentlich das Selbe; — welcher Satz jedoch nur in dem Sinne
+wahr zu seyn scheint, in welchem Franz I., in Beziehung auf
+Karl V., sehr versöhnlich gesagt haben soll: „was mein Bruder
+Karl will, das will ich auch,“ — nämlich Mailand. Wieder
+andere machen nicht so viele Umstände, sondern reden geradezu
+von einer Christlichen Philosophie; — welches ungefähr so her⸗
+auskommt, wie wenn man von einer Christlichen Arithmetik re⸗
+den wollte, die fünf gerade seyn ließe. Dergleichen von Glau⸗
+benslehren entnommene Epitheta sind zudem der Philosophie
+
+
+ueber die Universitäts⸗ Philofophie. 135
+
+
+offenbar unanständig, da sie sich für den Versuch der Vernunft
+giebt, aus eigenen Mitteln und unabhängig von aller Autorität
+das Problem des Daseyns zu lösen. Als eine Wissenschaft hat
+fie es durchaus nicht damit zu thun, was geglaubt werden darf,
+3 „oder muß; sondern bloß damit, was sich wissen
+Sollte Dieses nun auch als etwas ganz Anderes sich er⸗
+
+eben, als was man zu glauben hat; fo würde selbst da⸗
+durch der Glaube nicht beeinträchtigt seyn: denn dafür ist er
+Glaube, daß er enthält was man nicht wissen kann. Könnte
+dasselbe auch wissen; so würde der Glaube als ganz
+und selbst lächerlich dastehn; etwan wie wenn über
+— der Mathematik noch eine Glaubenslehre aufgestellt
+5 Ist man aber etwan überzeugt, daß die ganze und volle
+t in der Landesreligion enthalten und ausgesprochen sei;
+halte man sich daran und begebe sich alles Philosophi⸗
+er man wolle nicht scheinen was man nicht ist. Das
+en unbefangener Wahrheitsforschung, mit dem Entschluß,
+wesreligion zum Resultat, ja zum Maaßstabe und zur
+le derselben zu machen, ist unerträglich, und eine solche,
+Landesreligion, wie der Kettenhund an die Mauer, ge⸗
+Philosophie ist nur das ärgerliche Zerrbild der höchsten
+edelsten Bestrebung der Menschheit. Inzwischen ist gerade
+ptabsatzartikel der Universitätsphilosophen eben jene, oben
+aur bezeichnete Religionsphilosophie, die eigentlich auf eine
+s hinausläuft. Auch Programmentitel, wie de verae
+hiae erga religionem pietate, eine passende Inschrift
+o einen philosophischen Schaafstall, bezeichnen recht deutlich die
+und die Motive der Kathederphilosophie. Zwar nehmen
+nen Philosophen bisweilen einen Anlauf, der gefähr⸗
+aht: allein man kann die Sache mit Ruhe abwarten,
+daß sie doch bei dem Ein für alle Mal gesteckten
+angen werden. Ja, bisweilen fühlt man sich versucht
+„ daß sie ihre ernstlich gemeinten philosophischen For⸗
+schon vor ihrem zwölften Jahre abgethan und bereits
+ihre Ansicht vom Wesen der Welt, und was dem an⸗
+für immer festgestellt hätten; weil fie, nach allen phi⸗
+schen Diskussionen und halsbrechenden Abwegen, unter
+nen Führern, doch immer wieder bei Dem anlangen, was
+
+
+136 Ueber die Universitäts⸗Philosophie.
+
+
+uns in jenem Alter plausibel gemacht zu werden pflegt, und es
+sogar als Kriterium der Wahrheit zu nehmen scheinen. Alle die
+heterodoxen philosophischen Lehren, mit welchen fie dazwischen, im
+Laufe ihres Lebens, sich haben beschäftigen müssen, scheinen ihnen
+nur dazuseyn, um widerlegt zu werden und dadurch jene ersteren
+desto fester zu etabliren. Man muß sogar es bewundern, wie
+sie, mit so vielen argen Ketzereien ihr Leben zubringend, doch
+ihre innere philosophische Unschuld so rein zu bewahren gewußt
+Wem, nach diesem Allen, noch ein Zweifel über Geist ren
+
+Zweck der Universitätsphilosophie bliebe, der betrachte das Schick⸗
+sal der Hegelschen Afterweisheit. Hat es ihr etwan geschadet,
+daß ihr Grundgedanken der absurdeste Einfall, daß er eine auf
+den Kopf gestellte Welt, eine philosophische Hanswurstiade) war
+und ihr Inhalt der hohlste, sinnleerste Wortkram, an welchem
+jemals Strohköpfe ihr Genüge gehabt, und daß ihr Vortrag, in
+den Werken des Urhebers selbst, der widerwärtigste und unsinnigste
+Gallimathias ist, ja, an die Deliramente der Tollhäusler erin⸗
+nert? O nein, nicht im Mindesten! Vielmehr hat sie dabei,
+20 Jahre hindurch, als die glänzendeste Kathederphilosophie, die
+je Gehalt und Honorar einbrachte, florirt und ist fett geworden,
+ist nämlich in ganz Deutschland, durch Hunderte von Büchern,
+als der endlich erreichte Gipfel menschlicher Weisheit und als
+die Philosophie der Philosophien verkündet, ja, in den Himmel
+erhoben worden: Studenten wurden darauf examinirt und Pro⸗
+fessoren darauf angestellt; wer nicht mitwollte, wurde von dem
+dreist gemachten Repetenten ihres so lenksamen, wie geistlosen
+Urhebers für einen „Narrn auf eigene Hand“ erklärt, und sogar
+die Wenigen, welche eine schwache Opposition gegen diesen Unfug
+wagten, traten mit derselben nur schüchtern, unter Anerkennung des
+„großen Geistes und überschwänglichen Genies“ — jenes abge⸗
+schmackten Philosophasters auf. Den Beleg zu dem hier Gesagten
+giebt die gesammte Litteratur des saubern Treibens, welche, als
+nunmehr geschlossene Akten, hingeht, durch den Vorhof höhnisch la⸗
+chender Nachbarn, zu jenem Richterstuhle, wo wir uns wiedersehn,
+zum — der Nachwelt, uber unter ee
+
+
+0 Shin meine ‚Sit der Bankifüen Philosophie 2. Aufl. 8. dun,
+
+
+Ueber die Universitäts⸗Philosophie. 137
+
+
+n führt, die sogar über ganze Zeitalter geläu⸗
+kann. — Was nun aber ist es denn endlich gewesen,
+ne Gloria ein so plötzliches Ende gemacht, den Sturz der
+bestia triunfante herbei gezogen und die ganze große Armee
+! öldner und Gimpel zerstreut hat, bis auf einige Ueber⸗
+„die noch als Nachzügler und Marodeurs, unter der
+der „Halle schen Jahrbücher“ zusammengerottet, ein Weil⸗
+Unwesen, zum öffentlichen Skandal, treiben durften, und
+haar armsälige Pinsel, die was man ihnen in den Jüng⸗
+jahren aufgebunden noch heute glauben und damit hausiren
+— Nichts Anderes, als daß Einer den boshaften Einfall
+t hat, nachzuweisen, daß das eine Universitätsphilosophie
+e bloß scheinbar und nur den Worten nach, nicht aber
+id im eigentlichen Sinne mit der Landesreligion übers
+hier also lag die Achillesferse. Wir sehn daraus,
+0 Den Ausschlag giebt, den Mann erhöht,“
+das eigentliche Kriterium der Wahrheit und Gellungs⸗
+einer Philosophie auf deutschen Universitäten sei und
+3 dabei ankomme; außerdem ja ein derartiger Angriff,
+ehn von der Verächtlichkeit jeder Verketzerung, hätte
+\ mit ovdsv πνẽðõ6e hovvoov abgefertigt werden müffen;
+derselben Einsicht noch fernerer Belege bedarf, be⸗
+achfpiel zu der großen Hegel⸗Farce, nämlich die gleich
+gende, so überaus zeitgemäße Konversion des Herrn v.
+vom Spinozismus zum Bigotismus und seine darauf
+esetzung von München nach Berlin, unter Trompeten-
+ler Zeitungen, nach deren Andeutungen man hätte glau⸗
+1, er bringe dahin den persönlichen Gott, nach welchem
+Begehr war, in der Tasche mit; worauf denn der
+er Studenten fo, groß wurde, daß sie sogar durch die
+den Hörsaal stiegen; dann, am Ende des Kursus, das
+diplom, welches eine Anzahl Professoren der Uni⸗
+ne Zuhörer gewesen, ihm unterthänigst überbrach⸗
+aupt die ganze, höchst glänzende und nicht weni⸗
+Rolle desselben in Berlin, die er ohne Erröthen
+hat; und das im hohen Alter, wo die Sorge um
+
+
+[S. 138]
+
+
+dere überwiegt. Man könnte bei fo etwas ordentlich wehmüthig
+werden; ja man könnte beinahe meynen, die Philosophieprofesso⸗
+ren selbst müßten dabei erröthen: doch das ist Schwärmerei.
+Wem nun aber nach Betrachtung einer solchen Konsummation
+nicht die Augen aufgehn über die Kathederphilosophie und u.
+Helden, Dem ist nicht zu helfen.
+
+Inzwischen verlangt die Billigkeit, daß man die Untoeefl
+tätsphilosophie nicht bloß, wie hier geschehn, aus dem Stand⸗
+punkte des angeblichen, sondern auch aus dem des wahren und
+eigentlichen Zweckes derselben beurtheile. Dieser nämlich läuft
+darauf hinaus, daß die künftigen Referendarien, Advokaten,
+Aerzte, Kandidaten und Schulmänner auch im Innersten ihrer
+Ueberzeugungen diejenige Richtung erhalten, welche den Absichten,
+die der Staat und seine Regierung mit ihnen haben, angemessen
+ist. Dagegen habe ich nichts einzuwenden, bescheide mich also
+in dieser Hinsicht. Denn über die Nothwendigkeit, oder Ent⸗
+behrlichkeit eines solchen Staatsmittels zu urtheilen, halte ich
+mich nicht für kompetent; sondern stelle es denen anheim, welche
+die schwere Aufgabe haben, Menschen zu regieren, d. h. unter
+vielen Millionen eines, der großen Mehrzahl nach, gränzenlos
+egoistischen, ungerechten, unbilligen, unredlichen, neidischen, bos⸗
+haften und dabei sehr beschränkten und queerköpfigen Geschlechtes,
+Gesetz, Ordnung, Ruhe und Friede aufrecht zu erhalten und die
+Wenigen, denen irgend ein Besitz zu Theil geworden, zu schützen
+gegen die Unzahl Derer, welche nichts, als ihre Körperfräfte
+haben. Die Aufgabe ist so schwer, daß ich mich wahrlich nicht
+vermesse, über die dabei anzuwendenden Mittel mit ihnen zu rech⸗
+ten. Denn „ich danke Gott an jedem Morgen, daß ich nicht
+brauch' für's Röm'sche Reich zu sorgen,“ — ist n 1520
+Wahlspruch gewesen.
+
+Aber ein Anderes bleibt das Verhältniß eier folgen: Um
+versitätsphilosophie zum Staat, und ein Anderes ihr Verhältniß
+zur Philosophie selbst und an sich, welche, in dieser Beziehung,
+als die reine Philosophie, von jener, als der angewandten,
+unterschieden werden könnte. Diese nämlich kennt keinen andern
+Zweck als die Wahrheit, und da möchte sich ergeben, daß jeder
+andere, mittelst ihrer angestrebte, diesem verderblich wird. Ihr
+hohes Ziel ist die Befriedigung jenes edelen Bedürfnisses, von
+
+
+[S. 139]
+
+
+mir das metaphysische genannt, welches der Menschheit, zu
+allen Zeiten, sich innig und lebhaft fühlbar macht, am stärksten
+aber, wann, wie eben jetzt, das Ansehn der Glaubenslehre
+mehr und mehr gesunken ist. Diese nämlich, als auf die große
+Masse des Menschengeschlechts berechnet und derselben angemessen,
+kann bloß allegorische Wahrheit enthalten, welche sie jedoch
+proprio wahr geltend zu machen hat. Dadurch nun
+
+aber wird, bei immer weiterer Verbreitung jeder Art historischer,
+ze: und sogar philosophischer Kenntniffe, die Anzahl der
+denen fie nicht mehr genügen kann, immer größer,
+
+und diese wird mehr und mehr auf Wahrheit sensu proprio
+bringen. Was aber kann alsdann, dieser Anforderung gegenüber,
+
+ine solche nervis alienis mobile Kathederpuppe leisten! Wie
+. ird man da noch reichen mit der oktroyirten Rockenphilo⸗
+N gemennsen und faßlichsten Wahrheiten durch Wortschwall
+itlichenden Floskeln, oder gar mit hegelischem absoluten
+— Und nun noch andrerseits, wenn dann auch wirk⸗
+der redliche Johannes aus der Wüste käme, der, in Felle
+und von Heuschrecken genährt, von all dem Unwesen
+ührt geblieben, unterweilen, mit reinem Herzen und ganzem
+at, der Forschung nach Wahrheit obgelegen hätte und deren
+jetzt anböte; welchen Empfang hätte er zu gewärtigen
+i zu Staatszwecken gedungenen Geschäftsmaͤnnern der
+a die mit Weib und Kind von der Philosophie zu leben
+
+„ deren Losung daher ist primum vivere, deinde philo-
+
+ö die demgemäß den Markt in Besitz genommen und
+u dafür gesorgt haben, daß hier nichts gelte, als was sie
+
+A Affen, mithin Verdienste nur eriftiven, sofern es ihnen
+Mittelmäßigkeit beliebt, sie anzuerkennen. Sie haben
+Aufmerksamkeit des ohnehin kleinen, sich mit Philo⸗
+
+e befassenden Publikums am Leitseil; da dasselbe auf Sachen,
+„wie die poetischen Produktionen, Ergötzung, sondern
+
+und zwar pekuntär unfruchtbare Belehrung, verheißen,
+a. Mühe und Anstrengung wahrlich nicht verwenden
+wird, ohne vorher volle Versicherung darüber zu haben, daß
+solche auch reichlich belohnt werden. Diese nun erwartet es,
+seinem angeerbten Glauben, daß wer von einer Sache lebt, es
+
+
+auch sei, der fie verfteht, zufolge, von den Männern des Fachs,
+welche denn auch, auf Kathedern und in Kompendien, Journalen
+und Litteraturzeitungen sich mit Zuversicht als die eigentlichen
+Meister der Sache geriren: von diesen demnach läßt es sich das
+Beachtenswerthe und sein Gegentheil vorschmecken und aussuchen.
+
+— O, wie wird es dir da ergehn, mein armer Johannes aus
+der Wüste, wenn, wie zu erwarten steht, was Du bringst nicht
+der stillschweigenden Konvention der Herren von der lukrativen
+Philosophie gemäß abgefaßt ist! Sie werden dich ansehn als
+Einen, der den Geist des Spieles nicht gefaßt hat und dadurch
+
+es ihnen Allen zu verderben droht; mithin als ihren gemeinsamen
+Feind und Widersacher. Wäre was du bringst nun auch das
+größte Meisterstück des menschlichen Geistes; vor ihren Augen
+könnte es doch nimmermehr Gnade finden. Denn es wäre ja
+nicht ad normam conventionis abgefaßt, folglich nicht der Art,
+daß sie es zum Gegenstand ihres Kathedervortrags machen könnten,
+
+um nun auch davon zu leben. Wenn es aber dennoch durch⸗
+dränge, wenn es, als belehrend und Aufschlüsse enthaltend, die
+Aufmerksamkeit des Publikums erregte und von diesem des m
+diums werth befunden würde; fo müsste es ja in demselben Maaße 1
+die kathederfähige Philosophie um eben jene Aufmerksamkeit, ja,
+um ihren Kredit und, was noch schlimmer ist, um ihren Absatz
+bringen. Di meliora! Daher darf dergleichen nicht auffommen,
+und müssen hiegegen Alle für Einen Mann stehn. Die Methode
+und Taktik hiezu giebt ein glücklicher Instinkt, wie er jedem
+Wesen zu seiner Selbsterhaltung verliehen ist, bald an die Hand.
+Nämlich das Bestreiten und Widerlegen einer, der norma con-
+ventionis zuwiderlaufenden Philosophie ist oft, zumal wo man
+wohl gar Verdienste und gewisse, nicht durch das Professordiplom
+ertheilbare Eigenschaften wittert, eine bedenkliche Sache, an die
+man, in letzterem Falle, sich gar nicht wagen darf, indem da⸗
+durch die Werke, deren Unterdrückung indieirt ist, Notorietät er⸗
+halten und die Neugierigen hinzulaufen würden, alsdann aber
+höchst unangenehme Vergleichungen angestellt werden könnten und
+der Ausgang mißlich seyn dürfte. Hingegen einhellig, als Brüder
+gleichen Sinnes, wie gleichen Vermögens, eine solche ungelegene
+Leistung als non avenue betrachten; mit der unbefangensten
+Miene das Bedeutendeste als ganz unbedeutend, das tief Durch⸗
+
+
+140 Ueber die Universitäts⸗Philosophie.
+
+
+Ueber die Universttits⸗Philosophie. 141
+
+
+dachte und für die Jahrhunderte Vorhandene als nicht der Rede
+verth aufnehmen, um fo es zu ersticken; hämisch die Lippen
+mmenbeißen und dazu schweigen, schweigen mit jenem schon
+dom alten Seneka denunzirten silentium, quod livor in-
+ixerit (ep. 79); und unterweilen nur desto lauter über die
+en Geisteskinder und Mißgeburten der Genossenschaft
+„in dem beruhigenden Bewußtseyn, daß ja Das, wovon
+Keiner weiß, so gut wie nicht vorhanden ist, und daß die Sachen
+Welt für Das gelten, was sie scheinen und heißen, nicht
+das, was fie find; — Dies ist die sicherste und gefahrloseste
+de gegen Verdienste, welche ich demnach allen Flachköpfen,
+Unterhalt durch Dinge suchen, zu denen höhere Be⸗
+hört, bestens empfohlen haben wollte.
+h sollen hier keineswegs, als über ein inauditum ne-
+ötter angerufen werden: ist doch dies Alles nur eine
+Schauspiels, welches wir zu allen Zeiten, in allen
+d Wissenschaften, vor Augen haben, nämlich den alten
+rer, die für die Sache leben, mit Denen, die von
+oder Derer, die es sind, mit Denen, die es vor⸗
+en Einen ist sie der Zweck, zu welchem ihr Leben
+ttel ist; den Andern das Mittel, ja die lästige
+zum Leben, zum Wohlseyn, zum Genuß, zum
+k, als in welchen allein ihr wahrer Ernst liegt; weil
+ränze ihrer Wirkungssphäre von der Natur gezogen
+dies exemplisicirt sehn und näher kennen lernen will,
+rargeschichte und lese die Biographien großer Meister
+Art und Kunst. Da wird er sehn, daß es zu allen
+o gewesen ist, und begreifen, daß es auch fo bleiben
+n der Vergangenheit erkennt es Jeder; fast Keiner in
+wart. Die glänzenden Blätter der Litterargeschichte
+he durchgängig, zugleich die tragischen. In allen
+ungen fie uns vor Augen, wie, in der Regel, das
+hat warten müssen, bis die Narren ausgenarrt hatten,
+zu Ende und Alles zu Bette gegangen war: dann
+sich, wie ein Gespenst aus tiefer Nacht, um feinen,
+haltenen Ehrenplatz doch endlich noch os Schatten
+
+
+haben es hier allein mit der Philosophie
+
+
+142 Ueber die Universitäts⸗Philosophie.
+
+
+und ihren Vertretern zu thun. Da finden wir nun zunächst,
+daß von jeher sehr wenige Philosophen Professoren der Philo⸗
+sophie gewesen find, und verhältnißmäßig noch wenigere Pro⸗
+fessoren der Philosophie Philosophen; daher man sagen könnte,
+daß, wie die idioelektrischen Körper keine Leiter der Elektrieität
+find, fo die Philosophen keine Professoren der Philosophie. In
+der That steht dem Selbstdenker diese Bestellung beinahe mehr
+im Wege, als jede andere. Denn das philosophische Katheder
+ist gewissermaaßen ein öffentlicher Beichtstuhl, wo man coram
+populo sein Glaubensbekenntniß ablegt. Sodann ist der wirk⸗
+lichen Erlangung gründlicher, oder gar tiefer Einsichten, also
+dem wahren Weisewerden, fast nichts so hinderlich, wie der be⸗
+ständige Zwang, weise zu scheinen, das Auskramen vorgeblicher
+Erkenntnisse, vor den lernbegierigen Schülern, und das Ant⸗
+worten⸗ bereit- haben auf alle ersinnliche Fragen. Das Schlimmste
+aber ist, daß einen Mann in solcher Lage, bei jedem Gedanken,
+der etwan noch in ihm aufsteigt, schon die Sorge beschleicht, wie
+solcher zu den Absichten hoher Vorgesetzter passen würde: Dies
+paralysirt fein. Denken so sehr, daß schon die Gedanken selbst
+nicht mehr aufzusteigen wagen. Der Wahrheit ist die Atmosphäre a
+der Freiheit unentbehrlich. Ueber die exceptio, quae firmat
+regulam, daß Kant ein Professor gewesen, habe ich schon oben
+das Nöthige erwähnt, und füge nur hinzu, daß auch Kants
+Philosophie eine großartigere, entschiedenere, reinere und schönere
+geworden seyn würde, wenn er nicht jene Professur bekleidet
+hätte; obwohl er, sehr weise, den Philosophen möglichst vom
+Professor gesondert hielt, indem er seine eigene Lehre nicht auf
+dem Katheder vortrug. (Siehe Rosenkranz, Geschichte der Kanti⸗
+Sehe ich nun aber auf die, in dem halben Jahrhundert,
+welches seit Kants Wirksamkeit verstrichen ist, auftretenden, an⸗
+geblichen Philosophen zurück; so erblicke ich leider keinen, dem
+ich nachrühmen könnte, sein wahrer und ganzer Ernst sei die
+Erforschung der Wahrheit gewesen: vielmehr finde ich sie alle,
+wenn auch nicht immer mit deutlichem Bewußtseyn, auf den
+bloßen Schein der Sache, auf Effektmachen, Imponiren, ja,
+Mystifteiren bedacht und eifrig bemüht, den Beifall der Vor⸗
+gesetzten und nächstdem der Studenten zu erlangen; wobei der
+
+
+Ueber die Universitäts⸗Philosophie. 143
+
+
+letzte Zweck immer bleibt, den Ertrag der Sache, mit Weib und
+Kind, behaglich zu verschmausen. So ist es aber auch eigentlich
+| der menschlichen Natur gemäß, welche, wie jede thierische Natur,
+als unmittelbare Zwecke nur Essen, Trinken und Pflege der Brut
+kennt, dazu aber, als ihre besondere Apanage, nur noch die Sucht
+
+zu glänzen und zu scheinen erhalten hat. Hingegen ist zu wirk⸗
+lichen und ächten Leistungen in der Philosophie, wie in der
+Poesie und den schönen Künsten, die erste Bedingung ein ganz
+abnormer Hang, der, gegen die Regel der menschlichen Natur,
+
+an die Stelle des subjektiven Strebens nach dem Wohl der eige⸗
+nen Person, ein völlig objektives, auf eine der Person fremde
+Leistung gerichtetes Streben setzt und eben dieserhalb sehr tref⸗
+send excentrisch genannt, mitunter wohl auch als Donqui⸗
+ottisch verspottet wird. Aber schon Aristoteles hat es gesagt:
+
+
+ana sapere ae sentire, ut quidam monent, quum simus
+jomines;: neque mortalia, quum mortales; sed nos ipsos,
+eius fieri potest, a mortalitate vindicare, atque om-
+dere, ut ei nostri parti, quae in nobis est optima,
+f er vivamus, (Eth. Nie. X. 7). Eine solche Geistes⸗
+t ist allerdings eine höchst seltene Anomalie, deren Früchte
+„eben deswegen, im Laufe der Zeit, der ganzen Mensch⸗
+heit zu Gute kommen; da sie glücklicherweise von der Gattung
+sind, die sich aufbewahren läßt. Näher: man kann die Denker
+eintheilen in solche, die für sich selbst, und solche, die für
+Andere denken: diese find die Regel, jene die Ausnahme.
+
+Erstere find. demnach Selbstdenker im zwiefachen, und Egoisten
+im edelsten Sinne des Worts: fie allein find es, von denen die
+elt Belehrung empfängt. Denn nur das Licht, welches Einer
+| angezündet hat, leuchtet nachmals auch Andern; fo
+
+daß von Dem, was Seneka in moralischer Hinsicht behauptet,
+
+alteri vivas oportet, si vis tibi vivere (ep. 48), in intellek⸗
+tualer das Umgekehrte gilt: tibi cogites oportet, si omnibus
+
+cogitasse volueris. Dies aber ist gerade die seltene, durch
+
+keinen Vorsatz und guten Willen zu erzwingende Anomalie, ohne
+
+
+144 Weber die Universitäts⸗Philosophie.
+
+
+welche jedoch, in der Philosophie, kein wirklicher Fortschritt
+möglich ist. Denn für Andere, oder überhaupt für mittelbare
+Zwecke, geräth nimmermehr ein Kopf in die höchste, dazu eben
+erforderte, Anspannung, als welche gerade das Vergessen seiner
+selbst und aller Zwecke verlangt; sondern da bleibt es beim
+Schein und Vorgeben der Sache. Da werden zwar allenfalls
+einige vorgefundene Begriffe auf mancherlei Weise kombinirt und
+so gleichsam ein Kartenhäuserbau damit vorgenommen: aber
+nichts Neues und Aechtes kommt dadurch in die Welt. Nun
+nehme man noch hinzu, daß Leute, denen das eigene Wohl der
+wahre Zweck, das Denken nur Mittel dazu ist, stets die tempo⸗
+rären Bedürfnisse und Neigungen der Zeitgenossen, die Absichten
+der Befehlenden u. dgl. m. im Auge behalten müssen. Dabei
+läßt sich nicht nach der Wahrheit zielen, die, selbst bei redlich
+auf fie gerichtetem Blicke, unendlich schwer zu treffen ist.
+
+Ueberhaupt aber, wie sollte der, welcher für sich, nebst
+
+
+Weib und Kind, ein redliches Auskommen sucht, zugleich sich der
+
+
+Wahrheit weihen? der Wahrheit, die zu allen Zeiten ein ge⸗
+fährlicher Begleiter, ein überall unwillkommener Gast gewesen
+ist, — die vermuthlich auch deshalb nackt dargestellt wird, weil sie
+nichts mitbringt, nichts auszutheilen hat, sondern nur ihrer selbst
+wegen gesucht seyn will. Zwei so verschiedenen Herren, wie der
+Welt und der Wahrheit, die nichts, als den Anfangsbuchstaben,
+gemein haben, läßt sich zugleich nicht dienen: das Unternehmen
+führt zur Heuchelei, zur Augendienerei, zur Achselträgerei. Da
+kann es geschehn, daß aus einem Priester der Wahrheit ein Ver⸗
+
+
+fechter des Truges wird, der eifrig lehrt was er selbst nicht f
+
+
+glaubt, dabei der vertrauensvollen Jugend die Zeit und den Kopf
+verdirbt, auch wohl gar, mit Verleugnung alles litterarischen
+Gewissens, zum Präkonen einflußreicher Pfuscher, z. B. fröm⸗
+
+melnder Strohköpfe, sich hergiebt; oder auch, daß er, weil vom
+Staat und zu Staatszwecken besoldet, nun den Staat zu apo⸗
+theosiren, ihn zum Gipfelpunkt alles menschlichen Strebens und
+aller Dinge zu machen, sich angelegen seyn läßt, und dadurch
+nicht nur den philosophischen Hörsal in eine Schule der platte⸗
+sten Philisterei umschafft, sondern am Ende, wie z. B. Hegel,
+zu der empörenden Lehre gelangt, daß die Bestimmung des
+
+
+Menschen im Staat aufgehe, — etwan wie die der Biene im
+
+
+Bienenkorb; wodurch das hohe Ziel unsres Daseyns den Augen
+ganz entrückt wird.
+Daß die Philosophie sich nicht zum Brodgewerbe eigne, hat
+schon Plato in seinen Schilderungen der Sophisten, die er dem
+Sokrates gegenüberstellt, dargethan, am allerergötzlichsten aber
+im Eingang des Protagoras das Treiben und den Succeß dieser
+Leute mit unübertrefflicher Komik geschildert. Das Geldverdienen
+mit der Philosophie war uud blieb, bei den Alten, das Merk
+mal, welches den Sophisten vom Philosophen unterschied. Daß
+aus diesem Grunde Sokrates den Aristipp unter die Sophisten
+verwies und auch Aristoteles ihn dahin zählt, habe ich bereits
+in meinem Hauptwerk, Bd. 2. K. 17. S. 162, nachgewiesen.
+Reinung war in diesem Punkt so unerschütterlich, daß wir
+elbst noch unter den spätern Kaisern in voller Geltung
+nz indem sogar noch beim Philostratus (Lib. I. o. 13)
+ius von Tyana feinem Gegner Euphrates das zyv
+auch in seiner 51sten Epistel eben diesem schreibt: xm.
+( cor uns, 0g sılmyori gonuara nage ro Bacıhsng‘ one
+„ Koch e TOCOVTOV, Xu TREE TOV TIETNOTEVXKOTOG Ed ru
+einen. (Reprehendunt te quidam, quod pecuniam
+* imperatore acceperis: quod absonum non esset, nisi
+Philosophiae mercedem accepisse, et toties, et
+nam, et ab illo, qui te philosophum esse putabat).
+In Uebereinstimmung hiemit fagt er, in der A2ften Epistel, von
+sich selbst, daß er nöthigenfalls ein Almosen, aber nie, selbst
+cht im Fall der Bedürftigkeit, einen Lohn für seine Philosophie
+mehmen würde: Zav rig Anollavın yonuarae did, c d
+du Jov ag voce, An ercei Soe. yıloooyıng de woIov
+Yimyeran, W dena. (Si quis Apollonio pecunias de-
+leri et qui dat dignus judicatus fuerit ab eo; si opus
+abnerit, aceipiet. Philosophiae vero mercedem, ne si in-
+digeat quidem, accipiet). Diese uralte Ansicht hat ihren
+guten Grund und beruht darauf, daß die Philosophie gar viele
+Berührungspunkte mit dem menschlichen Leben, dem öffentlichen,
+wie dem der Einzelnen, hat; weshalb, wenn Erwerb damit ge⸗
+trieben wird, alsbald die Absicht das Uebergewicht 1755 die Ein⸗
+
+
+Ueber die Universitäts⸗Philosophie. 145
+
+
+146 Ueber die Universitäts⸗Philosophie.
+
+
+sicht erhält und aus angeblichen Philosophen bloße Parasiten der
+Philosophie werden: solche aber werden dem Wirken der ächten
+Philosophen hemmend und feindlich entgegentreten, ja, sich gegen
+fie verschwören, um nur was ihre Sache fördert zur Geltung
+zu bringen. Denn sobald es Erwerb gilt, kann es leicht dahin
+kommen, daß, wo der Vortheil es heischt, allerlei niedrige
+Mittel, Einverständnisse, Koalitionen u. s. w. angewandt werden,
+um, zu materiellen Zwecken, dem Falschen und Schlechten Ein⸗
+gang und Geltung zu verschaffen; wobei es nothwendig wird,
+das entgegenstehende Wahre, Aechte und Werthvolle zu unter⸗
+drücken. Solchen Künsten aber ist kein Mensch weniger gewachsen,
+als ein wirklicher Philosoph, der etwan mit seiner Sache unter
+das Treiben dieser Gewerbsleute gerathen wäre. — Den schönen
+Künsten, selbst der Poesie, schadet es wenig, daß sie auch zum
+Erwerbe dienen: denn jedes ihrer Werke hat eine gesonderte
+Existenz für sich, und das Schlechte kann das Gute so wenig
+verdrängen, wie verdunkeln. Aber die Philosophie ist ein Ganzes,
+also eine Einheit, und ist auf Wahrheit, nicht auf Schönheit
+gerichtet: es giebt vielerlei Schönheit, aber nur eine Wahrheit;
+wie viele Musen, aber nur eine Minerva. Eben deshalb darf
+der Dichter getrost verschmähen, das Schlechte zu geisseln; aber
+der Philosoph kann in den Fall kommen, dies thun zu müssen.
+Denn das zur Geltung gelangte Schlechte stellt hier sich dem
+Guten geradezu feindlich entgegen, und das wuchernde Unkraut
+verdrängt die brauchbare Pflanze. Die Philosophie ist, ihrer
+Natur nach, erklusiv: fie begründet ja die Denkungsart des
+Zeitalters: daher duldet das herrschende System, wie die Söhne
+der Sultane, kein anderes neben sich. Dazu kommt, daß hier
+das Urtheil höchst schwierig, ja, schon die Erlangung der Data
+
+
+zu demselben mühevoll ist. Wird hier, durch Kunstgriffe, das
+
+
+Falsche in Cours gebracht und überall, als das Wahre und
+Aechte, von belohnten Stentorstimmen ausgeschrien; fo wird der
+Geist der Zeit vergiftet, das Verderben ergreift alle Zweige der
+Litteratur, aller höhere Geistesaufschwung stockt, und dem wirk⸗
+lich Guten und Aechten in jeder Art ist ein Bollwerk entgegen⸗
+gesetzt, das lange vorhält. Dies sind die Früchte der tt
+moIogyogos: Man sehe, zur Erläuterung, den Unfug, der seit
+Kant mit der Philosophie getrieben und was dabei aus ihr ge⸗
+
+
+Ueber die Universitäts⸗Philosophie. 147
+
+
+worden ist. Aber erst die wahre Geschichte der Hegelschen Schar⸗
+latanerie und der Wege ihrer Verbreitung wird einst die rechte
+Alustration zu dem Gesagten liefern.
+
+Diesem Allem zufolge wird Der, dem es nicht um Staats⸗
+philosophie und Spaaßphilosophie, sondern um Erkenntniß und
+daher um ernstlich gemeinte, folglich rücksichtslose Wahrheitsfor⸗
+schung zu thun ist, sie überall eher zu suchen haben, als auf den
+Universitäten, als wo ihre Schwester, die Philosophie ad nor-
+mam conventionis, das Regiment führt und den Küchenzettel
+
+Ja, ich neige mich mehr und mehr zu der Meinung,
+daß es für die Philosophie heilsamer wäre, wenn sie aufhörte,
+ein Gewerbe zu seyn, und nicht mehr im bürgerlichen Leben,
+Mrofessoren repräsentirt, aufträte. Sie ist eine Pflanze,
+die Alpenrose und die Fluenblume, nur in freier Berg⸗
+t t, hingegen bei künstlicher Pflege ausartet. Jene Re⸗
+
+sentanten der Philosophie im bürgerlichen Leben repräsentiren
+doch nur so, wie der Schauspieler den König. Wa⸗
+
+
+f die Sophisten, welche Sokrates fo unermüdlich befeh⸗
+e zum Thema seines Spottes macht, etwas
+
+
+als Professoren der Philosophie und Rhetorik? Ja, ist
+
+8 nicht eigentlich jene uralte Fehde, welche, seitdem nie ganz
+of en, noch heute von mir fortgeführt wird? Die böchsten
+Bestrebungen des menschlichen Geistes vertragen sich nun ein
+Mal nicht mit dem Erwerb: ihre edele Natur kann sich damit
+cht amalgamiren. — Allenfalls möchte es mit der Universitäts⸗
+phie noch hingehn, wenn die angestellten Lehrer derselben
+Beruf dadurch zu genügen dächten, daß sie, nach Weise
+der Professoren, das vorhandene, einstweilen als wahr
+Wissen ihres Faches an die heranwachsende Generation
+gäben, also das System des zuletzt dagewesenen wirklichen
+Winserhen ihren Zuhörern treu und genau auseinandersetzten und
+ihnen die Sachen klein kauten: — Das gienge, sage ich, allen⸗
+„ wenn sie dazu nur soviel Urtheil, oder wenigstens Takt,
+ächten, nicht bloße Sophisten, wie z. B. einen Fichte, einen
+chelling, geschweige einen Hegel, auch für Philosophen zu hal⸗
+ten. Allein nicht nur fehlt es in der Regel ihnen an besagten
+kigenschaften, sondern fie find, in dem unglücklichen Wahne be⸗
+fangen, es gehöre zu ihrem Amte, daß auch fie e Philo⸗
+
+
+148 Ueber die Universitäts⸗Philosophie.
+
+
+sophen spielten und die Welt mit den Früchten ihres Tiefsinns
+beschenkten. Aus diesem Wahne gehen nun jene so kläglichen,
+wie zahlreichen Produktionen hervor, in welchen Alltagsköpfe, ja
+mitunter solche, die nicht ein Mal Alltagsköpfe sind, die Pro⸗
+bleme behandeln, auf deren Lösung seit Jahrtausenden die äu⸗
+ßersten Anstrengungen der seltensten, mit den außerordentlichsten
+Fähigkeiten ausgerüsteten, ihre eigene Person über die Liebe zur
+Wahrheit vergessenden und von der Leidenschaft des Strebens
+nach Licht mitunter bis in den Kerker, ja, auf's Schafott getrie⸗
+benen Köpfe gerichtet gewesen sind; Köpfe, deren Seltenheit so
+groß ist, daß die Geschichte der Philosophie, welche, seit dritt⸗
+halbtausend Jahren neben der Geschichte der Staaten, als ihr
+Grundbaß, hergeht, kaum 5s fo viele namhafte Philosophen auf⸗
+zuweisen hat, als die Staatengeschichte namhafte Monarchen:
+
+
+denn es sind keine andern, als die ganz vereinzelten Köpfe, in
+
+
+welchen die Natur zu einem deutlicheren Bewußtseyn ihrer selbst
+gekommen war, als in andern. Eben diese aber stehn der Ge⸗
+wöhnlichkeit und der Menge so fern, daß den meisten erst nach
+
+
+ihrem Tode, oder höchstens im späten Alter, eine gerechte Aner⸗
+
+
+kennung geworden ist. Hat doch z. B. sogar der eigentliche,
+
+
+hohe Ruhm des Aristoteles, der später sich weiter, als irgend
+einer, verbreitete, allem Anschein nach, erst 200 Jahre nach sei⸗
+
+
+nem Tode begonnen. Epikuros, dessen Name, noch heut zu
+Tage, sogar dem großen Haufen bekannt ist, hat in Athen, bis
+zu seinem Tode, völlig ungekannt gelebt. (Sen. ep. 79) Bruno
+und Spinoza kamen erst im zweiten Jahrhundert nach ihrem
+
+
+Tode zur Geltung und Ehre. Selbst der so klar und populär
+
+
+schreibende David Hume war, obwohl er feine Werke längst
+geliefert hatte, 50 Jahre alt, als man anfieng ihn zu beachten.
+Kant wurde erst nach seinem 60. Jahre berühmt. Mit den
+Kathederphilosophen unserer Tage freilich gehn die Sachen schnel⸗
+ler; da sie keine Zeit zu verlieren haben: nämlich der eine Pro⸗
+fessor verkündet die Lehre seines auf der benachbarten Universität
+
+
+florirenden Kollegen, als den endlich erreichten Gipfel menschli⸗
+
+
+cher Weisheit; und sofort ist dieser ein großer Philosoph, der
+unverzüglich seinen Platz in der Geschichte der Philosophie ein⸗
+nimmt, nämlich in derjenigen, welche ein dritter Kollege zur
+nächsten Messe in Arbeit hat, der nun ganz unbefangen den un⸗
+
+
+Ueber die nannte Phlioionbie 149
+
+
+erblichen Namen der Märtyrer der Wahrheit, aus allen Jahr⸗
+
+en, die werthen Namen seiner eben jetzt florirenden wohl⸗
+en Kollegen anreiht, als eben fo viele Philosophen, die
+m Reihe und Glied treten können, da fie sehr viel Papier
+und allgemeine kollegialische Beachtung gefunden haben.
+heißt es dann z. B. „Aristoteles und Herbart,“ oder „Spi⸗
+und Hegel,“ „Plato und Schleiermacher,“ und die erstaunte
+t muß sehn, daß die Philosophen, welche die karge Natur
+als im Laufe der Jahrhunderte nur vereinzelt hervorzubrin⸗
+ermochte, während dieser letzten Decennien, unter den be⸗
+lich fo hoch begabten Deutschen, überall wie die Pilze auf-
+sind. Natürlich wird dieser Glorie des Zeitalters auf
+nachgeholsen; daher, sei es in gelehrten Zeitschriften,
+in seinen eigenen Werken, der eine Philosophieprofessor
+geln wird, die verkehrten Einfälle des andern mit wid):
+Riene und amtlichem Ernst in genaue Erwägung zu ziehn;
+es ganz aussieht, als handelte es sich hier um wirkliche
+e der menschlichen Erkenntniß. Dafür wiederfährt seinem
+nächstens die selbe Ehre, und wir wissen ja, daß nihil
+s, quam cum mutuum muli scabunt. So viele ge-
+2 Köpfe, die sich von Amts und Berufs wegen verpflichtet
+Das vorzustellen, was die Natur mit ihnen am aller⸗
+beabsichtigt hatte, und die Lasten zu wälzen, welche die
+geistiger Riesen erfordern, bieten aber im Ernst ein
+gliches Schauspiel dar. Denn den Heisern singen zu hö⸗
+en Lahmen tanzen zu sehn, ist peinlich; aber den beschränk⸗
+opf n zu vernehmen ist unerträglich. Um nun
+an wirklichen Gedanken zu verbergen, machen
+En einen imponirenden Apparat von langen, zusammen⸗
+T orten, intrikaten Floskeln, unabsehbaren Perioden,
+merhörten Ausdrücken, welches Alles zusammen dann
+ichst schwierigen und gelehrt klingenden Jargon ab⸗
+ch sagen sie, mit dem Allen, — nichts: man em⸗
+e Gedanken, fühlt seine Einsicht nicht vermehrt, son⸗
+uffeufzen: „das Klappern der Mühle höre ich wohl,
+Rehl sehe ich nicht;“ oder auch, man sieht nur zu
+Ihe dürftige, gemeine, platte und rohe Ansichten hin⸗
+en Bombast stecken. O! daß man solchen
+
+
+450 Ueber die Universitäts-Philosophie.
+
+
+Spaaßphilosophen einen Begriff beibringen koͤnnte von dem wah⸗
+ren und furchtbaren Ernst, mit welchem das Problem des Da⸗
+seyns den Denker ergreift und sein Innerstes erschüttert! Da
+würden fie keine Spaaßphilosophen mehr seyn konnen, nicht mehr,
+mit Gelassenheit, müßige Flausen aushecken, vom absoluten Ge⸗
+danken, oder vom Widerspruch, der in allen Grundbegriffen ftef-
+ken soll, noch mit beneidenswerthem Genügen fih an hohlen
+Nüssen letzen, wie „die Welt ist das Daseyn des Unendlichen
+im Endlichen,“ und „der Geist ist der Reflex des Unendlichen im
+Endlichen,“ u. s. w. Es wäre schlimm für fie: denn fie wollen
+nun ein Mal Philosophen seyn und ganz originelle Denker. Nun
+aber ist, daß ein gewöhnlicher Kopf ungewöhnliche Gedanken
+haben sollte, gerade so wahrscheinlich, wie daß eine Eiche Apri⸗
+fofen trüge. Die gewöhnlichen Gedanken hingegen hat Jeder
+schon selbst und braucht sie nicht zu lesen: folglich kann, da es
+in der Philosophie bloß auf Gedanken, nicht auf Erfahrungen
+und Thatsachen ankommt, durch gewöhnliche Köpfe hier nie
+etwas geleistet werden. Einige, des Uebelstandes sich bewußt,
+haben sich einen Vorrath fremder, meist unvollkommen, stets flach
+aufgefaßter Gedanken aufgefpeichert, die freilich in ihren Köpfen
+immer noch in Gefahr sind, sich in bloße Phrasen und Worte
+zu verflüchtigen. Mit diesen schieben sie dann hin und her,
+und suchen allenfalls, sie, wie Dominosteine, an einander zu
+passen: sie vergleichen nämlich was Dieser gesagt hat, und was
+Jener, und was wieder ein Andrer, und noch Einer, und suchen
+daraus klug zu werden. Vergeblich würde man bei solchen Leuten
+irgend eine feste, auf anschaulicher Basis ruhende und daher durch⸗
+weg zusammenhaͤngende Grundansicht von den Dingen und der
+Welt suchen: eben deshalb haben fie über nichts eine ganz ent⸗
+schlebene Meinung, oder bestimmtes, festes Urtheil; sondern fie
+tappen mit ihren erlernten Gedanken, Ansichten und „
+wie im Nebel umher. Sie haben eigentlich auch nur auf Wi
+und Gelehrsamkeit zum Weiterlehren hingearbeitet. Das möchte
+seyn: aber dann sollen sie nicht die Philosophen spielen, Bube
+den Hafer von der Spreu zu unterscheiden verstehn.
+
+Die wirklichen Denker haben auf Einsicht, und zwar ihrer
+selbst wegen, hingearbeitet; weil sie die Welt, in der fie fi be
+fanden, doch irgend wie sich verständlich zu machen inbrünstig ⸗
+
+
+Ueber die Universitäts⸗Philosophie. 151
+
+
+lich begehrten; nicht aber um zu lehren und zu schwätzen. Da⸗
+her erwächst in ihnen langsam und allmälig, in Folge anhalten⸗
+der Meditation, eine feste, zusammenhängende Grundansicht, die
+zu ihrer Basis allemal die anschauliche Auffassung der Welt
+hat, und von der Wege ausgehn zu allen speciellen Wahrheiten,
+welche selbst wieder Licht zurückwersen auf jene Grundansicht.
+Daraus folgt denn auch, daß sie über jedes Problem des Lebens
+und der Welt wenigstens eine entschiedene, wohl verstandene und
+mit dem Ganzen zusammenhängende Meinung haben, und daher
+niemanden mit leeren Phrasen abzufinden brauchen, wie hinge⸗
+gen jene Ersteren thun, die man stets mit dem Vergleichen und
+Abwägen fremder Meinungen, statt mit den Dingen selbst, be⸗
+schäftigt findet, wonach man glauben könnte, es sei die Rede
+von entfernten Ländern, über welche man die Berichte der we⸗
+nigen, dort hingelangten Reisenden kritisch zu vergleichen hätte,
+nicht aber von der, auch vor ihnen ausgebreitet und klar dalie⸗
+genden, wirklichen Welt. Jedoch bei ihnen heißt es:
+
+
+Sara Hour nous, Messieurs, nous avons l'habitude
+Do qu'on pensa, mais nous ne pensons point.
+neu: Voltaire.
+
+
+Das Schlimmste bei dem ganzen Treiben, das sonst immer⸗
+hin, für den kuriosen Liebhaber, seinen Fortgang haben möchte,
+ist jedoch Dieses: es liegt in ihrem Interesse, daß das Flache
+und Geistlose für etwas gelte. Das kann es aber nicht, wenn
+dem etwan auftretenden Aechten, Großen, Tiefgedachten sofort
+fein Recht widerfährt. Um daher dieses zu ersticken und das
+Schlechte ungehindert in Cours zu bringen, ballen sie, nach Art
+aller Schwachen, sich zusammen, bilden Kliquen und Partheien,
+bemächtigen sich der Litteraturzeitungen, in welchen fie, wie auch
+
+Büchern, mit tiefer Ehrfurcht und wichtiger Miene
+von ihren respectiven Meisterwerken reden und auf solche Art
+das kurzsichtige Publikum bei der Nase herumführen. Ihr
+Verhältniß zu den wirklichen Philosophen ist ungefähr das der
+ehemaligen Meistersänger zu den Dichtern. Zur Erläuterung
+des Gesagten sehe man die messentlich erscheinenden Schreibereien
+der Kathederphilosophen, nebst den dazu aufspielenden Litteratur⸗
+zeitungen: wer sich darauf versteht betrachte die Verschmitztheit,
+
+
+152 Ueber die Universttäts⸗Philosophie.
+
+
+mit der diese letzteren, vorkommenden Falls, bemüht sind, das
+Bedeutende als unbedeutend zu vertuschen und die Kniffe, die
+sie gebrauchen, es der Aufmerksamkeit des Publikums zu entziehn.
+Nun aber gehe man auf diesem Wege und mit diesen Betrach⸗
+tungen immer weiter zurück, bis zum Anfange dieses Jahrhun⸗
+derts, sehe, was früher die Schellingianer, dann aber noch viel
+ärger die Hegelianer in den Tag hineingefündigt haben: man
+überwinde sich, man durchblättere den ekelhaften Wust! denn ihn
+zu lesen ist keinem Menschen zuzumuthen. Dann überlege und
+berechne man die unschätzbare Zeit, nebst dem Papier und
+Gelde, welches das Publikum, ein halbes Jahrhundert hindurch,
+an diesen Pfuschereien hat verlieren müssen. Freilich ist auch
+die Geduld des Publikums unbegreiflich, welches das, Jahr aus,
+Jahr ein, fortgesetzte Geträtsche geistloser Philosophaster liest,
+ungeachtet der marternden Langweiligkeit, die wie ein dicker Ne⸗
+bel darauf brütet, eben weil man liest und liest, ohne je eines
+Gedankens habhaft zu werden, indem der Schreiber, dem selbst
+nichts Deutliches und Bestimmtes vorschwebte, Worte auf Worte,
+
+
+Phrasen auf Phrasen häuft und doch nichts sagt, weil er nichts
+
+
+zu sagen hat, nichts weiß, nichts denkt, dennoch reden will und
+daher seine Worte wählt, nicht je nachdem sie seine Gedanken
+und Einsichten treffender ausdrücken, sondern je nachdem sie sei⸗
+nen Mangel daran geschickter verbergen. Dergleichen jedoch wird
+gedruckt, gekauft und gelesen: und so geht es nun schon ein hal⸗
+bes Jahrhundert hindurch, ohne daß die Leser dabei inne wür⸗
+den, daß sie, wie man im Spanischen sagt, papan viento, d. h.
+bloße Luft schlucken. Inzwischen muß ich, um gerecht zu seyn,
+erwähnen, daß, um diese Klappermühle im Gange zu erhalten,
+oft noch ein ganz eigener Kunstgriff angewandt wird, dessen
+Erfindung auf die Herren Fichte und Schelling zurückzuführen
+ist. Ich meine den verschmitzten Kniff, dunkel, d. h. unverständ⸗
+lich, zu schreiben; wobei die eigentliche Finesse ist, seinen Galli⸗
+mathias so einzurichten, daß der Leser glauben muß, es liege
+an ihm, wenn er denselben nicht versteht; während der Schrei⸗
+ber sehr wohl weiß, daß es an ihm selbst liegt, indem er eben
+nichts eigentlich Verstehbares, d. h. klar Gedachtes, mitzulheilen
+hat. Ohne diesen Kunstgriff hätten die Herren Fichte und Schel⸗
+
+
+ling ihren Pseudo⸗Ruhm nicht auf die Beine bringen können.
+
+
+Ueber die Universitäts⸗Philosophie. 153
+
+
+Aber bekanntlich hat denselben Kunsigriff Keiner so dreist und
+in so hohem Grade ausgeübt, wie Hegel. Hätte Dieser gleich
+Anfangs den absurden Grundgedanken seiner Afterphilosophie,
+— nämlich diesen, den wahren und natürlichen Hergang der
+Sache gerade auf den Kopf zu stellen und demnach die Allge—
+Begriffe, welche wir aus der empirischen Anschauung ab—
+die mithin durch Wegdenken von Bestimmungen ent⸗
+glich je allgemeiner desto leerer sind, zum Ersten, zum
+ichen, zum wahrhaft Realen (zum Ding an sich, in
+r Sprache) zu machen, in Folge Dessen die empirisch—
+t allererst ihr Daseyn habe, — hätte er, sage ich, die⸗
+se dars zugoregov, ja diesen ganz eigentlich aber—
+infall, nebst dem Beisatz, daß solche Begriffe, ohne
+n, sich selber dächten und bewegten, gleich Anfangs
+verständlichen Worten deutlich dargelegt; so würde
+ins Gesicht gelacht, oder die Achseln gezuckt und die
+Beachtung werth gehalten haben. Dann aber hätte
+Feilheit und Niederträchtigkeit vergebens in die Posaune
+können, um der Welt das Absurdeste, welches fie. je ge—
+3 die höchste Weisheit aufzulügen und die deutsche Ge-
+At, mit ihrer Urtheilskraft, auf immer zu kompromitti⸗
+egen unter der Hülle des unverständlichen Gallima⸗
+ieng es, da machte der Aberwitz Glück!
+Omnia enim stolidi magis admirantur amantque, 1 72
+Inversis quae sub verbis latitantia cernunt.
+
+
+soche Beispiele ermuthigt suchte seitdem fast jeder
+Skribler etwas darin, mit pretiöser Dunkelheit zu
+damit es aussähe, als vermöchten keine Worte seine
+tiefen Gedanken auszudrücken. Statt auf jede Weile
+u seyn, seinem Leser deutlich zu werden, scheint er ihm
+d zuzurufen: „Gelt, du kannst nicht rathen was ich mir
+nich den Teufel scheeren,“ und das Buch wegzuwer⸗
+etwas höchst Gescheutes, nämlich sogar feine Fassungs⸗
+e endes seyn, und nennt nun, mit hohen Augen⸗
+
+feinen Autor einen tieffinnigen Denker. Eine Folge
+
+
+154 Ueber die Universlkäts⸗ Philosophie.
+
+
+dieser ganzen saubern Methode ist, unter andern, daß, wenn
+man in England etwas als sehr dunkel, ja, ganz unverständlich
+bezeichnen will, man sagt it is like german metaphysies; un⸗
+gefähr wie man in Frankreich sagt o'est clair comme la bou-
+
+Es ist wohl überflüssig, hier zu erwähnen, doch kann es
+nicht zu oft gesagt werden, daß, im Gegentheil, gute Schriftstel⸗
+ler stets eifrig bemüht sind, ihren Leser zu nöthigen, genau eben
+Das zu denken, was sie selbst gedacht haben: denn wer etwas
+Rechtes mitzutheilen hat, wird sehr darauf bedacht seyn, daß es
+nicht verloren gehe. Deshalb beruht der gute Stil hauptsächlich
+darauf, daß man wirklich etwas zu sagen habe: bloß diese Klei⸗
+nigkeit ist es, die den meisten Schriftstellern unsrer Tage abgeht
+und dadurch Schuld ist an ihrem so schlechten Vortrage. Be⸗
+sonders aber ist der generische Charakter der philosophischen
+Schriften dieses Jahrhunderts das Schreiben, ohne eigentlich et⸗
+was zu sagen zu haben: er ist ihnen allen gemeinsam und kann
+daher auf gleiche Weise am Salat, wie am Hegel, am Herbart,
+wie am Schleiermacher studirt werden. Da wird, nach homoio⸗
+pathischer Methode, das schwache Minimum eines Gedankens
+mit 50 Seiten Wortschwall diluirt und nun, mit gränzenlosem
+Zutrauen zur wahrhaft deutschen Geduld des Lesers, ganz gelassen,
+Seite nach Seite, so fortgeträtscht. Vergebens hofft der zu die⸗
+ser Lektüre verurtheilte Kopf auf eigentliche, solide und substan⸗
+tielle Gedanken: er verschmachtet, wie der Reisende in der ara⸗
+bischen Wüste. Nun nehme man dagegen irgend einen wirkli⸗
+chen Philosophen zur Hand, gleichviel aus welcher Zeit, aus
+welchem Lande, sei es Plato oder Aristoteles, Kartesius, oder
+Hume, Malebranche, oder Locke, Spinoza, oder Kant: immer be⸗
+gegnet man einem schönen und gedankenreichen Geiste, der Er⸗
+kenntniß hat und Erkenntniß wirkt, besonders aber stets redlich
+bemüht ist, sich mitzutheilen daher er dem empfänglichen Leser, bei
+jeder Zeile, die Mühe des Lesens unmittelbar vergilt. Was nun
+die Schreiberei unserer Philosophaster jo überaus gedankenarm und
+dadurch langweilig macht ist zwar, im letzten Grunde, die Armuth
+ihres Geistes, zunächst aber Dieses, daß ihr Vortrag sich durch⸗
+gängig in höchst abstrakten, allgemeinen und überaus weiten Ber
+griffen bewegt, daher auch meistens nur in unbestimmten, schwan⸗
+
+
+Ueber die Universttäts⸗Philosophie. 155
+
+
+kenden, verblasenen Ausdrücken einherschreitet. Zu diesem geroba⸗
+i nge sind sie aber genöthigt; weil sie sich hüten müssen,
+e Erde zu berühren, als wo sie, auf das Reale, Bestimmte,
+ie und Klare stoßend, lauter gefährliche Klippen antreffen
+rden, an denen ihre Wort⸗Dreimaster scheitern könnten. Denn
+Sinne und Verstand fest und unverwandt zu richten auf die
+aulich vorliegende Welt, als auf das eigentlich und wahrhaft
+
+ne, das Unverfälschte und an sich selbst dem Irrthum nicht
+tte, durch welches hindurch wir daher in das Wesen der
+zudringen haben, — kennen sie nichts, als nur die hoͤch⸗
+aktionen, wie Seyn, Wesen, Werden, Absolutes, Unend⸗
+. f., gehen schon von diesen aus und bauen daraus
+deren Gehalt zuletzt auf bloße Worte hinausläuft, die
+tlich nur Seifenblasen find, eine Weile damit zu spie⸗
+den Boden der Realität nicht berühren können, ohne
+
+
+n, bei allen Dem, der Nachtheil, welchen die Unberufe⸗
+Unbefähigten den Wissenschaften bringen, bloß dieser
+fie darin nichts leisten; wie es in den schöͤnen Künsten
+Bewenden hat; fo konnte man sich darüber tröften und
+. Allein hier bringen fie positiven Schaden, zunächst
+a ö sie, um das Schlechte in Ansehn zu erhalten, Alle im
+Bunde gegen das Gute stehn und aus allen Kräften
+d, es nicht anfkommen zu lassen. Denn darüber täusche
+icht, daß, zu allen Zeiten, auf dem ganzen Erdenrunde
+lien Verhältnissen, eine von der Natur selbst angezettelte
+rung aller mittelmäßigen, schlechten und dummen Köpfe
+Heift und Verstand existirt. Gegen diese find sie sämmtlich
+und zahlreiche Bundesgenossen. Oder ist man etwan fo
+
+g/ zu glauben, daß sie vielmehr nur auf die Ueberlegen⸗
+
+
+A 1 ihre eigentliche Hin, und die . Bere
+| zu lassen ein ihnen fo natürlicher Instinkt, wie
+70 be it, Mäuse zu fangen. Man erinnere sich auch
+
+
+156 Ueber die Universitäts⸗Philosophie.
+
+
+hier der am Schlusse der vorhergegangenen Abhandlung beige⸗
+brachten schönen Stelle Chamfort's. Sei doch ein Mal das
+öffentliche Geheimniß ausgesprochen; sei das Mondkalb an's Ta⸗
+geslicht gezogen; jo seltsam auch es sich in demselben ausnimmt;
+allezeit und überall, in allen Lagen und Verhältnissen, haßt Be⸗
+schränktheit und Dummheit nichts auf der Welt so inniglich und
+ingrimmiglich, wie den Verstand, den Geist, das Talent. Daß
+sie hierin sich stets treu bleibt, zeigt sie in allen Sphären, An⸗
+gelegenheiten und Beziehungen des Lebens, indem sie überall
+jene zu unterdrücken, ja auszurotten und zu vertilgen bemüht ist,
+um nur allein dazuseyn. Keine Güte, keine Milde kann sie
+mit der Ueberlegenheit der Geisteskraft aussöhnen. So ist es,
+steht nicht zu ändern, wird auch immer so bleiben. Und welche
+furchtbare Majorität hat sie dabei auf ihrer Seite! Dies ist
+
+
+ein Haupthinderniß der Fortschritte der Menschheit in jeder Art.
+
+
+Wie nun aber kann es, unter solchen Umständen, hergehn auf
+dem Gebiete, wo nicht ein Mal, wie in andern Wissenschaften,
+der gute Kopf, nebst Fleiß und Ausdauer, ausreicht, sondern ganz
+eigenthümliche, sogar nur auf Kosten des persönlichen Glückes
+vorhandene Anlagen erfordert werden! Denn wahrlich, die un⸗
+eigennützigste Aufrichtigkeit des Strebens, der unwiderstehliche
+Drang nach Enträthselung des Daseyns, der Ernst des Tiefsinns,
+der in das Innerste der Wesen einzudringen sich anstrengt, und
+die ächte Begeisterung für die Wahrheit, — dies sind die ersten
+und unerläßlichen Bedingungen zu dem Wagestücke, von Neuem
+
+
+hinzutreten vor die uralte Sphinx, mit einem abermaligen
+
+
+Versuch, ihr ewiges Räthsel zu lösen, auf die Gefahr, hinabzu⸗
+stürzen, zu fo vielen Vorangegangenen, in den finstern Abgrund
+der Vergessenheit.
+
+Ein fernerer Nachtheil, den, in allen Wissenschaften, das
+Treiben der Unberufenen bringt, ist, daß es den Tempel des
+Irrthums aufbaut, an dessen nachheriger Niederreißung gute
+Köpfe und redliche Gemüther bisweilen ihre Lebenszeit hindurch
+sich abzuarbeiten haben. Und nun gar in der Philosophie, im
+allgemeinsten, wichtigsten und schwierigsten Wissen! Will man
+hiezu specielle Belege, so bringe man sich das scheußliche Bei⸗
+spiel der Hegelei vor Augen, jener frechen Afterweisheit, welche,
+an die Stelle des eigenen, besonnenen und redlichen Denkens
+
+
+Ueber die Universttäts⸗Philosophie. 157
+
+
+und Forschens, als philosophische Methode die dialektische Selbst⸗
+bewegung der Begriffe setzte, also ein objektives Gedanken
+automaton, welches frei in der Luft, oder im Empyreum, seine
+
+ofen auf eigene Hand mache, deren Spuren, Fährten, oder
+Jcholithen die Hegel'schen und Hegelianischen Skripturen wä⸗
+
+welche doch vielmehr nur etwas unter sehr flachen und dick⸗
+schaligen Stirnen Ausgehecktes und, weit entfernt ein absolut
+Objektives zu seyn, etwas höchst Subjektives, noch dazu von sehr
+äßigen Subjekten Erdachtes find. Danach aber betrachte
+ie Höhe und Dauer dieses Babelbaues und erwäge den
+henbaren Schaden, den eine solche, durch äußere, fremdar⸗
+ttel der studirenden Jugend aufgezwungene, absolute Un⸗
+llosophie dem an ihr herangewachsenen Geschlechte und da⸗
+ganzen Zeitalter hat bringen müssen. Sind nicht un⸗
+Köpfe der gegenwärtigen Gelehrtengeneration dadurch von
+aus verschroben und verdorben? Stecken sie nicht voll kor⸗
+sichten und lassen, wo man Gedanken erwartet, hohle
+nichtssagendes Wischiwaschi, ekelhaften Hegeljargon ver⸗
+Ist ihnen nicht die ganze Lebensansicht verrückt und die
+hilisterhafteste, ja, niedrigste Gesinnung an die Stelle der
+hohen Gedanken, welche noch ihre nächsten Vorfahren
+getreten? Mit Einem Worte, steht nicht die am Brüt⸗
+egelei herangereifte Jugend da, als am Geiste kastrirte
+unfähig zu denken und voll der lächerlichsten Präsum⸗
+
+
+u ihrer Vernunft beraubt, ein Gegenstand des Mitleids,
+endes Thema der Vaterthränen. — Nun aber höre man
+r andern Seite, welche anstößigen Urtheile über die
+
+
+aut werden. Bei näherer Untersuchung findet sich
+iese Schmäher unter Philosophie eben nichts anderes,
+ose und absichtsvolle Gewäsche jenes elenden Schar⸗
+das Echo desselben in den hohlen Köpfen seiner ab⸗
+Verehrer verstehn: Das meynen sie wirklich, sei Phi⸗
+Sie kennen eben keine andere. Freilich ist beinahe
+
+
+selbst und überhaupt, welche ungegründete Vorwürfe
+
+
+Acht
+
+
+helge man weiland durch Ausschweifungen, oder
+zur Regierung, oder doch zur Fortführung ihres Stam⸗ N
+g zu machen suchte; geistig entnervt, des regelrechten Fer Fa
+
+
+158 Ueber die Universitäte⸗Philosophie.
+
+
+die ganze jüngere Zeitgenossenschaft von der Hegelei, gleich wie
+von der Franzosenkrankheit, infizirt worden; und wie dieses Ue⸗
+bel alle Säfte vergiftet, so hat jene alle ihre Geisteskräste ver⸗
+dorben; daher die jüngeren Gelehrten heut zu Tage meistens kei⸗
+nes gesunden Gedankens, auch keines natürlichen Ausdrucks mehr
+fähig sind. In ihren Köpfen ist nicht bloß kein einziger richti⸗
+ger, sondern auch nicht ein Mal ein einziger deutlicher und be⸗
+stimmter Begriff von irgend etwas vorhanden: der wüste, leere
+Wortkram hat ihre Denkkraft aufgelöst und verschwemmt. Dazu
+kommt noch, daß das Uebel der Hegelei nicht minder schwer
+auszutreiben ist, als die soeben damit verglichene Krankheit,
+wenn es ein Mal recht eingedrungen ist in succum et sangui-
+nem, Hingegen es in die Welt zu setzen und zu verbreiten war
+ziemlich leicht; da ja die Einsichten bald genug aus dem Felde
+geschlagen sind, wenn man Absichten gegen sie ausmarschiren läßt,
+d. h. zur Verbreitung von Meinungen und Fesistellung von Ur⸗
+theilen sich materieller Mittel und Wege bedient. Die arg⸗
+lose Jugend geht auf die Universität voll kindlichen Vertrau
+und blickt mit Ehrfurcht auf die angeblichen Inhaber alles Wissens,
+und nun gar auf den präsumtiven Ergründer unsers Daseyns,
+auf den Mann, dessen Ruhm sie von tausend Zungen enthusia⸗
+stisch verkündigen hört und auf dessen Lehrvortrag sie bejahrte
+Staatsmänner lauschen sieht. Sie geht also hin, bereit zu ler⸗
+nen, zu glauben und zu verehren. Wenn ihr nun da, unter bei
+Namen der Philosophie, ein völlig auf den Kopf gestellter Ge⸗
+dankenwust, eine Lehre von der Identität des Seyns und des
+Nichts, eine Zusammenstellung von Worten, dabei dem gesunden
+Kopfe alles Denken ausgeht, ein Wischiwaschi, das an's Tollhaus
+erinnert, dargereicht wird, dazu noch ausstaffirt mit Zügen krasser
+Ignoranz und kolossalen Unverstandes, wie ich solche dem Hegel
+aus seinem Studentenkompendio unwidersprechlich und un
+
+
+sprochen nachgewiesen habe, in der Vorrede zu meiner Ethik,
+um nämlich daselbst der Dänischen mie, dieser glücklich ino⸗
+kulirten Lobrednerin der Pfuscher und Schutzmatrone philosophi⸗
+scher Scharlatane, ihren zummus philosophus so recht unter die
+Nase zu reiben; — nun, da wird die arg⸗ und urtheilslose Ju⸗
+gend auch solches Zeug verehren, wird eben denken, in solchem
+Abrakadabra müsse ja wohl die Philosophie bestehn, und wird
+
+
+| Ueber die Unipersitäts⸗Philosophie. 159
+
+
+davongehn mit einem gelähmten Kopf, in welchem fortan bloße
+Worte für Gedanken gelten, mithin auf immer unfähig, wirk⸗
+liche Gedanken hervorzubringen, also kastrirt am Geiste. Daraus
+erwächst denn so eine Generation impotenter, verschrobener, aber
+überaus anspruchs voller Köpfe, strotzend von Absichten, blutarm
+an Einsichten, wie wir sie jetzt vor uns haben. Das ist die
+Geistesgeschichte Tausender, deren Jugend und schönste Kraft durch
+jene Afterweisheit verpestet worden ist; während auch sie hätten
+der Wohlthat theilhaft werden sollen, welche die Natur, als ihr
+ein Kopf wie Kant gelang, vielen Generationen bereitete. —
+Mit der wirklichen, von freien Leuten, bloß ihrer selbst wegen ge⸗
+triebenen und keine andere Stütze als die ihrer Argumente haben⸗
+den Philosophie, hätte dergleichen Mißbrauch nie getrieben werden
+können; sondern nur mit der Universitätsphilosophie, als welche
+schon von Haufe aus ein Staatsmittel ist, weshalb wir denn
+auch sehn, daß, zu allen Zeiten, der Staat sich in die philoso⸗
+| Streitigkeiten der Universitäten gemischt und Partei er⸗
+. 1 hat, mochte es sich um Realisten und Nominalisten, oder
+liker und Ramisten, oder Kartesianer und Aristoteliker,
+um Christian Wolff, oder Kant, oder Fichte, oder Hegel, oder
+was sonst handeln.
+
+Zu den Nachtheilen, welche die Universitätsphilosophie der
+hen und ernstlich gemeinten gebracht hat, gehört ganz beson⸗
+das soeben berührte Verdrängtwerden der Kantischen Philo⸗
+e durch die Windbeuteleien der drei ausposaunten Sophisten.
+
+
+t waren, endlich aber gar der plumpe und ekelhafte Schar⸗
+n Hegel, dieser perniciose Mensch, der einer ganzen Genera⸗
+die Köpfe völlig desorganisirt und verdorben hat, wurden
+schrien als die Männer, welche Kants Philosophie weiter
+rt hätten, darüber hinausgelangt wären und fo, eigentlich
+auf feinen Nacken tretend, eine ungleich höhere Stufe der Er⸗
+senntniß und Einsicht erreicht hätten, von welcher aus fie nun
+nitleidig auf Kants mühsälige Vorarbeit zu ihrer Herrlich⸗
+
+zit herabsähen: fie also wären erst die eigentlich großen Philo⸗
+n. Was Wunder, daß die jungen Leute, — ohne eigenes
+
+eil und ohne jenes, oft so heilsame Mißtrauen gegen die
+
+
+160 Ueber die Universitäts⸗Philosophie.
+
+
+folglich auch mit dem Gefühl derselben, ausgestattete Kopf schon
+auf die Universität mitbringt, — eben glaubten, was sie vernah⸗
+men, und folglich vermeinten, sich mit den schwerfälligen Vorar⸗
+beiten zu der neuen hohen Weisheit, also mit dem alten, steifen
+Kant, nicht lange aufhalten zu dürfen; sondern mit raschen
+Schritten dem neuen Weisheitstempel zueilten, in welchem dem⸗
+gemäß, unter dem Lobgesang stultifizirter Adepten, jetzt jene drei
+Windbeutel successiv auf dem Altar gesessen haben. Nun ist aber
+leider von diesen drei Götzen der Universitätsphilosophie nichts
+zu lernen: ihre Schriften sind Zeitverderb, ja, Kopfverderb, am
+meisten freilich die Hegelschen. Die Folge dieses Ganges der
+Dinge ist gewesen, daß allmälig die eigentlichen Kenner der
+Kantischen Philosophie ausgestorben sind, also, zur Schande des
+Zeitalters, diese wichtigste aller je aufgestellten philosophischen
+Lehren ihr Daseyn nicht als ein lebendiges, in den Köpfen sich
+erhaltendes, hat fortsetzen können; sondern nur noch im todten
+Buchstaben, in den Werken ihres Urhebers, vorhanden ist, um
+auf ein weiseres, oder vielmehr nicht bethörtes und mystifizirtes
+Geschlecht zu warten. Demgemäß wird man kaum noch bei ei⸗
+nigen wenigen, älteren Gelehrten ein gründliches Verständniß
+der Kantischen Philosophie finden. Hingegen haben die philosophi⸗
+schen Schriftsteller unserer Tage die skandalöseste Unkenntniß der⸗
+selben an den Tag gelegt, welche am anstößigsten in ihren Dar⸗
+stellungen dieser Lehre erscheint, aber auch fonft, sobald fie auf
+die Kantische Philosophie zu sprechen kommen und etwas davon
+zu wissen affektiren, deutlich hervortritt: da wird man denn
+entrüstet, zu sehn, daß Leute, die von der Philosophie leben, die
+wichtigste Lehre, welche seit 2000 Jahren aufgestellt worden und
+mit ihnen fast gleichzeitig ist, nicht eigentlich und wirklich kennen.
+Ja, es geht so weit, daß sie die Titel Kantischer Schriften falsch
+eitiren, auch gelegentlich Kanten das gerade Gegentheil von dem
+sagen lassen, was er gesagt hat, feine termini techniei bis zur
+Sinnlosigkeit verstümmeln und ohne alle Ahndung des von ihm
+
+damit Bezeichneten gebrauchen. Denn freilich, mittelst eines
+flüchtigen Durchblätterns der Kantischen Werke, wie es solchen
+Vielschreibern und philosophischen Geschästsleuten, welche zudem
+vermeinen, das Alles längst „hinter sich“ zu haben, allein zu⸗
+steht, die Lehre jenes tiefen Geistes kennen zu lernen, ach
+
+
+Ueber die Universitäts⸗Philosophie. 161
+
+
+an, ja, ist ein lächerliches Vermessen; sagte doch Reinhold,
+Kants erster Apostel, daß er erst nach fünfmaligem, angestrengtem
+Durchstudiren der Kritik der reinen Vernunft in den eigentlichen
+Sinn derselben eingedrungen wäre. Aus den Darstellungen, die
+solche Leute liefern, vermeint dann wieder ein bequemes und nase⸗
+geführtes Publitum in kürzester Zeit und ohne alle Mühe Kants
+
+
+Milosophie sich aneignen zu können! Dies aber ift durchaus un-
+
+
+möglich. Nie wird man ohne eigenes, eifriges und oft wiederholtes
+Studium der Kantischen Hauptwerke auch nur einen Begriff von
+dieser wichtigsten aller je dagewesenen philosophischen Erschei⸗
+
+
+nungen erhalten. Denn Kant ist vielleicht der originellste Kopf,
+
+
+den jemals die Natur hervorgebracht hat. Mit ihm und in sei⸗
+ner Weise zu denken, ist etwas, das mit gar nichts Anderm ir⸗
+verglichen werden kann: denn er besaß einen Grad von
+er, ganz eigenthümlicher Besonnenheit, wie solche niemals ir⸗
+einem andern Sterblichen zu Theil geworden ist. Man
+gt zum Mitgenuß derselben, wenn man, durch fleißiges und
+Studium eingeweiht, es dahin bringt, daß man, beim
+er eigentlich tiefsinnigen Kapitel der Kritik der reinen
+ft) der Sache sich ganz hingebend, nunmehr wirklich mit
+Ropfe: denkt, wodurch man hoch über sich selbst hinaus⸗
+wird. So z. B., wenn man ein Mal wieder die
+fäge des reinen Verstandes“ durchnimmt, zumal die „Ana⸗
+Erfahrung“ betrachtet und nun in den tiefen Gedan⸗
+synthetischen Einheit der Apperception eindringt.
+ft. fi alsdann dem ganzen traumartigen Daseyn, in
+ir versenkt sind, auf wundersame Weise, entrückt und
+et, indem man die Urelemente desselben jedes für sich in
+d erhält und nun sieht, wie Zeit, Raum, Kausalität,
+ie synthetische Einheit der Apperception aller Erscheinun⸗
+knüpft, diesen erfahrungsmäßigen Komplex des Ganzen
+Verlauf möglich machen, worin unsere, durch den
+so sehr bedingte Welt besteht, die eben deshalb bloße
+
+
+nämlich derjenige Zusammenhang der Welt als eines Ganzen,
+cher auf den Gesetzen unsers Intellekts beruht und daher un⸗
+Ne In der Darstellung derselben weist Kant die
+der Welt nach, da, wo sie mit denen 17 55 In⸗
+
+
+g ist. Die synthetische Einheit der Apperception ist
+
+
+162 ueber die Universttäts⸗Philosophie.
+
+
+tellekts in Eins zusammenlaufen, und hält sie uns, auf Einen Fa⸗
+den gereiht, vor. Diese Betrachtungsweise, welche Kanten aus⸗
+schließlich eigen ist, läßt sich beschreiben als der entfremdeteste
+Blick, der jemals auf die Welt geworfen worden, und als der
+höchste Grad von Objektivität. Ihr zu folgen gewährt einen
+geistigen Genuß, dem vielleicht kein anderer gleich kommt. Denn
+er ist höherer Art, als der, den Poeten gewähren, welche freilich
+Jedem zugänglich sind, während dem hier geschilderten Genusse
+Mühe und Anstrengung vorhergegangen seyn müssen. Was aber
+wissen von demselben unsere heutigen Professionsphilosophen ?
+Wahrhaftig nichts. Kürzlich las ich eine psychologische Diatribe
+von einem derselben, in der viel von Kants „synthetischer Ap⸗
+perception“ (sie) die Rede ist: denn Kants Kunstausdrücke ges
+brauchen sie gar zu gern, wenn auch nur, wie hier, halb aufge⸗
+schnappt und dadurch sinnlos geworden. Dieser nun meynte,
+darunter wäre wohl die angestrengte Aufmerksamkeit zu verstehn!
+Diese nämlich, nebst ähnlichen Sächelchen, machen so die Favo⸗
+ritthemata ihrer Kinderschulenphilosophie aus. In der That
+haben die Herren gar keine Zeit, noch Lust, noch Trieb den
+Kant zu studiren: — er ist ihnen fo gleichgültig, wie ich es bin.
+Für ihren verfeinerten Geschmack gehören ganz andere Leute.
+Nämlich was der scharfsinnige Herbart und der große Schleier⸗
+macher, oder gar „Hegel selbst“ gesagt hat, — das ist. Stoff für
+ihre Meditation und ihnen angemessen. Zudem sehn sie herzlich gern
+den „Alleszermalmer Kant“ in Vergessenheit gerathen, und beei⸗
+len sich, ihn zur todten, historischen Erscheinung zu machen, zur
+Leiche, zur Mumie, der sie dann ohne Furcht ins Angesicht sehn
+können. Denn er hat im allergrößten Ernst dem jüdischen Theis⸗
+mus in der Philosophie ein Ende gemacht; — welches sie gern
+vertuschen, verhehlen und ignoriren; weil sie ohne denselben nicht
+m... ich meyne nicht essen und trinken, — können.
+Nach einem solchen Rückschritt vom größten —
+den jemals die Philosophie gemacht, darf es uns nicht wundern,
+daß das angebliche Philosophiren dieser Zeit einem völlig un⸗
+kritischen Verfahren, einer unglaublichen, sich unter hochtrabenden
+Phrasen versteckenden Rohheit und einem naturalistischen Tappen,
+viel ärger, als es je vor Kant gewesen, anheim gefallen ist.
+Da wird denn z. B. mit der Unverschämtheit, welche rohe Un⸗
+
+
+Ueber die Universitäts⸗Philosophie. 163
+
+
+wissenheit verleiht, überall und ohne Umstände von der morali⸗
+schen Freiheit, als einer ausgemachten, ja, unmittelbar ge⸗
+
+
+— — von Gottes Daseyn und Wesen, als
+st verstehenden Dingen, wie auch von der „Seele“
+
+
+ner allbekannten Person geredet; ja sogar der Ausdruck
+rene Ideen,“ der seit Locke's Zeit sich hatte verkriechen
+wagt sich wieder hervor. Hieher gehört auch die plumpe
+ümtheit, mit der die Hegelianer, in allen ihren Schriften,
+stände und Einführung, ein Langes und Breites über den
+— 2 „Geist“ reden, sich darauf verlassend, daß man durch
+ipren Gallimathias viel zu sehr verblüfft sei, als daß, wie es
+N be, Einer dem Herrn Professor zu Leibe ginge mit der
+„Geist? wer ist denn der Bursche! und woher kennt ihr
+| ter nicht etwan bloß eine beliebige und bequeme Hypo⸗
+sase, die ihr nicht ein Mal definirt, geschweige dedueirt, oder
+% Glaubt ihr ein Publikum von alten Weibern vor euch
+% — Das wäre die geeignete ens gegen sone
+en Bhitofophafter, gibs
+seinen belustigenden Charafterzug des Philssophitens
+sewerbsleute, habe ich schon oben, bei Gelegenheit der
+schen Apperception,“ gezeigt, daß, obwohl fie. Kants
+ie, als ihnen sehr unbequem, zudem viel zu ernsthaft,
+brauchen, auch solche nicht mehr recht verstehen können,
+och gern, um ihrem Geschwätze einen wissenschaftlichen
+geben, mit Ausdrücken aus derselben um sich werfen,
+die Kinder mit des Papa's Hut, Stock und Degen
+‚ma ‚machen . % B. die Hegeltaner mit dem Worte
+
+
+erner ist in der Kantischen Philosophie stark die
+
+
+an sich einzulaflen, wäre freilch für unsere Spaaß⸗
+cht gerathen. Aber die Ausdrücke hätten fie doch
+
+
+[S. 164]
+
+
+auftritt, fie nun disputiren, ob er in der Welt drinne stecke,
+oder aber draußen bleibe, d. h. also in einem Raume, wo keine
+Welt ist, sich aufhalte: im ersten Falle nun tituliren sie ihn
+immanent, und im andern transfcendent, thun dabei natür⸗
+lich höchst ernsthaft und gelehrt, reden Hegeljargon dazu, und
+es ist ein allerliebster Spaaß, — der nur uns älteren Leute an
+den Kupferstich in Falk's satirischem Almanach erinnert, welcher
+Kanten darstellt, im Luftballon gen Himmel fahrend und seine
+sämmtlichen Garderobenstücke, nebst Hut und Perücke, herab⸗
+werfend auf die Erde, woselbst Affen sie auflesen und sich damit
+schmücken.
+Daß nun aber das Verdrängtwerden der ernsten, tieffinnigen
+und redlichen Philosophie Kants, durch die Windbeuteleien bloßer,
+von persönlichen Zwecken geleiteter Sophisten, den nachtheiligsten
+Einfluß auf die Bildung des Zeitalters gehabt habe, ist nicht zu
+bezweifeln. Zumal ist die Anpreisung eines so völlig werthlosen,
+ja, durchaus verderblichen Kopfes, wie Hegel, als des ersten Philo⸗
+sophen dieser und jeder Zeit, zuverlässig die Ursache der ganzen
+Degradation der Philosophie und, in Folge davon, des Verfalls
+der höhern Litteratur überhaupt, während der letzten 30 Jahre
+gewesen. Wehe der Zeit, wo, in der Philosophie, Frechheit
+und Unsinn Einsicht und Verstand verdrängt haben! Denn die
+Früchte nehmen den Geschmack des Bodens an, auf welchem sie
+gewachsen sind. Was laut, öffentlich, allseitig angepriesen wird,
+das wird gelesen, ist also die Geistesnahrung des sich ausbil⸗
+denden Geschlechts: diese aber hat auf dessen Säfte und nachher
+auf dessen Erzeugnisse den entschiedensten Einfluß. Daher be⸗
+stimmt die herrschende Philosophie einer Zeit ihren Geist. Herrscht
+nun also die Philosophie des absoluten Unsinns, gelten aus der
+Luft gegriffene und unter Tollhäuslergeschwätz vorgebrachte Ab⸗
+surditäten für große Gedanken, — nun da entsteht, nach solcher
+Aussaat, das saubere Geschlecht, ohne Geist, ohne Wahrheitsliebe,
+ohne Redlichkeit, ohne Geschmack, ohne Aufschwung zu irgend
+etwas Edlem, zu irgend etwas über die materiellen Juteressen,
+zu denen auch die politischen gehören, Hinausliegendem, — — wie
+wir es da vor uns sehn. Hieraus ist es zu erklären, wie auf
+das Zeitalter, da Kant philosophirte, Gothe dichtete,
+komponirte, das jetzige hat folgen können, das der
+Dichter, der noch politischeren Philosophen, der hungrigen, vom
+
+
+| Ueber die Univerfitätss Philofophie, 165
+
+
+Lug und Trug der Litteratur ihr Leben friftenden Litteraten und
+der die Sprache muthwillig verhunzenden Tintenklerer jeder Art.
+— Es nennt sich, mit einem seiner selbstgemachten Worte, so
+charakteristisch, wie euphonisch, die „Jetztzeit“: ja wohl Jetztzeit,
+d. h. da man nur an das Jetzt denkt und keinen Blick auf die
+ꝛende und richtende Zeit zu werfen wagt. Ich wünsche ich
+e dieser „Jetztzeit“ in einem Zauberspiegel zeigen, wie sie
+Augen der Nachwelt sich ausnehmen wird. Sie nennt
+jene so eben belobte Vergangenheit die „Zopfzeit“.
+an jenen Zöpfen saßen Köpfe; jetzt hingegen scheint mit
+
+dem Stenge auch die Frucht verschwunden zu seyn.
+f e Anhänger Hegels haben demnach ganz Recht, wenn
+
+
+ipten, daß der Einfluß ihres Meisters auf feine Zeitge⸗
+unermeßlich gewesen sei. Eine ganze Gelehrten⸗Genera⸗
+Seife völlig paralysirt, zu allem Denken unfähig ge⸗
+mach „ja, so weit gebracht zu haben, daß sie nicht mehr weiß,
+was Denken sei, sondern das muthwilligste und zugleich abge⸗
+schmacktest Spielen mit Worten und Begriffen, oder das gedan⸗
+e Saalbadern über die hergebrachten Themata der Phi⸗
+„mit aus der Luft gegriffenen Behauptungen, oder völlig
+„oder gar aus Widersprüchen bestehenden Sätzen für
+sches Denken hält, — das ist der gerühmte Einfluß des
+ewesen. Man vergleiche nur ein Mal die Lehrbücher der
+aner, wie fie noch heut zu Tage zu erscheinen sich erdrei⸗
+denen einer geringgeschätzten, besonders aber von ihnen
+zachkantischen Philosophen mit unendlicher Verachtung
+Zeit, der sogenannten eklektischen Periode, dicht vor
+d man wird finden, daß die letzteren zu jenen sich im⸗
+erhalten wie Gold, — nicht zu Kupfer, sondern zu
+a doch immer noch einen reichen Vorrath wirklicher und
+heil wahrer, selbst werthvoller Gedanken und treffender
+erkungen, ein redliches Ventiliren philosophischer Probleme,
+Anregung zum eigenen Nachdenken, eine Anleitung zum
+hiren, zumal aber durchweg ein ehrliches Verfahren.
+einem Produkte der Hegelschen Schule hingegen sucht man
+nach irgend einem wirklichen Gedanken, — es enthält
+zen, — nach irgend einer Spur ernstlichen und auf⸗
+n Nachdenkens, — das ist der Sache fremd: nichts fin⸗
+
+
+166 Ueber die Universitäts⸗Phllosophie “
+
+
+det man, als verwegene Zusammenstellungen von Worten, die
+einen Sinn, ja, einen tiefen Sinn zu haben scheinen sollen, aber
+bei einiger Prüfung sich entlarven als ganz hohle, völlig sinn⸗
+und gedankenleere Floskeln und Wortgehaͤuse, mit denen der
+Schreiber seinen Leser keineswegs zu belehren, sondern bloß zu
+täuschen sucht, damit dieser glaube, einen Denker vor sich zu
+haben, während es ein Mensch ist, der gar nicht weiß, was den⸗
+ken ist, ein Sünder ohne alle Einsicht und noch dazu ohne Kennt⸗
+nisse. Dies ist die Folge davon, daß, während andere Sophisten,
+Scharlatane und Obskuranten doch nur die Erkenntniß vor
+fälschten und verdarben, Hegel sogar das Organ der Erkennt⸗
+niß, den Verstand selbst verdorben hat. Indem er nämlich die
+Verleiteten nöthigte, einen aus dem gröbsten Unsinn bestehenden
+Gallimathias, ein Gewebe aus contradictionibus in adjecte;
+ein Gewäsche wie aus dem Tollhause, als Vernunfterkenntniß
+in ihren Kopf hineinzuzwängen, wurde das Gehirn der armen
+jungen Leute, die so etwas mit gläubiger Hingebung lasen und
+als die höchste Weisheit sich anzueignen suchten, so aus den Fu⸗
+gen gerenkt, daß es zum wirklichen Denken auf immer unfähig
+geblieben ist. Demzufolge sieht man sie noch bis auf den heu⸗
+tigen Tag herumgehn, im ekelhaften Hegeljargon reden, den
+Meister preisen und ganz ernstlich vermeinen, Sätze, wie „die
+Natur ist die Idee in ihrem Andersseyn“ fagten etwas. Junges
+feisches Gehirn auf solche Art zu desorganistren ift wahrlich eine
+Sünde, die weder Verzeihung noch Schonung verdient. Dies
+also ist der gerühmte Einfluß Hegel's auf seine Zeitgenossen ge⸗
+wesen und leider hat er wirklich sich weit erstreckt und verbrei⸗
+tet. Denn die Folge war auch hier der Ursache angemessen. —
+Wie nämlich das Schlimmste, was einem Staate wiederfahren kann,
+ist, daß die verworfenste Klasse, der Hefen der Gesellschaft an's Ruder
+kommt; so kann der Philosophie und allem von ihr Abhängigen,
+also dem ganzen Wissen und Geistesleben der Menschheit, nichts
+
+
+Schlimmeres begegnen, als daß ein Alltagskopf, der sich bloß
+
+
+einerseits durch feine Obsequiosität, und andrerseits durch feine
+
+
+Frechheit im Unsinnschreiben auszeichnet, mithin so ein Hegel,
+als das größte Genie und als der Mann, in welchem die Philo⸗
+sophie ihr lang verfolgtes Ziel endlich und für immer erreicht
+hat, mit größtem, ja beispiellosem Nachdruck proklamirt wird.
+Denn die Folge eines solchen Hochverraths am Edelsten der
+
+
+Ueber die Universitäts⸗Philosophie. 167
+
+
+Menschheit ist nachher ein Zustand, wie jetzt der philosophische,
+und dadurch der litterarische überhaupt, in Deutschland: Un⸗
+wissenheit mit Unverschämtheit verbrüdert an der Spitze, Kama⸗
+raderie an der Stelle der Verdienste, völlige Verworrenheit
+aller Grundbegriffe, gänzliche Desorientation und Desorganisa⸗
+n der Philosophie, Plattköpfe als Reformatoren der Religion,
+Auftreten des Materialismus und Bestialismus, Un⸗
+tenntniß der alten Sprachen und Verhunzen der eigenen durch
+hirnlose Wortbeschneiderei und niederträchtige Buchstabenzählerei,
+nach selbsteigenem Ermessen der Ignoranten und Dummköpfe,
+u s. f. u. s. f. — seht nur um euch! Sogar als äußerliches
+Symptom der überhand nehmenden Rohheit erblickt ihr den kon⸗
+stanten Begleiter derselben, — den langen Bart, dieses Geschlechts⸗
+u mitten im Gesicht, welches besagt, daß man die Mas⸗
+die man mit den Thieren gemein hat, der Humani⸗
+— indem man vor Allem ein Mann, mas, und erst
+s ein Mensch seyn will. Das Abscheeren der Bärte,
+hochgebildeten Zeitaltern und Ländern, ist aus dem rich⸗
+des Gegentheils entstanden, vermöge dessen man vor
+M ensch, gewissermaaßen ein Mensch in abstracto, mit
+etzung des thierischen Geschlechtsunterschiedes, seyn möchte.
+n hat die Bartlänge stets mit der Barbarei, an die schon
+dame erinnert, gleichen Schritt gehalten. — Die fernere und
+sekundäre Folge des in Rede stehenden Verrathes an der Phi⸗
+
+losophi ie kann denn auch nicht ausbleiben: fie ist Verachtung der
+
+5 bei den Nachbarn, und des Zeitalters bei der Nachwelt.
+vie man's treibt, fo gehts, und da wird nichts geschenkt.
+en habe ich von dem mächtigen Einfluß der Geistesnah⸗
+das Zeitalter geredet. Dieser nun beruht darauf, daß
+den Stoff, wie die Form des Denkens bestimmt. Daher
+viel darauf an, was gelobt und demnach gelesen wird.
+
+
+ertheilt ihm eine regelrechte Bewegung, versetzt ihn in
+en Schwung: es wirkt analog der Hand des Schreib⸗
+welche die des Kindes führt. Hingegen das Denken
+„ die es eigentlich auf bloßen Schein, mithin auf Täu⸗
+Lesers abgesehn haben, wie Fichte, Schelling und He⸗
+rdirbt den Kopf in eben dem Maaße; nicht weniger das
+
+it Queerköpfen, oder mit solchen, die sich ihren Verstand
+
+
+das Denken mit einem wahrhaft großen Geiste stärkt den
+
+
+168 Ueber die Universitäts⸗Philosophie.
+
+
+verkehrt angezogen haben, von denen Herbart ein Beispiel ist.
+Ueberhaupt aber ist das Lesen der Schriften selbst auch nur ge⸗
+wöhnlicher Köpfe, in Fächern, wo es sich nicht um Thatsachen,
+oder deren Ermittelung, handelt, sondern bloß eigene Gedanken
+den Stoff ausmachen, eine heillose Verschwendung der eigenen
+Zeit und Kraft. Denn was dergleichen Leute denken kann jeder
+Andere auch denken: daß sie sich zum Denken förmlich zurecht⸗
+gesetzt und es darauf angelegt haben, bessert die Sache durchaus
+nicht; da es ihre Kräfte nicht erhöht und man meistens dann
+am wenigsten denkt, wann man förmlich sich dazu zurechtgesetzt
+hat. Dazu kommt noch, daß ihr Intellekt seiner natürlichen Be⸗
+stimmung, im Dienste des Willens zu arbeiten, getreu bleibt;
+wie dies eben normal ist. Darum aber liegt ihrem Treiben und
+Denken stets eine Absicht zum Grunde: sie haben allezeit Zwecke
+und erkennen nur in Bezug auf diese, mithin nur Das, was
+diesen entspricht. Die willensfreie Aktivität des Intellekts, welche
+die Bedingung der reinen Objektivität und dadurch aller großen
+Leistungen ist, bleibt ihnen ewig fremd, ist ihrem Herzen eine
+Fabel. Für sie haben nur Zwecke Interesse, nur Zwecke Reali⸗
+tät: denn in ihnen bleibt das Wollen vorwaltend. Daher also
+ist es doppelt thöricht, an ihren Produktionen seine Zeit zu ver⸗
+schwenden. Allein was das Publikum nie erkennt und begreift,
+weil es gute Gründe hat, es nicht erkennen zu wollen, ist die
+Aristokratie der Natur. Daher legt es so bald die Selte⸗
+nen und Wenigen, welchen, im Laufe der Jahrhunderte, die Na⸗
+tur den hohen Beruf des Nachdenkens über sie, oder auch der
+Darstellung des Geistes ihrer Werke, ertheilt hatte, aus den
+Händen, um sich mit den Produktionen des neuesten Stümpers
+bekannt zu machen. Ist einmal ein Heros dagewesen; so stellt
+es bald einen Schächer daneben, — als ungefähr auch so Einen.
+Hat ein Mal die Natur in günstigster Laune das seltenste ihrer
+Erzeugnisse, einen wirklich über das gewöhnliche Maaß hinaus
+begabten Geist, aus ihren Händen hervorgehn lassen, hat das
+Schicksal, in milder Stimmung, seine Ausbildung gestattet, ja,
+haben seine Werke endlich „den Widerstand der stumpfen Welt
+besiegt“ und sind als Muster anerkannt und anempfohlen, — da
+dauert es nicht lange so kommen die Leute mit einem Erden⸗
+kloß ihres Gelichters herangeschleppt, um ihn daneben auf den
+Altar zu stellen; eben weil sie nicht begreifen, nicht ahnden, wie
+
+
+| Ueber die Universitäts⸗Philosophie. 169
+
+
+Millionen ihrer Fabrikwaare noch nicht Ein wahrhaft großer
+3 daher man alsdann Diesen gründlich kennen ler⸗
+
+nen, seine Werke als eine Art Offenbarung betrachten, sie uner⸗
+müdlich lesen und diurna nocturnaque manu abnutzen, dage⸗
+gen aber sämmtliche Alltagsköpfe liegen lassen foll, als Das, was
+fie find, nämlich als etwas so Gemeines und Alltägliches, wie
+
+an der Wand.
+
+IJn der Philosophie ist der oben geschilderte Hergang auf
+das Trostloseste eingetreten: neben Kant wird durchgängig und
+überall, nämlich als eben noch so Einer, Fichte genannt: „Kant
+und Fichte“ ist zur stehenden Phrafe geworden. „Seht, wie wir
+Aepfel schwimmen!“ sagte der — — — Gleiche Ehre wider⸗
+chmierer und Kopfverberber Hegel! Der Gipfel dieses
+3 wurde nämlich immer breiter getreten. — „Habt ihr Aus
+
+4 bt ihr Augen?“ möchte man, wie Hamlet feiner nichts⸗
+u Mutter, einem solchen Publiko zurufen. Ach, sie ha⸗
+kein inet es find ja noch immer die Selben, welche überall
+eberzeit das ächte Verdienst haben verkümmern lassen, um
+Huldigung Nachäffern und Manieristen, in jeder Gattung,
+ingen. So wähnen fie denn auch, Philosophie zu studi⸗
+wenn sie die allmessentlichen Ausgeburten von Köpfen lesen,
+eren dumpfen Bewußtseyn sogar die bloßen Probleme der
+je fo wenig anklingen, wie die Glocke im luftleeren Re⸗
+ja, von Köpfen, welche, streng genommen, von der
+nichts Anderem gemacht und ausgerüstet wurden, als,
+wie die Uebrigen, ein ehrliches Gewerbe in der Stille zu
+der das Feld zu bauen, und die Vermehrung des Men⸗
+ts zu besorgen, jedoch vermeinen, von Amts und
+„„ schellenlaute Thoren“ seyn zu müssen. Ihr bes
+areinreden und Mitredenwollen gleicht dem der Tau⸗
+in die Konversation mischen, wirkt daher auf die
+iten nur ganz vereinzelt Erscheinenden, welche von
+Beruf und daher den wirklichen Trieb haben, der Er⸗
+höchsten Wahrheiten obzuliegen, nur als ein stören⸗
+wirrendes Geräusch; wenn es nicht gar, wie sehr oft
+ist, ihre Stimme absichtlich erstickt, weil was sie vorbrin⸗
+N in den Kram jener Leute paßt, denen es mit nichts,
+
+
+aristokratisch die Natur ist: sie ist es so sehr, daß auf 300
+
+
+[S. 170]
+
+
+als mit Absichten und materiellen Zwecken Ernst seyn kann, und
+die, vermöge ihrer beträchtlichen Anzahl, bald ein Geschrei zu
+Wege bringen, bei dem Keiner mehr sein eigenes Wort vernimmt,
+Heut zu Tage haben sie sich die Aufgabe gestellt, der Kantischen
+Philosophie, wie der Wahrheit, zum Trotz, spekulative Theologie,
+rationale Psychologie, Freiheit des Willens, totale und absolute
+Verschiedenheit des Menschen von den Thieren, mittelst Ignori⸗
+ren der allmäligen Abstufungen des Intellekts in der Thierreihe,
+zu lehren, wodurch fie nur als remora der redlichen Wahrheits⸗
+forschung wirken. Spricht ein Mann, wie ich, so stellen fie sich
+als hörten sie nichts. Der Pfiff ist gut, wenn auch nicht neu.
+Ich will aber doch ein Mal sehn, ob man nicht einen De
+aus seinem Loche herauszerren kann. ee
+Die Universitäten nun aber sind offenbar der Bert alles
+jenes Spiels, welches die Absicht mit der Philosophie treibt.
+Nur mittelst ihrer konnten Kants, eine Weltepoche in der Phi⸗
+losophie begründende Leistungen verdrängt werden durch die
+Windbeuteleien eines Fichte, die wieder bald darauf ihm ühn⸗
+liche Gesellen verdrängten. Dies hätte nimmermehr geschehn
+können vor einem eigentlich philosophischen Publiko, d. he einem
+solchen, welches die Philosophie, ohne andere Absicht, bloß ihrer
+selbst wegen sucht, also vor dem freilich zu allen Zeiten äußerst
+\tteimen Publiko wirklich denkender und ernstlich von der raͤthsel⸗
+haften Beschaffenheit unsers Daseyns ergriffener Köpfe. Nur
+mittelst der Univerfitäten, vor einem Publiko aus Studenten, die
+Alles, was dem Herrn Professor zu sagen beliebt, gläubig an⸗
+nehmen, ist der ganze philosophische Skandal dieser letzten 50
+Jahre möglich gewesen. Der Grundirrthum hiebei liegt nämlich
+darin, daß die Universitäten auch in Sachen der Philosophie das
+große Wort und die entscheidende Stimme sich anmaaßen, welche
+allenfalls den drei obern Fakultäten, jeder in ihrem Bereiche,
+zukommt. Daß jedoch in der Philosophie, als einer Wissenschaft,
+die erst gefunden werden foll, die Sache sich anders verhält, wird
+übersehn; wie auch, daß bei Besetzung philosophischer Lehrstühle,
+nicht, wie bei andern, allein die Fähigkeiten, sondern noch mehr
+die Gesinnungen des Kandidaten in Betracht kommen. Demge⸗
+mäß nun aber denkt der Student, daß, wie der Professor der
+Theologie seine N der ee ae feine Pandek⸗
+
+
+Ueber die Universitäts⸗Philosophie. 171
+
+
+ten, der medielnische feine Pathologie inne hat und besitzt; fo
+müßte auch der allerhöchsten Orts angestellte Professor der Me⸗
+taphpsik diese inne haben und besitzen. Er geht demnach mit
+kindlichem Vertrauen in dessen Kollegia, und da er daselbst einen
+Mann findet, der, mit der Miene wohlbewußter Ueberlegenheit,
+alle je dagewesenen Philosophen von oben herab kritisirt; so zwei⸗
+elt er nicht, daß er vor die rechte Schmiede gekommen sei, und
+prägt sich alle hier sprudelnde Weisheit fo gläubig ein, als säße
+er vor dem Dreifuß der Pythia. Natürlich giebt es, von Dem
+au, für ihn keine andere Philosophie, als die feines Professors.
+Die wirklichen Philosophen, die Lehrer der Jahrhunderte, ja
+Jahrtausende, die aber in den Bücherschränken schweigend und
+ernst auf Die warten, welche ihrer begehren, läßt er, als veraltet
+widerlegt, ungelesen: er hat sie, wie sein Professor, „hinter
+Dagegen kauft er sich die messentlich erscheinenden Gei⸗
+der seines Professors, deren meistens oft wiederholte Auf⸗
+agen allein aus solchem Hergang der Sache zu erklären sind.
+denn auch nach den Universitätsjahren behält, in der Regel, Je⸗
+je gläubige Anhänglichkeit an feinen Professor, dessen Gei⸗
+ing er früh angenommen und mit dessen Manier er sich
+hat. Dadurch erhalten denn dergleichen philosophische
+burten eine ihnen sonst unmögliche Verbreitung, ihre Ur⸗
+aber eine einträgliche Celebrität. Wie hätte es außerdem
+je können, daß z. B. ein folder Komplex von Verkehrt⸗
+eiten, wie die „Einleitung in die Philosophie“ von Herbart,
+luflagen erlebte? Daher schreibt sich denn wieder der Nar⸗
+tenübermuth, mit welchem (3. B. S. 234, 35, der vierten Auf⸗
+e) dieser entschiedene Queerkopf vornehm auf Kant herabsieht
+mit Nachsicht zurechtweist. —
+srachtungen dieser Art und namentlich der Rückblick auf
+ganze Treiben mit der Philosophie auf Universitäten, seit
+nis Abgange, stellen in mir mehr und mehr die Meinung
+ft, daß, wenn es überhaupt eine Philosophie geben soll, d. h.
+venn es dem menschlichen Geiste vergönnt seyn soll, feine höch⸗
+flen und edelsten Kräfte dem, ohne allen Vergleich, wichtigsten
+obleme zuwenden zu dürfen, Dies nur dann mit Erfolg
+kann, wann die Philosophie allem e enn Se
+gen bleibt, and daß eng bier on ein Großes
+
+
+172 ueber die Universitäts⸗Philosophie.
+
+
+für sie thut und ihr seine Humanität und seinen Edelmuth ge⸗
+nugsam beweist, wenn er sie nicht verfolgt, sondern sie gewähren
+läßt und ihr Bestand vergönnt, als einer freien Kunst, die übri⸗
+gens ihr eigener Lohn seyn muß; wogegen er des Aufwandes
+für Professuren derselben sich überhoben achten kann; weil die
+
+
+| Leute, die von der Philosophie leben wollen, höchst selten eben
+
+
+Die seyn werden, welche eigentlich für sie leben, bisweilen aber
+sogar Die seyn können, welche versteckterweise gegen sie machi⸗
+niren.
+
+Oeffentliche Lehrstühle gebüren allein den bereits geschaffe⸗
+nen, wirklich vorhandenen Wissenschaften, welche man daher eben
+nur gelernt zu haben braucht, um sie lehren zu können, die also
+im Ganzen bloß weiter zu geben sind, wie das auf dem schwar⸗
+zen Brette gebräuchliche tradere besagt; wobei es jedoch den
+fähigeren Köpfen unbenommen bleibt, sie zu bereichern, zu berich⸗
+tigen, und zu vervollkommnen. Aber eine Wissenschaft, die noch
+gar nicht existirt, die ihr Ziel noch nicht erreicht hat, nicht ein
+Mal ihren Weg sicher kennt, ja deren Möglichkeit noch bestritten
+wird, eine solche Wissenschaft durch Professoren lehren zu lassen
+ist eigentlich absurd. Die natürliche Folge davon ist, daß Jeder
+von Diesen glaubt, sein Beruf sei, die noch fehlende Wissenschaft 2
+zu schaffen; nicht bedenkend, daß einen solchen Beruf nur die
+Natur, nicht aber das Ministerium des öffentlichen Unterri
+ertheilen kann. Er versucht es daher, so gut es gehn will,
+baldigst feine Mißgeburt in die Welt und giebt fie für bie }
+ersehnte Sophia aus, wobei es an einem dienstwilligen Kollege
+der bei ihrer Taufe als solcher zu Gevatter steht, gewiß nie
+fehlen wird. Danach werden dann die Herren, weil fie ja vos
+der Philosophie leben, so dreist, daß sie sich Philosophen nennen,
+und demnach auch vermeinen, ihnen gebüre das große Wort und
+die Entscheidung in Sachen der Philosophie, ja, daß sie am Ende
+
+
+| gar noch Philosophenversammlungen (eine contradictio
+in adjecto, da Philosophen felten im Dual und faft nie im Plu⸗
+
+
+ral zugleich auf der Welt sind) ansagen und dann schaarenweise
+zusammenlaufen, das Wohl der Philosophie zu beratheern
+
+Vor Allem jedoch werden solche Universitätsphilosophen be⸗
+firebt seyn, der Philosophie diejenige Richtung zu geben, welche
+
+
+den ihnen am Herzen liegenden, oder vielmehr gelegten Zwecken
+
+
+Ueber die Universitäts⸗Philosophie. 173
+
+
+entspricht, und hiezu, erforderlichen Falls sogar die Lehren der ächten
+frühern Philosophen modeln und verdrehen, zur Noth sogar ver⸗
+fälschen, nur damit herauskomme was fie brauchen. Da nun
+das Publikum fo kindisch ist, stets nach dem Neuesten zu greifen,
+ihre Schriften aber doch den Titel Philosophle führen; fo un die
+Folge, daß, durch die Abgeschmacktheit, oder Verkehrtheit, oder
+„oder wenigstens marternde Langweiligkeit derselben,
+gute Köpfe, welche Neigung zur Philosophie spüren, von ihr
+wieder zurückgeschreckt werden, wodurch sie selbst allmälig in Mis⸗
+kredit geräth, wie Dies bereits der Fall ist.
+Aoöber nicht nur steht es mit den eigenen Schöpfungen der
+Herren schlecht, sondern die Periode seit Kant beweist auch, daß
+sie nicht ein Mal im Stande sind, das von großen Köpfen Ge⸗
+Teiftete, als solches Anerkannte und demnach ihrer Obhut Ueber⸗
+fest zu halten und zu bewahren. Haben sie sich nicht die
+Philosophie aus den Händen spielen lassen, durch Fichte
+und Schelling? Nennen fie nicht noch, durchgängig und höchst
+standalöser und ehrenrühriger Weise, den Windbeutel Fichte
+leis neben Kant, als ungefähr seines Gleichen! Trat nicht,
+dem die oben genannten zwei Philosophaster Kants Lehre
+verdrängt und antiquirt hatten, an die Stelle der firengen, von
+ant aller Metaphysik gesetzten Kontrole die zügelloseste Phan⸗
+ifterei? Haben fie diese nicht theils brav mitgemacht, theils un⸗
+n, ihr, mit der Kritik der Vernunft in der Hand, sich fest
+gegenzuftellen? weil fie nämlich es gerathener fanden, die eins
+ene lare Observanz zu benutzen, um entweder ihre selbst⸗
+ausgeheckten Sächelchen, z. B. Herbartische Possen und Friese'⸗
+sches Altweibergeschwätz, und überhaupt Jeder seine eigene Ma⸗
+rote, zu Markte zu bringen, oder auch um Lehren der Landes⸗
+religion als philosophische Ergebnisse einschwärzen zu können.
+\ 150 dies Alles nicht den Weg gebahnt zur skandalösesten philo⸗
+sophische 1 Scharlatanerie, deren je die Welt sich zu schämen ge⸗
+zum Treiben des Hegels und seiner erbärmlichen Ge⸗
+sellen? 9 nicht selbst Die, welche dem Unwesen sich wider⸗
+setzten, dabei stets, unter tiefen Bücklingen, vom großen Genie
+gewaltigen Geiste jenes Scharlatans und Unsinnsschmierers
+et und dadurch bewiesen, daß fie Pinsel find? Sind nicht
+m (der Wahrheit zur Steuer sei es gesagt) Krug und Fries
+
+
+174 Ueber die Universitäts⸗Philosophie.
+
+
+allein auszunehmen, welche gegen den Kopfverderber geradezu
+auftretend, ihm bloß die Schonung erwiesen haben, die nun ein
+Mal jeder Philosophieprofessor unwiderruflich gegen den andern aus⸗
+übt! Hat nicht der Lerm und das Geschrei, welches die deutschen
+Universitätsphilosophen, in Bewunderung jener drei Sophisten, er⸗
+hoben, endlich auch in England und Frankreich allgemeine Auf⸗
+merksamkeit erregt, welche jedoch, nach näherer Untersuchung der
+Sache, sich in Gelächter auflöste? — Besonders aber zeigen sie
+sich als treulose Wächter und Bewahrer der im Laufe der Jahr⸗
+hunderte schwer errungenen und endlich ihrer Obhut anvertrauten
+Wahrheiten, sobald es solche sind, die nicht in ihren Kram passen,
+d. h. nicht zu den Resultaten einer platten, rationalistischen, op⸗
+timistischen, eigentlich bloß Jüdischen Theologie stimmen, als
+welche der im Stillen vorherbeschlossene Zielpunkt ihres ganzen
+Ppilosophirens und „feiner hohen Redensarten ist. Dergleichen
+Lehren also, welche die ernstlich gemeinte Philosophie nicht ohne
+große Anstrengung zu Tage gefördert hat, werden sie zu oblite⸗
+riren, zu vertuschen, zu verdrehen und herabzuziehn suchen zu
+Dem, was in ihren Studentenerziehungsplan und besagte Rocken⸗ a
+philosophie paßt. Ein empörendes Beispiel dieser Art giebt die
+Lehre von der Freiheit des Willens. Nachdem die strenge
+Nothwendigkeit aller menschlichen Willensakte durch ,
+und successiven Anstrengungen großer Köpfe, wie Hobbes,
+noza, Priestley und Hume unwiderleglich dargethan word
+Kant die Sache als bereits vollkommen —
+hatte ze) thun sie mit Einem Male, als wäre nichts
+verlassen sich auf die Unwissenheit ihres Publikums u
+Lehrbüchern die Freiheit des Willens als eine ausgemachte u.
+sogar unmittelbar gewisse Sache. Wie verdient ein solches 4 f
+fahren benannt zu werden! Wenn eine solche, von allen den
+eben genannten Philosophen so fest als irgend eine, begründete
+Lehre dennoch von ihnen verhehlt, oder verläugnet wird, um statt 8
+per Die ed ehe vom. freien Willen, weil sie ein
+keit. Man sehe meine „Grundprobleme der Ethik“ S. 80 u.
+
+
+[S. 175]
+
+
+nothwendiges Bestandstück ihrer Rockenphilosophie ist, den Stu⸗
+denten aufzubinden; sind da die Herren nicht eigentlich die Feinde
+der Philosophie? Und weil nun (denn conditio optima est
+
+
+ultimi. Sen. ep. 79.) die Lehre von der strengen Neeessitation
+
+
+aller Willensafte nirgends fo gründlich, klar, zusammenhängend
+und vollständig dargethan ist, als in meiner von der Norwegi⸗
+schen Societät der Wissenschaften redlich gekrönten Preisschrift; fo
+sindet man, ihrer alten Politik, mir überall mit dem passiven
+Widerstande zu begegnen, gemäß, diese Schrift weder in ihren
+Büchern, noch in ihren gelehrten Journalen und Litteraturzeitun⸗
+gen irgend erwähnt: sie ist aufs strengste sekretirt und wird
+comme non avenue angesehn, wie Alles, was nicht in ihren
+erbärmlichen Kram paßt, wie meine Ethik überhaupt, ja, wie
+alle meine Werke. Meine Philosophie interessirt eben die Her⸗
+ren nicht: das kommt aber daher, daß die Ergründung der
+Wahrheit sie nicht interessirt. Was sie hingegen interessirt, das
+sind ihre Gehalte, ihre Honorarlouisd'ors und ihre Hofrathstitel.
+Zwar interessirt sie auch die Philosophie: infofern nämlich, als
+sie ihr Brod von derselben haben: insofern interessirt sie die Phi⸗
+losophie. Was also soll ihnen meine Preisschrift über die Frei⸗
+heit des Willens, und wäre sie von zehn Akademien gekrönt!
+Dagegen aber wird was Plattköpfe aus ihrer Schaar über den Ge⸗
+genftand seitdem gefafelt haben, wichtig gemacht und anempfoplen.
+Brauch ich ein solches Benehmen zu qualisiziren! Sind Das
+beute, welche die Philosophie, die Rechte der Vernunst, die Frei⸗
+heit des Denkens vertreten! — Ein anderes Beispiel der Art
+liefert die spekulative Theologie. Nachdem Kant alle Be⸗
+— Stützen ausmachten, unter ihr weggezogen und
+durch radikal umgestoßen hat, hält Das meine Herren von
+
+der lukrativen Philosophie keineswegs ab, noch 60 Jahre hin⸗
+
+cher die spekulative Theologie für den ganz eigentlichen und
+esen Gegenstand der Philosophie auszugeben und, weil
+fie jene erplodirten Beweise wieder aufzunehmen sich doch nicht
+unterstehn, jezt ohne Umstände, nur immerfort vom Ab solutum
+zu reden, welches Wort gar nichts Anderes ist, als ein Enthy⸗
+mem, ein Schluß mit nicht ausgesprochenen Prämissen, Behufs
+der feigen Berlarvung und hinterlistigen Erschleichung des kos⸗
+mologischen Beweises, als welcher in eigener Gestalt sich, seit
+
+
+476 Ueber die Universitäts⸗Philosophie.
+
+
+Kant nicht mehr sehn lassen darf und daher in dieser Verklei⸗
+dung eingeschwärzt werden muß. Als hätte Kant von diesem
+letzteren Kniff eine Vorahndung gehabt, sagt er ausdrücklich:
+„Man hat zu allen Zeiten von dem absolut⸗nothwendigen
+„Wesen geredet und sich nicht sowohl Mühe gegeben, zu verstehn,
+„ob und wie man sich ein Ding von dieser Art auch nur den⸗
+„ken könne, als vielmehr dessen Daseyn zu beweisen.— — —
+„Denn alle Bedingungen, die der Verstand jederzeit bedarf, um
+„etwas als nothwendig anzusehn, vermittelst des Wortes Un⸗
+„bedingt, wegwerfen, macht mir noch lange nicht verständlich,
+„ob ich alsdann durch einen Begriff eines Unbedingtnothwendigen
+„noch etwas, oder vielleicht gar nichts denke.“ (Kritik der reinen
+Vernunft, 1. Aufl. S. 592; 5. Aufl. S. 620). Ich erinnere hier
+nochmals an meine Lehre, daß Nothwendigseyn durchaus und
+überall nichts Anderes besagt, als aus einem vorhandenen und gege⸗
+benen Grunde folgen: ein solcher Grund ist also gerade die Be⸗
+dingung aller Nothwendigkeit: demnach ist das Unbedingt⸗noth⸗
+wendige eine contradictio in adjecto, also gar kein Gedanke,
+sondern ein hohles Wort, — freilich ein im Bau der Professo⸗
+renphilosophie gar häufig angewendetes Material. — Hieher
+gehört ferner, daß, Locke's großer, Epoche machender Grund⸗
+lehre vom Nichtvorhandenseyn angeborener Ideen, und
+allen seitdem und auf dem Grunde derselben, namentlich durch
+Kant gemachten Fortschritten in der Philosophie zum Trotz, die
+Herren von der yıloooyız WoIopogog ‚ganz ungenirt, ihren
+Studenten ein „Gottesbewußtseyn“, überhaupt ein unmittelbares
+Erkennen, oder Vernehmen, metaphysischer Gegenstände durch die
+Vernunft aufbinden. Es hilft nichts, daß Kant, mit dem Auf⸗
+wande des seltensten Scharfsinns und Tiessinns, dargethan hat,
+die theoretische Vernunft könne zu Gegenständen, die über die
+Möglichkeit aller Erfahrung hinaus liegen, nimmermehr gelan⸗
+gen: die Herren kehren sich an so etwas nicht; sondern ohne
+Umstände lehren sie, seit 50 Jahren, die Vernunft habe ganz
+
+
+unmittelbare, absolute Erkenntnisse, sei eigentlich ein von Hause aus
+
+
+auf Metaphysik angelegtes Vermögen, welches, über alle Möglichkeit
+der Erfahrung hinaus, das sogenannte Uebersinnliche, das Absolu⸗
+tum, den lieben Gott und was dergleichen noch weiter seyn soll,
+unmittelbar erkenne und sicher erfasse. Daß aber unsere Vernunft
+
+
+ein solches, die gesuthlen Gegenstände der Metaphysik, nicht mit⸗
+Schlüsse, sondern unmittelbar erkennendes Vermögen
+offenbar eine Fabel, oder gerade heraus gesagt, eine pal⸗
+able Lüge; da es nur einer redlichen, sonst aber nicht schwieri⸗
+gen Selbsiprüfung bedarf, um sich von der Grundlosigkeit eines
+Vorgebens zu überzeugen: zudem es sonst auch ganz an⸗
+ders mit der Metaphysik stehn müßte. Daß dennoch eine solche,
+s Grundes, außer der Verlegenheit und den schlauen Absich⸗
+ten ihrer Verbreiter, entbehrende, für die Philosophie grundver⸗
+derbliche Lüge, seit einem halben Jahrhundert, zum stehenden,
+taufend und aber tausend Mal wiederholten Katheder⸗Dogma
+worden, und, dem Zeugniß der größten Denker zum Trotz,
+r studirenden Jugend aufgebunden wird, gehört zu den schlimm⸗
+Früchten der Universitätsphilosophie.
+Solcher Vorbereitung jedoch entsprechend, ist bei den Kathe⸗
+rphilosophen das eigentliche und wesentliche Thema der Meta⸗
+ie Auseinandersetzung des Verhältnisses Gottes zur Welt:
+äuftigsten Erörterungen desselben füllen ihre Lehrbücher.
+Punkt ins Reine zu bringen, glauben sie sich vor Allem
+und bezahlt; und da ist es nun ergötzlich zu sehn, wie
+f d gelehrt fie vom Absolutum, oder Gott, reden, sich ganz
+haft gebärdend, als wüßten sie wirklich irgend etwas davon:
+ert an den Ernst, mit welchem die Kinder ihr Spiel betrei⸗
+erscheint denn jede Messe eine neue Metaphysik, welche
+weitläuftigen Bericht über den lieben Gott besteht, aus⸗
+zt, wie es eigentlich mit ihm stehe und wie er dazu ge⸗
+„die Welt gemacht oder geboren, oder sonst wie hervor⸗
+babe, so daß es scheint, sie erhielten halbjährlich über
+esten Berichte. Manche gerathen nun aber dabei in eine
+Ve legenheit, deren Wirkung hochkomisch ausfällt. Sie ha⸗
+lich einen ordentlichen, persönlichen Gott, wie er im A.
+f Uhren: das wissen fie. Andrerseits jedoch ist, seit
+
+
+* das 30015 sie doch auch nicht so ganz
+J dürfen jedoch nach dieser verbotenen Schüssel ei⸗
+die Hand nicht ausstrecen. Nun suchen un A durch
+
+
+und hohlen Wortkram, zu helfen, wobei fie sich jämmerlich dre⸗
+hen und winden: da sieht man denn Einige in Einem Athem
+versichern, der Gott sei von der Welt total, unendlich und him⸗
+melweit, ganz eigentlich himmelweit, verschieden, zugleich aber
+ganz und gar mit ihr verbunden und Eins, ja, stecke bis über
+die Ohren drinne; wodurch sie mich dann jedes Mal an den
+Weber Bottom im Johannisnachtstraum erinnern, welcher ver⸗
+spricht, zu brüllen, wie ein entsetzlicher Löwe, zugleich aber 10
+fo sanft, wie nur irgend eine Nachtigal flöten kann.
+Hingegen die Kritik der reinen Vernunft, mit ihren Bewei⸗
+sen a priori der Unmöglichkeit aller Gotteserkenntniß, ist ihnen
+Schnickschnack, durch den fie sich nicht irre machen lassen; fie
+wissen wozu sie dasind. Ihnen einzuwenden, daß sich nichts Un⸗
+philosophischeres denken läßt, als immerfort von etwas zu reden,
+E dessen Daseyn man erwiesenstermaaßen keine Kenntniß und
+von dessen Wesen man gar keinen Begriff hat, — ist naseweises
+Einreden: ‚fie wissen wozu fie. dasind. — Ich bin ihnen bekannt⸗
+lich Einer, der tief unter ihrer Notiz und Aufmerksamkeit steht,
+und durch die gänzliche Nichtbeachtung meiner Werke haben sie
+an den Tag zu legen vermeint, was ich sei (wiewohl sie gerade
+dadurch an den Tag gelegt haben was sie sind): daher wird es,
+wie Alles, was ich seit 35 Jahren vorgebracht habe, in den
+Wind geredet seyn, wenn ich ihnen sage, daß Kant nicht gescherzt
+hat, daß wirklich und im vollsten Ernst, die Philosophie keine
+Theologie ist, noch jemals seyn kann; daß fie vielmehr elwas
+ganz Anderes, von jener völlig Verschiedenes ist. Ja, wie be⸗
+kanntlich jede andere Wissenschaft durch Einmischung von Theo⸗
+logie verdorben wird, so auch die Philosophie, und zwar am
+allermeisten; wie Solches die Geschichte derselben bezeugt: daß
+Dies sogar auch von der Moral gelte, habe ich in meiner Ab⸗
+handlung über das Fundament derselben sehr deutlich dargethan;
+daher die Herren auch über diese mäuschenstill gewesen sind; ge⸗
+treu ihrer Taktik des passiven Widerstandes. Die Theologie
+nämlich deckt mit ihrem Schleier alle Probleme der Philosophie
+zu und macht daher nicht nur die Lösung, sondern sogar die
+Auffassung derselben unmöglich. Also, wie gesagt, die Kritik der
+weinen Hervunst iß gang, ernsnich der Riinbiaungebriek, e
+
+
+178 Ueber die Universitäts⸗ Philosophie.
+ihr gewöhnliches Mittel, dunkele, verworrene, konfuse Phrasen
+
+
+Ueber die Universttäts⸗Philosophie. 179
+
+
+herigen andilla theologiae gewesen, welche darin, Ein für alle
+Mal, ihrer gestrengen Gebieterin den Dienst aufgesagt hat.
+Seitdem hat nun diese sich mit einem Mietling begnügt, der die
+zurückgelassene Livre des ehemaligen Dieners, bloß zum Schein,
+gelegentlich anzieht; wie in Italien, wo dergleichen Substitute
+zumal am Sonntage häufig zu sehn und daher unter dem Namen
+der Domenichini befannt find.
+Allein an der Universitätsphilosophie haben Kants Kritiken
+und Argumente freilich scheitern müssen. Denn da heißt es: sic
+volo, sic jubeo, sit pro ratione voluntas: die Philosophie
+felt Theologie seyn, und wenn die Unmöglichkeit der Sache von
+Kanten bewiesen wäre: wir wissen, wozu wir dasind:
+n majorem Dei gloriam find wir da. Nachdem also Kant
+alen möglichen Beweisen der spekulativen Theologie den Nero
+fo rein burchschnitten hatte, daß seitdem sich Niemand mehr mit
+hat befassen mögen; da besteht denn das philosophische
+ben, seit fast funfzig Jahren, in allerlei Versuchen, die
+ogie fein leise zu erschleichen, und die philosophischen Schrif⸗
+ad meistens nichts Anderes, als fruchtlose Belebungsversuche
+inem entseelten Leichnam. So haben denn z. B. die Herren
+der lukrativen Philosophie im Menschen ein Gottesbe⸗
+eyn entdeckt, welches bis dahin aller Welt entgangen
+d werfen damit, durch die wechselseitige Einstimmung
+Unschuld ihres nächsten Publikums dreist gemacht, keck
+n um sich, wodurch fie am Ende gar die ehrlichen Hol⸗
+der Universität Leyden verführt haben; fo daß diese, die
+der Philosophieprofessoren richtig für Fortschritte der
+haft ansehend, ganz treuherzig, am 15. Februar 1844,
+eisfrage gestellt haben: quid statuendum de Sensu
+hen „Gottesbewußtseyns“ wäre denn Das, was müh⸗
+eweisen alle Philosophen, bis auf Kant, sich abarbeiteten,
+mittelbar Bewußtes. Welche Pinsel müßten aber
+Jene früheren Philosophen gewesen seyn, die sich ihr
+abgemüht haben, Beweise für eine Sache aufzustellen,
+uns geradezu bewußt sind, welches besagt, daß wir
+noch unmittelbarer erkennen, als 15 2 Mal 2 vier ist, als
+doch schon Ueberlegung gehört. Eine solche Sache bewei⸗
+
+
+180 Ueber die Universitäts⸗Philosophie.
+
+
+sen zu wollen, müßte ja seyn, wie wenn man beweisen wollte,
+daß die Augen sehn, die Ohren hören und die Nase rieche. Und
+welch unvernünftiges Vieh müßten doch die Anhänger der, nach
+der Zahl ihrer Bekenner, vornehmsten Religion auf Erden, die
+Buddhaisten, seyn, deren Religionseifer so groß ist, daß in Ti⸗
+bet beinahe der sechste Mensch dem geistlichen Stande angehört
+und damit dem Cölibat verfallen ist, deren Glaubenslehre jedoch
+zwar eine höchst lautere, erhabene, liebevolle, ja streng asketische
+Moral (die nicht, wie die Christliche, die Thiere vergessen hat)
+trägt und stützt, allein nicht nur entschieden atheistisch ist, sondern
+
+
+sogar ausdrücklich den Theismus perhorrescirt. Die Persönlichkeit
+
+
+ist nämlich ein Phänomen, das uns nur aus unserer animalischen
+Natur bekannt und daher, von dieser gesondert, nicht mehr deut⸗
+lich denkbar ist: ein solches nun zum Ursprung und Prinzip der
+Welt zu machen, ist immer ein Satz, der nicht sogleich Jedem in
+den Kopf will; geschweige daß er schon von Hause aus darin wur⸗
+zelte und lebte. Ein unpersönlicher Gott hingegen ist eine bloße
+Philosophieprofessorenflause, eine contradietio in adjecto, ein
+leeres Wort, die Gedankenlosen abzufinden, oder die Mienen
+Zwar athmen also die Schriften unserer Universitäts⸗ Phi⸗
+losophen den lebendigsten Eifer für die Theologie; dagegen aber
+sehr geringen für die Wahrheit. Denn ohne Scheu vor dieser
+werden Sophismen, Erschleichungen, Verdrehungen, falsche Asser⸗
+tionen, mit unerhörter Dreistigkeit, angewandt, ja angehäuft, wer⸗
+den sogar, wie oben ausgeführt, der Vernunft unmittelbare, über⸗
+sinnliche Erkenntnisse, — also angeborene Ideen, — angedichtet,
+oder richtiger angelogen; Alles einzig und allein um Theologie her⸗
+auszubringen: nur Theologie! nur Theologie! um jeden Preis,
+Theologie! — Ich möchte den Herren unmaaßgeblich zu bedenken
+geben, daß immerhin Theologie viel werth seyn mag; ich aber doch
+
+
+etwas kenne, das jedenfalls noch mehr werth ist, nämlich die Red⸗
+
+
+lichkeit; Redlichkeit, wie im Handel und Wandel, so auch im Den⸗
+ken und Lehren: die sollte mir um keine Theologie feil seyn.
+Wie nun aber die Sachen stehn, muß, wer es mit der Kri⸗
+
+
+tik der reinen Vernunft ernstlich genommen, überhaupt es ehr⸗
+87 gemeint und demnach keine Wee zu N zu bringen
+
+
+hat, jenen Herren gegenüber, freilich zu kurz kommen. Brächte
+er auch das Vortrefflichste, das je die Welt gesehen, und tifchte
+er alle Weisheit Himmels und der Erden auf; sie werden den⸗
+noch Augen und Ohren abwenden, wenn es keine Theologie ist;
+ja, je mehr Verdienst seine Sache hat, desto mehr wird sie, nicht
+ihre Bewunderung, sondern ihren Groll erregen; desto determi⸗
+h passiven Widerstand werden fie ihr entgegenstellen, also
+desto hämischerem Schweigen sie zu ersticken suchen, zugleich
+aber desto lautere Enkomien über die lieblichen Geisteskinder der
+gedankenreichen Genossenschaft anstimmen, damit nur die ihnen
+| e Stimme der Einsicht und Aufrichtigkeit nicht durchdringe.
+ich verlangt es, in diesem Zeitalter skeptischer Theolo⸗
+gen und rechtgläubiger Philosophen, die Politik der Herren,
+welche sich mit Weib und Kind von der Wissenschaft ernähren,
+er meiner Eins, ein langes Leben hindurch, alle seine Kräfte
+Denn ihnen kommt es, den Winken hoher Vorgesetzten
+gemäß, nur auf Theologie an: alles Andere ist Nebensache.
+definiren fie doch schon von vorne herein, Jeder in feiner Sprache,
+X g und Verschleierung, die Philosophie als spekulative
+2 jeologie und geben das Jagdmachen auf Theologie ganz naiv
+s den wesentlichen Zweck der Philosophie an. Sie wissen
+nichts davon, daß man frei und unbefangen an das Problem
+gaseyns gehn und die Welt, nebst dem Bewußtseyn, darin
+ch darstellt, als das allein Gegebene, das Problem, das
+der alten Sphinx, vor die man hier kühn getreten ist,
+PL: Sie ignoriren klüglich, daß Theologie, wenn fie
+e Philosophie verlangt, gleich allen andern Lehren,
+Kreditiv vorzuweisen hat, das dann geprüft wird auf
+üreau der Kritik der reinen Vernunft, als welche
+Denkenden noch in vollstem Ansehn steht, und an dem⸗
+„durch die komischen Grimassen, welche die Kathederphilo⸗
+s Tages gegen fie zu schneiden bemüht find, wahrlich
+Geringste eingebüßt hat. Ohne ein vor ihr bestehen⸗
+ditiv also findet die Theologie keinen Eintritt und soll
+der ertrotzen, noch erschleichen, noch auch erbetteln, mit
+g darauf, daß Kathederphilosophen nun ein Mal nichts
+feil haben dürfen: — mögen fie doch die Boutique
+
+| Denn die Philosophie ist keine Kirche und keine Re⸗
+
+
+Ueber die Universttäts⸗Philosophie. 181
+
+
+182 Ueber die Universitäts⸗Philosophie.
+
+
+ligion. Sie ist das kleine, nur äußerst Wenigen zugängliche
+Fleckchen auf der Welt, wo die stets und überall gehaßte und
+
+
+verfolgte Wahrheit ein Mal alles Druckes und Zwanges ledig
+
+
+seyn, gleichsam ihre Saturnalien, die ja auch dem Sklaven freie
+Rede gestatten, feiern, ja sogar die Prärogative und das große
+Wort haben, absolut allein herrschen und kein Anderes neben sich
+
+
+gelten lassen soll. Die ganze Welt nämlich, und Alles in ihr,
+
+
+ist voller Absicht und meistens niedriger, gemeiner und schlech⸗
+ter Absicht: nur Ein Fleckchen soll, ausgemachterweise, von die⸗
+ser frei bleiben und ganz allein der Einsicht offen stehn, und
+zwar der Einsicht in die wichtigsten, Allen angelegensten Ver⸗
+hältnisse: — Das ist die Philosophie. Oder versteht man es
+etwan anders? nun, dann ist Alles Spaaß und Komödie, —
+„wie Das denn wohl zu Zeiten kommen mag.“ — Freilich nach
+den Kompendien der Kathederphilosophen zu urtheilen, sollte man
+eher denken, die Philosophie wäre eine Anleitung zur Frömmig⸗
+keit, ein Institut Kirchengänger zu bilden; da ja die spekulative
+Theologie meistens gleich unverholen als der wesentliche Zweck
+und Ziel der Sache vorausgesetzt und mit allen Segeln und Ru⸗
+dern nur darauf hingesteuert wird. Gewiß aber ist, daß alle
+und jede Glaubensartikel, sie mögen nun offen und unverholen
+in die Philosophie hineingetragen seyn, wie Dies in der Scho⸗
+lastik geschah, oder durch petitiones principii, falsche Axiome,
+erlogene innere Erkenntnißquellen, Gottesbewußtseyne, Schein⸗
+beweise, hochtrabende Phrasen und Gallimathias eingeschwärzt
+werden, wie es heut zu Tage Brauch ist, der Philosophie zum
+entschiedenen Verderb gereichen; weil all Dergleichen die klare,
+
+
+unbefangene, rein objektive Auffassung der Welt und unsers Da⸗
+
+
+seyns, diese erste Bedingung alles Forschens nach wann un⸗
+
+
+möglich macht. ne,
+
+
+Unter der Benennung und Firma der Phülssophie und in
+fremdartigem Gewande die Grunddogmen der Landesreligion,
+welche man alsdann, mit einem Hegel's würdigen Ausdruck, „die
+absolute Religion“ titulirt, vortragen, mag eine recht nützliche
+Sache seyn; sofern es dient, die Studenten den Zwecken des
+Staates besser anzupassen, imgleichen auch das lesende Publikum
+im Glauben zu befestigen: aber Dergleichen für Philosophie
+ausgeben heißt denn doch eine Sache für Das verkaufen, was
+
+
+| Ueber die Universitäts⸗Philosophie.
+
+
+sie nicht ist. Wenn Dies und alles Obige seinen ungestörten
+Fortgang behält, muß mehr und mehr die Universitätsphilosophie
+zn einer remora der Wahrheit werden. Denn es ist um alle
+Pilosophie geschehn, wenn zum Maaßstab ihrer Beurtheilung,
+oder gar zur Richtschnur ihrer Sätze, etwas Anderes genommen
+wird, als ganz allein die Wahrheit, die, selbst bei aller Redlich⸗
+keit des Forschens und aller Anstrengung der überfegenften Gei⸗
+„so schwer zu erreichende Wahrheit: es führt dahin, daß
+0 zu einer bloßen kable convenue wird, wie Fontenelle die
+e nennt. Nie wird man in der Lösung der Probleme,
+welche unser so unendlich räthselhaftes Daseyn uns von allen
+Seiten entgegenhält, auch nur einen Schritt weiter kommen, wenn
+man nach einem vorgesteckten Ziele philosophirt. Daß aber
+Dies der generische Charakter der verschiedenen Species jetziger
+UabBerktäreppofonpie fei, wird wohl Niemand leugnen: denn
+sichtbar kollimiren alle ihre Systeme und Sätze nach Ei-
+nem Zielpunkt. Dieser ist zudem nicht ein Mal das eigentliche,
+erg Christenthum, oder der Geist desselben, als
+ihnen zu hoch, zu ätherisch, zu excentrisch, zu sehr nicht
+von . bufer Welt, daher zu pessimistisch und hiedurch zur Apo⸗
+je des — ganz ungeeignet ist; sondern es ist bloß
+udenthum die Lehre, daß die Welt ihr Daseyn von einem
+vortrefflichen, persönlichen Wesen habe, daher auch ein aller⸗
+Ding und rrevre acid Jud sei. Dies ist ihnen aller
+jeit Kern, und dahin fol die Philosophie führen, oder,
+fie sich, geführt werden. Daher denn auch der Krieg,
+eit dem Sturz der Hegelei, alle Professoren gegen den so⸗
+n Pantheismus führen, in dessen Perhorrescirung fie
+fern, einmüthig den Stab über ihn brechend. Ist etwan
+Eifer aus der Entdeckung triftiger und schlagender Gründe
+denselben entsprungen? Oder sieht man nicht vielmehr,
+velcher Rathlosigkeit und Angst fie nach Gründen gegen
+— Kraft ruhig dastehenden und sie belächeln⸗
+gegner suchen! kann man daher noch bezweifeln, bloß
+ompatibilität jener Lehre mit der „absoluten Religion“
+warum sie nicht wahr seyn soll, nicht soll, und wenn die
+tatur fie mit tausend und aber tausend Kehlen verkün⸗
+Die Natur soll schweigen, damit das Judenthum spreche.
+
+
+184 Ueber die Universitäts⸗ Philosophie.
+
+
+Wenn nun ferner, neben der „absoluten Religion,“ noch irgend
+etwas bei ihnen Berücksichtigung findet; so versteht es sich, daß
+es die sonstigen Wünsche eines hohen Ministeriums, bei dem die
+Macht Professuren zu geben und zu nehmen ist, seyn werden. Ist
+doch dasselbe die Muse, welche sie begeistert und ihren Lukubrationen
+vorsteht, daher wohl auch am Eingange, in Form einer Dedika⸗
+tion, ordentlich angerufen wird. Das sind mir die Leute, die
+Wahrheit aus dem Brunnen zu ziehn, den Schleier des Truges
+zu zerreißen und aller Verfinsterung Hohn zu sprechen. 5
+Zu keinem Lehrfache wären, der Natur der Sache nach, fo
+entschieden Leute von überwiegenden Fähigkeiten und durchdrun⸗
+gen von Liebe zur Wissenschaft und Eifer für die Wahrheit er⸗
+fordert, als da, wo die Resultate der höchsten Anstrengungen des
+menschlichen Geistes, in der wichtigsten aller Angelegenheiten, der
+Blüthe einer neuen Generation, im lebendigen Worte, überge⸗
+ben, ja, der Geist der Forschung in ihr erweckt werden soll.
+Andrerseits aber wieder halten die Ministerien dafür, daß kein
+Lehrfach auf die innerste Gesinnung der künftigen gelehrten, also
+den Staat und die Gesellschaft eigentlich lenkenden Klasse so viel
+Einfluß hat, wie gerade dieses; daher es nur mit den allerdevotesten,
+ihre Lehre gänzlich nach dem Willen und jedesmaligen Ansichten
+des Ministeriums zuschneidenden Männern besetzt werden darf. Na⸗
+türlich ist es dann die erstere dieser beiden Anforderungen, welche
+zurückstehn muß. Wer nun aber mit diesem Stande der Dinge
+nicht bekannt ist, dem kann es zu Zeiten vorkommen, als ob
+seltsamerweise gerade die entschiedensten Schaafsköpfe fe
+Wissenschaft des Plato und Ariftoteles gewidmet hätten.
+Ich kann hier nicht die beiläufige Bemerkung unterdrücken,
+daß eine sehr nachtheilige Vorschule zur Professur der Philoso⸗
+phie die Hauslehrerstellen sind, welche beinahe Alle, die jemals
+jene bekleideten, nach ihren Universitätsstudien, mehrere Jahre
+hindurch versehn haben. Denn solche Stellen sind eine rechte
+Schule der Unterwürfigkeit und Fügsamkeit. Besonders wird
+man darin gewohnt, seine Lehren ganz und gar dem Willen
+des Brodherrn zu unterwerfen und keine anderen als dessen
+Zwecke zu kennen. Diese, früh angenommene Gewohnheit wur⸗
+zelt ein und wird zur zweiten Natur; so daß man nachher, als
+Philosophieprofessor, nichts natürlicher findet, als auch die Philos
+
+
+Ueber die Universitäts⸗Philosophie. 185
+
+
+sophie eben fo den Wünschen des die Professuren besetzenden Mi⸗
+nisteriums gemäß zuzuschneiden und zu modeln; woraus denn am
+Ende philosophische Ansichten, oder gar Systeme, wie auf Be⸗
+stellung gemacht, hervorgehn. Da hat die Wahrheit schönes
+Spiel! — Hier stellt sich freilich heraus, daß um dieser unbe⸗
+dingt zu huldigen, um wirklich zu philosophiren, zu so vielen
+Bedingungen fast unumgänglich auch noch diese kommt, daß man
+auf eigenen Beinen stehe und keinen Herrn kenne, wonach denn
+das dog o non gi in gewissem Sinne auch hier gälte. Wer
+nigstens haben die allermeisten von Denen, die je etwas Großes
+in der Philosophie leisteten, sich in diesem Falle befunden. Spi⸗
+noza war sich der Sache so deutlich bewußt, daß er die ihm
+angetragene Professur gerade deshalb ausschlug. 8
+uso yag Tages anoawvorau eugvone Zevs
+ER. 2273 Avsgos, eur av uw ve dovkov iu now.
+
+
+Dis w wirkliche Philosophiren verlangt Unabhängigkeit: x
+
+
+ei - 22 yag avng nervig dedunνE)Vus ovre Tu new,
+
+
+jan ist der ächte Philosoph, feiner Natur nach, ein 1 ge⸗
+mes Wesen und bedarf nicht viel, um unabhängig zu leben:
+n allemal wird fein Wahlspruch Shenstone's Satz seyn:
+a more invigorating cordial than Tokay. (Frei-
+eine kräftigere Herzstärkung, als Tokayer.)
+enn nun also es sich bei der Sache um nichts Anderes
+„als um die Förderung der Philosophie und das Vor⸗
+auf dem Wege zur Wahrheit; fo würde ich als das
+empfehlen, daß man die Spiegelfechterei, welche damit auf
+niversitäten getrieben wird, einstellte. Denn diese find
+ich nicht der Ort für ernstlich und redlich gemeinte Philo⸗
+deren Stelle dort nur zu oft eine in ihre Kleider gesteckte
+geputzte Drahtpuppe einnehmen und als ein nervis alie-
+ile lignum paradiren und gestikuliren muß. Wenn
+gar eine solche Kathederphilosophie noch durch unver⸗
+gehirnbetäubende Phrasen, neugeschaffene Worte und
+infälle, deren Absurdes spekulativ und transscenden⸗
+unt wird, die Stelle wirklicher Gedanken ersetzen will;
+
+
+186 Ueber die Universitäts⸗Philosophie.
+
+
+so wird sie zu einer Parodie der Philosophie, die diese in Mis⸗
+kredit bringt; welches in unsern Tagen der Fall gewesen ist.
+Wie kann denn auch, unter allem solchen Treiben, selbst nur die
+Möglichkeit jenes tiefen Ernstes, der neben der Wahrheit Alles
+geringschätzt und die erste Bedingung zur Philosophie ist, beste⸗
+hen? — Der Weg zur Wahrheit ist steil und lang: mit einem
+Block am Fuße wird ihn Keiner zurücklegen; vielmehr thäten
+Flügel Noth. Demnach also wäre ich dafür, daß die Philosophie
+aufhörte, ein Gewerbe zu seyn: die Erhabenheit ihres Strebens
+erträgt sic nicht damit; wie ja Dieses schon die Alten erkannt
+haben. Auch Voltaire sagt ganz richtig: les gens de lettres,
+qui ont rendu le plus de services au petit nombre d’ötres
+
+
+pensans répandus dans le monde, sont les lettrés isoles,
+les vrais savans, renfermes dans leur cabinet, qui n'ont
+
+
+ni argumenté sur les bancs de Puniversité, ni dit les
+
+
+choses à maitié dans les académies: et ceux-la ont pres-
+
+
+que toujours été persécutés. — Alle der Philosophie von au⸗
+ßen gebotene Hülfe ist, ihrer Natur nach, verdächtig: denn das
+Interesse jener ist zu hoher Art, als daß es mit dem Treiben
+dieser niedrig gesinnten Welt eine aufrichtige Verbindung ein⸗
+gehn könnte. Dagegen hat sie ihren eigenen Leitstern, der nie
+untergeht. Darum lasse man sie gewähren, ohne Beihülfe, aber
+auch ohne Hindernisse, und gebe nicht dem ernsten, von der Na⸗
+tur geweihten und ausgerüsteten Pilger zum hochgelegenen Tem⸗
+
+
+pel der Wahrheit den Gesellen bei, dem es eigentlich nur um
+ein gutes Nachtlager und eine Abendmahlzeit zu thun ist: denn
+
+
+es ist zu besorgen, daß er, um nach diesen einlenken zu dürfen,
+
+
+Jenem ein Hinderniß in den Weg wälzen werde. en
+Diesem Allen zufo

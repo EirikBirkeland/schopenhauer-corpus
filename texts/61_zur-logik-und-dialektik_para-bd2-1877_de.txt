@@ -1,0 +1,1156 @@
+# TIER 1 PRIMARY (published work) | German original, collected edition of 1877 | a readable printing of the collected edition, 1877
+# title: Zur Logik und Dialektik (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On logic and dialectic - the English title is this collection's rendering
+# year: 1877 printing of a work first published 1851
+# edition: Arthur Schopenhauer's saemmtliche Werke: Parerga und Paralipomena, zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), in the arrangement made by Julius Frauenstaedt; this layer does not state which edition it is, so none is claimed. Chapter II of this volume, pages 22-34, sections 22-32 by ITS OWN numbering - which runs one ahead of the 1851 first edition, verified at six points by matching opening sentences (see the file header). Text layer scored 10.9 common words per hundred by bin/ia-read.js: readable, but it prints f for the long s, f for k and j for i here and there.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/arthurschopenha01schogoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 13, which got the FRONT of Parerga - lost in the 1851 scan, whose display headings are shredded across its first 169 pages (GAP-4) - by turning to a LATER printing whose OCR is clean. Two things to keep straight when quoting these files: the text-state is 1877, not 1851, being Frauenstaedt's arrangement and a later text; and the paragraph numbers run one ahead, so "§ 62" here is "§ 61" in the first edition. Where the same chapter exists in both printings (file 63 beside file 53) the collection holds two witnesses and says which it used. The neighbour of the Eristische Dialektik (file 29, first printed 1864): his remarks on logic and on controversy in print, carrying the distinction ad rem / ad hominem which the Eristic turns into a tactics of winning.
+
+[Note of this collection, not part of the print: this chapter comes from the READABLE printing in Arthur Schopenhauer's saemmtliche Werke, "Parerga und Paralipomena" zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), NOT from the 1851 first edition. That is a decision with two consequences, both recorded here rather than hidden. (1) The text is the collected edition as Julius Frauenstaedt arranged it, and this printing is dated 1877 on its title page, three years after his death; the layer does not give the edition number, so none is claimed. It is a LATER text-state than files 27 and 30-52: a quotation from these files is quoted as 1877, not as 1851, and its chapter numbers follow this edition's contents, which differ from the 1851 print's. (2) ITS PARAGRAPH NUMBERS RUN ONE AHEAD of the 1851 print - verified at six points, and at each the opening sentence is the same text, so the pairing is not guessed: Dinges an sich 1851 § 61 / here § 62 (the opening sentence being identical in both, which is what proves the pairing); Pantheismus 1851 § 68 / here § 69; Farbenlehre 1851 § 103 / here § 104; Ethik 1851 § 108 / here § 109; Nichtigkeit 1851 § 142 / here § 143; Selbstmord 1851 § 157 / here § 158. Below § 61 the two printings were not compared when this note was written, so the shift is asserted only where it was verified. Anyone citing a paragraph number must say which printing it came from. This volume's own table of contents gives the chapter as Kapitel II on pages 22-34, and its opening paragraphs as § 22; the copy's heading in this layer reads "II. Zur Logik und Dialektik. —— — 8. 22. Jede allgemeine Wahrheit verhält ſich zu den ſpeciellen wie Gold zu" - the OCR mangles the word Kapitel now and one numeral, so the number is taken from the volume's contents, not from the heading's letters. Page markers: 0 made from the volume's GENERAL running head ("Schopenhauer, Parerga. II. 12" and its garbled twins - the OCR spoils that title differently on every page, which is why it was once thrown out as a junk line and why repetition could not identify it), recovered only where the number continues the sequence within twelve pages and falls inside the contents range for this chapter (none), plus 2 from heads naming this chapter (S. 26 to S. 30). Both are recovered, neither is estimated: where the OCR lost a head there is no marker. WHAT WAS TRIED AND DECLINED, pass 18: the general head was measured before it was trusted - only 8 lines in the whole 34,746 still spell 'Parerga', and loosening the test to mere shape (a short line with a comma, ending in a figure) turns up a handful per chapter whose numbers fall OUTSIDE the pages the contents give for that chapter, so they are furniture from another gathering, not this chapter's pages. The general head is therefore recorded as NO DATA, and these files are cited by chapter, by their own paragraph numbers, and by the few chapter heads that survived. Short OCR noise lines were dropped (21); the long s is normalised to s (299 here), and this layer also prints f for k and j for i now and then, so read a quotation against the scan.]
+
+Logik und Dialektik.
+
+
+Jede allgemeine Wahrheit verhält sich zu den speciellen
+wie Gold zu Silber; sofern man sie in eine beträchtliche Menge
+specieller Wahrheiten, die aus ihr folgen, umsetzen kann, wie
+eine Goldmünze in kleines Geld. Z. B. daß das ganze Leben
+der Pflanze ein Desoxydationsproceß, das des Thieres hingegen
+ein Oxydationsproceß sei; — oder aud) daß, mo immer ein elek⸗
+trifher Strom Treift, alsbald ein magnetifcher entfteht, ber ihn
+rechtwinklicht durchichneidet; — oder: nulla animalia vocalia,
+nisi quae pulmonibus respirant; — oder: tout animal fossil
+est un animal perdu; — ober: Sein eierlegendes Thier hat ein
+Zwergfell; — dies find allgemeine Wahrheiten, aus denen man
+gar viele einzelne ableiten kann, um fie zur Erflärung vorlommen-
+der Phänomene zu verwenden, ober auch folche vor bem Augenschein
+zu anticipiven. Eben fo werthvoll find die allgemeinen Wahr-
+heiten im Moralifchen, im Pfychologifchen: wie golden ijt bod)
+auch Bier jede allgemeine Regel, jede Sentenz der Art, ja, jedes
+Sprihwort. Denn fie find bie Quinteffenz taufender von Vor-
+gängen, die fid) jeden Tag wiederholen und burd) fie erempliftcirt,
+illustrirt werden.
+
+
+Ein analytifches Urtheil ift bloß ein auseinandergezogener
+Begriff; ein synthetisches Hingegen ift die Bildung eines neuen
+Begriffs aus zweien, im Intelleft fchon anderweitig vorhandenen.
+Die Verbindung diefer muß aber alsdann burd) irgend eine An—
+schauung vermittelt und begründet werden: je nachdem nun bieje
+
+
+Zur Logik und SDialeftif. 23
+
+
+eine empirifche, ober aber eine reine a priori ijt, wird aud) das
+baburd) entjteenbe Urtheil ein synthetisches a posteriori, ober
+à priori fet.
+
+Jedes analytifche Urtheil enthält eine Zautofogie, unb jedes
+Urtheil ohne alle Zautofogie ift fynthetifch. Hieraus folgt, baf,
+im Bortrage, analytifche Urtheile nur unter der Vorausfegung
+anzumenden find, daß Der, zu bem geredet wird, den Subjeft-
+begriff nicht fo vollitändig fennt, ober gegenwärtig hat, wie Der,
+welcher redet. — Ferner läßt das Synthetifche der geometrifchen
+Lehrsätze fid) daraus nachweifen, daß fie feine Zautologie ent:
+halten: bei den arithmetifchen ijt Dies nicht fo augenfällig; aber
+bod) ber Fall. Denn 3. B. daß von 1 bis 4 und von 1 bis 5
+gezählt gerade fo oft die Einheit wiederholt, wie von 1 bis O ges
+zählt, ijt feine Tautologie, jondern burd) die reine Anfchauung der
+Zeit vermittelt und ohne diefe nicht einzufehn.
+
+
+Aus einem Cage fann nicht mehr folgen, al8 schon darin
+fiegt, b. 5. als er felbft, für das erfchöpfende Verftändniß feines
+Sinnes, bejagt: aber ans zwei Cütgen kann, wenn fie fyllogi-
+fti zu Prämissen verbunden werden, mehr folgen, al8 in jedem
+derfelben, einzeln genommen, fiegt; — wie ein djemijd) zusam—
+mengejegter Körper Eigenjchaften zeigt, bie feinem feiner Be-
+ftanbtbeile für fid) zufommen. Hierauf beruht ber Werth der ^
+Schlüsse.
+
+
+Jede Beweisführung ijt eine logische Ableitung des be-
+haupteten Satzes aus einem bereits ausgemachten und gewissen,
+— mit Hülfe eines andern, als zweiter Prämisse. Jener Satz
+nun muß entweder selbst unmittelbare, richtiger ursprüngliche,
+Gewißheit haben, oder aus einem, der solche hat, logisch folgen.
+Dergleichen Sätze von ursprünglicher, also durch keinen Beweis
+vermittelter Gewißheit, wie fie bie Grundwahrheiten aller Wissen⸗
+schaften ausmachen, find stets entstanden durch Uebertragung des
+irgendwie anschaulich Aufgefaßten in das Gedachte, das Abstrakte.
+Dieserwegen heißen sie evident; welches Prädikat eigentlich nur
+ihnen zukommt, nicht aber den bloß bewiesenen Sätzen, welche,
+
+
+24. Zur Logik unb Dialektik.
+
+
+aí$ conclusiones ex praemissis, nur fofgeridtig zu nennen
+find. Diefer ihre Wahrheit tjt bemnad) immer nur eine mittel⸗
+bare, abgeleitete und entlehnte: nichtsdeftoweniger können fie eben
+fo gewiß feyn, wie irgend ein Sat von unmittelbarer Wahr-
+heit; wenn fie nämlich aus einem folchen, wäre e8 aud) burd)
+Zwischensätze, richtig gefolgert find. Sogar ift, unter diefer Vor-
+ausfegung, ihre Wahrheit oft Leichter darzuthun und Jedem faß-
+fid) zu machen, als die eines Urfages von nur unmittelbar und
+intuitiv zu erfennender Wahrheit; weil zur Relognition eines
+folhen bald die objektiven, bald die fubjektiven Bedingungen
+fehlen. Dies Berhältniß ift dem analog, daß ber burd) Mit-
+theilung erzeugte Stahlmagnet nit nur eben jo ftarke, fondern
+oft mod) ftärfere Ziehkraft hat, als der urfprünglihe Magnet⸗
+eijenftein.
+
+Die fubjeftipen Bedingungen nämlich zur Grfenntnig der
+unmittelbar wahren &ütge machen Das aus, was man Urtheils-
+kraft nennt: bieje aber gehört zu ben Vorzügen der überlegenen
+Köpfe; während die Fähigkeit, aus gegebenen Prämiffen die
+richtige $onffujion zu ziehen, feinem gejunden Kopfe abgeht.
+Denn das Feststellen der urfprünglichen, unmittelbar wahren
+Säte erfordert bie llebertvagung des anschaulich Grfannten in
+die abftrafte Erfenntniß: die Fähigkeit Diegu aber ijt bei gewöhn-
+[idem Köpfen äußerft befd)rünft und erjtredt fid) mur auf leicht
+überfehbare Berhältniffe, wie 3. 1B. die Ariome Guffib'8, ober
+aud) ganz einfache, unzweideutige, ihnen offen vorliegende That⸗
+fahen. Was darüber hinausgeht fann in ihre Weberzeugung
+nur auf dem Wege des Beweises gelangen, ber feine andere
+unmittelbare Erkenntniß heischt, als die, welche in der Logik
+burd) die Säge vom Widerfpruh unb der Identität ausgebrückt
+wird und in ben Beweisen fid) bei jedem Schritte wicderholt.
+Auf folhem Wege alfo muß ihnen Alles auf bie Bódjít einfadjeu
+Wahrheiten, welche allein fie unmittelbar zu fassen fähig find,
+zurüdgeführt werben. Geht man Diebei vom Allgemeinen zum
+Speciellen, fo ift e8 Deduktion; in umgefehrter Richtung aber
+Induktion.
+
+Urtheilsfähige Köpfe hingegen, nod) mehr aber Erfinder und
+Entdeder, befigen bie Fähigkeit des Uebergangs vom Angefchauten
+zum Abftraften, oder Gebadjten, in viel höherem Grabe; fo daß
+
+
+Zur 9ogif und Dialektik. 25
+
+
+joffe fid) auf bie Durchschauung sehr komplicirter Verhältniffe
+eritvedt, moburd) das Feld der Sätze von unmittelbarer Wahrheit
+für fie ein ungleich ausgedehnteres ift und Vieles von Dem befaßt,
+wovon jene Andern nie mehr, als die fchwächere, bloß mittelbare
+Ueberzeugung erhalten können. Für bieje Lebteren eigentlich wird
+jr einer neu entbedten Wahrheit hinterher der Beweis, b. i. bie
+Zurädführung auf bereits anerfannte, oder fonft unzmweifelhafte
+Wahrheiten gefudjt. — (8 giebt jebod) Fälle, in denen Dies
+mit ausführbar if. So 3. B. fann id für die sechs Zahlen-
+brüche, burd) welche ich bie sechs Hauptfarben ausgebrüct habe,
+und welche allein die Einficht in das eigentliche, fpecififche Wefen
+einer jeden derjelben auffchließen und dadurch zum erften Male
+die Farbe dem PVerftande mirffid) erklären, feinen Beweis finden:
+dennoch ijt bie unmittelbare Gewißheit derfelben fo groß, daß schwer⸗
+fif irgend ein urtheilsfähiger Kopf im Ernft daran zweifeln wird;
+weshalb denn aud) Herr Prof. Rofas in Wien e8 auf fid) ge-
+nommen hat, fie als Ergebniß feiner eigenen Einficht vorzutragen,
+— worüber ich auf ben „Willen in der Natur” (2. Aufl. ©. 14
+
+
+Die Kontroverfe, das Disputiren über einen theoreti-
+hen Gegenftand, Tann, ohne Zweifel, für beide darin implicirte
+Parteien sehr fruchtbringend werben, indem e$ die Gedanken, bie
+fie Haben, berichtigt, ober bejtütigt, nnb aud) neue erwedt. Es
+it eine Reibung, ober Kollifion zweier Köpfe, bie oft Funken
+schlägt, jebod) aud) darin der Kollifion der Körper analog ijt, bag
+ber fchmwächere oft darunter zu leiden hat; während ber ftärfere
+fif) dabei wohl befindet unb mur einen fiegreichen Klang ver-
+nehmen läßt. Aus biejer Rüdfiht ijt ein Erforderniß dazu, daß
+beide Disputanten wenigftens einigermaaßen einander gewachsen
+feien, fowohl an SKenntniffen, als an Geift und Gewandtheit.
+Fehlt e8 dem Einen an den erjteren; jo ift er nicht au niveau,
+und baburd) den Argumenten des Andern nicht zugänglich: er
+tteht gleihfam beim Kampf außerhalb der Menfur. Fehlt es
+ihm aber gar am Zweiten; jo wird bie dadurch in ihm bald
+rege werdende Erbitterung ihn allmälig zu allerlei Unredlichkeiten,
+Winkelzügen und Schikanen im Disputiren, unb, wenn ihm biefe
+
+ [S. 26]
+
+
+nachgewiefen werben, zur Grobheit verleiten. Demnach, wie zu
+Zurniren nur Ebenbürtige zugelaffen wurden, foll zuvörderst ein
+Gelehrter nit mit Ungelehrten disputiren: denn er kann gegen
+fie feine beiten Argumente nicht gebraudjen; weil es ihnen an
+Kenntniffen fehlt, fie zu verftehn und zu erwägen. Versucht er,
+in diefer Verlegenheit, fie ihnen dennoch begreiffid) zu machen;
+jo wird Dies meiftens mißlingen; ja, fie werben bisweilen,
+durh ein fchledhtes und plumpes Gegenargument, in den Augen
+eben fo unwissender Zuhörer Recht zu behalten fcheinen. Darum
+fagt Goethe:
+
+„Laß Sid nur zu feiner Zeit
+
+Zum Widerfpruc verleiten:
+
+Weise verfallen in Unmwiffenbeit,
+
+Wenn fie mit Unwissenden ftreiten.‘
+
+
+Aber nod) fehlimmer ift man daran, wenn es bem Gegner an
+Geift und Verstande gebridjt; e8 wäre denn, daß er diefen Mangel
+burd) ein aufrichtiges Streben nah Wahrheit und Belehrung
+erjegte, Denn außerdem fühlt er fid) bald am empfinbfiditen
+Theile verlegt; wonach wer mit ihm ftreitet fofort merken wird,
+daß er es nidt mehr mit feinem Intellett, fondern mit dem
+Radikalen des Menfchen, mit feinem Willen zu thun Hat, bem
+nur daran liegt, daß er den Sieg behalte, fei e8 per fas oder
+per nefas; daher fein Verstand jegt auf nichts Anderes mehr
+gerichtet ijt, als auf Schliche, Sniffe und Unredlichleiten jeder
+Art, aus weldhen nachher herausgetricben er enblid) zur Grob-
+heit greifen wird, um nur, auf eine oder die andere Weife, feine
+gefühlte Inferiorität zu Tompenfiren und, je nad) Stand und
+
+
+Verhältnissen ber Disputanten, den Kampf der Geifter in einen
+Kampf ber Leiber zu verwandeln, als wo er beffere Chancen für -
+
+
+fid) zu hoffen Hat. Demnach ijt die zweite Pegel, daß man nicht
+mit Menjchen von beschränktem Verstande disputiren fol. Man
+fieht bereit8 ab, daß nicht Viele übrig bleiben werben, mit denen
+man fid) allenfalls in eine Kontroverje einlaffen darf. Und
+wahrlich jollte dies aud) nur mit Solchen gefchehn, bie [don zu
+den Ausnahmen gehören. Die Leute hingegen, wie fie in der
+Regel find, nehmen e8 [don übel, wenn man nicht ihrer Meinung
+ift: dann follten fie aber aud) ihre Meinungen danach einrichten,
+
+
+baB man benjefben beitreten  fünnte, Nun aber gar an einer
+
+
+Zur Logik und Dialektik, 27
+
+
+Kontroverfe mit ihnen wird man, felbft wenn fie nicht zur oben
+erwähnten ultima ratio stultorum greifen, meiftens nur Verdruß
+erleben; indem man dabei e8 nicht allein mit ihrer intellektuellen
+Unfähigkeit, fondern gar bald aud) mit ihrer moralifchen Schledh-
+tigkeit zu thun haben wird. Diese nämlich wird fid) fund geben
+in ber häufigen Unvedlichkeit ihres Verfahrens beim Disputiren.
+Die Schliche, Kniffe und Schikanen, zu denen fie, um nur Recht
+ju behalten, greifen, find fo zahlreich und mannigfaltig, und dabei
+bod fo regelmäßig wiederkehrend, bap fie mir, in früheren Safren,
+ein eigener Stoff zum Nachdenten wurden, welches fid) auf das
+rein Formale derjelben richtete, nachdem ich erfannt Hatte, daß
+jo verjdjieben aud) fowohl bie Gegenftände ber Diskuffion, als
+die Berfonen feyn mochten, bod) bie felben unb identischen
+Shlihe unb Kniffe ftets wiederfamen und febr wohl zu erkennen
+waren. Dies brachte mid) damals auf den Gedanken, das bloß
+Formale befagter Schlihe und Kniffe vom Stoff rein abzufon-
+dern und es, gleichlam als ein fauberes anatomifches Präparat,
+jit Schau zu ftellen. Ich sammelte afjo alle bie fe oft vor-
+fommenden unreblichen Kunftgriffe beim Disputiren unb ftellte
+jeden derfelben in feinem eigenthümlichen Wefen, burd) Beifpiele
+erläutert und durch einen eigenen Namen bezeichnet, deutlich
+dar, fügte endlich auch die dagegen anzumendenden Mittel, gleich—
+fam bie Paraden zu diefen Tinten, hinzu; woraus denn eine
+förmlihe eriftifhe Dialektik erwuhs. Im diefer nahmen
+nun bie fo eben belobten Kunftgriffe, oder Stratagemata, als
+eriftifch-dialektifche Figuren, bie Stelle ein, welde in der 9ogif
+die Ihllogiftifchen, und in der Rhetorik die rhetorischen Figuren
+ausfüllen, mit welchen Beiden fie da8 Gemeinfame haben, daß
+ft gewiffermanßen angeboren find, indem ihre rari der Theorie
+vorhergeht, man alfo, um fie zu üben, nicht erit fie gelernt zu
+haben braudt. Die rein formale Aufftellung derfelben wäre
+sonach ein Komplement jener Zednif der Vernunft, welde
+ald aus Logik, Dialektif und Rhetorik beftehend, im 2. Bande
+meines Hauptwerks, Kapitel O, dargeftellt ijt. Da, fo viel mir
+befannt, fein früherer Versuch im biejer Art vorhanden ift; jo
+hatte ich dabei feine Vorarbeit zu benutzen: bloß von ber Topika
+t$ Ariftoteles habe ich Hin und wieder Gebraud) machen und
+einige ihrer Regeln zum Aufitellen (xaraoxevageıv) und lim.
+
+
+28 Zur Qogif und Dialektif.
+
+
+. ftoßen (avacxcvatew) der Behauptungen zu meinenr Zwede ver-
+wenden können. Diesem aber ganz eigentlich entfprechend muß
+bie vor Diogenes Laertius erwähnte Schrift des Theophrastus
+Ayuworixov crc Tept voug epiotiwous Aoycug Seopuxe gewesen
+seyn, welche, mit allen feinen rhetorifchen Schriften, verloren ge=
+gangen ijt. Auch Platon (de rep. V., p. 12. Bip.) berührt eine
+&vttoyoen veyvn, welche das sod; lehrte, mie bie OuaXextocq
+ba$ Btx)eyeosos. Don neueren Büchern fommt meinem med
+am nüdjten des weiland Halle'fchen Profejfors Friedemann
+Schneider tractatus logicus singularis, in quo processus
+disputandi, seu officia, aeque ac vitia disputantium
+exhibentur, Halle, 1718; fofern er nämlih in ben Sapiteln
+über bie vitia. mancherlei eriftifche Unvedlichkeiten bloßlegt. Ses -
+bod) Hat er immer nur bie formellen alademifhen Disputationen
+im Auge: aud) ift im Ganzen feine Behandlung der Gadje matt
+und mager, wie solche Fakultätenwaare zu feyn pflegt, babet
+auch nod) in ausgezeichnet fchlechtem Latein. Die ein Jahr fpäter
+erschienene methodus disputandi von Joahim Lange ijt ent»
+schieden beffer, enthält aber nichts für meinen Zwed. — Bei jebt
+borgenommener Rebifion jener meiner früheren Arbeit jedoch, finde
+id) eine folche ausführliche und minutiöfe Betrachtung der Schleich⸗
+wege und Kniffe, deren die gemeine Menfchennatur fid) bedient, um
+ihre Mängel zu verfteden, meiner Gemüthsverfaffung nicht mehr
+angemefjen, lege fie daher zurüd. Um indeffen für Die, melde
+fünftig jo etwas zu unternehmen aufgelegt jeyn möchten, meine
+Behandlungsweife ber Cade näher zu bezeichnen, will id) bier
+ein Baar folder Stratagemata als Broben davon herjeßen, zuvor
+aber nod) aus eben jener Ausarbeitung, den Umriß bes
+Wejentlihen jeder Disputation mittheilen; ba er das
+abftrafte Grundgerüft, gleichsam das Skelett, der Kontroverfe über-
+haupt liefert, aljo für eine Dfteologie derfelben gelten fann und
+wegen feiner Weberjehbarfeit und Klarheit wohl verdient hier zu
+ftehn. Er lautet:
+
+In jeder Disputation, fie werde mum öffentlich, wie in afa»
+demifchen Hörfälen und vor Gerichtshöfen, oder in ber bloßen
+Unterhaltung geführt, ift der wefentlihe Hergang folgender:
+
+Eine These tjt aufgeftelít und foll widerlegt werden: hiezu
+mium giebt e8 zwei Modi und zwei Wege.
+
+
+Sur Logik und Dialektik. 20
+
+
+1) Die Modi find: ad rem und ad hominem, oder ex
+concessis. Nur durch den erfteren ftoßen wir bie abjofute, oder
+objektive Wahrheit ber Thefe um, indem wir darthun, daß fie
+mit der Beichaffenheit ber in Rede ftehenden Sade nicht überein-
+ftimmt. Durd) den andern hingegen stoßen wir bloß ihre relative
+Wahrheit um, indem mir nachweifen, daß fie andern Behauptungen,
+oder Zugeftändniffen des Vertheidigers der These widerfpricht,
+oder, indem mir bie Argumente defjelben als unhaltbar nad-
+weifen; wobei denn bic objektive Wahrheit der Sache felbft
+eigentlich unentfchieden bleibt. 3. 3. wenn, in einer Kontroverje
+über philofophifche ober naturwifjenjchaftliche Gegen[tünbe, der
+Gegner (der dazu ein Engländer jeyn müßte) fid) erlaubt, biblifche
+. Argumente vorzubringen; fo mögen wir ihn mit eben dergleichen
+widerlegen; wiewohl e8 bloße argumenta ad hominem find, bie
+in ber Sache nichts entscheiden. Es ijt, wie menn man Semanben
+in eben bem Papiergelde bezahlt, welches man von ihm erhalten
+fatte. Im mandyen Fällen fann man diefen modus procedendi
+fogar damit vergleichen, daß, vor Gericht, der Kläger eine faljche
+Schuldverschreibung probucirte, bie der Beklagte jeinerfeits durch
+eine falfhe Quittung abfertigte: das Darlehn fünnte darum bod)
+gefchehn seyn. Aber, eben wie bieje8 leßtere Verfahren, jo hat
+aud) oft die bloße argumentatio ad hominem ben Vorzug ber
+Kürze, indem gar häufig, im einen, wie im andern Wall, bie
+wahre und gründliche Aufklärung der Cade äußerft weitläuftig
+unb jchwierig jeyn würde.
+
+2) Die zwei Wege nun ferner find der direfte, und der
+indirefte. Der erftere greift die These bei ihren Gründen,
+der andere bei ihren Folgen am. Jener beweift, daß fie nicht
+wahr fei; diefer, daß fie nicht Dan feyn fónne, Wir wollen fie
+näher betrad)ten.
+
+a) Auf dem direkten Wege Bit: aljo die Gründe
+ber These angreifend, zeigen wir entweder, daß bieje fefbft nicht
+wahr feien, indem wir fagen: nego majorem, oder nego mi-
+norem: durch Beides greifen wir die Materie des bie Theje
+begrünbenben Schluffes am. Oder aber wir geben diefe Gründe
+zu, zeigen jedoch, daß bie These nicht aus ihnen folgt, jagen alfo:
+nego consequentiam; wodurd wir die Form des Schluffes an-
+greifen.
+
+
+ [S. 30]
+
+
+b) Auf bem indirekten Wege wiberfegenb, alfo bie Thefe
+bei ihren Folgen angreifend, um aus ber Unwahrheit diejer,
+vermöge des Gefetes a falsitate rationati ad falsitatem rationis
+valet consequentia, auf ihre eigene Unwahrheit zu fchließen,
+fönnen wir ung nun entweder ber bloßen Inftanz, oder aber
+der Apagoge bedienen.
+
+a) Die Inftanz, evorasızs, ijt ein bloßes exemplum in
+contrarium: fie widerlegt die Thefe burdj Nacdhweifung von
+Dingen, ober Berhältniffen, die unter ihrer Ausfage begriffen
+find, afjo aus ihr folgen, bei denen fie aber offenbar nicht zu-
+trifft; daher fie nicht wahr feyn fann.
+
+£) Die Apagoge bringen wir dadurch zu Wege, daß wir
+bie These vorläufig als wahr annehmen, nun aber irgend einen
+andern, al8 wahr anerfannten und unbeftrittenen Sag jo mit ihr
+verbinden, daß Beide die Prämiffen eines Schlufjes werden, dessen
+Konklusion offenbar falsch ist, indem sie entweder der Natur der
+Dinge überhaupt, oder der sicher anerkannten Beschaffenheit der in
+Rede stehenden Sache, oder aber einer andern Behauptung des
+Verfechters der These widerspricht: die Apagoge kann also, dem
+modus nad), sowohl bloß ad hominem, als ad rem seyn. Sind
+es nun aber ganz unzweifelhafte, wohl gar a priori gewisse
+Wahrheiten, denen jene Konklusion widerspricht; dann haben wir
+den Gegner sogar ad absurdum geführt. Jedenfalls muß, da
+die hinzugekommene andere Prämisse von unbestrittener Wahrheit
+ist, die Falschheit der Konklusion von seiner These herrühren:
+diese kann also nicht wahr seyn.
+
+Jedes Angriffs-Verfahren beim ‘Disputiren wird auf bie
+bier formell dargeftellten Proceduren zurüdzuführen jegn: diefe
+find alfo in der Dialektik Das, was in ber Fechtkunst bie regel-
+mäßigen Stöße, wie Terz, SOuart u. j. wm. — Hingegen würden
+bie von mir zufammengeftellten Kunftgriffe, ober Stratagemata,
+allenfalls den Finten zu vergleichen feyn, und endlich bie perjön-
+lichen Ausfälle beim Disputiren ben bon ben Univerfitätsfechtmeiftern
+jo genannten Sauhieben. Als Probe und Beifpiele jener von mir
+jufammengebradjten Stratagemata mögen nun folgende Bier eine
+Stelle finden.
+
+Siebentes Stratagem: die Erweiterung. Die Behauptung
+bes Gegners wird über ihre natürliche Grünge hinausgeführt, alfo
+
+
+Zur Logik und Dialektik. 31
+
+
+in einem weiteren Sinne genommen, als er beabfichtigt, ober
+jogar aud) ausgedrüdt hat, um fie fodann in joldem Sinne be-
+quem zu widerlegen.
+
+Beifpiel: A. behauptet, die Engländer überträfen in ber bra-
+matischen Kunst alle andern Nationen. B. madjt bie fcheinbare
+instantia in contrarium, daß in ber Musik, folglich aud) in der
+prr, ihre Leiftungen gering wären. — Hieraus folgt, al8 Barade
+zu diefer Finte, daß man, bei einem erhobenen Widerspruch, feine
+ausgesprochene Behauptung fogleid) ftrenge auf die gebrauchten
+Ausdrüde, oder ihren billigerweife anzunehmenden Sinn, ein:
+schränke, überhaupt fie in mögfichft enge Gränzen zufammenziehe.
+Denn je allgemeiner eine Behauptung wird, befto mehreren An⸗
+griffen ijt fie ausgefekt.
+
+9(djte8 Stratagem: die Konfegenzmaderei. Man fügt
+zum Cate be8 Gegners, oft sogar nur ftillfchweigend, einen zweiten
+hinzu, welcher, burd) Subjekt oder Prädikat, jenem verwandt ijt:
+aus diefen zwei Prämiffen nun zieht man eine unwahre, meiftens
+gehäffige Konklufion, bie man bem Gegner zur ajt legt.
+
+Beispiel: A. fobt e8, daß die Franzofen Karl X. verjagt haben.
+9. erwidert fogleidh: „also wollen Sie, daß wir unfern König
+verjagen.” — Der von ihm jtillfcheigend als Major Hinzu-
+gefügte Satz ift: „Alle, bie ihren König verjagen, find zu loben.“
+— Dies fann audj auf bie fallacia a dicto secundum quid ad
+dictum simpliciter zurüdgeführt werben. |
+
+Neuntes Stratagem: bie Diverfion. Wenn man, im
+dortgange der Disputation, merkt, daß e8 schief geht, und ber
+Gegner fiegen wird; fo fudjt man bei Zeiten diefem Unfall vor-
+subeugen durch eine mutatio controversiae, aljo burd) Ablenken
+der Diskuffion auf einen andern Gegenftand, nämlich) auf irgend
+tine Nebenfache, nótfigenfalí8 fogar burd) 9(bjpringen auf eine
+Ve. Diefe fudit man jegt bem Gegner unterzufchieben, um
+fe anzufechten unb ftatt des ursprünglichen Gegenftandes zum
+ipea der Kontroverfe zu machen; fo daß der Gegner feinen
+beborstehenden Sieg verlaffen muß, um fid) dahin zu wenden.
+Zelte man aber unglüdlicherweife auch hier bald ein ftarfes
+Segenargument aufmarfdiren fehn; nun, fo madjt man es ge
+ichwind wieder eben fo, fpringt alfo abermals auf etwas Anderes
+0: unb das fann man zehn Mal in einer Viertelftunde wieder-
+
+
+39 Zur Logik und Dialektik.
+
+
+holen, wenn nicht etman ber Gegner die Geduld verliert. Diefe
+ftrategifchen Diverfionen wird man am gefchicteften dadurch aus-
+führen, daß man bie Kontroverfe unpermerft und allmälig auf
+einen, dem in Rede ftehenden Gegenftand verwandten, mo mög-
+fid) auf etwas nod) wirklich ihm felbft, nur in anderer Dinficht,
+Betreffendes, hinüberfpielt. Schon weniger fein ijt es, wenn mau
+bloß das Cubjeft ber These beibehält, aber andere Beziehungen
+defjelben auf's Tapet bringt, die wohl gar mit den in Rede
+ftehenden nichts zu thun haben, 3. B. vom Buddhaismus ber
+Chinejen redend auf ihren Theehandel übergeht. Ist nun aber
+aud) nicht ein Mal Dies ausführbar; (o greift man irgend einen
+vom Gegner zufällig gebraudten Ausdrud auf, um an biejen
+eine ganz neue Kontroverfe zu fuüpfen unb fo von ber alten
+[o8 zu kommen: 3. 39. ber Gegner habe fid) [o ausgebrüdt: „hier
+eben liegt das Mysterium der Cadje^; fo fällt man gefchwinde
+ein: „Sa, wenn Sie von Mysterien und Mystik veben, da bin id)
+nidt Ihr Mann: denn was ba$ betrifft“, u. [. m., und nun
+wird ba6 weite Feld gewonnen. Bietet fid) aber felbft Diegu
+feine Gelegenheit; fo muß man nod) breiter zu Werke gehn und
+plößlich auf eine ganz fremde Sadje ab[pringen, etwan mit: ‚ja,
+und fo behaupteten fie aud) neulich” u. j. m. — Die Diverfion
+überhaupt ijt unter allen Kniffen, deren unrebfide Disputanten
+fid, meiftens inftinftmäßig, bedienen, der beliebtefte unb ge-
+bräuchlichfte und faft unausbleiblid, fobald fie in Verlegenheit
+
+Dergleihen Stratagemata also Hatte ich ungefähr vierzig
+zufammengeftellt und ausgeführt. Aber die Beleuchtung aller
+diefer Schlupfwinkel der, mit Gigenfinn, Eitelfeit und Unredlich-
+feit. verjchwilterten Beschränktheit und Unfähigkeit widert mich
+jegt an; daher ich e$ bei diefer Probe bewenden faffe und befto
+ernjtfider auf bie oben angegebenen Gründe zum Vermeiden des
+Disputivens mit Leuten, mie die meijten find, verweije. Man
+mag allenfalls der Fafjungsfraft eines Andern burd) Argumente
+zu Hülfe zu fommer verfuchen: aber fobafb man in feinen Gegen-
+reden Eigenfinn bemerkt, soll man auf der Stelle abbreden. Deun
+alsbald wird er aud) unredlid werden, und im Theoretifchen ift
+ein Sophisma, was im Praktischen eine Cdjifane: die bier zur
+Sprache gebradjten Stratagemata aber find mod) viel nidts-
+
+
+Zur Logik und Dialektik. . 88
+
+
+mürbiger, al8 bie Sophismen. Denn im ihnen nimmt ber Wille
+die Maske des Verftandes vor, um dessen Rolle zu fpielen; was
+jtet8 abjcheulih ausfällt; wie denn aud wenig Dinge folche
+Indignation hervorrufen, wie menn man merkt, daß ein Mensch
+abfidjtfid) mißversteht. Wer gute Gründe feines Gegners nicht
+gelten läßt, beweift einen entweder direkt fchwachen, ober duch
+die Herrihaft des eigenen Willens wnterbrüdten,' alfo indirekt
+schwachen Berftand: daher fol man nur wo etman Amt und
+Pfliht e$ heischen, mit einem Solchen fid) herumhetzen. — Bei
+allen Diefem jedoch muß ich, um aud) den erwähnten Winfel-
+zügen ihr Recht widerfahren zu laffen, eingeftehn, daß man mit
+dem Aufgeben feiner Deeinung, bei einem treffenden Argument
+des Gegners, fid) ebenfalls übereilen fann. Wir fühlen nämlich,
+bei einem solchen, die Gewalt defjelben: aber die Gegengründe,
+oder was etwan anderweitig unfere Behauptung felbft dabei nod)
+beitehn laffen unb retten fónnte, fällt uns nicht eben fo schnell ein.
+Geben wir nun, in joldem Fall, unjere These fogleich verloren;
+[o faun e8 kommen, daß wir eben dadurd der Wahrheit ungetreu
+werden; indem fich nachher fünde, daß wir dennoch Recht gehabt
+hätten, jedoch, aus Schwähe und Mangel an Vertrauen zu unferer
+Cadj, dem augenblidlihen Ginbrud gewichen wären. — Sogar
+fann der Beweis, den wir für unfere These aufgeftellt Hatten,
+wirklich fafjd) gemejen seyn, e8 aber einen andern und richtigen
+für biejebe geben. Im Gefühl Hievon gefchieht e8, bag jelbft
+aufridjtige und wahrheitsliebende Leute nicht leicht einem guten
+Argument auf der Stelle weichen, vielmehr nod) eine kurze Gegen:
+wehr verfudhen, ja jogar bei ihrem Satze meijten8 aud) dann
+nod) eine Weile beharren, wann die Gegenargumentation ihnen
+jeine Wahrheit zweifelhaft gemadjt hat. Sie gleichen dabei dem
+Heerführer, ber eine Bofition, bie er nicht behaupten Tann und
+e8 weiß, doch nod, in Hoffnung auf Entjag, eine Weile zu
+halten sucht. Sie Hoffen nämlid, daß, während fie einftweilen
+mit schlechten Gründen fid) wehren, bie guten ihnen inzwifchen
+einfallen, ober auch die bloße Scheinbarkeit der Argumente des
+Gegners ihnen Kar werden wird. Diejergejtalt alfo wird man
+zu einer Fleinen Unredlichleit im Disputiren beinahe genöthigt,
+indem man momentan nicht fowohl für die Wahrheit, als für
+feinen Sat zu fümpfen bat. Soweit ijt dies eine Folge der
+
+
+94 Zur 9ogif unb Dialektik.
+
+
+Ungewißheit ber Wahrheit unb ber Unvollfommenheit des menfch-
+lichen Intellefts. Nun aber entfteht fogleich die Gefahr, bag man
+darin zu weit gehe, zu lange bei fehlechter Weberzeugung kämpfe,
+fid) endlich verftode unb, ber Schledhtigkeit der menschlichen Natur
+Raum gebend, per fas et nefas, alfo wohl auch gar mit Hülfe
+unredliher Stratagemata, feinen Gat vertheidige, ihn mordicus
+fefthaltend. Hier möge Ieden feine guter Genius bejdjirmen; da-
+mit er nicht nachher fid zu fchämen brauche. Inzwischen leitet
+deutlihe Erfenntniß ber hier dargelegten Beichaffenheit ber Sache
+alferdings zur Selbftbildung aud) im diefer Hinfiht an.
+
+
+Den Intelleft überhaupt und in jeder Beziehung
+betreffende Gebanferm.
+
+
+Jedes angeblich voraussetzungslose Verfahren in der
+Philosophie ist Windbeutelei: denn immer muß man irgend
+etwas als gegeben ansehn, um davon auszugehn. Dies näm—
+lich besagt das dog (kot mou cto, welches bie unumgängliche
+Bedingung jedes menschlichen Thuns, selbst des Philosophirens,
+it; weil wir geistig fo wenig, wie körperlich, im freien Aether
+schweben können. Ein fofdjer Ausgangspunkt des Philofophirens,
+ein folches einftweilen af8 gegeben Genommenes, muß aber nad-
+mals wieder fompenfirt und gerechtfertigt werden. Dasselbe wird
+nämlich entweder ein Subjektives feyn, alfo etwan das Selbit-
+bewußtjeyn, die Vorftellung, ba8 Subjeft, ber Wille; ober aber
+ein Objektives, aljo das im Bewußtfeyn von andern Dingen
+fij Darftellende, etwan die reale Welt, die Außendinge, bie
+Natur, die Materie, Atome, aud) ein Gott, aud) ein bloßer
+beliebig erbadjter Begriff, wie bie Subftanz, das Abfolutum,
+ober was immer es nun feyn fol. Um nun aljo die hierin
+begangene Wifffürlichleit wieder auszugleichen und bie Voraus—
+jegung zu reftifigiren, muß man nachher den Standpunkt
+wechseln, und auf den entgegengefegten treten, von melden
+aus man nun das Anfangs als gegeben Genommene in einem
+ergänzenden Philosophem wieder ableitet: sic res accendunt
+lumina rebus.
+
+Geht man 3. B. vom Subjeftiven aus, wie Berkeley,
+xode und Kant, in welchem bieje Betrachtungsweife ihren Gipfel
+
+
+36 Den Intelleft überhaupt
+
+
+erreichte, gethan haben; fo wird man, obwohl, wegen der wirf-
+(iden Unmittelbarfeit des Subjektiven, diefer Weg die größten
+Vorzüge hat, bennod) eine theils fehr einfeitige, theils nicht ganz
+gerechtfertigte Philofophie erhalten, menn man fie nicht baburd)
+ergänzt, bag man das in ihr Abgeleitete ein ander Mal wieder
+als da8 Gegebene zum Ausgangspunfte nimmt und alfo, vom
+entgegengefeßten Gitanbpuntt aus, das Subjeltive aus dem Ob-
+jeftiven ableitet, mie vorhin das Objektive aus dem Subjeftiven.
+Diefe Ergänzung der Kantifchen Bhilofophie glaube id, ber
+Hauptjahe nad), geliefert zu haben im 22. Kapitel des zweiten
+Bandes meines Hauptwerfes und im „Willen in ber Natur”
+unter der Rubrik Pflanzenphyfiologie, als roo id), von der äußern
+Natur ausgehend, den Intellekt ableite.
+
+Geht man nun aber umgekehrt vom Objektiven aus und
+nimmt gleid) recht Viel al8 gegeben, etwan die Materie, nebft
+den in ihr fid) manifeftirenden Kräften; fo hat man bald die ganze
+Natur; indem eine folde Betrakhtungsart ben reinen Naturalig-
+mus liefert, den ich genauer bie abfolute Physik benannt
+habe. Da befteht denn alfo das Gegebene, mithin abjolut Reale,
+allgemein gefaßt, in Naturgefeen und Naturfräften, nebft deren
+Träger, der Materie; fpeciell betrachtet aber in einer Unzahl
+frei im unendlichen Raume jchwebender Sonnen und fie umlrei-
+fender Planeten. Es giebt demnach, im Refultat, überall nichts,
+als Kugeln, theil® Leuchtende, theils beleuchtete. Auf letzteren
+hat, in Folge eines Fäulungsprocesses, fid) auf der Oberfläche
+das Leben entwidelt, welches, in ftufenweifer Steigerung organijche
+Wesen liefert, bie fid) darftellen als Individuen, welche zeitlich
+anfangen und enden, burd) Zeugung und Tod, gemäß den die
+Lebenskraft lenkenden 9taturgejegen, welche, mie alle anberit, die
+herrfchende und von Ewigkeit zu Ewigkeit beftehende Ordnung
+der Dinge ausmachen, ohne Anfang und Ende, und ohne von
+fid NRechenfchaft zu geben. Den Gipfel jener Steigerung nimmt
+der Mensch ein, bejfen Daseyn ebenfalls einen Anfang, in feinem
+Berlauf viele und große Leiden, wenige und farg gemeffene
+Qreuben, und fodann, wie jedes andere, ein Ende hat; nad)
+welchem es ift, als wäre e8 nie gemefen. Unjere, bier die Be-
+tradjtung leitende unb die Rolle der Philofophie fpielende abso—
+[ute Physik erflärt ung nun, wie, jenen abfolut beftehenden
+
+
+und in jeber Beziehung betreffende Gedanken. 9 35
+
+
+und geltenden Naturgefeten zufolge, eine Erscheinung allezeit
+die andere herbeiführt, ober aud) verdrängt: Alles geht dabei
+ganz natürlich zu unb tjt daher völlig Kar unb verftändlich; fo
+daß man auf das Ganze ber jo explicirten Welt eine Phrafe
+anwenden könnte, welche Fichte, wann er feine dramatifchen
+Zalente auf dem Katheder probucirte, mit tiefem Grnft, imponi-
+renbem Nahdrud und überaus ftubentenperblüffenber Miene fo
+auszufprechen pflegte: „es ijt, weil e8 ijt; und ijt mie c8 iit,
+weil e8 fo ijt." Demgemäß erfcheint e$, auf biejem Standpunkt,
+als eine bloße Griffe, wenn man zu einer fo ffar gemadten
+Welt nod) andere Erklärungen fuchen wollte, in einer ganz
+imaginären Metaphysik, auf bie man wieder eine Moral fete,
+welche, weil durch die Physik nicht zu begründen, ihren einzigen
+Anhalt an jenen Filtionen der Metaphysik hätte. Hierauf beruht
+die merffide Verachtung, mit welder bie Physiker auf die
+Metaphysik herabsehn. — Allein, troß aller Selbftgenügfamteit
+jenes rein objektiven Philofophirens, wird fid) bie Ginjeitigteit
+des Standpunfts und die Nothiwendigfeit ihn zu wechfeln, aljo
+ein Mal das erfennende Subjelt, nebft beffen Erfenntnißver-
+mögen, in welchem allein alle jene Welten denn bod) junüdjt
+vorhanden find, zum Gegenftand der Linterfuchung zu machen,
+früher oder fpäter fund geben, unter mancherlei Formen und’
+bei mandjerfei Anläffen. So liegt 3. B. schon bem Ausdrude der
+Hriftlihen Mystiker, bie den menfchlichen Intellekt das Licht
+der Natur benennen, weldes fie in höherer Inftanz für in-
+fompetent erflären, bie Einfiht zum Grunde, daß die Gültigkeit
+aller fofdjer Grfenntniffe nur eine relative und bedingte fei, nicht
+aber eine unbedingte, wofür fie Hingegen unfere heutigen Ra—
+tionaliften halten, welche eben deshalb bie tiefen Mysterien des
+Chriftenthums, wie bie Phyfifer bie Metaphysik, verachten, 3. 2.
+das Dogma von ber Erbfünde für einen Aberglauben . halten,
+weil ihr Pelagianifcher Hausmannsverftand glücklich herausge-
+bracht Hat, daß Einer nicht für das kann, was ein Anderer,
+ichstaufend Iahre vor ihm, gefündigt fat. Denn ber NRatio-
+nalift geht getroft feinem Lichte ber Natur nach und vermeint
+daher wirklich und in vollem Ernst, daß er bor 40 ober 50 Yah-
+ten, efe nämlich fein Bapa in der Schlafmüge ihn gezeugt und
+fine Mama Gans ihn gfüdfid) in diefe Welt abgefett hatte, vein
+
+
+38 d Den Intelleft überhaupt
+
+
+und abjolut Nichts gewejen und bann geradezu aus nichts ent-
+ftanden fet, Denn nur fo fann er für nidjt8. Der Sünder und
+Erbfünder!
+
+Alfo, wie gefagt, auf mancherlei Wegen, zumeift aber auf
+dem nicht zu vermeidenden philofophifchen, wird die ber objek—
+tiven Erfenntniß folgende Spekulation, früher oder fpäter, an-
+fangen, Unrath zu merfen, nämlich einzufehn, daß alle ihre nad)
+der objektiven Seite hin erlangte Weisheit auf Kredit des menjdy-
+(iden Intellefts, ber bod) feine eigenen Formen, Funktionen und
+Dorftellungsweife Haben muß, angenommen, folgfid) durchweg
+durch biejen bedingt fei; woraus bie Nothwendigfeit folgt, amd)
+hier ein Mal den Standpunkt zu wechfeln und das objektive
+Verfahren mit dem fubjeltiven zu vertaufchen, alfo den Intellckt,
+der bi8 hieher, im volfiten Selbftvertrauen, feinen Dogmatismus
+getroft aufgebaut und ganz breijt über die Welt und alle Dinge
+in ifr, fogar über ihre Möglichfeit, a priori abgeurtheilt Dat,
+jegt felbft zum Gegenjtand ber Unterfuhung zu machen und feine
+Vollmachten der Prüfung zu unterziehn. Dies führt zunächft
+zum Locke; bann führt e8 zur Kritif der reinen Vernunft umb
+endlich zu der Erfenntniß, daß das Licht der Natur ein allein
+nad) außen gerichtetes ift, welches, menn es jid zurüdbeugen
+und fein eigenes Inneres beleuchten möchte, dies nicht vermag,
+alfo die Finfterniß, bie dafelbjt Herriht, unmittelbar nicht zer-
+itreuen Tann; fondern bloß auf dem Umwege der 9iefferion, den
+jene Philofophen gegangen, und mit großer Schwierigkeit, eine
+mittelbare Kunde von feinem eigenen Mechanismus und feiner
+eigenen Natur erhält. Danad) aber wird dem Intelleft Klar,
+daß er, zur Auffaffung bloßer Relationen, als melde bem Dienft
+eines individuellen Willens genügt, von Haus aus bejtimmt,
+eben barum mejentlid) nad außen gerichtet und felbjt da eine
+bloße Flächenkraft ijt, gleih der leftricität, b. BD. bloß die
+Oberfläche der Dinge erfaßt, nicht aber in ihr Inneres cinbringt
+und eben deshalb wieder von allen jenen, ihm objektiv Karen und
+realen Wejen bod) fein einziges, auch nicht das geringfte unb
+einfachite, gänzlih und von Grund aus zu veritehen, oder zu
+durchschauen ‚vermag, vielmehr ifm, in Allem und Jedem, bie
+Hauptsache ein Geheimniß bleibt. Hiedurch aber wird er dann
+zu ber tiefern Einficht geführt, welde der Name Idealismus
+
+
+und in jeber Beziehung betreffende Gedanken. 39
+
+
+dezeichnet, bag nämlich jene objektive Welt und ihre Ordnung,
+wie er fie mit feinen Operationen auffaßt, nicht unbedingt und
+an fid) je(bft alfo vorhanden jei, fondern mitteljt der Funktionen
+des Gehirns entjtehe und daher zunächst bloß in biefem existire
+und folglih in diefer Form nur ein bebingtes unb relatives
+Dafeyn Babe, aljo ein bloßes Phänomen, bloße Gr[deinung fei.
+Denn bis dahin ber Mensch mad) den Gründen feines eigenen
+Dafeyns geforfcht Hatte, wobei er vorausfeßte, die Gesetze des
+Erkennens, Dentens und der Erfahrung feien rein objektiv,
+an und für fih unb abfolut vorhanden und bloß vermöge ihrer
+jei er und alles Uebrige; fo erkennt er jett, daß, umgefehrt, fein
+Intellekt, folglih aud) fein Daseyn, die Bedingung aller jener
+Gejege und was aus ihnen folgt ijt. Dann enbfid) fieht er aud)
+ein, bag bie ihm jebt Klar gewordene Idealität des Raumes,
+ber Zeit und der Saujafitit Platz fügt für eine ganz andere -
+Ordnung ber Dinge, als bie ber Natur ift, welche Lettere er jebod)
+als das Resultat, oder bie Hieroglyphe, jener andern anzujehn
+genöthigt ift.
+
+
+Wie wenig geeignet zum philosophischen Nachdenken der
+menfchliche Verstand in ber Regel fei, zeigt unter Anderm jid)
+darin, daß aud jet, nad) Allem was feit Kartefius darüber
+gefagt worden, immer nod) dem Idealismus der Realismus
+getroft entgegentritt, mit ber naiven Behauptung, die Körper
+wären als foldhe nicht bloß in unferer Vorftellung, fondern aud)
+wirflih und wahrhaft vorhanden. Aber gerade diefe Wirklichkeit
+jelbft, diefe Art und Weife der Grifteng, fammt Allem, was fie
+enthält, ift es ja, von ber mir behaupten, daß fie mur in ber
+Borftellung vorhanden und außerdem nirgends anzutreffen fei;
+weil fie nur eine gewiffe nothwendige Drdnung der Verknüpfung
+unfrer Borftellungen ift. Bei Allem, was frühere Idealisten,
+zumal Berkeley, gelehrt Haben, erhält man die recht gründ-
+(ie lebergeugung davon bod) erit durch Kant; weil er bic
+Cade nidt mit Einem Schlage abthut, fondern ins Einzelne
+geht, das Apriorifche ausfcheidet umb dem empirischen Element
+überall Rechnung trägt. Wer nun aber die Idealität der Welt
+einmal begriffen at, Dem erjcheint die Behauptung, daß folche,
+
+
+40 Den Intelleft überhaupt
+
+
+aud) wenn Niemand fie vorjtefíte, bod) vorhanden feyn würde,
+wirffid) unfinnig; weil fie einen Widerspruch ausfagt: denn ihr
+Borhandenfeyn bedeutet eben nur ihr Vorgeitelltwerden. Ihr
+Dafeyn felbft Liegt in ber Vorftellung des Subjelts. Dies eben
+befagt ber Ausdrud: fie ift SObjeft). Demgemäß legen aud) die
+edleren, älteren und befjeren Religionen, alfo Brahmanismus und
+YBuddhaismus, ihren Lehren durchaus den Idealismus zum
+Grunde, dejfen Anerkennung fie mithin fogar dem Volke zumuthen.
+Das Yudenthum Hingegen iff eine rechte Koncentration und orn;
+jolidation des Realismus. —
+
+Eine von Fichte eingeführte und feitdem habilitirte Er-
+ihleihung liegt im Ausdrud das Ih. Hier wird nämlid,
+burd) bie jubftantive Nedeform und den vorgejegten Artifel, das
+wejentlih und fchlehthin Subjektive zum Objekt umgewanbelt.
+Denn in Wahrheit bezeichnet Ich das Subjektive als solches,
+welches daher gar nie Objekt werden Tann, nämlich das Er-
+fennende im Gegensatz und als Bedingung alles Erfannten.
+Dies fat die Weisheit aller Sprachen baburd) ausgedrüdt, daß
+fie IH nit als Subftantiv behandelt: daher eben Fichte ber
+Sprade Gewalt anthun mußte, um feine Abfiht durchzusetzen.
+Eine mod) dreiftere Erfchleihung eben dieses Fichte ift dev un—
+verjd)ümte Mißbrauch, ben er mit bem Worte Seßen getrieben
+Dat, ber aber, jtatt gerügt und erplodirt worden zu seyn, mod)
+bis auf den heutigen Tag, bei fast allen Philofophaftern, nad)
+feinem Vorgang und auf feine Auftorität, als ein ftehendes
+Hülfsmittel zu Sophismen und Zruglehren, in häufigem Gebraud)
+it. Seßen, ponere, wovon propositio, ijt, von Alters Ber,
+ein rein logifcher Ausdrud, welcher bejagt, bag man, im Logifchen
+Zufammenhang einer ‘Disputation, oder jonftigen Erörterung,
+etwas vor der Hand annehme, vorausjege, bejahe, ihm alfo
+[ogi[dje Gültigkeit und formale Wahrheit einftweilen ertheile, —
+wobei feine Realität, materielle Wahrheit und Wirklichkeit durchaus
+
+
+*) Schaue id) irgend einen Gegenftand, etman eine Ausficht, am, und
+benfe mir, daß in biefeut Augenblid mir ber Kopf abgefchlagen würde; —
+fo weiß ich, baf der Gegenftand unverrädt und unerschüttert ftehen bleiben
+würde: — Dies implicirt aber im tiefften Grunde, daß auch ich ebenfo nod)
+bajegm würde. Dies wird Wenigen einleuchten, aber für bieje Wenigen fei
+
+
+und in jeder Beziehung betreffende Gedanken. 41
+
+
+unberührt und unausgemadht bleibt und dahinfteht. Fichte aber
+eihlih fi allmälig für dies Seken eine reale, aber natürlich
+dunfele und neblichte Bedeutung, welche die Pinfel gelten Tießen
+und die Sophiften fortwährend benußen: feitdem nämlich bae
+3d erit jid) felbft und nachher das Nicht⸗Ich gefekt hat, heißt
+Sehen fo viel wie Schaffen, Hervorbringen, fury, in die Welt
+jegen, man weiß nicht mie, und Alles, was man ohne Gründe
+aí8 dafeiend annehmen und Anderen aufbinden möchte, wird eben
+gelebt, und nun fteht’8 unb ijt ba, ganz real. Das ijt bie
+nod) geltende Methode ber fogenannten Nachkantischen Philofophie
+und ijt Fichte's Wert.
+
+
+Die von Kant entbedte Fdealität ber Zeit ift eigentlich
+(fon in bem, ber Mechanik angehörenden Gejetge ber Träg-
+heit enthalten. Denn was diejes befagt ift im Grunde, daß bie
+bloße Zeit feine physische Wirkung hervorzubringen vermag;
+daher fie, für fid) und allein, an der Ruhe oder Bewegung eines
+Körpers nichts ändert. Schon Hieraus ergiebt fid), daß fie fein
+physisch Reales, fondern ein transfcendental Ideales fei, b. D.
+nit in den Dingen, fonbern im erfennenben Gubjeft ihren Ur-
+iprung habe. Inhärirte fie, als Eigenschaft, ober Accidenz, den
+Dingen felbft und am fij; fo müßte ihr SOuantum, alfo ihre
+vünge oder Kürze, an diefen etwas verändern können. Allein
+da8 vermag folches durchaus nicht: vielmehr fließt fie über bie
+Tinge Bim, ohne ihnen bie Leifefte Spur aufzubrüden. Denn
+wirksam find allein bie Ursachen im Berlauf der Zeit; keines⸗
+wege er felbit.. Daher eben, wenn ein Körper allen chemifchen
+Ginfläffen entzogen ift, — wie 3. 3B. ber Mammuth in ber Eis-
+Holle an der Lena, die Mücke im Bernftein, ein edles Metall in
+volffommen trodner Luft, Aegyptifche Alterthümer (fogar Berrüden)
+im trodenem Felsengrabe, — Yahrtaufende nichts an ifm ver-
+ändern. Diefelbe abfolute Unwirksamkeit der Zeit afjo ift es,
+die im Meechanifchen, als Gefe ber Trägheit, auftritt. Hat ein
+Körper ein Mal eine Bewegung angenommen; fo vermag feine
+zeit fie ihm zu rauben, ober nur fie zu vermindern: fie iff ab-
+jolut endlos, menn nidt phyfifche Urfachen ihr entgegenwirken:
+gerade mie ein vubenber Körper ewig ruht, wenn nicht physische
+
+
+42 Den Intellekt überhaupt
+
+
+lirjaden Bingufommen, ihn in Bewegung zu feßen. Schon hieraus
+alfo folgt, bag bie Zeit etwas die Körper nicht Berührendes ift,
+ja, daß Beide heterogener Natur find, indem diejenige Realität,
+welche den Körpern zukommt, der Zeit nicht beizulegen ift, monadj
+denn bieje abfolut ideal ift, b. B. der bloßen Vorftellung und
+ihrem Apparat angehört; während Hingegen die Körper, burd)
+bie mannigfaltige Verfchiedenheit ihrer Qualitäten und deren Wir-
+fungen, an den Tag legen, daß fie nicht bloß idea! find, fondern
+zugleich ein objektiv Reales, ein Ding am fich felbft, in ihnen (id)
+offenbart; fo verschieden folches aud) von biefer feiner Erfcheinung
+feyn möge.
+
+Die Bewegung ift junüdjt ein bloß phoronomifcher
+Vorgang, b. b. ein folder, deifen Elemente ganz allein aus Zeit
+und Raum genommen find: die Materie ift das Beweglide:
+fie ift [don Objektivation be8 Dinges an jid) Nun aber ihre
+abfolute STeihgältigfeit gegen Ruhe und Bewegung, oer
+möge meldjer fie, in der einen, wie in der andern, fobald fie fie
+angenommen bat, immerdar verharrt und eben fo bereit ift eine
+Emigfeit hindurch zu fliegen, wie eine Ewigfeit hindurch zu rufen,
+beweift, daß dem Dinge an fid), welches als Materie fid) darstellt
+und ihr alle ihre Kräfte verleiht, Raum und Zeit, unb daher
+eben die rein aus diefen entftchenden Gegenfäge von Bewegung
+und Ruhe, gar nit anhängen, vielmehr ihm völlig fremd find,
+daß fie mithin nicht aus bem Erscheinenden in bie Erscheinung
+gefommen find, fondern aus dem bieje auffafjenden Intellekt,
+bem fie, als feine. Formen, angehören,
+
+Wer, beiläufig gejagt, da8 Bier angezogene Gefe ber Trägheit
+fid) zu vecht Tebendiger Anschauung bringen will, denfe fid), er stehe
+an der Gränze der Welt, vor dem leeren Raume, und fchieße in
+diefen eine Biftole ab. Seine Kugel wird, in unveränderter 9tidj-
+tung, alle Ewigkeit hindurch fliegen: feine Billionen Safre des
+Fluges werden fie je ermüden, nie wird es ihr an Raum gebredjen,
+weiter zu fliegen, noch wird jemals ihr die Zeit dazu ausgehn. Hiezu
+fommt, daß wir dies alles a priori und gerabe barum völlig gewiß
+wiffen. Sch denke, die transfcendentale Sbealitüt, b. D. cerebrafe
+Phantasmagorie, der ganzen Sache wird hier ungemein fühlbar.
+
+Eine der vorhergehenden Betradhtung über die Zeit analoge
+und parallele über ben Raum würde fid) allenfall8 daran knüpfen
+
+
+und in jeder Beziehung betreffende Gedanken. 43
+
+
+offen, daß die Materie, durch alle fie ausdehnende Zertheilung,
+oder auch wiederum Zufammenpreffung iut Raume, weder vermehrt
+nodj vermindert werden kann; wie aud) daran, daß im abjoluten
+Raume Ruhe und gerabfinige Bewegung phoronomisch zufammen-
+fallen und das Selbe find.
+
+Eine Vorahndung ber Kantifchen Lehre von der Idealität ber
+Zeit zeigt fid) in gar manden Aussprüchen älterer Philofophen;
+worüber id) bereit8 an andern Orten das Nöthige beigebracht habe.
+Spinoza fagt geradezu: tempus non est affectio rerum, sed
+tantum merus modus cogitandi. (Cogitata metaphysica c. 4.)
+(igentfid) Liegt das Bewußtseyn der Sbealitüt der Zeit fogar dem
+von jeher dagewesenen Begriff der Ewigkeit zum Grunde. Diefe
+nämlich ijt wejentlich der Gegenjag ber Zeit, und fo haben bie
+irgend Ginfidjtigen ihren Begriff aud) ftet8 gefaßt, was fie nur
+fonntem in Folge des Gefühls, daß bie Zeit bloß in unjerm In⸗
+teffeft, nicht im Wefen der Dinge an fid) liegt. Bloß der Un-
+veritand ber ganz Unfähigen Bat den Begriff der Ewigkeit nicht
+anders fich auszulegen gewußt, denn als eine endlofe Zeit. Dies
+eben nöthigte die Scholaftifer zu ausdrüdlichen Aussprüchen, wie:
+aeternitas non est temporis sine fine successio, sed Nunc stans;
+hatte doch (djon Platon im Timäus, und Plotinos wiederholt c6,
+Amvyog eUxOv xtvacn 6 Xpovos, gejagt. Man Könnte, in diejer
+Abfiht, bie Zeit eine auseinandergezogene Ewigkeit nennen und
+darauf die Behauptung ftügen, daß wenn es feine Cwigfeit
+gäbe, aud) bie Zeit nicht jeyn fünnte. — Seit Kant ijt, im
+jelben Sinne, der Begriff be8 außerzeitlihden Seyns in
+die Bhilofophie eingeführt worden: bod) follte man febr behut-
+jum im Gebraud) deffelben jeyn; da er zu denen gehört, die [id)
+wohl nod) benfen, jedoch durch gar feine Anfhauung belegen und
+realifiren lassen. j
+
+Daß bie Zeit überall und in allen Köpfen vollfommen gleid)-
+mäßig fortläuft, Ließe fid) jehr wohl begreifen, menn diefelbe etwas
+rein Aeußerliches, Objektives, buvd) die Sinne Wahrnehmbares
+wäre, wie die Körper. Aber das ift fie nicht: wir Tonnen fie
+nicht Sehn, nod) taften. Auch ift fie Feineswegs die bloße Be—
+wegung, oder fonjtige Veränderung, ber Körper: bieje vielmehr
+it in ber Zeit, meldje afjo von ihr jchon als Bedingung voraus-
+gejegt wird: denn bie Uhr geht zu fchnell, ober zu fangjam,
+
+
+44 Den Intelleft überhaupt
+
+
+aber nidjt mit ihr bie Zeit, fondern das Gleidjmüpige und Nor-
+male, worauf jenes — und Langsam sich bezieht, ist der
+wirkliche Lauf der Zeit. Die Uhr mißt die Zeit; aber sie macht
+sie nicht. Wenn alle Uhren stehen blieben, wenn die Sonne selbst
+stillstände, wenn alle und jede Bewegung, oder Veränderung
+stockte; so würde dies doch den Lauf der Zeit keinen Augenblick
+hemmen, sondern sie würde ihren gleichmäßigen Gang fortsetzen
+und nun, ohne von Veränderungen begleitet zu seyn, verfließen.
+Dabei ist sie dennoch, wie gesagt, nichts Wahrnehmbares, nichts
+äußerlich Gegebenes und auf uns Einwirkendes, also kein eigentlich
+Objektives. Da bleibt eben nichts übrig, als daß fie im uns
+liege, unjer eigener, ungeftört fortfchreitender, mentaler Proceß,
+oder, wie Kant e8 jagt, bie Worm des innern Sinnes und alles
+unfers Borftellens fei; mithin das unterfte Grundgeräft ber
+Schaubühne diefer objektiven Welt ausmache. Jene Sleihmäßig-
+feit ihres Laufes in allen Köpfen beweift mehr, als irgend etwas,
+daß wir Alle in denfelben Traum verfenkt find, ja, daß es Ein
+Wesen ijt, welches ihn träumt. (Wollte man, bei diefem fubjet-
+tiven Urfprung der Zeit, fid) etman gar verwundern über bie
+völlige Sleichmäßigfeit ihres Laufs in fo vielen verjchiedenen
+Köpfen; fo würde dabei ein Mißverjtändniß zum Grunde liegen:
+denn die Sleihmäßigfeit müßte hier bedeuten, daß in gleich viel
+Zeit gleid) viel Zeit verítreid)e, aljo dabei die abjurde Voraus—
+fegung einer zweiten Zeit, in ber die erfte, fdjnelf oder langsam,
+verliefe, gemacht feyn.) — Das Gleiche läßt fid) aud) am Raume
+nachweifen, fofern ich alle Welten, jo viele ihrer feyn mögen,
+hinter mir laffen, jedoch nimmermehr aus dem Raume hinaus
+gelangen fann, fondern id) diefen überall mitbringe; weil er mei-
+nem Sutelleft anhängt und zur Vorftellungsmafchine in meinem
+Hirnkaften gehört.
+
+Die Zeit nun ift diejenige Einrichtung unfers Intellefts,
+vermöge welcher das, was wir al8 das Zukünftige auffassen, jett
+gar nicht zu eriftiren scheint; melde Täuschung jedoch verfhwindet,
+wann bie Zufunft zur Gegenwart geworden ijt. In einigen
+Träumen, im bellfehenden Somnambulismus und im zweiten
+Gefiht wird jene täufchende Form einftweilen bei Seite gejchoben ;
+daher dann das Zukünftige fid) als gegenwärtig darftellt. Hieraus
+erklärt fid), daß bie Verjuche, melde man bisweilen gemacht hat,
+
+
+und in jeber Beziehung betreffende Gedanken. 45
+
+
+dad vom Seher des zweiten Gesichts Verkündigte absichtlich,
+wäre e8 aud) nur in Nebenumftänden, zu vereiteln, fehlichlagen
+mußten: denn er Bat e8 in ber, aud) damals fchon vorhandenen,
+Wirklichkeit deffelben gefehn; fo wie mir mur da8 Gegenmürtige
+wahrnehmen: e8 hat daher biejefbe Unveränderlichleit, wie das
+Bergangene. (Beifpiele von Versuchen ber bejagten Art findet
+man in Kiejer’s Archiv f. thierisch Magnetism. Bd. 8, Std. 3,
+
+Dem ent|predjenb ift die fid) uns vermittelit der fette ber
+Urfahen und Wirkungen darftellende Nothwendigfeit alles Ges
+ihehenden, b. 5. in der Zeit successiv Eintretenden, bloß die Art
+wie wir, unter der Form der Zeit, ba8 einheitlich) und unverändert
+Criftirenbe wahrnehmen; oder aud), fie ijt die Unmöglichkeit, bag
+das Sriftirende, obgíeid) e8 von uns heute als zufünftig, morgen
+a8 gegenwärtig, übermorgen als vergangen erfannt wird, nicht
+dennoch mit fid) felbit ibentijd), Eins und unveränderlich fei.
+Wie in ber Zwedmäßigfeit des Organismus fid) die Einheit des
+in ihm fid) objeftipirenben Willens darftellt, welche jebod) in
+unfrer, an den Raum gebundenen Apprehenfion als eine Vielheit
+von Theilen und deren Uebereinftimmung zum Zweck aufgefaßt wird
+(fee „über den Willen in der Natur” ©. 61. — 2. Aufl. ©. 53;
+o. Aufl. S. 57); ebenfo ftellt bie, burd) bie Kaufalfette herbeige-
+führte Nothwendigkeit alles Gefchehenden die Einheit des darin fid)
+objeftioirenben Wefens an fid) her, welche jedoch in unjrer an bie
+Zeit gebundenen Apprehenfion als eine Succeffion von Suftünben,
+afjo als Vergangenes, Gegenwärtiges und Zufünftiges aufgefaßt
+wird; während das Wefen an fid) jelbit das Alles nicht Tennt,
+jondern im. Nunc stans eriftirt.
+
+Die Trennungen mittelft des Raumes werden im fomnam-
+bulen Hellfehn sehr viel öfter, mithin leichter, aufgehoben, als
+die mittelft der Zeit; indem das bloß Abwefende und Entfernte
+viel üfter zur Anschauung gebradjt wird, aí8 das wirklich nod)
+Jufün[tige. In Kant's Sprade wäre Dies daraus erflärlich,
+(eB der Raum bloß die Form des äußern, die Zeit bie des
+innen Sinnes ift. — Daß Zeit und Raum ihrer Form nad
+à priori angefhaut werden, hat Kant gelehrt; bag es aber
+tuf ihrem Inhalt nah gefchehn Tann, lehrt der hellsehende
+Somnambulismus.
+
+
+46 Den Intelleft überhaupt
+
+
+Der einfeudytenbejte und zugleich einfachite Beweis der bea:
+lität des Raumes ift, bag wir den Raum nicht, wie alles
+Andere, in Gedanken aufheben fünnen. Bloß ausleeren Tónneu
+wir ihn: Alles, Alles, Alles können wir aus dem Raume weg
+denfen, e8 verschwinden laffen, Tünnen uns aud) fehr wohl vor:
+(teffen, der Raum zwifchen den Firiternen jet abfolut leer, und
+dgl. m. Nur den Raum felbft fónnen wir auf feine Weife
+[o8 werden: was wir auch thun, wohin wir uns aud) ftellen
+mögen: er ift da und hat nirgends ein Ende: denn er Liegt allem
+unferm Porftellen zum Grunde und ijt die erfte Bedingung
+deffelben. Dies beweift ganz fiher, bag er unferm Intellelt
+felbjt angehört, ein integrirender Theil befjelben ift und zwar
+der, welcher den erjten Grunbfaben zum Gewebe defielben, auf
+welches banad) bie bunte Dbjekten-Welt aufgetragen wird, Liefert.
+Denn er ftellt fid) dar, (obalb ein Objekt vorgeftellt werden fol,
+und begleitet nachher alle Bewegungen, Wendungen und Verfude
+des anjdauenben Intellekts [o beharrlich, wie die Brille, melde
+ih auf der Nafe habe, alle Wendungen und Bewegungen meiner
+Perfon, oder mie ber Schatten feinen Körper begleitet. Bemerke
+ich, daß etwas überall und unter allen Umständen bei mir ijt, fo
+Ichließe ich, bag e8 mir anhängt: jo 3. 29. wenn ein befonderer
+Geruch, dem id) entgehn möchte, jid) vorfindet, wohin id) aud)
+fomme. Nicht anders ift c8 mit bem Raume: was id) aud) ben:
+fen, welde Welt id) mir aud) vorftellen möge; der Raum iit
+ftets zuerft da und will nicht weichen. Ist num derfelbe, wie
+hieraus offenbar hervorgeht, eine Funktion, ja eine Grunbfunttion
+meines Intellekts felbjt; fo erstreckt fid) die hieraus folgende
+Idealität auch auf alles Räumliche, b. b. alles darin fid Dar-
+jtellende: diefes mag immerhin audj am fid) felbjt ein objeftives
+Dafeyn Haben; aber fofern e8 räumlich ijt, aljo fofern e8 Ge:
+stalt, Größe und Bewegung hat, ijt es subjektiv beftimmt. Auch
+die fo genauen und richtig zutreffenden ajtronomijden Berechnungen
+find nur baburdj möglih, daß der Raum eigentlid in unjerm
+8opf tft. Folglich erkennen wir die Dinge nicht, wie fie an fid)
+find, fondern nur wie fie erfcheinen. ‘Dies ijt des großen &ant'e
+große Lehre.
+
+
+und in jeder Beziehung betreffende Gedanken. 47
+
+
+Daß ber unendlide Raum unabhängig von uns, aljo abe
+jolnt objektiv und an fid) felbit vorhanden wäre und ein bloßes
+Abbild deffelben, als eines Unendlichen, dur die Augen in
+unfern Kopf gelangte, ift der abfurdefte aller Gedanken, aber in
+einem gewissen Sinne ber fruchtbarfte; weil, wer ber Abfurbität
+deffelben deutlich inne wird, eben damit das bloße Erfcheinungs-
+dafeyn diefer Welt unmittelbar erkennt, indem er fie als ein
+bloßes Gehirnphänomen auffaßt, welches, als folches, mit bent
+Tode des Gehirns verschwindet, um eine ganz andere, bie Welt
+der Dinge an fih, übrig zu laffen. Daß der Kopf im Naume
+jet hält ihn nicht ab, einzufehn, bag der Raum bod nur im
+Sopfe ift*).
+
+
+Was für die äußere Körperwelt das Licht, das ift für bie
+innere Welt des Bewußtseyns der Intellekt. Denn diefer ver-
+hält fij zum Willen, alfo aud) zum Organismus, ber ja bloß
+der objektiv angeichaute Wille ift, ungefähr fo, wie das Licht
+zum brennbaren Körper und dem Orbgen, bei deren Vereinigung
+t$ ausbricht. Und wie diefes um fo reiner ijt, je weniger es
+ih mit dem Rauche des brennenden Körpers vermifcht; jo aud)
+(t der Intellekt um fo reiner, je vollfommener er vom Willen,
+dem er entjprofjen, gejonbert ift. Im füfnerer Metapher (iege
+fib fogar jagen: das Leben ijt befanntlih ein Verbrennungs-
+proceß: bie bei demselben Statt findende Lichtentwidelung ift ber
+Intellekt.
+
+
+Daß unfere Erfenntnig, mie unjer Auge, nur nad) außen
+fibt unb nicht nach innen, fo daß, wenn das Erfennende ver-
+ut, fid) nad) innen zu richten, um fid felbft zu erkennen, e$
+in ein völlig Dunfeles blickt, in eine gänzliche Leere geräth, —
+Dies beruht auf folgenden zwei Gründen:
+
+
+*) Wenn ich fage „in einer andern Welt‘, fo ift e8 großer Unverftand,
+m fragen: „mo ift benn bie andere Welt?" Denn ber Raum, ber allem
+Bo eft einen Sinn ertbeilt, gehört eben mit zu biejer Welt: außerhalb
+verjelben giebt e8 fein Wo. — Friebe, Ruhe und Sludsaligkeit wohnt allein
+mo es fein Wo und feit Wann giebt.
+
+
+48 Den Intelleft überhaupt
+
+
+1) Das Subjelt des Erfennens ijt nidte Selbftitän-
+diges, fein Ding an fid), Bat fein unabhängiges, urfprüngliches,
+jubftanzielles Dafeyn; jonbern es ift eine bloße Erscheinung, ein
+Sekundäres, ein Accidenz, zunächft burd) den Organismus be-
+bingt, ber bie Erscheinung des Willens ijt: es ijt, mit Einem
+Wort, nichts Anderes, als der Fokus, in welchen jümmttide (e:
+birnfräfte zufammenlaufen; wie id) Diefes im zweiten Bande
+meines Hauptwerks, Kap. 22, ©. 277 (3. Aufl. 314) ausgeführt
+habe. Wie follte mum diefes Subjekt des Erfennens fid) felbft
+erfennen, da es an fid) selbst nichts ijt? Nichtet es fid) nad)
+innen; fo erfennt e8 zwar den Willen, welder bie Bafis feines
+MWefens ift: Dies ift aber für ba8 erfennende Subjeft bod
+feine eigentliche Selbfterfenntniß, fondern Erkenntniß eines Andern,
+von ihm felbjt nod) DVerfchiedenen, welches nun aber, schon ale
+Erkanntes, fogfeid) nur Erfcheinung ijt, jedoch eine folche, bie bloß
+die Zeit zur Form hat, nicht, mie die Dinge der Außenwelt, dazu
+nod) den Raum. Davon aber abgefehn, erkennt das Subjelt ben
+Willen eben aud) nur wie bie Außendinge, an feinen Aeußerungen,
+alfo an den einzelnen Willensaften und fonftigen Affeltionen, bie
+man unter dem Namen ber Wünfche, Affelte, Leidenfchaften und
+Gefühle begreift, folglich erkennt es ihn immer nod) als Erfchei-
+nung, menngíeid) nicht unter der Beschränkung des Raumes, wie
+bie Außendinge. Sic) fefbjt aber kann das erfennende Subjeft
+aus obigem Grunde nicht erkennen; weil nämlich an ihm nichts
+zu erfennen ift, als eben nur, daß e8 das Grfennenbe fei, eben
+darum aber nie das Erkanute. G8 ift eine Erfcheinung, die feine
+andere Aeußerung Bat, a(8 das Erkennen: folglich fant Feine an-
+bere an ihm erfannt. werden.
+
+2) Der Wille in uns ijt allerdings Ding an fi, für fid)
+beftehend, ein Primäres, Selbftjtändiges, Dasjenige, dessen Er-
+Scheinung fid in der räumlich anjdauenben Gehirnapprehenfion
+als Organismus barftelft. Dennoch ijt aud) er feiner Selbft-
+erfenntniß fähig; weil er an und für fid) ein bloß Wollendes, Fein
+Erkennendes, ift: denn er, als fofdjer, erkennt gar nichts, folg-
+[id) aud) nicht fid) felbft. Das Erkennen ift eine [efunbüre und
+vermittelte Funktion, bie ihm, dem Primären, in feiner eigenen
+Wesenheit, nicht unmittelba

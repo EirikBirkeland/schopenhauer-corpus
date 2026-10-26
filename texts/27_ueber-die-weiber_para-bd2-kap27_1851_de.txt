@@ -1,0 +1,368 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with OCR errors
+# title: Ueber die Weiber (in: Parerga und Paralipomena, Zweiter Band, Kapitel XXVII, §§ 362-371)
+# title_en: On Women
+# year: 1851
+# edition: first edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 495-501. The text layer is the Google scan held by Internet Archive (bub_gb_WuUOAAAAIAAJ); that record writes the publisher as "Berlin: A.W. Hahn", which is Hayn mis-transcribed - the imprint transcribed from the same print elsewhere reads A. W. Hayn; both are recorded, neither is guessed.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: FOUND AND ADDED IN PASS 3. Google's OCR of this copy keeps the long s; this file normalises it to s so that modern search works, and says so. Letter-level errors remain, and they follow a pattern worth knowing before you search this file: the OCR prints f where the print has the long s, so "sie" stands as "fie", "so" as "fo", "ist" as "ift", "sei" as "fei", "sich" as "fih", "schließt" as "anfchließt"; it also drops or missets letters ("Befler" for "Besser", "nad" for "nach", "gänzlider" for "gänzlicher", "alöbald" for "alsbald", "Ienfen" for "lenken"). So a quotation must be read against the scan before it is repeated, and a search must try both shapes. Printed pages survive in the running heads: §§ 365-366 on S. 496, §§ 367-369 on S. 498, §§ 370-371 on S. 500. The chapter stops where "Kapitel XXVIII. Ueber Erziehung" begins, which is where this file stops.
+
+[Note of this collection, not part of the print: the chapter heading stands in the scan as "Kapitel XXVH. Leber die Weiber.", which is the OCR of "Kapitel XXVII. Ueber die Weiber."; §§ 362-371 follow, and the chapter ends where "Kapitel XXVIII. Ueber Erziehung" begins.]
+
+Kapitel XXVH.
+Leber die Weiber.
+
+
+$. 362.
+
+Befler, ald Schiller's mohlüberlegtes, mittelft der Antithefe
+und des Kontraftes mwirfendes Gedicht, „Würde der Frauen‘,
+fprechen, meiner Meinung nach, diefe wenigen Worte Jouy's
+das wahre Lob der Weiber aus: sans les femmes, le com-
+mencement de notre vie seroit prive de secours, le milieu
+de plaisirs, et la fin de consolation.
+
+$. 363.
+
+Schon der Anbli der weiblichen Geftalt ehrt, daß das
+Weib weder zu großen geiftigen, noch körperlichen Arbeiten be-
+stimmt if. Es trägt die Schuld des Lebens nicht durch Thun,
+fondern durd) Leiden ab, durch die Wehen ber Geburt, die Sorg-
+falt für das Kind, die Unterwürfigfeit unter den Mann, dem
+es eine gebuldige und aufbeiternde Gefährtin feyn fol. Die
+beftigften Leiden, Freuden und Kraftäußerungen find ihm nicht
+beschieden; fondern fein Leben fol ftiller, unbedeutfamer und ges
+linder bahinfliegen, ald das des Mannes, ohne mwefentlich glüd-
+licher, oder unglüdlicher zu feyn.
+
+$. 364.
+
+Zu Pflegerinnen und Erzieherinnen unferer erften Kindheit
+eignen die Weiber sich gerade dadurch, daß fie selbst Findifch,
+läppisch und Eurzfichtig, mit Einem Worte, Zeit Lebens große
+Kinder find: eine Art Mittelftufe, zwifchen dem Kinde und dem
+Manne, als welcher der eigentlihe Mensch if. Man betrachte
+nur ein Mädchen, wie fie, Tage lang, mit einem Kinde tändelt,
+herumtanzt und fingt, und denke fih, was ein Mann, beim be-
+ften Willen, an ihrer Stelle leiften könnte.
+
+
+- 496 Ueber die Weiber.
+
+
+$. 365.
+
+Mit den Mädchen hat e8 die Natur auf Das, was man,
+im dramaturgifchen Sinne, einen Knalleffeft nennt, abgefehn, in-
+dem fie diefelben, auf wenige Jahre, mit überreihlicher Schön-
+beit, Reiz und Fülle ausftattete, auf Koften ihrer ganzen übrigen
+Lebenszeit, damit fie nämlich, während jener Jahre, der Phan-
+tafie eines Mannes fid in dem Maaße bemächtigen fünnten, daß
+er hingeriffen wird, die Sorge für fie auf Zeit Lebens, in irgend
+einer Form, ehrlich zu übernehmen; zu welchem Schritte ihn zu
+vermögen, die bloße vernünftige Leberlegung feine hinlänglich
+fihere Bürgfchaft zu geben schien. Sonad hat die Natur das
+Meib, eben mie jedes andere ihrer Gefchöpfe, mit den Waffen
+und Werkzeugen ausgerüftet, deren es zur Sicherung feines Da-
+seyns bedarf, und auf die Zeit, da es ihrer bedarf; wobei fie
+denn auch mit ihrer gewöhnlichen Sparjamfeit verfahren ift.
+Wie nämlich die weibliche Ameife, nad) der Begattung, die fortan
+überflüffigen, ja, für das Brutverhältnig gefährlichen Flügel ver-
+fiert; fo meiftens, nad) einem oder zwei Kinbbetten, das Weib
+feine Schönheit; wahrfcheinlich fogar aus dem felben Grunde.
+
+Dem entipredhend halten die jungen Mädchen ihre häußli-
+en, oder gewerblichen Geschäfte, in ihrem Herzen, für Neben-
+fahe, wohl gar für bloßen Spaaß: als ihren allein ernftlichen
+Beruf betrachten fie die Liebe, die Eroberungen und was damit
+in Verbindung fteht, wie Toilette, Tanz u. f. w.
+
+$. 366.
+
+Se edeler und vollfommener eine Sache ift, desto fpäter und
+langfamer gelangt fie zur Reife. Der Mann erlangt die Reife
+feiner Vernunft und Geiftesfräfte Faum vor dem acht und zwan—
+zigften Jahre; das Weib mit dem achtzehnten. Aber es ift au
+eine Bernunft danach: eine gar knapp gemeflene. Daher blei-
+ben die Weiber ihr Leben Yang Kinder, fehn immer nur das
+Nächfte, Heben an der Gegenwart, nehmen den Schein der Dinge
+für die Sache und ziehn Kleinigkeiten den wichtigften Angelegen-
+heiten vor. Die Bernunft nämlich ift es, vermöge deren ber
+Mensch nicht, wie das Thier, bloß in ber Gegenwart lebt, fon-
+dern Bergangenheit und Zukunft überfieht und bedenkt; woraus
+dann feine Borficht, feine Sorge und häufige Beflommenpheit ent-
+Ipringt. Der Bortheile, wie ber Nachtheile, die Dies bringt,
+
+
+Ueber die Weiber. 497
+
+
+ift das Weib, in Folge feiner schwächern Bernunft, weniger theil-
+haft: vielmehr ift dasselbe ein geiftiger Myops, indem fein in-
+tuitiver VBerftand in der Nähe fcharf fieht, Hingegen einen engen
+Gefichtöfreis hat, in welchen das Entfernte nicht fällt; daher
+eben alles Abwefende, Vergangene, Künftige, viel schwächer auf
+die Weiber wirft, ald auf und. Co viele Nachiheile nun auch
+Dies mit fih führt, fo hat es doc das Gute, daß das Weib
+mehr in der Gegenwart aufgeht, ald wir, und daher biefe, wenn
+fie nur erträglich ift, befler genießt, woraus die dem Weibe
+eigenthümliche Heiterfeit hervorgeht, welche fie zur Erholung bes
+forgenbelafteten Mannes eignet.
+
+Aus der felben Duelle ift es abzuleiten, daß die Weiber
+mehr Mitleid und daher mehr Menfchenliebe und Theilnahme an
+Ungfüdfichen zeigen, ale die Männer; hingegen im Punkte der
+Gerechtigkeit, Redlichfeit und Gewifienhaftigfeit, diesen nachstehn.
+Denn in Folge ihrer schwachen Vernunft übt das Gegenmwärtige,
+Anschauliche, unmittelbar Reale eine Gewalt über fie aus, gegen
+welche die abfiraften Gedanken, die ftehenden Marimen, die feft-
+gefaßten Entiehlüffe, überhaupt die Rüdfiht auf Vergangenheit
+und Zufunft, auf Abwesendes und Entferntes, felten viel ver-
+mögen. Demnach haben fie zur Tugend wohl das Erfte und
+Hauptfächliche, hingegen gebricht es bei ihnen am Sefundären,
+am oft nothiwendigen Werkzeug zu berfelben. Man könnte fie,
+in diefer Hinfiht, einem Organismus vergleichen, der zwar bie
+Leber, aber nicht die Gallenblafe hätte. Sch verweife hierüber
+auf $. 17 meiner Abhandlung über das Fundament der Moral.
+— Demgemäß wird man ald den Grundfehler des weiblichen
+Charakters Ungerehtigfeit finden. Er entfteht zunächst aus
+dem dargelegten Mangel an Bernünftigfeit und Ueberlegung,
+wird zudem aber noch dadurch unterftüßt, daß fie, als die schwä—
+cheren, von der Natur nicht auf die Kraft, fondern auf bie Lift
+angemwiejen find: daher ihre inftinktartige Verfchlagenheit und ihr
+unvertilgbarer Hang zum Lügen. Denn, wie den Löwen mit
+Klauen und Gebiß, den Elephanten mit Stoßzähnen, den Eber
+mit Hauern, den Stier mit Hörnern und die Sepia mit ber
+waffertrübenden Tinte, fo hat die Natur das Weib mit Verstel⸗
+lungskunst ausgerüftet, zu feinem Schu und Wehr, und hat alle
+bie Kraft, die fie dem Manne als Förperliche Stärfe und Vers
+
+u. 32
+
+
+498 Ueber die Weiber.
+
+
+nunft verlieh, dem Weibe in Geftalt jener Gabe zugewenbet.
+Die Berftellung ift ihm daher angeboren, deshalb auch fat fo
+fehr dem dummen, wie dem klugen Weibe eigen. Bon berjelben
+bei jeder Gelegenheit Gebrauch zu machen ift ihm daher fo na-
+türlih, wie jenen Thieren, beim Angriff, jogleich ihre Waffen
+anzuwenden. Darum ift ein ganz wahrhaftes, unverftelited Weib
+vielleicht unmöglich. Eben deshalb durchschauen fie fremde Ber-
+ftellung fo leicht, daß es nicht rathsam ift, ihnem gegenüber, es
+damit zu verfuchen. — Aus dem aufgeftellten Grundfehler und
+feinen Beigaben entipringt aber Falfchheit, Trenlofigfeit, Berrath,
+Undanf u. f. w.
+$. 367.
+
+Für die Propagation des Menschengeschlechts zu forgen, find
+von Natur die jungen, ftarfen und schönen Männer berufen; da—⸗
+mit das Gefchlecht nicht ausarte. Dies ift hierin der feste Wille
+der Natur, und deflen Ausdrud find die Leidenfchaften der Wei-
+ber. jenes Gefeß geht, an Alter und Kraft, jedem andern vor.
+Daher Wehe Dem, der feine Rechte und Interessen fo ftellt, daß
+fie demfelben im Wege flehn: fie werben, was er auch fage und
+thue, beim erften bedeutenden Anlaß, unbarmherzig zermalmt wer-
+den. Denn bie geheime, unausgefprochene, ja, unbewußte, aber
+angeborene Moral der Weiber ift: „wir find berechtigt, Die zu
+bintergebn, welche dadurch, daß fie für ung, das Individuum,
+spärlich forgen, ein Recht über die Species erlangt zu baben
+vermeinen. Die Beihaffenheit und folglich das Wohl der Spe-
+eied, ift, mittelft der nächften, von ung ausgehenden Generation,
+in unfere Hände gelegt und unfrer Sorgfalt anvertraut: mir
+wollen es gemiffenhaft verwalten.” Aber feineswegs find bie
+Weiber fich dieses oberften Grundfages in abstraeto, fondern
+bloß in concreto bewußt, und haben für denselben feinen an-
+dern Ausdruck, ald, wenn bie Gelegenheit fommt, ihre Hanbd-
+lungsweise; bei welcher das Gemwiflen ihnen meiftens mehr Ruhe
+läßt, ald wir vermuthen, indem fie, im dunfelften Grunde ihres
+Herzens, fih bewußt find, in der Berlegung ihrer Pflicht gegen
+das Individuum die gegen die Speried um fo befler erfüllt zu
+haben, deren Recht unendlich größer if. — Die nähere Erläu—
+terung biejed Sachverhältnifles Tiefert das 44. Rap. des 2. Ban-
+bes meines Hauptwerfs.
+
+
+— *
+
+
+Ueber die Weiber. 499
+
+
+$. 368.
+
+Zwischen Männern ift von Natur bloß Gleichgüftigfeit ; aber
+zwischen Weibern ift schon von Natur Feindfchaft. Es kommt
+wohl daher, daß das odium figulinum, welches bei Männern
+fi) auf ihre jedesmalige Gilde beschränkt, bei Weibern das ganze
+Geschlecht umfaßt; da fie Alle nur Ein Gewerbe haben. Schon
+beim Begegnen auf der Straße fehn fie einander an, wie Guel-
+fen und Ghibellinen. Auch treten zwei Weiber, bei erfter Be-
+fanntfchaft, einander fichtbarlich mit mehr Gezwungenheit und
+Berftellung entgegen, ald zwei Männer in gleihem Fall. Da-
+ber fommt auch das Komplimentiren zwifchen zwei Weibern viel
+lächerlicher heraus, als zwischen Männern. Ferner, während ber
+Mann, felbft zu dem tief unter ihm Stehenden, doch, in ber
+Regel, immer noch mit einer gewissen Nüdficht und Humanität
+redet, ift ed unleidlich anzufehn, wie stolz und schnöde meiften-
+theild ein vornehmes Weib sich gegen ein nieberes (nicht in
+ihrem Dienfte ftehendes) gebärdet, wann fie mit ihr spricht. Es
+mag daher fommen, daß bei Weibern aller Unterschied des Ran-
+ges viel prefärer ift, als bei ung, und viel fchneller fid ändern
+und aufheben kann; weil, während bei und hundert Dinge auf
+die Waagschale fommen, bei ihnen nur Eines entfcheidet, näm-
+lich welchem Manne fie gefallen haben; wie auch daher, daß fie,
+wegen der Einfeitigfeit ihres Berufs, einander viel näher ftehn,
+als die Männer, weshalb fie die Standesunterfchiebe hervorzu⸗
+heben fuchen.
+
+$. 369.
+
+
+Mit mehr Fug, als das schöne, fünnte man das weibliche
+Gefchlecht das unäfthetifche nennen. Weder für Mufif, noch
+Poesie, noch bildende Künfte haben fie wirklich und wahrhaftig
+Sinn und Empfänglichfeit; jondern bloße Aefferei, zum Behuf
+ihrer Gefallfucht, ift es, wenn fie folche affeftiren und vorgeben.
+Schon Rouffeau hat es gefagt: les femmes, en general,
+n’aiment aucun art, ne se Connoissent A aucun, et n’ont
+aucun genie (lettre & d’Alembert, note x x). Auch wird
+Jeder, der über den Schein hinaus ift, es fchon bemerft haben.
+Man darf nur die Richtung und Art ihrer Aufmerffamfeit im
+Koncert, Oper und Schaufpiel beobachten, 3. DB. die kindliche
+Unbefangenheit fehn, mit der fie, unter den fchönften Stellen der
+
+32°
+
+
+500 Ueber die Weiber.
+
+
+größten Meifterwerfe, ihr Geplapper fortfegen. Wenn wirflic
+die Griechen die Weiber nicht ind Schaufpiel gelaflen haben;
+fo thaten fie demnach recht daran; wenigftend wird man in
+ihren Theatern doch etwas haben hören fünnen. — Man fann
+von den Weibern aud) nichts Anderes erwarten, wenn man er=
+wägt, daß die eminenteften Köpfe des ganzen Geschlechts eö nie
+zu einer einzigen wirklich großen, ächten und originellen Leiftung
+in den schönen Künften haben bringen, überhaupt nie irgend ein
+Werf von bleibendem Werth haben in bie Welt setzen können:
+Diefem entfpricht es eben, daß die gewöhnlichen nicht ein Mal
+eigentliche Empfänglichfeit dafür haben: denn natura non facit
+saltus. Einzelne und theilweife Ausnahmen ändern die Sache
+nicht, fondern die Weiber find und bleiben, im Ganzen genomz
+men, die gründlichften und unbeilbarften Philifter: deshalb find
+fie, bei der höchst absurden Einrichtung, daß fie Stand und Tis
+tel des Mannes theilen, die beftändigen Anfporner feines uneds
+len Ehrgeizes; und ferner ift, wegen der felben Eigenschaft, ihr
+Vorherrschen und Tonangeben der Verderb der modernen Gefell-
+schaft. Chamfort fagt fehr richtig: elles sont faites pour
+commercer avec nos faiblesses, avec notre folie, mais non
+avec notre raison. Il existe entre elles et les hommes des
+sympathies d’epiderme, et tres-peu de sympathies d’esprit,
+d’äme et de caractere. So haben eben auch die Alten und
+bie orientalifchen Bölfer die Weiber angefehn und danach die ihnen
+angemeffene Stellung viel richtiger erfannt, als wir, mit unfrer
+altfranzöfiihen Galanterie und abgefhmadten Weiberveneration,
+dieser höchsten Blüthe riftlich-germanifcher Dummheit, welche
+nur gedient hat, fie fo arrogant und rüdfichtslog zu machen, daß
+man bisweilen an die heiligen Affen in Benares erinnert wird,
+welche, im Bewußtseyn ihrer Heiligfeit und Unverletzlichkeit, sich
+Alles und Jedes erlaubt Halten.
+$. 370.
+
+In unferm monogamischen Welttheile heißt heirathen feine
+Rechte halbiren und feine Pflichten verdoppeln. Jedoch als bie
+Gesetze den Weibern gleiche Rechte mit den Männern einräum-
+ten, hätten fie ihnen auch eine männliche Vernunft verleihen
+follen. Ze mehr hingegen die Rechte und Ehren, welche die Ge-
+fege dem Weibe zuerfennen, das natürliche Verhältniß desselben
+
+
+Ueber die Weiber, 501
+
+
+überfteigen, desto mehr verringern fie die Zahl der Weiber, bie
+wirklich diefer Bergünftigungen theilhaft werden, und nehmen
+allen übrigen jo viel von den naturgemäßen Rechten, als fie
+jenen darüber gegeben haben. Denn bei der widernatürlich vor:
+theilhaften Stellung, welde die monogamifche Einrichtung und
+die ihr.beigegebenen Ehegefege dem Weibe ertheilen, tragen. fluge
+und vorfichtige Männer fehr oft Bebenfen, ein fo großes Opfer
+zu bringen und auf ein fo.ungleiches Paftum einzugehn. Wäh—
+rend daher bei den polygamifchen Völkern jedes Weib. Verfor-
+gung findet, ift bei den monogamifchen die Zahl der verehelichten
+Frauen befhränft und bleibt eine Unzahl flügelofer Weiber
+übrig, die in den höhern Klafien als unnüge, alte Zungfern
+vegetiren, in den untern aber unangemefjen fchwerer Arbeit ob»
+liegen, oder auch Freudenmäbchen werden, die ein fo freuben-,
+wie ehriofes Leben führen, unter solchen Umständen aber zur
+Befriedigung des männlichen Geschlechtes nothiwendig werben, ba-
+her als ein öffentlich anerfannter Stand auftreten, mit dem fpe-
+ciellen Zwed, jene vom Schicksal begünftigten Weiber, welche
+Männer gefunden haben, oder foldhe hoffen dürfen, vor Verfüh—⸗
+rung zu bewahren. Zubem aber hat die Eriheilung unnatürli-
+her Rechte dem Weibe unnatürlihe Pflichten aufgelegt, deren
+Berlegung fie jedoch unglücklich macht. Manchem Manne näm-
+lich machen Standbed- oder Vermögensrüdfichten die Ehe, wenn
+nicht etwan glänzende Bedingungen fih daran Fnüpfen, unräth-
+lid. Er wird alsdann wünfchen, fih ein Weib, nad feiner
+Wahl, unter andern, ihr und der Kinder Loos sicher ftellenden
+Bedingungen zu erwerben. Seien nun diefe auch noch fo billig,
+gernünftig und der Sadje angemefien, und fie giebt nad, indem
+fie nicht. auf den unverhältnigmäßigen Rechten, melde allein bie
+Ehe gewährt, befteht; fo wird fie, weil die Ehe die Bafis ber
+bürgerlichen Gefellihaft ift, daburc in gewissem Grabe ehrlos.
+und hat ein trauriges Leben zu führen; weil ein Mal die mensch⸗
+liche Natur ed mit fi) bringt, dag wir auf die Meinung Anderer
+einen ihr völlig unangemeflenen Werth legen. Giebt fie hingegen
+nicht nah; fo Läuft fie Gefahr, entweder einem ihr widerwärtt-
+gen Manne ehelich angehören zu müflen, oder als alte Jungfer
+zu vertrocknen: denn die Frift ihrer Unterbringbarfeit ift jehr
+furz. In Hinficht auf diefe Seite unfrer monogamischen Eins
+
+
+502 Ueber die Meiber.
+
+
+rihtung ift des Thomasius grundgelehrte Abhandlung de con-
+eubinatu höchst Tefenswerth, indem man daraus erfieht, daß,
+unter allen gebildeten Völkern und zu allen Zeiten, bis auf die
+Lutherische Reformation herab, das Konfubinat eine erlaubte, ja,
+in gewiffem Grabe fogar gefeglih anerkannte und von Feiner
+Unehre begleitete Einrichtung gewesen ift, welche von biefer
+Stufe bloß durch die Lutherifhe Reformation herabgeftoßen
+wurde, als welde hierin ein Mittel mehr zur Rechtfertigung
+der Ehe der Geiftlichen erfannte; worauf denn die Fatholifche
+Seite auch darin nicht hat zurüdbleiben dürfen.
+§. 371.
+
+In Hindoftan ift fein Weib jemals unabhängig, sondern
+jedes fteht unter der Aufficht des Vaters, oder des Gatten, ober
+des Bruders, oder des Sohnes. Daß Wittwen fi mit ber
+Leiche des Gatten verbrennen ift freilich empörend; aber daß fie
+das Bermögen, welches der Gatte, fi) getröftend, daß er für
+feine Kinder arbeite, durch den anhaltenden Fleiß feines ganzen
+Lebens erworben hat, nachher mit ihren Buhlen durchbringen ift
+auch empörend. Mediam tenuere beati. — Wenigftens follten
+Weiber niemals über ererbtes, eigentliches Vermögen, also Ka—
+pitalien, Häufer und Landgüter, freie Dispofition haben. —
+Ariftoteles fest, in der Politik, B. IT. c. 9, aus einander,
+welche große Nachtheile ben Spartanern daraus erwachfen find,
+daß bei ihnen den Weibern zu viel eingeräumt war, indem fie
+Erbihaft, Mitgift und große Ungebundenheit hatten, und wie
+diefed zum Berfall Sparta’s viel beigetragen hat. — Sollte
+nicht in Frankreich der feit Ludwig XIII. immer wachsende Ein-
+flug der Weiber Schuld feyn am allmäligen Verderben des Hofes
+und ber Regierung, welches bie erste Revolution herbeiführte,
+deren Folge alle nachherigen Ummälzungen gewesen find?
+
+Daß das Weib, feiner Natur nad, zum gehorchen beftimmt
+fei, giebt fih daran zu erkennen, daß eine Jede, welche in die
+ihr naturwidrige Lage gänzlider Unabhängigkeit verfegt wird,
+‚alöbald fi irgend einem Manne anfchließt, von dem fie fi
+Ienfen und beherrschen läßt; weil fie eines Herrn bedarf. Ist
+fie jung, fo ift es ein Liebhaber; ist fie alt, ein Beichtvater.

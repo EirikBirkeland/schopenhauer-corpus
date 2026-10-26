@@ -1,0 +1,1643 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Zur Ethik (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On ethics - the English title is this collection's rendering, and where a printed English title exists the note says so
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 170-203. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27, 30 and 31. The chapter's own display heading stands in this copy as "Kapitel VI. Zur Ethik. $. 108. Phyſikaliſche Wahrheiten k"; the Roman numeral in such a heading is the OCR's and may be misset, so cite the chapter by its words and its pages, not by its number.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 8, one of six chapters cut from the same volume while its map was fresh; see P-06 for the volume's chapter map and GAP-4 for what is still missing. Saunders's English of these ethical chapters is in the collection as file 18 ("On human nature", 1897); the pairing of the two was NOT checked this pass, so no claim is made about it. OCR warning as in files 27, 30 and 31: this scan prints f for the long s, so search both shapes (bin/schop-grep.js -f does it) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition - the copy that also yielded files 27, 30 and 31. It prints f for the long s, sometimes b for d and x for x, and it mangles a heading or a page's first line now and then; the long s has been normalised to s (479 here). The chapter was cut between its own display heading and the next one, so the seam is the print's. Paragraph numbers stand as printed - the paragraph marks that stand at line beginnings here read § 108 to § 185, which is a guide and not a table: this OCR lifts a cross-reference to a line beginning now and then, so a paragraph number quoted from here should be seen on the scan. Page markers come only from running heads that name this chapter and whose page lies in the range the volume's heads prove (12 made, S. 170 to S. 198); where a head was garbled nothing was invented, and the chapter's page range by the table of contents is S. 170-203.]
+
+Kapitel VI.
+Zur Ethik.
+
+
+$. 108.
+
+
+Physikalische Wahrheiten können viel äußere Bedeutfamfeit
+haben; aber die innere fehlt ihnen. Diefe it das Vorrecht ber
+intelleftuellen und moralifhen Wahrheiten, als welche bie höch—
+fien Stufen der Objeftivation des Willens zum Thema haben;
+während jene die niebrigften. 3. B. wenn wir Gewißheit dar⸗
+über erlangten, daß, wie man jest nur muthmaaßt, die Sonne
+am Aequator Thermoeleftricität, diefe den Magnetismus der Erbe
+und dieser das Polarlicht verursacht; fo wären biefe Wahrheiten
+son vieler äußeren Bebeutfamfeit; an innerer aber arm. Beis
+fpiele von biefer Iegteren hingegen liefern nicht nur alle hohen
+und wahren geiftigen Philofopheme, jonbern auch bie Katastrophe
+jedes guten Trauerspiels.
+
+
+$. 109.
+
+
+Daß die Welt bloß eine phyfiiche, Feine moralifche, Bedeu⸗
+tung babe, ift der größte, der verderblichste, der fundamentale
+Irrthum, die eigentlihe Perverfität der Gefinnung, und ift
+wohl im Grunde auch Das, was der Glaube ald den Antichrift
+perfonifieirt hat. Dennoch und allen Religionen zum Trog, als
+welche fämmtlih das Gegentheil davon behaupten und folches
+in ihrer mythifchen Weife zu begründen fuchen, ftirbt jener Grunp-
+irrthum nie ganz auf Erden aus, fondern erhebt immer, von
+Zeit zu Zeit, fein Haupt von Neuem, bis ihn die allgemeine
+Indignation abermals zwingt, fich zu verstecken.
+
+Sp fiber aber auch das Gefühl einer moralifchen Bedeu-
+tung der Welt und bed Lebens ift; fo ift dennoch die Verdeut⸗
+lichung derselben und die Enträtbfelung bes Widerspruchs zwi⸗
+
+
+Zur Ethit. 169
+
+
+Ihen ihr und bem Laufe der Welt fo schwierig, dag ed mir auf-
+behalten bleiben fonnte, das wahre, allein ächte und reine, ba-
+her überall und allezeit wirksame Fundament der Moralität,
+nebft dem Ziele, welchem es zuführt, darzulegen; wobei ich zu
+jehr die Wirklichfeit des moralifchen Hergangs auf meiner Seite
+babe, als daß ich zu beforgen hätte, diefe Lehre könne jemals
+noch wieder durch eine andere erfegt unb verdrängt werben.
+
+Sp lange jedoch felbft meine Ethif noch von ben Profeflo-
+ven unbeachtet bleibt, gilt auf den Univerfitäten das Kantifche
+Moralprineip, und unter feinen verfchiebenen Formen ift die der
+„Würde bed Menschen“ jegt am beliebteften. Die Leerheit der⸗
+jelben habe ich bereits in meiner Abhandlung über das Funda-
+ment ber Moral $. 8. S. 169. dargethan. Daher hier nur foviel.
+Wenn man überhaupt früge, worauf denn diefe angebliche Würbe
+des Menschen beruhe; fo würde die Antwort bald dahin gehn,
+daß ed auf feiner Moralität fei. Alfo die Moralität auf der
+Würde, und die Würde auf der Moralität. — Aber hievon au
+abgefehn, scheint mir der Begriff der Würde auf ein am Willen
+jo fündfiches, am Geifte fo befchränftes, am Körper fo verleg-
+bares und Hinfälliges Wesen, wie der Menich ift, nur ironifch
+anwendbar zu feyn:
+
+
+Quid superbit homo? cujus conceptio culpa,
+Nasci poena, labor vita, necesse mori!
+
+
+Daher möchte ich, im Gegenfas zu befagter Form des Rantifchen
+Moralprincipg, folgende Regel aufftellen: bei jedem Menfchen,
+mit dem man in Berührung kommt, unternehme man nicht eine
+objektive Abfchägung desselben nah Werth und Würde, ziehe
+also nicht die Schlechtigkeit feines Willens, noch die Beichränft-
+heit feines Verstandes und die Verfehrtheit feiner Begriffe in
+Betrachtung; da Erfteres leicht Haß, Letzteres Verachtung gegen
+ihn erwecken fönnte: fondern man fafle allein feine Leiden, feine
+Noth, feine Angft, feine Schmerzen ind Auge: — da wird man
+sich stets mit ihm verwandt fühlen, mit ihm sympathisiren und,
+Ratt Haß oder Verachtung, jenes Mitleid mit ihm empfinden,
+welches allein die ayarım ift, zu ber das Evangelium aufruft.
+Um feinen Haß, feine Verachtung gegen ihn auffommen zu lassen,
+ist wahrlich nicht die Auffuchung feiner angeblihen „Würde“,
+
+ [S. 170]
+
+
+fondern, umgefehrt, der Standpunkt des Mitleids der allein
+geeignete.
+$. 110.
+
+
+Die Buddhaiften gehn, in Folge ihrer tieferen, ethifchen
+und metaphysischen Einfichten, nicht von Karbinaltugenden, son—
+dern von Rarbinal-Laftern aus, als deren Gegenfäge, oder Ver—
+neinungen, allererft die Kardinal- Tugenden auftreten. Nach J.
+J. Schmidts Geschichte der Dftmongolen, S. 7, find die Bud—
+bhaiftifchen KarbinalsLafter: Wollust, Trägheit, Zorn und Geiz.
+Wahrscheinlich aber muß ftatt Trägheit Hochmuth fiehn: fo näm-
+lich werben fie angegeben in den lettres Edifiantes et ourieuses,
+edit. de 1819. Vol. 6. p. 372; mwofelbft jedoch noch der Neid,
+oder Haß, als fünftes Hinzufommt. Für meine Berihtigung
+der Angabe des hochverdienten 3. J. Schmidt fpricht noch die
+Uebereinftimmung berfelben mit den Lehren der, jedenfalld unter
+dem Einfluß des Brahmanismus und Bubbhaismus ftehenden Su =
+fig. Auch diefe nämlich ftellen die felben KRarbinallafter, und zwar
+jehr treffend paarmweife, auf, jo daß die Wolluft mit dem Geiz,
+und ber Zorn mit dem Hochmuth verschwistert auftritt. (Siehe
+Tholud’s Blüthenfammlung aus der morgenländifchen Mystik,
+S. 206.) Wolluft, Zorn und Geiz finden wir fhon im Bha—
+gavat Gita (XVI, 21.) ald Karbinallafter aufgeftellt; welches
+das hohe Alter der Lehre bezeugt. Als die jenen Kardinallaftern
+entgegengefesten Karbinaltugenden würden sich ergeben Keujchheit
+und Freigebigfeit, nebft Milde und Demuth. — |
+
+Bergleiht man nun mit biefen tiefgefaßten oriensalifchen
+Grundbegriffen der Ethif die fo berühmten und viele taufend
+Mal wiederholten Platonifchen Kardinaltugenden, Gerenhtigfeit,
+Tapferfeit, Mäßigfeit und Weisheit; fo findet man fie ohne
+einen deutlichen, leitenden Grundbegriff und daher oberflächlich
+gewählt, zum Theil fogar offenbar falfh. Tugenden müssen Ei-
+genfchaften des Willens seyn: Weisheit aber gehört zunächft dem
+Sntelleft an. Die owgyooovvn, welche von Cicero temperantia
+und im Deutfchen Mäßigfeit überfegt wird, ift ein gar unbe-
+flimmter und vieldentiger Ausdrud, unter welchen fich daher
+freilich mancherlei bringen läßt, — wie Befonnenheit, Nüchtern:
+heit, den Kopf oben behalten: er kommt wahrscheinlich von owor
+
+
+Zur Ethit. 171
+
+
+eye To goovsw. Tapferkeit ist gar feine Tugend, wiewohl
+bisweilen ein Diener, oder Werkzeug, berfelben: aber fie ift auch
+eben fo bereit, der größten Nichtswürbigfeit zu dienen: eigent:
+lich ft fie eine Temperamentseigenfhaft.. Schon Geulinr
+(Ethica, in praefatione) verwarf die Platonifchen Kardinaltu-
+genden und ftellte diefe auf: diligentia, obedientia, jastitia,
+humilitas; — offenbar fchledht. Die Ehinefen nennen fünf
+Karbinaltugenden: Mitleid, Gerechtigfeit, Höflichkeit, Wissenschaft
+und Aufrichtigfeit. (Journ. Asiatique, Vol. 9. p. 62). — Das
+Christenthum hat nicht Kardinal, fondern Theologal- Tugenden:
+Glaube, Liebe und Hoffnung.
+
+Der Punkt, an welchem die moralifhen Tugenden und La-
+fer ded Menfchen zuerft auseinandergehn, ift jener Gegenfag
+der Grundgefinnung gegen Andere, welche nämlid entweder ben
+Charafter des Neides, oder aber den des Mitleides annimmt.
+Denn diefe zwei einander biametral entgegengefesten Eigenfchaf-
+ten trägt jeder Menfch in fih, indem fie entfpringen aus ber
+ihm unvermeiblihen Vergleichung feines eigenen Zuftandes mit
+dem der Andern: je nachdem nun das Resultat diefer auf feinen
+individuellen Charakter wirkt, wird bie eine oder die andere Ei-
+genfchaft feine Grundgefinnung und bie Duelle feines Handelns.
+Der Neid nämlich baut die Mauer zwischen Du und Ich fefter auf:
+dem Mitleid wird fie dünn und burchfichtig; ja bisweilen reißt es
+fie ganz ein, wo dann der Unterfchied zwifchen Ich und Nicht⸗
+Ich verschwindet.
+
+
+$. 111.
+
+
+Die oben zur Sprache gefommene Tapferfeit, ober ge-
+nauer der ihr zum Grunde liegende Muth, (denn Tapferkeit
+it nur der Muth im Kriege) verdient noch eine nähere Unter:
+fuhung. Die Alten zählten den Muth den Tugenden, die Feig-
+heit den Laftern bei: dem Chriftlihen Sinne, der auf Wohl-
+wollen und Dulden gerichtet ift, und dessen Lehre alle Feindfä-
+igfeit, eigentlich fogar den Widerftand, verbietet, entipricht Dies
+nicht; Daher e8 bei den Neuern weggefallen ift. Dennoch müffen
+wir zugeben, daß Feigheit und mit einem edlen Charakter nicht
+wohl verträglich scheint; schon wegen der übergroßen Besorglich—
+
+ [S. 172]
+
+
+feit um bie eigene Person, welche fich darin verräth. Der
+Muth nun aber läßt fih auch darauf zurüdführen, daß man den
+im gegenwärtigen Augenblide drohenden Liebeln willig entgegen-
+geht, um dadurch größeren, in ber Zufunft liegenden, vorzubeu-
+gen; während die Feigheit ed umgefehrt hält. Nun ift jenes
+Erftere der Charakter der Geduld, ald welche eben in bem
+deutlichen Bewußtseyn befteht, daß es noch größere Lebel, als
+bie eben gegenwärtigen, giebt und man durch heftiges Fliehen,
+oder Abmehren diefer jene berbeiziehn könnte. Demnach wäre
+denn der Muth eine Art Geduld, und weil eben biefe es ift,
+die uns zu Entbehrungen und Selbftüberwindungen jeder Art
+befähigt; fo ift, mittelft ihrer, auch der Muth wenigftens ber
+Tugend verwandt.
+
+Doch läßt er vielleicht noch eine höhere Betrachtungsweise
+zu. Man fönnte nämlich alle Todesfurdt zurüdführen auf ei-
+nen Mangel an derjenigen natürlichen, daher auch bloß gefühl:
+ten Metaphyfif, vermöge welcher der Menfch die Gewißheit in
+sich trägt, daß er in Allen, ja in Allem, eben fo wohl existirt,
+wie in feiner eigenen Perfon, deren Tod ihm daher wenig an-
+haben kann. Eben aus diefer Gemwißheit hingegen entfpränge
+demnach der heroifche Muth, folglich (mie der Lefer fi) aus mei:
+ner Ethik erinnert) aus derfelben Duelle mit den Tugenden ber
+Gerechtigfeit und der Menfchenliebe. Dies heißt nun freilich
+die Sache gar weit oben anfaffen: jedoch ift außerdem nicht wohl
+zu erklären, weshalb Feigheit verächtlich, perfönlicher Muth hin⸗
+gegen edel und erhaben erscheint; da von feinem niedrigeren
+Standpunft aus sich abjehn läßt, weshalb ein endliches Indi—
+viduum, welches fich felber Alles, ja, fich felber die Grunbbebin-
+gung zum Dafeyn der übrigen Welt ift, nicht der Erhaltung
+diefes Selbft alles Andere nachsetzen sollte. Daher wirb eine
+ganz immanente, aljo rein empirische Erklärung, indem fie nur
+auf der Nüglichfeit des Muthes fußen fünnte, wohl nicht auds
+reihen. Hieraus mag es entiprungen feyn, daß Calderon ein
+Mal eine ffeptifche, aber beachtenswerthe, Anficht über ben
+Muth ausfprict, ja, eigentlich die Realität beffelben Teugnet;
+und zwar thut er Died aus dem Munde eines alten, weifen
+Minifters, feinem jungen Könige gegenüber:
+
+
+Zur Ethil. 173
+
+
+Aue aunque el natural temor
+En todos obra igualmente,
+No mostrarle es ser valiente,
+Y esto es lo que hace el valor.
+La hija del aire, P. II. Jorn. 2.
+
+
+„Denn obwohl die natürliche Furcht in Allen auf gleiche Weife wirksam ist;
+jo ift man dadurch, daß man fie nicht fehn läßt, tapfer, und Diefes eben
+macht die Tapferfeit aus.”
+
+Die Tochter ver Luft. TH. IN. 2.
+
+
+Hinfihtlih der oben berührten Berfchiebenheiten zwifchen
+der Geltung bed Muthes als Tugend bei den Alten und bei
+den Neuern, ift jedoch noch in Erwägung zu ziehn, daß bie
+Alten unter Tugend, virtus, agsın, jede Trefflichfeit, jede an
+fih selbst lobenswerthe Eigenfchaft verftanden, fie mochte mora-
+ich, oder intelleftuell, ja, allenfalls bloß körperlich seyn. Nach:
+dem aber das Christenthum die Grund» Tendenz bed Lebens als
+eine moralifche nachgemwiefen hatte, wurden unter dem Begriff
+der Tugend nur noch die moralifhen Vorzüge gedacht. In—⸗
+zwischen findet man ben früheren Sprachgebraud noch bei den
+älteren Latiniften, wie auch im Staliänifchen, wo ihn zubem ber
+befannte Sinn ded Wortes virtuoso bezeugt. — Man follte
+auf diefen Punkt, Hinfichtlih der Alten, die Schüler ausdrücklich
+aufmerffam machen; da er fonft leicht eine heimliche Perplerität
+bei ihnen erzeugt.
+
+
+8. 112.
+
+
+Wie die Stelle der Tapferkeit unter den Tugenden, fo Täßt
+auh die des Geizes unter den Lastern fi in Zweifel ziehn.
+Nur muß man folchen nicht mit der Habfucht verwechfeln, melde
+zunächst es ift, die das Tateinifche Wort avaritia ausdrüdt. Wir
+wollen daher ein Mal das pro et contra über den Geiz auf
+treten Yaflen und abhören, wonach das Endurtheil Jedem anheims
+geftellt bleibe.
+
+A. Nicht der Geiz ift ein Lafter, fondern fein Gegen-
+theil die Verschwendung. Sie entfpringt aus einer thierischen
+Beihränftheit auf die Gegenwart, gegen welde alddann bie
+noch in bloßen Gedanken beftehende Zufunft Feine Macht erlane
+gen Fann, und beruht auf dem Wahn eines pofitiven und realen
+
+ [S. 174]
+
+
+Werthes der finnlichen Genüfle. Demgemäß find Fünftiger Man-
+gel und Elend der Preis, um welchen ber Verschwender Diefe
+leeren, flüchtigen, ja oft bloß eingebildeten Genüffe erfauft. Dies
+serhalb fol man ihn fliehen, wie einen Verpefteten, und, nach—
+dem man fein Lafter entdedt hat, bei Zeiten mit ihm brechen;
+damit man nicht, wann fpäterhin bie Folgen eintreten, entweder
+fie tragen zu helfen, oder aber die Rolle der Freunde des Ti-
+mon von Athen zu fpielen habe. — Imgleichen fteht nicht zu
+erwarten, daß Der, welcher fein eigenes Vermögen leichtsinnig
+burdhbringt, dag eined Andern, wenn ed etwan in feine Hände
+gegeben ift, unangetaftet Iaflen werde. — Der Geiz hingegen
+bat den Ueberfluß in feinem Gefolge: und wann wäre biefer
+unerwünjcht gefommen? Das aber wuß ein gutes Lafter feyn,
+welches gute Folgen hat. Der Geiz gebt nämlidd von Dem
+richtigen Grundfas aus, daß alle Genüffe bloß negativ wirfen,
+und daher eine aus ihnen zufammengefeste Glücksäligkeit eine
+Chimäre ist; daß hingegen die Schmerzen pofitiv und fehr real
+find. Daher verfagt er fich jene, um sich vor diefen desto beffer
+zu fihern: sonach wird dag sustine et abstine feine Marime.
+Und weil er ferner weiß, mie unerfchöpflid die Möglichfeiten
+bes Unglüds und zahllos die Wege der Gefahr find; fo häuft
+er die Mittel dagegen an, um fich, wo möglich, mit einer drei—
+fahen Schugmauer zu umgeben. Wer fann denn fagen, wo Die
+Borforge gegen Unfälle anfängt übertrieben zn werben? nur Der,
+welcher wüßte, wo die Tüde des Schidjals ihr Ende erreicht.
+Und fogar wenn die VBorforge übertrieben wäre, würde biefer
+Irrthum höchstens ihm felbft, nicht Andern zum Schaden gerei-
+hen. Wird er die Schäge, welche er auflegt, nie nöthig haben;
+nun, fo werden fie einft Andern zu Gute fommen, denen bie
+Natur weniger Vorforge verlieben hat. Daß er bie dahin das
+Geld der Eirfulation entzieht, bringt gar feinen Nachtheil: denn
+Geld ift Fein Konfumtionsartifel: vielmehr ift es ein bloßer Rer
+präfentant der wirflihen, brauchbaren Güter; nicht felbft ein
+solches. Die Dufaten find im Grunde felbft nur Rechenpfennige:
+nicht fie haben Werth, fondern Das, mas fie vertreten: dieses
+aber kann er gar nicht ber Cirkulation entziehn. Zubem wird,
+durch fein Zurückhalten des Geldes, der Werth des übrigen, rir-
+
+
+ur Ethik, 175
+
+
+fulirenden, genau um fo viel erhöht. — Wenn nun auch, wie
+man behauptet, mander Geizige zuletzt das Geld unmittelbar
+und feiner felbft wegen liebt; fo liebt dagegen, eben fo gewiß,
+mancher Verschwender die Ausgabe und das Verschleudern ge-
+vadezu ihrer felbft wegen. — Die Freundichaft aber, oder gar
+Verwandschaft mit dem Geizigen ift nicht nur gefahrlos, fondern
+eriprießlich, da fie großen Nugen bringen kann. Denn jeben-
+falls werden die ihm Nächsten, nad feinem Tode, die Früchte
+feiner Selbstbeherrschung ernten: aber auch noch bei feinem Le-
+ben ift, in Fällen großer Noth, etwas von ihm zu hoffen, we—⸗
+nigstens immer noch mehr, ald vom ausgebeutelten, felbft hülflosen
+Verschwender. Mas da el duro, que el desnudo (mehr giebt
+der Hartherzige, als der Nadte) jagt ein Spanisches Sprid-
+wort. Diefem Allen nun zufolge ift ber Geiz fein Lafter.
+
+B. Er ift die Duinteflenz ber Lafler! — Wenn physische
+Genüffe den Menfchen von der rechten Bahn ableiten; fo trägt
+feine finnlihe Natur, das Thierifhe in ihm, die Schul. Er
+wird eben vom Reize hingerifien und handelt, vom Eindrud der
+Gegenwart überwältigt, ohne Weberlegung. — Hingegen wenn
+er durch Körperschwäche, ober Alter, dahin gefommen ift, daß
+die Lafter, die er nie verlassen fonnte, enblich ihn verlaflen, in-
+dem feine Fähigkeit zu finnlichen Genüflen erftorben ift; da über-
+lebt, wenn er sich zum Geize wendet, die geiftige Gier die. fleifch-
+liche. Das Geld, ald welches ber Repräfentant aller Güter der
+Belt, das Abftraftum derfelben ift, wird jet der bürre Stamm,
+an welchen feine abgeftorbenen Begierben, ald Egoismus in ab-
+stracto, fi) klammern. Sie vegeneriven fih nunmehr. in ber
+liebe zum Mammon. Aus der flüchtigen, finnlichen Begierde
+it eine überlegte und berechnende Gier nach Gelbe geworben,
+welche, wie ihr Gegenftand, fombolifcher Natur und, wie er, un-
+zersftörbar ist. Es ist die hartmädige, gleichjam fich felbft über-
+Iebende Liebe zu den Genüflen der Welt, die vollendete Unbe-
+kehrbarkeit, die fublimirte und vergeiftigte Fleifhesluft, der ab-
+frafte Brennpunkt, in den alle Gelüste zufammengefchoflen find,
+ju welchen er daher fich verhält wie ber allgemeine Begriff zum
+einzelnen Dinge. Dem  entfprechend ift Geiz das Lafter bes
+
+Alters, wie Verschwendung das der Jugend.
+
+ [S. 176]
+
+
+$. 113.
+
+Die foeben abgehörte disputatio in utramque partem ift
+allerdings geeignet, und zur Justemilieu-Moral des Ariftoteles
+binzutreiben. Eben dieser ift auch noch die folgende Betrachtung
+günftig.
+
+Jede menichliche Vollfommenpeit ift einem Fehler verwandt,
+in welchen überzugehn fie droht; jedoch auch, umgekehrt, jeder
+Fehler, einer VBollfommenpheit. Daher beruht der Irrthum, in
+welchen wir, binfichtlich eines Menschen, gerathen, oft darauf,
+dag wir, im Anfang der Belanntfhaft, feine Fehler mit den
+ihnen verwandten Vollfommenheiten. verwechfeln, oder auch um-
+gefehrt: da fcheint und dann ber Vorfichtige feige, der Spar:
+fame geizig; oder auch der Verschwender liberal, der Grobian
+gerade und aufrichtig, der Dummbreifte ald mit ebelem Selbft-
+vertrauen auftretend, u. dgl. m.
+
+
+$. 114.
+
+
+Immer von Neuem fühlt fi wer unter Menfchen lebt zu
+ber Annahme verfucht, daß moralifche Schlechtigfeit und intellef-
+tuelle Unfähigkeit eng zufammenhängen, indem fie direft Einer
+Wurzel entipröffen. Daß Dem jebocdh nicht fo fei, habe ich im
+2. Bande meines Hauptwerfed, Kap. 19, $. 8, ausführlich dar⸗
+gethban. jener Anschein, der bloß daraus entipringt, daß man
+Beide fo gar oft beifammen findet, ift gänzlich aus dem fehr
+häufigen Vorkommen Beider zu erklären, in Folge dessen ihnen
+leicht begegnet, unter Einem Dade wohnen zu müflen. Dabei
+ift aber nicht zu Teugnen, daß fie einander, zu gegenfeitigem
+Vortheil, in die Hände fpielen, woburd denn die fo unerfreu-
+lihe Ericheinung zu Stande fommt, welche nur zu viele Men-
+fen darbieten, und die Welt geht, wie fie geht. Namentlich
+ift der Unverfiand dem deutlichen Sichtbarwerben der Falfchheit,
+Niederträchtigfeit und Bosheit günftig; während bie Klugheit
+diese befier zu verhülfen verfieht. Und wie oft verhindert an-
+brerjeitö die Perverfität des Herzens den Menfchen, Wahrheiten
+einzufehn, denen fein Verftand ganz wohl gewachsen wäre.
+
+Jedoch, es überhebe fih Keiner. Wie Jeder, auch das
+größte Genie, in irgend einer Sphäre der Erfenntniß entschie—
+den bornirt ift und dadurch feine Stammverwandfchaft mit Dem we⸗
+
+
+Zur Ethik. 177
+
+
+jentlich verkehrten und abfurden Menfchengefchlechte beurfundet ;
+fo trägt auch Jeder moraliih etwas durchaus Schlechtes in fid,
+und felbft der befte, ja ebelfte Charakter wird ung bisweilen
+durch einzelne Züge von Schledhtigfeit überrafchen; gleihfam um
+feine Berwandichaft mit dem Menfchengefchlechte, unter welchem
+jeder Grad von Nichtswürdigkeit, ja Graufamfeit, vorkommt,
+anzuerfennen. Denn gerade Fraft diefes Schlechten in ihm, die-
+ses böfen Principe, hat er ein Mensch werben müflen. Und
+aus dem felben Grunde ift überhaupt die Welt Das, ald was
+mein treuer Spiegel derfelben fie gezeigt hat.
+
+Dei dem Allen jedoch bleibt, auch zwischen Menfchen, der
+Unterfhied unermeßlih groß, und Mancher würde erfchreden,
+wenn er den Andern sähe, wie er if. — O, um einen Asmo—
+däus der: Moralität, welcher feinem Günftlinge nicht bloß Dä-
+her und Mauern, fondern den über Alles ausgebreiteten Schleier
+der Berftellung, Falfchheit, Heuchelei, Grimace, Lüge und Trug
+durchfichtig machte, und ihn fehn Liege, wie wenig wahre Neb-
+lihfeit in der Welt zu finden ift, und wie fo oft, auch wo man
+es am wenigftend vermuthet, hinter allen den tugendbfamen Aus
+-fenwerfen, heimlich und im innerften Receß, die Unrechtlichfeit
+am Ruder figt. — Daher eben fommen die vierbeinigen Freund-
+Ihaften fo vieler Menschen befferer Art: denn freilih, woran
+follte man fich von der endlosen Verftellung, Falfchheit und Heim-
+tüde der Menfchen erholen, wenn bie Hunde nicht wären, in
+deren. ehrlihes Gefiht man ohne Mißtrauen schauen fann? —
+Ist doch unfre civilisirte Welt nur eine große Masferade. Man
+trifft Dafelhft Ritter, Pfaffen, Soldaten, Doktoren, Advokaten, Prie:
+fter, Philofophen, und was nicht alles an! Aber fie find nicht was
+fie vorftellen: fie find bloße Masken, unter welchen, in der Regel,
+Geldfpefulanten (moneymakers) fteden. Dod nimmt auch wohl
+Einer die Masfe des Rechts, die er fich dazu beim Advofaten ge-
+borgt Hat, vor, bloß um auf einen Andern tüchtig losschlagen zu
+können: wieder Einer hat, zum felben Zwecke, die des öffentlichen
+Wohls und des Patrivtismug gewählt; ein Dritter die der Religion,
+der Glaubensreinigfeit. Zu allerlei Zwecken hat fhon Mancher die
+Maske der Philofophie, wohl auch der Philantropie u. dgl. m. vor⸗
+gesteckt. Die Weiber haben weniger Auswahl: meiftend bedienen
+fie fi, der Masfe der Sittfamfeit, Schaambaftigfeit, Häuslich-
+
+U, 12
+
+ [S. 178]
+
+
+feit und Befcheidenheit. Sodann giebt ed auch allgemeine Mas-
+fen, ohne befondern Charakter, gleichfam die Dominos, die man
+daher überall antrifft: dabin gehören die ftrenge Rechtlichkeit,
+die Höflichfeit, die aufrichtige Theilnahme und grinzende Freund»
+lichkeit. Meiftens fielen, wie gefagt, lauter Induftrielle, Han:
+delsleute und Spefulanten unter diefen fämmtlichen Masfen. In
+diefer Hinficht machen den einzigen ehrlichen Stand die Kaufleute
+aus; da fie allein fih für Das geben, was fie find: fie gehn
+alfo unmasfirt herum; ftehn daher auch niedrig im Rang. —
+Es ift fehr wichtig, schon früh, in der Jugend darüber belehrt
+zu werden, daß man fih auf der Masferade befinde. Denn
+fonft wird man manche Dinge gar nicht begreifen und auffriegen
+fönnen, fondern davor ftehn ganz verbußt, und zwar am längsten
+Der, oui ex meliori luto dedit praecordia Titan: der Art
+find die Gunft, welche die Niederträchtigfeit findet, Die Bernacd-
+Yäffigung, welche das Verdienst, felbft das feltenfte und größte,
+von den Leuten feined Faces erleidet, das Berhaßtfeyn ber
+Wahrheit und der großen Fähigfeiten, die Unmiflenheit der Ge-
+fehrten in ihrem Fach, und daß faft immer bie ächte Waare
+verfchmäht, die bloß scheinbare gefucht wird. Also werde fchon
+der Syüngling belehrt, daß auf diefer Masferade die Aepfel von
+Wars, die Blumen von Seide, die Fische von Pappe find, und
+Alles, Alles Tand und Spaaß; und daß von jenen Zweien, bie
+er dort fo ernstlich mit einander handeln fieht, der Eine Tauter
+falsche Waare giebt und der Andre fie mit Rechenpfennigen bes
+zahlt.
+
+Aber ernftere Betrachtungen find anzuftellen und fchlimmere
+Dinge zu berichten. Der Mensch ift im Grunde ein wildes, ent-
+fegliches Ihier. Wir fennen ed bloß im Zuflande der Bändi-
+gung und Zähmung, welder Civilifation heißt: daher erfchreden
+und die gelegentlichen Ausbrüche feiner Natur. Aber wo und
+wann ein Mal Schloß und Kette der gefeglihen Ordnung ab-
+fallen und Anardie eintritt, da zeigt fih mas er if. — Wer
+inzwifchen auch ohne solche Gelegenheit fih darüber aufflären
+möchte, der fann die Ueberzeugung, daß der Menfh an Graus-
+jamfeit und Unerbittlichleit Feinem Tiger und Feiner Hyäne
+nachsteht, aus hundert alten und neuen Berichten fchöpfen. Ein
+sollwichtiges Beilpiel aus der. Gegenwart liefert ihm die Ant⸗
+
+
+Zur Ethit. 179
+
+
+wort, welche bie Brittifche Antifflavereigefellfchaft, auf ihre Frage
+nad ber Behandlung der Sklaven in den fAlavenhaltenden Staa-
+ten ber Norbamerifanifchen Union, von ber Nordamerifanifchen
+Antifflavereigefellihaft im Sabre 1840. erhalten hat: Slavery
+and the internal Slavetrade in the United States of North-
+America: being replies to questions transmitted by the
+British Antislavery-society to the American Antislavery
+society. Lond. 1841. 280 ©. gr. 8. price 4 sh. in cloth. Die-
+jed Buch macht eine der schwersten Anflageaften gegen die Menfch-
+heit aus. Keiner wirb es ohne Entfegerf, Wenige ohne Thrä-
+nen aus der Hand Iegen. Denn was ber Lefer desselben jemals
+vom unglüdlihen Zuftande der Sklaven, ja, von menschlicher
+Härte und Graufamfeit überhaupt, gehört, oder sich gedacht, oder
+geträumt haben mag, wird ihm geringfügig erfcheinen, wenn er
+fie, wie jene Teufel in Menfchengeftalt, jene bigotten, Firchen-
+gehenden, fireng den Sabbath beobadhtenden Schurken, nament-
+ih aud die Anglifanifchen Pfaffen unter ihnen, ihre unschuldi⸗
+gen schwarzen Brüder behandeln, welche durch Unrecht und Ge-
+malt in ihre Teufelsklauen gerathen find. Died Buch, welches
+aus trockenen, aber authentischen und bofumentirten Berichten be-
+steht, empört alles Menfchengefühl in dem Grade, dag man, mit
+bemfelben in der Hand, einen Kreuzzug prebigen könnte, zur
+Unterjohung und Züchtigung ber fflavenhaltenden Staaten Nord⸗
+amerifa’d. Denn fie find ein Schandfled der ganzen Menichheit.
+Ein anderes Beifpiel aus der Gegenwart, da die Vergangenheit
+Manchem nicht mehr gültig fcheint, enthalten „Tschudi's Reifen in
+Peru’ 1846, an der Befchreibung der Behandlung der Peruviani-
+schen Soldaten durd ihre Offiziere. — Aber wir brauchen die Beis
+spiele nicht in der neuen Welt, diefer Kehrfeite des Planeten, zu
+fuhen. IR es doch im Jahre 1848 zu Tage gefommen, daß
+in England, nicht ein, fondern, in kurzem Zeitraume, wohl hun⸗
+dert Mal, ein Ehegatte den andern, oder beide in Gemeinschaft
+ihre Kinder, eines nad) bem andern, vergiftet, ober auch fie
+durch Hunger und schlechte Pflege langsam zu Tode gemarterg
+haben, bloß um von den Begräbnißvereinen (burial-clubs) die
+für den Todesfall ihnen zugeficherten Begräbnißfoften zu empfan-
+gen; zu welchem Zwede fie ein Kind in mehrere, fogar bis in
+20 folcher Vereine zugleich eingefauft haben. Feng sehe hier⸗
+2*
+
+
+da!
+
+
+{3 er
+ii
+
+
+*
+
+ [S. 180]
+
+
+über die Times vom 20., 22. und 23. September 1848, welche
+Zeitung, bloß deswegen, auf Aufhebung ber Begräbnißvereine
+dringt.
+
+Freilich gehören Berichte diefer Art zu den Ihwärzeften
+Blättern in den Kriminalaften des Menschengeschlechts. Aber
+die Duelle von Dem und allem Aehnlichen ift Doch das innere
+und angeborene Wefen des Menfchen, dieses Gottes zur edoynv
+der Pantheiften. Da niftet in Jedem zunächst ein kolossaler
+Egoismus, der die Schranke des Rechts mit größter Leichtigkeit
+überspringt; wie Dies das tägliche Leben im Kleinen und die
+Geschichte, auf jeder Seite, im Großen lehrt. Liegt denn nicht
+schon in der anerfannten Nothwendigkeit bes fo ängstlich bewach—
+ten Guropäifchen Gleichgewichts das Bekenntniß, daß der Mensch
+ein Raubthier ift, welches fobald es einen Schwäheren neben
+fi) erfpäht hat, unfehlbar über ihm Herfällt? und erhalten wir
+nicht täglich die Beftätigung desselben im Keinen? — Zum
+grängenfofen Egoismus unferer Natur gefellt fi aber noch ein,
+mehr oder weniger in jeder Menfchenbruft vorhandener Borrath
+von Haß, Zorn, Neid, Geifer und Bosheit, angefammelt, wie
+das Gift in der Blafe des Schlangenzahnd, und nur auf Gele:
+genheit wartend, sich Luft zu machen, um dann wie ein ent«
+feffelter Dämon zu toben und zu wüthen. Will fein großer
+Anlaß dazu fi einfinden; fo wird er am Ende den Heinften
+benugen, indem er ihn durch feine Phantafie vergrößert,
+
+
+Quantulacungue adeo est occasio, suflicit irae,
+Juv.
+
+
+und wirb dann es fo weit treiben, wie er irgend fann und darf.
+Dies fehn wir im täglichen Leben, woselbst folde Eruptionen
+unter dem Namen „feine Galle über etwas ausschütten“, befannt
+find. Auch will man wirklich bemerft haben, daß, wenn fie nur
+auf feinen Widerftand geftoßen find, das Subjelt fih entschieden
+wohler danach) befindet. Daß der Zorn nicht ohne Genuß ei,
+
+
+sagt schon Ariftoteles: zo ogyılsodaı zdv (Rhet. I, 11. II, 2.),
+
+
+wozu er noch eine Stelle aus dem Homer anführt, der den
+
+
+> Zorn für füßer, als Honig, erklärt. Aber nicht nur dem Zorn,
+
+
+fondern auch dem Haß, der fih zu ihm wie die chroniiche zur
+afuten Krankheit verhält, giebt man fi fo recht con amore hin:
+
+
+u
+
+
+Zur Ethif. 181
+
+
+For batred is by far the longer pleasure:
+Men love in haste, but they detest at leisure.
+
+
+(Der Haß gewährt gewiß den füßern Tranf:
+Wir lieben flüchtig, aber haflen lang.)
+
+Wirklich alfo Tiegt im Herzen eines Jeden ein wildes Tpier,
+das nur auf Gelegenheit wartet, um zu toben und zu rafen, in-
+dem es Andern wehe thun und wenn fie gar ihm ben Weg ver-
+fperren, fie vernichten möchte: es ift eben Dad, woraus alle
+Kampf- und Kriegslust entfpringt; und eben Das, welches zu
+bändigen und einigermaaßen in Schranfen zu halten die Erfennt-
+ni, fein beigegebener Wächter, ftets vollauf zu thun hat. Im⸗
+merhin mag man es das rabifale Böse nennen, ald womit we-
+nigftend Denen, melden ein Wort die Stelle einer Erklärung
+vertritt, gedient feyn wird. Ich aber fage: es ift der Wille
+zum Leben, der, durch das ftete Leiden des Dafeynd mehr und
+mehr erbittert, feine eigene Duaal durch das Verursachen ber
+fremden zu erleichtern fucht. Aber auf diefem Wege entwidelt
+er sich allmälig zur eigentlichen Bosheit und Graufamfeit. Auch
+fann man biezu die Bemerfung machen, daß wie, nad Kant,
+die Materie nur durch den Antagonidmus der Erpanflond- und
+Rontraktionsfraft befteht; fo die menschliche Gefellfchaft nur durch
+den bes Hafles, oder Zornd, und der Furdt. Denn die Ge-
+häffigfeit unfrer Natur würde vielleicht Jeden ein Mal zum
+Mörder machen, wenn ihr nicht eine gehörige Dofis Furcht beis
+gegeben wäre, um fie in Schranken zu halten; und wiederum
+diefe allein würde ihn zum Spott und Spiel jedes Buben ma-
+hen, wenn nicht in ihm der Zorn bereit läge und Wade hielte.
+
+Der fchlechtefte Zug in der menfchlichen Natur bleibt aber
+die Echadenfreude, da fie der Graufamfeit enge verwandt ift,
+ja eigentlich von biefer fi nur wie Theorie von Prarid unter
+fheidet, überhaupt aber da eintritt, wo das Mitleid feine Stelle
+finden follte, welches, als ihr Gegentheil, die wahre Duelle aller
+ächten Gerechtigfeit und Menfchenliebe ift. In einem andern Sinne
+dem Mitleid entgegengefegt ift der Neid; fofern er nämlich durch
+den entgegengefesten Anlaß hervorgerufen wird: fein Gegenfag
+zum Mitleid beruht alfo zunächft auf dem Anlaß, und erft in Folge
+hievon zeigt er fih auch in der Empfindung felbft. Daher eben
+il der Neid, wenngleich verwerflich, doch noch einer Entschuldi⸗
+
+ [S. 182]
+gung fähig und überhaupt menfchlih; während bie Schabenfreude
+
+
+teufliih und ihr Hohn das Gelächter der Hölle ist. Sie tritt,
+wie gefagt, gerabe da ein, wo Mitleid eintreten follte, der
+
+
+Neid hingegen doch nur da, wo Fein Anlaß zu diefem, vielmehr
+zum Gegentheil befjelben vorhanden ift; und eben als dieses Ge
+gentheil entsteht er in ber menschlichen Bruft, mithin fo weit
+noch als eine menschliche Gefinnung: ja, ich befürchte, daß Kei-
+ner ganz frei davon befunden werben wird. Denn baß ber
+Menfch beim Anblick fremden Genufles und Befited, den eigenen
+Mangel bitterer fühle, ift natürlich, ja, unvermeidlich: nur follte
+Dies nicht feinen Haß gegen den Beglüdteren erregen: gerade
+hierin aber befteht der eigentliche Neid. Am wenigften aber
+follte diefer eintreten, wo nicht die Gaben des Glückes, oder
+Zufall, oder fremder Gunft, fondern die der Natur der Anlaß
+find; weil alles Angeborene auf einem metapbyfifchen Grunde
+beruht, alfo eine Berechtigung höherer Art hat und, fo zu fagen,
+
+
+von Gotted Gnaden ist. Aber leider hält der Neid es gerade
+
+
+umgefehrt: er ift bei perfönlichen Vorzügen am unverföhnlichften;
+
+
+daher eben Berftand, und gar Genie, fih auf der Welt erft
+Berzeihung erbetteln müflen, wo immer fie nicht in ber Lage
+find, die Welt stolz und Fühn verachten zu dürfen. Wenn näm-
+ih der Neid bloß durch Reichtum, Rang, oder Macht erregt
+worden ift, wird er noch oft durch den Egoismus gedämpft; in-
+
+
+‚dem biefer abfieht, daß von dem Beneideten, vorfommenden Fall,
+
+
+Hülfe, Genuß, Beiftand, Schuß, Beförderung u. f. w. zu hoffen
+fteht, oder daß man wenigftens im Umgange mit ihm, von dem
+
+
+Abglanze feiner Vornehmigfeit beleuchtet, selbst Ehre genießen
+fann: auch bleibt hier die Hoffnung übrig, alle jene Güter einft
+‚noch felbft zu erlangen. Hingegen für den auf Naturgaben und
+perjönliche Borzüge, vergleichen bei Weibern die Schönheit, bei
+Männern der Geift ift, gerichteten Neid giebt es keinen Troft
+ber einen und feine Hoffnung der andern Art; fo dag ihm nichts
+übrig bleibt, ald die fo Bevorzugten bitter und unverfühnlich zu
+hassen. Daher ift fein einziger Wunfch, Rache an feinem Gegen:
+
+
+fland zu nehmen. Hiebei nun aber befindet er fich in der unglüdi-
+chen Lage, daß alle feine Schläge machtlos fallen, fobald an ben Tag
+
+
+fommt, daß fie von ihm ausgegangen find. Daher alfo verftedt er
+fih jo forgfam, wie bie geheimen Wolluftfünden, und wird nun
+
+
+Zur Ethit. 188
+
+
+ein unerschöpflicher Erfinder von Listen, Schlichen und Kniffen,
+sich zu verhüllen und zu maskiren, um ungesehn feinen Gegen-
+stand zu verwunden. Da wird er z. B. die Vorzüge, welche
+sein Herz zerfleischen, mit unbefangenster Miene ignoriren, sie
+gar nicht sehn, nicht kennen, nie bemerkt, noch davon gehört ha⸗—
+ben, und wird jo im Diffimuliren einen Meifter abgeben. Da-
+bei aber wird er, vor allen Dingen, bemüht feyn, durch heim-
+liche Machinationen, jenen Borzügen alle Gelegenheit, sich zu
+zeigen und befannt zu werben, jorgfältig zu entziehn. Sodann
+wird er über fie, aus dem Finftern, Tadel, Hohn und Spott
+ausfenden. Nicht weniger wird er unbedeutende Menschen, oder
+auch das Mittelmäßige, ja Schlechte, in der felben Gattung von
+Leistungen, enthufiaftiich Toben. Kurz, er wird ein Proteus an
+Stratagemen, um zu verlegen, ohne fich zu zeigen. Aber, was
+hilft e8? das geübte Auge erfennt ihn doch. Ihn verräth schon
+bie Scheu und Flucht vor feinem Gegenftande, ber daher, je
+glänzender er ift, defto mehr allein fteht; weshalb schöne Mäd—
+hen feine Freundinnen haben: ihn verräth fein Haß ohne allen
+Anlag, der bei der geringften, ja oft nur eingebildeten Gelegen-
+heit, zur heftigften Explosion kommt. Wie ausgebreitet übrigens
+feine Familie fei, erfennt man an dem allgemeinen Lobe ber
+Beiheidenheit, diefer zu Gunften der platten Gewöhnlichkeit er-
+fundenen, schlauen Tugend, welche dennod), eben durch die in ihr
+an den Tag gelegte Nothwendigkeit der Schonung ber Armfäligfeit,
+diefe gerade and Licht zieht. — Jedoch für unfer Selbftgefühl und
+unfern Stolz fann es nichts Schmeichelhafteres geben, als ben
+Anblick des in feinem Verstecke lauernden und feine Macinationen
+betreibenden Neides: zudem ift die Entdedung befielben für un-
+fere Sicherheit von Wichtigkeit. Daher foll man ihn ftubiren,
+um ihm auf die Schliche zu kommen; da er, überall zu finden,
+alfezeit infognito einhergeht, oder auch, der giftigen Kröte gleich,
+in finftern Löchern lauert. Hingegen verdient er weder Scho-
+nung, noch Mitleid, jondern die Verhaltungsregel fei:
+
+
+Den Neid wirft nimmer du verfühnen:
+So magft du ihm getroft verhöhnen.
+
+
+Wenn man nun, wie hier geichehn, die menfhlide Schlech⸗
+tigfeit ind Auge gefaßt hat und sich darüber entjegen möchte;
+
+ [S. 184]
+
+
+fo muß man alsbald den Blid auf den Jammer bed menfch-
+lichen Dafeyns werfen; und wieder eben fo, wenn man vor bie
+fem erfchroden ift, auf jene: ba wird man finden, daß fie ein-
+ander das Gleichgewicht halten, und wird der ewigen Gerechtig-
+feit inne werden, indem man merkt, daß bie Welt selbst das
+Weltgericht if. Vom felben Standpunft aus verliert sich auch
+die Indignation über die intellektuelle Unfähigkeit der Aller-
+meiften, die uns im Leben fo häufig anwidert. Also miseria
+humana, nequitia humana und stultitia humana entfprechen
+einander vollfommen, in diefem Sanfjara der Bubbhaiften.
+
+
+$. 185.
+
+
+Die Lefer meiner Ethif mwiflen, daß bei mir das Fundament
+ber Moral zulest auf jener Wahrheit beruht, welche im Veda
+und Bedanta ihren Ausdruck hat an der stehend gemorbenen
+moftifchen Formel tat twaın asi (Dies bift du), welche mit Hin-
+deutung auf jedes Lebende, fei es Mensch oder Thier, ausge:
+fprochen wird und dann die Mahavakya, das große Wort, heißt.
+
+In der That fann man die ihr gemäß gefchehenden Hand:
+Iungen, 3. B. die der MWohlthätigfeit, ald den Anfang der My-
+ftif betrachten. Jede, in reiner Abficht erzeigte Wohlthat giebt
+fund, daß Der, welcher fie ausübt, im geraden Widerfpruch mit
+der Erfcheinungswelt, in welcher das fremde Individuum von
+ihm felbft gänzlich gefondert dafteht, sich als ibentifch mit bem-
+felben erfennt. Demnach ift jede ganz unintereffirte Wohlthat
+eine myfteriöfe Handlung, ein Mofterium: daher eben hat man,
+um Rechenschaft davon zu geben, zu allerlei Fiftionen feine Zu—
+flucht nehmen müffen. Nachdem Kant dem Theismug alfe an-
+dern Stüten meggezogen hatte, Tieß er ihm bloß die, daß er
+die befte Deutung und Auslegung jener und aller ihr ähnlichen
+myfteriöfen Handlungen abgäbe. Er Tieß ihn demnad als eine
+zwar theoretifch unermeisliche, aber zum praftifchen Behufe gül-
+tige Annahme beftehn. Daß es ihm aber auch nur biemit fo
+ganz Ernft gewefen fei, möchte ich bezweifeln. Denn die Mo:
+ral mittelft des Theismus ftügen, heißt fie auf Egoismus zurüd-
+führen; obgleih die Engländer, wie auch bei und bie unterften
+Klaffen der Gefellihaft, gar nicht die Möglichkeit einer andern
+Begründung abfehn. |
+
+
+‚Zur Ethit. 185
+
+
+Das oben in Anregung gebrachte MWiebererfennen feines
+eigenen wahren Wesens in einem fremden, fich objeftiv barftels
+Ienden Individuo tritt befonderd fchön und deutlich hervor in
+den Fällen, wo ein bereits rettungslos dem Tode anheimfallen-
+der Menfch noch mit ängftliher Beforgnig und thätigem Eifer
+auf dad Wohl und die Rettung Anderer bedacht ift. Diefer Art
+ift die befannte Gefchichte von einer Magd, melde, Nachts auf
+dem Hofe von einem tollen Hunde gebiffen, sich als rettungslos
+verloren gebend, nun den Hund padt und in den Stall schleppt,
+den fie verfchließt, damit Fein Anderer mehr fein Opfer merbe.
+Ebenfalls jener Borfall in Neapel, den Tifhbein in einem feis
+ner Aquarelfbilder verewigt hat: vor der, dem Meere fchnell zu-
+frömenden Lava fliehend trägt der Sohn den alten Vater auf
+dem Rüden: aber ald nur noch ein fchmaler Landstrich beide zer-
+flörende Elemente trennt, heißt der Vater den Sohn ihn nieder:
+legen, um sich selbst durch Yaufen zu retten; weil fonft Beide
+verloren find. Der Sohn gehorcht und wirft im Scheiben noch
+einen Abfchiedöblik auf den Vater. Dies ftellt das Bild bar.
+Auch ift ganz diefer Art die historische Thatfache, welche Walter
+Scott mit feiner Meifterhand barftellt im heart of Mid-Lo-
+thian, Chap. 2, wo nämlich, von zwei zum Tode verurtheilten
+Delinquenten, der, welcher dur fein Ungeschick die Gefangen»
+nehmung des andern veranlaßt hatte, diefen, in der Kirche, nad)
+der Sterbepredigt, durch Fräftige Lebermältigung der Wache,
+glücklich befreit, ohne dabei irgend einen Versuch für fich felbft
+zu unternehmen. Sa, bierher zu zählen, wenngleich es dem
+occidentalischen Leser anftößig feyn mag, ist auch die auf einem
+oft wiederholten Kupferftiche dargeftellte Scene, wo der, um fü-
+fillirt zu werben, bereits knieende Soldat feinen Hund, der zu
+ihm will, eifrig mit dem Tuche zurückscheucht. — In allen Fäl-
+len diefer Art nämlich fehn wir ein feinem unmittelbaren per—⸗
+fönlichen Untergange mit voller Gewißheit entgegengehendes In—⸗
+dividuum, an feine eigene Erhaltung nicht mehr denfen, um feine
+ganze Sorgfalt und Anftrengung auf die eines andern zu rich-
+ten. Wie könnte doch deutlicher das Bewußtseyn sich ausfprechen,
+daß diefer Untergang nur ber einer Erfcheinung und alfo felbft
+Erscheinung ift, hingegen das wahre Wefen des Lntergehenden,
+davon unberührt, in dem Andern fortbefteht, in welchem er es
+
+
+186 Zur Cthit.
+
+
+eben jetzt, wie feine Handlung verräth, fo deutlich erklennt. Denn,
+wie fönnte, wenn Dem nicht jo wäre, fondern wir ein in der
+wirklichen Vernichtung begriffenes Wesen vor und hätten, dieses
+noch, durch äußerfte Anftrengung feiner leuten Kräfte, einen fo
+innigen Antheil am Wohl und Kortbeftand eines andern bes
+weifen? —
+
+Es giebt in der That zwei entgegengefegte Weifen, sich fei-
+ned eigenen Daseyns bewußt zu werden: ein Mal, in empiri-
+cher Anschauung, wie ed von außen fich barftellt, als eines ver-
+fchwindend Fleinen, in einer, der Zeit und dem Raume nad,
+gränzenlofen Welt; — dann aber, indem man in fein eigenes
+Inneres sich verienft und dadurch fich bewußt wird, Alles in
+Allem und eigentlich das allein wirkliche Wefen zu feyn, welches,
+zur Zugabe, fih in den andern, ihm von außen gegebenen,
+nohmals, wie im Spiegel, erblidt. Daß nun bie erftere Er-
+fenntnißweife bloß die durch das principium individuationis
+vermittelte Erfcheinung erfafle, die andere aber ein unmittelbares
+Innewerden feiner felbft ald des Dinges an fidh fei, — ift eine
+Lehre, in der ich, der erstern Hälfte nah, Kanten, in beiden
+aber den Veda für mich habe. Allerdings ift der einfache Ein-
+wand gegen bie letztere Erfenutnißweile, fie jebe voraus, daß
+Eines und baffelbe Wefen an verfchiedenen Orten zugleich und
+body in jedem ganz feyn Fünne. Wenn nun gleich Dieses, auf
+dem empirifchen Standpunft, die palpabelfte Unmöglichkeit, ja
+eine Abfurbität ist; jo bleibt e8 dennoch vom Dinge an fi
+vollfommen wahr; weil jene Unmöglichkeit und Abfurdität bloß
+auf den Formen der Erfcheinung, die Das principium individua-
+tionis ausmachen, beruht. Denn das Ding an fih, der Wille
+zum Leben, ift in jedem Wefen, auch dem geringftien, ganz und
+ungetheilt vorhanden, fo vollftändig, wie in allen, die je waren,
+find und feyn werden, zufammen genommen. Hierauf eben bes
+ruht es, daß jedes Wefen, felbft das geringfte, zu fich fagt: dum
+ego salvus sim, pereat mundus, Und in Wahrheit würbe,
+wenn auch alle andern Wefen untergiengen, in biefem Einen,
+übrig gebliebenen, doch noch das ganze Wesen an sich ber Welt
+ungefränft und unvermindert baftehn und jenes Untergangs als
+eines Gaudelfpieles lachen. Dies ift freilich ein Schluß per
+impossibile, welchem man, als eben fo berehtigt, Diefen gegen-
+
+
+Sur Cthit. 187
+
+
+überftellen kann, daß wenn irgend ein Wefen, auch nur das ge-
+tingfte, gänzlich vernichtet wäre, in und mit ihm die ganze Welt
+untergegangen feyn würde. In bdiefem Sinne eben fagt ber
+Mystiker Angelus Silefius:
+
+
+„Ich weiß, daß ohne mich Gott nicht ein Nu kann leben:
+Merb’ ich zunicht; er muß von Noth den Geist aufgeben.“
+
+
+Um aber diese Wahrheit, oder wenigstens die Möglichkeit,
+dag unfer eigened Selbft in andern Wefen eriftiren könne, des
+ven Bewußtfeyn ein von dem unfrigen getrenntes und verjchie«
+denes ift, aud vom empirischen Standpunft aus einigermaaßen
+abfehn zu können, dürfen wir nur und der magnetifirten Som-
+nambulen erinnern, deren ibentifches ch, nachdem fie erwacht
+find, nichts von allen Dem weiß, was fie den Augenblid vor-
+ber felbft gelagt, gethan und erlitten haben. Ein fo ganz phä-
+nomeneller Punkt ift also das individuelle Bewußtfeyn, daß fogar
+in dem felben ch deren zwei entftehen fünnen, davon das eine
+nicht vom andern weiß.
+
+Immer jedod; behalten Betrachtungen, wie die vorhergehen-
+den, bier, in unferm judaifirten Decident, etwas sehr Fremdar⸗
+tiged: aber nicht fo im Baterlande des Menfchengefchlechts, in
+ienem Lande, wo ein ganz anderer Glaube herrfcht, ein Glaube,
+welhen gemäß, auch noch heute, 3. B. nad) der Todtenbeftat-
+tung, die Priefter, vor allem Volke und mit Begleitung der In—
+frumente, den Vedahymnus anftimmen, ber aljo beginnt:
+
+„Der verförperte Geift, welcher taufend Häupter, taufend >," >
+Augen, taufend Füße hat, murzelt in der Menschenbrust und
+durchdringt zugleich die ganze Erde. Diefes Wefen ift die Weit IP:
+und Alles, was je war und feyn wird. Es ift Das, was durch Lt 272 In.
+die Nahrung wäh, und Das, mas Unfterblichfeit verleihet.
+Diefes ift feine Größe: und darum ift e8 der allerherrlichfte ver-
+förperte Geist. Die Beftandtheile diefer Welt machen Einen
+Theil feines Wesens aus, und brei Theile find Unfterblichkeit,
+im Himmel. Diefe drei Theile haben fih aus der Welt em—
+porgehoben; aber ber Eine Theil ift zurüdgeblieben und ift Das,
+was (durch die Seelenwandrung) die Früchte guter und böfer
+Thaten genießt und nicht genießt.” u. f. w. (nad) Colebrooke,
+on the religious ceremonies of the Hindus, im 5. Bande
+
+
+—
+
+ [S. 188]
+
+
+der Asiatic researches ©. 345 ber Kaffutter Ausg., auch in
+beffen Miscellaneous essays Vol. 1. p. 167.).
+
+Wenn man nun bergleihen Gefänge mit unfern Gesang—
+büchern vergleiht, wird man fich nicht mehr wundern, daß bie
+Anglifanifhen Miffionarien am Ganges fo erbärmlich fchlechte
+Geschäfte machen und mit ihren Vorträgen über ihren „maker“*)
+
+
+*) Maker ift das deutfche „Macher” und auch, wie biefes, in compositis
+häufig, 3.8. watchmaker, shoemaker, — Uhrmacher, Schuhmadyer, u. a. m.
+Our maker „unfer Macher”, ift nun in Englifchen Schriften, Predigten und
+dem gemeinen Leben ein fehr gewöhnlicher und beliebter Ausdruck für „Gott“;
+welches ich, als für die Englifche Religionsauffaflung höchst harafteriftifch, zu
+bemerken bitte, Wie jedoch dem, in der Lehre des heiligen Veda erzogenen
+Brahmanen und dem ihm nacheifernden Vaisia, ja, wie dem gefammten, vom
+Glauben an die Metempfychofe und die Vergeltung durch fie durchdrungenen
+und bei jedem Vorgange im Leben ihrer eingevenfen Indifchen Bolfe zu
+Muthe werben muß, wenn man ihm folche Begriffe aufbringen will, wird der
+unterrichtete Zefer leicht ermeflen. Von dem ewigen Brahm, weldes in
+Allem und in Jedem da ijt, leidet, lebt und Erlöfung hofft, überzugehn zu
+jenem maker aus nichts ift für die Leute eine fihwere Zumuthung. Ih:
+nen wird nie beizubringen seyn, daß die Welt und der Menfch ein Machwerf
+aus nichts fei. Mit großem Rechte fagt daher der edele Verfafler des im
+Terte fogleich zu lobenden Buches, ©. 15 desselben: „die Bemühungen ber
+„Miffionarien werben fruchtlos bleiben: Fein irgend achtungswürbiger Hinbu
+„wird jemals ihren Bermahnungen nachgeben.‘ Drsgleihen ©. 50, nad
+Darlegung der Brahmanifchen Grundlehren: „Zu Loffen, daß fie, durchdrun—
+gen von diefen Anfichten, in denen fie leben, weben und find, jemals fie auf:
+geben werben, um bie Chriftlihe Lehre anzunehmen, ift, meiner feiten
+Ueberzeugung nad), eine eitele Erwartung.” Auch ©. 68. „Und wenn, zu
+solchem Zwed, die ganze Synode der nglifchen Kirche Hand anlegte, würde
+e8 ihr, es wäre denn durch abfoluten Zwang, wahrlich nicht gelingen, auch
+nur einen Menfchen aus Taufend in der großen Inbifchen Bevölferung zu
+befehren.“ Wie richtig feine Vorherfagung gemwefen bezeugt noch jeßt, Al
+Jahre fpäter, ein langer Brief in den Times vom 6. November 1849, unter:
+zeichnet Civis, der, wie aus demfelben erhellt, von einem Manne herrührt,
+welcher lange in Indien gelebt hat. Darin heißt es unter Anderm: „nie ist
+„mir auch nur ein einziges Beifpiel befannt geworben, daß in Indien ein Mensch,
+„deflen wir ung rühmen dürften, zum Christenthum befehrt worden wäre; nicht
+„einen Fall wüßte ich, wo es nicht Einer gewefen wäre, der dem Glauben, ven
+„er annahm, zum Vorwurf, und dem, den er abfchwur, zur Warnung gereichte.
+„Die Profelyten, welche man bis jegt gemacht hat, fo wenige ihrer find, ha:
+„ben daher bloß gedient, Andere von der Nachfolge ihres Beifpiels abzufchref:
+„sen. Nachdem auf diefen Brief Widerfpruch erfolgt war, erfcheint, zur
+
+
+Zur Ethik. 189
+
+
+bei ben. Brahmanen feinen Eingang finden. Wer aber das
+Bergnügen genießen will, zu fehn, wie den abfurben und un-
+verfhämten Prätenfionen jener Herren, schon vor Al Jahren,
+ein .Englifcher Offizier fühn und nachdrücklich entgegengetreten
+it, der Iefe die. Vindication of the Hindoos from the as-
+persions of the reverend Claudius Buchanan, with a refu-
+tation of his arguments in favour of an ecclesiastical esta-
+blishment in British India: the whole tending to evince
+the excellence of the moral system of the Hindoos; by a
+Bengal officer. Lond. 1808. Der Berfafler setzt darin, mit
+feltener $reimüthigfeit, die Vorzüge der Hindostanischen Glau—
+benslehren vor den Europäifchen auseinander. Die Heine Schrift,
+welche. Deutich etwan 5 Bogen füllen würde, verdiente noch jet
+
+
+‚ Überfegt zu werben; ba fie befier und aufrichtiger, als irgend
+
+
+— — ne — —— — —
+
+
+eine mir befannte, den fo wohlthätigen praktischen Einfluß des
+Brahmanismus, fein Wirfen im Leben und im Bolfe, darlegt, —
+ganz anders, als die aus geiftlichen Federn gefloffenen Berichte,
+die, eben als solche wenig Glauben verdienen; hingegen überein-
+fimmend mit Dem, was ich mündfid von Englifchen Offizieren,
+die ihr halbes Leben in Indien zugebracdht hatten, vernommen
+habe. Denn, um zu wiffen, wie neidifch und ergrimmt die stets
+für ihre Pfründen zitternde Anglifanifhe Kirche auf den Brab-
+manismus ift, muß man 3. B. das laute Gebelle fennen, mel-
+
+
+Bekräftigung deffelben, in ven Times vom 20. November, ein zweiter, Se—
+rahee unterfchrieben, darin es heißt: „ich habe über 12 Jahre in der Prä-
+„Nentur Madras gedient und während diefer langen Zeit nie ein einziges
+„Individuum gefehn, welches sich andy nur nominell, vom Hinduismus, oder
+„vom Islam, zur proteftantifchen Religion befehrt hätte. So weit alfo stimme
+‚Ad ganz mit Givis überein und glaube, daß fait alle Offiziere ver Armee
+„ein ähnliches Zeugniß ablegen werden.” — Auch auf diefen Brief ift ftarfer
+Widerspruch erfolgt: allein ich glaube, daß folcher, wenn auch nicht von Miffio-
+narien, doch von Cousins der Miffionarien herrührt; wenigftens find es fehr
+gottjelige Gegner. Mag alfo auch nicht Alles, was fie anführen, ohne Grund
+feyn; fo messe ich denn doch den oben ertrahirten, unbefangenen Gewährs—
+männern mehr Glauben bei. Denn bei mir findet, in England, der rothe
+Rod mehr Glauben, als der fohwarze, und Alles, was dafelbit zu Gunften
+der Kirche, diefer fo reichen und bequemen Berforgungsanftalt der mittellofen
+
+
+er Söhne der gefammten Ariftofratie, gefagt wird ift mir eo ipso ver—
+tig.
+
+ [S. 190]
+
+
+des, vor einigen Jahren, die Bifchöfe im Parlament erhoben,
+Monate lang fortfegten und, da die Oftindifchen Behörden, wie
+immer bei foldhen Gelegenheiten, sich überaus zähe bezeigten, stets
+wieder aufs Neue anftimmten, bloß über einige äußere Ehren:
+bezeugungen, welche, wie billig, in Indien, von Englifchen Be-
+börden, ber uralten, ehrwürbigen Landesreligion erzeigt wurden,
+z. B. daß, wann bie Proceffion mit den Götterbildern vorüber⸗
+zieht, die Wache mit dem Offizier hübsch heraustritt und trom-
+melt; ferner über die Lieferung rothen Tuces, den Wagen von
+Sagernauth zu beveden, u. dgl. m. Letztere ift wirklich jenen
+Herren zu Gefallen, nebft dem dabei erhobenen Pilger-Zoll, ein-
+geftellt worden. Inzwischen läßt das unabläffige Geifern jener
+fi) selbst sehr⸗ ehrwürdig nennenden Pfründen- und Allongenpe-
+ruden-Träger über solche Dinge, nebft der noch ganz mittelalter-
+lichen, heut zu Tage aber roh und pöbelhaft zu nennenden Weile,
+in der fie sich über die Urreligion unferd Gefchlechtes ausdrül⸗
+fen, imgleihen auch das fchwere Aergerniß, welches fie daran
+nahmen, daß Lord Ellenborough 1845 die Pforte der, i. J. 1022
+von jenem fluchwürdigen Mahmud dem Ghaznewiden zerftörten
+Pagode von Sumenaut im Triumpbzuge nad) Bengalen zurüd-
+brachte und den Brahmanen übergab, — dies Alles, fage id,
+läßt vermuthen, daß ihnen nicht unbefannt ift, wie sehr bie mei:
+fien der Europäer, welde lange in Indien leben, in ihrem
+Herzen dem Brahmanismus zugethan werben und über die reli-
+giöfen, wie die focialen Borurtheile Europa’d nur noch die Ach—
+fel zuden. „Das fällt Alles ab, wie Schuppen, fobald man
+nur zwei Jahre in Indien gelebt hat,” — fagte zu mir ein
+Mal ein Solder. Sogar ein Franzofe, jener fehr gefällige und
+gebildete |Herr, der vor etwan zehn Jahren, die Dewadassi
+(vulgo Bayaderen) in Europa begleitete, rief, als ich mit ihm
+auf die Religion jenes Landes zu fprechen Fam, fogleich mit feu-
+riger Begeifterung aus: Monsieur, c’est la vraie religion!
+— Höchst drollig hingegen ift, nebenbei gefagt, die gelaffen
+lächelnde Süffifance, mit welcher einige fervile Deutiche Philo-
+fophafter, wie auch manche Budhftaben- Drientaliften, von ber
+Höhe ihres rationalistischen Judenthums auf Brahmanigmus und
+Buddhaismus herabfehn. Solchen Herrlein möchte ich wahrlid
+ein Engagement bei der Affenfomödie auf der Frankfurter Messe
+
+
+Zur CEthit. 191
+
+
+vorfchlagen; wenn anders die Nachfommen des Hanuman fie
+unter fich dulden wollen. —
+
+
+$. 116.
+
+
+Nah meiner Preisfchrift über die moralifhe Freiheit
+fann feinem denfenden Menfchen zweifelhaft bleiben, daß biefe
+nirgends in der Natur, fondern nur außerhalb der Natur zu
+fuhen if. Sie ift ein Metaphyfifches, aber in der physischen
+Welt ein Unmögliches. Demnach find unfere einzelnen Thaten
+feineswegs frei; hingegen ift der individuelle Charakter eines
+Jeden anzufehn als feine freie That. Er selbst ift ein Solcher,
+weil er, ein für alle Mal, ein Solder feyn will. Denn ber
+Wille selbst und an sich ift, auch fofern er in einem Individuo
+eriheint, alfo das Ur- und Grundwollen beffelben ausmacht,
+von aller Erkenntniß unabhängig, weil ihr vorbergängig. Bon
+ihr erhält er bloß die Motive, an denen er fucceffive fein We⸗
+fen entwickelt und sich kenntlich macht, oder in die Sichtbarkeit
+tritt: aber er felbft if, ald außer der Zeit Tiegend, unveränder-
+ih, fo Iange er überhaupt if. Daher kann Jeder, als ein
+Solcher, der er nun ein Mal ift, und unter den jedesmaligen
+Umftänden, die aber ihrerjeitö nach firenger Nothwendigkeit ein-
+treten, fchledhterdings nie etwas Anderes thun, ald mas er jedes⸗
+mal gerade jest thut. Demnach if der ganze empirische DVer-
+lauf des Lebens eined Menschen, in allen feinen Borgängen,
+großen und Heinen, fo nothwendig vorberbeftimmt, wie der eis
+ned Uhrwerks. Dies entfteht im Grunde daraus, daß die Art,
+wie die befagte, metaphysische freie That ins erfennende Bewußt⸗
+jeyn fällt, eine Anfchauung ift, welche Zeit und Raum zur Form
+hat, mittelft welcher nunmehr die Einheit und Untheilbarfeit je-
+ner That fich darftellt als auseinandergezogen in eine Reihe von
+Zuftänden und Begebenheiten, die am Leitfaden des Satzes vom
+Grunde in feinen vier Geftalten, — und bied eben heißt noth-
+wendig, — eintreten. Das Nefultat aber ift ein moraliiches,
+nämlich Diefes, daß wir an Dem, was wir thun, erfennen was
+wir find; wie wir an Dem, was wir leiden, erfennen was wir
+verdienen.
+
+Hieraus folgt nun ferner, daß die Individualität nit
+allein auf dem principio individuationis beruht und Daher nicht
+
+ [S. 192]
+
+
+durch und durch bloße Erfcheinung ist; fondern daß sie im
+Dinge an fih, im Willen des Einzelnen, wurzelt: denn fein
+Charakter selbst ift individuell. Wie tief nun aber bier ihre
+Wurzeln gehn, gehört zu den Fragen, deren Beantwortung ich
+nicht unternehme.
+
+Hiebei verdient in Erinnerung gebracht zu werben, daß
+ihon Plato, auf feine Weife, die Individualität eines Jeden
+als deflen freie That darftellt, indem er ihn, in Folge feines
+Herzens und Charakters, als einen Solchen, wie er ift, mittelft
+der Metempsychose, geboren werben läßt. De legib. X. p. 106.
+ed. Bip. — Aud die Brahmanen ihrerfeitd brüden die unver-
+änderliche Beftimmtheit des angeborenen Charakters mythisch da⸗
+durch aus, daß fie jagen, Brahma habe, bei der Hervorbringung
+jedes Menschen, fein Thun und fein Leiden, in Schriftzeichen auf
+feinen Schädel gegraben, denen gemäß fein Lebenslauf ausfallen
+müsse. Als diefe. Schrift weisen fie die Zaden der Suturen ber
+Schädelknochen nad. Der Inhalt derfelben fei eine Folge feines
+vorhergegangenen Lebens und dessen Thund. (Siehe. lettres
+edifiantes, Edition de 1819, Vol. 6, p. 149, et Vol. 7,
+p. 135.) |
+Eine andere Folge des Dbigen, bie fih empirisch durchgän⸗
+gig beftätigt, ift, daß alle ächten Berbienfte, die moralifchen,
+wie die intelleftuellen, nicht bloß einen physischen, oder fonft em⸗
+pirifchen, fondern einen metaphysischen Urfprung haben, demnach
+a priori und nicht a posteriori gegeben, d. h. angeboren und
+nicht erworben find, folglih nit in der bloßen Erfcheinung,
+fondern im Ding an fih murzeln. Daher leistet Jeder im
+Grunde nur Das, was fchon in feiner Natur, d. b. eben in
+feinem Angeborenen, unwiderruflich feftfteht. Die intellektuellen
+Fähigfeiten bedürfen zwar der Ausbildung; wie mande Natur-
+produfte der Zurichtung, um genießbar, oder fonft nugbar, zu
+feyn: wie aber hier feine Zurichtung das urfprüngliche Material
+erjegen fann, jo auch dort nicht. Daher eben find alle bloß er-
+mworbenen, angelernten, erzwungenen Eigenfchaften, aljo die Ei-
+genfchaften a posteriori, moralifche, wie intellektuelle, eigentlich
+unädht, eiteler Schein, ohne Gehalt. Wie nun Dies aus einer
+richtigen Metaphyfif folgt, fo lehrt es auch ein tieferer Blick in
+bie Erfahrung. Sogar bezeugt es das große Gewicht, welches
+
+
+u"
+
+
+Zur Ethif. 193
+
+
+Alle auf die Physiognomie und das Aeußere, also das Angebo—
+rene, jedes irgendwie ausgezeichneten Menschen legen und daher
+so begierig sind, ihn zu sehn. Die Oberflächlichen freilich und,
+aus guten Gründen, die gemeinen Naturen werben der entgegen-
+gesetzten Anficht feyn, um bei Allem, was ihnen abgeht, sich ge-
+töften zu können, es werde noch fommen. — So ift denn diefe
+Welt nicht bloß ein Rampfplag, für deffen Siege’ und Nieder-
+lagen bie Preife in einer Fünftigen ausgetheilt werden; fondern
+fie selbst ist Schon das jüngste Gericht, indem Jeder Fohn und
+Schmah, je nach feinen VBerdienften, mitbringt; — wie tenn
+auch Brahmanismus und Buddhaismus, indem fie mem
+Hofe ehren, Dies nicht anders wissen. —
+
+
+$. 117.
+
+
+Ueber diefe Apriorität des moralifhen Charakters giebt zu
+mannigfaltigen Betrachtungen Stoff des Dänen Baftholm Bud:
+„Historische Nachrichten zur Kenntnig des Menfchen im rohen
+Zuftande.” Ihm ferbft fällt auf, daß Geiftesfultur und morali-
+Ihe Güte der Nationen fih als ganz unabhängig von einander
+erweifen, indem bie Eine oft ohne die Andere fi) vorfindet.
+Wir werden Dies daraus erklären, daß die moralifche Güte Fei-
+neswegs aus der Neflerion entipringt, deren Ausbildung von
+der Geiftesfultur abhängt; fondern geradezu aus dem Willen
+selbst, dessen Befchaffenheit angeboren ift und ber an sich felbft
+feiner Verbefferung durch Bildung fähig ift. Bastholm schildert
+nun die meiften Nationen als fehr Tafterhaft und fchlecht: hin—
+gegen hat er von einzelnen wilden Völkern die vortrefflichften
+allgemeinen Charafterzüge mitzutheilen: fo von den Drotchyfen,
+den Bewohnern der Insel Samu, den Tungufen und den Pelew-
+Infulanern. Da verfucht er, das Problem zu lösen, woher -es
+fomme, daß einzelne Bölferfchaften fo ausgezeichnet gut find,
+unter Yauter böfen Nachbarn. Mir fcheint, ed Fönne daraus er-
+Märt werben, daß, da die moralifchen Eigenfchaften vom Vater
+erblich find, in obigen Fällen eine foldhe ifolirte Völkerschaft aus
+Einer Familie entftanden, mithin dem felben Ahnherrn, der ge-
+trade ein guter Mann war, entforoffen ift und fi) unvermifcht
+erhalten bat. Haben doch auch, bei mancherlei unangenehmen
+Anfäffen, wie Staatsfchulden- Repudtanenen Raubzügen u. s. w.,
+
+u, 13
+
+
+4194 Zur Ethik.
+
+
+die Engländer den Norbamerifanern ind Gedächtniß gerufen,
+dag fie von einer engliihen Verbrecherkolonie abstammen; —
+wiewohl dies nur von einem geringen Theil derselben gelten
+fann.
+
+
+$. 118.
+
+
+Wie ein Botanifer an Einem Blatte die ganze Pflanze
+erfennt; wie Cüvier aus Einem Knochen das ganze Thier
+fonftruirte; fo fann man aus Einer charakteriftifchen Handlung
+eines Menfchen eine richtige Kenntniß feines Charakters erlan-
+gen, alfo ihn gewissermaaßen daraus Fonftruiren; fogar auch
+wenn diefe Handlung eine Kleinigfeit betrifft; ja, dann oft am
+beften: denn bei wichtigern Dingen nehmen die Leute fih in
+Acht; bei Kleinigfeiten folgen fie, ohne vieled Bedenken, ihrer
+Natur. Zeigt Einer in folchen, durch fein abfolut vückfichtslofes,
+egoiftifches Benehmen, daß die Gerechtigfeit der Gefinnung fei-
+nem Herzen fremd ift; fo foll man ihm, ohne gehörige Sicher—
+heit, feinen Grofchen anvertrauen. Denn wer wirb glauben,
+daß Der, welcher in allen andern, nicht das Eigenthum beiref-
+fenden Angelegenheiten, fich täglich ungerecht bezeugt und dessen
+gränzenlofer Egoismus aus den Heinen, feiner Rechenfchaft un
+tertoorfenen Handlungen des gemeinen Lebens überall hervorgudt,
+wie ein fchmußiged Hemd aus den Löchern einer zerlumpten
+Yale, — daß ein Solcher in den Angelegenheiten des Mein
+und Dein, ohne andern Antrieb, als den der Gerechtigkeit, ehrlich
+seyn werde? Nach dem felben Princip foll man auch mit foge
+nannten guten Freunden, felbit über Kleinigfeiten, wenn fie einen
+boshaften, oder fchlechten, oder gemeinen Charakter verrathen,
+fogleich brechen, um dadurch ihren großen schlechten Streichen
+vorzubeugen, die nur auf Gelegenheit warten, sich einzuftellen.
+Das Selbe gilt von Dienern. Stets denfe man: befler allein,
+als unter Berräthern.
+
+Wirklich ift die Grundlage und Propäbeutif zu aller Men-
+jhenfenntniß die Leberzeugung, daß das Handeln des Menschen,
+im Ganzen und Wesentlichen, nicht von feiner Bernunft und
+deren Borfägen geleitet wird; daher Keiner Diefes oder Jenes
+Dadurch wird, daß er es, wenn auch noch fo gern, seyn möchte:
+jondern aus feinem angeborenen und unveränderlichen Charakter
+
+
+Zur Eipif. 195
+
+
+geht fein Thun hervor, wird näher und im Besondern be-
+stimmt dur die Motive, ift folglich das nothwendige Pro-
+buft dDiefer beiden Faktoren. Demgemäß kann man das Han-
+deln des Menschen fih veranfhaufihen an dem Lauf eines
+Planeten, ald welcher das NRefultat der diesem beigegebenen
+Tangential- und der von feiner Sonne aus wirfenden Centri⸗
+petal=- Kraft ist; mobei denn die erftere Kraft den Charafter,
+die letztere den Einfluß der Motive darstellt. Dies ist faft
+mehr als ein bloßes Gleichniß; fofern nämlich die Tangential-
+fraft, von welcher eigentlih die Bewegung ausgeht, während
+fie von der Gravitation befchränft wird, metaphufifch genommen,
+der in einem solchen Körper sich darftellende Wille ift.
+
+Wer nun Diefes begriffen hat, wird auch einfehn, daß wir
+über Das, was wir in einer zufünftigen Lage thun werben, ei-
+gentlich nie mehr, als eine Muthmaaßung haben; obwohl wir
+biefe oft für einen Entfhluß halten. Wenn z. B. ein Mensch,
+in Folge eines Vorschlags, die Verbindlichkeit, beim Eintritt
+noch in der Zufunft Yiegender Umftände, Diefed oder Jenes zu
+thun, höchst aufrichtig und fogar fehr gern eingegangen ift; fo
+ist hiedurch noch gar nicht ausgemacht, daß er fie erfüllen werde;
+ed fei denn, er wäre fo beichaffen, daß fein gegebenes Berfpre-
+hen selbst und als folches stets und überall ein binreichendes
+Motiv für ihn würde, indem es, mittelft der Rüdficht auf feine
+Ehre, wie ein fremder Zwang auf ihn wirkte. Außerdem aber
+läßt fih was er, beim Eintritt jener Umftände, thun wird, ganz
+allein, jedoch mit völliger Gewißheit vorherbeftimmen aus einer
+tihtigen und genauen Kenntniß feines Charakters und der äußern
+Umftände, unter deren Einwirkung er alddann geräth. Dies
+if fogar fehr Teicht, wenn man ihn schon ein Mal in der gleis
+hen Lage gefehn hat: denn unfehlbar wird er das zweite Mal
+das Selbe thun, vorausgefett, daß er fhon beim erften die Um⸗
+Hände richtig und vollständig erfannt Hatte; da, wie ich öfter
+bemerft habe, causa finalis non movet secundum suum esse
+reale, sed secundum esse cognitum. (Suarez, disp, me-
+taph. disp. XXIII, sect. 7 et 8.) Was er nämlich das erfte
+Mal nicht erfannt oder verftanden hatte, fonnte dann auch nicht
+auf feinen Willen einwirken; eben wie ein eleftrifcher Proceß
+
+13*
+
+
+196 Zur Eihif.
+
+
+stockt, wenn irgend ein ifolirender Körper Die Einwirkung eines
+Leiters hemmt. — Ungemein deutlich dringt die Unveränderlid-
+feit des Charakters und daraus hervorgehende Nothwendigkeit
+der Handlungen fi) Dem auf, der, bei irgend einer Gelegenbeit,
+sich nicht benommen hat, wie er gejollt, indem er etwan an Ent-
+fchlofienheit, oder Feftigfeit, oder Muth, oder fonftige vom Au—
+genblick geforderte Eigenfchaften es hat fehlen lassen. Jetzt hin:
+terher erfennt und bereut er fein unrichtiges Verfahren aufrid:
+tig und denft auch wohl: „Sa, wenn mir Das wieder geboten
+würde, da wollt’ ich eö anders machen!“ Es wird ihm wieder
+geboten, der gleiche Kall tritt ein: und er macht es wieder ganz
+eben jo, — zu feiner großen Verwunderung.
+
+
+Zu ber hier in Rebe ftehenden Wahrheit Tiefern uns durch— |
+
+
+gängig die befte Erläuterung Shafefpeare’d Dramen. Denn er
+war von ihr durchdrungen nnd feine intuitive Weisheit fpridt
+fie in conereto auf jeder Seite aus. Ich will Dies jedoch jekt
+an einem Fall eremplificiren, in welchem er es mit befonderer
+Deutlichfeit Hervorhebt, wiewohl ohne Abdfichtlichfeit und Affelt«-
+tion, da er, als ein ächter Künftler, nie von Begriffen ausgeht;
+fondern offenbar nur, um der pfochologifchen Wahrheit, wie er
+fie anschaulich und unmittelbar auffaßt, zu genügen, unbefümmert
+darum, daß ed von Wenigen recht beachtet und verftanden wer:
+den würde, und ohne Ahndung davon, daß einft in Deutfchland
+fade und flache Gefellen breit audeinanderfegen würden, daß er
+feine Stüre geichrieben habe, um moralifhe Gemeinyläße zu
+illuftriren. Was nun ich hier meyne, ift der Charafter des Gra—
+fen Norihumberland, den wir durch drei Trauerfpiele hindurch—
+geführt fehn, ohne daß derfelbe eigentlih als Hauptperfon auf
+träte, vielmehr nur in wenigen Scenen, die in 15 Afte vertheilt
+find, vorfommt; daher wer nicht mit voller Aufmerffamfeit liest
+ben in fo weiten Zwifchenräumen dargeftellten Charakter und bie
+moralifhe Identität beffelben Teicht aus den Augen verlieren
+fann; fo feft ihn aucd der Dichter vor den feinigen behalten
+hat. Er läßt diefen Grafen überall mit edlem, ritterlichem An:
+ftande auftreten, eine diefem angemefjene Sprache reden, ja, hat
+ihm mitunter sehr fchöne und felbft erhabene Stellen in ben
+Mund gelegt; indem er weit Davon entfernt ift, es zu machen
+
+
+wie Schiller, der gern den Teufel schwarz malt, und befien mo |
+
+
+Zur Ethik, 197
+
+
+ralifhe Billigung, oder Mißbilligung, der von ihm dargeftellten
+Sharaftere durch ihre eigenen Worte durchflingt. Sondern bei
+Shafefpeare, und fo auch bei Göthe, hat Jeder, während er da—
+tteht und vedet, vollfommen Recht, und wäre er der Teufel felbft.
+Man vergleiche in dieser Hinfiht den Herzog Alta bei Göthe
+und bei Schiller. — Die Befanntfchaft des Grafen Northumber:
+land also machen wir schon im Richard Il, wo er der Erfte ift,
+eine Verschwörung gegen den König anzuzettelr, zu Gunften
+des Bolingbrofe, nachherigen Heinrich's IV, welchem er au
+schon (Aft 2, Se. 3) persönlich schmeichelt. Im folgenden Aft
+erleidet er eine Zurechtweifung, weil er, vom Könige rebend,
+schlechtweg Richard gejagt hat, verfichert jedoch, es bloß beliebter
+Kürze halber getban zu haben. Bald darauf bewegt feine hin-
+terliftige Nede den König zur Kapitulation. Im folgenden Aft
+behandelt er diesen, beim SKronentfagungsaftus, mit folder
+Hirte und Schnöde, daß der unglüdliche, gebrochene Monarch doch
+noch ein Mal die Geduld verliert und ausruft: ‚Teufel! du
+quälst mich, noch ehe ich in der Hölle bin.” Am Schlusse be-
+richtet er dem neuen Könige, daß er die abgeichlagenen Köpfe
+der Anhänger des vorigen. nad) London gefandt habe. — Im
+folgenden Trauerfpiele, Heinrich IV, zettelt er, ganz eben fo,
+eine Verschwörung gegen den neuen König an. Sm vierten
+Ute fehn wir diese Rebellen vereinigt, sich zur morgenden
+Hauptichlacht vorbereiten, nur auf ihn und feine Heeresabthei-
+lung mit Ungeduld wartend. Da kommt endlid ein Brief von
+ihn: er felbft wäre frank, feine Heeresmacht aber könne er einem
+Andern nicht anvertrauen, jedoch follten fie nur muthig fortfah-
+ven und tapfer darauf losgehn. Sie thun es: aber durch fein
+Ausbleiben bedeutend geschwächt werben fie gänzlich gefchlagen,
+die meiften ihrer Häupter gefangen und fein eigener Sohn, der.
+hefdenmüthige Hotfpur, fällt von der Hand des Kronprinzen. —
+Wieder im folgenden Stüde, dem zweiten Theile Heinrichs IV,
+jehn wir ihn durch den Tod diefes Sohnes in ben wildesten
+Zorn verfegt und wüthend Race schnauben. Er facht daher die
+Rebellion wieder an: die Häupter derselben fammeln fi aufs
+Neue. Wie nun diefe, im vierten Akte, eben die Hauptschlacht
+su Tiefern Haben und nur noch darauf warten, daß er zu ihnen
+foße, fommt ein Brief: er habe die gemügende Heeresmacht
+
+ [S. 198]
+
+
+nicht zufammenziehn können, werde daher für jegt feine Sicher:
+heit in Schottland fuchen, wünsche jedoch von Herzen ihrem hel-
+denmüthigen Unternehmen den beften Erfolg. Worauf fie fih
+dem König unter einer Konvention ergeben, bie nicht gehalten
+wird, und fo zu Grunde gehn. —
+
+Weit entfernt alfo, daß der Charakter das Werk vernünf-
+tiger Wahl und Ueberlegung wäre, hat der Yntelleft beim Han-
+bein nichts weiter zu thun, ald dem Willen die Motive vorzus
+halten: dann aber muß er, als bloßer Zufchauer und Zeuge,
+zufehn, wie aus ihrer Wirfung auf den gegebenen Charafter
+der Lebenslauf sich geftaltet, dessen sämmtliche Vorgänge, genau
+genommen, mit derfelben Nothwendigkeit eintreten, wie die Be:
+mwegungen eines Uhrwerks; worüber ich auf meine Preisfchrift
+von der Willensfreiheit verweife. Die hiebei nichtsdestoweniger
+Statt findende Illusion einer gänzlichen Freiheit des Willens,
+bei jeder einzelnen Handlung, babe ich ebendafelbft auf ihre
+wahre Bedeutung und ihren Urfprung zurüdgeführt und dadurch
+die bewirfende Urfach derfelben angegeben, welcher ich bier nur
+noch bie Endursache beigeben will, in folgender teleologischer
+Erklärung jenes natürlichen Scheins. Indem bie Freiheit und
+Urfprünglichfeit, welche in Wahrheit allein dem intelligibeln
+Charakter eines Menfchen, dessen bloße Auffaflung durch den
+ntelleft fein Lebenslauf ift, zufommt, jeder einzelnen Handlung
+anzubängen fcheint und fo das urfprüngliche Werk, für das em-
+pirifche Bewußtseyn, fcheinbar in jeder einzelnen Handlung aufs
+Neue vollbracht wird; fo crhält hiedurch unfer Lebenslauf die
+größtmöglichfte moralifche vouzeInois, indem fänmtliche fchlechte
+Seiten unsers Charafters uns dadurch erft recht fühlbar werben.
+Jede That nämlich begleitet das Gewiflen mit dem Kommentar
+„du könntest auch anders handeln”, — obwohl deflen wahrer
+Sinn ift: „du fönnteft auch ein Andrer seyn.“
+
+Machiavelli, der fih durchaus nit mit philofophifchen
+Spefulationen befchäftigt zu haben feheint, wird, vermöge ber
+durchdringenden Schärfe feines fo einzigen Verftandes, zu fol
+gendem, wahrhaft tieffinnigen Ausspruche geführt, der eine in-
+tuitive Erfenntniß der gänzlihen Nothwendigkeit, mit der, bei
+gegebenen Charakteren und Motiven, alle Handlungen eintreten,
+vorausfegt. Er hebt mit demfelben ben Prolog zu feiner Ko:
+
+
+Zur Ethil. 199
+
+
+mödie Clitia an: Se nel mondo tornassino i medesimi
+uomini, come tornano i medisimi casi, non passarebbono
+mai cento anni, che noi non ci trovassimo un altra volta
+insieme, a fare le medesime cose, che hora. (Wenn, auf
+der Welt, die felben Menschen wiederfehrien, wie die felben Fälle
+wieberfehren, fo würden niemals hundert Jahre verlaufen, ohne
+dag wir abermals uns beifammen befänden, um das Selbe wie
+iegt wieder zu thun). |
+
+Das Fatum, die ziurguern, der Alten ift eben nichts Ans
+deres, als die zum Bewußtseyn gebrachte Gewißheit, daß alles
+Gefchehende durch die Kaufalfette feft verbunden ift und daher
+fireng nothivendig eintritt, demnach das Zufünftige schon voll
+fommen feft fteht, fiher und genau beftimmt ift und daran fo
+wenig etwas geändert werben fann, wie am VBergangenen. Bloß
+das Vorherwissen defielben fann an den fataliftiihen Mythen
+der Alten ald fabelhaft angefehn werden; — wenn wir biebei
+von der Möglichkeit des magnetischen Hellfehne und des zweiten
+Gefihts abftrahiren. Statt die Grundwahrheit des Fatalidmus
+durch feichtes Geschwätz und alberne Ausflüchte befeitigen zu
+wollen, follte man fuchen, fie recht deutlich zu verftehn und zu
+erfennen; da fie eine demonftrable Wahrheit ift, welche ein wich-
+tiges Datum zum Verständniß unjers fo räthfelhaften Daseyns
+liefert.
+
+Prädeftination und Fatalismus find nicht in der Hauptfache
+verschieden, fonbern nur darin, daß der gegebene Charakter und
+die von außen fommende Beitimmung des menfchlichen Thuns
+bei jener von einem erfennenden, bei diefem von einem erfennt-
+niplofen Wesen ausgeht. Im Refultat treffen fie zufammen:
+es gefihieht was geichehen muß. — Der Begriff einer moralis
+hen Freiheit hingegen ift unzertrennlich von dem ber Ur—
+Iprünglichfeit. Denn daß ein Wesen dad Werf eined An-
+dern, dabei aber, feinem Wollen und Thun nad), frei fei, Täßt
+fih mit Worten fagen, aber nicht mit Gedanken erreichen. Der
+nämlich, welcher ihn aus nichts ins Dafeyn rief, hat eben damit
+auch fein Wefen, d. h. feine fämmtlichen Eigenfchaften, mitge:
+schaffen und feftgeftellt. Denn nimmermehr kann man fchaffen,
+ohne dag man ein Etwas fchaffe, d. h. ein durchweg und allen
+feinen Eigenfehaften nach genau beftimmtes Wesen. Aus diesen
+
+
+200 Zur Eihif.
+
+
+Dadurch feftgeftellten Eigenichaften aber fließen nachher mit Notb:
+wendigfeit die sämmtlichen Aeußerungen und Wirkungen beflel-
+ben, indem diefe eben nur. die ind Spiel gejegten Eigenfchaften
+fetbft find, welche bloß der Beranlaffung von außen bedurften,
+um bervorzutreten. Wie der Mensch ift, fo muß er handeln:
+alfo nicht feinen einzelnen Thaten, fondern feinem Wefen und
+Seyn flebt Schuld und Berdienft an. Daher find Theismus
+und moralifche Berantwortlichfeit des Menschen unvereinbar; weil
+eben die Berantwortlichfeit immer auf den Urheber des Wefens
+zurüdfälft, als wofelbft fie ihren Schwerpunkt hat. Vergebens
+hat man gefucht, zwifchen jene beiden Unvereinbaren eine Brüde
+zu Schlagen, mittelft des Begriffs der moraliihen Freiheit des
+Menjchen: fie ftürzt immer wieder zufammen. - Das freie We-
+fen muß aud das ursprüngliche feyn. Ist unfer Wille frei,
+fo ift er audy das Urwesen; und umgekehrt. Der vorfantifce
+Dogmatismus, welcher diefe beiven Prädifamente getrennt halten
+wollte, war eben dadurch auch genöthigt, zwei Freiheiten anzu:
+nehmen, nämlich die der ersten Welturfache, für die Kosmologie,
+und die des menfchlichen Willens für die Moral und Theologie:
+dem entiprechend handelt auch bei Kant fowohl die dritte, wie
+die vierte Antinoinie von der Freiheit.
+
+In meiner Philosophie Hingegen entfpricht Die unbefangene
+Anerkennung der firengen Neceffitation der Handlungen der
+Lehre, daß auch in den erfenntnißlofen Wesen das sich Manife-
+ftirende Wille fei. Sonft würde die, beim Wirfen dieser au-
+genfälfige Neceffitation daffelbe zum Wollen in Gegensatz ftel-
+Yen, wenn nämlich es wirklich fo eine Freiheit des einzelnen
+Thuns gäbe und diefes nicht vielmehr eben fo fireng necefftirt
+wäre, wie jedes andere Wirken. — Andererfeits macht, wie ich
+eben gezeigt habe, die jelbe Lehre von der Neceffitation der
+Willensafte nöthig, daß das Dafeyn und Wefen des Menfden
+selbst Werk feiner Freiheit, mithin feines Willens fei, diefer alfo
+Afeität Habe. Unter der entgegengefegten Borausfegung nämlich
+fiele, wie gezeigt, alle Berantwortlichfeit weg, und. die moralische,
+wie bie phyfiihe Welt wäre eine bloße Mafchine, die ihr außer
+halb befindliher Berfertiger zu eigener Unterhaltung ablaufen
+liege. — Sp hängen die Wahrheiten alfe zufammen, fordern sich,
+ergänzen fi; während der Irrthum an allen. Eden anftößt.
+
+
+Zur Ethif. 201°
+
+
+$. 119. |
+
+Welcher Art der Einfluß fei, den moraliihe Belehrun
+auf das Handeln haben kann, und weldyes die Gränzen deffelben,
+babe ih $. 20 meiner Abhandlung über das Fundament der
+Moral Hinfänglid unterfucht. Im Wefentlichen analog verhält
+fi) der Einfluß des Beifpiels, welcher jedoch mächtiger ift,
+ald der der Lehre; daher er eine kurze Analyfe wohl verdient.
+
+Das Beifpiel wirft zunächst entweder hemmend, oder befür-
+bernd. Erfteres, wenn es den Menfchen beftimmt, zu unterlaffen-
+was er gern thäte. Er fieht nämlich, daß Andere es nicht thun;
+woraus er im Allgemeinen abnimmt, daß es nicht räthlich fei,
+alfo wohl der eigenen Perfon, oder dem Eigenthum, oder ber
+Ehre Gefahr bringen müfle: daran halt er fih und fieht fi
+gern eigener Unterfuchung überhoben. Oder er fieht gar, daß
+ein Anderer, der es gethan hat, schlimme Folgen davon trägt:
+dies ift das abjchredende Beifpiel. Befürdernd hingegen wirft
+das Beifpiel auf zweierlei Weise: nämlich entweder fo, daß es
+den Menfchen bewegt, zu thun was er gern unterließe, jedoch
+ebenfalls beforgt, daß die Unterlaffung ihm irgend welche Gefahr
+bringen, oder ihm in der Meinung Anderer schaden könne; —
+oder aber ed wirft fo, daß es ihn ermutbigt, zu thun was er
+gern thut, jedoch bisher, aus Furcht vor Gefahr, oder Schande,
+unterlich: dies ift das verführerifche Beifpiel. Endlich kann
+auch noch das Beifpiel ihn auf etwas bringen, das ihm sonst
+gar nicht eingefallen wäre. Offenbar wirft es in diesem Fall
+zunächst nur auf den Intelleft: die Wirfung auf den Willen ift
+dabei sekundär und wird, wenn fie eintritt, durch einen Aft ei-
+gener Urtheilsfraft, oder durh Zutrauen auf Den, der bas Bei-
+fpiel giebt, vermittelt werden. — Die gefammte, fehr ftarfe Wir:
+fung bes Beifpield beruht darauf, daß der Mensch, in der Re—
+gel, zu wenig Urtheilöfraft, oft auch zu wenig Kenntniß hat,
+um feinen Weg felbft zu erploriven; daher er gern in bie Fuß—
+ftapfen Anderer tritt. Demnach wird Geber dem Einfluffe des
+Beifpield um fo mehr offen ftehn, je mehr es ihm an jenen bei-
+den Befähigungen gebridht. Die Art der Wirkung aber wird
+duch feinen Charakter beftimmt: daher das felbe Beifpiel auf
+den Einen verführerifch, auf den Andern abschreckend wirken kann.
+Died zu beobachten geben gewisse gefellfchaftliche Unarten, welche,
+
+
+202 Zur Eihif.
+
+
+früher nicht vorhanden, allmälig einreißen, ung leicht Gelegenheit.
+Beim erften Wahrnehmen einer folchen wird Einer denfen „pfui,
+wie läßt Das! mie egoiftifch, wie rüdfihtelos! wahrlich, ich
+will mid hüten, nie dergleichen zu thun.‘‘ Zwanzig Andere aber
+werben benfen: „aha! thut Der Das, darf ich's auch.“
+
+In moralifher Hinfiht kann das Beifpiel, eben wie bie
+Lehre, zwar eine civile, oder legale Beflerung befördern, ieboch
+nicht die innerlihe, welches die eigentlich moralifche if. Denn
+ed wirft stets nur ald ein perfönliches Motiv, folglich unter
+Borausfegung der Empfänglichfeit für foldhe Art der Motive.
+Aber gerade Died, ob ein Charakter für diefe, oder für jene
+Art der Motive überwiegend empfänglich fei, ift für die eigent-
+Yihe und wahre, jedoch stets nur angeborene Moralität desselben
+entjcheidend. Ueberhaupt wirft das Beifpiel ald ein Beförbe-
+rungsmittel des Hervortretend der guten und fchlechten Charak—
+tereigenfchaften: aber es schafft fie nicht: Daher Senefa’s Ausspruch
+velle non discitur aud hier Stid hält. Daß das Angeboren«
+feyn aller ächten moralifhen Eigenfchaften, der guten, wie der
+fchlechten, beffer zur Metempfschofenlehre der Brahmaniften und
+Buddhaisten, derzufolge „dem Menfchen feine guten und fchlech-
+ten Thaten aus einer Eriftenz in die andere, wie fein Schatten,
+nachfolgen,“ als zum Judentum paßt, welches vielmehr erfor-
+dert, daß der Mensch als moralifhe Null auf die Welt fomme,
+um nun, vermöge eined undenfbaren liberi arbitrii indifferen-
+tiae, fonad in Folge vernünftiger Ueberlegung, sich zu entichei-
+den, ob er ein Engel, oder ein Teufel, oder was fonft etwan
+zwifchen beiden liegt, feyn wolle, — Das weiß ich fehr wohl,
+fehre mich aber durchaus nicht daran: denn meine Standarte ift
+die Wahrheit. Bin ich doch eben Fein Philofophieprofeflor und
+erfenne daher nicht meinen Beruf darın, nur vor allen Dingen
+die Grundgedanfen des Judenthums sicher zu ftellen, felbft wenn
+folche aller und jeder philofophifchen Erfenntniß auf immer ben
+Weg verrennen follten. Liberum arbitrium indifferentiae,
+unter dem Namen „die fittliche Freiheit,“ ift eine allerliebfte
+Spielpuppe für Philofophieprofefforen, die man ihnen Taflen muß,
+— den geiftreichen, redlichen und aufrichtigen.

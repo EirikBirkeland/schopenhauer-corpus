@@ -1,0 +1,10 @@
+group	rank	file	author_year	words	tested	provable	floor30	note
+auditable	1	28	Johannes Volkelt, Arthur Schopenhauer (1900)	117104	522	46	9	German, quotes the works and cites volume and page
+auditable	2	78	Julius Frauenstädt, Einleitung des Herausgebers (1877)	39513	276	31	11	German
+auditable	3	72	Wilhelm Gwinner, Arthur Schopenhauer aus persönlichem Umgange (1862)	49737	187	15	8	German; quotes letters, talk and adversaries
+auditable	4	79	Julius Frauenstädt, Ein Lebensbild vom Herausgeber (1877)	19219	137	8	6	German
+auditable	5	73	Wilhelm Gwinner, Schopenhauer und seine Freunde (1863)	19360	196	3	2	German; the quarrel pamphlet
+auditable	6	23	Friedrich Liepmann, Arthur Schopenhauer, Allgemeine Deutsche Biographie 32 (1891), pp. 333-346	7219	55	1	2	German, but quotations are short
+english	-	21	Margrieta Beer, Schopenhauer (1914)	27343	73	8	11	ENGLISH original; a few German quotations survive
+english	-	26	Helen Zimmern, Arthur Schopenhauer: His Life and His Philosophy (1876)	61251	58	0	0	ENGLISH: she quotes in translation, so a German audit cannot see most of her apparatus
+english	-	22	Thomas Whittaker, Schopenhauer (1909)	19430	0	0	0	ENGLISH original

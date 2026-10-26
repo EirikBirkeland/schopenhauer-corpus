@@ -1,0 +1,540 @@
+================================================================================
+SCHOPENHAUER CORPUS - SHELF 3: GOSSIP
+   rumours, half-truths, condensements, and the errors of authorized writers
+================================================================================
+
+SHELF: gossip
+TIER: 3
+SHELF DECLARED: once, here - and carried by the tool, never by the line
+OPENED: 2026-10-25 (pass 27)
+AMENDED: 2026-10-26 (pass 51) - the specimen record G-01, an invented quote used to test
+the shelf, was REMOVED: the shelf holds other people's claims, not the butler's own.
+
+WHAT A RECORD MUST DO
+   Name who says it. A claim with no witness is a question the butler posed himself, and
+   must be marked `who says it: posed here`, never dressed up as gossip. Inventing a
+   rumour in order to knock it down is a game for one, and the shelf has no time for it.
+
+WHY THIS SHELF EXISTS
+   Tier 1 is what he printed. Tier 2 is what qualified writers made of it. This
+   shelf is everything else that gets said about him: the popular picture, the
+   anecdote handed down from the disciples, the quotation-book formula that is
+   supposed to be his and is not, and the small factual errors that even careful
+   secondary writers make. In a RAG collection it is the dangerous shelf: its
+   sentences read like facts and are not authored by him at all.
+
+HOW THE SHELF IS MARKED (owner's design, 2026-10-25)
+   No line on this shelf needs a "LIE:" prefix. The shelf is the disclaimer, and
+   the disclaimer is declared above once. What must NEVER be lost is the shelf on
+   the hit: a search of this shelf prints GOSSIP before every result, a search of
+   shelves 1-2 never prints it. So the marking lives in the header and in the
+   tool, not in the prose - which keeps the records quotable as they stand.
+
+   The intended door is a menu, which pre-contextualises the search:
+      (1) his own texts                     -> tier 1, files 01-71 in texts/
+      (2) authorized writers about him      -> tier 2, texts/secondary/
+      (3) gossip: a pack of lies and half-truths -> this shelf, OUT/schopenhauer/gossip.txt
+   A model that has chosen door 3 needs no further warning; a model that greps
+   flat across everything does, and gets it from the tool.
+
+STATUS VOCABULARY - one per record, and only these
+   HIS             his printed words, found in tier 1 (kept here because gossip
+                   keeps repeating it wrongly, or attributes it wrongly)
+   REPORTED        from a witness or a disciple: true to tell, not his writing
+   HALF-TRUE       a real kernel with a wrong detail attached
+   CONDENSED       his thought, not his wording: the poster version of a passage
+   MISFILED        his words, but put in the wrong book or the wrong century
+   SECONDARY-ERROR a mistake in an authorized writer, caught against the primary
+   UNSOURCED       circulating, and no carrier found in this collection at all
+   LIE             nothing of the kind anywhere in the 72 files: invented
+
+--------------------------------------------------------------------------------
+SCOPE OF EVERY NEGATIVE ON THIS SHELF, dated 2026-10-26 (pass 42)
+   The records below say "72 files" because that is what the estate held when they were
+   written; it now holds 79. The famous negatives were re-run this pass over all 79 files,
+   tier 1 and tier 2 together, with a fold declared in the catalogue (long s to s, f for long
+   s, ss for sharp s, ae/ue/ie resolved, single spaces kept so that multi-word phrases can be
+   tested at all). They still hold: no second clause of the balanced will-dictum, no "laecherlich
+   gefunden", no "ohne Gesundheit", no "Hoelle, das sind die Andern". One apparent exception was
+   caught and rejected: "drei Tage" returns one hit, and the hit is in the header of file 76,
+   which is the CATALOGUER'S prose, not his - a negative searched over a whole file can find the
+   cataloguer's own sentence. The lessons: a fold that deletes spaces cannot test a phrase, only
+   a word; and a negative over a widened estate must be re-run, not assumed.
+
+THE RECORDS
+--------------------------------------------------------------------------------
+
+G-02 | HALF-TRUE | He threw the seamstress down the stairs.
+   claim: the story as told - a scuffle ended on the staircase, and the court.
+   here: Gwinner, who visited him, says he threw the woman out of the DOOR:
+      "Diese Person warf er einst unsanft zur Thure hinaus" (file 72 [p. 62]).
+      The staircase is a later embellishment; the trial itself is early and real.
+   answer: the violence is early testimony, the staircase is not; if the
+      staircase must be used, call it the popular version, not the fact.
+   ref: T3-01, spot-check 33
+
+G-03 | REPORTED | He lived alone with his poodles, Atman and Butz.
+   claim: the solitary philosopher, state-supported by two poodles of that name.
+   here: the dog is witnessed - Gwinner saw the animal on the bear-skin
+      ("Neben dem Sopha ruhte sein Pudel auf einem schwarzen Baerenfelle", file 72
+      [p. 217]), and reported his "Haben Sie den Blick des Thieres gesehen?"
+      ([p. 77]) - but the NAMES Atman and Atma are absent from Gwinner, and "Butz"
+      is absent from all six carriers. Note the other side of it: where he himself
+      mentions a poodle it is an illustration, not his pet - file 03 [[92] § 21],
+      file 56, file 59 [S. 82]. Gwinner's second pamphlet (file 73, 1863, read
+      2026-10-26) adds nothing: no Pudel, no Atma, no Butz in it either.
+      THIRD COPY, NOT THIRD WITNESS (pass 35): Frauenstaedts Lebensbild (file 79) has the dog
+      twice - on the walks "nur von seinem Pudel begleitet", and in the room "neben dem Sopha
+      ruhte sein Pudel auf einem schwarzen Baerenfelle" - but the bearskin sentence is the very
+      one Gwinner had printed (file 72, [p. 217]) and the Lebensbild names Gwinner among its
+      sources at its head. Two books agreeing here are one witness in two copies, and the names
+      are still absent from all seven carriers.
+   answer: dog and bear-skin are witnessed; names are disciples' and letters'
+      business (GAP-6); and a "Pudel" inside his own texts proves nothing about
+      his household.
+   ref: T3-09, spot-check 32
+
+G-04 | HALF-TRUE | The hedgehogs: society as hedgehogs on a cold day.
+   claim: the famous fable is usually told with hedgehogs.
+   here: his animals are PORCUPINES, "Die Stachelschweine", at Parerga II § 396,
+      S. 524 - held twice over in this collection, in a clean transcription
+      (file 05) and in Google's OCR of another library's copy of the same 1851
+      print (file 51).
+   answer: quote it as porcupines and say the English retellings soften them into
+      hedgehogs; the moral (a certain warmth, and the distance that spares us) is
+      his.
+   ref: file 05, file 51, spot-check 24
+
+G-05 | CONDENSED | A man can do what he wills, but cannot will what he wills.
+   claim: the summary of his ethics of the will, printed on a great many mugs.
+   here: NOT in these 72 files in that wording. The 1841 prize essay has the two
+      parts separately: "ich kann thun was ich will", which he calls an empty
+      formula, and "subjective hingegen fuhlt Jeder, dass er stets nur thut was er
+      will" - followed by the sentence anthologies drop, that even the lowest
+      natural being would feel the same if it could feel (file 55).
+   measured, pass 42: the negative is no longer a hunch. Over all 79 files with the fold named
+      above, "nicht wollen was", "kann nicht wollen" and "wollen was er will" return ZERO; while
+      "kann thun was" returns 11 hits, every one of them in the 1841 prize essay (file 55), and
+      every one in the FIRST PERSON: "ich kann thun was ich will". His printed form is a
+      confession about himself, not a doctrine about "der Mensch", and the second clause of the
+      popular balance is the posterity's, not his.
+      what the essay has instead of the balance: a REGRESS of questions - "kannst du auch wollen
+      was du willst?", then "kannst du auch wollen, was du wollen willst?", "ins Unendliche hin
+      aufgeschoben", until only the bare "kannst du wollen?" is left - and the tautology behind
+      which the plain man shelters: "ich kann wollen was ich will: was ich will das will ich".
+      limits: WWV II is held incomplete (GAP-4), several pieces are catalogue-only, and a German
+      audit cannot see his English translators. See the sayings shelf Q-30, Q-31, Q-32.
+   answer: call it a condensation, not a quotation; if the pithy line is used,
+      name it as a summary of the 1841 essay and add the sentence about the
+      stone, the beast and the man.
+   ref: T3-11, spot-check 25
+
+G-06 | MISFILED | Talent hits a target others cannot hit; genius a target no one sees.
+   claim: poster's version, and very often filed to "Parerga".
+   here: his sentence is a comparison with a marksman, in WWV II, Drittes Buch,
+      ch. 31 "Vom Genie", at the Zeno/Zurch marker [462]: "Das Talent gleicht dem
+      Schutzen, der ein Ziel trifft, welches die Uebrigen nicht erreichen konnen;
+      das Genie dem, der eines trifft, bis zu welchem sie nicht ein Mal zu sehn
+      vermogen" - and then the point the poster throws away: we get news of it
+      only at second hand, late, and "auf Treu und Glauben". There is ALSO a second,
+      different talent/genius passage in Parerga (1877 section 61 = 1851 section
+      60, file 62) where talent works for money and fame and genius is driven by
+      "ein Instinkt ganz eigener Art".
+   answer: name the printing and the work; do not let the two passages be quoted
+      as one, and do not file the shooting-match under Parerga.
+   ref: T3-05, spot-checks 17, 28
+
+G-07 | HIS | Life is a business that does not repay its costs.
+   claim: the pessimism slogan, often treated as a paraphrase.
+   here: HIS, twice, in WWV II: "ein Geschaft ist, welches die Kosten nicht deckt"
+      (file 02 [[279]], Erginzungen zum zweiten Buch, ch. 19) and again at
+      [[677]] (Erginzungen zum vierten Buch, ch. 46), where he himself refers back:
+      "wie weiter unten, Kapitel 28 dargethan wird".
+   answer: quote it as his own phrase with the marker, and note the self-reference:
+      he knew he had said it twice.
+   ref: spot-check 17 (the same chapter-range discipline)
+
+G-08 | HIS (wrongly attributed by others) | "Style should undress the thought."
+   claim: circulation as his; and his rival formula, "style is the dress of
+      thought", quoted as his too.
+   here: the undressing is his (chapter "Ueber Schriftstellerei und Stil", 1851,
+      file 47). The DRESS formula returned 0 hits for "Kleide des Gedankens" in
+      these files - it is Chesterfield's, not his. Likewise "the fourth estate"
+      for books: 0 hits for "vierte Stand".
+   answer: quote the undressing; treat the dress as an English aphorism that has
+      been put in his mouth - which is exactly the sort of thing this shelf is for.
+   ref: file 47, file 48, spot-check 39
+
+G-09 | HIS (a formula others claim) | "Hell - that is the others."
+   claim: quoted about him, and sometimes by him, though the sentence is
+      associated with Sartre (and before him with Avanti).
+   here: 0 hits for "Holle, das sind die Andern" in 72 files, though "die Andern"
+      occurs 59 times: he writes constantly about other people as a burden, but
+      does not coin that formula here.
+   answer: safe to attribute the sentiment to his outlook, not to his page.
+   ref: T3-03
+
+G-10 | SECONDARY-ERROR | The prize essays were published in 1840.
+   claim: date given in a reputable philosophical classic edition.
+   here: the printed volume is 1841; 1840 is the date of the preface ("Frankfurt am
+      Main, im September 1840", file 54) and of the Danish Society's judgment.
+      Volkelt (file 28, Frommanns Klassiker X, ed. Falckenberg, 1900) dates the
+      book 1840.
+   answer: keep preface-date and publication-date apart; cite the title page, not
+      the preface, for the year.
+   ref: spot-check 25, files 54-57
+
+G-11 | SECONDARY-ERROR | The book is called "Grundprobleme der Moral".
+   claim: title as given in a biographical dictionary article.
+   here: the print says "die beiden Grundprobleme der Ethik" (files 54-56, from the
+      readable Bayerische Staatsbibliothek copy of the 1841 print, IA 10137231).
+      The same article also names Hegel as the party condemned in the Latin
+      judgment of the Royal Danish Society, where the judgment (file 57) has only a
+      plural and names nobody.
+   answer: quote the Latin judgment as it stands; the article's concrete noun is an
+      inference, and the title is "Ethik", not "Moral".
+   ref: spot-check 25, file 23
+
+G-12 | SECONDARY-ERROR | The judgment of the Danish Society says his work shows
+   "decided merit" but is not free of mistakes - as summarized.
+   claim: how the famous rebuff is reported in English and German accounts.
+   here: reported faithfully in substance by Whittaker (file 22), Volkelt (file 28)
+      and Liepmann (file 23): all three keep the substance of "judices unanimo
+   ore tamen..." - so the rebuff is not a legend. But one of the three misdates
+      the volume (G-10) and one mistitles it (G-11).
+   answer: the rebuff is documented; the small facts attached to it are where
+      secondary literature leaks.
+   ref: spot-check 25
+
+G-13 | HIS (quoted correctly by a secondary) | "The posterity will always be just as
+   perverse and dull as the mass of the contemporaries always was and always is."
+   claim: Volkelt's sentence on his contempt for posterity, printing it as a
+      quotation.
+   here: it IS his, verbatim (modernised in spelling) at file 01, WWV I, Drittes
+      Buch, [[298]] § 49: "denn die Masse und Menge der Nachwelt wird allezeit
+      eben so verkehrt und stumpf seyn und bleiben".
+   answer: this is how a secondary writer should be used - and note that he had
+      already hedged the appeal to posterity in the same paragraph: the
+      posterity that judges is a few individuals, not the mass.
+   ref: file 01, spot-check 25 methodology
+
+G-14 | UNSOURCED | He was a misanthrope who hated society.
+   claim: the picture: a solitaire who could not bear mankind.
+   here: Gwinner's own words praise his love of solitude from visits
+      (file 72 [p. 108], and [p. 80] at the end of ch. IV), and Zimmern records the
+      solitary evening walk, chosen on lonely field paths, in any weather (file 26
+      [p. 158]). In tier 1 the doctrine is more precise than the picture: solitude
+      is the price and the compensation of a self-sufficient mind, and his target
+      in the essay on vanities is the person who cannot bear himself.
+   answer: "hated society" is a witness's characterisation; his own claim is
+      narrower - that a man's sociability is measured by his emptiness.
+   ref: T3-03, files 04, 05
+
+G-15 | REPORTED | He walked two hours, fast, whatever the weather, quoting
+   Aristotle on the speed.
+   claim: the story of the fast walk and the philosopher's reason for it.
+   here: Zimmern [p. 158] ("towards evening he went for a walk, no matter what
+      weather... only the very worst weather forced him to remain within the
+      confines of the town", with Aristotle's axiom as his reason for walking
+      fast); Beer (no page markers in this copy) independently says "For two hours
+      he took his customary walk, at a rapid pace".
+   answer: two carriers agree on the habit; the Aristotle reason is hearsay
+      within hearsay - Zimmern is reporting from disciples.
+   ref: files 26, 21
+
+G-16 | REPORTED | A stranger took him for a madman.
+   claim: the anecdote of the man who asked who he was and got an unfriendly answer.
+   here: Zimmern [p. 88]: asked who he was, he answered "Yes, if you could tell me
+      who I am, I should be greatly indebted", and the man "was confirmed in his
+      suspicions of the stranger's insanity".
+   answer: a good illustration of the picture; not evidence of anything.
+   ref: file 26
+
+G-17 | REPORTED | The gilt Buddha in the sitting-room; no furniture of his own till
+   past fifty.
+   claim: the "Buddhist philosopher" staged in his own house.
+   here: Zimmern [p. 166]: "His apartment was extremely simple... The prominent
+      characteristic of his room was a gilt statue of Buddha", and "Until long past
+      fifty, he had no furniture of his own".
+   answer: the statue is a visitor's memory, not a doctrine. The word Buddha
+      occurs 68 times in tier 1, so his Indian indebtedness needs no props; cite
+      the texts, not the ornament.
+   ref: files 26, 30, 42, 44
+
+G-18 | REPORTED | His last days: the spasm on rising, and the Nirwana remark.
+   claim: his deathbed composure, and a last word about Nirwana.
+   here: Zimmern [p. 246]: "On September 20 Schopenhauer was seized with a violent
+      spasm on rising", with the preceding remark that he feared death held out no
+      prospect of Nirwana but that he had at least a pure intellectual conscience.
+   answer: deathbed utterances are the weakest kind of report; quote them as
+      reported, from 1876, thirty years after the death.
+   ref: file 26
+
+G-19 | REPORTED | His skull was measured, and compared with Napoleon's and Kant's.
+   claim: the scientific epitaph: the philosopher's cranium, measured after death.
+   here: Gwinner's closing chapter "Sein Schadelf" (ch. XI, from S. 232), giving
+      diameters against Napoleon, Kant, Schiller and Talleyrand, and warning that
+      the measurements are taken with a French tape and must be corrected
+      (file 72 [p. 234]).
+   answer: a fine document of 1860s anthropology; the comparisons are not evidence
+      of anything about the philosophy, and the chapter is a witness's, not his.
+   ref: file 72 (ch. XI)
+
+G-20 | REPORTED | He moved in Goethe's Weimar: private theatricals, and an invitation.
+   claim: the claim that he belonged to Goethe's circle.
+   here: Zimmern [p. 60]: at Madame Schopenhauer's private theatricals Adele played
+      a boy's part in the white brocaded coat Goethe wore at Strasburg, and Goethe
+      invited Arthur to spend the next evening quietly at his house.
+   answer: report it; but his own account of the Weimar years and of the colour-
+      theory quarrel lives in the Farbenlehre, which this collection has yet to
+      read in any copy (GAP-2), so the quarrel is UNSOURCED here.
+   ref: files 26, GAP-2
+
+G-21 | UNSOURCED | His father died by accident - or by his own hand.
+   claim: the biographers' doubt about Floris Schopenhauer's death, which matters
+      because it touches the "pessimist who did not kill himself" story.
+   here: Beer says plainly "In 1805 his father died, whether by accident or by his
+      own hand remains uncertain" (file 21, no page markers in this copy). Nothing
+      in tier 1 settles it: the letters that might (GAP-6) are not held.
+   answer: NO DATA from the primary texts here - an honest sentence to teach a
+      model to produce.
+   ref: T3-02, GAP-6
+
+G-22 | REPORTED | "There never was a worse clerk in a merchant's office."
+   claim: his own verdict on his business apprenticeship.
+   here: Beer presents it as his own record (file 21); Gwinner does not carry it in
+      the form searched; and the autobiographical notes and letters that would
+      prove it are not in this collection.
+   answer: first-person colouring, transmitted at second hand; the letters shelf
+      would settle it (GAP-6).
+   ref: files 21, 72
+
+G-23 | HALF-TRUE | He was the philosopher of pessimism, and pessimism is his
+   invention.
+   claim: the label used as though he founded a school of that name.
+   here: he uses the word himself - in file 02 at [[421]] and [[726]], and three
+      times in "Ueber Religion" (file 30) - but as a position in a history of
+      opinions, not as the signboard of his own system; and Gwinner uses
+      "Pessimismus" freely (spot-check 33).
+   answer: the word is his period's and his own; calling his doctrine "Pessimism
+      without the article" is a later historian's convenience.
+   ref: T3-06, spot-check 33
+
+G-24 | HALF-TRUE | His book was an immediate triumph (or: the world recognised him
+   late but fully).
+   claim: either version of the success story.
+   here: the letters say a small sale and copies used as wastepaper, with the Hume
+      parallel of forty-five copies (T3-07); Gwinner corroborates the late fame at
+      [p. 25] and [p. 69], including the attack by "ein ihm personlich unbekannter
+      Schriftsteller". The 1844 second edition, Beer notes, "seemed at first as
+      likely to fail of attaining recognition".
+   answer: triumph is a 1851-1860 and posthumous phenomenon; the 1818 book was a
+      failure, and he knew it.
+   ref: T3-07, files 72, 21, 22
+
+G-25 | HALF-TRUE | He called Hegel a clumsy charlatan.
+   claim: the insult as though it were a fixed quotation.
+   here: "Charlatan" is his word and occurs 46 times in these files; but the
+   eye-witness memoir has no "Charlatan" at all, its own word being "Sophisten
+   Hegel" (Gwinner, spot-check 33), and the popular compound "clumsy charlatan" is
+   not traceable as a single quotation in this corpus.
+   answer: quote the insult from the prefaces or the Parerga passages by their
+   sections; do not treat "clumsy charlatan" as a sentence he wrote.
+   ref: T3-08, spot-check 33
+
+G-26 | HIS | Suicide: his own argument, and the awkward experiment.
+   claim: the logical taunt - the pessimist ought to kill himself - which is gossip
+   about him rather than thought by him.
+   here: his chapter "Ueber den Selbstmord" (Parerga II, Kap. XIII, sections
+   157-160, S. 258-259 in the 1851 numbering; one higher in 1877) - file 31 -
+   holds the argument, including the line about an awkward experiment, and
+   Gwinner contains no word on suicide at all ("Selbstmord", "Freitod": 0 hits).
+   answer: the argument is his; the "inconsistency" of the pessimist is a
+   critic's. Any section number from Parerga must name the printing.
+   ref: T3-02, files 31, 72
+
+G-27 | HIS | Reading is the thinking of another; too much reading dilutes the mind.
+   claim: the popular counsel about books, variously worded and variously
+   attributed.
+   here: "Wenn wir lesen, denkt ein Anderer fur uns: wir wiederholen bloss seinen
+   mentalen Process" (file 48, section 291, at [S. 456] the chapter's close) - and
+   the whole chapter is carried by BOTH English translators, though Saunders stops
+   short of the closing verses and Dircks does not.
+   answer: quote the pencil-tracing simile from the German section and name the
+   translation used; the "fourth estate" notion about books is not his (0 hits).
+   ref: spot-check 38, file 48
+
+G-28 | REPORTED | He was tormented by noise - hence the essay on noise.
+   claim: the biographical inference from "Ueber Larm und Gerausch" to a nervous
+   man shut up with a drumming landlady.
+   here: the essay exists in the collection (file 06, transcribed from the 1851
+   print with its scan markers), so the text is safe; the nervous anecdote is not
+   grounded in these six carriers as searched.
+   answer: text HIS, anecdote UNSOURCED here - which is the right split to teach.
+   ref: file 06, T3-10
+
+G-29 | UNSOURCED | He laughed at 1848 and at the King of Prussia's crown.
+   claim: the famous table-talk of the revolution years.
+   here: searched in all six carriers for "Krone"/"crown" with the mine; the hits
+   returned are unrelated to the story, and no page-marked instance of the crown
+   anecdote was found. The seventh carrier now, Gwinner 1863
+      (file 73), holds no "Krone" and no "1848" at all. Reported talk of this kind lives in the Gesprache and the
+   letters (GAP-5, GAP-6), which are the weakest holdings of this collection.
+   answer: NO DATA here - not "false": a different thing, and worth keeping
+   different.
+   ref: GAP-5, GAP-6, files 72, 26
+
+G-30 | REPORTED | His tenderness to animals, and the argument about the dog.
+   claim: he loved animals and argued that we owe them treatment, sometimes
+   reported as "animals have rights".
+   here: Beer ("For the animal world altogether he had a special tenderness...
+   He condemned vivisection, on the ground that animals have rights") and Volkelt,
+   who compares Jean Paul on the love of animals. Zimmern prints a first-person
+   passage - "If you had a dog, and wished to attach him to you, would you reason
+   like this... Stroke it, feed it..." (file 26 [p. 72]) - as from his works, but
+   its words return no hit in these files, so its place is UNVERIFIED.
+   answer: the sentiment is documented; "rights" is the biographer's word, and the
+   dog passage needs a primary place before it is quoted as his.
+   ref: files 21, 28, 26, GAP-2 note
+
+G-31 | UNSOURCED | He repeated himself endlessly.
+   claim: a standard critical complaint about the Parerga and the second WWV.
+   here: Whittaker puts it sharply - "there never was a greater illusion than when
+   he thought that he seldom repeated himself. In reality he did little but repeat
+   his fundamental positions with infinite variations in expression". This
+   collection can measure the fact cheaply now: the cross-reference at file 02
+   [[279]] ("wie weiter unten, Kapitel 28 dargethan wird") is a case of self-
+   quotation he made himself, and the 1877 collected edition renumbers his
+   paragraphs by one while keeping the text.
+   answer: it is a critical judgement, not a fact; but the collection supports it
+   as a tendency, and the two printings show how he re-used himself.
+   ref: spot-check 28, files 02, 60-66
+
+G-32 | SECONDARY-ERROR | The monument at Frankfort belongs to his fame in his
+   lifetime.
+   claim: how popular accounts date the cult.
+   here: Whittaker: "The monument... was unveiled at Frankfort on the 6th of June
+   1895" (file 22) - forty-eight years after his death, and later than any
+   testimony in the collection.
+   answer: posthumous; use it to date the fame, never to explain the philosophy.
+   ref: T3-07, file 22
+
+G-33 | HALF-TRUE | The disciples wrote his words down, so the anecdotes are sound.
+   claim: the reassuring sentence printed before any number of table-talk quotations.
+   here: the two Gwinner writings are a quarrel, not a transcript. The 1863 pamphlet
+      (file 73) exists to refute "Arthur Schopenhauer. Von ihm. Ueber ihn. Ein Wort der
+      Vertheidigung von Ernst Otto Lindner und Memorabilien, Briefe und Nachlassstuecken von
+      Julius Frauenstaedt" (Berlin 1863), a book Gwinner measures at 762 pages and whose
+      incense he says suffocates; and he claims the letters as his own evidence - "aus den
+      Briefen an Schopenhauer, die mir alle vorlagen" - while objecting to swelling the
+      works "um das Zehnfache" with "ohne Vorbgedacht und Sorgfalt hingeworfene Briefe".
+      Audited as the 1862 memoir was (spot-check 30): 174 quotations, ZERO in the published
+      works, because it quotes letters, talk, and its adversaries - among them the rival's
+      own rhetoric, "Die Philosophie ist so lange vergeblich versucht, weil man sie auf dem
+      Wege der Wissenschaft, statt auf dem der Kunst suchte", which is Lindner writing and
+      not Schopenhauer: the only place in this collection where that sentence occurs is the
+      pamphlet attacking it.
+   answer: say the reports are early AND contested. A disciple's quotation is a position in
+      an 1860s argument about what may be printed, which is why this shelf exists at all.
+   ref: files 72, 73, 29, GAP-5, GAP-6, spot-checks 30, 41
+
+G-34 | REPORTED | His book was bought - and used to pad the luggage.
+   claim: that the vogue meant readers admired him.
+   here: Gwinner 1863, with the spite of a man quoted against himself: "...es werth, als
+      dass jeder Schafskopf sie sich zur Unterlage nimmt; mit dem Gwinner'schen
+      Schopenhauer in der Tasche koennen die Lumpen als Biedermaenner herunireisen", with
+      the footnote that "A. Boden tadelt den Mangel an Anekdoten in meiner Schrift" - a
+      reader already complaining in 1863 that the memoir had too few anecdotes.
+   answer: colour for a biography, no evidence for a doctrine; and note that the demand for
+      anecdotes is exactly as old as the anecdotes' authority.
+   ref: file 73, T3-07
+G-35 | HALF-TRUE | His letters are sound evidence, unlike the table-talk.
+   claim: the comfortable hierarchy - letters first, conversation last.
+   here: he FORBADE the publication of his letters, and the disciples published them
+      anyway. Schemann's 1893 collection (file 76) reports in its preface that
+      "Frauenstaedt hat in der Vorrede seines Buches sein Verfahren dadurch
+      ausd ruecklich gerechtfertigt, dass er Schopenhauer's Verbot als nur fuer seine
+      Lebzeiten erlassen erklaert hat" - the prohibition binding only for his lifetime -
+      and that Lindner defended himself likewise; Schemann then offers his own volume
+      "in Ergaenzung derer von Gwinner und Lindner-Frauenstaedt", that is, as a third
+      party in the same quarrel. So the letters are edited, defended and partial
+      evidence too, not a raw transcript of the man.
+   answer: letters outrank table-talk, but say which edition and which editor: an editor
+      who had to justify printing them is not a neutral witness. And note what the
+      collection has just measured: of twelve quotations Gwinner prints as family letters
+      or sayings, NONE appears in Schemann's 1893 volume (hand check on 40-character
+      spans, 2026-10-26), so "the letters" are several separate papers, not one shelf.
+   ref: file 76, files 72, 73, 29, GAP-6, spot-check 43
+G-36 | HALF-TRUE | Nobody took any notice of his theory of colours.
+   who says it: posed here, not quoted: no book in this estate tells it so flatly; the record exists
+      to be answered out of his own preface.
+   claim: the flat version - total silence, from everyone, for decades.
+   here: he says it himself, in Latin, and he counts the company precisely. In the Prooemium
+      to the Theoria colorum physiologica (file 77, own-page [[p. 1]]-[[p. 2]]) he allows that
+      just ONE man of note has openly declared for him: "unicus tantum vir palam suffragatus
+      est, celeb. Ficinus, Professor Dresdensis", who used his theory as the foundation of his
+      own account in Pierer's anatomical-physiological Lexicon under the word "Color" (1818)
+      and taught it in his Optica of 1828 - and he gives the columns (127, 129, 132, 133, 135,
+      136, 146) and complains that Ficinus mixes it with his own opinions and does not claim
+      for him what is his ("neque principalibus in locis mea mihi vindicat"). All the rest,
+      "quam multi" so many as have written on the subject in Germany since, have not even
+      attacked it but kept silence, "quod de rebus futilibus, ne disceptatione quidem dignis,
+      fieri solet" - as is usual about trivial matters not worth a dispute. His gloss on that
+      silence is worth the Latin: "adversus merita silentium vituperatione saepe efficacius".
+   answer: say "one named supporter and a wall of silence", not "nobody". And notice what he
+      will NOT say: that the silence proves approval ("non ea mea est humilitas, ut istorum
+      silentium pro judicio habeam") - he refuses to count silence as a verdict, and refuses
+      to insist it came from stupidity or malice either.
+G-37 | HALF-TRUE | He set his lectures at two o'clock to starve Hegel out, and failed.
+   who says it: posed here, from the common picture of the Berlin years; no printed
+      witness named in this estate, and GAP-7 means the biography usually cited for it
+      is not held.
+   claim: the anecdote in full - he read at the same hour as Hegel, the students stayed with
+      Hegel, the lecture-room emptied, and he gave up philosophy and the podium in disgust.
+   here: the failure is older than the anecdote and the hour is nowhere. Frauenstaedt's
+      Lebensbild (file 79, own-page [[p. 143]]-[[p. 150]]) says he chose Berlin, habilitated
+      there in 1820, and "er docirte daselbst jedoch nur waehrend eines Semesters" - he
+      lectured for one semester only - the reason given being the time when "ein Hegel und
+      Schleiermacher an der berliner Universitaet dominirten". So: one semester, Hegel and
+      Schleiermacher dominating, no hour named. A folded search for "zwei Uhr", "2 Uhr",
+      "zwei Stunden", "Uhr", "Vorlesungen", "dozirte", "docirte", "Semester", "Privatdocent"
+      was made in four biographical witnesses - Frauenstaedt's Lebensbild (1877), Gwinner
+      1862, Gwinner 1863 and Schemann's letters (1893) - and NOT ONE of them names an hour
+      (2026-10-26). The lecture matters are much discussed in them: "Vorlesungen" occurs 14
+      times in the Lebensbild and 17 in the letters.
+   answer: the one-semester fiasco, yes, and with Hegel and Schleiermacher named as the reason
+      by an editor who had the papers. The clock is a later decoration: NO DATA for the hour in
+      the four earliest biographical witnesses this collection holds.
+--------------------------------------------------------------------------------
+NOT GROUNDED HERE, AND NOT DENIED (searched 2026-10-25, named so a model says NO DATA)
+--------------------------------------------------------------------------------
+   * "Atma", "Atman", "Butz" as dog-names: absent from the six carriers.
+   * "Style is the dress of thought": 0 hits for "Kleide des Gedankens".
+   * Books as "the fourth estate": 0 hits for "vierte Stand".
+   * "Hell is the others": 0 hits for that formula.
+   * The father's death: nothing in tier 1.
+   * The 1848 crown anecdote: no page-marked instance in the carriers.
+   * Gwinner 1863, the second memoir, was a bar to these items and is now file 73 - and
+     it holds none of them. The Gesprache edition is still not held, so much reported
+     talk has no best witness in this collection.
+
+--------------------------------------------------------------------------------
+HOW A MODEL SHOULD ANSWER FROM THIS SHELF
+--------------------------------------------------------------------------------
+   1. Never cite a record from this shelf as his prose unless its status is HIS.
+   2. Where the status is HALF-TRUE, give the kernel and the correction in one
+      breath ("the door, not the staircase"), and never the correction alone: the
+      rumour is why the question was asked.
+   3. Where the status is UNSOURCED or the item is in the block below, say NO DATA
+      and name the search - that is a success, not a failure.
+   4. A SECONDARY-ERROR record is an argument for reading secondary work, not
+      against it: every one above was found by comparing it with a primary text.
+   5. If a model is sent to shelf 3 by the menu, answer with the status word in
+      plain English ("that is a condensation, not a quotation"); if it grepped
+      flat, answer with the status word AND the word gossip.
+
+================================================================================
+gossip.txt - shelf 3 of the Schopenhauer corpus. Generated records are kept in
+gossip.tsv by bin/schop-gossip.js; the T3-nn numbers in the catalogue are the
+older working register and stay cross-referenced here.
+================================================================================

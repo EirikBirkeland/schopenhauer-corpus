@@ -1,0 +1,134 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber den Selbstmord (in: Parerga und Paralipomena, Zweiter Band, Kapitel XIII, §§ 157-160)
+# title_en: On suicide (English volumes print it as "On suicide")
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 258-259. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ on Internet Archive, the copy that also yielded files 27 and 30. Chapter heading as printed: "Kapitel XIII. Ueber den Selbstmord. §. 157."
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 7 because suicide is the topic on which the popular pessimism claim is made (T3-02), and until now this collection had the essay only in Saunders's English (file 15). Checked against him: the opening agrees sentence by sentence in sense, so the English is sound here. THE FINDING THAT MATTERS MORE THAN THE WORDS: the German prints paragraph numbers (§ 157 to § 160) and Saunders's volumes carry almost none - file 15 has 7 section marks in 172,000 words, file 19 has none, file 18 has 7. So an English-only reader of Parerga cannot cite it by paragraph at all, and a RAG answer that quotes "§ 157" of Parerga has taken the number from a German edition whether it knows it or not.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the same copy that yielded files 27 and 30. It prints f for the long s ("Selbftmorb", "diebif", "fromm") and b for d, and at the head of a page it can mangle the first word outright (here "So viel" came out as "2 Sp. viel"); the long s has been normalised to s (142 of them in this chapter). The chapter is numbered (§ 157 to § 160) and the numbers stand as printed. Printed pages survive only in the running head: 1 marker was read cleanly (S. 258) and no page was invented. The chapter is Kapitel XIII of Parerga's second band and runs from S. 258 to S. 259; it ends where "Kapitel XIV. Nachträge zur Lehre von der Bejahung und Verneinung des Willens zum Leben" begins, which is where this file stops.]
+
+Kapitel XIL
+Ueber den Selbstmord.
+
+
+$. 157. 2
+
+Sp. viel ich. jehe, find es allein die monotheiftifchen, alfo
+fübiichen Religionen, deren Bekenner die Sebfttöbtung als ein
+Berbrechen betrachten. Dies ift um fo auffallender, als weder
+im alten, noch im neuen Teflament irgend ein Verbot, oder auch
+nur eine entfchiebene Mißbilligung derfelben zu finden ist; daher
+denn bie Neligionglehrer ihre Verpönung bes Selbstmordes auf
+ihre eigenen. philofophifchen Gründe zu fügen haben, um melde
+es aber fo fchlecht fleht, daß fie, was den Argumenten an Stärfe
+abgeht durch die Stärke der Ausdrüde ihres Abfcheues, alfo durch
+Shimpfen, zu erfegen fuchen. Da müssen wir denn hören, Selbft-
+mord fei die größte Feigheit, fei nur im Wahnfinn möglich, und
+dergleichen Abgefchmasktheiten mehr. Die Alten hingegen waren
+weit davon entfernt, die Sache in diesem Lichte zu betrachten.
+Wurde doch, in Maffilin und auf der Insel Keos, der Schier-
+lingstrank fogar öffentlich, vom Magiftrat, Demjenigen überreicht,
+der triftige Gründe, das Leben zu verlaflen, anführen konnte
+(Val. Max. L.1I. e. 6, $.7 et 8.). Und wie viele Helben
+und Weife des Alterthums haben nicht ihr Leben durch freimilli-
+gen Tod geendet! Zwar fagt Ariftoteles (Eth. Nicom. V, 15.)
+der Selbftmord fei ein Unrecht gegen den Staat, wiewohl nicht
+gegen bie eigene Perfon: anbrerfeits aber wieder finden wir den⸗
+felben von den Stoifern als eine edele und heldenmüthige Hand⸗
+lung gepriefen; was sich dur Hunderte von Stellen, die färf-
+fen aus dem Senela, belegen ließe. Bei den Hindu nun gar
+fommt befanntlich die Selbfttöbtung oft als religiöfe Handlung
+— als Witwenverbrennung, auch als Hinwerfen un⸗
+
+17
+
+ [S. 258]
+
+
+ter die Räder bes Götterwagens zu Jaggernaut, ald Sichpreis⸗
+geben den SKtrofodilen des Ganges, oder beiliger Tempelteice,
+und fonft. — Die Gründe aber gegen den Selbftmord, welde
+von den Geiftlichen der monotheiftiichen Religionen und den ihnen
+fih anbequemenden Philofophen aufgeftellt werden, find schwache,
+leicht zu widerlegende Sophismen. (Siehe meine Abhandlung
+über das Fundament der Moral, & 5.) Den allein triftigen
+moraliihen Grund gegen den Selbftmorb habe ich dargelegt in
+meinem Hauptwerf Bd. 1. $. 69. Derselbe ift jedoch ein agfeti-
+cher, gilt aljo nur von einem viel höheren ethifchen Standpunft
+aus, ald der, den europäische Moralphilofophen jemals einge:
+nommen haben. Berlaflen wir aber jenen Standpunft; fo giebt
+es feinen haltbaren moraliihen Grund mehr, den Selbftimord zu
+verbammen. Der außerordentlich Iebhafte, und Doc weder durch
+die Bibel, noch durch triftige Gründe unterflügte Eifer der Geift-
+lichkeit monotheiftiicher Religionen gegen benjelben scheint daher
+auf einem verhehlten Grunde beruhen zu müflen: sollte es nicht
+dieser seyn, dag das freiwillige Aufgeben des Lebens cin fchlech-
+tes Kompliment ift für Den, weicher gelangt hat avız= xade
+div? — Sp wäre es denn abermals der obligate Optimismus
+dieser Religionen, welcher bie N anflagt, um nicht
+von ihr angeklagt zu werben.
+8*. 158.
+
+Im Ganzen wird man finden, Daß, fobald es dahin gefom-
+men ift, dag die Schredinifie des Lebens die Schrednifle des zo
+des. überwiegen, dev Mensch feinem Leben ein Ende madt. Der |
+Widerstand der Iegteren ist jedoch bedeutend: fie stehn gleichfam
+als Wächter vor der Ausgangspforte. Vielleicht lebt Keiner, der
+nicht. schon feinem Leben ein Ende gemacht hätte, wenn Dies Ende
+etwas rein Negatived wäre, ein plögliches Aufbören des Da-
+seyns. — Allein es if etwas Pofitives dabei: Die Zerftörung
+des Leibes. Diese scheucht zurück; eben weil der Leib bie Er-
+fheinung des Willens zum Leben ift. .
+
+Inzwischen ist der Kampf wit, jenen. Wächtern, in ber Res
+gel, nicht fo fhwer, wie es uns yon Weiten feinen mag; und
+zwar in Folge des Antagonismus zwischen geiftigen und fürper-
+lichen Leiden. Nämlich wenn wir körperlich fehr stark, oder an-
+halten leiden, werben wis gegen allen andern Kummer gleich⸗
+
+
+Ueber den Selbfimorb. 259
+
+
+gültig: unfre Herftellung allein Yiegt ung am Herzen. Eben fo
+nun machen ftarfe geiftige Leiden und gegen Förperlihe unem-
+pfindlich: wir verachten fie. Sa, wenn fie etwan bas Leberge-
+wicht erlangen; jo ift und Dies eine wohlthuende Zerftreuung,
+eine Paufe der geiftigen Leiden. Dies eben ift ed, was ben
+Selbftmord erleichtert, indem der mit demfelben verfnüpfte kör—
+perlihe Schmerz in den Augen des von übergroßen geiftigen
+Leiden Gepeinigten alle Wichtigkeit verliert. Besonders fichtbar
+wird Dies an Denen, welche durch rein krankhafte, tiefe Miß-
+fimmung zum Selbftmord getrieben werden. Diesen kostet er
+gar Feine Selbflüberwindung: fie brauchen gar feinen Anlauf
+dazu zu nehmen; fondern fobald der ihnen beigegebene Hüter fie
+auf zwei Minuten allein läßt, machen fie vafch ihrem Leben ein
+Ende. |
+
+
+$. 159.
+
+
+Wenn in schweren, graufenhaften Träumen bie Beängfli-
+gung den hödften Grad erreicht; fo bringt eben fie felbft ung
+zum Erwachen, durch welches alle jene Ungeheuer der Nacht ver-
+schwinden. Das Selbe gefchieht im Traume des Lebens, wann
+der höchste Grad ber Beängftigung uns nöthigt, ihn abzubrechen.
+
+
+$. 160. |
+
+
+Der Selbfimorb kann auch angefehn werben ald ein Erpe-
+riment, eine Frage, die man der Natur ftellt und die Antwort
+darauf erzwingen will: nämlid, welche Aenderung das Dafeyn
+und die Erfenntnig des Menfchen durch den Tod erfahre. Aber
+es ift ein ungefchidtes: denn es hebt bie Identität ded Bewußt⸗
+seyns, welches die Antwort zu vernehmen hätte, auf.
+
+
+17*

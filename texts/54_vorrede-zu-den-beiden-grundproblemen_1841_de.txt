@@ -1,0 +1,1277 @@
+# TIER 1 PRIMARY (published work) | German original | first edition of 1841, from a readable OCR of the Bayerische Staatsbibliothek copy
+# title: Vorrede zu Die beiden Grundprobleme der Ethik
+# title_en: Preface to The Two Fundamental Problems of Ethics
+# year: 1841
+# edition: First edition: Die beiden Grundprobleme der Ethik, behandelt in zwei akademischen Preisschriften, 1841; this copy's imprint reads "Frankfurt am Main, Jo h. Christ. [H]ermannsche Buchhandlung. F. E. [S]uchsland. 1841", and the holding library's own note in the same scan gives "Frankfurt a.M. 1841", shelf-mark Ph.pr.1083, which corroborates the place and year the title-page OCR broke. Text layer: Internet Archive item 10137231 (Bayerische Staatsbibliothek), scored READABLE by bin/ia-read.js (common-word ratio 14 per hundred, und 2,366, unb 0, long s kept 18,226 times). NO PAGE NUMBERS in this layer, so cite by chapter and paragraph, never by page. This is the preface of the FIRST edition, signed and dated in this copy "Frankfurt am Main, im September 1840", and it is far longer than the preface of the later editions, because in it he tells the history of the two prize questions, why the Danish society had not announced its decision, and what he thought of the academies. It is therefore a primary source for his quarrel with the prize courts, and it is where a RAG question about that quarrel should be answered from - not from a biography's summary.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/10137231
+# fetched: 2026-10-26
+# note: ADDED IN PASS 11, which opened GAP-2 and found it not shut after all but half empty: the two prize essays of 1841 were there in a readable copy all along, while the scans first tried (diebeidengrundpr00scho, bub_gb__8AIAAAAQAAJ, ueberdassehnundd00scho) are shredded and score 3 per hundred - see the tool bin/ia-read.js, written this pass. This file has had OCR noise-lines dropped by a rule stated in its header, which is this collection's decision and not the print's.
+
+[Note of this collection, not part of the print: Google's / the archive's OCR of the FIRST edition, the imprint of this copy reads "Frankfurt am Main, Jo h. Christ. [H]ermannsche Buchhandlung. F. E. [S]uchsland. 1841" - the OCR breaks the publisher's name, so the publisher is recorded from this one copy and marked UNVERIFIED, while the archive's own catalogue gives title, author and the year 1841 but no publisher. The title page calls the author "Mitglied der Koeniglich Norwegischen Societaet der Wissenschaften", and the volume's own table of contents gives both essays' chapter titles and pages, which is how these boundaries were checked. Cut at the book's own preface, which ends with the place and date as they stand in this copy: "Frankfurt am Main, im September 1840.". This scan is READABLE (it keeps the long s and prints und correctly: common-word ratio 14 per hundred, against 3 for a shredded Fraktur layer), but it is still an OCR: it interlines stray junk between pages, and this file drops 111 such lines - library stamps and short lines where fewer than 6 in 10 tokens are words - which is a decision of this collection and not the print's. The long s has been normalised to s (1832 here). NO PAGE NUMBERS: this layer gives page numbers so sparsely that none could be trusted, so these essays must be cited by chapter and paragraph, not by page. Where paragraph marks stand at line beginnings here they read none.]
+
+Vorrede.
+
+
+Unabhängig von einander auf äußern Anlaß entstanden
+ergänzen diese beiden Abhandlungen sich dennoch gegenseitig zu
+einem System der Grundwahrheiten der Ethik, in welchem man
+hoffentlich einen Fortschritt dieser Wissenschaft, die seit einem
+halben Jahrhundert Rasttag gehalten hat, nicht verkennen wird.
+Jedoch durfte keine von beiden sich auf die andere und eben so
+wenig auf meine früheren Schriften berufen: weil jede für eine
+andere Akademie geschrieben und strenges Inkognito hiebei die
+bekannte Bedingung ist. Daher auch war nicht zu vermeiden,
+daß einige Punkte in beiden berührt wurden; indem nichts voraus⸗
+gesetzt werden konnte und überall ab ovo anzufangen war. Cs
+find eigentlich specielle Ausführungen zweier Lehren, die sich,
+den Grundzügen nach, im vierten Buche der „Welt als Wille
+und Vorstellung“ finden, dort aber aus meiner Metaphysik, also
+synthetisch und a priori abgeleitet wurden, hier hingegen, wo,
+der Sache nach, keine Voraussetzungen gestattet waren, ana⸗
+lytisch und a posteriori begründet auftreten: daher was dort
+das Erste war, hier das Letzte ist. Aber gerade durch dieses
+Ausgehn von dem Allen gemeinsamen Standpunkt, wie auch
+
+
+durch die specielle Ausführung, haben beide Lehren an Faßlich⸗
+keit, Ueberzeugungskraft und Entfaltung ihrer Bedeutsamkeit hier
+
+
+sehr gewonnen. Demnach find- diese beiden Abhandlungen als
+Ergänzung des vierten Buches meines Hauptwerks anzusehn,
+gerade so, wie meine Schrift „Ueber den Willen in der Natur“
+eine sehr wesentliche und wichtige Ergänzung des zweiten Buches
+ist. Uebrigens, so heterogen auch der Gegenstand der zuletzt
+genannten Schrift dem der gegenwärtigen zu seyn scheint; so ist
+dennoch zwischen ihnen wirklicher Zusammenhang, ja, jene Schrift
+ist gewissermaaßen der Schlüffel zur gegenwärtigen, und die
+Einsicht in diesen Zusammenhang vollendet allererst das voll-
+kommene Verständniß beider. Wenn ein Mal die Zeit gekom⸗
+men seyn wird, wo man mich liest, wird man finden, daß
+meine Philosophie ist wie Theben mit hundert Thoren: von
+allen Seiten kann man hinein und durch jedes auf geradem
+
+
+Wege bis zum Mittelpunkt gelangen.
+
+
+Noch habe ich zu bemerken, daß die erste dieser beiden Ab—
+handlungen bereits im neuesten Bande der zu Drontheim er-
+scheinenden Denkschriften der Königlich Norwegischen Societät
+der Wissenschaften ihre Stelle gefunden hat. Diese Akademie
+
+
+hat, in Betracht der weiten Entfernung Drontheims von Deutsch—
+
+
+land, mir die von ihr erbetene Erlaubniß, einen Abdruck dieser
+Preisschrift für Deutschland veranstalten zu dürfen, mit der
+größten Bereitwilligkeit und Liberalität gewährt: wofür ich der⸗
+selben meinen aufrichtigen Dank hiemit öffentlich abstatte.
+
+Die zweite Abhandlung ist von der Königlich Dänischen
+Societät der Wissenschaften nicht gekrönt worden, obschon keine
+andere da war, mit ihr zu kompetiren. Da diese Societät ihr
+Urtheil über meine Arbeit veröffentlicht hat, bin ich berechtigt
+dasselbe zu beleuchten und darauf zu repliciren. Der Leser findet
+dasselbe hinter der betreffenden Abhandlung und wird daraus
+
+
+ersehn, daß die Königliche Societät an meiner Arbeit durchaus
+nichts zu loben, sondern nur zu tadeln gefunden hat und daß
+dieser Tadel in drei verschiedenen Ausstellungen besteht, die ich
+jetzt einzeln durchgehn werde.
+
+Der erste und hauptsächliche Tadel, dem die beiden andern
+nur accessorisch beigegeben sind, ist dieser, daß ich die Frage
+mißverstanden hätte, indem ich irriger Weise vermeint hätte, es
+würde verlangt, daß man das Princip der Ethik aufftelle: hin⸗
+gegen wäre die Frage eigentlich und hauptsächlich gewesen nach
+dem Nexus der Metaphysik mit der Ethik. Diesen Nexus
+darzulegen hätte ich ganz unterlassen (omisso enim eo, quod
+potissimum postulabatur), sagt das Urtheil im Anfang;
+jedoch drei Zeilen weiter hat es dies wieder vergessen und fagt
+das Gegentheil, nämlich: ich hätte denselben dargelegt (prin-
+eipii_ethice et metaphysice sus nexum exponit), jedoch
+hätte ich dieses als einen Anhang und als etwas, darin ich
+mehr als verlangt worden leistete, geliefert.
+
+Von diesem Widerspruch des Urtheils mit sich selbst will
+ich ganz absehn: ich halte ihn für ein Kind der Verlegenheit,
+in welcher es abgefaßt worden. Hingegen bitte ich den gerechten
+und gelehrten Leser, die von der Dänischen Akademie gestellte
+Preisfrage, mit der ihr vorgesetzten Einleitung, wie
+beide, nebst meiner Verdeutschung derselben, der Abhandlung
+vorgedruckt stehn, jetzt aufmerksam zu durchlesen und sodann zu
+entscheiden, wonach diese Frage eigentlich frägt, ob
+nach dem letzten Grunde, dem Princip, dem Fundament, der
+wahren und eigentlichen Quelle der Ethik, — oder aber nach
+dem Nexus zwischen Ethik und Metaphysik. — Um dem Leser
+die Sache zu erleichtern, will ich jetzt Einleitung und Frage
+
+
+analysirend durchgehn und den Sinn derselben auf das deut⸗
+lichste hervorheben. Die Einleitung zur Frage sagt uns:
+„es gebe eine nothwendige Idee der Moralität, oder einen Ur⸗
+begriff vom moralischen Gesetze, der zwiefach hervortrete, näm⸗
+lich einerseits in der Moral als Wissenschaft, und andrerseits
+im wirklichen Leben: in diesem letzteren zeige derselbe sich
+wiederum zwiefach, nämlich theils im Urtheil über unsere
+eigenen, theils in dem über die Handlungen Anderer. An
+diesen ursprünglichen Begriff der Moralität knüpften sich denn
+wieder andere, welche auf ihm beruheten. Auf diese Einleitung
+gründet! nun die Societät ihre Frage, nämlich: wo denn die
+Quelle und Grundlage der Moral zu suchen sei? ob
+vielleicht in einer ursprünglichen Idee der Moralität, die
+etwan thatsächlich und unmittelbar im Bewußtseyn oder Ge-
+wissen läge? diese müßte alsdann analyfirt werden, wie auch
+die hieraus hervorgehenden Begriffe; oder aber ob die Moral
+einen andern Erkenntnißgrund habe?“ — Latein lautet die
+
+
+Frage, wenn vom Unwdesentlichen entkleidet und in eine ganz
+
+
+deutliche Stellung gebracht, also: Ubinam sunt qurenda
+fons et fundamentum philosophie moralis? Suntne quæ-
+renda in explicatione ide moralitatis, que conscien-
+tia immediate contineatur? an in alio cognoscendi prin-
+eipio? Dieser letzte Fragesatz zeigt aufs deutlichste an, daß
+überhaupt nach dem Erkenntnißgrunde der Moral ge⸗
+fragt wird. Zum Ueberfluß will ich jetzt noch eine paraphrast⸗
+ische Eregese der Frage hinzufügen. Die Einleitung geht aus
+von zwel ganz empirischen Bemerkungen: „es gebe, fagt
+fie, saktisch eine Moral wissenschaft; und ebenfalls sei es
+Thatsache, daß im wirklichen Leben moralische Begriffe
+
+
+sich bemerkbar machten; nämlich theils indem wir selbst, in
+unserm Gewissen, über unsere Handlungen moralisch richteten,
+theils indem wir die Handlungen Anderer in moralischer Hin⸗
+sicht beurtheilten. Imgleichen wären mancherlei moralische Be⸗
+griffe, z. B. Pflicht, Zurechnung u. dgl. in allgemeiner Geltung.
+In diesem Allen nun trete doch eine ursprüngliche Idee der
+Moralität, ein Grundgedanke von einem moralischen Gesetze
+hervor, dessen Nothwendigkeit jedoch eine eigenthümliche und
+nicht eine bloß logische sei: d. h. welche nicht nach dem
+bloßen Satze vom Widerspruch aus den zu beurtheilenden Hand⸗
+lungen, oder den diesen zum Grunde liegenden Maximen, ber
+wiesen werden könne. Von diesem moralischen Urbegriff giengen
+nachher die übrigen moralischen Hauptbegriffe aus, und wären
+von ihm abhängig, daher auch unzertrennlich. — Worauf nun
+aber dieses Alles beruhe? — das wäre doch ein wichtiger Ge⸗
+genstand der Forschung. — Daher also stelle die Societät fol-
+
+
+gende Aufgabe: die Quelle, d. h. der Ursprung der
+
+
+Moral, die Grundlage derselben, soll gesucht werden.
+(quærenda sunt). Wo soll fie gesucht werden? d. h. wo ist
+fie zu finden? Etwan in einer uns angebornen, in unserm Be-
+wußtseyn, oder Gewissen, liegenden Idee der Moralität?
+Diese, nebst den von ihr abhängigen Begriffen brauchte dann
+bloß analysirt (explicandis) zu werden. Oder aber ist sie wo
+anders zu suchen? d. h. hat die Moral vielleicht einen ganz
+andern Erkenntnißgrund unsrer Pflichten zu ihrer Quelle, als
+den fo eben vorschlags- und beispielsweise angeführten?“ —
+Dieses ist der, ausführlicher und deutlicher, aber treu und
+genau wiedergegebene Inhalt der Einleitung und Frage.
+
+Wem kann nun hiebei auch nur der leiseste Zweifel bleiben
+
+
+daran, daß die Königliche Societät nach der Quelle, dem
+Ursprung, der Grundlage, dem letzten Erkenntnißgrunde der
+Moral frägt? — Nun kann aber die Quelle und Grundlage
+der Moral schlechterdings keine andere seyn, als die der Mo—
+ralität selbst: denn was theoretisch und ideal Moral ist,
+das ist praktisch und real Moralität. Die Quelle dieser
+aber muß nothwendig der letzte Grund zu allem moralischen
+Wohlverhalten seyn: eben diesen Grund muß daher auch ihrer-
+seits die Moral aufstellen, um sich, bei Allem was sie dem
+Menschen vorschreibt, darauf zu fügen und zu berufen; wenn
+sie nicht etwan ihre Vorschriften entweder ganz aus der Luft
+greifen, oder aber fie falsch begründen will. Sie hat also die
+fen letzten Grund aller Moralität nachzuweisen: denn als wissen⸗
+schaftliches Gebäude hat fie ihn zum Grundstein, wie die Mo⸗
+ralität als Praxis ihn zum Ursprung hat. Er ist alfo unleug«
+bar das fundamentum philosophie moralis, danach die Aufs
+gabe frägt: folglich ist es klar wie der Tag, daß die Aufgabe
+wirklich verlangt, daß ein Princip der Ethik gesucht und
+aufgestellt werde, „ut prineipium aliquod Ethics conderetur,“
+nicht in dem Sinn einer bloßen obersten Vorschrift oder Grund—
+regel, sondern eines Real grundes aller Moralität und
+deshalb Erkenntnißgrundes der Moral. — Dieses
+leugnet nun aber das Urtheil, indem es sagt, daß weil ich
+es vermeint hätte, meine Abhandlung nicht gekrönt werden
+könne. Allein das wird und muß Jeder vermeinen, der die
+Aufgabe liest: denn es steht eben, schwarz auf weiß, mit kla⸗
+ren, unzweideutigen Worten da und ist nicht wegzuleugnen, fo
+lange die Worte der Lateinischen Sprache ihren Sinn behalten.
+Ich bin hierin weitläuftig gewesen: aber die Sache ist
+
+
+wichtig und merkwürdig. Denn hieraus ist klar und gewiß,
+
+
+daß was diese Akademie gefragt zu haben leugnet, sie offenbar
+
+
+und unwidersprechlich gefragt hat. — Dagegen behauptet sie,
+
+
+etwas Anderes gefragt zu haben. Nämlich der Nexus zwi⸗
+schen Metaphysik und Moral sei der Hauptgegenstand
+der Preisfrage (diese allein kann unter ipsum thema verstanden
+werden) gewesen. Jetzt beliebe der Leser nachzusehn, ob davon
+ein Wort in der Preisfrage oder in der Einleitung zu finden
+sei: keine Sylbe und auch keine Andeutung. Wer nach der
+Verbindung zweier Wissenschaften frägt, muß sie denn doch beide
+nennen: aber der Metaphysik geschieht weder in der Frage
+noch in der Einleitung Erwähnung. Uebrigens wird dieser
+ganze Hauptsatz des Urtheils deutlicher, wenn man ihn aus der
+verkehrten Stellung in die natürliche bringt, wo er in genau
+denselben Worten lautet: ipsum thema ejusmodi disputatio-
+nem flagitabat, in qua vel precipuo loco metaphysicæ et
+ethic nexus consideraretur; sed scriptor, omisso eo,
+quod potissimum postulabatur, hoc expeti fputavit, ut
+prineipium aliquod ethic® conderetur: itaque eam partem
+commentationis sue, in qua principii ethicæ a se propositi
+et metaphysice sum nexum exponit, appendicis loco habuit,
+in qua plus, quam postulatum esset, præstaret. Auch liegt
+die Frage nach dem Nexus zwischen Metaphysik und Moral
+schlechterdings nicht in dem Gesichtspunkte, von welchem die
+Einleitung der Frage ausgeht: denn diese hebt an mit
+empirischen Bemerkungen, beruft sich auf die im gemei-
+nen Leben vorkommenden moralischen Beurtheilungen u. dgl.,
+frägt sodann, worauf denn das Alles zuletzt beruhe? und schlägt
+endlich, als Beispiel einer möglichen Auflösung, eine angeborene,
+
+
+1 Bewußtseyn liegende Idee der Moralität vor, nimmt also
+in ihrem Beispiel, versuchsweise und problematisch, eine bloße
+
+
+psychologische Thatsache und nicht ein metaphysisches
+
+
+Theorem als Lösung an. Hiedurch aber giebt sie deutlich zu
+erkennen, daß sie die Begründung der Moral durch irgend eine
+
+
+Thatsache, sei es des Bewußtseyns oder der Außenwelt, ver-
+
+
+langt, nicht aber dieselbe aus den Träumen irgend einer Meta⸗
+physik abgeleitet zu sehn erwartet: daher würde die Akademie eine
+Preisschrift, welche die Frage auf diese Art gelöst hätte, mit vollem
+Rechte haben abweisen können. Man erwäge das wohl. Nun
+kommt aber noch hinzu, daß die angeblich aufgestellte, jedoch
+nirgends zu findende Frage nach dem Nexus der Meta⸗
+physik mit der Moral eine ganz unbeantwortbare, folglich,
+wenn wir der Akademie einige Einsicht zutrauen, eine unmög-
+liche wäre: unbeantwortbar, weil es eben keine Meta-
+physik schlechthin giebt, sondern nur verschiedene (und zwar
+höchst verschiedene) Metaphysiken, d. h. allerlei Versuche
+zur Metaphysik, in beträchtlicher Anzahl, nämlich so viele als
+es iemals Philosophen gegeben hat, von denen daher jede ein
+ganz anderes Lied singt, die also von Grund aus differiren
+und dissentiren. Demnach ließe sich wohl fragen nach dem Nexus
+zwischen der Aristotelischen, Epikurischen, Spinozischen, Leib⸗
+nitzischen, Lockeschen, oder sonst einer bestimmt angegebenen
+Metaphysik, und der Ethik; aber nie und nimmermehr nach
+dem Nexus zwischen der Metaphysik schlechthin und der
+Ethik: weil diese Frage gar keinen bestimmten Sinn hätte, da
+sie das Verhältniß zwischen einer gegebenen und einer ganz
+unbestimmten, ja, vielleicht unmöglichen Sache fordert. Denn
+so lange es keine als objektiv wahr anerkannte und unleugbare
+
+
+Metaphysik, also eine Metaphysik schlechthin giebt, wissen
+wir nicht ein Mal, ob eine solche überhaupt auch nur möglich
+ist, noch was sie seyn wird und seyn kann. Wollte man in⸗
+zwischen urgiren, daß wir doch einen ganz allgemeinen, also
+freilich unbestimmten Begriff von der Metaphysik über⸗
+haupt hätten, in Hinsicht auf welchen nach dem Nerus über⸗
+haupt zwischen dieser Metaphysik in abstracto und der Ethik
+gefragt werden könnte; so ist das zuzugeben: jedoch würde die
+Antwort auf die in diesem Sinn genommene Frage so leicht
+und einfach seyn, daß einen Preis auf dieselbe zu setzen lächer⸗
+lich wäre. Sie könnte nämlich nichts weiter besagen, als daß
+eine wahre und vollkommene Metaphysik auch der Ethik ihre
+feste Stütze, ihre letzten Gruͤnde darbieten müsse. Zudem findet
+man diesen Gedanken gleich im ersten Paragraphen meiner Ab⸗
+handlung ausgefuͤhrt, wo ich unter den Schwierigkeiten der
+vorliegenden Frage besonders die nachweise, daß fie, ihrer Na⸗
+tur nach, die Begründung der Ethik durch irgend eine gegebene
+Metaphysik, von der man ausgienge und auf die man sich
+stützen könnte, ausschließt.
+
+Ich habe also im Obigen unwidersprechlich nachgewiesen,
+daß die Königlich Dänische Societät das wirklich gefragt bat,
+was sie gefragt zu haben leugnet; hingegen das, was sie gefragt
+zu haben behauptet, nicht gefragt hat, ja nicht ein Mal hat
+fragen können. Dieses Verfahren der Königlich Dänischen
+Societät wäre, nach dem von mir aufgestellten Moralprincip,
+freilich nicht Recht: allein da dieselbe mein Moralprincip nicht
+gelten läßt; so wird sie wohl ein anderes haben, nach welchem
+es Recht ist.
+
+Was nun aber die Dänische Akademie wirklich gefragt
+
+
+hat, das habe ich genau beantwortet. Ich habe zuvörderst in
+
+
+einem negativen Theile dargethan, daß das Princip der
+
+
+Ethik nicht da liegt, wo man es, seit 60 Jahren, als sicher
+
+nachgewiesen annimmt. Sodann habe ich, im positiven
+
+Theile, die ächte Quelle moralisch lobenswerther Handlungen
+
+aufgedeckt, und habe wirklich bewiesen, daß diese es sei und
+
+keine andere es seyn könne. Schließlich habe ich die Verbindung
+
+gezeigt, in welcher dieser ethische Realgrund mit — nicht mei⸗
+
+ner Metaphysik, wie das Urtheil fälschlich angiebt, auch nicht
+
+mit irgend einer bestimmten Metaphysik, — sondern mit einem
+
+allgemeinen Grundgedanken, der sehr vielen, vielleicht den mei⸗ |
+ften, ohne Zweifel den ältesten, nach meiner Meinung den
+wahrsten, metaphysischen Systemen gemeinsam ist. Diese meta⸗
+physische Darstellung habe ich nicht, wie das Urtheil sagt, als
+einen Anhang, sondern als das letzte Kapitel der Abhandlung
+gegeben: es ist der Schlußstein des Ganzen, eine Betrachtung
+höherer Art, in die es ausläuft. Daß ich dabei gesagt habe,
+ich leistete hierin mehr als die Aufgabe eigentlich verlange, kommt
+eben daher, daß diese mit keinem Worte auf eine metaphysische
+Erklärung hindeutet, viel weniger, wie das Urtheil behauptet,
+ganz eigentlich auf eine solche gerichtet waͤre. Ob nun übri⸗
+gens diese metaphysische Auseinandersetzung eine Zugabe, d. h.
+etwas darin ich mehr leiste als gefordert worden, sei, oder nicht, ist
+Nebensache, ja gleichgültig: genug, daß sie dasteht. Daß aber
+das Urtheil dies gegen mich geltend machen will, zeugt von
+seiner Verlegenheit: es greift nach Allem, um nur etwas gegen
+meine Arbeit vorzubringen. Uebrigens mußte, der Natur der
+Sache nach, jene metaphysische Betrachtung den Schluß der
+Abhandlung machen. Denn wäre sie vorangegangen; so hätte
+
+
+aus ihr das Princip der Ethik synthetisch abgeleitet werden
+müssen; was nur dann möglich gewesen wäre, wenn die Afa-
+demie gesagt hätte, aus welcher der vielen, so höchst verschie—
+denen Metaphysiken sie ein ethisches Princip abgeleitet zu sehn
+beliebe: die Wahrheit eines solchen aber wäre alsdann ganz
+von der dabei vorausgesetzten Metaphysik abhängig, also proble⸗
+matisch geblieben. Demnach machte die Natur der Frage eine
+analytische Begründung des moralischen Urprincips, d. h.
+eine Begründung, die, ohne Voraussetzung irgend einer Meta⸗
+physik, aus der Wirklichkeit der Dinge geschöpft wird, noth⸗
+wendig. Eben weil, in neuerer Zeit, dieser Weg als der allein
+sichere allgemein erkannt worden, hat Kant, wie auch schon
+die ihm vorhergegangenen Englischen Moralisten, sich bemüht,
+das Moralprincip, unabhängig von jeder metaphysischen Voraus⸗
+setzung, auf analytischem Wege zu begründen. Davon wieder
+abzugehn, wäre ein offenbarer Rückschritt. Hätte diesen die Aka⸗
+demie dennoch verlangt; so mußte sie wenigstens dies auf das
+Bestimmteste aussprechen: aber in ihrer Frage liegt nicht ein
+Mal eine Andeutung davon.
+
+Da übrigens die Dänische Akademie über das Grund⸗
+gebrechen meiner Arbeit großmüthig geschwiegen hat, werde ich
+mich hüten es aufzudecken. Ich fürchte nur, dies wird uns
+nichts helfen; indem ich vorhersehe, daß die Naseweisheit des
+Lesers der Abhandlung dem faulen Fleck doch auf die Spur
+kommen wird. Allenfalls könnte es ihn irre führen, daß meine
+Norwegische Abhandlung mit demselben Grundgebrechen wenig⸗
+stens eben so sehr behaftet ist. Die Königlich Norwegische
+Societät hat sich dadurch freilich nicht abhalten lassen, meine
+Arbeit zu krönen. Dieser Akademie anzugehören ist aber auch
+
+
+eine Ehre, deren Werth ich mit jedem Tage deutlicher einfehn
+und vollftändiger ermessen lerne. Denn fie kennt, als Akademie,
+kein anderes Interesse, als das der Wahrheit, des Lichts, der
+Förderung menschlicher Einsicht und Erkenntnisse. Eine Aka⸗
+demie ist kein Glaubenstribunal. Wohl aber hat eine jede, ehe
+
+
+sie fo hohe, ernste und bedenkliche Fragen, wie die beiden vor-
+
+
+liegenden, als Preisfragen aufstellt, vorher bei sich selbst aus⸗
+zumachen und fest zu stellen, ob sie auch wirklich bereit ist, der
+Wahrheit, wie fie immer lauten möge (denn das kann fie nicht
+vorher wissen), öffentlich beizutreten. Denn hinterher, nachdem
+auf eine ernste Frage eine ernste Antwort eingegangen, ist es nicht
+mehr an der Zeit sie zurückzunehmen. Und wenn ein Mal der
+steinerne Gast geladen worden; da ist, bei dessen Eintritt, selbst
+Don Juan zu sehr ein Gentleman, als daß er seine Ein⸗
+ladung verleugnen sollte. Diese Bedenklichkeit ist ohne Zweifel
+der Grund, weshalb die Akademien Europas sich in der Regel
+wohl huͤten, Fragen solcher Art aufzustellen: wirklich sind die
+zwei vorliegenden die ersten, welche ich mich entsinne erlebt zu
+haben, weshalb eben, pour la rareté du fait, ich ihre Be⸗
+antwortung unternahm. Denn obwohl mir seit geraumer Zeit
+klar geworden, daß ich die Philosophie zu ernstlich nehme, als
+daß ich ein Professor derselben hätte werden koͤnnen; so habe ich
+doch nicht geglaubt, daß derselbe Fehler mir auch bei einer
+Akademie entgegenstehn könne.
+
+
+Der zweite Tadel der Königlich Dänischen Societät lautet:
+scriptor neque ipsa disserendi forma nobis satisfecit. Da-
+gegen ist nichts zu sagen: es ist das subjektive Urtheil der
+Königlich Dänischen Societät, zu dessen Erläuterung ich meine
+
+
+Arbeit veröffentliche und derselben das Urtheil beifüge, damit
+
+
+es nicht verloren gehe, sondern aufbewahrt bleibe
+
+zor dy ddp re pen, vc dE uaxpa ,
+
+ne uidg v avıov ꝙ uv, Naeh ve oe
+
+
+Ich bemerke hiebei, daß ich hier die Abhandlung fo gebe,
+wie ich sie eingesandt habe: d. h. ich habe nichts gestrichen,
+noch verändert: die wenigen, kurzen und nicht wesentlichen Zu-
+sätze aber, welche ich nach der Absendung beigeschrieben, be:
+zeichne ich durch ein Kreuz am Anfang und Ende eines jeden der⸗
+selben, um allen Ein- und Ausreden zuvorzukommen.
+
+Das Urtheil fügt zu Obigem hinzu: neque reapse hoc
+fundamentum sufficere evicit. Dagegen berufe ich mich dar⸗
+auf, daß ich meine Begründung der Moral wirklich und ernst⸗
+lich bewiesen habe, mit einer Strenge, welche der mathe—
+matischen nahe kommt. Dies ist in der Moral ohne Vorgang
+und nur dadurch möglich geworden, daß ich, tiefer als bisher
+geschehn, in die Natur des menschlichen Willens eindringend,
+die drei letzten Triebfedern desselben, aus denen alle feine Hand—
+lungen entspringen, zu Tage gebracht und bloß gelegt habe.
+
+Im Urtheil folgt aber noch gar: quin ipse contra esse
+confiteri coactus est. Wenn das heißen soll, ich selbst hätte
+meine Moralbegründung für ungenügend erklärt; so wird der
+Leser sehn, daß davon keine Spur zu finden und so etwas mir
+nicht eingefallen ist. Sollte aber vielleicht mit jener Phrase
+etwan gar darauf angespielt seyn, daß ich, an einer Stelle, ge:
+sagt habe, die Verwerflichkeit der widernatürlichen Wollustsün⸗
+
+
+den sei nicht aus demselben Princip mit den Tugenden der Ge—
+
+
+rechtigkeit und Menschenliebe abzuleiten; — so hieße dies aus
+
+
+Wenigem viel gemacht und wäre nur ein abermaliger Beweis,
+wie man zur Verwerfung meiner Arbeit nach Allem gegriffen
+hat. Zum Schlusse und Abschiede ertheilt mir sodann die Kö—
+niglich Dänische Societät noch einen derben Verweis, wozu,
+
+
+selbst wenn dessen Inhalt gegründet wäre, ich ihre Berechtigung
+
+
+nicht einsehe. Ich werde ihr also darauf dienen. Er lautet:
+plures recentioris ætatis summos philosophos tam indecenter
+commemorari, ut justam et gravem offensionem habeat.
+Diese summi philosophi find nämlich — Fichte und Hegel!
+denn über diese allein habe ich mich in starken und derben Aus⸗
+drucken, mithin fo ausgesprochen, daß die von der Dänischen
+Akademie gebrauchte Phrase möglicher Weise Anwendung finden
+könnte: ja, der darin ausgesprochene Tadel würde, an sich selbst,
+fogar gerecht seyn, wenn diese Leute summi philosophi wären.
+Dies allein ist der Punkt, worauf es hier ankommt.
+
+Was Fichten betrifft, so findet man in der Abhandlung
+nur das Urtheil wiederholt und ausgeführt, was ich bereits
+vor 22 Jahren, in meinem Hauptwerke, über ihn abgegeben
+habe. So weit es hier zur Sprache kam, habe ich dasselbe
+durch einen Fichten eigens gewidmeten ausführlichen Para⸗
+graphen motivirt, aus welchem genugsam hervorgeht, wie weit
+er davon entfernt war, ein summus philosophus zu seyn:
+dennoch habe ich ihn als einen „Talent-Mann“ hoch über
+Hegeln gestellt. Ueber diesen allein habe ich, ohne Kommen⸗
+tar, mein ungqualifizirtes Verdammungsurtheil in den entschie⸗
+densten Ausdrücken ergehn lassen. Denn ihm geht, meiner
+Ueberzeugung nach, nicht nur alles Verdienst um die Philo⸗
+sophie ab; sondern er hat auf dieselbe, und dadurch auf die
+Deutsche Litteratur überhaupt, einen höchst verderblichen, recht
+
+
+eigentlich verdummenden, man könnte sagen pestilenzialischen
+Einfluß gehabt, welchem daher, bei jeder Gelegenheit, auf das
+Nachdrücklichste entgegen zu wirken, die Pflicht jedes selbst zu
+denken und selbst zu urtheilen Fähigen ist. Denn schweigen wir,
+wer soll dann sprechen? Nebst Fichten also ist es Hegel,
+auf den sich der am Schlusse des Urtheils mir ertheilte Verweis
+bezieht; ja von ihm ist, da er am schlimmsten weggekommen,
+vornehmlich die Rede, wenn die Königlich Dänische Societät
+von recentioris ætatis summis philosophis spricht, gegen
+welche ich unanständigerweise es an schuldigem Respekt habe
+fehlen lassen. Sie erklärt also öffentlich, von eben dem Richter⸗
+stuhl herab, von welchem fie Arbeiten wie meine mit unquali=
+fiirtem Tadel verwirft, diesen Hegel für einen summus
+Wenn ein Bund zur Verherrlichung des Schlechten ver-
+schworener Journalschreiber, wenn besoldete Professoren der
+Hegelei, und schmachtende Privatdocenten, die es werden möch—
+ten, jenen sehr gewöhnlichen Kopf, aber ungewöhnlichen Scar-
+latan, als den größten Philosophen, den je die Welt besessen,
+unermüdlich und mit beispielloser Unverschämtheit, in alle vier
+Winde ausschreien; so ist das keiner ernstlichen Berücksichtigung
+werth, um so weniger, als die plumpe Absichtlichkeit dieses
+elenden Treibens nachgerade selbst dem wenig Geübten augen⸗
+fällig werden muß. Wenn es aber so weit kommt, daß eine
+ausländische Akademie jenen Philosophaster als einen summus
+philosophus in Schutz nehmen will, ja sich erlaubt, den Mann
+zu schmähen, der, redlich und unerschrocken, dem falschen, erschli⸗
+chenen, gekauften und zusammengelogenen Ruhm mit dem Nach-
+druck sich entgegenstellt, der allein jenem frechen Anpreisen und
+
+
+Aufdringen des Falschen, Schlechten und Kopfverderbenden an⸗
+gemessen ist; so wird die Sache ernsthaft: denn ein so beglau⸗
+bigtes Urtheil könnte Unfundige zu großem und schädlichem Irr⸗
+g thum verleiten. Es muß daher neutralisirt werden: und
+dies muß, da ich nicht die Autorität einer Akademie habe, durch
+Gründe und Belege geschehen. Solche also will ich jetzt fo deut⸗
+lich und faßlich darlegen, daß sie hoffentlich dienen werden, der
+
+Dänischen Akademie den Horazianischen Rath 8
+Qualem commendes, etiam atque etiam adspice ne mox
+
+Incutiant aliena tibi peccata pudorem,
+
+für die Zukunft zu empfehlen.
+
+Wenn ich nun zu diesem Zwecke sagte, die sogenannte Phi⸗
+losophie dieses Hegels sei eine kolossale Mystifikation, welche
+noch der Nachwelt das unerschöpfliche Thema des Spottes über
+unsre Zeit liefern wird, eine alle Geiftesfräfte lähmende, alles
+wirkliche Denken erstickende und, mittelst des frevelhaftesten
+Mißbrauches der Sprache, an dessen Stelle den hohlsten,
+sinnleersten, gedankenlosesten, mithin, wie der Erfolg bestätigt,
+verdummendesten Wortkram setzende Pseudophilosophie, welche,
+mit einem aus der Luft gegriffenen und absurden Einfall zum
+Kern, sowohl der Gründe als der Folgen entbehrt, d. h. durch
+nichts bewiesen wird, noch selbst irgend etwas beweist oder er⸗
+klärt, dabei noch, der Originalität ermangelnd, eine bloße Pa⸗
+rodie des scholastischen Realismus und zugleich des Spinozis⸗
+mus, welches Monstrum auch noch von der Kehrseite das Christen⸗
+thum vorstellen soll, also
+
+fo würde ich Recht haben. Wenn ich ferner fagte, dieser summus
+philosophus der Dänischen Akademie habe Unsinn geschmiert, wie
+
+
+kein Sterblicher je vor ihm, so daß, wer sein gepriesenstes Werk,
+die sogenannte „Phänomenologie des Geistes“ *) lesen könne, ohne
+daß ihm dabei zu Muthe würde als wäre er im Tollhause „ —
+hinein gehöre; so würde ich nicht minder Recht haben. Allein da
+ließe ich der Dänischen Akademie den Ausweg, zu sagen, die hohen
+Lehren jener Weisheit wären niedrigen Intelligenzen, wie meiner,
+nicht erreichbar, und was mir Unsinn scheine, wäre bodenloser
+Tieffinn. Da muß ich denn freilich nach einer festern Handhabe
+suchen, die nicht abgleiten kann, und den Geguer da in die
+Enge treiben, wo keine Hinterthüre vorhanden ist. Demnach
+werde ich jetzt unwiderleglich beweisen, daß diesem summo
+philosopho der Dänischen Akademie sogar der gemeine Men-
+schenverstand, so gemein er auch ist, abgieng. Daß man aber
+auch ohne diesen ein summus philosophus seyn könne, ist eine
+Thesis, welche die Akademie nicht aufstellen wird. Jenen Mangel
+aber werde ich durch drei verschiedene Beispiele erhärten. Und
+diese werde ich entnehmen aus dem Buche, bei welchem er am
+allermeisten sich hätte besinnen, sich zusammennehmen und überlegen
+follen was er schrieb, nämlich aus feinem Studentenkompendio,
+betitelt „Encyklopädie der philosophischen Wissenschaften,“ welches
+Buch ein Hegelianer die Bibel der Hegelianer genannt hat.
+Daselbst also, in der Abtheilung „Physik“ 8. 293 (zweite
+Auflage, von 1827) handelt er vom specifischen Gewichte, welches
+er fpeeififche Schwere nennt, und bestreitet die Annahme, daß
+-  baffelde auf Verschiedenheit der Porosttät beruhe, durch folgen⸗
+des Argument: „Ein Beispiel vom eristirendem Specificiren
+
+
+*) Heißt eigentlich „System der Wissenschaft“ Bamberg 1807. In
+dieser Originalausgabe muß man es lesen, da es in den operibus omnibus
+von dem edirenden assecla etwas glatt geleckt seyn soll.
+
+
+„der Schwere ist die Erscheinung, daß ein auf seinem Unter⸗
+„stützungspunkte gleichgewichtig schwebender Eisenstab, wie er
+„magnetif irt wird, fein Gleichgewicht verliert und fih an
+„dem einen Pole jetzt schwerer zeigt als an dem andern. Hier
+„wird der eine Theil so inficirt, daß er, ohne sein Volumen
+„zu verändern, schwerer wird; die Materie, deren Masse nicht
+„vermehrt worden, ist somit specifisch schwerer geworden.“ —
+Hier macht also der summus philosophus der Dänischen Aka⸗
+demie folgenden Schluß: „wenn ein in seinem Schwerpunkt
+unterstützter Stab nachmals auf einer Seite schwerer wird; so
+senkt er sich nach dieser Seite: nun aber senkt ein Eisenstab,
+nachdem er magnetisirt worden, sich nach einer Seite: also ist er
+daselbst schwerer geworden.“ Ein würdiges Analogon zu dem
+Schluß: „alle Gänse haben zwei Beine, Du hast zwei Beine,
+also bist Du eine Gans.“ Denn in kategorische Form gebracht,
+lautet der Hegel'sche Syllogismus: „Alles was auf einer Seite
+schwerer wird, senkt sich nach der Seite: dieser magnetisirte
+Stab senkt sich nach einer Seite: also ist er daselbst schwerer ge⸗
+worden.“ Das ist die Syllogistik dieses summi philosophi und
+Reformators der Logik, dem man leider vergessen hat beizubringen,
+daß e meris affirmativis in secunda figura nihil sequitur.
+Im Ernft aber ift es die angeborene Logik, welche jedem ge⸗
+sunden und geraden Verstande dergleichen Schlüsse unmöglich
+macht, und deren Abwesenheit das Wort Un verst and bezeichnet.
+Wie sehr ein Lehrbuch, welches Argumentationen dieser Art enthält
+und vom Schwererwerden der Körper ohne Vermehrung ihrer
+Masse redet, geeignet ist, den geraden Verstand der jungen
+Leute schief und krumm zu biegen, bedarf keiner Auseinander⸗
+setzung. — Welches das Erste war.
+
+
+Das zweite Beispiel vom Mangel des gemeinen Menschen⸗
+verstandes in dem summo philosopho der Dänischen Akademie
+beurkundet der 8. 269 desselben Haupt- und Lehrwerkes, in dem
+Satz: „Zunächst widerspricht die Gravitation unmittelbar dem
+„Gesetze der Trägheit, denn vermöge jener strebt die Materie
+„aus sich selbst zur andern hin.“ — Wie?! nicht zu begrei⸗
+fen, daß es dem Gesetze der Trägheit so wenig zuwiderläuft,
+daß ein Körper von einem anderen angezogen, als daß er
+von ihm gestoßen wird?! Im einen wie im andern Fall
+ist es ja der Hinzutritt einer äußern Ursache, welcher die bis
+dahin bestehende Ruhe oder Bewegung aufhebt oder verändert;
+und zwar so, daß, beim Anziehen wie beim Stoßen, Wirkung
+und Gegenwirkung einander gleich find. — Und eine solche Als
+bernheit fo dummdreist hinzuschreiben! und dies in ein Lehr-
+buch für Studenten, die dadurch an den ersten Grundbegriffen
+der Naturlehre, die keinem Gelehrten fremd bleiben Dürfen,
+gänzlich und vielleicht auf immer irre gemacht werden. Freilich,
+je unverdienter der Ruhm, desto dreister macht er. — Dem,
+der denken kann, (welches nicht der Fall unseres summi philo-
+sophi war, der bloß „den Gedanken“ stets im Munde führte,
+wie die Wirthshäuser den Fürften, der nie bei ihnen einkehrt, im
+Schilde) ist es nicht erflärlicher, daß ein Körper den andern
+sortstößt, als daß er ihn anzieht; da dem Einen wie dem An-
+dern unerklärte Naturkräfte, wie solche jede Kausalerklärung zur
+Voraussetzung hat, zum Grunde liegen. Will man daher sagen,
+
+
+daß ein Körver, der von einem andern, vermöge der Gravi⸗
+
+
+tation, angezogen wird, „aus sich selbst“ zu ihm hinstrebt; fo
+muß man auch sagen, daß der gestoßene Körper „aus sich selbst“
+vor dem stoßenden flieht, und wie im Einen so im Andern das
+
+
+Gesetz der Trägheit aufgehoben sehn. Das Gesetz der Trägheit
+fließt unmittelbar aus dem der Kausalität, ja ist eigentlich nur
+dessen Kehrseite: „jede Veränderung wird durch eine Ursache
+
+
+herbeigeführt,“ sagt das Gesetz der Kausalität: „wo keine Ur⸗
+
+
+sache hinzukommt, tritt keine Veränderung ein,“ sagt das Ge⸗
+setz der Trägheit. Daher würde eine Thatsache, die dem Gesetz
+der Trägheit widerspräche, geradezu auch dem der Kausalität,
+d. h. dem a priori Gewissen, widersprechen und uns eine Wirk⸗
+ung ohne Ursache zeigen: welches anzunehmen der Kern alles
+Un verstandes ist. — Welches das Zweite war.
+
+Die dritte Probe der eben genannten angeborenen Eigen⸗
+
+
+schaft legt der summus philosophus der Dänischen Akademie
+
+
+im 8. 298 desselben Meisterwerkes ab, woselbst er, gegen
+die Erklärung der Clasticität durch Poren polemisirend, sagt:
+„Wenn zwar sonst in Abstracto zugegeben wird, daß die
+„Materie vergänglich, nicht absolut sey, so wird sich doch in
+„der Anwendung dagegen gesträubt, —— —— — — — ; po
+„daß in der That die Materie als abfolut-felbfitftändig,
+„ewig, angenommen wird. Dieser Irrthum wird durch den
+„allgemeinen Irrthum des Verstandes eingeführt, daß u. s. w.“
+— Welcher Dummkopf hat je zugegeben, daß die Materie
+vergänglich sei? und welcher nennt das Gegentheil einen
+Irrthum? — Daß die Materie beharrt, d. h. daß sie nicht,
+gleich allem Andern, entsteht und vergeht, sondern, unzerstörbar
+wie unentstanden, alle Zeit hindurch ist und bleibt, daher ihr
+Quantum weder vermehrt noch vermindert werden kann; dies ist
+
+
+eine Erkenntniß a priori, fo fest und sicher wie irgend eine mas
+
+
+thematische. Ein Entstehn oder Vergehn von Materie auch nur
+vorzustellen, ist uns schlechterdings unmöglich; weil die Form
+
+
+unseres Verstandes es nicht zuläßt. Dies leugnen, dies für
+einen Irrthum erklären, heißt daher allem Verstande geradezu
+entsagen. — Welches also das Dritte war. — Selbst das Prä⸗
+dikat absolut kann mit Fug und Recht der Materie beigelegt
+werden, indem es besagt, daß ihr Daseyn ganz außerhalb des
+Gebietes der Kausalität liegt und nicht mit eingeht in die end⸗
+lose Kette von Ursachen und Wirkungen, als welche nur ihre
+Accidenzien, Zustände, Formen betrifft und unter einander ver⸗
+bindet: auf diese, auf die an der Materie vorgehenden Ver⸗
+änderungen allein, erstreckt sich das Gesetz der Kausalität,
+mit seinem Entstehn und Vergehn, nicht auf die Materie. Ja,
+jenes Prädikat absolut hat an der Materie seinen alleinigen
+Beleg, dadurch es Realität erhält und zulässig ist, außerdem es
+ein Prädikat, für welches gar kein Subjekt zu finden, mithin
+ein aus der Luft gegriffener, durch nichts zu realifirender Begriff
+seyn würde, nichs weiter als ein wohl aufgeblasener Spielball
+der Spaaßphilosophen. — Beiläufig legt obiger Ausspruch die⸗
+ses Hegels recht naiv an den Tag, welcher Altenweiber⸗
+und Rocken⸗Philosophie fo ein sublimer, hyper⸗-transscendenter,
+aerobatischer und bodenlos tiefer Philosoph eigentlich, in feinem
+Herzen, kindlich zugethan ist und welche Sätze er nie sich hat
+beigehn lassen in Frage zu ziehen.
+
+Also der summus philosophus der Dänischen Akademie
+lehrt ausdruͤcklich: daß Körper ohne Vermehrung ihrer Masse
+schwerer werden können und daß dies namentlich der Fall sei
+bei einem magnetifirten Eifenftabe; desgleichen, daß die Gravis
+
+dation dem Gesetze der Trägheit widerspreche; endlich auch, daß
+die Materie vergänglich sei. Diese drei Beispiele werden wohl
+genügen, zu zeigen was fein lang hervorguckt, sobald die dichte
+
+
+Hülle des aller Menschenvernunft Hohn sprechenden, unfinnigen
+Gallimathias, in welche gewickelt der summus philosophus
+einherzuschreiten und dem geistigen Pöbel zu imponiren pflegt,
+ein Mal eine Oeffnung läßt. Man sagt: ex ungue leonem:
+aber ich muß, decenter oder indecenter, sagen: ex aure
+asinum. — Uebrigens mag jetzt aus den drei hier vorgelegten
+speciminibus philosophie Hegeliane der Gerechte und Un⸗
+partheiische beurtheilen, wer eigentlich indecenter commemo-
+ravit: der, welcher einen solchen Absurditätenlehrer ohne Um⸗
+stände einen Scharlatan nannte, oder der, welcher ex cathedra
+academica dekretirte, er sei ein summus philosophus?
+
+
+Noch habe ich hinzuzufügen, daß ich aus einer so reichen
+Auswahl von Absurditäten jeder Art, wie die Werke des summi
+philosophi darbieten, den drei eben präsentirten deshalb den
+Vorzug gegeben habe, weil bei ihrem Gegenstand es sich einer-
+seits nicht handelt um schwierige, vielleicht unlösbare, philoso
+phische Probleme, die demnach eine Verschiedenheit der Ansicht
+zulassen; und andrerseits nicht um specielle physikalische Wahr⸗
+heiten, welche genauere empirische Kenntnisse voraussetzen; son⸗
+dern es sich hier handelt um Einsichten a priori, d. h. um
+Probleme, die Jeder durch bloßes Nachdenken lösen kann: das
+her eben ein verkehrtes Urtheil in Dingen dieser Art ein ent-
+schiedenes und unleugbares Zeichen ganz ungewöhnlichen Unver⸗
+standes ist, das dreiste Aufstellen solcher Unsinnslehren aber in
+einem Lehrbuch für Studenten uns sehn läßt, welche Frechheit
+
+
+sich eines gemeinen Kopfes bemächtigt, wenn man ihn als einen
+
+
+großen Geist ausschreit. Daher dies zu thun ein Mittel ist,
+welches kein Zweck rechtfertigen kann. Mit den drei hier
+
+
+dargelegten speciminibus in physicis halte man zusammen
+die Stelle im 8. 98 desselben Meisterwerks, welche anhebt,
+„indem ferner der Repulsivkraft“ — und sehe, mit welcher un⸗
+endlichen Vornehmigkeit dieser Sünder herabblickt auf Neu-
+tons allgemeine Attraktion und Kants metaphysische Anfangs⸗
+gründe der Naturwissenschaft. Wer Geduld hat lese nun noch
+die 88. 40 bis 62, wo der summus philosophus eine ver⸗
+drehte Darstellung der Kantischen Philosophie giebt und nun,
+unfähig die Größe der Verdienste Kants zu ermessen, auch von
+der Natur zu niedrig gestellt, um sich an der so unaussprechlich
+seltenen Erscheinung eines wahrhaft großen Geistes freuen zu
+können, statt dessen, von der Höhe selbstbewußter, unendlicher
+Ueberlegenheit vornehm herabblickt auf diesen großen, großen
+Mann, als auf einen, den er hundert Mal überfieht und in
+dessen schwachen, schülerhaften Versuchen er, mit kalter Gering⸗
+schätzung, halb ironisch, halb mitleidig, die Fehler und Miß⸗
+griffe, zur Belehrung feiner Schüler, nachweist. Auch $. 254
+gehört dahin. Diese Vornehmthuerei gegen ächte Verdienste ist
+freilich ein bekannter Kunstgriff aller Scharlatane zu Fuß und
+zu Pferde, verfehlt jedoch, Schwachköpfen gegenüber, nicht
+leicht ihre Wirkung. Daher eben auch nächst der Unsinns⸗
+schmiererei die Vornehmthuerei der Hauptkniff auch dieses Schar⸗
+latans war; so daß er bei jeder Gelegenheit, nicht bloß auf
+fremde Philosopheme, sondern auch auf jede Wissenschaft und
+ihre Methode, auf Alles was der menschliche Geist, im Laufe
+der Jahrhunderte, durch Scharssinn, Mühe und Fleiß sich er⸗
+worben hat, vornehm, fastidiös, schnöde und höhnisch herab⸗
+blickt von der Höhe seines Wortgebäudes, und dadurch auch
+wirklich von der in seinem Abrakadabra verschlossenen Weisheit
+
+
+eine hohe Meinung beim Deutschen Publiko erregt hat, als
+welches eben denkt: \
+Sie sehen stolz und unzufrieden aus:
+Sie scheinen mir aus einem edlen Haus.
+
+Urtheilen aus eigenen Mitteln ist das Vorrecht Weniger:
+die Uebrigen leitet Autorität und Beispiel. Sie sehen mit frem⸗
+den Augen und hören mit fremden Ohren. Daher ist es gar
+leicht, zu denken wie jetzt alle Welt denkt; aber zu denken, wie
+alle Welt über dreißig Jahre denken wird, ist nicht jedermanns
+Sache. Wer nun also, an die Estime sur parole gewöhnt,
+die Verehrungswürdigkeit eines Schriftstellers auf Kredit an⸗
+genommen hat, solche aber nachher auch bei Andern geltend machen
+will, kann leicht in die Lage Dessen gerathen, der einen schlech⸗
+ten Wechsel diskontirt hat, welchen er, als er ihn honorirt zu
+sehn erwartet, mit bitterm Protest zurückerhält und sich die Lehre
+geben muß, ein ander Mal die Firma des Ausstellers und die
+der Indosseuten besser zu prüfen. Ich müßte meine aufrichtige
+Ueberzeugung verleugnen, wenn ich nicht annähme, daß auf
+den Ehrentitel eines summi philosophi, welchen die Dänische
+Akademie in Bezug auf jenen Papier- Zeit- und Kopf⸗Verderber
+gebraucht hat, das in Deutschland uber denselben Fünftlich ver⸗
+anstaltete Lobgeschrei, nebst der großen Anzahl seiner Partei⸗
+gänger überwiegenden Einfluß gehabt hat. Deshalb scheint es
+mir zweckmäßig, der Königlich Dänischen Societät die schöne
+Stelle in Erinnerung zu bringen, mit welcher ein wirklicher
+summus philosophus, Locke, (dem es zur Ehre gereicht, von
+Fichten der schlechteste aller Philosophen genannt zu seyn) das vor⸗
+letzte Kapitel seines berühmten Meisterwerkes schließt, und die ich
+hier, zu Gunsten des Deutschen Lesers, Deutsch wiedergeben will:
+
+
+„So groß auch der Lärm ift, der in der Welt über Irr⸗
+thümer und Meinungen gemacht wird; so muß ich doch der
+Menschheit die Gerechtigkeit widerfahren lassen, zu sagen, daß
+nicht so Viele, als man gewöhnlich annimmt, in Irrthümern
+und falschen Meinungen befangen sind. Nicht daß ich dächte,
+sie erkennten die Wahrheit; sondern weil sie hinsichtlich jener
+Lehren, mit welchen sie sich und Andern so viel zu schaffen
+machen, in der That gar keine Meinungen und Gedanken haben.
+Denn wenn jemand den größten Theil aller Parteigänger der
+meisten Sekten auf der Welt ein wenig katechisirte; fo würde
+er nicht finden, daß sie hinsichtlich der Dinge, für die sie so ge⸗
+waltig eifern, irgend eine Meinung selbst hegten, und noch
+weniger würde er Ursache finden, zu glauben, daß sie eine solche
+in Folge einer Prüfung der Gründe und eines Anscheins der
+Wahrheit angenommen hätten. Sondern sie sind entschlossen,
+der Partei, für welche Erziehung oder Interesse sie geworben
+haben, fest anzuhängen, und legen, gleich dem gemeinen Sol»
+daten im Heere, ihren Muth und Eifer an den Tag, der
+Lenkung ihrer Führer gemäß, ohne die Sache, für welche fie
+streiten, jemals zu prüfen oder selbst auch nur zu kennen. Wenn
+der Lebenswandel eines Menschen anzeigt, daß er auf die Reli⸗
+gion keine ernstliche Rücksicht nimmt; warum sollen wir denn
+glauben, daß er über die Satzungen der Kirche sich den Kopf
+zerbrechen und sich anstrengen werde, die Gründe dieser oder
+jener Lehre zu prüfen? Ihm genügt es, daß er, seinen Lenkern
+gehorsam, Hand und Zunge stets bereit habe zur Unterstützung
+der gemeinsamen Sache, um dadurch sich denen zu bewähren,
+welche ihm Ansehn, Beförderung und Protektion, in der Gesell⸗
+schaft, der er angehört, ertheilen können. So werden Menschen
+
+
+Bekenner und Vorkämpfer von Meinungen, von welchen sie nie
+sich überzeugt, deren Proselyten sie nie geworden, ja die nie⸗
+mals ihnen auch nur im Kopf herumgegangen sind. Obwohl
+man also nicht sagen kann, daß die Zahl der unwahrscheinlichen
+und irrigen Meinungen in der Welt kleiner sei als fie vorliegt;
+so ist doch gewiß, daß denselben Wenigere wirklich anhängen
+und sie fälschlich für Wahrheiten halten, als man sich .
+stellen pflegt.“
+
+Wohl hat Locke Recht: wer gute Löhnung giebt, findet
+jeder Zeit eine Armee, und sollte auch seine Sache die schlechteste
+auf der Welt seyn. Durch tüchtige Subsidien kann man, fo
+gut wie einen schlechten Prätendenten, auch einen schlechten
+Philosophen eine Weile oben auf erhalten. Jedoch hat Locke
+hier noch eine ganze Klasse der Anhänger irriger Meinungen
+und Verbreiter falschen Ruhmes unberücksichtigt gelassen, und
+zwar die, welche den rechten Troß, das Gros de l’armee der-
+selben ausmacht: ich meine die Zahl derer, welche nicht präten⸗
+diren, z. B. Professoren der Hegelei zu werden, oder sonstige
+Pfründen zu genießen, sondern als reine Gimpel, gulls, im
+Gefühl der völligen Impotenz ihrer Urtheilskraft, denen, die
+ihnen zu imponiren verstehn, nachschwätzen, wo sie Zulauf sehn
+sich anschließen und mittrollen, und wo sie Lärm hören mit⸗
+schreien. Um nun die von Locke ertheilte Erklärung eines zu
+allen Zeiten sich wiederholenden Phänomens auch von dieser
+Seite zu ergänzen, will ich eine Stelle aus meinem Spanischen
+Favoritautor mittheilen, welche, da sie durchaus belustigend ist
+und eine Probe aus einem vortrefflichen, in Deutschland so gut wie
+unbekannten Buche giebt, dem Leser jedenfalls willkommen seyn
+wird. Besonders aber soll diese Stelle vielen jungen und alten
+
+
+Gecken in Deutschland zum Spiegel dienen, welche, im ftillen,
+aber tiefen Bewußtseyn ihres geistigen Unvermögens, den Schal—
+ken das Lob des Hegels nachsingen und in den nichtssagenden
+oder gar nonsensikalischen Aussprüchen dieses philosophischen
+Scharlatans wundertiefe Weisheit zu finden affektiren. Exempla
+sunt odiosa; daher ich ihnen, nur in abstracto genommen, die
+Lektion widme, daß man durch nichts sich so tief intellektuell
+herabsetzt, wie durch das Bewundern und Preisen des Schlech—
+ten. Denn Helvetius sagt mit Recht: le degré d’esprit neces-
+saire pour nous plaire, est une mésure assez exacte du
+degré d' esprit que nous avons. Viel eher ift das Verkennen
+des Guten auf eine Weile zu entschuldigen: denn das Vortreff—
+lichste in jeder Gattung tritt, vermöge seiner Ursprünglichkeit,
+so neu und fremd an uns heran, daß, um es auf den ersten
+Blick zu erkennen, nicht nur Verstand, sondern auch große Bil—
+dung in der Gattung desselben erfordert wird: daher es, in der
+Regel, eine späte und um so spätere Anerkennung findet, als
+es höherer Gattung ist, und die wirklichen Erleuchter der
+Menschheit das Schicksal der Firsterne theilen, deren Licht viele
+Jahre braucht, ehe es bis zum Gesichtskreis der Menschen
+herabgelangt. Hingegen Verehrung des Schlechten, Falschen,
+Geistlosen, oder gar Absurden, ja Unsinnigen, läßt keine
+Entschuldigung zu; sondern man beweist dadurch unwiderruf—
+lich, daß man ein Tropf ist und folglich es bis ans Ende
+seiner Tage bleiben wird: denn Verstand wird nicht erlernt. —
+Andrerseits aber bin ich, indem ich, auf erhaltene Provokation,
+\ die Hegelei, diese Pest der deutschen Litteratur, ein Mal nach
+Verdienst behandele, des Dankes der Redlichen und Einsichtigen,
+die es noch geben mag, gewiß. Denn sie werden ganz der
+
+
+Meinung seyn, welche Voltaire und Göthe, in auffallen⸗
+der Uebereinstimmung, fo ausdrücken: „la faveur prodigude
+aux mauvais ouvrages est aussi contraire aux progres
+de esprit que le dechainement contre les bons.“ (Lettre
+ist nicht, daß man die Ausbreitung des Wahren, Klaren, Nuͤtz⸗
+lichen hindert, sondern daß man das Falsche in Cours bringt.“
+(Nachlaß. Bd. 9. S. 54.) Welche Zeit aber hätte ein so plan⸗
+mäßiges und gewaltsames in Cours bringen des ganz Schlechten
+erlebt, wie diese letzten 20 Jahre in Deutschland? welche
+andere hätte eine ähnliche Apotheose des Unsinns und Aber⸗
+witzes aufzuweisen? für welche andere scheint Schiller's Vers
+
+
+Ich sah des Ruhmes heil'ge Kränze
+Auf der gemeinen Stirn entweiht,
+
+
+so prophetisch bestimmt gewesen? Daher eben ist die Spani⸗
+sche Rhapsodie, welche ich, zum heitern Schluß dieser Vorrede,
+mittheilen will, so wundervoll zeitgemäß, daß der Verdacht ent⸗
+stehn könnte, sie sei 1840 und nicht 1640 abgefaßt: dieserhalb
+diene zur Nachricht, daß ich sie treu übersetze aus dem Criticon
+de Baltazar Gracian, P. III. Crisi 4. S. 285 des ersten
+Bandes der ersten Antwerpner Quartausgabe der Obras de
+Lorenzo Gracian, von 1702.
+
+„— — — Der Führer und Entzifferer unserer beiden Reis
+senden *) fand aber unter allen die Seiler allein zu loben: weil
+sie in umgekehrter Richtung aller Uebrigen gehn. —
+
+Als sie nun angelangt waren, wurde ihre Aufmerksamkeit
+
+
+*) Sie find Kritilo, der Vater, und Andrenio, der Sohn. Der
+
+
+Entzifferer ist der Desengano, b. h. die Enttäuschung: er ist der zweite
+Sohn der Wahrheit, deren Erstgeborener der Haß ist: veritas odium parit.
+
+
+durch das Gehör erregt. Nachdem fte sich nach allen Seiten
+umgesehn, erblickten sie, auf einer gemeinen Bretterbühne, einen
+tüchtigen Schwadronör, umringt von einem großen Mühlrade
+Volks, welches hier eben gemahlen und bearbeitet wurde. Er
+hielt sie als seine Gefangenen fest, bei den Ohren angekettet;
+wiewohl nicht mit der goldenen Kette des Thebaners, “) fondern
+mit einem eisernen Zaum. Dieser Kerl also bot, mit gewalti⸗
+gem Maulwerk, welches dazu unerläßlich ist, Wunderdinge zur
+Schau aus. „Nunmehro, meine Herren,“ sagte er „will ich
+Ihnen ein geflügeltes Wunder, welches dabei ein Wunder an
+Verstand ist, vorzeigen. Es freut mich, daß ich mit Personen
+von Einsicht, mit ganzen Leuten zu thun habe: jedoch muß ich
+bemerken, daß wenn etwan jemand unter Ihnen eben nicht mit
+einem ganz außerordentlichen Verstande begabt seyn sollte, er
+sich jetzt nur gleich entfernen kann, da die hohen und subtilen
+Dinge, welche nunmehr vorkommen werden, ihm nicht verständ⸗
+lich seyn können. Also aufgepaßt, meine Herren von Einsicht
+und Verstand! Es wird nunmehro der Adler des Jupiters auf⸗
+treten, welcher redet und argumentirt, wie es sich für einen
+solchen schickt, scherzt wie ein Zoylus und stichelt wie ein Aristarch.
+Kein Wort wird aus seinem Munde gehn, welches nicht ein
+Mysterium in sich schlöße, nicht einen witzigen Gedanken, mit
+hundert Anspielungen auf hundert Dinge enthielte. Alles was
+er sagt, werden Sentenzen von der erhabensten Tiefe“)
+
+
+*) Er meint den Herkules, von welchem er P. II. er. 2. S, 183 sagt,
+daß von seiner Zunge Kettchen ausgegangen wären, welche die Uebrigen
+an den Ohren gefesselt hielten. Mir ist der Mythos nicht bekannt.
+
+) Ausdruck Hegels in der Hegelzeitung, 1827. Nro. 7. Das Ori⸗
+
+
+ginal hat bloß: profundidades y n, a N * =
+
+
+seyn.“ — „Das wird,“ sagte Kritilo, „ohne Zweifel irgend
+
+ein Reicher oder Mächtiger seyn: denn wäre er arm, würde
+
+Alles, was er sagte, nichts taugen. Mit einer silbernen Stimme
+singt sichs gut, und mit einem goldenen Schnabel redet sich's noch
+
+schöner.“ — „Wohlan!“ fuhr der Scharlatan fort, „mögen sich
+nunmehr die Herren empfehlen, welche nicht selbst Adler an Ver⸗
+
+ftand find: denn für sie ist hier jetzt nichts zu holen.“ — Was ift
+
+das? Keiner geht fort? Keiner rührt sich? — Die Sache war,
+daß Keiner sich zu der Einsicht, daß er ohne Einsicht sei, be⸗
+kannte, vielmehr Alle sich für sehr einsichtig hielten, ihren Ver⸗
+stand ungemein estimirten und eine hohe Meinung von sich
+
+hegten. Jetzt zog er an einem groben Zaum, und es erschien —
+das dümmste der Thiere: denn auch es nur zu nennen ist belei⸗
+digend. „Hier fehen Sie,“ schrie der Betrüger, „einen Adler,
+einen Adler an allen glänzenden Eigenschaften, am Denken und
+am Reden. Daß sich nur Keiner beigehn lasse, das Gegentheil
+zu sagen: denn da würde er seinem Verstande schlechte Ehre
+machen.“ — „Beim Himmel,“ rief Einer, „ich sehe feine Fluͤ⸗
+gel: o, wie großartig fie find!“ — „Und ich,“ sagte ein Anz
+derer, „kann die Federn darauf zählen: ach, wie sie so fein
+sind! — „Ihr seht es wohl nicht?“ sprach Einer zu seinem
+Nachbarn. „Ich nicht?!“ schrie dieser, „ei, und wie deutlich!“
+Aber ein redlicher und verftändiger Mann sagte zu feinem Nach⸗
+barn: „so wahr ich ein ehrlicher Mann bin, ich sehe nicht, daß
+da ein Adler sei, noch daß er Federn habe, wohl aber vier lah⸗
+me Beine und einen ganz respektabeln Zagel (Schwanz).“ „St!
+St.!“ erwiederte ein Freund, „sagt das nicht, ihr richtet euch
+iu Grunde: sie werden meinen, ihr wäret ein großer et cetera.
+höret ja was wir andern sagen und thun: also folgt dem
+
+
+Strohm. „Ich schwöre bei allen Heiligen,“ sagte ein anderer
+ebenfalls ehrlicher Mann, „daß das nicht nur kein Adler ist,
+sondern sogar sein Antipode: ich sage es ist ein großer et cetera.“
+— „Schweig doch, schweig!“ sagte, ihn mit dem Ellenbogen
+stoßend, sein Freund, „willst du von Allen ausgelacht werden?
+Du darfft nicht anders sagen, als daß es ein Adler sei, dächtest
+du auch ganz das Gegentheil: fo machen wir's ja alle.“ — „Be-
+merken Sie nicht,“ schrie der Scharlatan, „die Feinheiten,
+welche er vorbringt? Wer die nicht faßte und fühlte, müßte
+von allem Genie entblößt seyn.“ Auf der Stelle sprang ein
+Backalaureus hervor ausrufend: „wie herrlich! welche große Ge⸗
+danken! das Vortrefflichste der Welt! welche Sentenzen! Laßt
+fie mich aufschreiben! es wäre ewig Schade, wenn auch nur ein
+Jota davon verloren gienge: (und nach seinem Hinscheiden werde
+ich meine Hefte ediren.“) *) — In diesem Augenblick erhob das
+Wunderthier jenen seinen ohrzerreißenden Gesang, der eine
+ganze Rathsversammlung aus der Fassung bringen kann, und
+begleitete ihn mit einem solchen Strohm von Ungebürlichkeiten,
+daß Alle verdutzt dastanden, einander ansehend. „Aufgeschaut,
+aufgeschaut, meine gescheuten *) Leute,“ rief eilig der ver⸗
+schmitzte Betrüger, „aufgeschaut und auf den Fußspitzen gestan⸗
+den! Das nenne ich reden! giebt es einen zweiten Apollo wie
+diesen? Was dünkt euch von der Zartheit seiner Gedanken, von
+der Beredsamkeit seiner Sprache? giebt es auf der Welt einen
+
+
+*) Lectio spuria, uncis inclusa. 205
+n Man soll schreiben „Gescheut“ und nicht „ e „; der Ales
+logie des Worts liegt der Gedanke zum Grunde, welchen Chamfort
+sehr artig so ausdrückt: récriture a dit que le commencement de la sagesse
+
+
+stalt la crainte de Dien; moi, je erois que c'est n des hommes. 7
+
+
+größern Verstand?“ — Die Umstehenden blickten einander an:
+aber keiner wagte zu mucksen, noch zu äußern was er dachte
+und was eben die Wahrheit war, um nur nicht für einen
+Dummkopf gehalten zu werden: vielmehr brachen Alle mit Einer
+Stimme in Lob und Beifall aus. „Ach, dieser Schnabel,“ rief
+eine lächerliche Schwätzerin, „reißt mich ganz hin: den ganzen
+Tag könnte ich ihm zuhören.“ — „Und mich soll der Teufel
+holen,“ sprach fein leise ein Gescheuter, „wenn es nicht ein
+Esel ist und aller Orten bleibt: werde mich jedoch hüten, derglei⸗
+chen zu sagen.“ — Bei meiner Treue,“ sagte ein Anderer,“ das
+war ja keine Rede, sondern ein Eselgeschrei: aber Wehe dem,
+
+
+der so etwas fagen wollte! Das geht jetzt fo in der Welt: der
+
+
+Maulwurf gilt für einen Luchs, der Frosch für einen Kanarien⸗
+vogel, die Henne für einen Löwen, die Grille für einen Stiege
+litz, der Esel für einen Adler. Was ist denn mir am Gegen⸗
+theil gelegen? Meine Gedanken habe ich für mich, rede dabei
+wie Alle, und laßt uns leben! das ist's, worauf es ankommt.“
+
+Kritilo war aufs Aeußerste gebracht, solche Gemeinheit
+von der einen und solche Verschmitztheit von der andern Seite.
+sehn zu muͤssen. „Kann die Narrheit sich so der Köpfe bemei⸗
+stern?“ dachte er. Aber der Spitzbube von Aufschneider lachte
+unter dem Schatten seiner großen Nase über Alle, und sprach,
+wie in der Komödie bei Seite, triumphirend zu sich selbst:
+„Habe ich sie dir alle zum Besten? könnte eine Kupplerin
+mehr leisten?“ und von Neuem gab er ihnen hundert Abgeschmackt⸗
+heiten zu verdauen, wobei er abermals rief: „daß nur Keiner
+sage, es sei nicht so; sonst stempelt er sich zum Dummkopf.“
+Dadurch stieg nun jener niederträchtige Beifall immer höher;
+
+
+auch And ren io machte es schon wie Alle. — Aber Kritilo,
+
+
+der es nicht länger aushalten konnte, wollte platzen. Er wandte ;
+
+
+sich zu feinem: verstummten Entzifferer mit den Worten: „wie
+lange soll dieser Mensch unsre Geduld mißbrauchen, und wie
+
+
+lange willst du schweigen? geht doch die Unverschämtheit und
+
+
+Gemeinheit über alle Gränzen!“ — Worauf Jener: „Habe nur
+
+
+Geduld, bis die Zeit es ausfagt: die wird schon, wie sie immer
+thut, die Wahrheit nachholen. Warte nur, daß das Ungethüm
+uns das Schwanztheil zukehre, und dann wirst du eben die,
+welche es jetzt bewundern, es verwünfchen hören.“ Und genau
+so fiel es aus, als der Betrüger seinen Diphthong von Adler
+und Esel, (jo erlogen jener wie richtig dieser) wieder hin⸗
+
+
+einzog. Im selben Augenblick fing Einer und der Andre an,
+mit der Sprache herauszurücken: „Bei meiner Treue,“ fagte der
+
+
+Eine, „das war ja kein Genie, sondern ein Esel.“ — „Was
+für Narren wir gewesen find!” rief ein Anderer: und fo mach⸗
+ten sie sich gegenseitig Muth, bis es hieß: „Hat man je eine
+ähnliche Betrügerei gesehn? Er hat wahrhaftig nicht ein ein⸗
+ziges Wort gesprochen, woran etwas gewesen wäre, und wir
+
+
+flatfepten ihm Beifall. Kurzum, es war ein Gfel, und wir ver.
+dienen gesaumsattelt zu werden.“ ee
+
+
+Aber eben jetzt trat von Neuem der Scharlatan hervor, ein
+anderes und größeres Wunder verheißend: „Nunmehro,“ sagte
+er, „werde ich Ihnen wirklich nichts Geringeres vorführen, als
+einen weltberühmten Riesen, gegen welchen Enceladus und
+Tiphöus sich gar nicht sehn lassen dürften. Ich muß jedoch
+zugleich erwähnen, daß, wer ihm „Riese!“ zurufen wird, da—
+durch fein Glück macht: denn dem wird er zu großen Ehren vers
+helfen, wird Reichthümer auf ihn häufen, tausende, ia zehn⸗
+tausende von Piastern Einkünfte „dazu Würde, Amt und Stelle.
+
+
+Hingegen Wehe dem, der keinen Riesen in ihm erkennt: nicht
+nur wird er keine Gnadenbezeugung erreichen, sondern ihn wer⸗
+den Blitz und Strafe erreichen. Aufgeschaut, die ganze Welt!
+Nun kommt er, nun zeigt er sich, o wie er emporragt!“ —
+Eine Gardine gieng auf und es erschien ein Männchen, wel⸗
+ches, auf einen Hebe⸗Krahn gestellt, nicht mehr sichtbar gewesen
+wäre, groß wie vom Ellenbogen bis zur Hand, ein Nichts, ein
+Pygmäe in jeder Hinsicht, im Wesen und im Thun. „Nun,
+was macht ihr? warum schreiet ihr nicht? warum applaudirt
+ihr nicht? Erhebet eure Stimme, Redner! finget, Dichter!
+schreibt, Genies! euer Chorus sei: der berühmte, der außer⸗
+ordentliche, der große Mann!“ — Alle standen erstarrt und
+fragten einander mit den Augen: „was hat der von einem
+Riesen? welchen Zug eines Helden seht ihr an ihm?“ — Aber
+schon fieng der Haufen der Schmeichler lauter und immer lauter
+zu schreien an: „Ja, ja! der Riese, der Riese! der erste Mann
+der Welt! Welch ein großer Fürft war jener! welch ein tapfrer
+Marschall dieser! welch ein trefflicher Minister der und der!“ So⸗
+4 gleich regnete es Dublonen über fie. Da fihrieben die Autoren!
+schon nicht mehr Geschichte, sondern Panegyriken. Die Dichter,
+sogar Pedro Mateo selbst, nagten an den Nägeln, um zu Bros
+de zu gelangen. Und Niemand war da, der es gewagt hätte, das
+Gegentheil zu sagen. Vielmehr schrien Alle um die Wette: „der
+Riese! der große, der allergrößte Riese!“ Denn Jeder hoffte ein
+Amt, eine Pfründe. Im Stillen und innerlich sagten fie freilich:
+„wie tapfer ich lüge! Er ist noch immer nicht gewachsen, sondern
+bleibt ein Zwerg. Aber was soll ich machen? Geht ihr hin
+und sagt was ihr denkt: dann seht zu, was euch das einbringen
+wird. Hingegen wie ich es mache, habe ich Bekleidung und
+
+
+zog in die Leichentüchergarderobe, da hoben Alle an: „welche Re. 1
+Pinsel sind wir doch gewesen! das war ja kein Riese, sondern
+
+
+Essen und Trinken, und kann glänzen und werde ein großer
+Mann. Mag er daher seyn was er will: er soll, der ganzen
+Welt zum Trotz, ein Riese seyn.“ — Andrenio fieng an dem
+Strohme zu folgen und schrie auch: der Riese, der Riese, der
+ungeheure Riese! Und augenblicklich regnete es Geschenke und
+Dublonen über ihn: da rief er aus: „das, das ist Lebens⸗
+weisheit!“ Aber Kritilo stand da, und wollte außer sich ge⸗
+rathen: „ich berste, wenn ich nicht rede,“ sagte er. „Rede
+nicht,“ sprach der Entzifferer, „und renne nicht in dein
+Verderben. Warte nur, daß dieser Riese uns den Rüden kehre,
+und du wirst sehn wie es geht.“ So traf es ein: denn sobald
+Jener seine Riesenrolle ausgespielt hatte und nun sich zurück⸗
+
+
+ein Pygmäe, an dem nichts und der zu nichts war,“ und frage
+ten sich unter einander, wie es nur möglich gewesen. Kritilo
+aber sprach, „welch ein Unterschied ist es doch, ob man von
+Einem bei seinem Leben oder nach dem Tode redet. Wie än⸗
+
+
+dert die Abwesenheit die Sprache: wie groß ist doch die Ent⸗
+
+
+fernung zwischen über unsern Köpfen und unter unsern Füßen!”
+
+Allein die Betrügereien jenes modernen Sin on waren
+noch nicht zu Ende. Jetzt warf er sich auf die andere Seite
+und holte ausgezeichnete Männer, wahre Riesen hervor, die er
+für Zwerge ausgab, für Leute die nichts taugten, nichts wären,
+ja weniger als nichts: wozu denn Alle Ja sagten, und wofür
+Jene gelten mußten, ohne daß die Leute von Urtheil und Kritik
+zu mucksen gewagt hätten. Ja, er fuͤhrte den Phönir vor, und
+
+
+sagte, es wäre ein Käfer. Alle sprachen richtig Ja, das wäre
+
+
+er: und dafür mußte er nun gelten.“
+
+
+So weit Gracian, und fo viel von dem summo philo-
+sopho, vor welchem die Dänische Akademie ganz ehrlich meint
+Respekt fordern zu dürfen: wodurch sie mich in den Fall gesetzt
+hat, für die mir ertheilte Lektion ihr mit einer Gegenlektion zu
+dienen.
+Noch habe ich zu bemerken, daß das Publikum gegenwär⸗
+
+tige zwei Preisschriften ein halbes Jahr früher erhalten haben
+würde, wenn ich mich nicht fest darauf verlassen hätte, daß die
+
+f Königlich Dänische Societät, wie es Recht ist und alle Akade⸗
+mien thun, in demselben Blatte, darin sie ihre Preisfragen für
+in das Ausland publicirt (hier die Halle sche Litteraturzeitung) auch
+2 die Entscheidung derselben bekannt machen würde. Das thut sie
+Aber nicht, sondern man muß die Entscheidung aus Kopen⸗
+hagen einholen, welches um so schwieriger ist, als nicht ein
+Mal der Zeitpunkt derselben in der Preisfrage angegeben wird.
+Diesen Weg habe ich daher 6 Monate zu spät eingeschlagen.
+
+
+Frankfurt am Main, im September

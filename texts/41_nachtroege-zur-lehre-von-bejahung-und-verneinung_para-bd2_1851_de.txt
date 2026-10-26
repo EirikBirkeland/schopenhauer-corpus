@@ -1,0 +1,419 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Nachtraege zur Lehre von der Bejahung und Verneinung des Willens zum Leben (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Supplements to the doctrine of the affirmation and denial of the will-to-life - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 259-260. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "Kapitel XIV. Nachträge zur Lehre von ber Bejahung und Bernei-"; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (115 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XIV. Nachträge zur Lehre von ber Bejahung und Bernei- nung", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 161 to § 173, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (0 made); the chapter's range by the volume's own heads is S. 259-260.]
+
+Kapitel XIV.
+
+
+Nachträge zur Lehre von ber Bejahung und Bernei-
+nung bes Willens zum Leben.
+
+
+$. 161.
+
+Gewissermaaßen ift es a priori einzufehn, vulgo verfteht
+es fi) von felbft, daß Das, was jegt das Phänomen der Welt
+bervorbringt, aud fähig feyn müfle, diefes nicht zu thun, mithin
+in Ruhe zu verbleiben, — oder, mit andern Worten, daß es zur
+gegenwärtigen dıaoroin auch eine ovoroAn geben müsse. If nun
+die Erftere die Erfcheinung bed Wollens bes Lebens; jo wird
+die Andere die Erfcheinung des Nichtwollens deffelben feyn. Auch
+wird diese, im MWefentlichen, das Selbe feyn mit dem magnum
+Sakhepat der Vedalehre (im Oupnekhat Vol, 1. p. 163),
+auch mit dem errexsıva der Neuplatonifer.
+
+
+$. 162.
+
+
+Zwischen der Ethif der Griechen und der Hindu ist ein grel-
+ler Gegenfag. Jene (miewohl mit Ausnahme des Plate) hat
+zum Zwed die Befähigung, ein glüdliches Keben, vitam beataın,
+zu führen; diefe hingegen bie Befreiung und Erlöfung vom 2e-
+ben überhaupt; — wie Solches bireft ausgefprochen ift gleich im
+erften Sag der Sanfhya Karifa.
+
+Einen hiemit vertwandten und durch die Anfchaulichfeit fär-
+fern Kontraft wird man erhalten, wenn man den fchönen antifen
+Sarfophag auf der Gallerie zu Florenz betrachtet, dessen Rilievi
+die ganze Reihe der Geremonien einer Hochzeit, vom erften An-
+trag an, bis wo Hymens Fadel zum Torus leuchtet, darftellen,
+und num daneben fih den hriftlihen Sarg benft, schwarz bes
+hängt, zum Zeichen der Trauer, und mit dem Krucifir Darauf.
+
+
+Zur Ehre v. d. Bejahung u. Verneinung d. Willens ;. Leben. 261
+
+
+Der Gegensatz ift ein höchst bedeutfamer. Beide wollen über den
+Tod tröflen; beide auf entgegengefegte Weife, und beide haben
+Recht. Der eine bezeichnet die Bejahung bes Willens zum
+Leben, als welcher das Leben, alle Zeit hindurch, gewiß bleibt, fo
+schnell auch die Geftalten wechjeln mögen. Der andere bezeich-
+net, durch die Symbole des Leidens und des Todes, die Ver—
+neinung des Willens zum Leben und bie Erlöfung aus einer
+Welt, wo Tod und Teufel regieren.
+
+
+$. 169.
+
+
+Zu allen Ethifen europäischer Philosophie fteht die meinige
+im Berhältniß des neuen Teftaments zum alten; nach dem kirch—
+lihen Begriff diefes Berhältniffes. Das A. T. nämlich flellt den
+Menfchen unter die Herrichaft des Gesetzes, welches jedoch nicht
+zur Erlöfung führt. Das N.T. hingegen erklärt das Gefes für
+unzulänglich, ja, fpridt davon los (z. B. Röm. 7, Gal.2 u. 3).
+Dagegen predigt ed das Reich der Gnade, zu welchem man ge-
+lange durch Glauben, Nächftenliebe und gänzliche Verleugnung
+feiner selbst: Dies fei der Weg zur Erlöfung vom Uebel und
+von der Welt. Denn allerdings ift, allen proteftantifch-rationa-
+listischen Berdrehungen zum Trotz, der asfetiihe Geift ganz
+eigentlich die Seele des N. T. Diefer aber ift eben die Ver—
+neinung des Willens zum Leben, und jener Uebergang vom A. T.
+zum NR. T., von der Herrfchaft des Gesetzes zur Herrichaft des
+Glaubens, von der Rechtfertigung durch Werke zur Erlöfung durch
+den Mittler, von der Herrichaft der Sünde und des Todes zum
+ewigen Leben in Christo, bebeutet, sensu proprio, den Ueber:
+gang von den bloß moralifhen Tugenden zur Verneinung bee
+Willens zum Leben. — Im Geifte des A. T. nun find alle
+mir vorhergängigen philofophiihen Ethifen gehalten, mit ihrem
+abfoluten (d. b. des Grundes, wie bes Zieles entbehrenden)
+Sittengefes und allen ihren moralifhen Geboten und Verboten,
+zu denen im Stillen der befehlende Jehovah hinzugedacht wird;
+fo verfchieden auch die Formen und Darftellungen der Sache bei
+ihnen ausfallen. Meine Ethif Hingegen hat Grund, Zweck und
+Ziel: fie weift zuwörberfi theoretifch den metaphyfiichen Grund
+der Gerechtigkeit und Menfchenliebe nad und zeigt dann au
+das Ziel, zu welchem biefe, wenn vollkommen geleiftet, am Enbe
+
+
+262 Nachträge zur Lehre von ver Bejahung umd
+
+
+binführen  müflen. Zugleich gesteht fie die Verwerflichkeit der
+Welt aufrichtig ein und weift auf die Verneinung des Willens,
+als den Weg zur Erlöfung aus ihr, hin. Sie ift sonach wirf-
+lich im Geifte des N. T., während die andern fämmtlich in dem
+des alten find und demgemäß auch theoretiich auf bloßes Juden⸗
+denthum (nadten, bespotiichen Theismus) hinauslaufen. In
+diefem Sinne fünnte man meine Lehre die eigentliche Ehriftliche
+Philofophie nennen; — fo Parador Died Denen scheinen mag,
+bie nicht auf den Kern der Sache gehn, fondern bei der Schanle
+ftehn bleiben.
+
+
+$. 164.
+
+
+Wer etwas tiefer zu denfen fähig ift wird bald abfehn, daß
+bie menjchlichen Begierden nicht erft anf Dem Punkte anfangen
+fönnen, fündlich zu feyn, wo fie, in ihren individuellen Richtun-
+gen einander zufällig durchfreuzend, Lebel von der einen und
+Böfes von der andern Seite veranlaffen; fondern daß, wenn
+Diefes ift, fie auch schon urfprünglih und ihrem Wefen nad
+fündlih und verwerflich seyn müflen, folglich der ganze Wille
+zum Leben felbft ein verwerflicher ift. — Daß unfer Dafeyn selbst
+eine Schuld impfieirt, beweift der Tod.
+
+
+$. 165.
+
+
+Ein edler Charakter wird nicht Yeicht über fein eigenes
+Schicksal Flagen; vielmehr wird von ihm gelten, was Hamlet
+dem Horatio nachrühmt:
+
+
+for thou hast beeu
+As one, in suflering all, that suffers nothing.
+
+
+(Denn du bift, während du Alles zu leiden hattet, geweien wie Giner,
+Dem nichts widerfuhr.)
+
+
+Und Dies ift daraus zu verftehn, daß ein folcher, fein eigenes
+Wesen auch in Andern erfennend und daher an ihrem Schidfale
+Theil nehmend, rings um fi, faft immer, noch härtere Loofe
+als fein eigenes erblickt; weshalb er zu einer Klage über viefes
+nicht fommen Tann. Hingegen wird ein unebler Egoift, der alle
+Realität auf fich felbft befchränft und die Andern als bloße Lar-
+ven und Phantaömen anfieht, am Schicksal biefer feinen Theil
+
+
+Berneinung des Willens zum Leben. 263
+
+
+nehmen, fonbern feinem eigenen feine ganze Theilnahme zumeus
+den; wovon denn große Empfindlichkeit und häufige Klagen bie
+Folge find.
+
+Eben jenes Sichwiedererkennen in der fremden Erfcheinung,
+aus welchem, wie ich oft nachgewiesen habe, zunächft Gerechtig-
+keit und Menfchenliebe bervorgehn, führt endlich zum Aufgeben
+des Willens; weil bie Erfcheinungen, in denen diefer fi dar-
+stellt, so entichieven im Zuftande des Leidens fich befinden, daß
+wer fein Selbst auf fie alle ausdehnt es micht ferner wollen
+kann; — eben wie Einer, der alle Loofe der Lotterie nimmt,
+nothwendig großen DBerluft erleiden muß. Die Bejahung bes
+Willens jegt Beichränfung des Selbfibewußtfeyns auf das eigene
+Individuum voraus und haut auf die Möglichkeit eines günsti—
+gen: Lebenslaufes aus der Hand des Zufalls.
+
+
+$. 166.
+
+
+Geht man, bei. der Auffaffung der Welt, vom Dinge an
+fh, dem Willen zum Leben, aus; fo findet man als deflen Kern,
+als deflen größte Koncentration, den Generationdaft: dieser ftellt
+fih dann dar als das Erfie, ald der Ausgangspunft: er ift Das
+punotum saliens des Welteied und die Hauptsache. Weld ein
+Kontraft hingegen, wenn man von der ald Erscheinung gegebe-
+nen, empirischen Welt, der Welt als Vorftellung, ausgeht! Hier
+nämlich flellt jener Akt fih dar, als ein ganz Einzelned und
+Befonderes, von untergeorbueter Wichtigkeit, ja, als eine ver-
+deckte und versteckte Nebensache, die fi) nur einschleicht, eine
+paradore Anomalie, die häufigen Stoff zum Lachen giebt. Es
+fönnte ung jedoch auch bebünten, der Teufel habe nur fein Spiel
+babei verfteden wollen: denn der Beifchlaf ift fein Handgeld und
+die Welt fein Reich. Hat man denn nicht bemerkt, wie illico
+post coitum cachinnus auditur Diaboli ? welches, ernstlich ge—
+sprochen, darauf beruht, daß die Gefchlechtöbegierbe, zumal wenn,
+duch Firiven auf ein beftimmted Weib, zur Berliebtheit foncen-
+trirt, die Quintessenz der ganzen Prellerei, biefer nobeln Welt
+ist; da fie fo unausiprechlid, unendlich. und überschwänglich viel
+verfpricht und dann fo erbärmlich wenig hält. —
+
+Der Antheil des Weibes an der Zeugung ift, in gewissem
+Sinne, fehuldlofer, als der des Mannes; fofern nämlich dieser
+
+
+264 Nachträge zur Lehre von der Bejahung und
+
+
+bem zu Erzeugenden ben Willen giebt, welcher bie erste Sünde
+und daher die Duelle alles Böfen und Uebels ift; das Weib
+hingegen die Erfenntniß, welche den Weg zur Erlöfung er-
+öffnet. Der Generationdaft befagt: „der Wille zum Leben hat
+fi) aufs Neue bejaht”. In diefem Sinne wehllagt eine fte-
+bende Brahmanifche Flosfel „wehe, wehe! der Lingam ift in der
+Yoni”. — Die Konception und Schwangerfchaft Hingegen befagt:
+„dem Willen ift auch wieder das Licht der Erkenntniß beigege-
+ben“; — bei welchem nämlich er feinen Weg wieder hinausfin-
+den kann, und alfo die Möglichkeit der Erlöfung aufs Neue ein-
+getreten ift.
+
+Hieraus erflärt sich die beachtenswerthe Erfcheinung, bag,
+während jedes Weib, wenn beim Generationsafte überrafcht, vor
+Schaam vergehn möchte, fie Hingegen ihre Schwangerfchaft, ohne
+eine Spur von Schaam, ja, mit einer Art Stolz, zur Schau
+trägt; da doch fonft überall ein unfehlbar ficheres Zeichen als
+gleichbedeutend mit ber bezeichneten Sache felbft genommen wird,
+daher denn aud jedes andere Zeichen bes vollzogenen Coitus
+das Weib im höchften Grade befhämt; nur allein die Schwan-
+gerihaft nicht. Dies if daraus zu erffären, daß, laut Obigem,
+die Schwangerschaft, in gewiflem Sinne, eine Tilgung ber
+Schuld, welche der Eoitus contrahirt, mit sich bringt, oder we-
+nigftens in Aussicht ftellt. Daher trägt der Coitus alle Schaam
+und Schande der Sache; hingegen die ihm fo nahe verschwisterte
+Schmwangerihaft bleibt rein und unschuldig, ja, wird gewiffer-
+maaßen ehrmürbig. |
+| Der Coitus ist hauptsächlich die Sache des Mannes; bie
+Schwangerschaft ganz allein des Weibes. Vom Vater erhält
+das Kind den Willen, den Charafter; von ber Mutter den In—
+telfeft. Diefer ift das erlöfende Princip; der Wille das bin-
+bende. Das Anzeichen des fleten Daseyns des Willens zum Les
+ben in ber Zeit, trog aller Steigerung ber Beleuchtung durch
+ben Intellekt, ift der Coitus: das Anzeichen des diefem Willen
+aufs Neue zugefellten, die Möglichfeit der Erlösung offen halten⸗
+den Lichtes der Erkenntniß, und zwar im höchsten Grade der
+Klarheit, ist die erneuerte Menschwerdung des Willens zum Le-
+
+ben. Das Zeichen dieser ift die Schwangerfchaft, welche daher
+
+
+Verneinung des Willens zum Leben. 265
+
+
+franf und frei, ja, stolz einhergeht, während der Coitus fich ver-
+friecht, wie ein Verbrecher.
+
+
+g. 167.
+
+
+Einige Kirchenväter haben gelehrt, daß fogar die eheliche
+Beimohnung nur dann erlaubt fei, wann fie bloß der Kinder-
+erzeugung, wegen gefchehe. (Die betreffenden Stellen findet man
+zufammengeftellt in P. E. Lind, de coelibatu Christianorum,
+e.1.) Das ift, genau genommen, irrig. Denn, wird ber Coitus
+nicht mehr feiner felbft wegen gewollt; fo ift fchon die Verneinung
+des Willens zum Leben eingetreten, und dann ift die Fortpflan-
+zung bed Menfchengefchlehts überflüffig und finnleer; fofern der
+Zweck bereits erreicht if.
+
+Auf dem umgelehrten Grunde beruht eigentlich die VBerbamm-
+lichfeit aller widernatürlichen Geschlechtsbefriedigungen; weil durch
+biefe dem Triebe willfahrt, alfo der Wille zum Leben bejaht wird,
+bie Propagation aber wegfällt, welche doch allein die Möglichkeit
+ber Berneinung bed Willens offen erhält. Hieraus ift zu er-
+fären, daß erft mit dem Eintritt des Christenthums, weil deffen
+Tendenz asketisch ift, die Päderastie ald eine schwere Sünde er-
+fannt wurbe.
+
+
+8. 168.
+
+
+Der innere Geift und Sinn des ächten Klosterlebens, wie
+der Agfefe überhaupt, ift diefer, daß man sich eines beffern Da-
+seyns, als unferes ift, würdig und fähig erfannt hat und diese
+Ueberzeugung dadurch befräftigen und erhalten will, daß man
+was biefe Welt bietet verachtet, alle ihre Genüfle als werthlos
+von fi) wirft und nun das Ende dieses, feines eitlen Köders
+beraubten Lebend mit Ruhe und Zuverficht abmwartet, um einft
+die Stunde des Todes, ald die der Erlöfung, willfommen zu
+heißen. Das Saniaffitpum hat ganz die felbe Tendenz und Be⸗
+deutung.
+
+
+$. 169.
+Zur Berneinung des eigenen Willens ift die Borftellung,
+dag man fi einem fremden, individuellen Willen gänzlich und
+ohne Rückhalt unterwerfe und ergebe, ein piychifches Erleichte⸗
+
+
+266 Nachträge zur Lehre von der. Bejahung und
+
+
+zungsmittel und daher ein passendes allegorisches Vehifel ber
+Wahrheit.
+
+
+8170.
+
+
+Die Zahl der regulären Trappiften ift freilich. klein; dage-
+gen aber befleht wohl die Hälfte der Menfchheit aus unfrei-
+willigen Trappiften: Armuth, Gehorfam, Ermangelung al:
+fer Genüffe, ja, der nothwendigsten Erfeichterungsmittel, —
+und oft auch gejiwungene, oder durch Mangel herbeigeführte
+Keufchheit find ihr Loos. Der Lnterfehied ıft bloß, daß bie
+Trappiften die Sache aus freier Wahl, methodisch und ohne
+Hoffnung auf Besserwerden betreiben; während hingegen die er-
+stere Weife Dem beizuzählen ift, was ich, in meinen. asferifchen
+Kapiteln, mit dem Ausdrucke devrsoos ndovs bezeichnet habe;
+welches herbeizuführen die Natur aljo schon vermöge der Grund:
+lage ihrer Ordnung genugfam geforgt bat; zumal wenn man den
+direft aus ihr entfpringenden Uebeln noch jene andern hinzurech—
+net, welche die Zwietracht und Bosheit der Menjchen herbeiführt,
+im Kriege und im Frieden. Aber eben diese Nothwendigkeit un:
+freiwilliger Leiden, zum ewigen Heile, drüdt auc jener Aus—
+Iprucd) des Heilandes aus: suxorwrsgov sorv, zauıdov die Tov-
+rmuerog gapıdos dısidew, m rAovorov sig ınv Baoılaıav Tov
+Feov sicshdeıw. (Facilius est, funem ancorarium per fo-
+ramen acus fransire, quam divitem regnum divinum in-
+gredi.)
+
+Wer, durd) folde Betrachtungen, sich vergegenwärtigt, wie
+
+
+nothwendig zu unferm Heil Noth und Leiden meiftens find; der
+
+
+wird erfennen, daß wir Andere nicht sowohl um ihr Stil, ale
+um ihr Unglüd zu beneiden hätten.
+
+Auch ift, aus demfelben Grunde, der Stoicismus der Ge:
+finnung, welcher dem Schidjale Troß bietet, zwar ein guter Pan:
+zer gegen bie Leiden des Lebens und dienlich, die Gegenwart
+besser zu ertragen: aber dem wahren Heile fteht er entgegen.
+Denn er verftodt das Herz. Wie follte doc dieses durch Leis
+den gebefjert werden, wenn es, von einer fleinernen Rinde
+umgeben, fie nicht empfindet? — Uebrigens ift ein gewiller Grad
+dieses Stoicismus nicht fehr felten. Dft mag er affeftirt seyn
+und auf bonne mine au mauvais jeu zurüdlaufen: wo er je
+
+
+Berneinung des Willens zum Leben. 267
+
+
+doch unverftellt ift, entfpringt er meiftens aus bloßer Gefühllo«
+figfeit, aus Mangel an der Energie, Yebhaftigfeit, Empfindung
+und Phantafte, die fogar zu einem großen Herzeleid erfordert
+find. Diefer Art des Stoieismus ift das Phlegma und die
+Schwerfälligfeit der Deutfchen befonders günftig.
+
+
+$. 171.
+
+
+Ungerechte, oder boshafte Handlungen find, in Hinficht auf
+Den, der- fie ausübt, Anzeichen der Stärfe feiner Bejahung des
+Willens zum Leben und demnach der Kerne, in der von ihm
+noch das wahre Heil, die Verneinung deffelben, mithin die Er-
+lösung von der Welt Yiegt, sonach auch der langen Echufe der
+Erfenntniß und des Leidens, die er noch durchzumachen hat, big
+er dahin gelangt. — In Hinficht aber auf Den, der durch jene
+Handlungen zu leiden hat, find fie zwar physisch ein Uebel, hin»
+gegen metaphyfifch ein Gut und im Grunde eine Wohlthat, da
+fie beitragen, ihn feinem wahren Heile entgegenzuführen.
+
+
+$. 172.
+
+
+Weltgeift. Hier alfo ift das Penfum deiner Arbeiten und
+deiner Leiden: dafür folft du dafeyn, wie alle andern Dinge
+bafind.
+
+Mensch. Was aber habe ich vom Dafeyn? Ist es be:
+Ihäftigt, habe ich Noth; ift es unbefchäftigt, Langeweile. Wie
+fannft du mir für fo viel Arbeit und fo viel Leiden einen fo
+fümmerlichen Lohn bieten?
+
+MWeltgeift. Und doch ift er ein Aequivalent aller deiner
+Mühen und alfer deiner Leiden: und dies ift er gerade vermöge
+feiner Dürftigfeit.
+
+Mensch. So?! Das freilich überfteigt meine Fassungskraft.
+
+MWeltgeift. Ich weiß ed. — (bei Seite) Sollte ih Dem
+jagen, daß der Werth des Lebens gerade darin befteht, daß es
+ihn Tehrt, es nicht zu wollen?! Zu diefer höchften Weihe muß
+erft das Leben felbft ihn vorbereiten.
+
+
+$. 173.
+
+
+Können wir nun, durch Betrachtungen, wie bie obigen, alfo
+von einem fehr hohen Standbpunft aus, eine Rechtfertigung ber
+
+
+268 Zur Lehre v. d. Bejahung u. Verneinung d. Willens z. Leben.
+
+
+Leiden der Menfchheit abfehn; fo erftredt jedoch biefe sich nicht
+auf die Thiere, deren Leiden, zwar großentheild durch den Men-
+fhen herbeigeführt, oft aber auch ohne dessen Zuthun, bedeutend
+find. Da drängt fi alfo die Frage auf: wozu dieser gequälte,
+geängftigte Wille in fo taufendfachen Geftalten, ohne die durch
+Befonnenheit bedingte Freiheit zur Erlöfung? — Wenn ich mich
+auch nicht getraue, fie ganz zu erledigen; fo verweise ich doch
+zunächst auf $. 153 und 154 zurüd, ald welde darthun, daß
+die Fähigkeit zum Leiden im Thiere fehr viel geringer ift, als
+im Menfchen. Was num aber darüber hinaus sich noch beibrin-
+gen ließe würde hypothetisch, ja fogar mythisch ausfallen, mag
+also der eigenen Spekulation bes Lefers überlaffen bleiben.

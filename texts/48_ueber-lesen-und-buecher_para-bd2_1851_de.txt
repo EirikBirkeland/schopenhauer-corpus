@@ -1,0 +1,308 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber Lesen und Bücher (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On reading and books - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 448-459. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-46. The chapter's display heading stands in this copy as "XWV. Ueber Lefen und Büder. —— $. 290. Unwiſſenheit degra" - the OCR missets numerals and letters, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 10, which took the second band of Parerga, as the collection holds it, to TWENTY-FOUR chapter files (27 and 30-52), all but one from this one scan, and its paragraph numbers run on from chapter to chapter (spot-check 23). The essay whose opening line is quoted everywhere; §§ 290-297, which continues file 47 without a gap. OCR warning: f for the long s and sometimes f for k, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-46. It prints f for the long s, sometimes b for d and B for V, and it mangles a heading or a page's first line; the long s has been normalised to s (104 here). Cut between the print's own display headings; the heading in this copy reads "XWV. Ueber Lefen und Büder. —— $. 290. Unwiſſenheit degrabirt". Page markers were made only from running heads naming this chapter inside its proved range (2 made, S. 454 to S. 456); the chapter's range by the volume's own heads is S. 448-459.]
+
+XWV.
+Ueber Lefen und Büder.
+
+
+——
+
+
+$. 290.
+
+Unwissenheit degrabirt den Menfchen erft dann, wann fie
+ine Gefellichaft des Neichthums angetroffen wird. Den Armen
+bändigt feine Armutb und Noth; feine Leiftungen erfegen bei
+ihn das Willen und befchäftigen feine Gedanken. Hingegen
+Reiche, welche unwissend find, leben bloß ihren Lüften und glei:
+chen dem Vieh; wie man dies täglid, fehen Fann. Hiezu fommt
+num noch der Borwurf, daß man Reichthum und Muße nicht be-
+nut habe zu Dem, was ihnen ben allergrößten Werth verleiht.
+
+$. 291.
+
+Wann wir lesen, denft ein Anderer für und: wir wieder⸗
+holen bloß seinen mentalen Proceß. Es ist damit, wie wenn
+beim Schreibenlernen der Schüler die vom Lehrer mit Bleistift
+geschriebenen Züge mit der Feder nachzieht. Demnach ist beim
+Lesen die Arbeit des Denkens uns zum größten Theile abge—
+nommen. Daher die fühlbare Erleichterung, wenn wir von der
+Beschäftigung mit unsren eigenen Gedanken zum Lesen übergehn.
+Eben daher kommt es auch, daß wer sehr viel und fast den
+ganzen Tag liest, dazwischen aber fi in gedankenlosem Zeitver-
+treibe erholt, die Fähigkeit, felbft zu denken, allmälig verliert, —
+wie Einer, der immer reitet, zulegt das Gehn verlernt. Solches
+aber ift der Fall sehr vieler Gelehrten: fie haben fih Dumm gelefen.
+Denn beftändiges, in jedem freien Augenblide fogleich wieder auf-
+genommenes Lesen ift noch geifteslähmender, als beftändige Hand-
+arbeit; da man bei dieser Doch den eigenen Gedanken nachhängen
+
+ [S. 454]
+
+
+kann. Aber wie eine Springfeder durch den anhaltenden Druck
+eines fremden Körpers ihre Elasticität endlich einbüßt; jo ber
+Geist die feine, durch fortwährendes Aufbringen fremder Gedan—
+fen. Und wie man dur zu viele Nahrung den Magen ver-
+dirbt und dadurch dem ganzen Leibe fchadet; fo kann man auch
+durch zu viele Geiftesnahrung den Geift überfüllen und erftiden.
+Denn felbft das Gelefene eignet man sich erft durch fpäteres
+Nachdenken darüber an, durch Rumination. Lieft man hingegen
+immerfort, ohne fpäterhin weiter daran zu denfen; fo faßt es
+nicht Wurzel und geht meiftens verloren. Leberhaupt aber geht
+ed mit der geiftigen Nahrung nidyt anders, als mit der Teib-
+Yihen: kaum der funfzigfte Theil von dem, was man zu fich
+nimmt, wird afftmilirt: das Uebrige geht durch Evaporation,
+Reipiration, oder fonft ab.
+
+Zu diefem Allen fommt, daß zu Papier gebrachte Geban-
+fen überhaupt nichts weiter find, als die Spur eines Fußgängers
+im Sande: man fieht wohl den Weg, welchen er genommen
+hat; aber um zu willen, was er auf dem Wege gefehn, muß
+man feine eigenen Augen gebrauden.
+
+§. 292.
+
+Keine fchriftftelleriiche Eigenfchaft, wie z.B. Ueberredungs—
+fraft, Bilderreichthum, Vergleichungsgabe, Kühnheit, oder Bitter-
+feit, oder Kürze, oder Grazie, oder Leichtigfeit des Ausdrucks,
+noch auch Wis, überrafchende Kontrafte, Lakonismus, Naivetät,
+u. dgl. m. können wir dadurch erwerben, daß wir Schriftfteller
+fefen, die foldhe haben. Wohl aber fünnen wir hierdurch der-
+gleichen Eigenfchaften, falls wir fie Schon als Anlage, also po-
+tentia, befigen, in ung hervorrufen, fie ung zum Bewußtseyn
+bringen, fünnen fehn, was Alles fih damit machen Yäßt, können
+beftärft werden in ber Neigung, ja, im Muthe fie zu gebrauchen,
+fönnen an Beifpielen die Wirfung ihrer Anwendung beurtheilen
+und jo den richtigen Gebrauch derfelben erlernen; wonad wir
+allerdings erst dann fie auch actu befiten. Dies alfo ift die
+einzige Art wie Lefen zum Schreiben bildet, indem es nämlich
+ung den Gebrauch Tehrt, den wir von unfern eigenen Naturga-
+ben machen können; alfo immer nur unter der Vorausferung
+biefer. Ohne folhe hingegen erlernen wir durch Lefen nichts,
+als Falte tobte Manier, und werben zu feichten Nachahmern.
+
+
+Ueber Lesen und Bücher. 455
+
+
+&. 293.
+
+Wie die Schichten der Erde die lebenden Wefen vergange-
+ner Epochen reihenmweife aufbewahren; fo bewahren die Bretter
+der Bibliothefen reihenmweife die vergangenen Irrthümer und de—
+ven Darlegungen, welche, wie jene Erfteren, zu ihrer Zeit, fehr
+lebendig waren und viel Lerm machten, jet aber ftarr und ver-
+fteinert daftehn, wo nur noch der Titterarifche Paläontologe fie
+betradtet.
+
+$. 294.
+
+Kerres bat, nad Herodot, beim Anblic feines unüberfeh-
+baren Heeres geweint, indem er bebachte, daß von diesen Allen,
+nach hundert Jahren, Keiner am Leben feyn würde: wer möchte
+da nicht weinen, beim Anbli des dien Meßfatalogs, wenn er
+bevenft, daß von allen diefen Büchern, fchon nad) zehn Jahren,
+feines mehr am Leben feyn wird.
+
+$. 295.
+
+Es ift in der Litteratur nicht anders, als im Leben: mohin
+auch man sich wende, trifft man sogleich auf den inforrigibeln Pöbel
+der Menfchheit, welcher überall legionenweise vorhanden ift, Alles
+erfüllt und Alles beichmust, wie die Fliegen im Sommer. Da:
+ber die Unzahl fchlechter Bücher, dieses mwuchernde Unkraut der
+Litteratur, welches dem Waizen die Nahrung entzieht, und ibn
+erftidt. Sie reißen nämlich Zeit, Geld und Aufmerffamfeit des
+Publikums, melde von Nechtöwegen den guten Büchern und
+ihren edelen Zweden gehören, an sich, während fie bloß in der
+Absicht, Geld einzutragen, oder Aemter zu verfchaffen, geschrieben
+find. Sie find alfo nicht bloß unnütz, fondern pofitiv schädlich.
+
+$. 296.
+
+
+Es giebt, zu allen Zeiten, zwei Litteraturen, bie ziemlich
+fremd neben einander hergehn: eine wirkliche und eine bloß fchein-
+bare. Jene erwächst zur bleibenden Litteratur. Betrieben
+von Leuten, bie für die Wissenschaft, oder die Poefte,. leben,
+geht fie ihren Gang ernft und ftill, aber äußerft langsam, pro=
+dueirt in Europa kaum ein Dutzend Werfe im Jahrhundert, welche
+jedvodh bleiben: Die andere, betrieben von Leuten, die von ber
+Wiffenfhaft, oder Poesie, Ieben, geht im Galopp, unter großem
+Lerm und Geschrei ber Betheiligten, und bringt jährlich viele
+
+ [S. 456]
+
+
+Zaufend Werfe zu Marfte. Aber nad wenig Jahren frägt
+
+man: wo find fie? wo ift ihr jo früher und fo Tauter Ruhm?
+$. 297. |
+
+In der Weltgefchichte ift ein halbes Jahrhundert immer be:
+
+trächtlich; weil ihr Stoff stets fortfließt, indem doch immer etwas
+
+
+vorgeht. Hingegen in der Geschichte der Litteratur ist die felbe
+
+
+Zeit oft für gar feine zu rechnen; weil eben nichts gefchehn it:
+denn ftümperhafte Berfuche gehn fie nicht an. Man ift alfo wo
+man vor funfzig Jahren gewesen.
+
+Dies zu erläutern,” denke man sich die Fortichritte der Er-
+
+
+fenntnig beim Menfchengefchlechte unter dem Bilde einer Pla:
+
+
+netenbahn. Dann lassen fi die Irrwege, auf welche es mei-
+stens bald nad) jedem bedeutenden Fortfchritte geräth, durch Pto—
+lemäische Epicykeln darftellen, nad) der Durchlaufung eines jeden
+
+
+von welchen es wieder da ift, mo es vor dem Antritt derfelben
+
+
+war. Die großen Köpfe jedoch, welche wirklich auf jener Pla—
+netenbahn das Geflecht weiterführen, machen den jebesmaligen
+Epicyklus nicht mit. Hieraus erklärt fih, warum der Ruhm
+bei der Nachwelt meiftens durch Verlust des Beifalls der Mit
+welt bezahlt wird, und umgefehrt. — Ein folder Epieyklus if
+3. B. die Philofophie Fichte's und Schelling’s, zum Schluffe ge-
+krönt durch die Hegel'sche Karikatur derfelben. Dieser Epicyflus
+gieng von der zulegt durch Kant bis dahin fortgeführten Kreis-
+linie ab, woselbst ich fpäterhin fie wieder aufgenommen habe,
+um fie weiter zu führen: in der Zwilchenzeit aber durchliefen
+nun die befagten Scheinphilofophen und nod) einige andere da—
+neben ihren Epicyflus, der jegt nachgerade vollendet ist, wodurch
+das mit ihnen gelaufene Publifum inne wird, daß es fich eben
+da befindet, von wo er ausgegangen war.
+
+Mit diefem Hergange der Dinge hängt es zufammen, daf
+wir den wissenschaftlichen, Litterarifchen und artiftifchen Zeitgeift
+ungefähr. alle 30 Jahre deflarirten Banfrott machen sehn. In
+solcher Zeit nämlich haben alsdann die jedesmaligen Irrthümer
+sich fo gesteigert, daß fie unter dev Last ihrer Absurdität zusam—
+menftürzen, und zugleich hat die Oppofition sich an ihnen ge
+stärkt. Nun alfo fchlägt es um: oft aber folgt jest ein Irrthum in
+entgegengejegter Richtung. Diefen Gang der Dinge in feiner perio:
+dischen Wiederkehr zu zeigen, wäre ber rechte pragmatische Stoff
+
+
+Ueber Lesen und Bücher. 457
+
+
+der Litterargefchichte: aber diefe denft wenig daran. Zudem find,
+wegen ber verhältnigmäßigen Kürze folcher Perioden, die Data
+derjelben aus entfernteren Zeiten oft schwer zufammenzubringen:
+daher man am bequemften die Sade an feinem eigenen Zeitalter
+beobachten Fann. Wollte man hiezu ein Beifpiel aus den Neal-
+wiflenfchaften; fo könnte man die Werner'sche Neptuniftifche Geo-
+(ogie nehmen. Allein ich bleibe bei dem bereits oben angeführ-
+ten, und zunächst liegenden Beifpiel. Auf Kant's Glanzperiode
+folgte in deutfcher Philofophie unmittelbar eine andere, in. wel-
+her man fich beftrebte, ftatt zu überzeugen, zu imponiren; ftatt
+gründlid und Far, glänzend und byperbolifch, zumal aber unver:
+ftändlich zu seyn; ja fogar, ftatt die Wahrheit zu fuchen, zu ins
+triguiren. Dabei fonnte die Philofophie Feine Kortichritte machen.
+Endlih Fam ed zum Bankrott diefer ganzen Schule und Me:
+thode. Denn im Hegel und feinen Gefellen hatte die Frechheit
+des Unsinnschmierens einerfeitS und die des gemwillenlofen An-
+preisens andererseits, nebft der augenfälligen Abfichtlichfeit des
+ganzen faubern Treibens, eine fo Eolofiale Größe erreicht, daß
+endlich Allen die Augen über die ganze Scharlatanerie aufgehn
+mußten, und als, in Folge gewifler Enthüllungen, der Schug
+von oben der Sache entzogen wurde, audh der Mund. Die
+Fichte'schen und Scellingifchen Anteredenzien diefer elendeften
+alfer je gewesenen Philofophaftereien wurden von ihr nachgezo-
+gen in den Abgrund des Disfredits. Dadurch kommt nunmehr
+die gänzliche philosophische Inkompetenz der erftien Hälfte des auf
+Kant in Deutichland folgenden Jahrhunderts an den Tag, wäh—
+rend man fich, dem Ausfande gegenüber, mit ven philofophifchen
+Gaben der Deutichen brüftet. — |
+
+Wer nun aber zu dem hier aufgeftellten allgemeinen Schema
+der Epicyfeln Belege aus der Kunftgefhichte will, Darf nur die
+noch im vorigen Jahrhunderte, befonders in ihrer franzöfifchen
+Weiterbildung, blühende Bildhauerfchule des Bernini betrach—
+ten, welche, ftatt der antifen Schönheit, die gemeine Natur und,
+ftatt der antifen Einfalt und Grazie, den franzöfiichen Menuett—
+anftand darftellte. Sie machte Bankrott, als, nad Winfel-
+manns Zurechtweisung, die Nüdfehr zur Schule der Alten. er-
+folgte. — Einen Beleg wiederum aus der Malerei liefert das
+erfte Viertel diefes Jahrhunderts, als welches Die Kunft für ein
+
+
+458 Ueber Kefen und Vücher.
+
+
+bloßes Mittel und Werkzeug einer mittelalterlichen Religiosität
+hielt und daher Firchliche Vorwürfe zu ihrem alleinigen Thema
+erwählte, welche jest aber von Malern behandelt wurben, denen
+der wahre Ernft jenes Glaubens abgieng, die jedoch), in Folge
+des befagten Wahnes, den Francesco Francia, Pietro Perugino,
+Angelo da Fiefole und Aehnliche zu Muftern nahmen, ja, biefe
+böher schätzten, als die auf fie folgenden eigentlich großen Mei-
+ster. In Bezug auf diefe Verirrung, und weil in der Poefie
+ein analoges Streben sich gleichzeitig geltend gemacht hatte,
+schrieb Göthe die Parabel: „Pfaffenfpiel.” Auch diefe Schule
+wurde fodann als auf Griffen beruhend erkannt, machte Banf-
+rott, und auf fie folgte die Rückkehr zur Natur, fich fund gebend
+in Genrebildern und Lebengicenen jeder Art, wenn auch bisweilen
+fi) ind Gemeine verirrend.
+
+Dem geichilberten Hergange der menfchlichen Kortichritte
+entfprechend, ift die Litterargefchichte, ihrem größten Theile
+nad), der Katalog eines KRabinetts von Mißgeburten. Der Spi-
+ritug, in welchem diefe sich am längsten fonferviren, ift Schweing-
+leder. Die wenigen wohlgerathenen Geburten hingegen braucht
+man nicht dort zu fuchen: fie find am Leben geblieben, und man
+begegnet ihnen überall in der Welt, wo fie als Unsterbliche, in
+ewig frifcher Jugend einhergehn. Sie allein machen die, im vo—
+rigen $. bezeichnete, wirkliche Litteratur aus, deren perfonen-
+arme Gefchichte wir, von Jugend auf, aus dem Munde aller
+Gebildeien, und nicht erft aus Kompendien, erlernen.
+
+Wohl aber wünschte ih, daß ein Mal Einer eine tragi-
+fhe Litterargefchichte verjuchte, worin er darftellte, wie
+die verfchiedenen Nationen, deren ja jede ihren allerhächften Stol;
+in bie großen Schriftfieller und Künftler, welche fie aufzumeifen
+hat, fest, diefe während ihres Lebens behandelt haben; worin er
+alfo uns jenen enblofen Kampf vor die Augen brächte, den bas
+Gute und Aechte aller Zeiten und Länder gegen das jedes Mal
+herrschende Berfehrte und Schlechte zu beftehn hat; das Märty—
+rerthum faft aller wahren Erleuchter der Menfchheit, faft aller
+großen Meifter, in jeder Art und Kunft, abschilderte; ung vor—
+führte, wie fie, wenige Ausnahmen abgerechnet, ohne Anerfen-
+nung, ohne Antheil, ohne Schüler, in Armuth und Elend fi
+
+
+Ueber Lejen und Bücher. 459
+
+
+Dahingequält haben, während Ruhm, Ehre und Reichthum ben
+Unwürdigen ihres Faces zu Theil wurden; wie jedoch, bei dem
+Allen, die Liebe zu ihrer Sade fie aufrecht erhielt, bis denn
+endlih der schwere Kampf eines foldhen Erzieher des Men
+schengeschlechts vollbracht war, der unfterbliche Lorbeer ihm winfte
+und bie Stunde fchlug, wo es aud für ihn hieß:
+
+
+„Der schwere Panzer wird zum Flügelkleide,
+Kurz ift der Schmerz, unendlich it die Freude.“
+
+
+Kapitel XXV

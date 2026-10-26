@@ -1,0 +1,2592 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber Religion. Ein Dialog (in: Parerga und Paralipomena, Zweiter Band, Kapitel XV, §§ 174-183)
+# title_en: On religion. A dialogue (English editions and this collection's file 19 print it as "Religion: a dialogue")
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 260-327. The text layer is the Google scan held by Internet Archive (bub_gb_WuUOAAAAIAAJ), the same copy that yielded file 27. The chapter is headed in the print "Kapitel XV. Ueber Religion. §. 174. Ein Dialog." and runs to the end of § 183; § 184 opens the next chapter, "Einiges zur Sanskritlitteratur", which is where this file stops.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 6, and it is the biggest German essay this collection lacked: until now "Ueber Religion" existed here only in Saunders's English (file 19, 1889/90). It was checked against him, sentence by sentence at the opening - see the catalogue, spot-check 20: the sense comes across, with three softeners worth knowing (his "Nego consequentiam" is translated flat, "Lug und Trug" becomes "a pack of lies", and "der Einfalt des Andern" becomes "other people are simpletons"). OCR warning, the same as file 27's: this scan prints f for the long s ("philofophifche", "Sanffrit", "if" for "ist") and sometimes b for d, so search both shapes and read a quotation against the scan before repeating it. The long s has been normalised to s (1,086 of them). Printed pages survive only where the running head "S. N. Ueber Religion." was read cleanly: 17 markers were made, from S. 270 to S. 324, and they skip about, because heads before 270 came out garbled. No page was invented.
+
+[Note of this collection, not part of the print: this is Google's OCR of the 1851 first edition, and it missets letters - it prints f for the long s ("philofophifche" for "philosophische", "Sanffrit" for "Sanskrit") and sometimes b for d; the long s itself has been normalised to s (1086 of them) so that modern search works. The printed pages survive in the running head "S. N. Ueber Religion.", but only some of them were read cleanly by the OCR: 17 were, and each of those has been turned into a [S. n] marker; where the head was garbled no marker was invented, so the markers skip about. Paragraph numbers stand as printed (§ 174 to § 183); the chapter ends where § 184 begins, which is the next chapter, "Einiges zur Sanskritlitteratur".]
+
+Kapitel XV.
+Ueber Religion.
+
+
+$. 174.
+Ein Dialog.
+
+Demopheles. Unter und gejagt, lieber alter Freund, es
+gefällt mir nicht, daß du gelegentlich deine philofophifche Befähi-
+gung durch Sarfasmen, ja, offenbaren Spott über die Religion
+an den Tag legst. Der Glaube eines Jeden ift ihm Heilig, follte
+ed daher auch dir feyn.
+
+Philalethes. Nego consequentiam! Gehe nicht ein,
+warum ich, der Einfalt des Andern wegen, Respekt vor Lug und
+Trug haben follte. Die Wahrheit achte ich überall; eben darum
+aber nicht was ihr entgegenfleht. Mein Wahlfpruch ift: vigeat
+veritas, et pereat mundus, dem der Juristen angepaßt: fiat
+justitia, et pereat mundus, jede Fafultät follte einen ana=
+logen zur Devife haben.
+
+Demopheles. Da würde ber ber medicinifchen wohl laus
+ten: tornentur pilulae, et pereat mundus, — welder am
+leichteften in Erfüllung zu bringen wäre,
+
+Philalethes. Bewahre der Himmel! Allee cum grano
+salis.
+
+Demopheled. Nun gut: eben darum aber wollte ich, daß
+du auch die Religion cum grano salis verftändeft und einfäheft,
+daß dem Bedürfniß des Volks nah Maaßgabe feiner Faflungs-
+fraft begegnet werben muß. Die Religion ift das einzige Mit-
+tel, dem rohen Sinn und ungelenfen Berflande der in niebriges
+Treiben und materielle Arbeit tief eingefenften Menge die hohe
+Bedeutung des Lebens anzufündigen und fühlbar zu machen.
+Denn der Menfch, wie er in der Regel ift, hat urfprünglich für
+nichts Anderes Sinn, als für die Befriedigung feiner physischen
+
+ [S. 270]
+
+
+Bebürfniffe und Gelüfte, und danach für etwas Unterhaltung und
+Kurzweil. Religionsftifter und Philosophen Fommen auf Die
+Welt, ihn aus feiner Betäubung aufzurütteln und auf den ho—
+ben Sinn bed Daseyns hinzudeuten: Philofophen, für Die We—
+nigen, die Erimirten; Religiongftifter, für die Vielen, die Menfch-
+heit im Großen. Denn gyılocoyov ruAnsos advvarov sıyvaı, wie
+schon dein Plato gefagt hat und du nicht vergeflen folltefl. Die
+Religion ift die Metaphyfif des Bolfs, die man ihm fchledhter-
+dings Taffen und daher fie äußerlich achten muß: denn fie dis—
+frebitiren heißt fie ihm nehmen. Wie e8 eine Bolfspoefie giebt
+und, in den Sprichwörtern, eine Volksweisheit; fo muß ed auch
+eine Bolfgmetaphyfif geben. Sie ift allemal eine allegorifche
+Einffeidung der Wahrheit, der Faflungsfraft des. Volfes-ange-
+messen, uud Teiftet, in praftifcher und gemüthlicher Hinsicht, DB.
+als Richtschnur für das Handeln und ald Beruhigung und Troft
+im Leiden und im Tode, vielleicht eben fo viel, als. die Wahr:
+heit, wenn wir fie befäßen, jelbft leiften fönnte. Daher, mein
+Lieber, ift, nimm mir’s nicht übel, fie zu verfpotten, beschränkt
+und ungerecht zugleich. —
+
+Philalethes. Aber ist es nicht eben so beschränkt und
+ungerecht, zu verlangen, daß es keine andere Metaphysik, als
+diese, nach dem Bedürfniß und ber Fassungskraft des Volkes zu—
+geschnittene, geben solle? daß ihre Lehren der Markstein des
+menschlichen Forschens und die Richtschnur alles Denkens seyn
+sollen, so daß auch die Metaphysik der Wenigen und Erimir-
+ten, wie du sie nennst, hinauslaufen müsse auf Bestätigung, Be—
+festigung und Erläuterung jener Metaphysik des Volks? daß also
+bie höchsten Kräfte des menschlichen Geistes unbenutzt und un—
+entwickelt bleiben, ja, im Keim erstickt werden sollen, damit
+nicht etwan ihre Thätigkeit sich mit jener Volksmetaphysik Durd-
+freuze? Und fteht es benn, bei den Prätenfionen der Religion,
+im Grunde anders? Ziemt ed Dem, Toleranz, ja, zarte Scho—
+nung zu predigen, ber bie Intoleranz und Sconungslofigfeit
+selbst ist? Ich rufe Kegergerichte und Inquisitionen, Religiong-
+friege und Kreuzzüge, Sokrates’ Becher und Bruno's Scheiter⸗
+haufen zum Zeugen an! Und ift es nun bamit zwar heut zu
+Tage vorbei; was kann dem ächten philofophifchen Streben, dem
+aufrichtigen Forihen nach Wahrheit, diesem edelsten Beruf ebel-
+
+
+Ueber Religion. 21
+
+
+fer Menschheit, mehr im Wege stiehn, als jene konventionelle,
+von Staate mit dem Monopol belehnte Metaphysik, deren Sat-
+zungen jedem Kopfe, in frühefter Jugend, eingeprägt werben,
+fo ernftlich, fo tief; fo feit, daß fie, wenn er nicht von mirafu-
+loser Elafticität. ist, unauslöschlich haften, wodurch feiner gefun-
+den Bernunft Ein: für alle Mal das Koncept verrüdt wird, d.h.
+jeine ohmehin schwache Fähigkeit zum eigenen Denfen und unbe-
+fangenen Urtheilen, binfictlih auf alles damit gusammenhan⸗
+gende, auf immer gelähmt und verdorben ist.
+
+Demopheles. Eigentlich heißt dies wohl, die Leute haben
+alsdann eine Ueberzeugung gewonnen, bie fie nicht aufgeben wol⸗
+len, um bie Deinige dagegen anzunehmen.
+
+Philalethes. D, wenn es auf Einficht gegründete Veber-
+zeugung wäre! Der wäre mit Gründen beizufommen und ung
+fände das Feld zum Kampfe mit gleihen Waffen offen. Allein
+bie Religionen wenden sich ja. eingeftändlich nicht an die Lleber-
+zeugung, mit Gründen, fondern an den Glauben, mit Offenba-
+sungen. Zu diesem letzteren ift nun aber die Fähigfeit am flärf-
+fien in der Kindheit: daher ift man, vor Allem, darauf bedacht,
+sich dieses zarten Alters zu bemächtigen. Hiedurch, viel mehr
+noch, als durch Drohungen und Berichte von Wundern, schlagen
+die Glaubensiehren Wurzel. Wenn nämlich dem Menfchen, in
+früher Kindheit, gewifle Grundansichten und Lehren mit unge-
+wohnter Feierlichfeit und mit der Miene des höchften, bis dahin
+von ihm noch nie gefehenen Ernstes wiederholt vorgetragen wer-
+den, babei die Möglichkeit eines Zweifels daran ganz übergan-
+gen, oder aber nur berührt wird, um barauf ald den erften
+Schritt zum ewigen Berberben hinzubenten; da wird ber Ein-
+deu fo tief ausfallen, daß, in. der Regel, d. h. in faft allen
+Fällen, der Mensch fait fo unfähig feyn wird, an jenen Lehren,
+wie an feiner eigenen Exiftenz, zu zweifeln; weshalb dann un⸗
+ter vielen. Taufenden kaum Einer die Feftigfeit des. Geifles be-
+fisen wird, sich ernstlich und aufrichtig zu fragen: ist Das wahr?
+passender, als man glaubte, bat man daher Die, welche es ben-
+noch vermögen, ftarfe Geifter, esprits forts, benannt. Für bie
+Vebrigen nun aber giebt es nichts fo Abfurdes, oder Empören-
+des, daß nicht, wenn auf jenem Wege eingeimpft, der feftefte
+Ölaube daran in ihnen Wurzel fchlüge. Wäre es z. B., daß
+
+ [S. 272]
+
+
+bie Töbtung eines Ketzers, ober Ungläubigen, ein wejentlices
+Stüd zum bereinftigen Seelenheil fei; fo würde faft Jeder Dies
+zur Hauptangelegenheit feines Lebens machen und im Sterben
+aus der Erinnerung, bed Gelingens Troft und Stärkung schöpfen;
+wie ja wirklich ehemals faft jeder Spanier ein auto de fe für
+das frömmfte und gottgefälligfte Werf hielt; wozu wir ein Ge
+genftük in Indien haben, an ber erft vor Kurzem burch zahl
+reiche Hinrichtungen, von den Engländern, unterbrüdten religis-
+fen Genoflenihaft der Thugs, deren Mitglieder ihre Religiofi-
+tät und Berehrung der Göttin Kali dadurch bethätigten, daß
+fie, bei jeber Gelegenheit, ihre eigenen Freunde und Reifegefähr-
+ten meuchlerifch ermordeten, um fich ihres Eigenthums zu ber
+mächtigen, und ganz ernfllih in dem Wahne fanden, etwas sehr
+Löhliches und ihrem ewigen Heile Förderliches damit zu leiften®).
+So flarf demnach ift die Gewalt früh eingeprägter religiöser
+Dogmen, daß fie das Gewissen und zulest alles Mitleid und alle
+Menfchlichkeit zu erftiden vermag. Willst bu aber was frühe
+Glaubenseinimpfung Yeiftet, mit eigenen Augen und in ber Nähe
+sehn; fo betrachte die Engländer. Sieh’ diefe von ber Natur
+vor allen andern begünftigte und mit Verstand, Geift, Urtheild-
+fraft und Charafterfeftigfeit mehr, ald alle übrigen, ausgeftattete
+Nation, fieh’ fie, tief unter alle andern berabgefegt, ja, geradezu
+verächtlich gemacht, durch ihren flupiden Kirchenaberglauben, wel⸗
+cher, zwilchen ihren übrigen Fähigkeiten, ordentlich wie ein firer
+Wahn, eine Monomanie, erfeheint. Das haben fie bloß Dem
+zu dbanfen, daß die Erziehung in den Händen ber Geiftlichfeit
+if, welche Sorge trägt, ihnen fämmtliche Glaubensartifel in frü-
+befter Jugend fo einzuprägen, daß es bis zu einer Art partiel-
+ler Gehirnlähmung geht, die sich dann zeitlebens in jener blöd⸗
+finnigen Bigotterie äußert, durch welche fogar übrigens höchft ver-
+fändige und geiftreiche Leute unter ihnen fich degrabiren und und
+an ihnen ganz irre werden lassen. Wenn wir nun aber eriwmä-
+gen, wie wefentlich es zu dergleichen Meifterftüden ift, daß die
+Glaubensimpfung im zarten Kindesalter geichehe; fo wird und
+bas Missionswesen nicht mehr bloß als der Gipfel menschlicher
+
+
+®) Illustrations of the history and practice of the Thugs. London
+1837, auch Edinburgh’ Review, Octr.—Jan. 1886/37.
+
+
+Ueber Religion. 273
+
+
+Zudringlichfeit, Arroganz und Impertinenz, fondern auch als ab-
+surd erfcheinen, fo weit nämlich, als es sich nicht auf Völker
+beihränft, die noch im Zuftande der Kindheit find, wie etwan
+Hottentotten, Kaffern, Sübfeeinfulaner und dergleichen, wo es
+demgemäß auch wirklich Erfolg gehabt hat; während hingegen
+in Indien die Brahmanen die Vorträge der Miffionarien mit
+herablassendem beifälligen Lächeln, oder mit Achfelzuden erwidern
+und überhaupt unter diefem Bolfe, der bequemften Gelegenheit
+ungeachtet, die Befehrungsverfuhe der Miffionarien durchgängig
+
+
+gescheitert find. Ein authentifcher Bericht, im 21. Bande des
+
+
+— — — — — — — — — —
+
+
+Asiatic Journal, von 1826 giebt an, daß, nad) fo vieljähriger
+Thätigfeit der Miffionarien, in ganz Indien, (davon die Englifchen
+Besitzungen allein 115 Millionen Einwohner haben) nicht mehr als
+300 lebende Konvertiten zu finden find, und zugleich wird einge-
+fanden, daß die Ehriftlichen Konvertiten sich durch die äußerfte
+Immoralität auszeichnen. Es werden eben 300 feile, erfaufte
+Seelen gewesen feyn, aus fo vielen Millionen. Daß es seitdem
+in Indien mit dem Christenthum befler gienge, erjehe ich nir-
+gends;“) wiewohl die Mifftonäre jest fuchen, in ben ausichließ-
+ih dem weltlichen Englifchen Unterricht gemwibmeten Schulen,
+dennoch, gegen die Abrede, in ihrem Sinn auf die Kinder zu
+wirken, um bas Christenthum einzufchwärzen, wogegen jedoch bie
+Hindu mit größter Eiferfucht auf ihrer Hut find. Denn, wie
+gefagt, nur die Kindheit, nicht das Mannesalter, ift die Zeit,
+die Saat des Glaubens zu fäen, zumal nicht, wo fihon ein früs
+berer wurzelt: die gewonnene Ueberzeugung aber, melde
+erwachsene Ronvertiten vorgeben, ift, in der Regel, nur Die Masfe
+irgend eines perjönlichen Interesses. Eben weil man fühlt, daß
+Dies faft nicht anders feyn könne, wirb überall ein Menich, der
+im reifen Alter feine Religion wechselt, von ben Meiften verach⸗
+tet: gleichwohl Yegen eben biefe dadurch an den Tag, daß fie
+die Religion nicht für Sache vernünftiger Ueberzeugung, fondern
+bloß des früh und vor aller Prüfung eingeimpften Glaubens
+halten. Daß fie aber hierin Recht haben geht auch daraus her-
+vor, dag nicht bloß die blind glaubende Menge, fondern auch
+die Priefterfchaft jeder Religion, welche, als solche, die Duellen
+
+
+*) Vergl. oben $. 115.
+I, 18
+
+
+2724 WUeber Religion.
+
+
+und Gründe und Dogmen und Streitigkeiten derselben studirt
+hat, in allen ihren Mitgliedern, getreu und eifrig der Religion
+ihres jedesmaligen Vaterlandes anhängt; daher der Uebergang
+eines Geistlichen der einen Religion, oder Konfession, zu einer
+andern die seltenste Sache der Welt ist. So z. B. sehn wir die
+latholische Geistlichkeit von der Wahrheit aller Sätze ihrer Kirche
+vollklommen überzeugt, und eben fo die protestantische von ber
+der ihrigen, und Beide vertheidigen bie Sabungen ihrer Kon-
+feffion mit gleihem Eifer. Dennoch richtet diefe Ueberzeugung
+fi bloß nach dem Lande, wo jeder geboren ift: dem fübbentichen
+Geiftlihen namlich Teuchtet die Wahrheit des Fatholiihen Dog:
+ma’s vollfommen ein, dem norbdeutfchen aber die des protestan⸗
+tiihen. Wenn nun alfo dergleichen Weberzeugungen auf objefti-
+ven Gründen beruhen; jo müflen diese Gründe klimatisch feyn
+und, wie die Pflanzen, die einen nur bier, Die andern nur bort
+gedeihen. Das Bolf nun aber nimmt überall auf Treu und
+Glauben die Ueberzeugungen dieser Lofal-Leberzeugten an.
+Demopheles. Schabet nit und macht im Wefentlichen
+feinen Unterfchieb: auch ift 3. B. wirklich ber Proteftantismus
+dem Norden, ber Katholieismus dem Süden angemeflener.
+Philalethes. ES scheint fo. Ich aber habe einen höhe
+ren Gefihtspunft gefaßt und behalte einen wichtigeren Gegen-
+fand im Auge, nämlich die Fortichritte der Erfenntniß der Wahr⸗
+heit im Menschengeschlecht. Für diese ist es eine erfchrediliche
+Sade, daß Jedem, wo immer aud er geboren fei, fhon in
+frühefter Jugend gewisse Behauptungen eingeprägt werben, un-
+ter der Berficherung, daß er, bei Gefahr fein ewiges Heil zu
+verwirfen, fie nie in Zweifel ziehn bürfe; fofern nämlich, als
+ed Behauptungen find, welche die Grundlage aller unferer übri-
+gen Erkenntnisse betreffen, demzufolge für diese den Gesichtspunkt
+auf immer feftfiellen und, falls fie selbst falsch find, ihn auf im-
+mer verrüden: da ferner ihre Folgefäge in das ganze Syftem
+unferer Erfenntniffe überall eingreifen, wird dann durch fie das ge-
+jammte menfchliche Wissen durch und durch verfälfcht. Dies belegt
+jede Litteratur, am auffallendeften die bes Mittelalters, aber nur
+zu fehr auch die des 16. und 17. Jahrhunderts. Sehn wir doch,
+in alfen jenen Zeiten, felbft die Geifter ersten Ranges wie ge-
+lähmt durch solche falsche Grundvorftelungen, besonders aber
+
+
+Ueber Religion. 275
+
+
+alle Einficht in das wahre Wesen und Wirken der Natur ihnen
+wie mit einem Brette vernagelt. Denn während bed ganzen
+Ehriftlihen Zeitraums Tiegt der Theismus wie ein drückender
+Up auf allen geiftigen, zumal philosophischen Beftrebungen und
+bemmt, oder verfümmert, jeden Fortfchritt. Gott, Teufel, Engel
+und Dämonen verbeden ben Gelehrten jener Zeiten bie ganze
+Natur: Feine Unterfuhung wird zu Ende geführt, feiner Sache
+auf den Grund gegangen; fondern Alles, was über den augen»
+fälligsten Kausalnexus hinausgeht, durch jene Perfönlichfeiten
+alsbald zur Ruhe gebracht, indem es fogleich heißt, wie, bei ei-
+ner foldhen Gelegenheit, Pomponatius fih ausbrüdt: certe
+philosophi nihil verisimile habent ad haec, quare necesse
+est, ad Deum, ad angelos et daemones recurrere (de in-
+cantat. c, 7.). Diejen Mann freilide kann man babei in ben
+Verdacht der Ironie nehmen; da feine Tüde anderweitig befannt
+ft: jedoch hat er damit nur die allgemeine Denfungsart feines
+Zeitalter ausgesprochen. Hatte hingegen wirflih Einer die
+feltene Elafticität des Geiftes, welche allein die Fesseln zu fpren-
+gen vermag; jo wurden feine Schriften, und wohl gar er mit,
+verbrannt; wie ed dem Bruno und Banini ergangen ift. — Wie
+völlig gelähmt aber die gewöhnlichen Köpfe durch jene früb-
+jeitige, metaphysische Zurichtung werben, kann man am grellften
+und yon ber Tächerlichen Seite dann fehn, wann ein folder eine
+fremde Glaubenslehre zu Fritifiren unternimmt. Da findet man
+ihn in der Negel bloß bemüht, forgfältig darzuthun, daß bie
+Dogmen berfelben zu denen feiner eigenen nicht flimmen, indem
+er muͤhsam amseinanderfegt, daß in jenen nicht nur nicht bag
+Selbe gefagt, fondern auch ganz gewiß nicht das Selbe gemeint
+fei, wie in benen der feinigen. Damit glaubt er, in aller Ein:
+falt, die Falfıhheit der fremden Glaubenslehre bemiefen zu has
+ben. Es fallt ihm wirklich gar nicht ein, die Frage aufzuwer—
+fen, melde von Beiden wohl Recht haben möge. Ein belufti-
+gendes Beispiel diefer Art hat der Reverend Mr. Morrison
+im 20. Bande des Asiatie Journal geliefert, woselbst er bie
+Religion und Philofophie der Chinesen Fritifirt, — daß es eine
+Freude ift.
+
+Demopheles. Das ift nun alfo bein höherer Gesichts—
+punft. Aber ich verfühere dich, dag es einen noch höheren giebt.
+
+18*
+
+ [S. 276]
+
+
+Das primum vivere, Jeinde philosophari hat einen umfaflen-
+deren Sinn, als den, der fogleich ind Auge fällt. — Bor Allem
+fommt ed darauf an, die roben und schlechten Gemüther ber
+Menge zu bändigen, um fie vom äußerften Unrecht, von Grau—
+famfeiten, von Gemalt- und Schandthaten abzuhalten. Wenn
+man nun damit warten wollte, bis fie die Wahrheit erfannt und
+gefaßt hätten; fo fäme man unfehlbar zu fpät. Denn, gesetzt
+auch, fie wäre bereits gefunden; fo wird fie ihre Faflungsfraft
+überfteigen. Für fie taugt jedenfalls bloß eine allegorische Ein-
+fleidung berfelben, eine Parabel, ein Mythos. Es muß, wie
+Kant gefagt hat, eine öffentliche Standarte des Rechts und ber
+Tugend geben, ja, diefe muß allezeit hoch flattern. Es ift am
+Ende einerlei, welche heraldische Figuren darauf stehn; wenn fie
+nur bezeichnet was gemeint ift. Eine soche Allegorie der Wahr-
+beit ift jederzeit und überall, für die Menfchheit im Großen, ein
+taugliches Surrogat der ihr doch ewig unzugänglicen Wahrheit
+ferbft und überhaupt der ihr nimmermehr faplichen Philosophie;
+zu gefchweigen, daß diefe täglich ihre Geftalt wechselt und noch
+in feiner zur allgemeinen Anerfennung gelangt if. Die praf-
+tifhen Zwede alfo, mein guter Philalethes, gehn, in jeder Be—
+ziehung, den theoretifchen vor.
+
+Philalethes. Fast argmöhne ich, du wollteft, nad -
+tiger Mode, mir zu Gemüthe führen
+
+
+„Doch, * Freund, die Zeit kommt auch heran,
+Wo wir was Gut's in Ruhe schmausen mögen,“
+
+
+und deine Empfehlung laufe darauf hinaus, daß wir bei Zeiten
+Sorge tragen sollen, damit alsdann die Wogen der unzufriebe-
+nen, tobenden Menge ung nicht bei Tafel flören mögen. Die:
+fer ganze Gefichtspunft aber ift fo falfch, wie er heut zu Tage
+allgemein beliebt und belobt ist; daher ich mich beeile, Verwah⸗
+zung dagegen einzulegen. Es ift falfch, daß Staat, Recht und
+Gefeg nicht ohne Beihülfe der Religion und ihrer Glaubensar-
+tifel aufrecht erhalten werden fünnen, und daß Justiz und Poli:
+zei, um die gefeglihe Ordnung durchzufegen, der Religion, als
+ihres nothiwendigen Komplementes bedürfen. Falsch ift ee,
+und wenn e8 hundert Mal wiederholt wird. Denn eine faftifche
+und schlagende instantia in contrarium Jiefern uns die Alten,
+
+
+Ueber Religion. 277
+
+
+zumal die Griechen. Das nämlich, was wir unter Religion
+verfiehn, hatten fie durchaus nicht. Sie hatten Feine heilige
+Urfunden und Fein Dogma, das gelehrt, deflen Annahme von
+Jedem gefordert und das der Jugend frühzeitig eingeprägt wor-
+den wäre. — Eben fo wenig wurde von ben Dienern der Re-
+ligion Moral gepredigt, oder fümmerten fi Die Priefter irgend
+um die Moralität, oder überhaupt um das Thun und Laffen der
+Leute. Ganz und gar nicht! Sondern bie Pflicht der Priefter
+erftredte fich bloß auf Tempelceremonien, Gebete, Gefänge, Opfer,
+Proceffionen, Luftrationen u. dgl. m., welches Alles nichts we—
+niger, ald die moralifche Beflerung der Einzelnen zum Zived
+hatte. Vielmehr beftand die ganze fogenannte Religion bloß
+darin, daß, vorzüglich in den Städten, einige der Deorum ma-
+jorum gentium, bier diefer, dort jener, Tempel hatten, in
+denen ihnen der befagte Kultus, von Staats wegen, geleiftet
+wurde, der alfo im Grunde PVolizeifahe war. Kein Menich,
+außer den dabei thätigen Funftionarien, war irgend genöthigt,
+dabei gegenwärtig zu feyn, oder auch nur daran zu glau—
+ben. Im ganzen Alterthum ift feine Spur von einer Berpflid-
+tung, irgend ein Dogma zu glauben. Bloß wer die Eriftenz
+der Götter öffentlich leugnete, oder fonft fie verunglimpfte, war
+frafbar: denn er beleidigte den Staat, der ihnen diente: außer:
+dem aber bfieb Jedem überlaffen, was er davon halten mollte.
+Beliebte es Einem, fih privatim, durd Gebete oder Opfer, die
+Gunft eben jener Götter zu erwerben; fo ftand ihm Dies, auf
+eigene Koften und Gefahr, frei: that er ed nicht; fo hatte auch
+fein Menfch etwas dagegen: am menigften ber Staat. Zu Haufe
+hatte, bei den Römern, Jeder feine eigenen Laren und Penaten,
+die aber im Grunde bloß die verehrten Bilder feiner Ahnen
+waren. Bon der Unfterblichfeit der Seele und einem Leben
+nach dem Tode, hatten die Alten gar Feine fefte, deutliche, am
+wenigften dogmatisch firirte Begriffe, jondern ganz lockere, schwan⸗
+kende, unbestimmte und problematische Vorstellungen, Jeder in
+feiner Weise: und eben fo verschieden, individuell und vage ma-
+ren auch die Vorftellungen von den Göttern. Also Religion,
+in unferm Sinne des Wortes, hatten die Alten wirflih nicht.
+Hat nun aber deswegen bei ihnen Anarchie und Gesetzlosigkeit
+geherrscht? ist nicht vielmehr Gesetz und bürgerliche Ordnung so
+
+ [S. 278]
+
+
+sehr ihre Werk, daß es noch die Grundlage der unfrigen aus—
+macht? war nicht Das Eigenthum, obwohl es fogar großen Theile
+aus Sklaven beftand, vollfommen gefichert? Und bat dieser Zu:
+ftand nicht weit über ein Jahrtausend gedauert? —
+
+Also kann ich die praftiihen Zwede und die Nothivenbig-
+feit der Religion, in dem von dir angebeuteten und heut zu
+Tage allgemein beliebten Sinne, nämlich als einer unentbehrii-
+chen Grundlage aller gefeglichen Drbnung, nicht anerfennen, und
+muß mid) dagegen verwahren. Denn von einem foldhen Stand-
+punft aus würde bad reine und heilige Streben nad Licht und
+Wahrheit wenigftens donquichotisch und, falls es wagen follte,
+im Gefühl feines Rechts, den Auftoritätsglauben als den Usur—
+pator, der den Thron der Wahrheit in Befig genommen hat und
+ihn durch fortgefesten Trug behauptet, zu benunziren, als ver>
+brecheriich erfcheinen.
+
+Demopheles. Zur Wahrheit fteht die Religion aber nich
+im Gegensatz: denn fie lehrt jelbft die Wahrheit. Nur darf fie,
+weil ihr Wirfungsfreis nicht ein enger Hörfal, fondern die Welt
+und die Menfchheit im Großen ift, dem Bebürfniffe und der
+Fassungskraft eines jo großen und gemifchten Publitums gemäß,
+die Wahrheit nicht nadt auftreten Yaflen, oder, ein mebieinifches
+Gleichniß zu gebrauchen, fie nicht unverfegt eingeben, sondern
+muß fi), als eined Menftruums, eines mythischen Vehikels be-
+dienen. Auch Fannft du fie, in biefer Hinficht, gewissen chemi-
+fhen, an sich selbst gasförmigen Stoffen vergleichen, welche man,
+zum offizinellen Gebrauh, wie auch zur Aufbewahrung, oder
+zur Berfendung, an eine fefte, palpable Bafis binden muß, weil
+fie sonst sich verflüchtigen: z. B. das Chlor, welches, zu allen
+solchen Zweden, nur in Geftalt der Chlorüren angewandt wirb.
+Im Fall aber, daß die reine und abfirafte, von allem Mythischen
+freie Wahrheit, uns Allen, and den Bhilofophen, auf immer
+unerreihbar bleiben follte; dann wäre fie dem Fluor zu verglei-
+Gen, welches für fih allein gar nicht ein Mal darftellbar if,
+fondern nur an andere Stoffe gebunden auftreten fann. Oder,
+weniger gelehrt: die überhaupt nicht anders, als mythisch und
+allegorisch aussprechbare Wahrheit glihe dem Waffer, welches
+ohne Gefäß nicht transportabel ist; bie Philofophen aber, welche
+barauf bestehn, fie unverfegt zu besitzen, glichen Dem, ber bag
+
+
+— —
+
+
+ueber Religion. 279
+
+
+Gefäß zerichlüge, um das Wafler für fi) allein zu haben. Viel—
+leicht verhält es fih wirklich fo. Jedenfalls aber ift Religion
+die allegoriih und mythisch ausgesprochene, und daburd der
+Menschheit im Großen zugänglich und verbaulich gemachte Wahr:
+heit: denn rein und unverfegt Fönnte fie solche nimmermehr
+vertragen; wie wir nicht im reinen Oxygen leben fönnen, fon-
+bern eined Zufaßes von 3 Azot bebürfen. Und ohne Bild ge-
+redet: dem Volke kann der tiefe Sinn und das hohe Ziel des
+Lebens nur symbolisch eröffnet und vorgehalten werden; weil
+es nicht fähig ist, solche im eigentlichen Verstande zu faflen. Phis
+Iofophie Hingegen soll feyn wie die Eleufinifchen Mysterien, für
+die Wenigen, die Auserwählten.
+
+Philalethes. Verstehe schon: die Sache läuft hinaus auf
+die Wahrheit im Gewande der Lüge. Aber damit tritt sie in
+eine ihr verderbliche Allianz. Denn was für eine gefährliche
+Waffe wird nicht Denen in die Hände gegeben, welche die Be—
+fugniß erhalten, sich der Unwahrheit als Vehikels der Wahrheit
+zu bedienen! Wenn es so steht, fürchte ich, daß das Unwahre
+an der Sache mehr Schaden stiften wird, als das Wahre je
+Rutzen. Ja, wenn die Allegorie sich eingeständlich als eine
+solche geben dürfte, da gienge es schon an: allein das würde ihr
+allen Respekt und damit alle Wirksamkeit benehmen. Sie muß
+daher als sensu proprio wahr fich geltend machen und behaup-
+ten; während fie höchstens sensu allegorico wahr ist. Hier
+liegt der unpheilbare Schaden, der bleibende Uebelftand, welcher
+Ursache ift, daß die Religion mit dem unbefangenen, edlen Stre⸗
+ben nach veiner Wahrheit fleis in Konflift gerathen ift und es
+immer von Neuem wird.
+
+Demopheles. Doch nicht: denn auch dafür ift geforgt.
+Darf gleich die Religion ihre allegorifche Natur nicht geradezu
+befennen; fo deutet fie solche doch genugsam an.
+
+Philnlethes. And wo denn Das?
+
+Demopheles. In ihren Mysterien. Sogar ift „Myste⸗
+rium“ im Grunde nur der thenlogifche terminus technicus für
+religiöfe Allegorie. Auch Haben alle Religionen ihre Myfterien.
+Eigentlich ift ein Mysterium ein offenbar absurdes Dogma, mel-
+ches jedoch eine hohe, am fich felbft dem gemeinen Verstande ber
+rohen Menge völlig unfaplihe Wahrheit in fich verbirgt, bie
+
+
+280 lieber Religion.
+
+
+nun derselbe in biefer Verhüllung aufnimmt, auf Treu und
+Glauben, obne fi) von der, auch ihm augenfälligen Abfurdität
+irre machen zu lassen: dadurch nun wird er des Kerne der Sache,
+fo weit es ihm möglich ift, theilhaft. Zur Erläuterung kann id
+hinzufegen, daß fogar in der Philofophie der Gebraud des My-
+fteriums verfucht worden ift, 3. B. wenn Pasfal, welcher Pie
+tift, Mathematifer und Philofoph zugleich war, in dieser brei-
+fachen Eigenfchaft jagt: Gott ift Centrum überall und nirgends
+Peripherie. Auch Malebrande hat ganz richtig bemerft: la
+liberte est un mystere. — Man fünnte weiter gehn und be
+haupten, an den Religionen fei eigentlih Alles Mofterium.
+Denn die Wahrheit sensu proprio dem Volke, in feiner Rob
+heit, beizubringen ist fchlechterdings unmöglich: nur ein mythisch—
+alfegorifcher Abglanz derjelben kann ihm zufallen und es erleud:
+ten. Die nadte Wahrheit gehört nicht vor die Augen des pro
+fanen Bulgus: nur dicht verfchleiert darf fie vor ihm erfcheinen.
+Dieferwegen nun ift es eine ganz unbillige Zumuthung an eine
+Religion, daß fie sensu proprio wahr feyn folle, und daher,
+beiläufig gefagt, find, in unfern Tagen, fowohl Rationaliften,
+ald Supranaturaliften abfurd, indem Beide von der Voraus
+fegung, daß fie e8 feyn müfle, ausgehn, unter welcher dann Jene
+beweifen, daß fie es nicht sei, und Diefe hartnädig behaupten,
+fie sei es; oder vielmehr Jene das Allegoriiche fo zufchneiden
+und zurechtlegen, daß ed sensu proprio wahr feyn fünnte, dann
+aber. eine Plattitüde wäre; Diefe aber es, ohne weitere Zurid-
+tung, ald sensu proprio wahr behaupten wollen, — welches
+doch ohne Kegergerichte und Scheiterhaufen gar nicht Durchzufegen
+ift; wie fie wissen follten. Wirklich hingegen ist Mythos und
+Allegorie das eigentliche Element der Religion: aber unter bie-
+fer, wegen ber geiftigen Beichränftheit des großen Haufeng, un
+umgänglichen Bedingung, Teiftet fie dem fo unvertilgbaren, meta
+physischen Bedürfniß des Menfchen fehr wohl Genüge und ver⸗
+tritt die Stelle der, unendlich schwer und vielleicht nie zu errei⸗
+chenden, reinen philosophischen Wahrheit.
+
+Philalethes. O ja, ungefähr so, wie ein hölzernes Bein
+die Stelle eines natürlichen vertritt: es füllt sie aus, thut auch
+nothdürftig dessen Dienste, prätendirt dabei für ein natürliches
+angesehn zu werden, ist bald mehr, bald weniger Fünftlich zu-
+
+
+Ueber Religion. 281
+
+
+fammengefegt u. f. f. Ein Unterfchieb dagegen ift, daß, in ber
+Regel, ein natürliches Bein früher dawar, als das hölzerne, die
+Religion hingegen überall der Philosophie den Vorsprung abge-
+wonnen bat.
+
+Demopheled. Mag Alles feyn: aber für Den, der fein
+natürliches Bein hat, ift ein hölzernes von großem Werth. Da
+mußt im Auge behalten, daß das metaphysische Bedürfniß des
+Menschen fchlechterdinge Befriedigung verlangt; weil der Hori-
+zont feiner Gedanken abgefhloflen werden muß, nicht unbegrängt
+bleiben darf. Lrtheilöfraft nun aber, Gründe abzumiegen und
+dann zwischen Wahrem und Falschem zu enticheiden, Hat der
+Mensch, in der Regel, nicht: zudem läßt die von der Natur und
+ihrer Noth ihm aufgelegte Arbeit ihm feine Zeit zu derartigen
+Unterfuchungen, noch zu der Bildung, die fie vorausfegen. Also
+fann bei ihm nicht die Rebe feyn von Ueberzeugung aus Grün-
+den; fondern auf Glauben und Auftorität ift er vertiefen. Selbft
+wenn eine wirklich wahre Philofophie die Stelle der Religion
+eingenommen hätte; jo würde fie von allerwenigftens -9, ber
+Menfchen doch nur auf Auftorität angenommen werben, alfo wie—
+der Glaubenssache feyn: denn bei Plato’d yılocoyov nAndos
+advvorov zwaı wird es immerdar bleiben. Auftorität nun aber
+wird allein durch Zeit und Umftände begründet; daher wir fie
+nicht Dem verleihen Fönnen, was nichts, ald Gründe, für fih
+bat: sonach müflen wir fie Dem Yaflen, was, durch den Welt-
+lauf, fie ein Mal erlangt hat, wenn es auch nur bie allegorifch
+dargeftellte Wahrheit if. Diefe nun, auf Auftorität geftügt,
+wendet fi) zunächst an die eigentlich metaphpfifche Anlage bes
+Menihen, alfo an das theoretifche Bebürfnig, welches aus dem
+fih auforingenden Räthfel unferd Dafeyns und aus dem Be:
+wußtseyn hervorgeht, daß hinter dem Physischen der Welt irgend:
+wie ein Metapbufifches stecken müfle, ein Unmandelbares, wel⸗
+ches dem beftändigen Wandel zur Grundlage dient; fodann aber
+an den Willen, an Furcht und Hoffnung ber in fleter Noth Te-
+benden Sterblihen: fie fchafft ihnen demnach Götter und Dämo-
+nen, bie fie anrufen, die fie befänftigen, die fie gewinnen fönnen;
+endlich aber auch wendet fie fih an ihr unleugbar vorhandenes
+woralisches Bewußtseyn, dem fie Beftätigung ‚und Anhalt von
+außen: verleiht, eine Stüge, ohne welche daffelbe, im Kampfe mit
+
+ [S. 282]
+
+
+jo vielen Berfuchungen, fich nicht Teicht würde aufrecht erhalten
+fönnen. Eben von diefer Seite gewährt die Religion, in ben
+zahllosen und großen Leiden des Lebens, eine unerschöpfliche
+Duelle des Troftes und der Beruhigung, welche den Menschen
+aud im Tode nicht verläßt, u gerade dann ihre ganze
+Wirffamfeit entfaltet.
+
+Philalethes. Diefe lebtere Seite ist allerdings der
+Glanzpunkt der Religion. Ist fie eine fraus; fo ist fie wahr—
+lih eine pia fraus: das ift nicht zu leugnen. Sonach aber
+werben uns bie Priefler zu einem fonderbaren Mittelding von
+Betrügern und GSittenlehrern. Denn die eigentlihe Wahrheit
+dürfen fie, wie bu felbft ganz richtig auseinandergesetzt haft,
+nieht lehren, auch wenn fie ihnen befannt wäre; wie fie es nidt
+if. Eine wahre Philofophie Fann es danach allenfalls geben;
+aber gar feine wahre Religion: ich meyne wahr im wahren und
+eigentlichen Wortverfiande und nicht bloß fo durch Die Blume,
+oder Allegorie, wie du ed geichildert haft, in welchem Sinne
+vielmehr jede wahr feyn wird, nur in verfchiedenen Graben. Aller-
+dings aber ift e8 dem unentwirrbaren Gemifche von Wohl und
+Uebel, Redlichkeit und Falschheit, Güte und Bosheit, Edelmuth
+
+
+und Niederträchtigfeit, melches die Welt und durchgängig dar
+bietet, ganz entiprechend, daß die wichtigfte, höchste und heiligste
+
+
+Wahrheit nicht anders, als mit der Qüge verfest, auftreten kann,
+ja, von diefer, ald welche ftärfer auf die Menfchen wirkt, Kraft
+borgen und von ihe eingeführt werben muß, als Dffenbarung.
+Man fönnte fogar dies Faktum als Monogramm der moralifcen
+Welt betrachten. Indessen wollen wir die Hoffnung nicht auf
+geben, daß die Menichheit dereinft auf den Punkt der Reife und
+Bildung gelangen wird, wo fie die wahre Philosophie einerfeits
+bervorzubringen und andrerseits aufzunehmen vermag. Diele
+wird dann freilich die Religion von dem Platze berunterftoßen,
+den fie fo lange vifarirend eingenommen, aber eben dadurch je-
+ner offen gehalten hatte. Dann nämlich wird Die Religion ihren
+Beruf erfüllt und ihre Bahn durchlaufen Haben: fie kann dann
+das bis zur Mündigfeit geleitete Geschlecht entlaffen, felbft aber
+in Frieden dahinscheiden. Dies wird bie Euthanafte der Neli-
+gion seyn. Aber fo lange fie lebt hat fie zwei Gefichter: eines
+der Wahrheit und eines bes Truges. Je nachdem man das eine,
+
+
+Ueber Religion. 283
+
+
+ober bas andere ind Auge faßt, wird man fie lieben, ober an-
+feinden. Daher muß man fie ald ein nothwendiges Uebel be=
+trachten, dessen Nothwendigfeit auf ber erbärmlichen Geiftes-
+schwäche der großen Mehrzahl dev Menfchen beruht, welche bie
+Wahrheit zu fassen unfähig ift und daher, in einem dringenden
+Fall, eines Surrogats derselben bebarf.
+
+Demopheles. Wahrhaftig, man follte denfen, daß ihr
+Philosophen die Wahrheit schon ganz fertig Tiegen hättet und es
+nur noch darauf ankäme, fie zu faflen.
+
+Philalethes. Wenn wir fie nicht haben, fo ift Dies
+bauptfächlich dem Drude zugufchreiben, unter welchem, zu allen
+Zeiten und in allen Ländern, die Philosophie von der Religion
+gehalten worden if. Nicht nur das Aussprechen und die Mit-
+theilung der Wahrheit, nein, felbft das Denfen und Auffinden
+derfelben Hat man unmöglich zu machen gefucht, dadurch, daß
+man in frühefter Kindheit die Köpfe den Prieftern, zum Bear:
+beiten, in die Hände gab, die nun das Gleis, in welchem bie
+Grundgedanken fih fortan zu bewegen hatien, fo feft hineindrüd-
+ten, daß folche, in ber Hauptfache, für bie ganze Lebenszeit feft-
+geftellt und bestimmt waren. Erfchreden muß ich bisweilen,
+wenn ich, zumal von meinen orientalifhen Studien kommend,
+die Schriften, felbft der vortrefflichften Köpfe, des 16. und 17.
+Jahrhunderts in Die Hand nehme und nun fehe, mie fie überall
+durch den jüdifchen Grundgedanfen paralyfirt und von allen Sei-
+ten eingebemmt find. Sp zugerichtet erfinne mir Einer bie
+wahre Philosophie!
+
+Dempopheles. Und wäre fie übrigens gefunden, diese
+wahre Philofophie; fo würde darum doch nicht, wie du meinft,
+die Religion aus ber Welt fommen. Denn es Tann nicht Eine
+Metaphysik für Alle geben: der natürliche Unterschied der Gei—
+ftesfräfte und der hinzulommende ihrer Ausbildung läßt es nim-
+mehr zu. Die große Mehrzahl der Menfchen muß nothwendig
+der schweren Förperlichen Arbeit obliegen, die zur Herbeifchaffung
+des endlosen Bedarfs bes ganzen Geschlechts unerläßlic erfor
+bert ist: nicht num Täßt ihr Dies Feine Zeit zur Bildung, zum
+Lernen, zum Nachdenken; fondern, vermöge des entichiebenen
+Antagonismus zwifchen Zrritabilität und Senfibifität, stumpft bie
+viele und angeftrengte Förperliche Arbeit den Geist ab, macht
+
+
+284 ueber Religion.
+
+
+ihn schwer, plump, ungelenk und daher unfähig andere, als gan
+- einfahe und palpable Berhältniffe zu fassen. Unter diefe Kate—
+gorie nun aber fallen wenigstens des Menschengeschlechts.
+Einer Metaphysik aber, d. i. einer Rechenschaft über die Welt
+und unser Daseyn, bedürfen die Leute darum doch; weil solche
+zu den natürlichsten Bedürfnissen des Menschen gehört; und zwar
+einer Volksmetaphysik, welche, um Dies seyn zu können, gar viele
+und seltene Eigenschaften vereinigen muß: nämlich eine große
+Faßlichkeit mit einer gewissen Dunkelheit, ja, Undurchdringlich⸗
+keit, an den rechten Stellen; sodann muß mit ihren Dogmen
+eine richtige und ausreichende Moral verknüpft seyn: vor Allem
+aber muß sie unerschöpflichen Trost im Leiden und im Tode mit
+sich bringen. Hieraus folgt nun schon, daß fie nur sensu alle-
+gorico, nicht seusu proprio wahr feyn kann. Ferner muß fie
+nun noch die Stüße einer, durch hohes Alter, allgemeine Aner-
+fennung, Urkunden, nebst Ton und Vortrag derfelben, imponi-
+renden Auftorität haben, Tauter Eigenschaften, bie fo unendfich
+schwer zu vereinigen find, daß gar Mancher, wenn er es erwöge,
+nicht fo bereitwillig mithelfen würde, eine Religion zu untermis
+niren, fondern bedenken, daß fie der heiligfte Schatz des Volkes
+ist. Der höher Gebildete mag immerhin sich die Religion cum
+grano salis auslegen; der Gelehrte, der denkende Kopf, mag
+fie, in der Stille, gegen eine Philofophie vertaufchen. Und paßt
+doch fogar hier nicht eine Philofophie für Alle, fondern eine
+jede zieht, nach Gefegen der Wahlverwandfchaft, dasjenige Pu-
+bliklum an fich, deffen Bildung und Geifteöfräften fie angemeffen
+if. Daher giebt es allezeit eine niedrige Schulmetaphysik, für
+den gelehrten Plebs, und eine höhere, für die Elite. Mußte
+z. B. doch aud) Kants hohe Lehre erft für die Schulen herab:
+gezogen und verborben werden, durch Fried, Krug, Salat und
+ähnliche Leute. Kurz, bier gilt fo fehr, als irgendwo, Göthe’s
+„Eines paßt fih nicht für Alle.” Reiner Offenbarungsglaube
+und reine Metapbyfif find für bie beiden Extreme: für bie
+Zwifchenftufen find eben auch Mobdififationen jener Beiden wech—
+felfeitig durch einander, in zahllosen Kombinationen-und Grada—
+tionen. So erfordert e8 der unermeßliche Unterfchieb, den Natur
+und Bildung zwifchen Menfchen fegen.
+
+Philalethes. Diefer Gefichtspunft erinnert mich erniich
+
+
+Ueber Religion. 285
+
+
+an die, von bir fchon erwähnten Möfterien der Alten, ald wel—
+hen die Abficht zum Grunde zu liegen fcheint, jenem, aus ber
+Berfehiedenheit der geiftigen Anlagen und der Bildung entfprin-
+genden Lebelftande abzubelfen. Ihr Plan dabei war, aus dem
+großen Haufen der Menschen, welchem die unverfchleierte Wahr⸗
+heit durchaus unzugänglich ift, Einige auszufondern, denen man
+folhe, bis auf einen gewiffen Grab, enthüllen durfte; aus bie-
+fen aber wieder Einige, denen man noch mehr offenbarte, da fie
+mehr zu fassen vermochten; und fo aufwärts bis zu den Epop-
+ten. So gab ed denn wixpe, xod uslove, za ueyıova UVOTN-
+ia. Eine richtige Erfenntniß der intelleftuellen Ungleichheit der
+Menihen Tag der Sache zum Grunde.
+
+Demopheles. Gewissermaaßen vertritt bei und bie Bil-
+dung auf niedern, mittleren und hohen Schulen die verichiebenen
+Weihen der Mysterien.
+
+Philalethes. Doc nur fehr annäherungsweife, und aud
+Dies nur, fo lange über Gegenftände des höheren Wissens aus⸗
+ihließlich Yatein gefchrieben wurde. Aber feitdem Das aufgehört
+bat, werden alle. Mysterien profanirt.
+
+Demopheleds. Wie Dem auch feyn möge, fo wollte ich,
+binfichtlich der Religion, noch erinnern, daß du fie weniger von
+der theoretifchen, und mehr von der ypraftifchen Seite auffaflen
+solltest. Mag immerhin die perfonificirte Metaphysik ihre Fein-
+din; fo wird doch die perfonificirte Moral ihre Freundin feyn.
+Vielleicht ift in allen Religionen das Metaphysische falsch; aber
+das Moralifche ift in allen wahr: Dies ift schon daraus zu ver-
+muthen, daß in jenem fie einander fämmtlich wiberfireiten, in
+biefem aber alle übereinftimmen, —
+
+Philalethes. Welches einen Beleg abgiebt zu ber Yogi-
+hen Regel, daß aus salschen Prämissen eine wahre Konklusion
+folgen kann.
+
+Demopheles. Nun so halte dich an die Konklusion und sei
+steis eingedenk, daß die Religion zwei Seiten hat. Sollte fie auch,
+bloß von der theoretischen, also intelleftualen Seite gesehn, nicht
+zu Rechte beftehn können; fo zeigt fie Dagegen von der moralischen
+Seite fih als das alleinige Lenkungs-, Bändigungs- und Be-
+jänftigungsmittel diefer Rafle vernunftbegabter Thiere, deren
+Berwandfchaft mit bem Affen bie mit dem Tiger nicht ausschließt.
+
+ [S. 286]
+
+
+Zugleich ift fie die, in der Negel, ausreichende Befriebigung des
+bumpfen metaphyfifchen Bebürfnifies derfelben. Wenn du fie fo
+auffafieft, und bedenkst, daß ihre Zwede überwiegend praftifch
+und nur untergeorbnet theoretisch find; fo wird fie dir höchst
+achtungswerth erjcheinen.
+
+Philalethes. Welcher Respelt denn doch am Ende auf
+dem Grunbfag beruhen würde, baß ber Zwed die Mittel heiligt.
+Sc fühle jeboch zu einem barauf errichteten Rompromiß Feine
+Neigung. Mag immerhin die Religion ein ercellentes Zähmungs⸗
+und Abrihtungsmittel des-werfehrten, stumpfen und boshaften
+bipedischen Gefchlechtes seyn; in den Augen bes Freundes der
+Wahrheit bleibt jede fraus, fer fie auch noch fo pia, verwerflich.
+Lug und Trug wären bob ein feltfames Tugenbmittel. Die
+Fahne, zu der ich gejchworen habe, ift die Wahrheit: ihre werde
+ich überall treu bleiben und, unbefümmert um den Erfolg, käm—
+pfen für Licht und Wahrheit. Erblide ich die Religionen in der
+feindlichen Reihe; fo werde ih — — — —
+
+Demopheles. Da findeft du fie aber nicht! Die Reli—
+gion ift fein Betrug: fie ift wahr, und ift bie wichtigfte aller
+Wahrheiten. Weil aber, wie fchon gefagt, ihre Lehren fo hoher
+Art find, daß der große Haufen fie nicht unmittelbar faflen
+fönnte; weil, fage ih, bas Licht verfelben das gemeine Auge
+bienden würde; fo tritt fie in den Schleier der Allegorie gehüllt
+auf und lehrt Das, was nicht geradezu an sich felbft, wohl aber
+bem hohen, darin enthaltenen Sinne nach, wahr ift: und fo ver-
+ftanden, ift fie die Wahrheit.
+
+Philalethes. Das Tieße sich fchon hören, — wenn fie
+nur fih als bloß alfegoriich wahr geben bürfte. Allein fie tritt
+auf mit dem Anfpruch, geradezu und im ganz eigentlichen Sinne
+des Worted wahr zu seyn: barin liegt der Trug, und bier ift
+es, wo ber Freund der Wahrheit fi ihr feindlich entgegenftel-
+fen muß.
+
+Demopheles. Aber Das ift ja comditioisine qua non,
+Wollte fie eingeftehn, daß bloß der allegoriihe Sinn ihrer Leb-
+ven das Wahre daran sei; fo würde ihr dies alle Wirffamfeit
+benehmen, und ihr unschätzbar wohlthätiger Einfluß auf das Mo-
+ralische und Gemüthliche im Menfchen würde durch solchen Ri-
+gorismus verloren gehn. Statt also mit pedantischem Starrsinn
+
+
+?
+
+
+ueber Religion. 287
+
+
+darauf zu beftehn, richte den Blick auf ihre großen Reiftungen
+im praftiichen Gebiet, im Moralifhen, im Gemüthlichen, als
+Lenferin des Handelns, ald Stüße und Troft der Teidenden
+Menfchheit, im Leben und im Tode. Wie fehr wirft du danach
+Dih hüten, durch theoretiiche Kritteleien dem Bolfe etwas zu
+verbächtigen und dadurch endlich zu entreißen, was ihm eine
+unerfchöpfliche Duelle des Trostes und der Beruhigung ift, deren
+ed fo fehr, ja, bei feinem härteren Loofe, mehr als wir bebarf:
+denn fchon darum follte es fchlechthin unantaftbar feyn.
+
+Philalethes. Mit dem Argument hätte man den Luther
+aus dem Felde schlagen können, als er die Ablaßfrämerei an-
+griff: denn wie Manchem haben nicht die Ablaßzettel zum uner-
+festlichen Troft und vollfommener Beruhigung gereicht, fo daß er,
+im vollen Bertrauen auf ein Päckchen derfelben, welches er fter-
+bend in der Hand fefthielt, überzeugt, eben fo viele Eintrittsfar-
+ten in alle neun Himmel daran zu haben, mit froher Zuverficht
+dahinschied. — Was helfen Troft- und Beruhigungsgründe,
+über welchen beftändig das Damoklesschwerdt der Enttäufchung
+schwebt! Die Wahrheit, mein Freund, die Wahrheit allein hält
+Stich, bebarrt und bleibt trew: ihr Troft allein ift der folibe:
+fie ift der ungerftörbare Diamant. |
+
+Demopheled. Ja, wenn ihr die Wahrheit in der Tafche
+hättet, um und auf Verlangen damit zu beglücken. Aber was
+ihr habt find eben nur metaphysische Systeme, an denen nichts
+gewiß ift, ald das Kopfbrechen, welches fie foften. Ehe man
+Einem etwas nimmt, muß man etwas Befleres an dessen Stelle
+zu geben haben.
+
+Philalethes. Wenn ih nur Das nicht immer hören
+müßte! Einen von einem Irrthum befreien heißt nicht ihm et-
+was nehmen, fondern geben: denn bie Erkenntniß, daß etwas
+falfh fei, ift eben eine Wahrheit. Kein Irrthum aber ift un=
+schädlich; sondern jeder wird früher oder fpäter Dem, der ihn
+hegt, Unheil bereiten. Darum betrüge man niemanden, gestehe
+lieber ein, nicht zu willen was man nicht weiß, und überlaffe
+Jedem, fich feine Glaubensfäge selbst zu machen. Vielleicht wer⸗
+den fie fo übel nicht ausfallen, zumal da fie fih an einander ab-
+reiben und gegenfeitig veftificirem werden: jedenfalls wird bie
+Mannigfaltigfeit der Anfichten Toleranz begründen, Die aber,
+
+ [S. 288]
+
+
+denen Kenntniffe und Fähigfeit beimohnen, mögen fih an bas
+Studium der Philofophen machen, oder wohl gar felbft Die Ge-
+schichte der Philosophie weiter führen.
+
+Demopheles. Das würde etwas Schönes werden! Ein
+ganzes Volk naturalifirender, sich streitender und eventualiter
+prügelnder Metaphyfifer!
+
+Philalethes. Je nun, etwas Prügel, bin und wieder,
+find die Würze des Lebens, oder wenigftens ein gar Feines Ue-
+bel, wenn verglichen mit Pfaffenherrichaft, Laienplünderung,
+Keserverfolgungen, Inquifitionsgerichten, Kreuzzügen, NReligions-
+friegen, Bartholomäusnädten u. |. w. Das find denn Doc bie
+Erfolge der oftroyirten Volksmetaphysik gewesen: daher bleibe ich
+dabei, daß vom Dornbufh feine Trauben und von Lug und
+Trug fein Heil zu erwarten steht.
+
+Demopheles. Wie oft foll ich dir wiederholen, daß bie
+Religion nichts weniger, ald Lug und Trug, fondern die Wahrs
+heit felbft, nur in mythifch-allegorifchem Gewande ift? — Aber
+binfichtlich deines Plans, daß Jeder fein eigener Religionsftifter
+feyn folle, hatte ich dir noch zu fagen, daß ein foldher Partiku—
+larismus ganz und gar der Natur des Menfchen widerftreitet
+und eben daher alle gefellfchaftlihe Drdnung aufheben würde,
+Der Mensch ift ein animal metaphysicum, d. h. hat ein über-
+wiegend ftarfes metaphyfiiches Bedürfniß: demnach faßt er bas
+Leben vor Allem in feiner metaphyfiichen Bedeutung und will
+aus diefer Alles abgeleitet wiflen. Daher ift, fo feltfam es,
+bei der Ungewißheit aller Dogmen, Klingt, die Uebereinftim-
+mung in den metaphyfiihen Grundanfihten für ihn die Haupts
+fache, dermaaßen, daß nur unter ben hierin Gleichgefinnten ächte und
+dauernde Gemeinschaft möglich ift. In Folge hievon identificiren
+und fcheiden die Völker fih viel mehr nach ben Religionen, als
+nad) den Regierungen, oder felbft nad den Sprachen. Demge-
+mäß steht das Gebäude der Gefellichaft, der Staat, erft dann
+sollfommen fehl, wann ein allgemein anerfanntes Syftem ber
+Metaphyfif ihm zur Unterlage dient. Natürlich kann ein folches
+nur Bolfsmetaphyfif, d. i. Religion, seyn. Dasselbe schmilzt aber
+dann mit ber Staatsverfaflung und allen gemeinichaftlichen Le-
+bensäußerungen des Bolfes, wie auch mit allen feierlichen Aften
+bes Privatlebens, zusammen. Sp war es im alten Indien, fo
+
+
+Ueber Religion. 289
+
+
+bei den Perfern, ben Aegypiern, den Juden, auch bei den
+Griechen und Römern, fo ift es noch bei den Brahmanifchen,
+Bubdhaiftifchen und Mohammedanifhen Bölfern. In China
+find zwar drei Glaubenslehren, von melden gerade die am
+meiften verbreitete, ber Bubbhaismud, am menigften vom Staate
+gepflegt wird: jedoch Tautet ein in China allgemein geltender
+und täglich gebrauchter Spruch fo: „die drei Lehren find nur
+Eine’, d. b. fie flimmen in der Hauptfadhe überein. Europa
+endlich ift der christliche Staatenbund: das Christenthum ist die
+Bafis jeder feiner Glieder und das gemeinfchaftliche Band alfer;
+daher auch die Türkei, obgleih in Europa gelegen, eigentlich
+nicht dazu gerechnet wird. Dem entfprechend find die Europäl-
+Ihen Fürften es „von Gotted Gnaden” und ist der Papft ber
+Statthalter Gottes, welcher demgemäß, als fein Anfehn am höch—
+fen ftand, alle Throne nur als von ihm verliehene Lehen be-
+trachtet Haben wollte: Dem entfprach auch, daß Erzbifchöfe und
+Bischöfe als solche weltliche Herrichaft Hatten, wie noch jetzt, in
+England, Sig und Stimme im Oberhaufe. Proteftantifhe Herr-
+scher find, als solche, Häupter ihrer Kirche: in England war
+dies, noch vor wenig Jahren, ein achtzehnjähriges Mädchen.
+Schon durch den Abfall vom Papste Hat die Reformation das
+Europäifche Staatengebäude erfchüttert, befonders aber hat fie,
+durh Aufhebung der Glaubensgemeinihaft, die wahre Einheit
+Deutschlands aufgelöst, welche daher fpäter, nachdem fie faftifch
+auseinandergefallen war, durch Fünftliche, bloß politische Bande
+wieberhergeftellt werden mußte. Du fiehft alfo, wie mefentlich der
+Glaube und feine Einheit mit der gefelffchaftlichen Orbnung und
+jedem Staate zufammenhängt. Er ift überall die Stüge der Gefege
+und der Verfassung, alfo bie Grundlage des gefelligen Gebäudes,
+das fogar schwerlich beftehn könnte, wenn nicht er der Auftorität
+der Regierung und dem Anfehn des Herrfchers Nachdruck verliche.
+
+Philalethes. D ja, den Fürften ift der Herrgott der
+Knecht Ruprecht, mit dem fie die großen Kinder zu Bette jagen,
+wenn nichts Anderes mehr helfen will; daher fie auch viel auf
+ihn halten. Inzwischen hat, feitdem die ultima ratio theolo-
+gorum, der Scheiterhaufen, außer Gebrauch gefommen, dieses
+Mittel fehr an Wirffamfeit verloren. Denn, du weißt es, bie
+Religionen find wie- bie Leuchtwürmer: fie bedürfen der Dunfels
+
+IL 19
+
+ [S. 290]
+
+
+beit um zu leuchten. Ein gewisser Grab. allgemeiner Unwissen⸗
+heit ift Die Bedingung aller Religionen, ift das Element, in wel»
+chem allein fie Yeben fünnen, Sobald hingegen Astronomie, Na-
+turwissenschaft, Geologie, Geschichte, Länder- und Bölferfunde
+ihr Licht allgemein verbreiten und endlich gar die Philofopbie
+zum Worte fommen darf; da muß jeder auf Wunder und Of-
+fenbarung geftügte Glaube untergehn; worauf dann die Philofo-
+phie feinen Play einnimmt. In Europa brach, gegen das Enbe
+bes 15ten Jahrhunderte, mit der Ankunft gelehrter Neugriechen,
+jener Tag der Erfenntnig und Wissenschaft an, feine Sonne stieg
+immer hoher, in dem fo ergiebigen 16ten und 17ten Jahrhun⸗
+bert, und zerfireute die Nebel des Mittelalters. In - gleichem
+Maaße mußte allmälig die Kirche und der Glaube finfenz daher
+im 18ten Jahrhundert Englifhe und Franzöfiihe Philosophen
+fi) schon direft gegen biefelben erheben konnten, bis endlich, un⸗
+ter. Friedrich dem Großen, Kant fam, der dem religiöfen Glau—
+ben bie bisherige Stüge der Philofophie entzog und Die ancilla
+theologiae emaneipirte, indem er die Sache mit beutfcher Gründ-
+lichkeit und Gelassenheit angriff, woburd fie eine weniger frivole,
+aber desto ernfihaftere Miene annahm. In Folge davon fehn
+wir im 19ten Jahrhundert das Christenthum sehr geschwächt da⸗
+ftehn, vom ernftlichen Glauben faft ganz verlaflen, ja, fohon um
+feine eigene Eriftenz kämpfend; während beforgliche Fürften ihm
+durch Fünftliche Reizmittel aufzuhelfen fuchen, wie ber Arzt dem
+Sterbenden duch Moschus. Allein höre bier aus dem Condor-
+cet, des progres de l’esprit humain, eine Stelle, die zur
+Warnung unferer Zeit gefchrieben zu feyn fcheint: le zele reli-
+gieux des philosophes et des grands n’6tait qu’une devo-
+tion politique: et toute religion,: qu’on se permet de de-
+fendre comme une croyance quil est utile de laisser au
+peuple, ne peut plus esperer qu’une ‚agonie plus ou moins
+prolongee (ep. 5.) — Im ganzen Verlaufe des befchriebenen
+Hergangs Fannft du immer beobachten, daß ‚Glauben und Wifr
+fen fi verhalten wie die zwei Schalen einer Waage: in
+bem Maaße, als die eine fleigt, finft bie. andere. Sa, fo em-
+pfindlich ift diefe Wange, daß fie fogar momentane Einflüffe
+inbicirt: ald 3. B., im Anfange diefes Jahrhunderts, die Raub-
+züge Französischer Horden, unter ihrem: Anführer Bupnaparte,
+
+
+Ueber Religion. 291
+
+
+und bie große Anfirengung, welche nachher die Austreibung
+und Züchtigung diefes Raubgesindels erforderte, eine tempp-
+räre Bernachläffigung der Wiflenfchaften und dadurch eine ges
+wife Abnahme in der allgemeinen Verbreitung ber Kenniniffe
+herbeigeführt hatte, fieng fogleich die Kirche wieder an, ihr
+Haupt zu erheben, unb der Glaube zeigte fofort eine neue. Be-
+lebung, die freilich, dem ‚Zeitalter gemäß, zum Theil nur poeti-
+Iher Natur war. Hingegen in dem darauf folgenden, mehr als
+breißigiährigen Frieden hat Muße und Wohlftand den Anbau
+ber Wiflenfchaften und die Verbreitung der Kenniniffe in felte-
+nem Maaße befördert; wovon die Folge der befagte, Auflöfung
+drohende Berfall. der Religion if. Bielleicht daß fogar der jo
+oft. prophezeite Zeitpunkt bald dafeyn wird, wo biefe von ber
+Europäischen Menfchheit fcheidet, wie eine Amme, deren Pflege
+das Rind. entwachfen ift, welches nunmehr ber Belehrung des
+Hofmeifters zufällt. Denn ohne Zweifel find bloße, auf Aufto-
+vität, Wunder und Offenbarung geftüste Glaubendlehren eine
+nur dem Kindesalter der Menfchheit angemefjene Aushülfe: daß
+aber ein Gefchlecht, deflen ganze Dauer, nad übereinftimmender
+Anzeige aller phyfifchen und hiftorifchen Data, bis jest nicht mehr
+beträgt, als ungefähr 100 Mal das Leben eines 60jährigen Man-
+nes, noch in der ersten Kindheit fich befinde, wird Jeder zugeben.
+
+Demopheles. D, wenn du doch, fkatt mit unverhohlenem
+Wohlgefallen den Untergang des Chriftentbums zu prophezeien,
+betrachten wollte, wie unendlich viel die Europäifche Menschheit
+biefer ihr, aus ihrer wahren alten. Heimath, dem Orient, fpät
+nachgefolgten Religion zu verdanken hat! Sie erhielt durch bie:
+jelbe eine ihr bis dahin fremde Tendenz, vermöge ber Erfennt-
+niß der Grundwahrheit, daß das Leben nicht Selbstzweck feyn
+könne, fondern der wahre Zweck unfers Dafeyns jenfeit desselben
+liege. Griechen und Römer nämlich hatten ihn durchaus im das
+Leben: selbst gesetzt, daher fie, in diefem Sinne, allerdings blinde
+Heiden heißen können. Demgemäß laufen auch alle ihre Tugen⸗
+den auf das dem Gemeinwohl Dienliche, — das Nügliche, zu:
+rück und Ariftoteles jagt ganz naiv: „nothwendigerweise müflen
+die Tugenden die größten feyn, welche Andern die nüglichften
+ind.” (avayaın ds weyıoras swar wperag'ras vos akloıg Xon-
+Oymrezag, Bhetor. I, e. 9.) Daher ift denn auch die Vater-
+
+19*
+
+ [S. 292]
+
+
+landsliebe die höchste Tugend bei den Alten, — wiewohl fie
+eigentlich eine gar zweideutige ift, indem Beschränktheit, Borur-
+tbeil, Eitelfeit und mwohlverftandener Eigennug großen Antbeil
+an ihr haben, Didt vor der foeben angeführten Stelle zählt
+Ariftoteles fämmtlihe Tugenden auf, um fie fodann einzeln zu
+erläutern. Sie find: Gerechtigfeit, Muth, Mäßigfeit, Spiendi-
+bität (ueyadonperssie), Großmuth, Liberalität, Sanftmuth, Ber-
+nünftigfeit und Weisheit. Wie verfchieden von den hriftlichen!
+Selbst Plato, der ohne Vergleich transfcendentefte Philosoph des
+vorchristlichen Alterthums, Fennt Feine höhere Tugend als die
+Gerechtigfeit, welche sogar nur er allein unbedingt umd ihrer
+felbft wegen empfiehlt; während bei allen ihren übrigen Philo-
+fophen das Ziel aller Tugend ein glüdliches Leben, vita 'beata,
+it und die Moral die Anleitung zu einem foldhen. Bon biefem
+platten und roben Aufgebn in einem epbemeren, ungemwiflen und
+schaalen Dafeyn befreite das Christenthum die Europäische
+Menschheit,
+eoelumque tueri
+Jussit, et erectos ad sidera tollere vultus.
+
+
+Demgemäß prebigte das Christenthum nicht bloße Gerechtigkeit,
+fondern Menfchenliebe, Mitleid, Wohlthätigfeit, Versöhnlichkeit,
+Feindesliebe, Geduld, Demuth, Entfagung, Glaube. und Hoff-
+nung. a, ed gieng weiter: es lehrte, Daß die Welt vom Uebel
+fei, und daß wir der Erlöfung bebürften: demnach predigte es
+Weltverachtung, Selbfiverleugnung, Keufchheit, Aufgeben des
+eigenen Willens, d. h. Abwendung vom Leben und deffen trüge-
+rifchen Genüflen: ja, ed lehrte die heiligende Kraft des Leidens
+erfennen und ein Marterinftrument if das Symbol des Ehriften-
+thums. — Ich geftehe dir gern zu, daß diefe ernfte und allein
+richtige Anficht des Lebens, unter andern Formen, in ganz Asien
+fhon SZahrtaufende früher verbreitet war, wie fie ed, unabhän-
+gig vom Christenthum, auch nod jest ift: aber für die Euro-
+päifche Menfchheit war dieselbe eine neue und große Offenba-
+rung. Denn befanntlic befteht die Bevölferung Europa’s aus
+verbrängten und verirrten, nad und nad) eingetroffenen Afiati«
+fhen Stämmen, melden, auf der weiten Wanderung, ihre bei-
+mathliche Urreligion und damit bie richtige Lebensansicht verlo-
+ven gegangen war; baher fie aldbann, im neuen Klima, sich
+
+
+Ueber Religion, 293
+
+
+eigene und ziemlich rohe Religionen bildeten, hauptfächlich die
+Druidifche, die Odinische und die Griechifche, deren metaphyfifcher
+Gehalt gering und gar feicht war. — Inzwischen entwidelte fich
+bei den Griechen ein ganz fpecieller, man möchte fagen inftinft-
+artiger, ihnen allein, unter allen Bölfern der Erde, die je ge-
+weien find, eigener, feiner und richtiger Schönheitsfinn: daher
+nahm, im Munde ihrer Dichter und unter den Händen ihrer
+Bildner, ihre Mythologie eine überaus schöne und ergägliche Ge—
+stalt an. Hingegen die ernfte, wahre und tiefe Bedeutung bes
+Lebens war Griechen und Römern verloren gegangen: fie lebten
+dahin, wie große Kinder, big das Christenthum fam und fie zum
+Ernst des Lebens zurückrief.
+
+Philalethes. Und um den Erfolg zu beurtheilen, brau—
+hen wir nur das Alterthum mit dem darauf folgenden Mittel:
+alter zu vergleichen, etwan bas Zeitalter des Perikles mit dem
+13ten Jahrhundert, Kaum glaubt man in beiden die felbe Art
+von Wefen vor sich zu haben: dort die schönste Entfaltung der
+Humanität, vortrefflihe Staatseinrichtungen, weife Gefege, Flug
+vertheilte Magiftraturen, vernünftig geregelte Freiheit, fämmtliche
+Künfte, nebft Poefie und Philosophie, auf ihrem Gipfel, Werke
+Ihaffend, die noch nah Jahrtausenden als unerreichte Mufter,
+beinahe als Werfe höherer Wesen, denen wir e8 nie gleichthun
+fönnen, daftehn, und dabei das Leben durch die ebelfte Gefellig-
+feit verfehönert, wie das Gaftmahl des Xenophon fie ung ab-
+hattet. Und nun fieh’ hieher, wenn du es vermagft. — Siehe
+die Zeit, da bie Kirche die Geifter und bie Gewalt die Leiber
+gefeffelt Hatte, damit Ritter und Pfaffen. ihrem gemeinfamen Lafts
+tbiere, dem dritten Stande, die ganze Bürde des Lebens auffe-
+gen konnten. Da findeft du Kauftrecht, Feudalismus und Fa-
+natismus in engem Bunde, und in ihrem Gefolge gräueliche Uns
+wiffenheit und Geiftesfinfterniß, ihr entiprechende Intoleranz,
+Glaubenszwifte, Religionskriege, Kreuzzüge, Kegerverfolgungen
+und Inquifitionen; als Form der Gefelligfeit aber. Das aus Roh-
+heit und Gederei zufammengeflidte Ritterwefen, mit feinen pe—
+dantifch ausgebildeten und in ein System gebrachten Fragen und
+Flausen, mit degradirendem Aberglauben und affenwürdiger Wei-
+berveneration, von der ein nod vorhandener Reft, die Galan-
+
+ [S. 294]
+
+
+terie, mit wohlverdienter Weiberarrogang bezahlt wird und allen
+Aftaten dauernden Stoff zu einem Lachen giebt, in welches bie
+Griechen miteingeftimmt haben würden. Im goldenen Mittelal-
+ter freilich gieng das Ding bis zum förmlichen und methodifchen
+Frauendienft, mit auferlegten Heldenthaten, cours d’amour,
+fhwülftigem Troubaboursgefang u. f. w.; wiewohl zu bemerfen
+ift, daß diese letzteren Poflen, die denn doch eine intellektuelle
+Seite haben, hauptfächlicd in Franfreich zu Haufe waren; wäh—
+rend bei den materiellen und flumpfen Deutfchen die Ritter mehr
+im Saufen und Rauben sich hervorthaten: Humpen und Raub-
+fchlöffer waren ihre Sache; an den Höfen freilich fehlte es auch
+nicht an einiger faden Minnefängerei. Wodurch nun Hatte die
+Scene jo gewechselt? Durch Völkerwanderung und Chriftenthum.
+
+Demopheled. Gut, dag du daran erinnerft. Die BL
+kerwanderung war bie Duelle des Uebels und das Christenthum
+der Damm, an dem es fi brach. Eben für die durch die Fluh
+der Bölferwanderung berangefhwenmten, rohen, wilden Horben,
+wurde das Chriftenthbum zunähft das Bändigungs- und Zäh⸗
+mungsmittel. Der rohe Mensch muß zuerft niederfnien, Ver⸗
+ehrung und Gehorfam erlernen: danach erst kann man ihn civi⸗
+lifiven. Dies leiftete, wie in Irland St. Patricius, fo in Deutfch-
+Yand Winfried der Sachs und ward ein wahrer Bonifacius. Die
+Bölferwanderung, dieses letzte Nachrüden aftatifcher Stämme nad)
+Europa, dem nur noch fruchtlofe Versuche der Art, unter Attila,
+Dschengischan und Timur und, ald komisches Nachfpiel, die Zi—
+geuner gefolgt find, die Völkerwanderung war ed, welche bie
+Humanität des Alterthums weggeschwemmt hatte: das Chriften-
+thum aber war gerade das der Nohheit entgegenmwirfende Prin-
+cip; wie felbft noch fpäterhin, das ganze Mittelalter hindurch,
+bie Kirche, mit ihrer Hierarchie, höchst nöthig war, der Rohheit
+und Barbarei der physischen Gewalthaber, der Fürften und Rit-
+ter, Schranfen zu fegen: fie wurde der Eiöbrecher diefer mäd-
+tigen Schollen. Jedoch ift ja überhaupt der Zweck des Ehriften-
+thums nicht fowohl, diefed Leben angenehm, als vielmehr uns
+eines beffern würdig zu machen: über biefe Spanne Zeit, über
+diefen flüchtigen Traum, fieht es weg, um und dem ewigen Heile
+zuzuführen. Seine Tendenz ift ethisch, im allerhöchften, bis ba-
+
+
+Ueber Religion. 295
+
+
+bin in Europa ‚nicht gefannten Sinne des Worts; wie ich bir
+ja fhon, durch Zufammenftelung der Moral und Religion der
+Alten mit der chriftlichen, bemerflich gemacht habe,
+
+Philalethes. Mit Recht, foweit es bie Theorie betrifft.
+aber sieh die Praxis an. Unstreitig waren, im Vergleich mit
+den folgenden christlichen Jahrhunderten, die Alten weniger grau⸗
+sam, ald das Mittelalter, mit feinen gefuchten Todesmartern und
+Scheiterhaufen ohne Zahl; ferner waren bie Alten fehr duldsam,
+hielten befonders viel auf Gerechtigkeit, opferten fih häufig fürs
+Baterland, zeigten ebelmüthige Züge jeber Art und eine fo Achte
+Humanität, dag, bis auf den heutigen Tag, die Bekanntschaft
+mit ihrem Thun und Denken. Humanitätsftudium heißt. Relis
+giondfriege, Neligionsmegeleien, Kreuzzüge, Inquifition, nebft an-
+dern Ketzergerichten, Ausrottung der Urbevölkerung Amerifa’s
+und Einführung Afrifanischer Sklaven an ihre Stelle, — waren
+Fruͤchte des Christenthums, und nichts ihnen Analoges, oder bie
+Waage Haltendes, ift bei den Alten zu finden: denn bie Sfla-
+sen ber Alten, bie familia, die vernae, ein zufriedenes, dem
+Herren treu ergebenes Gefchlecht, find von den unglüdfäligen, die
+Menfchheit anflagenden Negern der Zuderplantagen jo weit verz
+schieden, wie ihre beiberfeitigen Karben. Die allerdings tadelns⸗
+werthe Toleranz: der Päderaftie, welche man hauptsächlich ber
+Moral der Alten vorwirft, ift, gegen die angeführten chriftlichen
+Gräuel gehalten, eine Kleinigkeit, und ist solche auch bei ben
+Neueren lange nit in dem Maaße feltener geworden, als fie
+weniger zum Vorschein kommt. Kannft du, Alles wohlermogen,
+behaupten, daß durch das Christenthum die Menfchheit wirtuq
+moralisch besser geworden sei?
+
+Demopheles. Wenn der Erfolg nicht überall der Rein:
+heit und Richtigkeit der Lehre entiprochen hat; fo mag es baber
+fommen, daß diese Lehre zu edel, zu erhaben für die Menfchheit
+gewesen ift, mithin dieser das Ziel zu hoch gesteckt war: der heid⸗
+nischen Moral nachzukommen war freilich Teichter, wie eben auch
+ber mohammedanischen. Sodann fteht überall gerade das Erha-
+benfte am meiften dem Mißbrauch und Betruge offen: abusus
+optimi pessimus: daher haben denn auch jene hohen Lehren
+mitunter dem abscheulichsten Treiben und wahren Unthaten zum
+Vorwande gedient, — Der Untergang ber alten Stantseinrich-
+
+
+296 Veber Religion
+
+
+tungen aber, wie auch der Künfte und Wiflenfchaften der alten
+Welt, ift, wie gefagt, dem Eindringen fremder Barbaren zuzu-
+fchreiben. Daß danach Unmiffenheit und Rohheit die Oberhand
+gewannen und, als Folge hievon, Gewalt und Betrug sich der
+Herrichaft bemächtigten, fo daß Ritter und Pfaffen auf der
+Menfchheit Yafteten, war unausbleiblih.. Zum Theil ift es je—
+doch auch daraus erflärlich, dag die neue Religion ftatt des zeit-
+lichen, das ewige Heil fuchen lehrte, die Einfalt des Herzens
+dem Willen des Kopfes vorzog, und allen weltlichen Genüflen;
+welchen ja auch die Wissenschaften und Künfte dienen, abhold
+war. Soweit jedoch letztere fich der Religion dienfibar machten,
+wurden fie befördert und erlangten einen gewifien Flor.
+
+Philnletyes. In gar engem Bereid. Die Wiflen-
+fchaften aber waren verbächtige Gefellen und wurden ald folche
+in Schranfen gehalten; hingegen die Liebe Unwissenheit, dieses
+den Glaubenslehren so nothwendige Element, wurde forgfältig
+gepflegt.
+
+Demopheles. Und doch wurde was bie Menschheit bis
+dahin am Wissen sich erworben und in den Schriften der Alten
+niedergelegt hatte, allein durch die Geistlichkeit, zumal in den
+Klöstern, vom Untergange ‚gerettet. O, wie wäre es, nach der
+Bölferwanderung, gefommen, wenn das en. nicht kurz
+zuvor eingetreten wäre!
+
+Philalethes. Es würde wirflih eine höchst nügliche Un—
+terfuhung feyn, wenn man ein Mal, mit größter Unbefangenpeit
+und Kälte, die durch die Religionen erlangten Bortheile und bie
+durch dieselben herbeigeführten Nachteile unpartheiifh, genau
+und richtig gegen einander abzumägen verfuchte. Dazu: bebarf
+es freilich einer viel größeren Menge biftorifher und piycholos
+gifcher Data, ald und Beiden zu Gebote stehn. Afademieen
+fönnten ed zum Gegenftand einer Preisfrage machen.
+
+Demopheles. Werben fih hüten.
+
+Philalethes. Mich. wundert, dag du das sagst: denn es
+ift ein schlimmes Zeichen für die Religionen. Uebrigens aber
+giebt es ja auc Akademien, bei deren Fragen bie ftillfchweigende
+Bedingung ift, daß den Preis erhält wer am beften ihnen nad
+bem Maule zu reden versteht. — Wenn nur zunächst ein Sta-
+siötifer uns angeben könnte, wie viele Berbrechen alljährlich aus
+
+
+Ueber Religion. 297
+
+
+religiöfen Motiven tinterbleiben, und wie viele aus andern. Der
+Erfleren werden gar wenige seyn. Denn, wenn Einer sich ver-
+sucht fühlt, ein-Berbrechen zu begehn, da ift zuverläffig das Erfte
+was sich dem Gedanken daran entgegenftellt, die barauf gesetzte
+Strafe und die Wahrfcheintichfeit von ihr erreicht zu werben;
+danach aber fommt, ald das Zweite, die Gefahr für feine Ehre
+in Betracht. An diefen beiden Anftößen wird er, wenn ich nicht
+irre, Stunden lang ruminiren, ehe ihm bie religiöfen Rücksichten
+auch nur einfallen. Ist er aber über jene beiden erften Schug-
+wehren gegen bad. Verbrechen hinweggefommen; fo glaube ich,
+daß höchst felten die Religion allein ihn noch abhalten wird.
+
+Demopheles. Ich aber glaube, daß fie ed recht oft wird;
+zumal wenn ihr Einfluß. schon durch das Medium der Gewohn⸗
+heit wirft, fo daß der Menfch vor großen llebelthaten fogleich
+jzurücdbebt. Der frühe Eindrud haftet. Bedenfe, zur Erläute-
+rung, wie Diele, namentlich vom Adel, ihr gegebenes Berfpre-
+hen oft mit fehweren Opfern erfüllen, ganz allein: dadurch be—
+stimmt, daß in ber Kindheit ihnen der Bater, mit ernfter Miene,
+oft vorgefagt hat: „ein Mann von Ehre, — ober, ein gentle-
+man, — oder, ein Kavalier, — hält stets und unverbrüchlich
+fein Wort.“
+
+Philalethes. Ohne eine gewifle angeborene probitas
+wirft auch das nit. Du darfst überhaupt nicht der Neligion
+zufchreiben, was Folge der angeborenen Güte des Charafters ift,
+vermöge welcher fein Mitleid mit Dem, den das Verbrechen trefs
+fen würbe, ihn davon abhält. Dies ift das ächte moralifche
+Motiv und als folhes von allen Religionen unabhängig.
+
+Demppheled. Selbst dieses aber wirft bei dem großen
+Haufen felten ohne Einfleivung in religiöfe Motive, durch die
+ed jedenfalls verftärft wird. Jedoch auch ohne foldhe natürliche
+Unterlage verhüten „ft die religiöfen Motive für fi) allein bie
+Berbrechen: auch darf Dies ung beim Bolfe nicht wundern, wenn
+wir ja fehn, daß fogar Leute von hoher Bildung bisweilen un-
+ter dem Einfluß, nicht etwan veligiöfer Motive, denen doch im-
+mer die Wahrheit wenigstens allegorifch zum Grunde Tiegt, fon=
+bern felbft des abfurbeften Aberglaubens stehn und ihr Leben
+lang sich von ihn Ienfen lassen, 3. B. Freitags nichts unterneh-
+men, nicht zu Dreisehn am Tische figen, zufälligen ominibus
+
+
+298 | Ueber Religion.
+
+
+gehorchen, u. dgl. ın., wie viel mehr das Volk. Du vermagfl
+nur nicht genugfam, dich in die große Befchränftheit roher Gei-
+fter hineinzubenfen: es fieht darin gar finfter aus, zumal wenn,
+wie nur zu oft, ein fchlechtes, ungeredhtes, boshaftes Herz die
+Grundlage bildet. Dergleihen Menfchen, welche die Mafle des
+Geichlechts ausmahen, muß man einfimeilen Ienfen und bändi—
+gen, wie man fann, und geschähe es durch wirklich fuperftitiofe
+Motive, bis fie für richtigere und bessere empfänglich werben.
+Bon der direften Wirfung der Religion zeugt aber z. B., daß
+gar oft, namentlih in Stalien, ein Dieb das Geftohlene durch
+feinen Beichtvater zurüdftellen läßt; weil nämlich diefer folches
+zur Bedingung der Abfolution macht. Sodann denfe an ben
+Eid, bei welchem ja die Religion ben entjchiebenften Einfluß
+zeigt; fei ed nun, weil dabei der Mensch sich ausdrücklich auf
+den Standpunkt eines bloß moralifhen Wefens geftellt und
+als folches feierlich angerufen fieht, — fo scheint man es in
+Frankreich zu nehmen, wo die Eibesformel bloß ift je le jure,
+und eben fo nimmt man es mit den Duäfern, indem man ihr
+feierlihes Ya, oder Nein, ftatt des Eides gelten läßt; — ober
+fei e8, daß er wirklich an die Verwirkung feiner ewigen See-
+Yigfeit glaubt, die er dabei ausspricht, — welder Glaube auch
+dann wohl nur die Einfleidung des ersteren Gefühle ist. Je—
+benfall8 aber find die religiöfen Vorstellungen das Mittel, feine
+moralifhe Natur zu wecken und bervorzurufen. Wie oft find
+nicht zugefchobene falsche Eide zuerft angenommen, aber, wenn
+es zur Sache Fam, plögfich verweigert worben; woburd Dann
+Wahrheit und Recht den Sieg erlangten.
+
+Philalethes. Und noch öfter find falsche Eide wirklich
+gejchworen worden, wodurch Wahrheit und Recht, bei deutlicher
+Mitwiffenheit aller Zeugen des Afts, mit Füßen getreten wur-
+ben. Der Eid ift die metaphysische Efelöbrüde der Zuriften: fie
+follten fie fo felten, al8 irgend möglich, betreten. Wenn es aber
+unvermeidlich ift, da follte es mit größter Feierlichfeit, nie ohne
+Gegenwart des Geiftlichen, ja, fogar in ber Kirche, oder in einer
+dem Gerichtöhofe beigegebenen Kapelle, geschehn. In hoͤchst ver-
+dächtigen Fällen ift es zweckmäßig, fogar die Schulfugend dabei
+gegenwärtig feyn zu lassen. Die Französische abftrafte Eides-
+formel taugt, eben darum, gar nichts: das Abstrahiren yom ges
+
+
+Ueber Religion. | 299
+
+
+gebenen Pofttiven follte dem eigenen Gebanfengange eines eben,
+dem Grade feiner Bildung gemäß, überlaffen bleiben. — Inzwi—
+fhen haft du Recht, den Eid ald unleugbares Beifpiel praftifcher
+Wirffamfeit der Religion anzuführen. Daß jedoch diese auch
+außerdem weit reicht, muß ich, trog Allem was du gejagt haft,
+bezweifeln. Denfe dir ein Mal, ed würden jebt plöglich, durch
+öffentliche Proffamation, alle Kriminalgefege für aufgehoben er-
+flärt; fo glaube ich, dag weder du noch ich den Muth hätten,
+unter dem Schuß der religiöfen Motive, auch nur von hier al-
+fein nad Haufe zu gehn. Würde Hingegen, auf gleiche Weife,
+alle Religion für unwahr erklärt; fo würden wir, unter dem
+Schutze der Gesetze allein, ohne fonderfiche Vermehrung unfrer
+Beforgniffe und Vorfihtsmaaßregeln, nah wie vor Ieben. —
+Aber ich will dir mehr fagen: bie Religionen haben fehr häufig
+einen entfchieden demoralifirenden Einfluß. In jeder Religion
+nämlich fommt ed bald dahin, daß für die nächften Gegenftände
+bes göttlichen Willens nicht sowohl moralifhe Handlungen, als
+Glaube, Tempelceremonien und Latreia mancherlei Art ausgege—
+ben werben; ja, allmälig werben bie Lesteren, zumal wann fie
+mit Emolumenten der Priefter verfnüpft find, auch als Surro-
+gate der Erfteren betrachtet: Thieropfer im Tempel, oder Meffe-
+fefenlaffen, oder Errichtung von Kapellen, oder Kreuzen am
+Wege, find bald die verbienftlichften Werfe, fo daß felbft grobe
+Berbrechen burd fie gefühnt werden, wie auch durch Buße, Un—
+terwerfung ber Priefterauftorität, Beichte, Vilgerfahrten, Dona-
+tionen an die Tempel und ihre Priefter, Klofterbauten u. dal. m.,
+jo daß zuletzt die Priefter faft nur noch als die Vermittler des
+Handels mit beftechlichen Göttern erfcheinen. Und wenn es auch
+fo weit nicht fommt;' wo ist die Religion, deren Befenner nicht
+wenigstens Gebete und mancherlei Andachtsübungen für einen me-
+nigftens theifmeifen Erfat des moralifchen Wandels halten? Sieh’
+3. B. nach England, wo breifter Pfaffentrug den, von Ronftan-
+tin dem Großen, in DOppofition zum Judensabbath, eingefesten
+christlichen Sonntag dennoch mit jenem, fogar dem Namen nad),
+identifizirt, um Jehova's Satungen für den Sabbath, d. h. den
+Tag, da die von fechötägiger Arbeit ermüdete Allmacht fich aus:
+ruhen mußte, auf den Sonntag ber Chriften, diefen Tag ber
+Andacht und Freude, zu übertragen und wo demnach bas sab-
+
+ [S. 300]
+
+
+bathbreaking, oder the desacration of the Sabbath, d. h.
+jede, auch die Teichtefte, mügliche, oder angenehme Beichäftigung,
+jedes Spiel, jede Mufif, jeder Stridfirumpf, jedes weltliche Buch,
+am Sonntage, den schweren Sünden beigezählt wird, Muß ba
+nicht der gemeine Mann glauben, daß, wenn er nur allezeit,
+wie ihm feine geiftlichen Lenfer vorfagen, a striet observance
+of the holy sabbath, and a regular attendance on divine
+service beobachtet, d. hd. wenn er nur am Sonntage unverbrüd:
+lich, recht gründlich faulenzt und nicht verfehlt, zwei Stunden
+in der Kirche zu figen, um biefelbe Litanei zum taufendften Male
+anzuhören und a tempo mitzupfappern, — er bafür wohl an-
+berweitig auf Nacficht mit Diefem und Jenem, was er fich ge-
+Vegentlich erlaubt, rechnen darf? — Der demoralifivende Einfluß
+der Religionen ift alfo weniger problematifch, als der moralifi«
+rende. Wie groß und gewiß müßte hingegen nicht biefer feyn,
+um einen Ersatz zu bieten für die Gräuel, welche die Religio-
+nen, namentlich die Chriftlihe und Mohammedanische, hervorge-
+rufen und den Jammer, welchen fie über die Welt gebracht ha—
+ben! Denfe an den Fanatismus, an die endlofen Berfolgungen,
+an bie Religiondfriege, an die Kreuzzüge, bie ein zweihundert⸗
+jähriges, ganz unverantwortliches Gemegel, mit dem Feldgefchrei
+„Bott will e8”, waren, um das Grab Deflen, der Liebe und
+Duldung gepredigt hat, zu erobern; denke an die Bluthochzeiten,
+an die Inquifitionen, und andern Kegergerichte, nicht weniger
+an bie blutigen und großen Eroberungen der Mohammedaner
+in drei Welttheilen; dann aber auch an die der Chriften in
+Amerifa, dessen Bewohner fie größtentheils, auf Kuba fogar gänz-
+lich, ausgerottet und, nad) Las Casas, binnen 40 Jahren, zwölf
+Millionen Menfchen gemordet haben, verfteht sich Alles in majo-
+rem Dei gloriam und zum Behuf ber Verbreitung des Evange-
+liums und weil überdies was nicht Chrift war auch nicht als Mensch
+angefehn wurde. Zwar habe ich diefe Dinge schon vorhin berührt:
+aber wenn noch in unfern Tagen „Neuefte Nachrichten aus dem
+Reiche Gottes’ *) gedruckt werden, wollen auch wir nicht müde
+werden, biefe älteren Nachrichten in Erinnerung zu bringen. Be:
+fonders laß uns Indien nicht vergeflen, biefen heiligen Boben,
+
+
+*) Zeitfchrift, welche über die Leitungen der Missionen berichtet.
+
+
+Meber Religion. 304
+
+
+biefe Wiege des Menfchengefchlechts, wenigstens der Naffe, wel-
+cher wir angehören, mwofelbft zuerft Mohammedaner und nachher
+Ehriften auf das Gräuelichfte gegen die Anhänger des heiligen
+Urglaubend der Menfchheit gewüthet haben und die ewig befla-
+genswerthe, muthwillige und graufame Zerftörung und Verun⸗
+Raltung urältefter Tempel und Götterbilder noch jet die Spu—
+ten des monotheiftiichen Wüthens der Mohammedaner ung vor-
+hält, wie ed von Mahmud dem Ghazneviden, verfluchten An-
+denkens, an, bis zum Aureng-Zeb, dem Brudermörber, herab,
+betrieben wurde, welchen nachher es gleich zu thun die portugie-
+sischen Chriften fich treulich bemüht haben, sowohl durch Tem-
+pelzerstoͤrungen als durch Autos de Fe der Inquisition zu Goa.
+Auch das auserwählte Volk Gottes laß uns nicht vergeflen, wel-
+des, nachdem es, in Aegypten, auf Jehova's ausdrüdlichen Spe—
+cial⸗Befehl, feinen alten, zutrauensvollen Freunden die bargelie-
+henen goldenen und filbernen Gefäße geftohlen hatte, nunmehr,
+den Mörber Mofes an der Spite, feinen Raubzug ins gelobte
+Land antrat, um, auf deffelben Jehova's Befehl, unter Rauben
+und Morden, es den rechtmäßigen Befisern zu entreißen, — weil
+fie eben nicht befchnitten waren und den Jehova nicht Fannten,
+welches Grund genug war, alle Gräuel gegen fie zu rechiferti-
+gen; wie ja, aus demfelben Grunde, auch früher die infame
+Schurferei des Patriarchen Jakob und feiner Auserwählten ge-
+gen Hemor, den König von Salem und fein Volk uns (1. Mof.
+34) ganz glorreich erzählt wird, weil ja eben die Leute Ungläu-
+bige waren. Wahrlich Dies ift die schlimmste Seite der Neli-
+gionen, daß die Gläubigen einer jeden gegen die aller andern
+fih Alles erlaubt halten und daher mit der Außerften Ruchlofig-
+feit und Graufamfeit gegen fie verfahren: jo die Mohammeda-
+ner gegen Chriften und Hindu; die Chriften gegen Hindu, Mo—
+hammedaner, amerifanifche Bölfer, Neger, Zuden, Keser u. . f.
+Doch gehe ich vieleicht zu weit, wenn ich fage alle Religionen:
+denn, zur Steuer der Wahrheit muß ich hinzufügen, daß bie aus
+diefem Grundfag entfprungenen fanatifchen Gräuel ung eigentlich
+doch nur von den Anhängern dev monotheiftifchen Religionen,
+alfo allein des Judenthums und feiner zwei Verzweigungen,
+Christenthum und Islam, befannt find. Bon Hindu und Bub-
+dhaisten wird Dergleichen. und nicht berichtet, Obwohl wir
+
+
+R
+
+
+302 | Ueber Religion.
+
+
+nämlich willen, daß ber Bubbhaismug, etwan im ten Jahrhun⸗
+bert unfrer Zeitrechnung, aus feiner urfprünglichen Heimath, der
+vorderften Halbinfel Indiens, von den Brahmanen vertrieben
+worben ift, wonach er fi) über ganz Asien ausgebreitet hat; fo
+baben wir doc, meines Willens, Feine befiimmte Runde von Ge-
+waltthätigfeiten, Kriegen und Graufamfeiten, durch Die es ger
+schehn wäre. Allerdings mag Dies der Dunkelheit zuzufchreiben
+seyn, in welche die Geschichte jener Länder gehüllt ist: doch läßt
+der überaus milde Charakter jener, Schonung alles Lebenden
+unaufbörlich einprägenden Religionen, wie auch- der Umftand,
+daß der Brahmanismus, wegen des Kastenwesens, eigentlich
+keine Proselyten zuläßt, uns hoffen, daß ihre Anhänger von
+Blutvergießen im Großen und Grausamkeiten jeder Art sich frei
+gehalten haben. — Auf die Hauptsache zurückzukommen; so hast
+du gewiß Recht, das starke metaphysische Bedürfniß des Men—
+schen zu urgiren: aber die Religionen scheinen mir nicht sowohl
+die Befriedigung, als der Mißbrauch desselben zu seyn. Wenig-
+stens haben wir gesehn, daß in Hinsicht auf Beförderung der
+Moralität ihr Nutzen großentheils problematisch ist, ihre Nach—
+theile hingegen und zumal die Gräuelthaten, welche in ihrem
+Gefolge sich eingestellt haben, am Tage liegen. Anders freilich
+stellt sich die Sache, wenn wir den Nutzen der Religionen als
+Stützen der Throne in Erwägung ziehen: denn sofern diese von
+Gottes Gnaden verliehen sind, stehn Altar und Thron in genauer
+Verwandtschaft. Auch wird demnach jeder weise Fürst, der fei-
+nen Thron und feine Familie Liebt, stets als ein Mufter. wah—
+rer Religiofität feinem Bolfe vorangehn; wie benn auch fogar
+Macchiavelli den Fürften die Neligiofität dringend anempfiehlt;
+im 18ten Kapitel. Ueberdies könnte man anführen, daß die
+genffenbarten Religionen zur Philofophie fid) gerade fo verhiel-
+ten, wie bie Souveräne von Gottes Gnaden zur Souveränität
+des Volkes; weshalb denn. die beiden vordern Glieder dieser
+Gleichung in natürlicher Allianz ständen.
+
+Demopheles. O, nur diesen Ton stimme mit ant
+Sondern bebenfe, daß du damit in bad Horn der Ochlofratie
+und Anardie stoßen würdest, des Ersfeinbes aller —
+Ordnung, aller Civilisation und aller Humanität.
+
+Philalethes. Du hast Recht. Es waren eben Sophie:
+
+
+Rx
+
+
+Ueber Religion. 803
+
+
+men, ober was bie Fechtmeifter Saubiebe nennen. Ich nehme
+ed also zurüd, Aber sieh, wie doch das Disputiren mitunter
+auch den Redlichen ungerecht und boshaft machen fann. Laß
+uns also abbrechen.
+
+Demopheles. Zwar muß ich, nad) aller angewandten
+Mühe, bedauern, deine Stimmung in Hinficht auf die Religionen
+nicht geändert zu haben: dagegen aber kann auch ich Dich verfi-
+dern, daß Alles, was bu vorgebradt haft, meine Ueberzeugung
+vom hohen Werth und der Notbwendigfeit berfelben durchaus
+nicht erfehlittert hat.
+
+Philalethes. Das glaube ich dir:
+
+
+A man convine’d against his will
+Is of the same opinion still. °)
+
+
+Aber ich tröfte mich damit, daß bei Kontroverfen und Mineral-
+bädern die Nachwirkung erft die eigentliche ift.
+
+Demopheles. So wünsche ich dir eine gefegnete Nach—
+wirfung.
+
+Philalethes. : Könnte sich vielleicht einftellen, wenn mir
+nur, nicht. wieder ein fpanifches Sprichwort auf dem Magen läge.
+
+Demopheles. Und das lautet?
+
+Philalethes. Detras de la eruz estä el Diablo.
+
+Demopheles. Zu deutsch, Spaniard!
+
+Philalethes. Aufzuwarten! — „Hinterm Kreuze fleht
+ber Teufel.”
+
+$. 175.
+Glauben und Wissen.
+
+Die Philofophie hat, als eine Wissenschaft, es durchaus
+nit damit zu thun, was geglaubt werben foll, oder darf;
+fondern bloß damit, was man wiffen fann. Sollte nun Die-
+ses auch etwas ganz Anderes feyn, ald was man zu glauben
+bat; fo wäre felbft für den Glauben dies fein Nachtheil: denn
+dafür ift er Glaube, daß er lehrt was man nicht wiffen Fann.
+Könnte man ed wissen; fo würde der Glaube ald unnütz und
+lächerlich daftehn; etwan wie wenn binfichtlich der Mathematif
+eine Glaubenslehre aufgeftellt würde.
+
+
+*) Mer überzeugt wird wider Willen
+Bleiht feiner Meinung doch im Stillen.
+
+
+304 | ueber Religion.
+
+
+Hiegegen ließe fih nun aber einwenden, daß zwar ber
+Glaube immerhin mehr, und viel mehr, als die Philosophie leh—
+ren könne; jedoch nichts mit den Ergebniflen biefer IUnvereinba-
+res: weil nämlich das Wissen aus einem härteren Stoff if, als
+ber Glaube, fo daß, wenn fie gegen einander ftoßen, diefer bricht.
+
+Jedenfalls find Beide von Grund aus verschiedene Dinge,
+bie, zu ihrem beiberfeitigen Wohl, streng gefchieden bfeiben müs—
+fen, fo daß jedes feinen Weg gehe, ohne vom andern auch nur
+Notiz zu nehmen.
+
+
+8. 176,
+Offenbarung.
+
+Der ift nur noch ein großes Kind, welcher im Ernft benfen
+fann, daß jemals Wefen, die feine Menfchen waren, unferm Ge⸗
+Schlecht Aufichlüffe über fein und der Welt Dafeyn und Zweck
+gegeben hätten. Es giebt Feine andere Offenbarung, als die
+Gedanfen der Weifen; wenn auch diese, dem Loofe alles Menfch-
+lichen gemäß, dem Irrthum unterworfen, auch oft in wunderliche
+Allegorien und Mythen eingefleibet find, wo fie dann Religionen
+heigen. Insofern ift es alfo einerlei, ob Einer im Verlaß auf
+eigene, oder auf fremde Gebanfen, lebt und ftirbt: denn immer
+find es nur menfchlihe Gedanfen, denen er vertraut, und mensch⸗
+liches Bedünfen. Jedoch haben die Menfchen, in der Regel, bie
+Schwäche, lieber Andern, welche übernatürlihe Quellen vorge-
+ben, als ihrem eigenen Kopfe zu trauen. Fassen wir nun aber
+die fo überaus große intellektuelle Ungleichheit zwifchen Mensch
+und Menih ins Auge; jo könnten allenfalld wohl die Gedan-
+fen des Einen dem Andern gewilfermaaßen ald Offenbarungen
+gelten. — |
+
+Hingegen das Grundgeheimnig und die Urlist aller Pfaffen,
+auf der ganzen Erde und zu allen Zeiten, mögen fie brahmani-
+he, oder mohammedanifche, bubbhaiftifche, oder hriftliche feyn,
+ift Folgendes. Sie haben die große Stärfe und Unvertilgbarfeit
+bes metaphyfifchen Bebürfniffes des Menfchen richtig erfannt und
+wohl gefaßt: nun geben fie vor, die Befriedigung beffelben zu
+befigen, indem das Wort des großen Räthsels ihnen, auf außer-
+ordentlichem Wege, direft ‚zugefommen wäre. Died nun ben
+Menihen Ein Mal eingerebet, können fie solche leiten und be-
+
+
+Ueber Religion. 305
+
+
+bereichen, nach Herzenslust. Won den Regenten gehn daher die
+flügeren eine Allianz mit ihnen ein: die andern werben felbft
+
+
+von ihnen beberrfcht.
+
+
+$. 177.
+Weber das Ehriftenthum.
+
+Um über daffelbe gerecht zu urtheilen, muß man auch be-
+taten was vor ihm dawar und von ihm verdrängt murbe.
+Zuvoörderst das Griechifch-Römifche Heidenthum: ald Volfd-Me-
+taphysik genommen, eine höchst unbedeutende Erfcheinung, ohne
+eigentliche, beflimmte Dogmatif, ohne entfchieden ausgesprochene
+Ethik, ja, ohne wahre moralifhe Tendenz und ohne heilige Ur-
+funden; fo daß es Faum ben Namen einer Religion verbient,
+vielmehr nur ein Spiel der Phantafie und ein Machmwerf ber
+Dichter aus Vollsmährchen ift, zum beften Theil eine augenfäl-
+lige Berfonififation der Naturmächte. Man kann fih kaum den-
+fen, daß es mit dieser Findifchen Religion jemald Männern
+Ernft gewefen fei: dennoch zeugen bievon mande Stellen ber
+Alten, vorzüglich ‚das erfte Buch des Valerius Marimus. In
+frätern Zeiten und bei fortgefchrittener Philofophie war biefer
+Ernft freilich verschwunden; wodurch es dem Christenthum mög-
+lich wurde, jene Staats-Religion, trotz ihrer äußern Stützen, zu
+verdrängen. Daß jedoch dieselbe, sogar in der besten Griechi—
+schen Zeit, keineswegs mit dem Ernst genommen worden sei, wie
+in der neuern bie Christliche, oder in Asien die Buddhaistische,
+Brahmanifche, oder auch die Mohammedanische, daß mithin ber
+Polytheismus der Mten etwas ganz Anderes gemefen fei, als
+der bloße Plural’ des Monotheismus, bezeugen genugfam bie
+Fröfche des Ariftophanes, in denen Dionyfos als der erbärm-
+lihfte Geck und Hafenfuß, der fih nur denfen Yäßt, auftritt und
+dem Spotte Preis gegeben wird: und Das wurde an feinem
+eigenen Fefte, den Dionyfien, öffentlich dargeftellt. — Das Zmeite,
+was das Chriftenthum zu verbrängen hatte, war das Judenthum,
+deflen plumpes Dogma durch das hriftliche fublimirt und stillschwei—
+gend affegorifirt wurde. Weberhaupt ift das Chriftenthum durchaus
+allegorischer Natur: denn was man in profanen Dingen Allegorie
+nennt beißt bei den Religionen Myfterium. Man muß zugeben,
+daß das Christenthum, nicht nur in der Moral, mo bie — von
+
+II 2
+
+
+306 Usher Relighen
+
+
+der Caritas, Berföhnlichfeis, Feindesliebe, Refignation und. Ber-
+leugnung des eignen Willens ihm, — verfieht fih, im Decident, —
+ausfchließlich eigen find, fondern felbft in der Dogmatif, jenen
+beiden frühern Religionen weit überlegen if. Was aber läßt
+dem großen Haufen, welder die Wahrheit unmittelbar zu faflen
+denn doc unfähig ift, sich Besseres geben, als eine schöne Alfe-
+gorie, die als Leitfaden für das praltische Leben und ald Anfer
+des Troftes und der Hoffnung. vollfommen ausreicht, Einer fol-
+chen aber ift eine kleine Beimischung von Abjurbität ein noth⸗
+wendiges Ingrediens, indem es zur Andeusung. ihrer allegorifchen
+Natur dient. Berfteht man die Chrifilide Dogmatik, sensu
+proprio; fo. behäkt Voltaire Net. Hingegen allegorisch genom—
+men, ift fie ein beiliger Mythos, ein Vehikel, wmittelft dessen dem
+Bolfe Wahrheiten beigebracht werben, bie ihm fonft durchaus
+unerreihbar wären. Man fünnte diefelbe den Arabesken von
+Raphael, wie auch denen von Runge, vergleichen, welche das
+handgreiflich Widernatürliche und Unmögliche darfiellen, aus Denen
+aber dennoch) ein tiefer Sinn fpricht. Sogar die Behauptung der
+Kirche, daß, in den, Dogmen ber. Religion die Vernunft völlig
+infompetent, blind und verwerflich fei, befagt im innersten Grunde
+Dies, daß diese Dogmen allegorifcher Natur und daher nicht
+nad. dem Maaßstabe, welden die Vernunft, die Alles sensu
+proprio nimmt, allein anlegen fann, zw beurtheifen feien. Die
+Abfurbitäten im Dogma find chen, das Stämpel und Abzeichen
+bes Allegorifhen. und Mythischen; obwohl fie, im; vorliegenden
+Falle, daraus entipringen, daß. zwei so heterogene: Lehren, wie
+die des A. T. und. N. T. zu verknüpfen waren. Gene große
+Allegorie ift erst allmälig zu Stande gefommen, auf Anlaß äu—
+ßerer und, zufälliger Umstände, mittelft Auslegung, derfefben, uns
+ter dem. ftilfen Zuge, tief. Yiegender, nicht: zum. deutlichen Bewußt⸗
+seyn gebrachter Wahrheit, bis fie vollendet wurde durch Augn-
+stinus, ber in ihren. Sinn am, tiefften, eindrang, und sodann fie
+als. ein fyftematifches Ganzes aufzufalien und das Fehlende zu
+ergänzen vermochte. Demnach ist erft die Augustinische, auch
+von Luther. befräftigte. Lehre das vollfommene Chriftenthum, nicht
+aher,. wie, die heutigen, Proteftanten, die „Offenbarung sensu
+proprio nebmend, und. daher auf Ein, Individuum befrbränfend,
+meynen, das Urchristenthum; — mie nit ber Keim, fonbern
+
+
+Weber Religion. 307
+
+
+bie Frucht das: Genießbare if. — Jedoch der schlimme Punkt
+für alle Religionen bleibt immer, daß fie nicht: eingeftändrich,
+jondern: nur versteckterweise, allegorisch seyn bürfen und demnach
+ihre Lehren, alles Ernftes, ald sensu proprio wahr, vorzutra=
+gen haben; was bei den wesentlich erforderten Abfurbitäten in
+denselben ‚einen fortgefegten Trug herbeiführt und ein großer
+Uebelftand if. Ja, was. noch fchlimmer if, mit der Zeit Fommt
+es an den Tag, daß fie sensu proprio nicht wahr find: dann
+gehn fie zu Grunde, Snfofern wäre es besser, die allegorifche
+Natur gleich einzugeflehn. Allein, wie foll man dem Volke bei-
+bringen, daß etwas zugleich wahr und nicht wahr feyn könne?
+Da wir num aber alle Religionen, mehr ober weniger, von fol-
+der Beichaffenheit finden; fo müflen wir anerfennen, daß bem
+Menschengeschlechte das Absurde, in gewissem Grabe, angemeflen,
+ja, ein Lebendelement und bie Täufchung ihm unentbehrlich ift;
+— wie Dies auch andere Erfiheinungen beftätigen.
+
+Ein Beifpiel und Beleg zu der oben erwähnten, aus ber
+Verbindung des A. und N. T. entfpringenden Duelle des Ab-
+surden, liefert uns, unter Anderm, die Christliche, von Augusti⸗
+nud, diefem Leitfterne Luther's, außgebildete Lehre von der Prä-
+deftination und Gnade, der zufölge Einer vor dem Andern die
+Gnade. eben voraus hat, welche sonach auf ein, bei der Geburt
+erhaltenes und fertig auf die Welt gebrachtes Privilegium, und
+zwar. in der. 'allerwichtigften Angelegenheit, hinausläuft. Die
+Anstößigkeit und Abfurbität Hievon entfpringt aber bloß aus der
+Atteftamentlichen Borausfegung, dag der Mensch das Werf ei-
+ned fremden Willens und von diefem aus dem Nichts Hervor-
+gerufen fei: Hingegen erhält, — im Hinblid darauf, daß
+die Achten moralifchen Vorzüge: wirklich angeboren find, — bie
+Sache schon eine ganz andere und vernünftigere Bedeutung, un-
+ter der Brahmanischen und Buddhaistischen Voraussetzung ber
+Metempsychosis, nady welcher was Einer, bei’ der Geburt, also
+ans einer andern Welt, und einem früheren Leben mitbringt und
+vor den Andern voraushat, nicht ein fremdes Gnadengefchenf,
+sondern die Früchte feiner eigenen, it jener andern Welt voll-
+brachten Thaten sind — An jenes Dogma des Augustinus
+schließt fih nun aber gar noch diefes, daß aus der verberbien
+und daher der ewigen Verdammniß anheimgefallenen Mafle bes
+
+20*
+
+ [S. 308]
+
+
+Menfchengefchlechts nur höchst Wenige, und zwar. in: Folge ber
+Gnadenwahl und Prädeftination, gerecht befunden und demnach
+feelig werden, die Uebrigen aber das verdiente Berderben;calie
+ewige Höllenquaal, teifft.”) — Sensu proprio genommen wird
+hier das Dogma empörend. - Denn nicht nur läßt es, wermöge
+feiner ewigen Höllenftrafen, die Fehltritte, oder sogar den Anglau⸗
+ben, eines oft kaum zwanzigjährigen Lebens durch endlose Datan-
+len büßen; fondern ed kommt hinzu, daß diele fast allgemeine
+Berdammniß eigentlich Wirfung ber Erbjünde und alfo nothwen—
+dige Folge des erften Sündenfalles ift. Diesen nun: aberuhätte
+jedenfalls Der vorberfehn müffen, welcher die Menschen verfilid
+nicht besser, als fie find, geichaffen, dann aber ihnen eine Falle
+geftellt hatte, in die er willen mußte, baß fie gehn würben ‚ba
+Alles miteinander fein Werf war und ibm. nichts, verborgen
+bleibt. Endlich kommt nod hinzu, daß der Gott, weiber: Nach⸗
+ficht und Vergebung jeder Schuld, bis zur Feinbesliebe, vorschreibt,
+feine übt... Denn fo betrachtet ericheint in der That das ganze
+Geflecht als zur ewigen Duaal und Verdammniß geradezu be—
+fimmt und ausdrücklich geschaffen, — bis auf ‚jene: wenigen
+Ausnahmen, weldhe, durch die Gnabenwahl, gerettet werben.
+Diefe aber bei: Seite gefegt, fommt es heraus, als hätte der
+liebe Gott die Welt gefchaffen, damit der Teufel fie holen sole;
+wonach er denn viel befler getban baben würde, es seyn zu
+Yaflen. — Sp geht ed mit den Dogmen, wenn ‚man: fie: semsu
+proprio nimmt: hingegen sensu allegorico verftanden, ist alles
+Diefes noch einer, genügenden Auslegung fähig. Zunächst aber
+it, wie gefagt, das Abfurde, ja, Empörende diefer Lehre) bloß
+eine Folge des Jüdischen Theismus, mit feiner Schöpfung aus
+nichts und der damit zufammenhängenden, wirklich paraboren amd
+anftößigen Berleugnung der, natürlichen, gemwillermaaßen won
+selbst einleuchtenden und daher, mit Ausnahme der Juden, fast
+vom gefammten Menschengeschlechte, zu allen Zeiten, angenom-
+menen Lehre von der Metempfpchofe. Eben um den hieraus
+entfpringenden Foloifalen Uebelftand zu a und. das Em-
+pörende des Dogma’d zu mildern bat, im 6. Jahrhundert, Papst
+Gregor I, sehr weislich, Die win vom Purgatorio, welche im
+
+
+*) Siehe Wigger 8 a, und — S. 385,
+
+
+Ueber Religion. 309
+
+
+Wesentlichen sich schon beim Drigenes findet, ausgebildet und
+dem Kirhenglauben fürmlich einverleibt, wodurch Die Sache fehr
+gemildert und die Metempfychofe einigermaagen erfegt wird; da
+das Eine wie das Andere, einen Läuterungsproceß. giebt. In
+derfelben Abficht ift auch Die Lehre von der Wiederbringung aller
+Dinge (anoxereoreoıg rraveov) aufgeftellt worden, durch welche,
+im legten Akte der Weltfomödie, fogar die Sünder, fammt und
+fonderd, in integrum reftituirt werden. — Bloß die Proteftan-
+ten, in ihrem ftarren Bibelglauben, haben fi die ewigen Höl-
+Ienftrafen nicht nehmen lassen. Wohl befomm’s, — könnte fagen
+wer boshaft wäre: allein das Tröftliche dabei ift, daß fie eben
+auch nicht daran. glauben, fondern die Sache einstweilen auf fich
+beruhen lassen, in ihrem Herzen denfend: nun, ed wirb ja wohl
+jo schlimm nicht werben.
+
+Die an sich richtige Auguftinifche Auffaffung, von der über-
+großen Zahl der Sünder und der äußerst Fleinen der die ewige
+Seeligfeit Berbienenden, findet fih auh im Brahmanismus und
+Buddhaismus wieder, giebt aber dafelbft, in Folge der Metem-
+psychose, feinen :Anftoß, indem zwar ber erftere die endliche Er-,
+lösung (fiaal ‚emäncipation) und der lestere das Nirwana
+(Beides das Aequivalent unfrer ewigen Geeligfeit) auch nur
+höoͤchst Wenigen zuerfennt, welche jebocd nicht etwan dazu privile-
+girt, sondern mit im früheren Leben aufgehäuften Berbienften
+hen auf Die Welt gefommen find und nun auf dem felben Wege
+weitergehn. Dabei werben aber alle Uebrigen nicht in den ewig
+brennenden Hölfenpfuhl geftürzt, fondern nur in bie, ihrem Thun
+angemeflenen Welten verfest. Wer demnach die Lehrer biefer
+Religionen früge, wo und was denn jest alle jene Uebrigen,
+nicht zur ‚Erköfung Gelangten, feien, Dem würde bie Antwort
+werben: „‚fiehe um dich, hier und Dies find fie: dies ift ihr
+Tummelplas, dies ist Sanfara,:d. h. Die Welt des Berlangeng,
+der Geburt, des Schmerzes, des Alternd, der Krankheit und des
+Todes. — Verstehen wir ‚hingegen das in Rede ftehende Au-
+guftinifche Dogma, von der so Heinen Zahl der Ausermwählten
+und der fo großen ; ber ewig Verdammten, bloß sensu allego-
+rico, um: es im Sinne unferer Philofophie auszulegen; fo ftimmt
+es zu der Wahrheit, daß: allerdings ‚nur Wenige zur Berneinung
+des Willens, und dadurch zur Erlöfung yon biefer Welt gelan-
+
+ [S. 312]
+
+
+im Stih. Ich babe, von ficherer Hand, vernommen, daß ein
+proteftantifcher Prediger, von einer Thierschutzgesellschaft aufge:
+‚fordert, eine Predigt ‚gegen die Thierquälerei zu "halten, eriwi-
+bert habe, daß er, bei dem beften Willen, ed nicht fönne, weil
+bie Religion ihm feinen: Anhalt. gebe. Der Mann war ehrlich
+und hatte Recht. Der Schuß der Thiere fällt alfo den ihn
+bezweckenden Gefellichaften und der Polizei anheim, die aber
+Beide gar wenig vermögen gegen jene allgemeine Ruchlofigfeit
+des Pöhels, hier, wo es fih um Wesen handelt, die nicht Klagen
+fönnen, und mo von hundert Graufamfeiten. kaum Eine gesehn
+wird, zumal da aud die Strafen zu gelinde find. - In England
+ift, Fürzlich Prügelftrafe vorgefchlagen worden, die mir auch ganz
+angemeffen fcheint. Jedoch, was foll man. vom Pöbel erwarten,
+wenn es Gelehrte und fogar Zoologen giebt, welche, ftatt bie
+ihnen fo intim. befannte Identität des Wefentlihen in Mensch
+und Thier anzuerferinen, vielmehr bigott und bornirt genug find,
+gegen rebliche und vernünftige Kollegen, welche den Menfchen
+in die betreffende Thierflafle einreihen, oder die große Aehnlich—
+feit des Schimpanfees und Drangutand mit ihm nachweifen, zu
+polemifiren und zelotifiren. Aber wirklich empörend ift es, wenn
+der jo überaus hriftlich gefinnte und fromme Zung-Stilling,
+in feinen „Scenen aus dem Geifterreih” Bd. 2. Se. 1. ©. 15,
+folgendes Gleichniß anbringt: „plöglih schrumpfte das Gerippe
+„in eine unbefchreiblich fcheußliche, Heine Zwerggeftalt zufammen;
+„jo wie eine große Kreuzfpinne, wenn. man fie in den Brent
+„punkt eines Zündglafes bringt und nun das. eiterähnliche Blut
+„in der Glut zifcht und kocht.“ Also eine solche Schandthat hat
+biefer Mann Gottes verübt, oder ald ruhiger Beobachter mit
+angefehn, — welches, in diefem Falle, auf Eins hinausläuft; —
+ja, er bat fo wenig ein Arges daran, daß er fie ung beiläufig,
+ganz unbefangen erzählt! Das find die Wirkungen des erften
+Kapitels der Genefid und überhaupt der ganzen Zübifchen Natur:
+auffaflung. Bei den Hindu und Buddhaisten Hingegen gilt die
+Mahavakya (das große Wort) „Tat⸗twam asi“ (Died bift du)
+welches allezeit über jedes Thier auszufprechen ift, um ung bie
+Identität des innern Wesens in ihm umd und gegenwärtig zu
+erhalten, zur Richtschnur unsers Thuns. — Geht mir mit euerer
+allernollfommenften Moral.
+
+
+Ueber Religion. 313
+
+
+$. 178.
+Ueber Theismus,
+
+
+Wie der Polytheismus die Perfonififation einzelner Theile
+
+
+und Kräfte der Natur iftz fo ift der Monotheismus die der gan-
+zen Natur, — mit Einem Schlage. —
+
+Wenn ich aber fuche, mir vorftellig zu machen, daß ich vor
+einem. individuellen Wesen flände, zu dem ich fagte: „mein
+Schöpfer! ih Bin einft nichts gewesen: du aber haft mich ber-
+vorgebracht, jo daß ich jet etwas: und zwar ich bin;“ — und
+dazu noch: „ich danfe dir für biefe Wohlthat;“ — und am
+
+
+Ende gar: „wenn ich nichts getaugt habe, fo ift ift das meine
+
+
+Schuld; — fo muß ich geftehn, daß in Folge yphilofophifcher
+und Indischer Studien mein Kopf unfähig geworden ift, einen
+solchen Gedanken auszuhalten. Derfelbe ift übrigens das Gei-
+tenftüd zu dem, welchen Kant uns vorführt in der Kritif der
+reinen Bernunft (im Abfchnitt „von der Unmöglichfeit eines Fos-
+mologifhen Beweises“): „man kann fi) des Gebanfens nicht
+„erwehren, man kann ihn aber auch nicht ertragen: daß ein
+„Wesen, welches wir uns aud als das höchfte unter allen mög-
+„lichen vorftellen, gleichlam zu fich felbft fage: Sch bin von
+„Ewigfeit zu Ewigfeit, außer mir ift nichts, ohne Das, was
+„bloß durch meinen Willen etwas ift: aber woher bin ich
+„denn?“ — Beiläufig gejagt, hat fo wenig diefe letzte Frage,
+als der ganze eben angeführte Abfchnitt, die Philofopbieprofefio-
+ren feit Kant abgehalten, zum beständigen Hauptthema alles ih-
+res Philosophirens das Absolutum zu machen, db. h. ylan
+geredet, Das, was Feine Urfac hat. Das ift fo recht ein Ge—
+danfe für fie. | |
+
+
+$. 179.
+ni, A. und R, T. |
+Das Judenthum hat zum Grundcharakter Realismus und
+Dptimismug, als welche nahe verwandt unb die: Bedingun-
+gen des eigentlichen Theismus find; da dieser die materielle
+Welt für abfolut real und das Leben für ein ung gemachtes, an-
+genehmes Geschenk auögiebt. Brahmanismus und. Budbhais-
+mus haben, im Gegentheil, zum Grundcharakter Idealismus
+und Pessimismus; da fie der Welt nur eine traumartige
+
+
+IA —
+4477
+
+
+314 Ueber ‚Religion.
+
+
+Griftenz zugestehn und das Leben ald Folge unjrer Schuld be-
+trachten. In der Zendaveftalehre, welcher befanntlicd) das Juden⸗
+thum entfproffen ift, wird das peflimiftifhe Element doch noch
+durd den Ahriman vertreten. Im Judentum bat aber biefer
+nur noch eine untergeorbnete Stelle, ald Satan, welcher jedoch,
+eben wie Ahriman, auch Urheber der Schlangen, Sforpionen
+und des Ungeziefers if. Das Judenthum verwendet ihn fogleid)
+zur Nacbeflerung feines optimiftifchen Grundirxrihums, nämlich
+zum Sündenfall, der nun dag, zur Steuer ber augenfcheinlichften
+Wahrheit erforderte, peifimiftiiche Element in jene Religion
+bringt und noch der richtigste Grundgebanfe in derselben if;
+obwohl er in den Berlauf des Dafeyns verlegt, was ald Grund
+befielben und ihn vorhergängig dargeftellt werben müßte.
+
+Beiläufig fei hier, als Beftätigung des Urfprungs des Ju—
+denthums aus der Zendreligion, angeführt, daß, nad dem A. T.
+und andern Sübifchen Auftoritäten, die Cherubim flierföpfige
+Wefen find, auf welchen der Zehova reitet. (Psalm 99, 1.) Der:
+artige Thiere, halb Stier, halb Mensch, auch Halb Löwe, ber
+Beschreibung Ezechield, Kap. 1 u. 10, fehr ähnlich, finden fich auf
+den Skulpturen in Persepolis, befonders aber unter den in Moful
+und Nimrud gefundenen Affyrifchen Statuen, und fogar ift in
+Wien ein gefchnittener Stein, welder. den Drmuzd auf einem
+solchen Ochsen-Cherubim reitend darftellt: worüber das Nähere
+in den Wiener Zahrbüchern der Pitteratur, September 1833,
+Rec. der Reifen in Persien. Die ausführlihe Darlegung jenes
+Ursprungs hat übrigens geliefert 3. G. Rhode, in feinem Bude
+„Die heilige Sage bes Zendvolls.“ Dies Alles wirft Licht auf
+den Stammbaum des Jehovah.
+
+Das N. T. hingegen muß irgendwie indifcher Abftammung
+feyn: davon zeugt feine durchaus indifche, die Moral in die As—
+fefe überführende Ethik, fein Pessimismus und fein Avatar. Durch
+eben Diefe aber fteht es mit dem A. T. in entschiedenem, inner:
+lichem Widerspruch; fo daß nur die Gefchichte vom Sünbenfall
+dawar, ein Berbindungsglied, dem es angehängt werben Fonnte,
+abzugeben. Denn als jene indifche Lehre den Boden des ge-
+fobten Landes betrat, entftand die Aufgabe, die Erfenntniß ver
+Berderbniß und des Jammers der. Welt, ihrer Erlösungsbedürf—
+tigfeit und des Heils durch einen Avatar, nebft ber Moral ber
+
+
+Ueber Religion. 315
+
+
+Selbfiverleugnung und Buße — mit dem Jüdischen Monotheis⸗
+mus und feinem navız zul Aa zu vereinigen. Und es ift
+gelungen, fo gut es Fonnte, fo gut nämlich zwei fo ganz hetero-
+gene, ja, entgegengejeßte Lehren fich vereinigen ließen.
+
+Wie eine Epheuranfe, da fie der Stüße und des Anhalts
+bedarf, fih um einen roh behauenen Pfahl fehlingt, feiner Un—
+geftalt fi) überall anbequemend, fie wiedergebend, aber mit ih—
+rem Leben und Liebreiz befleivet, wodurch, ftatt feines, ein er-
+freuficher Anblick sich uns barftellt; fo Hat die aus Indischer
+Weisheit entfprungene Ehriftuslehre den alten, ihr ganz hetero-
+genen Stamm des rohen Judenthums überzogen, und was von
+feiner Srundgeftalt hat beibehalten werden müflen ift in etwas
+ganz Anderes, etwas Lebendiges und Wahres, durch fie verwan⸗
+delt: es fcheint das Selbe, ift aber ein wirflic Anderes.
+
+Der von ber Welt gefonderte Schöpfer aus Nichts ift näm—
+lich identifizirt mit dem Heiland und durch ihn mit der Mienfch-
+heit, als deren Stellvertreter diefer dafteht, da fie in ihm erlöft
+wird, mie fie im Adam gefallen war und feitdem in den Ban—
+den der Sünde, des VBerberbend, des Leidens und des Todes
+verftridt lag. Denn als alles Diefes ftellt Hier, fo gut wie im
+Buddhaismus, die Welt fih dar; — nicht mehr im Lichte des
+jübifchen Optimismus, welcher „Alles sehr schön“ (navre xade
+Asev) gefunden hatte: vielmehr heißt jet der Teufel selbst „Fürst
+biefer Welt”, — 6 apxwv rov xoguov rovsov (oh. 12, 32),
+wörtlich Weltregierer. Die Welt ift nicht mehr Zweck, fondern
+Mittel: das Neid) der ewigen Freuden liegt jenfeit derfelben
+und bes Toded. Entfagung in diefer Welt und Nichtung aller
+Hoffnung auf eine beffere ift der Geift des Chriftenthums. Den
+Weg zu einer folchen aber öffnet die Versöhnung, d. i. die Er:
+löfung von der Welt und ihren Wegen. In der Moral ift an
+die Stelle des Bergeltungsrechtes das Gebot der Feindesliche
+getreten, an die des Berfprechens zahllofer Nachkommenschaft die
+Verheißung des ewigen Lebens, und an die des Heimfuchens der
+Miffethat an den Kindern big ind vierte Glied ber heilige Geist,
+der Alles überfchattet.
+
+Sp fehn wir dur die Lehren des N. T. die des alten
+reftificirt und umgebeutet, wodurch im Innersten und Wefentfichen:
+eine Uebereinstimmung mit ben- alten: Religionen Indiens zu
+
+ [S. 316]
+
+
+Wege gebracht wird. Alles, was im Christenthum Wahres ift,
+findet fi) auch im Brahmanismus und Buddhaismus. Aber
+die jüdische Anficht von einem belebten Nichts, einem zeitlichen
+Machmwerf, welches fih für eine ephemere Eriftenz, voll Sammer,
+Angft und North, nicht demüthig genug bedanfen und den Je—
+hova dafür preifen fann, — wird man im Hinduismus und
+Buddhaismus vergeblich fuchen. Denn wie ein aus fernen tro-
+pischen Gefilden, über Berge und Ströme hergewehter Blüthen-
+Duft, ift im N. T. der Geift der Indischen Weisheit zu fpüren.
+Bom A. T. hingegen paßt zu diefer nichts, als nur der Sün—
+denfall, der eben als Korrektiv des optimiftifchen Theismus fo:
+gleich hat Hinzugefügt werben müflen und an den denn auch das
+N. €. fih anfnüpfte, ald an den einzigen ihm fich darbietenden
+Anhaltspunkt.
+
+Wie nun aber zur gründlichen Kenntniß einer Species bie
+ihres Genus erfordert ist; diefes felbft jedoch wieder nur in fei-
+nen speciebus erfannt wird; fo ift zum gründlichen Verständ—
+niß des Christenthums die Kenntniß der beiden andern meltver-
+neinenden Religionen, aljo des Brahmanigmus und Bubbhais-
+mus erforderlich, und zwar eine folide und möglichft genaue.
+Denn, wie allererfi das Sanffrit ung das recht gründliche Ver:
+ftändniß der griechischen und lateinischen Spradhe eröffnet; fo
+Brahmanismus und Buddhaismus das bes Christenthums.
+
+Ich hege fogar die Hoffnung, daß einft mit den indifchen
+Religionen vertraute Bibelforfcher fommen werben, welche die
+Berwandfhaft derjelben mit dem Chriftentyum auch durch ganz
+fperielle Züge werben belegen fünnen. Bloß verfuchsweife made
+ich einftweilen auf folgenden aufmerkfam. In der Epiftel des
+Jakobus (Jak. 3, 6.), ift der Ausdruck 6 zooxos zig yerkoewc
+(mörtlih ‚Das Rad der Entstehung“) von jeher eine crux in-
+terpretum gewefen. Im Bubbhaismus ist aber das Rab der
+Seelenwanderung ein fehr geläufiger Begriff. In Abel Re:
+müsat's Ueberfegung des Foe Koue Ki heißt es ©. 28: la
+roue est l’emblöme de la transmigration des ämes, qui
+est comme un cercle sans commencement ni fin. ©. 179
+la roue est un embleme familier aux Bouddhistes, il ex-
+prime le passage successif de l’Ame dans le cercle des
+
+
+divers medes-d’existence, &. 282 sagt ber Buddha selbst:
+
+
+Ueber Religion. 317
+
+
+qui ne connäit pas la raison, tombera.par le tour de la
+roue dans la vie et la mort. Zn Bürnouf's introduetion
+a P’histeire. du Buddhisme finden wir, Vol. 1, p. 434, die
+bebeutfame Stelle: il reconnut ce que c’est que la roue de
+la transmigration, qui porte cinq marques, qui est à la
+fois ınobile et immobile; et ayant triomph& de toutes les
+voies par lesquelles on entre dans le monde, en les de-
+truisant, etc. | | j
+
+Eine ganz äußerliche ‚und zufällige Aehnlichkeit des Bub-
+dhaismus mit dem Christenthum ist die, daß er im Lande feiner
+Entftehung nicht herrichend ift, alfo Beide fagen müflen: eo-
+ynins &v m ıdız nargıdı Tuumv ovx eye. (vates in propria
+patria honore. caret.)
+
+Wollte man, um jene Webereinfiimmung mit ben inbifchen
+Lehren zu erklären, sich in allerlei Konjekturen ergehn; fo könnte
+man annehmen, daß ber evangeliichen Notiz von der Flucht nad)
+Aegypten etwas Hiftoriiched zum Grunde läge und daß Jesus,
+von Aegyptischen Prieftern, deren Religion indifchen Urfprungs
+gemefen ift, erzogen, von ihnen bie indische Ethik und ben
+Begriff des Avatard angenommen hätte und nachher bemüht
+gewesen wäre, solche daheim ben jübiichen Dogmen anzupassen
+und fie auf.den alten Stamm zu pfropfen. Gefühl eigener mo-
+ralifcher und intelleftueller Lieberlegenheit hätte ihn endlich bewo⸗
+gen, fih felbft für ‚einen Avatar zu halten und demgemäß sich
+des Menschen Sohn zu nennen, um anzubeuten, daß er mehr,
+als ein bloßer Mensch fei. Sogar Tiefe sich denfen, daß, bei
+der. Stärfe und Reinheit feines Willend, und vermöge der All-
+macht, die überhaupt dem Willen ald Ding an fi zufommt und
+die wir. aus dem animalifchen Magnetismus und den diesem ver-
+wandten magifchen Wirkungen fennen, er auch vermocht hätte, foge-
+nannte Wunder zu thun, d. h. mittelft des metaphysischen Ein-
+fluffes des Willens zu wirfen; wobei denn ebenfalls der Unter⸗
+richt der Aegyptifchen Priefter ihm zu Statten gekommen wäre.
+Diefe Wunder hätte dann. nachher die Sage vergrößert und
+vermehrt. Denn ein eigentlihes Wunder wäre überall ein de-
+menti, welches die Natur fich felber gäbe. Inzwischen wird es ung
+nur unter Borausfegungen folder Art einigermaaßen erflärlich,
+wie Paulus, defien Hauptbriefe Doch wohl acht feyn müflen, einen
+
+
+318 Vieber Religion.
+
+
+damals noch fo kürzlich, daß noch viele Zeitgenossen desselben
+lebten, Berftorbenen ganz ernftlich als infarnirten Gott und als
+Eins mit dem Weltfchöpfer darstellen kann; indem doch fonft
+ernftlich gemeinte Apotheofen biefer Art und Größe vieler Jahr⸗
+hunderte bedürfen, um allmälig bheranzureifen.
+
+Daß überhaupt unfern Evangelien irgend ein Original, oder
+wenigftens Fragment, aus der Zeit und Umgebung Jesu selbst
+zum Grunde Tiege, möchte ich fchließen gerade aus der fo anftö-
+figen Prophezeiung des Weltendes und der glorreihen Wieder-
+fehr des Herrn in den Wolfen, welche Statt haben foll, noch
+bei Lebzeiten Einiger, die bei der Verheißung gegenwärtig wa⸗
+ren. Daß nämlich diefe Verheißungen unerfüllt geblieben, ift
+ein überaus verbrießlicher Umftand, der nicht nur in fpäteren
+Zeiten Anftoß gegeben, fondern schon dem Paulus und Petrus
+Berlegenheiten bereitet hat, welche in bes Reimarus fehr lefens⸗
+werthbem Bude „vom Zwede Jesu und feiner Jünger‘ $$. 42
+— 4A ausführlich erörtert find. Wären nun bie Evangelien,
+etwan hindert Jahre später, ohne vorliegende gleichzeitige Do-
+fumente verfaßt; fo würde man sich wohl gehütet haben, berglei-
+chen Prophezeiungen hineim zu bringen, berem fo anftößige Nicht⸗
+erfüllung damals schon am Tage lag. Eben fo wenig: würbe
+man in die Evangelien alle jene Stellen hineingebracht haben,
+aus welchen Reimarus fehr feharffinnig Das Fonftruirt, mas er
+das Erfte System ber Jünger nennt und wonach ihnen Jesus
+nur ein weltlicher Befreier der Juden war; wein nicht Die Ab-
+faffer der Evangelien auf Grumblage gleichzeitiger Dofumente
+gearbeitet hätten, bie folhe Stellen enthielten. Denn fogar eine
+bloß mündliche Tradition unter den Gläubigen würde Dinge,
+bie dem Glauben Ungelegenheiten bereiteten, haben fallen Yaflen.
+Beiläufig gefagt, Hat Reimarus unbegreiflicherweife die feiner
+Hypothese vor allen andern günftige Stelle Joh. 11, 48 über:
+sehn, imgleihen auch Matth. 27, B. 28 — 305 Auf. 23, 8. f
+— 4, 37, 38. und Joh. 19, V. 19 — 22. Wollte man aber
+diese Hypotbefe ernstlich geltend machen und burchführem; fo
+müßte man annehmen, baß der religiöfe und moraliihe Gehalt
+bes: Christenthums von alerandrinifchen, der indischen und Bud⸗
+dhaistischen Glaubenslehren fundigen Juden zufammengeftellt und
+dann eim: politifcher Held, mit: feinen traurigen Schieffale, zum
+
+
+Ueber Religion. 319
+
+
+Anfnüpfungspunft derfelben gemacht fei, indem man den urfprüng-
+lich irdischen Messias in einen himmlichen umschuf. Allerdings
+hat Dies fehr viel gegen sich. Jedoch bleibt das von Strauß
+aufgeftellte mythische Princip, zur Erflärung der evangelifchen
+Geschichte, wenigftens für die Einzelheiten derjelben, gewiß. das
+richtige: und ed wird schwer auszumachen feyn, wie weit es fich
+erfiredt. Was überhaupt ed mit dem Moythifchen für ein Ber
+wandniß habe, muß man sich an näher Yiegenden und weniger
+bebenflichen Beifpielen klar madien. So z. B. ift, im ganzen
+Mittelalter, sowohl in Frankreich, wie in England, der König
+Arthur eine. feftbeftimmte, fehr thatenveiche, wundersame, ftets
+mit gleichem Charakter und mit ber felben Begleitung auftre⸗
+tende Perfon und macht, mit feiner Tafelrunde, feinen Rittern,
+feinen unerbörten Heldenthaten, feinem wunderlichen Senefchall,
+feiner treutofen Gattin, nebft deren Lancelot vom See u. f. w.,
+dag ftehende Thema der Dichter mid Romanenfchreiber vieler
+Jahrhunderte aus, welche sämmtlich und die nämlichen Perfonen
+mit den felben Charakteren. vorführen, auch im den Begebenhei-
+ten ziemlich übereinftimmen, nur aber im Koftüme und den Sit—
+ten, nämlich nah Maaßgabe ihres jedesmaligen eigenen Zeital-
+ters, ftarf von einander abweichen. Nun hatte, vor einigen
+Yohren, das franzöfiihe Deinifterium den Herrn de fa Bille-
+margue nad: England gefandt, um den Lrfprung der Mythen
+von jenem König Arthur. zur unterfuhen. Da if, hinsichtlich des
+zum Grunde liegenden Faktifchen, das. Ergebniß gewefen, daß, im
+Anfang: des fechsten Jahrhunderts, in Wales, ein kleiner Häupt-
+ling, Namens Arthur, gelebt hat, dessen unbedeutende Thaten
+jedoch vergeflen find. Aus Dem also if, dev Himmel: weiß
+warum, eine fo: glänzende, viele: Jahrhunderte hindurch, in un-
+zähligen Liedern, Romanzen und Romanen celebrirte Person ges
+werden. Man fehe: CGontes populaires des anciens Bre-
+tons,; avee un essay; sur Vorigine:des Epopees sur la table
+ronde, par Th. de la Villemarque. 2 Vol. 1842. Ein
+anderes; Beifpiel Tiefert: der weltberühmte Cid der Spanier,
+weichen: Sagen: und Chronifen,. vor Allem aber die Vollslieder
+in: bem fo berühmten, wunberfhönen Romancero, endlich auch
+noch Corneilles beftes Traueripiel, verherrlichen und dabei auch
+in: ben Hauptbegebenheiten, namentlich: was bie Chimene bes
+
+ [S. 320]
+
+
+trifft, ziemlich übereinftimmen; während bie spärlichen histori⸗
+fhen Data über ihn. nichts ergeben, ald einen zwar tapfern
+Nitter und ausgezeichneten Heerführer, aber von fehr graufa-
+mem und treulofem, ja, feilem Charakter, bald diefer bald jener
+Partei und öfter den Saracenen, als den Ehriften dienend; bei-
+nahe. wie ein Condottiere; jedoch mit einer Chimene verheira-
+thet; wie das Nähere zu ersehn ift aus den recherches sur
+’histoire de !’Espagne par Dozy, 1849. Bd. 1., — ber
+zuerfi an bie rechte Duelle gefommen zu seyn jcheint. — Was
+mag wohl die Hiftorifche Grundlage der Zlias seyn? — Ja, um
+die Sache ganz in der Nähe zu haben, denfe man an das Hiftör-
+hen vom Apfel des Neuton, dessen Grundlosigkeit ich bereits
+oben, $. 86, erörtert habe, welches jedoch in taufend Büchern
+wiederholt worben ift; wie benn sogar Euler, im erften Bande
+feiner Briefe an die Prinzeffin, nicht verfehlt hat, ed recht con
+amore auszumalen. — Wenn es überhaupt mit aller Gefchichte
+viel auf fih haben follte, müßte unfer Gefchledht nicht ein fo
+erzlügenhaftes feyn, wie es leiber ift.
+
+
+$. 180.
+| Seften.
+
+Der Auguftinismus, mit feinem Dogma von der Erb-
+fünde und was fi daran Fnüpft, if, wie schon gefagt, das
+eigentliche und wohlverftandene Christenthum. Der Pelagianie-
+mus hingegen ift das Bemühen, das Chriftenthum zum plumpen
+und platten Judenthum und feinem Optimismus zurüdzubringen.
+
+Den die Kirche beftändig theilenden Gegensatz zwifchen Au-
+guftinismus und. Pelagianismus könnte man, als auf feinen letzten
+Grund, darauf zurüdführen, daß Erfterer vom Wefen an fid
+der Dinge, Lesterer hingegen von der Erfcheinung rebet, Die er
+jedoch für das Wefen nimmt: 3. B. der Pelagianer leugnet bie
+Erbfünde;, da das Kind, welches noch gar nichts gethan hat,
+unfhuldig feyn müsse; — weil er nicht einfieht, daß zwar als
+Erscheinung das Kind erft anfängt zu seyn, nicht aber als
+Ding an fih. Eben fo fteht es mit der Freiheit des Willens,
+dem Berföhnungstobe des Heilands, ber "Gnade, furz mit Alfem.
+— In Folge. feiner Begreiflichfeit und Plattheit herrscht der
+Pelagianismus immer vor: mehr als je aber jest, ald Ratio
+
+
+Ueber Religion. 321
+
+
+nalismus. Gemilbert pelagianifch ift die Griechische Kirche, und
+feit bem Concilio Tridentino ebenfalls die Fatholifche, die sich
+dadurch in Gegenfag zum Auguftiniich und Daher myftiich gefinn-
+ten Luther, wie auch zu Kalvin, hat ftellen wollen: nicht weniger
+find die Jesuiten femipelagianifh. Hingegen find die Sanfeniften
+auguftinifch und ihre Auffaflung möchte wohl die ächtefte Form bes
+Chriftentbums feyn. Denn der Proteftantismus ift dadurch, daß
+er das Cölibat und überhaupt die eigentliche Askese, wie auch
+deren Repräfentanten, bie Heiligen, verwarf, zu einem abge-
+stumpften, oder vielmehr abgebrochenen Chriftentbum geworben,
+als welchem die Spitze fehlt: es läuft in nichts aus.
+
+
+$. 181.
+Rationalismus,
+
+Der Mittelpunft und das. Herz des Christenthums ift bie
+Lehre vom Sünbenfall, von der Erbfünde, von der Heillofigfeit
+unferd natürlichen Zuftandes und der Verderbtheit des natürli-
+hen Menfchen, verbunden mit ber Vertretung und Versöhnung
+durch den Erlöfer, deren man theilhaft wird durch den Glauben
+an ihn. Dadurch nun aber zeigt baflelbe fih als Pessimismus,
+it alfo dem Optimismus des Judenthums, wie auch bes ächten
+Kindes bdeflelben, des Islams, gerade entgegengefeßt, hingegen
+dem Brahmanismus und Buddhaismus verwandt. — Dadurch,
+daß im Adam Alle gefündigt haben und verdammt find, im Hei-
+land Hingegen Alle erlöft werden, ift auch ausgedrüdt, daß das
+eigentliche Wefen und die wahre Wurzel des Menfchen nicht im
+Individuo liegt, fondern in der Species, welche die (platonifche)
+Idee des Menfchen ift, deren auseinandergezogene Erfcheinung
+in ber Zeit die Individuen find.
+
+Der Grundunterschied der. Religionen Yiegt darin, -ob fie
+Optimismus. oder Peffimismus find; keineswegs darin, ob Mo-
+notheismus, Polytheismus, Trimurti, Dreieinigfeit, Pantheis-
+mus, ober Atheismus (mie ber Bubdhaismus). Dieferwmegen find
+AT. und NR. T. einander diametral entgegengefegt und ihre
+Bereinigung bildet einen wunberlichen Kentauren. Das A. T.
+nämlich ift Optimismus, das N.T. Pelfimismus. jenes stammt
+eriwiefenermaaßen von der Ormuzdlehre; dieses ift, feinem in-
+nern Geifte nah, dem Brahmanismus und Buddhaismus ver-
+
+ll. 21
+
+ [S. 322]
+
+
+wandt, alfo wahrscheinlich auch Hiftorifch irgendwie aus ihnen
+abzuleiten. Jenes ift eine Mufif in Dur, diefes in Mol. Bloß
+der Sünbenfall macht im A. T. eine Ausuahme, bleibt aber un-
+benust, steht da wie ein hors d’oeuvre, bis das Chriftenthum
+ihn, als feinen allein paflenden Anfnüpfungspunft, wieder auf-
+nimmt.
+
+Allein jenen oben angegebenen Grundcharakfter des Epriften-
+thums, welchen Anguftinus, Luther und Melanchthon fehr richtig
+aufgefaßt und möglichft fpftematifirt hatten, fuchen unfere heuti-
+gen Rationaliften, in die Fußftapfen des Pelagius tretend, nach
+Kräften zu vermwifchen und binauszueregefiren, um dad Chriften-
+thum zurüdzuführen auf ein nüchternes, egoiftifches, optimiftifches
+Judenthum, mit Hinzufügung einer beflern Moral und eines
+fünftigen Lebens, als welches der Fonfequent durchgeführte Opti-
+mismus verlangt, damit nämlich die Herrlichkeit nicht fo schnell
+ein Ende nehme und der Tod, der gar zu Yaut gegen bie opti-
+miftifche Anficht schreit und wie der fteinerne Gaft am Ende
+zum fröhlichen D. Juan eintritt, abgefertigt werde. — Diele
+Rationaliften find ehrliche Leute, jedoch platte Gefellen, die vom
+tiefen Sinne des neutefiamentlihen Mythos Feine Ahndung ha-
+ben und nicht über den jüdischen Optimismus hinaus Fünnen,
+als welcher ihnen faßlich ift und zufagt. Wie weit diefe Leute
+yon aller Erfenntniß, ja, aller Ahndung des Sinned und Gei-
+fied des Christenthums entfernt find, zeigt 3. DB. ihr großer Apo⸗
+fiel Wegscheider, in feiner naiven Dogmatif, wo er, ($. 115
+nebft Anmerfungen) den tiefen Ausfprüchen Auguftins und ber
+Reformatoren über die Erbfünde und die weientliche Ververbtheit
+des natürlichen Menschen das fabe Geschwätze des Cicero in
+den Büchern de ofliciis entgegenzuftellen fi nicht entblöbet, da
+solches ihm viel befier zufagt. Man muß wirklich fi über die
+Unbefangenheit wundern, mit ber biefer Mann feine Nüchtern-
+heit, Flahheit, ja gänzlihen Mangel an Sinn für den Geift
+des Christenthums zur Schau trägt. Aber er ift nur unus e
+multis. Hat doch Brettschneider bie Erbfünde aus der Bibel
+binauseregifirt; währen Erbfünde und Erköfung die Essenz bes
+Christenthums ausmachen. — Andrerfeits ift nicht zu leugnen,
+dag die Supranaturaliften bisweilen etwas viel Schlimmereg,
+nämlich Pfaffen, im ärgften Sinne bes Wortes, find. Da mag
+
+
+Ueber Religion. 323
+
+
+nun das Christenthum fehn, wie es zwischen Skylla und Cha—
+rybdis burchfomme. Der gemeinfame Irrthum beider Parteien
+it, daß fie in der Religion die unverfchleierte, trodne, buchstäb⸗
+lihe Wahrheit fuchen. Diefe aber wird alfein in der Philofo-
+phie angeftrebt: die Religion hat nur eine Wahrheit, wie fie
+den Volle angemeflen ift, eine indirefte, eine symbolische, alle-
+goriihe Wahrheit. Das Christenthum ift eine Allegorie, bie
+einen wahren Gedanken abbildet; aber nicht ift die Allegorie an
+fh selbst das Wahre. Dies dennoch anzunehmen ift der Srr-
+thum, darin Supranaturaliften und Rationaliften übereinftimmen.
+Jene wollen die Allegorie als an fih wahr behaupten; Diefe fie
+umdeuteln und mobdeln, bis fie, jo nad ihrem Maaßftabe, an
+ih wahr feyn könne. Danach fireitet denn jede Partei mit tref-
+fenden und ftarfen Gründen gegen die andere. Die Rationali-
+fen fagen zu den Supranaturaliften: „eure Lehre ift nicht wahr”.
+Diefe hingegen zu Jenen: „eure Lehre ift fein Christenthum“.
+Beide haben Recht. Die Rationaliften glauben die Vernunft
+zum Maaßstabe zu nehmen: in der That aber nehmen fie dazu
+nur die in den Borausfegungen des Theismus und Optimismus
+befangene Vernunft, fo etwas wie Rousseau's profession de
+foi du vicaire savoyard, diefen Prototyp alles Nationalismus.
+Vom Ehriftlihen Dogma wollen fie daher nichts beftehn Laflen,
+als eben was fie für sensu proprio wahr halten: nämlich den
+Theismus und die unfterbliche Seele. Wenn fie aber dabei, mit
+der Dreiftigfeit der Unmiffenheit, an bie reine Vernunft ap-
+pelliren; fo muß man fie mit der Kritik derfelben bedienen,
+um fie zu der Einficht zu nötbigen, daß diese ihre, als vernunft-
+gemäß zur Beibehaltung ausgewählten Dogmen sich bloß auf
+einer trangicendenten Anwendung immanenter Principien bafiren
+und demnach nur einen unfritifchen, folglich unhaltbaren philofo-
+phischen Dogmatismus ausmachen, wie ihn die Kritif der reinen
+Vernunft auf jeder Seite bekämpft und ald ganz eitel nachweift;
+daher eben schon ihr Name ihren Antagonismus gegen den Ra-
+tionalismus ankündigt. Während demnach der Supranaturalis-
+mus doch allegoriiche Wahrheit hat; Fann man dem Rationalig-
+mus gar Feine zueriennen. Die Rationalisten haben geradezu
+Unrecht. Wer ein Rationalift seyn will, muß ein Philosoph
+seyn umb als folcher fih von aller Auftorität emancipiren, vor⸗
+a
+
+ [S. 324]
+
+
+wärtd gehn und vor nichts zurückbeben. Will man aber ein
+Theolog feyn; fo fei man fonfequent und verlafle nicht das Fun—
+bament der Auftorität, auch nicht wenn fie das Unbegreifliche zu
+glauben gebietet. Man kann nicht zweien Herren dienen: alfo
+entweder der Vernunft oder der Schrift. Juste milieu heißt
+bier, fi zwifchen zwei Stühlen niederlaflen. Entweder glauben,
+oder philofophiren! was man erwählt, fei man ganz. Aber glau-
+ben, bi8 auf einen gewiflen Punft und nicht weiter, und eben fo
+philofophiren, bis. auf einen gewissen Punkt und nicht weiter, —
+Dies ift die Halbheit, welche den Grundcharakter des Rationa-
+lismus ausmacht. Hingegen find Die Rationaliften moralisch ge-
+rechtfertigt, fofern fie ganz ehrlich zu Werke gehn und nur fi
+selbst täufchen; während die Supranaturaliften mit ihrer Vindi—
+eirung der Wahrheit sensu proprio für eine bloße Alfegorie
+denn doch wohl meistens abfihtlih Andere zu täujchen fuchen.
+Dennoh wird, bei dem Streben Diefer, die in der Allegorie ent-
+haltene Wahrheit gerettet; während hingegen die Rationaliften,
+in ihrer nordifchen Nüchternheit und Plattheit, diefe und mit ihr
+die ganze Essenz des Christenthums, zum Fenfter hinauswerfen,
+ja, Schritt vor Schritt, am Ende dahin fommen, wohin, vor
+80 Jahren, Boltaire im Fluge gelangt war. Dft ift es belu-
+ftigend zu fehn, wie fie, bei Feststellung der Eigenfchaften Got-
+tes (der Quidditas desselben), wo fie doch mit Dem bloßen Wort
+und Schiboleth „Gott“ nicht mehr ausreichen, forgfältig zielen,
+den juste milieu zu treffen, zwifchen einem Menschen und einer
+Naturfraftz was denn freilich schwer hält. Inzwischen reiben,
+in jenem Kampfe der Rationaliften und Supranaturaliften beide
+Parteien einander auf, wie die geharnifchten Männer aus bed
+Kadmus Saat der Drachenzähne. Dazu giebt noch der von einer
+gewiffen Seite her thätige Tartüffianismus der Sache den To-
+besftoß. Nämlich, wie man, im Karneval italiänifcher Städte,
+zwifchen den Leuten, die nüchtern und ernft ihren Gefchäften
+nachgehn, tolle Masfen herumlaufen sieht; fo jehn wir heut zu
+Tage in Deutfchland zwifchen den Philofophen, Naturforfchern,
+Hiftorifern, Kritifern und NRationaliften, Tartüffes herumfchwär-
+men, im Gewande einer schon Jahrhunderte zurückliegenden Zeit,
+und ber Effeft ift burlesf, befonders wenn fie harangiren.
+
+Die, welche wähnen, daß: bie. Wiflenfchaften immer weiter
+
+
+x
+
+
+Ueber Religion. 325
+
+
+fortfchreiten und immer mehr fich verbreiten Fönnen, ohne daß
+Died die Religion hindere, immerfort zu beftehn und zu floriren,
+— find in einem großen Irrthum befangen. Religionen find
+Kinder der Unwissenheit, die ihre Mutter nicht ange überleben.
+Dmar, Omar hat e8 verftanden, als er die Alerandrinifche Biblio:
+thef verbrannte: fein Grund dazu, daß ber Inhalt ver Bücher
+entweder im Koran enthalten, ober aber überflüffig wäre, gilt
+für albern, ift aber fehr geiheut, wenn nur cum grano salis
+verftanden, wo er alsdann befagt, daß die Wiflenfchaften, wenn
+fie über den Koran hinausgehn, Feinde der Religionen und da—
+her nicht zu dulden feien. Es ftände viel befler um das Chri-
+stenthum, wenn die Ehriftlichen Herricher fo Flug gemwefen wären,
+wie Dmar. Gebt aber ift es etwas fpät, alle Bücher zu verbren-
+nen, die Akademien aufzuheben, den lniverfitäten das pro ra-
+tione voluntas durch Marf und Bein dringen zu laffen, — um
+die Menfchheit dahin zurüdzuführen, wo fie im Mittelalter ftand.
+Und mit einer Handvoll Obffuranten ift da nichts auszurichten :
+man fieht diefe heut zu Tage an, wie Leute, die das Licht aus-
+löfhen wollen, um zu ftehlen. So ift es denn augenfcheinlich,
+dag nachgerade die Bölfer schon damit umgehn, das Joch des
+Glaubens abzufhütteln: die Symptome davon zeigen sich überall,
+wiewohl in jedem Lande anders modifizirt. Die Ursache ift dag
+zu viele Wiffen, welches unter fie gefommen if. Denn Glau-
+ben und Wilfen vertragen fi) nicht wohl im felben Kopfe: fie
+find darin wie Wolf und Schaaf in Einem Käfig; und zwar ift
+das Willen der Wolf, der den Nachbar aufzufreffen droht. —
+In ihren Todesnöthen fieht man die Religion fi) an die Moral
+anfflammern, für deren Mutter fie fi) ausgeben möchte: — aber
+mit Nichten! Aechte Moral und Moralität ift von feiner Re—
+ligion abhängig; wiewohl jede fie fanktionirt und ihr dadurch
+eine Stütze gewährt. — Zuerft nun aus den mittlern Ständen
+vertrieben flüchtet das Christenthum sich in die niedrigften, wo
+es als Konventifelmefen auftritt, und in die höchften, wo es
+Sache der Politik ift, man aber wohl bedenken follte, daß auch
+hierauf Göthe's Wort Anwendung findet:
+
+
+„So fühlt man Abficht und man ift verstimmt.“
+
+
+?
+
+
+a
+
+
+326 uUeber Religion.
+
+
+Dem Lefer wird bier die $. 174 angeführte Stelle des Condor:
+cet wieber beifallen.
+
+Der Glaube ift wie die Liebe: er läßt fih nicht erzwingen.
+Daher ift ed ein mißliches Unternehmen, ihn durch Staatsmaaß-
+regeln einführen, oder befefligen zu wollen: denn, wie der Ber-
+fuch, Liebe zu erzwingen, Haß erzeugt; fo der, Glauben zu er-
+zwingen, erfi rechten Unglauben. Nur ganz mittelbar und folg-
+lich durch lange zum voraus getroffene Anftalten fann man ben
+Glauben befördern, indem man nämlich ihm ein gutes Erdreich,
+darauf er gedeiht, vorbereitet: ein solches ift Die Unwissenheit.
+Kür diefe hat man daher in England, schon feit alten Zeiten und
+bis auf die unfrige, Sorge getragen, fo daß 3 der Nation nicht
+lefen können; daher denn auch noch Heut zu Tage daselbst ein
+Köhlerglauben herrfcht, wie man ihn außerdem vergeblich fuchen
+würde. Nunmehr aber nimmt aud dort die Regierung den
+Bolfsunterriht dem Klerus aus den Händen; wonach es mit
+dem Glauben bald bergab gehn wird. — Im Ganzen alfo geht
+das Chriftenthum feinem Ende allmälig entgegen. Inzwischen
+liege fich für dasselbe Hoffnung schöpfen aus der Betrachtung,
+dag nur solche Religionen untergehn, die Feine Urkunden haben.
+Die Religion der Griechen und Römer, diefer weltbeherrfchenden
+Bölfer, ift untergegangen. Hingegen hat die Religion des ver-
+achteten Zudenvölfchens fih erhalten: eben fo die des Zendvolks,
+bei den Gebern. Hingegen ift die ber Gallier, Sfandinaven und
+Germanen untergegangen. Die brahmanifche und buddhaistische
+aber beftehn und floriren: fie find die älteften von allen und ha—
+ben ausführliche Urkunden.
+
+$. 1822.
+
+In frühern Jahrhunderten war bie Religion ein Ward,
+hinter welchem Heere halten und fich decken konnten. Aber nad
+fo vielen Fällungen ift fie nur noch ein Bufchwerf, hinter wel-
+chem gelegentlih Gauner sich verfteden. Man hat dieferhalb
+fih vor Denen zu hüten, bie fie in Alles hineinziehn möchten,
+und begegne ihnen mit dem oben angezogenen Spridiwort: de-
+tras de la cruz esta el diablo.
+
+
+Kapitel XVi.
+Einiges zur Sanjffritlitteratun.
+
+
+$. 183.
+
+So sehr ih auch die religiöfen und philofophifchen Werke
+der Sangfrit-Litteratur verehre; fo habe ich dennoch an den poe—
+tischen nur felten einiges Wohlgefallen finden können; fogar hat
+ed mich zu Zeiten bebünfen wollen, diefe wären jo geschmacklos
+und monftrog, wie die Skulptur derfelben Bölfer. Selbft ihre
+dramatischen Werke schätze ich hauptfächlich nur wegen der fehr
+belehrenden Erläuterungen und Belege des religiöfen Glaubens
+und der Sitten, die fie enthalten. Dies Alles mag daran lies
+gen, daß Poesie, ihrer Natur nad, unüberjegbar if. Denn in
+ihr find Gedanfen und Worte fo innig und feft mit einander
+verwacfen, wie pars uterina et pars foetalis placentae; fo
+dag man nicht, ohne jene zu affiziren, diefen fremde fubftituiren
+fann. Ist doch alles Metriihe und Gereimte eigentlich von
+Haufe aus ein Kompromiß zwifchen dem Gedanfen und ber
+Sprache: dieses aber darf, feiner Natur nad, nur auf dem eige-
+nen, mütterlihen Boden des Gedanfend vollzogen werben, nicht
+auf einem fremden, dahin man ihn verpflanzen möchte, und gar
+auf einem jo unfruchtbaren, wie bie Leberfegerföpfe in der Re—
+gel find. Da nun überdies in Europa an poetischen, uns direkt
+anfprechenden Werfen fein Mangel ift, gar fehr aber an richti-
+gen metaphyfiihen Einfihten, jo bin ic der Meinung, daß die
+Ueberfeger aus dem Sanffrit ihre Mühe viel weniger der Poefie
+und viel mehr den Beben, Upanifchaden und philofophifchen Wer-
+fen zuwenden follten.

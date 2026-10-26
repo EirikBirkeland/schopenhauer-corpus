@@ -1,0 +1,349 @@
+# TIER 1 PRIMARY (published work) | German original, collected edition of 1877 | a readable printing of the collected edition, 1877
+# title: Einige Betrachtungen ueber den Gegensatz des Dinges an sich und der Erscheinung (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Some reflections on the antithesis of the thing-in-itself and appearance - the English title is this collection's rendering
+# year: 1877 printing of a work first published 1851
+# edition: Arthur Schopenhauer's saemmtliche Werke: Parerga und Paralipomena, zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), in the arrangement made by Julius Frauenstaedt; this layer does not state which edition it is, so none is claimed. Chapter IV of this volume, pages 96-103, sections 62-68 by ITS OWN numbering - which runs one ahead of the 1851 first edition, verified at six points by matching opening sentences (see the file header). Text layer scored 10.9 common words per hundred by bin/ia-read.js: readable, but it prints f for the long s, f for k and j for i here and there.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/arthurschopenha01schogoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 13, which got the FRONT of Parerga - lost in the 1851 scan, whose display headings are shredded across its first 169 pages (GAP-4) - by turning to a LATER printing whose OCR is clean. Two things to keep straight when quoting these files: the text-state is 1877, not 1851, being Frauenstaedt's arrangement and a later text; and the paragraph numbers run one ahead, so "§ 62" here is "§ 61" in the first edition. Where the same chapter exists in both printings (file 63 beside file 53) the collection holds two witnesses and says which it used. THIS FILE SETTLES A TITLE. File 53 carries the same chapter from the 1851 first edition, whose heading the OCR broke in the middle, so its record could only write "Einige Betrachtungen ueber den Gegensatz des [...] und der Erscheinung" with the missing words marked as SUPPLIED from the opening sentence. Here the heading is legible enough to read "des Dinges an sich und der Erscheinung", and this volume's own table of contents gives the same: two witnesses, so what was a guess is now a reading. The opening sentence is identical in both printings, which is how the two were paired - and it is the sixth point at which the paragraph numbering was shown to run one ahead.
+
+[Note of this collection, not part of the print: this chapter comes from the READABLE printing in Arthur Schopenhauer's saemmtliche Werke, "Parerga und Paralipomena" zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), NOT from the 1851 first edition. That is a decision with two consequences, both recorded here rather than hidden. (1) The text is the collected edition as Julius Frauenstaedt arranged it, and this printing is dated 1877 on its title page, three years after his death; the layer does not give the edition number, so none is claimed. It is a LATER text-state than files 27 and 30-52: a quotation from these files is quoted as 1877, not as 1851, and its chapter numbers follow this edition's contents, which differ from the 1851 print's. (2) ITS PARAGRAPH NUMBERS RUN ONE AHEAD of the 1851 print - verified at six points, and at each the opening sentence is the same text, so the pairing is not guessed: Dinges an sich 1851 § 61 / here § 62 (the opening sentence being identical in both, which is what proves the pairing); Pantheismus 1851 § 68 / here § 69; Farbenlehre 1851 § 103 / here § 104; Ethik 1851 § 108 / here § 109; Nichtigkeit 1851 § 142 / here § 143; Selbstmord 1851 § 157 / here § 158. Below § 61 the two printings were not compared when this note was written, so the shift is asserted only where it was verified. Anyone citing a paragraph number must say which printing it came from. This volume's own table of contents gives the chapter as Kapitel IV on pages 96-103, and its opening paragraphs as § 62; the copy's heading in this layer reads "Einige Betrahtungen über ben Gegenfak des Dinge? an [id und ber Grideimung. 8. 62. Ding am fich bebeutet ba$" - the OCR mangles the word Kapitel now and one numeral, so the number is taken from the volume's contents, not from the heading's letters. Page markers: 0 made from the volume's GENERAL running head ("Schopenhauer, Parerga. II. 12" and its garbled twins - the OCR spoils that title differently on every page, which is why it was once thrown out as a junk line and why repetition could not identify it), recovered only where the number continues the sequence within twelve pages and falls inside the contents range for this chapter (none), plus 1 from heads naming this chapter (S. 97 to S. 97). Both are recovered, neither is estimated: where the OCR lost a head there is no marker. WHAT WAS TRIED AND DECLINED, pass 18: the general head was measured before it was trusted - only 8 lines in the whole 34,746 still spell 'Parerga', and loosening the test to mere shape (a short line with a comma, ending in a figure) turns up a handful per chapter whose numbers fall OUTSIDE the pages the contents give for that chapter, so they are furniture from another gathering, not this chapter's pages. The general head is therefore recorded as NO DATA, and these files are cited by chapter, by their own paragraph numbers, and by the few chapter heads that survived. Short OCR noise lines were dropped (12); the long s is normalised to s (105 here), and this layer also prints f for k and j for i now and then, so read a quotation against the scan.]
+
+trahtungen über ben Gegenfak des Dinge?
+an [id und ber Grideimung.
+
+
+Ding am fich bebeutet ba$ unabhängig von unfrer Wahr:
+nehmung Vorhandene, alfo das eigentlich Seiende. Dies war
+bem Demofritos bie geformte Materie: das Selbe war es im
+Grunde nodj bem Lode: Kanten war 8 = x; mir Wille.
+
+Wie gänzlid Demokritos bie Sache (don in diefem Sinne
+nahm und daher an die Spite diefer Zufammenftellung gehört,
+belegt folgende Stelle aus dem Sertus Empiritus (adv. math.
+L. VII. $. 135), welcher bejfen Werke jelbft vor fid) hatte und
+meiftens wörtlih aus ihnen citirt:
+
+Arnmoxpırog de Ott [Lev AVOLpEL TO POALVOREva Tag OLOST-
+gest, xaL ToutWv Aeysı pmdev qauveosat xav aAmTerav, alla
+p.ovov xata dokay‘ aXnsSec de Ev totg OuGlv ÜMAPYSIv tO MTo-
+p.ouc eat xat xevov u. f. v. (Democritus autem ea quidem
+tollit, quae apparent sensibus, et ex iis dicit nihil ut vere
+est apparere, sed solum ex opinione; verum autem esse in
+iis, quae sunt, atomos et inane.) Ich empfehle, bie ganze
+Stelle nadjgutejen, mo dann ferner mod) vorfommt: eran pev vv
+olov £xactov sott», v ovx sOtt», Ou guvispev‘ (vere quidem
+nos, quale sit vel non sit unumquodque, neutiquam intel-
+estt- (vere scire, quale sit unum quodque, in dubio est).
+Dies Alles befagt denn bod) eben: „wir erfennen nicht bie Dinge
+nad Dem, was fie an fid) feyn mögen, fondern bloß wie fie
+ericheinen”, und eröffnet jene, vom ent[djtebenjten Materialismus
+ausgehende, aber zum Idealismus führende, mit mir fid ab.
+schließende Reihe. Eine auffallend deutlihe und beftimmte Unter
+
+
+Einige Betrachtungen über ben Gegenjag des Dinges ꝛc. [S. 97] einung, eigentlich
+jogar schon im Kant'schen Sinne, finden wir in einer Stelle des
+Porphyrius, weldhe Stobäos uns aufbewahrt Bat (Eclog. L. I,
+c. 43, Fragm. 3). Sie lautet: Ta xarmyopoupeva tov aloTm-
+ou X&t Evulov MAnTog dott TauTa, To ravım slvat ÖLarewopm-
+kivov, To neraßintov elvat etc. "Tou de Evruc Óvvog xat xo
+&0to üQectmxotoc adrov, to slvat det d» avv löpupevov'  óx-
+aytec to xata tata éystv etc.
+
+
+Wie wir von ber Erdfugel bloß bie Oberfläche, nicht aber
+die große, folide Maffe des Innern fernen; fo erfennen wir
+empirifeh von ben Dingen unb ber Welt überhaupt nichts, als
+nur ihre Erscheinung, b. t. die Oberfläche. Die genaue Kennt:
+niß biefer ijt die Physik, im weiteften Sinne genommen. Daß:
+aber diefe Oberfläche ein Inneres, weldes nicht bloß Fläche fei,
+jondern kubischen Gehalt habe, vorausfegt, ijt, nebit Schlüffen
+auf die Befchaffenheit deffelben, das Thema ber Metaphyfil.
+Nah den Gesetzen der bloßen Erfcheinung das Wefen an fid)
+jelbjt der Dinge Tonftruiren zu wollen, ijt ein Unternehmen, dem
+zu vergleichen, daß Einer aus bloßen Flächen und deren Gefeßen
+ben jtereometrijden Körper Tonftruiren wollte. Jede trans-
+jcendente bogmatifdje Philofophie ijt ein 3Bevrjud), das Ding
+an fid nad den Gesetzen der Erfcheinung zu Ffonftruiren;
+welcher ausfällt, wie der, zwei abjofut unähnliche Figuren burd)
+einander zu deden, welches ftets mißlingt, indem, wie man fie
+audj wenden mag, bald diefe, bald jene Ede hervorragt.
+
+
+Weil jegliches Wesen in ber Natur zugleich Erscheinung
+md Ding an [id oder audj natura naturata und natura
+naturans, ijt; jo ift es demgemäß einer zwiefadhen Erklärung
+fähig, einer physischen und einer metaphyfiichen. Die phy—
+fide ift allemal aus ber Ursache; bie metaphuyfiiche allemal
+aus bem Willen: denn biejer ift e8, ber in ber erfenntnißlofen
+Natur fid) darftellt als Naturfraft, höher hinauf al$ Lebens»
+Itaft, in Thier und Mensch aber den Namen Willen erhält.
+Streng genommen, wäre bemnadj, an einem gegebenen Menschen,
+
+
+98 Einige Betrachtungen über den Gegensatz
+
+
+der Grad und die Richtung seiner Intelligenz und die moralische
+Beschaffenheit seines Charakters möglicherweise auch rein physisch
+abzuleiten, nämlich erstere aus der Beschaffenheit seines Gehirns
+und Nervenfystems, nebst darauf einwirkendem Blutumlauf; letztere
+ans der Beschaffenheit und Zusammenwirkung feines Herzens,
+Gefüpfpfteme, Blutes, Lungen, Leber, Milz, Nieren, Intestina,
+Genitafia u. f. m., wozu aber freilich eine mod) viel genauert
+Senntnig der Gefee, welche den rapport du physique au moral
+regeln, als felbft Bichat unb Cabanis befaßen, erfordert wäre.
+Sodann ließe Beides fid) nod) auf die entferntere phyfifche Ur:
+fade, nämlich die Beichaffenheit feiner Eltern, zurüdführen; in
+dem bieje nur zu einem ihnen gleichen Wefen, nicht aber zu einem
+höbern und beifern, den Keim liefern konnten. Metaphysisch
+hingegen müßte der felbe Menfch erklärt werden als bie Erschei⸗
+nung feines eigenen, völlig freien und urfprüngliden Willens,
+ber den ihm angemejfenen Intellekt fid) schuf; daher denn alle
+feine Thaten, fo notfmenbig fie aud) aus feinem Charakter, im
+Konflikt mit den gegebenen Motiven, bervorgehn, und diefer wie
+ber als das Nefultat feiner Korporifation auftritt, dennoch ihm |
+gänzlich beizumeffen find. Metaphysisch ift mum aber aud) ber
+Unterschied zwischen ibm unb feinen Eltern kein abfoluter.
+
+
+Alles Berftehn ijt ein 9(ft des Borftellens, bleibt daher |
+wefent(id) auf bem Gebiete ber Vorftellung: ba nun biee
+nur Erfheinumgen fiefert, ift e& anf bie Erfcheinung beschränkt.
+Wo das Ding an fid anfängt, Hört bie Erfheinung auf,
+folglich auch die Vorftellung, und mit diefer das PVerftehn. An
+beffen Stelle tritt aber Bier da8 Seyende selbst, welches fid
+feiner bewußt wird a[8 Wille Wäre diefes Sichbewußtwerden
+ein unmittelbares; (o hätten wir eine völlig adäquate Erfenntnik
+des Dinges an fid. Weil e8 aber dadurd vermittelt ift, dab
+ber Wille den organifchen Leib und, mitteljt eines Theiles
+deffelben, fid) einen Intellekt jchafft, dann aber erft burd) biejen
+fih im Selbftbewußtfeyn ale Willen findet und erfennt; fo iit
+diefe Grfenntni& des Dinges an fich erstlich durch das darin
+[don enthaltene Auseinandertreten eines Grfennenben und eince
+Erfannten und fodann burd) die vom cerebralen Selbftbewußtfenn
+
+
+bes Dinges an fid) und ber Erfcheinung. 99
+
+
+unzertrennliche Form ber Zeit bedingt, daher alfo nicht völlig
+erihöpfend und adäquat. (Man vergleiche Diemit Kapitel 18
+im zweiten Bande meines Hauptwerks.)*“)
+
+Hieran schließt fid) bie, in meiner Schrift „über den Willen
+in der Natur’, unter der Rubrik Physische Altronomie, ©. 86
+(2. Aufl. 79; 3. Aufl. 86), dargelegte Wahrheit, bag, je deutlicher
+die Verftändlichkeit eines Vorganges, oder Verhältniffes, ijt, diefes
+deito mehr in der bloßen Erscheinung liegt unb nicht das Wefen
+an fid) betrifft.
+
+
+Wenn wir irgend ein Staturmefen, 3. 39. ein Thier, in
+jeinem Dafeyn, Leben und Wirken anfchauen und betrachten ;
+io ftebt e8, trog Allem, was Zoologie und Zootomie darüber
+lehren, al8 ein unergründliches Geheimniß vor uns. Aber follte
+denn die Natur, aus bloßer Verjtodtheit, ewig vor unjter
+
+
+*) Der Unterschied zwischen Ding an fid unb Erscheinung läßt fid) aud)
+ansdrüden als der zwifchen bem jubjeftioemn und objeftinen Wesen eines
+Tinges, Sein rein fubjeltines Wefen ift eben das Ding an fif: baffelbe
+tt aber fein Gegenítanb der GrfenntniB. Denn einem foldhen ijt e8 wesent⸗
+i, immer in einem erfennenden Bewußtseyn, als deffen Borftellung, vor⸗
+banden zu feyn: unb was bafefbít fid) darftellt, ift eben das objektive
+"een bes Dinges. Diefes ift bemnad) Gegenftanb der Erfenntniß: allein
+:8 jolher ift es bloße Borftellung, und ba e8 bie8 nur vermittelft eines
+vorftellungsapparats werben fann, ber feine eigene SBejdjaffenbeit und daraus
+tipringenbe Gesetze haben muß; fo ift es eine bloße Erscheinung, bie fid)
+at ein Ding an fid beziehn mag. Dies gilt aud) nod) ba, wo ein Selbft-
+wußtseyn, alfo ein fich felbfterfennendes Ich vorhanden ift. Denn aud)
+es erfennt fid nur in feinem Intelleft, b. i, VBorftelungsapparat, und
+zar burd) bem äußern Sinn als organifche Geftalt, durch ben innern als
+Sillen, bejfert Alte es durch jene Gejtaít jo fimultan wiederholt werben sieht,
+Ei die biejer durch ihren Schatten, woraus e8 auf bie Identität beider
+"ligt unb jolde Ich uennt. Wegen biejer zwiefachen Grfenutnifj aber, wie
+z4 wegen ber großen Nähe, in ber bier ber Syutelfeft feinem Urfprung, ober
+Sunef, dem Willen, bleibt, ift bie Erfenntmiß bes objektiven Wefens, alfo
+"t Erscheinung, bier viel weniger vom fubjektiven, aljo bem Ding an fi,
+ichieden, als bei ber Erkenntniß mittelft bes äußern Sinnes, ober dem
+-cuBtiepn von andern Dingen, im Gegenjatg bes Selbftbewußtjeyns. Diesem
+amid, sofern e8 durch bem innern Sinn allein erkennt, ffebt nur nod) bie
+jerm ber Zeit, nicht mehr bie des Raumes, an und ift, neben bem Zerfallen
+3 émbjeit unb Objelt, das Einzige, was es vom Ding an fid) tremit.
+
+
+100 Einige Betrachtungen über ben Gegenjat
+
+
+Trage verftummen? Ist fie nicht, wie alles Große, offen, mit-
+theilend unb jogar naiv? Kann daher ihre Antwort je aus einem
+andern Grunde fehlen, als weil die Frage verfehlt war, schief
+war, von falfchen Vorausfegungen ausging, oder gar einen
+Widerfpruch beherbergte? Denn, läßt e8 fid) wohl denken, bob
+e8 einen Zufammenhang von Gründen und Folgen da geben
+fünne, wo er ewig und wesentlich unentbedt bleiben mug? —
+Gewiß, das Alles nid) Sondern das Unergründliche ijt c
+barum, weil wir nad Gründen und Folgen forfchen auf einem
+Gebiete, dem diefe Form fremd ift, unb wir afjo ber Kette der
+Gründe und Folgen auf einer ganz falfchen Fährte nachgehn.
+Wir suchen nämlid das innere Wefen der Natur, welches aus
+jeder Erfcheinung uns entgegentritt, am Leitfaden des Sakes vom
+Grunde zu erreihen; — während bod) biejer bie bloße Form
+ijt, mit ber unfer Jnteffeft die Erfeheinung, b. i. die Oberfläde
+ber Dinge, auffaßt: wir aber wollen damit über bie Erfcheinung
+hinaus. Denn innerhalb diefer ijt er brauchbar und ausreichend.
+Da läßt 3. B. das Dafeyn eines gegebenen Thieres fid) er
+Hören, — aus feiner Zeugung. Diefe nämlich ift im Grunde
+nicht geheimnißvoller, al8 der Erfolg jeder andern, fogar ber
+einfachften Wirkung aus ihrer Ursache; indem aud) bei einem
+folhen die Erklärung zuletzt auf das Unbegreifliche stößt. Daf,
+bei der Zengung, ein Paar Mittelglieder des Zufammenhange
+mehr uns fehlen, ändert nichts Wefentliches: denn, aud) menn
+wir fie hätten, ftünben wir bod) am Unbegreiflichen. Altes,
+weil die Erscheinung Gr(deinung bleibt und nicht zum Dinge
+an fid) wird.
+
+Das innere Wefen ber Dinge ift dem Cat vom Grunde
+frend. Es ijt das Ding an fid), und das ijt fauterer Wille.
+Der ift, weil er will, und will, weil er ijt. Er ift in jedem
+Wesen das fchlehthin Reale,
+
+
+— Der Grunddarafter aller Dinge ift PVergänglichkeit: wir
+fehn in der Natur Alles, vom Metall bis zum Organismus,
+theil® durch fein Dafeyn felbit, tfeil8 burd) den Konflikt mit
+Anderem, (id) aufreiben unb verzehren. Wie fünnte dabei die
+Natur das Erhalten der Formen und Erneuern ber Individuen,
+
+
+be8 Dinges an fld) unb ber Erfcheinung. 101
+
+
+die zahllofe Wiederholung bes Lebensprocefjes, eine unendliche
+Zeit hindurch, aushalten, ohne zu ermüden; wenn nicht ihr eige-
+ner Kern ein Zeitlofes und dadurch völlig Unvermwüftliches wäre,
+ein Ding an fid, ganz anderer Art, als feine Erfcheinungen, ein
+allem Phyfifchen heterogenes Metaphysisches? — Diefes ijt der
+Ville in ung und in Allem.
+
+
+Wir Hagen über bie Dumfelheit, in der wir bafinfeben,
+ohne den Zufammenhang des Dafeyns im Ganzen, zumal aber
+den unsers eigenen Selbit mit dem Ganzen zu verftehn; fo daß
+nijt nur unfer Leben kurz, fondern aud) unfre Erfenntniß ganz
+auf daffelbe befchränft ift; ba wir weder über bie Geburt zurüd,
+und über den Tod Hinaus sehn fünnen, mithin unfer Bewußt-
+seyn gleichfam nur ein Blitz ijt, ber augenblidlih bie Nacht er-
+hellt; demnach es wahrlih ausfieht, a(8 ob ein Dämon heim-
+tückisch alles weitere Wilfen uns verbaut hätte, um fid) au unfrer
+Terlegenheit zu weiden.
+
+Diefe Klage ift aber eigentlich nicht berechtigt: denn fie
+entfteht aus einer Illusion, welche herbeigeführt wird durd bie
+fatjde Grunbanfidjt, bag das Ganze der Dinge von einem In—
+tt[feft ausgegangen, folglich als bloße Vorstellung bagemelen
+lei, ehe e8 wirklich geworden; wonad) es, al8 aus der Erfenntniß
+entsprungen, auch der GrfenntniB ganz zugänglich, ergründlich und
+durd fie erfchöpfbar feyn müßte. — Aber, der Wahrheit nad,
+möchte es vielmehr fidj [o verhalten, daß alles Das, was wir
+tit zu wiffen uns Deffagen, von Niemanden gewußt werde, ja,
+wohl gar am fid) felbft gar nicht wißbar, b. B. nicht vorjtefíbar,
+t Denn bie VBorftellung, in deren Gebiet alles Erkennen
+liegt und auf bie daher alles Wiffen fid) bezieht, ift nur die äußere
+dte des Dafeyns, ein Gefunbüres, Hinzugelonmenes, nämlich
+was, das nicht zur Erhaltung ber Dinge Überhaupt, aljo des
+Reltganzen, nöthig war, fonbern bloß zur Erhaltung ber ein-
+xinen tfierijdjen Wefen. Daher tritt Das Dafeyn der Dinge
+überhaupt unb im Ganzen nur per accidens, mithin febr be-
+ihtänfter Weise, in bie Grfenntnig: es bildet nur ben Hintergrund
+té Gemäldes im animalifchen Bewußtseyn, als wo bie SObjefte
+i Willens das Wefentliche find unb ben erften Rang einnehmen.
+
+
+102 Einige Betrachtungen über bem Gegensatz
+
+
+Nun entfteht zwar, mittelft diefes Accidens, bie ganze Welt m
+Raum und Zeit, b. 5. die Welt als Vorftellung, al8 welche aufer:
+halb der Erfenntniß ein derartiges Dafeyn gar nicht Bat; deren
+inneres Wefen hingegen, das an fid) Grijtivenbe, von einem solchen
+Dafeyn aber aud) ganz unabhängig ijt. Da nun alfo, wie ge
+jagt, bie Erfenntniß nur zum Behuf ber Erhaltung jedes thieri-
+iden Individui da ift; fo ift auch ihre ganze Befchaffenheit, alc
+ihre Formen, wie Zeit, Raum u. [. v. bloß auf bie Zwede eine
+jolchen eingerichtet: diefe nun erfordern bloß bie Grfenntnif von
+Berhältniffen zwifchen einzelnen Erfcheinungen, Teineswegs aber
+bie vom Wefen ber Dinge unb dem Weltganzen.
+
+fant bat nachgewiesen, daß die Probleme der Metaphyfit,
+welche Jeden, mehr ober weniger, beunruhigen, feiner direkten,
+überhaupt Feiner genügenden Lösung fähig feier. Dies nun aber
+beruht, im legten Grunde, darauf, daß fie ihren Urfprung in
+den Formen unfers Intellefts, Zeit, Raum und Kaufalität, haben,
+während biefer Intellekt bloß bie Beftimmung hat, dem indivi-
+duellen Willen feine Motive vorguid)ieben, b. B. bie Gegenftänd:
+feines Wollens, nebst den Mitteln und Wegen, fid) ihrer zu be
+mächtigen, ihm zu zeigen. Wird jebod) diefer Intellelt abusive
+auf das Wefen an jid) der Dinge, auf das Ganze und den Zu-
+fammenhang der Welt gerichtet; fo gebären die befagten, ihm
+anhängenden Formen des Neben, Nach und Durch) einander aller
+irgend möglichen Dinge ihm die metaphysischen Probleme, wit
+etwan vom Urfjprung und Zwed, Anfang und Ende der Welt
+und des eigenen Selbft, von der Vernichtung diefes durch den
+Tod, oder bejjen Fortdauer troß demfelben, von ber Freiheit bes
+Willens u. dgl. m. — Denken wir uns nun aber jene Formen
+ein Mal aufgehoben und dennoch ein Bewußtfeyn von ben Dingen
+vorhanden; jo würden diefe Probleme nicht etian gelöft, fondern
+ganz verihwunden jeyn und ihr Ausdrud feinem Sinn mehr
+haben. Denn fie entfpringen ganz und gar aus jenen Formen,
+mit denen e8 gar nicht auf ein Verstehn ber Welt und des Da-
+jeyns, fondern bloß auf ein Verstehn unfrer perfönlichen Zwecke
+abgejebm ift.
+
+Diefe gefammte Betrachtung nun liefert uns eine Erläute-
+rung und objektive Begründung der Kantifchen, von ihrem Ur-
+heber nur von ber jubjeftiben Seite aus begründeten Lehre,
+
+
+des Dinges an fid) umb ber Erjcheinung. 103
+
+
+bap bie Formen des Verstandes bloß von immanentem, nicht bom
+transfcendentem Gebraudhe feiern. Man könnte nämlich ftatt bejfeu
+aud (agen: der Intellekt ift phyfifch, nicht metaphysisch, b. b. mie
+er aus dem Willen, als zu bejjen Objeltivation gehörig, ent-
+sprossen ijt; fo ijt er aud) nur zu dessen Dienfte da: biejer aber
+betrifft bloß die Dinge in der Natur, nicht aber irgend etwas
+über bieje hinaus Liegendes. Jedes Thier fat (mie id) Dies im
+„Willen in der Natur‘ ausgeführt und belegt habe) feinen Intellekt
+offenbar iur zu dem Zweck, daß e$ fein Sutter anffinden und
+erlangen Fünne; wonad dann aud) das Maaß defjelben bejtimmt
+ft. Nicht anders verhält e8 (id) mit dem Menschen; nur daß
+die größere Schwierigkeit feiner Erhaltung und die unendliche
+Bermehrbarfeit feiner Bedürfniffe Hier ein viel größeres Maaß
+von Intellekt nöthig gemacht Hat. Bloß wann diefes, burd) eine
+Abnormität, nod) excedirt wird, ftellt jid) ein völlig dienjtfreier
+Ueberfhuß dar,. mefdjer, wann beträdtlih, Genie genannt
+wird. Hiedurch wird nun ein folcher Intelleft zunächjt nur recht
+objektiv: aber e8 kann dahin führen, daß er, in gemijjert Grade,
+jelbft metaphysisch werde, oder wenigftens ftrebe, c8 zu seyn.
+Denn eben in Folge feiner Objektivität wird jet die Natur felbft,
+das Ganze ber Dinge, fein Gegenftand und fein Problem. In
+ihm nämlich füngt die Natur allererit au, fid) felbit fo recht
+wahrzunehmen als etwas, welches ijt und doc aud) nicht feyn
+fónnte, oder wohl aud) anders feyn könnte; während im gc
+wöhnlihen bloß. normalen Intellekt bie Natur fid) nicht deutlich)
+wehrnimmt; wie der Müller nicht feine Mühle Hört, oder ber
+Parfümenr nicht feinen Laden riecht. Sie [djeint fid) ihm von
+jelbft zu verftehn: er ijt in ihr befangen. Bloß in gewiffen hellern
+Angenbliden wird er fie gewahr und erjdjridt beinahe darüber:
+aber e$ giebt (id) bald. Was demnach solche Jtormalfópfe in der
+Philosophie Leiften fónnen, auch menn fie haufenweife zufammen-
+kaufen, ift bald abzufehn. Wäre hingegen der Intelleft, urfprüng-
+lif und feiner Beitimmung nad, metaphysisch; jo Tónntem fie,
+beionder8 mit vereinten Kräften, die Philofophie, wie jede andere
+Biffenfchaft, fördern.

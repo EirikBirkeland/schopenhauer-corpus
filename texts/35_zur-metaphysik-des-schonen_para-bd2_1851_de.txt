@@ -1,0 +1,1529 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Zur Metaphysik des Schoenen und zur Aesthetik (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On the metaphysics of beauty and on aesthetics - the English title is this collection's rendering, and where a printed English title exists the note says so
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 344-377. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27, 30 and 31. The chapter's own display heading stands in this copy as "Kapitel XIX. Zur Metaphyfif des Schönen und Nefthetif. $. 20"; the Roman numeral in such a heading is the OCR's and may be misset, so cite the chapter by its words and its pages, not by its number.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 8, one of six chapters cut from the same volume while its map was fresh; see P-06 for the volume's chapter map and GAP-4 for what is still missing. This is where his aesthetics sit outside the WWV, including the theory of the tragedy and of the beautiful; the English counterpart in this collection was not identified this pass, so no pairing is claimed. OCR warning as in files 27, 30 and 31: this scan prints f for the long s, so search both shapes (bin/schop-grep.js -f does it) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition - the copy that also yielded files 27, 30 and 31. It prints f for the long s, sometimes b for d and x for x, and it mangles a heading or a page's first line now and then; the long s has been normalised to s (477 here). The chapter was cut between its own display heading and the next one, so the seam is the print's. Paragraph numbers stand as printed - the paragraph marks that stand at line beginnings here read § 205 to § 234, which is a guide and not a table: this OCR lifts a cross-reference to a line beginning now and then, so a paragraph number quoted from here should be seen on the scan. Page markers come only from running heads that name this chapter and whose page lies in the range the volume's heads prove (13 made, S. 344 to S. 374); where a head was garbled nothing was invented, and the chapter's page range by the table of contents is S. 344-377.]
+
+Kapitel XIX.
+Zur Metaphyfif des Schönen und Nefthetif.
+
+
+$. 205.
+
+Da ih über die Auffaffung der (Wlatonifchen) Ideen und
+über das Korrelat berjelben, das reine Subjeft des Erfennens,
+in meinem Hauptmwerfe ausführlih genug gemwefen bin, würde
+ih es für überflüffig halten, hier nochmals darauf zurüdzufom-
+men, wenn ich nicht erwöge, baß dies eine Betrachtung if, welche,
+in diefem Sinne, vor mir niemald angeftellt worden, weshalb
+ed befier ift, nichts zurüdzubehalten, was, ald Erläuterung ber-
+jelben, einft willfommen feyn Fünnte. Natürlich fee ich dabei
+jene früheren Erörterungen als befannt voraus. —
+
+Das eigentlihe Problem der Metaphyfif des Schönen läßt
+sich sehr einfach fo ausdrüden: wie ift Wohlgefallen und Freude
+an einem Gegenftande möglich, ohne irgend eine Beziehung deffel-
+ben auf unfer Wollen?
+
+Jeder nämlich fühlt, dag Freude und Wohlgefallen an einer
+Sache eigentlih nur aus ihrem Berhältnig zu unferm Willen,
+oder, wie man ed gern ausdrückt, zu unfern Zweden, entiprin-
+gen kann; fo daß eine Freude ohne Anregung des Willens ein
+Widerspruch zu seyn scheint. Dennoch erregt, ganz offenbar, das
+Schöne als solches unfer Wohlgefallen, unfre Freude, ohne daß
+ed irgend eine Beziehung auf unfre persönlichen Zwecke, also
+unfern Willen, hätte.
+
+Meine Löfung ift gewesen, bag wir im Schönen allemal
+die mefentlihen und urfprünglichen Geftalten der belebten und
+unbelebten Natur, alfo Plato's Ideen berfelben, auffaffen, und
+daß diese Auffaflung zu ihrer Bedingung ihr mweientliches Kor:
+telat, das willensreine Subjeft des Erfenneng, d. h.
+eine reine Intelligenz ohne Abfichten und Zwecke, habe. Dadurch)
+verschwindet, beim Eintritt einer ästhetischen Auffaflung, ver
+
+ [S. 344]
+
+
+Wille ganz aus dem Bewußtseyn. Er allein aber ift die Duelle
+alfer unferer Betrübniffe und Leiden. Dies ift der Urfprung
+jenes Wohlgefallend und jener Freude, welche die Auffaflung
+des Schönen begleitet. Sie beruht alfo auf der Wegnahme ber
+ganzen Möglichkeit des Leidend. — Wollte man etwan einiven-
+den, daß dann auch die Möglichkeit der Freude aufgehoben wäre;
+fo ift man zu erinnern, daß, wie ich öfter dargethan habe, das
+Glück, die Befriedigung, negativer Natur, nämlich bloß das
+Ende eines Leidens, der Schmerz hingegen das Pofitive if. Da-
+ber bleibt, beim Berfchwinden alled Wollend aus dem Bewußt⸗
+feyn, doch der Zuftand der Freude, d. h. der Abwesenheit alles
+Schmerzes, und Hier fogar der Abmwefenheit der Möglichkeit
+deflelben, beftehn, indem das Individuum, in ein rein erfennen»
+des und nicht mehr mollendes Subjeft verwandelt, fih feiner
+und feiner Thätigfeit, eben als eines folchen, doch bewußt bleibt.
+Wie wir willen, ift die Welt ald Wille die erfte (ordine
+prior) und die als Borftellung die zweite Welt (ordine
+posterior). Jene ift die Welt des Verlangens und daher des
+Schmerzes und taufendfältigen Wehes. Die zweite aber ift an
+fich felbft wesentlich schmerzlos: dazu enthält fie ein sehenswer—
+thes Schaufpiel, durchweg bebeutfam, aufs Wenigfte beluftigenv.
+Im Genuß deffelben befteht die äfthetifche Freude. — Reines
+Subjekt des Erfenneng werden, heißt, fich felbft loswerden: weil
+aber Died die Menfchen meiftens nicht fünnen, find fie zur rein
+objektiven Auffaflung der Dinge, welche die Begabung des Künft:
+lers ausmacht, in der Regel, unfähig.
+$. 206.
+
+Wenn jedoch der individuelle Wille die ihm beigegebene
+Borftellungsfraft auf eine Weile frei Yäßt und fie von dem
+Dienfte, zu welchem fie entftanden und vorhanden ift, ein Mal
+ganz bispenfirt, fo daß fie die Sorge für den Willen, oder die
+eigene Perfon, welche allein ihr natürliches Thema und daher
+ihre regelmäßige Beschäftigung ift, für jest fahren Täßt, dennoch
+aber nicht aufhört, energifch thätig zu feyn und das Anschauliche,
+mit voller Anfpannung, deutlich aufzufaflen; fo wird fie alsbald
+sollfommen objektiv, d. h. fie wird zum treuen Spiegel ber
+Dbjefte, ober, genauer, zum Medium der Objeftivation Des in
+den jedesmaligen Objekten sich darftelfenden Willens, deffen In—
+
+
+und Aesthetik. 345
+
+
+nerftes jetzt um fo vollftändiger in ihr hervortritt, als die An—
+schauung Yänger anhält, bis fie daflelbe ganz erfchöpft hat. Nur
+fo entfteht, mit dem reinen Subjekt, das reine Objeft, d. h. bie
+vollkommene Manifeftation des im angefihauten Objekt erfchei-
+nenden Willens, welche eben bie (Platonifche) Idee desselben ift.
+Die Auffaffung einer solchen aber erfordert, daß ich, bei Betrach⸗
+tung eines Objekts, wirklich von feiner Stelle, in Zeit und
+Kaum, und dadurd von feiner Individualität, abftrahire. Denn.
+diefe, allemal durch das Gefeg der Kaufalität beftimmte Stelle
+ift es, die jenes Objelt zu mir, als Individuo, in irgend ein
+Verhältniß fegt: daher wird nur unter Befeitigung jener Stelle
+das Objekt zur Idee und eben damit ich zum reinen Subjekt
+des Erfennend. Deshalb giebt jedes Gemälde, schon dadurch,
+daß es den flüchtigen Augenblick für immer firirt und fo aus
+der Zeit herausreißt, nicht das Individuelle, fondern die Idee,
+das Dauernde in allem Wechfel. Zu jener poftulirten Verände—
+rung im Subjeft und Objekt ift nun aber die Bedingung, nicht
+nur, daß die Erfenntnißfraft ihrer urfprünglichen Dienftbarkeit
+entzogen und ganz fich felber überlaflen fei, fondern au, daß
+fie dennoch mit ihrer ganzen Energie thätig bleibe, troß Dem,
+daß der natürlihe Sporn ihrer Thätigfeit, der Antrieb des Wils
+lens, jett fehlt. Hier Tiegt die Schwierigkeit, und an diefer Die
+Seltenheit der Sache; weil all unfer Denfen und Tradıten, un-
+fer Hören und Sehn, naturgemäß ftetd, mittelbar oder unmittel-
+bar, im Dienfte unferer zahlfofen, größern und Fleinern, perfün-
+lichen Zwede fteht und demnach der Wille es ift, der die Er-
+fenntnißfraft zur Bollziehung ihrer Funktion anfpornt; ohne
+welchen Antrieb fie fogleih ermattet. Auch ift die auf folchen
+Antrieb thätige Erfenntnig vollfommen ausreichend für das
+praftifche Leben, fogar auch für die Fachwissenschaften, als welche
+immer nur auf die Relationen ber Dinge, nicht auf das eigene
+und innere Wefen berfelben gerichtet find; daher auch alle ihre
+Erfenntniffe am Leitfaden des Satzes vom Grunde, diefem Ele-
+mente der Relationen, fortfchreiten. Ueberall daher, mo es auf
+Erfenntniß von Ursach und Wirkung, oder fonftigen Gründen
+und Folgen, ankommt, also in allen Zweigen der Naturwiffen-
+fhaft und der Mathematif, wie auch der Gefchichte, oder bei
+Erfindungen u. |. w., muß die gefuchte Erfenntnig ein Zwed
+
+
+—
+
+ [S. 346]
+
+
+des Willens seyn, und je heftiger er sie anstrebt, desto eher
+wird sie erlangt werden. Eben so in Staatsangelegenheiten, im
+Kriege, in Finanz⸗ oder Handelsgeschäften, in Intriguen jeder
+Art u. dgl. m. muß zuvörderst der Wille, durch die Heftigfeit
+feines Begehreng, den Intelleft nöthigen, alle feine Kräfte anju—
+firengen, um, bei ber vorliegenden Angelegenheit, allen Gründen
+und Folgen genau auf die Spur zu fommen. Ya, es ift zum
+Erftaunen, wie weit bier der Sporn des Willens einen gegebe
+nen Sntelleft über das gewöhnliche Maaß feiner Kräfte hinaus
+treiben kann. Daher eben ift zu allen ausgezeichneten Leiftun
+gen in folchen Dingen nicht bloß ein Huger, ober feiner Kopf,
+fondern aud ein energifcher Wille erfordert, als welcher alfererfi
+jenen antreiben muß, damit er sich in die mühfame, angefpannte
+und raftlofe Thätigfeit verfege, ohne welche folche nicht auszu⸗
+führen find.
+
+Ganz anders nun aber verhält es fich bei der Auffaffung des
+objektiven, felbfteigenen Wefens der Dinge, welches ihre (Platoni-
+fche) Idee ausmacht und jeder Reifung in den fchönen Künften zum
+Grunde Tiegen muß. Der Wille nämlich, welcher dort fo fürber-
+lich, ja, unerläßlih war, muß hier ganz aus dem Spiele blei-
+ben: denn bier taugt nur Das, was ber Intelleft ganz allein,
+ganz aus eigenen Mitteln Yeiftet und als freiwillige Gabe bar-
+bringt. Hier muß sich Alles von felbft machen: die Erfenntniß
+muß absichtslos thätig, folglich willenslos seyn. Denn nur im
+AZuftande des reinen Erfennens, wo dem Menfchen jein
+Wille und deffen Zwecke, mit ihm aber feine Individualität, ganz
+entrüdt find, kann diejenige rein objektive Anschauung entstehn,
+in welcher die (Platonifchen) Ideen der Dinge aufgefoßt werben.
+Eine folhe Auffaffung aber muß ed allemal feyn, melde ber
+Konception, d. i. der erften, allemal intuitiven Erkenntniß vor
+steht, die nachmals den eigenlihen Stoff und Kern, gleichiam
+die Seele eines Achten Kunstwerks, einer Dichtung, ja, eine
+wahren Bhilofophems, ausmacht. Das Unvorsätzliche, Unabfiht
+Yiche, ja, zum Theil Unbewußte und Instinktive, welches man von
+ieher an den Werfen des Genie’s bemerft hat, ift eben die
+Folge davon, daß bie Fünftlerifehe Urerkenntniß eine vom Wilen
+ganz gefonderte und unabhängige, eine willensreine, willendlolt
+a Und eben weil ber Wille der eigentliche Mensch ik, schreibt
+
+
+und Aesthetil. 347
+
+
+man jene einem von biefem verfchiedenen Wefen, einem Genius,
+zu. Eine Erfenntniß diefer Art hat, wie oft von mir erörtert
+worden, auch nicht den Sat vom Grunde zum Leitfaden, und
+it eben dadurch das Widerspiel jener erfteren.
+
+Hingegen bei der Ausführung bed Werkes, als wo bie
+Mittheilung und Darftellung des alfo Erfannten der Zweck ift,
+fann, ja muß, eben weil ein Zweck vorhanden ift, der Wille
+wieder thätig feyn: demnach herrfcht Hier auch wieder der Sag
+vom Grunde, welhem gemäß Kunftmittel zu Kunstzwecken gehö-
+rig angeorbnet werben. So, wo ben Maler die Nichtigkeit ber
+Zeichnung und die Behandlung der Farben, den Dichter die An-
+ordnung des Plans, fodann Ausdruck und Metrum befchäftigen.
+
+Weil aber der Intelleft dem Willen entiproffen ift, daher
+er objektiv sich ald Gehirn, alfo als ein Theil des Leibes, wel—
+her die Objeftivation des Willens ift, darstellt; weil demnach
+der Intellekt urfprünglih zum Dienfte ded Willens beftimmt ift;
+fo ift feine ihm natürliche Thätigfeit die der oben befchriebenen
+Art, wo er jener natürlichen Form feiner Erfenntniffe, welche der
+Sag vom Grunde ausdrüdt, getreu bleibt und vom Willen, dem
+Ursprünglichen im Menfchen, in Thätigfeit gefegt und darin erhal-
+ten wird. Hingegen ift die Erfenntniß der zweiten Art eine ihm
+unnatürliche, abufive Thätigfeit: demgemäß ift fie bedingt durch ein
+entfchieben abnormes, daher eben jehr feltenes, Uebergewicht bes
+Intellekts und feiner objektiven Ericheinung, des Gehirns, über
+den übrigen Organismus und über das Berhältniß, weldes bie
+Zwede des Willens erfordern, Eben weil dies Ueberwiegen bes
+Intellekts ein abnormes ift, erinnern die daraus entfpringenden
+Phänomene bisweilen an den Wahnfinn.
+
+Die Erfenntnig wird alfo ihrem Urfprung, dem Willen,
+bier Schon untren: auf einem andern Wege fann fie fogar fi
+wider ihn wenden; indem fie, in den Phänomenen der Heiligkeit,
+ihn aufhebt.
+
+Uebrigens ift jene rein objektive Auffaflung der Welt und
+der Dinge, welche als Urerkenntniß, jeder fünftleriichen, dichtes
+rifchen und rein philsfophiichen Konception zum Grunde Yiegt,
+sowohl ans objektiven als aus fubjeftiven Gründen, nur eine vor=
+übergebenbe, indem theils die Dazu erforderte Anfpannung nicht an⸗
+halten fann, theif der Lauf ber Welt nicht erlaubt, Daß wir durch⸗
+
+ [S. 348]
+
+
+weg, wie der Philofoph nach der Definition des Pythagoras,
+ruhige und antheilsiofe Zufchauer darin bleiben, fondern jeder
+im großen Marionettenfpiel des Lebens doch mitagiren muß und
+faft immer den Draht fühlt, durch welchen auch er damit zufam-
+menhängt und in Bewegung gejegt wird.
+
+
+$. 207.
+
+Was nun aber das Objektive folcher äfthetifchen Anschauung,
+alfo die (Platonische) Idee betrifft; fo läßt diefe fich befchreiben
+als Das, was wir vor ung haben würden, wenn die Zeit, diese
+formale und fubjeftive Bedingung unferd Erfenneng, weggezogen
+würde, wie das Glas aus dem Kaleidoffop. Wir fehn 3. B.
+die Entwidelung von Knospe, Blume und Frucht, und erflaunen
+über die treibende Kraft, welche nie ermüdet, diese Reihe von
+Neuem durchzuführen. Diefes Erftaunen würde wegfallen, wenn
+wir erfennen fönnten, daß wir, bei allem jenem Wechfel, doch
+nur die eine und unveränderliche dee der Pflanze vor und ha-
+ben, welche aber als eine Einheit von Knospe, Blume und Frucht
+anzuschauen wir nicht vermögen, fondern fie mittelft der Form ber
+Zeit erfennen müffen, wodurch unferm Intelleft die dee aus—
+einandergelegt wird, in jene fucceffiven Zuftände.
+
+
+$. 208.
+
+Wenn man betrachtet, wie sowohl die Poefie, ald auch die
+bildenden Künfte zu ihrem jedesmaligen Thema ein Indivi—
+duum nehmen, um folches, mit allen Eigenthümlichfeiten feiner
+Einzelnheit, bis auf die geringfügigften herab, mit forgfältigfter
+Genauigfeit, und barzuftellen; und wenn man dann zurüdfieht
+auf die Wiffenfchaften, die mittelft der Begriffe arbeiten, deren
+jeder zahllose Individuen vertritt, indem er das Eigenthümliche
+der ganzen Art verjelben, ein für alle Mal, beftimmt und be-
+zeichnet; — fo Fönnte, bei diefer Betrachtung, das Treiben der
+Kunft und geringfügig, Heinlih, ja, faft kindisch vorkommen.
+Allein das Wefen der Kunft bringt ed mit fih, daß ihr Ein
+Fall für Taufende gilt, indem was fie durch jene forgfältige und
+ind Einzelne gehende Darftellung des Individuums beabfichtigt,
+die Offenbarung der Idee feiner Gattung ist; fo daß z.B. ein
+Borgang, eine Scene des Menfchenlebeng, richtig und vollftän-
+dig, also mit genauer Darftellung der barin verwirfelten Indivi⸗
+
+
+* a
+
+
+ur
+
+
+and. Nefthetif. 349
+
+
+duen, gefchilbert, die Idee der Dienfchheit felbft, von irgend einer
+Seite aufgefaßt, zur deutlichen und tiefen Erfenntniß bringt.
+Denn, wie der Botanifer aus dem unendlichen Reichtum ber
+Pflanzenwelt eine einzige Blume pflüdt, fie dann zerlegt, um
+uns die Natur der Pflanze überhaupt daran zu bemonftriren ;
+fo nimmt der Dichter aus dem endlofen Gewirre des überall in
+unaufhörlicher Bewegung dahineilenden Menschenlebens eine ein-
+zige Scene, ja, oft nur eine Stimmung und Empfindung heraus,
+um ung daran zu zeigen, was das Leben und Wefen des Menfchen
+sei. Dieferhalb jehn wir die größten Geifter, Shafefpeare und
+Göthe, Raphael und Rembrand, es ihrer nicht unwürdig erach⸗
+ten, ein nicht ein Mal hervorragendes Individuum, in feiner
+ganzen Figenthümlichfeit bis auf das Kleinfte herab, mit größ-
+ter Genauigkeit und ernftem Fleiße, und barzuftellen und zu ver-
+anfchaulihen. Denn nur anschaulich wird das Befondere und
+Einzelne gefaßt; — weshalb ich die Poesie befinirt habe als die
+Kunft, durch Worte die Phantafie ind Spiel zu verfegen.
+
+Will man den Vorzug, welchen die anschauende Erfenntniß,
+als die primäre und fundamentale, vor der abftraften hat, un-
+mittelbar empfinden und daraus inne werben, wie die Kunft ung
+mehr offenbart, als alle Wiflenfchaft vermag; fo betrachte man,
+fei es in der Natur, oder unter DVermittelung der Kunst, ein
+Ihönes und bewegtes menschliches Antlis voll Ausdruck. Welde
+tiefere Einfiht in das Wefen des Menfchen, ja, der Natur
+überhaupt, giebt nicht dieses, als alle Worte, fammt den Abftraf-
+tis, die fie bezeichnen. — Beiläufig fei hier bemerkt, dag was,
+für eine schöne Gegend, der aus den Wolfen plöglich hervor⸗
+brechende Sonnenblid, für ein schönes Geficht der Eintritt feines
+Ladens if. Daher ridete, puellae, ridete!
+
+
+$. 209.
+
+
+Was jedoch macht, daß ein Bild und Teichter zur Auf-
+faflung einer (Platonifchen) Idee bringt, als ein Wirfliches;
+also Das, wodurch das Bild der dee näher fteht, als die
+Wirklichkeit, ift, im Allgemeinen, Diefed, daß das Kunftwerf das
+schon durch ein Subjekt hindurchgegangene Objekt ift und daher
+für den Geift Das, was für den Leib die animalifche Nahrung,
+nämlich die schon assimilirte vegetabilische. Näher aber betrach⸗
+
+
+850 Zur Metaphysik des Schönen
+
+
+get, beruht die Sache darauf, daß das Werk ber bildenden Kunst
+nicht, wie die Wirklichkeit, und Das zeigt, was nur Ein Mal
+da ift und nie wieder, nämlich die Berbindung diefer Ma-
+terie mit diefer Form, welche Berbindung eben das Konkrete,
+das eigentlich Einzelne, ausmacht; fondern daß es und bie Form
+allein zeigt, welche fhon, wenn nur vollfommen und alffeitig
+gegeben, die dee felbft wäre. Das Bild Ieitet und mithin
+fogleich vom Individuo weg, auf die bloße Form. Schon dieses
+Abfondern der Form von der Materie bringt solche ber Idee
+um Vieles näher. Eine solche Abfonderung aber ift jedes Bild;
+fei e8 Gemälde, oder Statue. Darum nun gehört diefe Abfon-
+derung, diefe Trennung der Form von ber Materie, zum Cha—
+rafter des äfthetifchen Kunftwerfs; eben weil dessen Zweck ift,
+uns zur Erfenntniß einer (Platonifchen) Idee zu bringen. Es
+ift alfo dem Kunftwerfe wefentlich, die Form allein, ohne bie
+Materie, zu geben, und zwar Dies offenbar und augenfällig zu
+thun. Hier liegt nun eigentlich der Grund, warum Wachsfiguren
+feinen äfthetifchen Eindruck machen und daher Feine Runftwerfe (im
+ästhetischen Sinne) find; obgleich fie, wenn gut gemacht, hundert
+Mal mehr Täufhung hervorbringen, ald das beste Bild, ober
+Statue, es vermag, und daher, wenn täufchende Nachahmung
+des Wirklichen der Zweck ber Kunft wäre, den erften Rang ein-
+nehmen müßten. Sie fcheinen nämlich nicht die bloße Form,
+fondern, mit ihr, auch die Materie zu geben; daher fie die Tän-
+fhung, dag man die Sache felbft vor sich Habe, zu Wege brin-
+gen. Statt daß alfo das wahre Kunftwerf und von Dem, wel-
+ches nur Ein Mal und nie wieder da ift, d. i. dem Individuo,
+hinleitet zu Dem, was ftetd und unendliche Male, in unendlich
+Vielen da ift, der bloßen Form, oder Idee; giebt das Wache-
+bild und foheinbar das Individuum felbft, alfd Das, was nur
+Ein Mal und nie wieder da ift, jebocd ohne Das, was einer
+folhen vorübergehenden Eriftenz Werth verleiht, ohne das Leben.
+Darum erregt dad Wachsbild Graufen, indem es wirft, wie
+ein ftarrer Leichnam.
+
+Man könnte meynen, daß allein die Statue es fei, welche
+die Form ohne die Materie gebe, dad Gemälde hingegen auch
+die Materie, fofern es, mittelft der Farbe, den Stoff und dessen
+Beschaffenheit nachahmt. Dies hieße jedoch, die Form im rein
+
+
+und Aesthetil. 351
+
+
+geometrischen Sinne verftehn, und ift nicht, was hier gemeint
+tar: denn im philofophifchen Sinn ift die Form der Gegenfag
+der Materie, begreift daher auch die Farbe, Glätte, Textur,
+furz, alle Qualität. Allerdings giebt bloß die Statue die rein
+geometrifhe Form allein, fie darftellend an einer derfelben au-
+genjcheinlich fremden Materie, dem Marmor: hiedurch alfo ifo-
+lirt fie bandgreiflih die Form. Das Gemälde hingegen giebt
+gar feine Materie, fondern den bloßen Schein der Form, —
+nicht im geometrifchen, fondern im philofophifchen oben angegebe-
+nen Sinne. Diefe Form giebt, fage ich, das Gemälde nicht ein
+Mal felbft, fondern den bloßen Schein derfelben, nämlich bloß
+ihre Wirkung auf Einen Sinn, das Gefiht, und auch diefe nur
+von Einem Gefihtspunfte aus. Daher bringt aud) das Ge—
+mälde nicht eigentlich die Täuschung hervor, daß man die Sache
+felbft, d. H. Form und Materie vor fih habe; fondern auch die
+täufchende Wahrheit des Bildes fteht immer noch unter gemiflen
+zugeftandenen Bedingungen diefer Darftellungsmweife: zeigt Doc)
+3. B. das Bild, durch das unvermeiblihe Wegfallen der Paral-
+lare unferer zwei Augen, die Dinge stets fo, wie nur ein Ein-
+äugiger fie fehn würde. Alfo auch das Gemälde giebt allein
+die Form; indem es nur die Wirkung berjelben, und zwar
+ganz einfeitig, nämlich auf das Auge allein, barftellt. — Die
+übrigen Gründe, weshalb das Kunftwerf Teichter, ald die Wirk
+lichkeit, uns zur Auffaffung einer (Blatonifchen) Idee erhebt,
+findet man im 2. Bande meines Hauptwerfes, Kap. 30. ©. 370,
+dargelegt.
+
+Der obigen Betrachtung verwandt ift folgende, — bei
+welcher inzwischen Die Form wieder im genmetrifchen Sinne zu
+verftehn if. Schwarze Kupferfiihe und Tuschbilder entiprechen
+einem ebleren und höheren Geschmack, als Folorirte Kupfer und
+Aquarelibilder; während hingegen biefe dem weniger gebilbeten
+Sinne mehr zufagen. Dies beruht offenbar darauf, daß die
+schwarzen Darftellungen die Form allein, gleichjam in abstracto
+geben; deren Apprehenfion (mie wir wissen) intelleftual, d. h.
+Sache des anfchauenden Berftandes if. Die Farbe hingegen
+ift bloß Sache des Sinnedorgand und zwar einer ganz befons
+bern Einrichtung in demfelben (Dualitative Theilbarfeit ber
+Thätigfeit der Retina). In diefer Hinfiht kann man auch bie
+
+ [S. 352]
+
+
+bunten Kupferftiche den gereimten Versen, bie schwarzen den
+bloß metrifchen vergleichen; in Folge des, in meinem Haupt-
+werfe, Bd. 2, Kap. 37, ©. 427, angegebenen Verhältnisses
+zwifchen biejen.
+
+$. 210.
+
+Daß die Eindrüde, welche wir in der Jugend erhalten, fo
+bedeutfam find und im Morgenrothe des Lebens Alles fo idea-
+Yifch, fo verflärt, fih ung darftellt, entipringt daraus, daß als⸗
+dann noch das Einzelne und mit feiner Gattung allererfi befannt
+macht, als welche und noch neu ift, jedes Einzelne alfo feine
+Gattung für uns vertritt. Demnach erfaflen wir darin bie
+(Blatonifche) Ide e diefer Gattung, welcher als solcher die Schön-
+heit wesentlich ift.
+
+$. 211.
+
+„Schön“ ift, ohne Zweifel, verwandt mit dem Englifchen
+to shew und wäre demnach shewy, fohaulih, what shews
+well, was fi) gut zeigt, fih gut ausnimmt, also das deutlich
+hervortretende Anfchauliche, mithin ber PRINT Ausdrud bedeut⸗
+famer (Platonischer) Ideen.
+
+„Malerisch“ bedeutet im Grunde das Selbe, wie schön:
+denn es wird Dem beigelegt, was sich so darstellt, daß es die
+Idee seiner Gattung deutlich an den Tag legt; daher es zur
+Darstellung des Malers taugt, als welcher eben auf Darstellung,
+Hervorhebung, der Ideen, die ja das Objektive im Schönen
+ausmachen, gerichtet ift.
+
+$. 212.
+
+Schönheit und Grazie der Menfchengeftalt, im Verein, find
+bie deutlichfte Sichtbarkeit des Willend, auf der obersten Stufe
+feiner Objeftivation, und eben deshalb die höchfte Leiftung der
+bildenden Kunst. Inzwischen ift allerdings, wie ich (Welt als
+W. u. DB. Bd. 1. $. 41.) gejagt habe, jedes natürliche Ding
+schön: alfo auch jedes Thier. Wenn und Diejed. bei einigen
+Thieren nicht einleuchten will; fo Liegt e8 daran, daß wir nicht
+im Stande find, fie rein objektiv zu betrachten und dadurch ihre
+Idee aufzufaflen, fondern hievon abgezogen werben durch irgend
+eine unvermeibliche Gebanfenaflociation, meiftens in Folge einer
+fih uns aufdringenden Aehnlichkeit, z. B. der des Affen mit dem
+Menschen, daher. wir nicht Die Idee dieses Thieres auffassen, fon-
+
+
+nn a
+
+
+und Aesthetik. 353
+
+
+dern nur die Karikatur eines Menfchen fehn, Eben fo feheint
+die Aehnlichkeit der Kröte mit Koth und Schlamm zu wirfen:
+indeffen reicht Dies hier doch nicht aus, den gränzenlofen Ab-
+fcheu, ja das Entfegen und Graufen zu erflären, welches einige
+Leute beim Anblick dieser Thiere, wie andere bei dem ber Spin-
+
+
+nen, befällt: vielmehr fcheint diefes in einer viel tieferen, me
+
+
+taphyfiichen und geheimnißvollen Beziehung feinen Grund zu ha=
+ben. Diefer Meinung entfpricht der Umftand, dag man zu sym⸗
+pathetiihen Kuren (und Malefizien), alfo zu magischen Zwecken,
+gerade diese Thiere zu nehmen pflegt, 3.3. das Fieber vertreibt,
+durch eine in einer Nußfchale eingefchloflene Spinne, am Halfe
+des Kranfen getragen, bis fie tobt iftz oder, bei großer Todes⸗
+gefahr, eine Kröte, in den Urin des Kranfen gelegt, in einem
+wohlverschlossenen Topfe, Mittags Schlag zwölf Uhr im Keller
+
+
+des Haufes vergräbt. Die langsame Todesmarter folcher Thiere
+
+
+verlangt jedoch von der ewigen Gerechtigfeit eine Abbüßung:
+Dies nun wieder giebt eine Erläuterung der Annahme, daß wer
+Magie treibt sich dem Teufel verfchreibe.
+$. 213.
+Die unorganifche Natur, fofern fie nicht eiwan aus Wafler
+
+
+besteht, macht, wenn fie ohne alles Organifche sich darftellt, einen
+
+
+fehr traurigen, ja, beffemmenden Eindruf auf und. Beifpiele
+davon find die bloß nadte Kelfen darbietenden Gegenden, nament-
+
+
+lich das Yange Felfenthal, ohne alle Vegetation, nahe vor Tou-
+
+
+Ion, durch welches der Weg nad) Marfeille führt: im Großen
+
+
+' aber und viel eindringlicher wird es die Afrifanifche Wüfte Yei-
+
+
+— —
+
+
+fen. Die Zraurigfeit diefes Eindruds des Unorganischen auf
+und entipringt zunächst daraus, daß die unorganiihe Mafle aus-
+schließlich dem Gefege der Schwere gehorcht, nad) deren Richtung
+daher hier Alles gelagert if. — Dagegen nun erfreut und ber
+Anblick der Vegetation unmittelbar und in hohem Grabe; na=
+türlich aber um fo mehr, je reicher, mannigfaltiger, ausgebreite-
+ter und dabei fich felber überlaffen fie ift. Der nächste Grund hie-
+von liegt darin, daß in der Vegetation das Gesetz der Schwere
+ald überwunden ericheint, indem die Pflanzenwelt sich in ber
+feiner Richtung gerade. entgegengefegten erhebt: hiedurch Fünbigt
+sich unmittelbar das Phänomen des Lebens an, als eine neue
+und höhere Ordnung ber Dinge, Wir jelbft gehören dieser an:
+IL 23
+
+
+354 Zur Meiaphysil des Schönen
+
+
+fie ift das und Verwandte, das Element unferd Dafeyns. Da
+bei geht und das Herz auf. Zunähft also ift es jene fenfrechte
+Richtung nach oben, wodurd der Anblid der Pflanzenwelt und
+unmittelbar erfreut: ein umgehauener Baum wirft nicht mehr
+auf uns; ja, ein fehr schräge gewachsener fhon weniger, als ber
+gerade ftehende: die herabhängenden, alfo der Schwere nachge-
+benden Zweige der Trauerweide, (saule pleureur, weeping
+willow,) haben ihr diefe Namen verfchafft. — Das Wafler hebt
+die traurige Wirfung feiner unorganifchen Wefenheit durch feine
+große Beweglichfeit, die einen Schein des Lebens giebt, und durch
+fein beftändiges Spiel mit dem Lichte großentheild auf: zudem
+ift e8 die Urbedingung alles Lebens.
+
+$. 214.
+
+Man Hat längst erfannt, daß jebes zu menfchlihen Zwecken
+beftiinmte Werf, alfo jedes Geräth und jedes Gebäude, um fchön
+zu feyn, eine gemiffe Aehnlichfeit mit den Werfen der Natur
+haben müffe: aber darin hat man geirrt, Daß man meinte, Diele
+müffe eine direfte feyn und unmittelbar in ben Formen liegen;
+fo daß 3. B. Säulen Bäume, oder gar menfchliche Gliedmaaßen
+barftellen, Gefäße wie Mufcheln, oder Schneden, oder Blumen⸗
+kelche gestaltet seyn und überall vegetabilifche, oder thierifche For-
+men erfcheinen müßten. Vielmehr foll jene Aehnlichkeit Feine
+direfte, sondern eine nur mittelbare feyn, d. h. nicht in den For-
+men, fondern im Charakter der Formen liegen, welcher aud bei
+gänzlicher Berfchiedenheit diefer der felbe feyn Fann. Demnach
+follen Gebäude und Geräthe nicht der Natur nachgeahmt, fon-
+dern im Geifte derfelben gefchaffen seyn. Diefer nun zeigt fidh
+darin, daß jedes Ding und jeder Theil feinem Zwecke fo un-
+mittelbar entfpricht, daß es ihn fogleich ankündigt; welches da⸗
+durch gefchieht, daß es denselben anf dem Fürzeften Wege und
+auf die einfachfte Weise erreicht. Diefe augenfällige Zweckmä—
+figfeit nämlich ift Charakter des Naturprodults. Obgleich nun
+zwar in biefem der Wille von innen aus wirkt und fich ber
+Materie ganz bemeiftert hat; während er im Menfchenmwerfe, von
+außen wirkend, erft unter VBermittelung der Anschauung und fo-
+gar eined Begriffs vom Zwecke des Dinges, dann aber burd
+Weberwältigung einer fremden, d. h. urfprünglich einen andern
+Willen ansdrüdenden Materie feine Abficht erreicht und sich aus⸗
+
+
+"und Aesthetif. 355
+
+
+fpeicht; fo Tann dabei ber angegebene Charakter des Naturpro⸗
+dults doc beibehalten werden. Dies zeigt die antife Baufunft,
+in der genauen Angemeffenheit jedes Theiles, oder Gliedes ‚zu
+feinem unmittelbaren Zwede, den es eben dadurch naiv barlegt,
+und in der Abwesenheit alles Zwecklosen; im Gegenfas der go-
+thischen Banfunft, welche gerade den vielen zwecklosen Zierratben
+und Beimerfen, indem wir ihnen einen uns unbefannten Zweck
+unterfchieben, ihr: geheimnißvolles, myfteriöfes Anfehn verbanft;
+oder gar jedes völlig entarteten Bauftils, welcher, Originalität
+affeftirend, auf allerlei unnöthigen Umwegen und in tänbelnden
+Villfürlichfeiten, mit den Mitteln der Kunft fpielt, deren Zwecke
+er nicht verfieht. Das Selbe gilt von ben antifen Gefäßen,
+deren Schönheit daraus entfpringt, daß fie auf fo naive Art
+ausbrüden, was fie zu feyn und zu leiften beftimmt find; und
+eben fo von allem übrigen Geräthe der -Alten: man fühlt dabei,
+daß wenn die Natur Bafen, Amphoren, Lampen, Tifche, Stühle,
+Helme, Schilde, Panzer u. |. w. hervorbrächte, fie fo ausfehn
+würden. Man fehe dagegen bie porzellanen, reich vergolbeten
+Schandgefäße, nebft der Weibertraht u. f. w. der jegigen Zeit,
+welche dadurch, daß fie den bereits eingeführten Stil des Alter-
+thums gegen ben nieberträchtigen Rolokostil vertaufchte, ihren
+erbärmlichen Geift an den Tag gelegt und fich gebrandmarft hat,
+für alfe Zufunft. Denn keineswegs ift fo etwas Kleinigfeit:
+fondern es ift das Stämpel des Geiftes biefer Zeit. Den Beleg
+dazu giebt die Litteratur berfelben, giebt die Verhunzung der
+deutschen Sprache durch unwissende Tintenflerer, welche, in fres
+Her Willkür, mit ihr umgehn, wie Bandalen mit Kunstwerken,
+und es ungeftraft dürfen.
+$. 215.
+
+Sehr treffend Hat man das Entftehn des Grundgedankens
+zu einem Kunftwerfe die Konception deffelben genannt: denn
+fie ift, wie zum Entftehn des Menfchen die Zeugung, das We-
+sentlichste. Und auch wie diefe, erfordert fie nicht sowohl Zeit,
+als Anlaß und Stimmung. Ueberhaupt nämlich übt das Ob-
+jelt, gleichsam als Männliches, einen beständigen Zeugungsaft
+auf das Subjelt, als Weibliches, aus. Dieser wird jedoch nur
+in einzelnen glücklichen Augenblicken und bei begünstigten Sub⸗
+jelten fruchtbar: dann aber entspringt aus ihm ein neuer,
+
+2
+
+ [S. 356]
+
+
+origineller und daher fortlebender Gedanke. Und eben auch wie
+hei der physischen Zeugung hängt die Fruchtbarkeit viel mehr
+som weiblichen, als vom männlichen Theile ab: ift jener (das
+Subjekt) in der zum Empfangen geeigneten Stimmung; fo wird
+faft jedes jest im feine Apperception fallende Objekt anfangen,
+zu.ihm zu reden, d. h. einen lebhaften, eindringenden und originel-
+fen Gedanfen in ihm erzeugen; daher bisweilen der Anblid eines
+unbedeutenden Gegenftandes, oder Borganges, der Keim eines
+großen und schönen Werkes geworben ift; wie denn auch Jakob
+Böhme dur den plötzlichen Anblid eines zinnernen Gefäßes in
+ven Zuftand der Erleuchtung verfegt und in den innerften Grund
+per Natur eingeführt wurde. Kommt doch überall zulegt Alles
+auf die eigene Kraft an: und mie feine Speife, oder Arznei,
+Lebenskraft ertheilen, oder erfegen kann; fo fein Buch, oder Stur
+dium, den eigenen Geift.
+$. 216.
+
+Ein Improvisatore aber ift ein Mann, der omnibus
+horis sapit, indem er ein vollftändiges und wohlassortirtes Ma—
+gazin von Gemeinplägen jeder Art bei fich führt, sonach für je-
+des Begehren, nad) Beschaffenheit des Falles und der Geldgen-
+heit, prompte Bedienung verfpricht, und ducentos versus, stans
+pede in uno Liefert, |
+
+§. 217.
+
+Ein Mann, der von der Gunft der Mufen, ich meyne von
+feinen poetifchen Gaben, zu Ieben unternimmt, kommt ‚mir eini-
+germaafen vor, wie ein Mädchen, bie von ihren Reizen lebt.
+Beide profaniren, zum schnöden Erwerb, was bie freie Gabe
+ihres Innersten feyn follte.. Beide leiden an Erjchöpfung, und
+Beide werden meiftend fehmählich enden. Also würdigt euere
+Mufe nicht zur Hure herab: fondern
+
+Ich finge, wie der Vogel fingt,
+
+Der in den Zweigen wohnet.
+
+Das Lied, das aus der Kehle dringt,
+
+Ist Lohn, ver reichlich lohnet,“ —
+fei der Wahlfpruch des Dichterd. Denn die poetiihen Gaben
+gehören dem Feiertage, nicht dem Werktage des Lebens an.
+Wenn fie dann auch, durch ein Gewerbe, welches der Dichter
+daneben treibt, fi etwas beengt und behindert fühlen follten;
+
+
+und Aesthetil. 357
+
+
+fo können fie dabei doch gedeihen; weil ja ber Dichter nicht große
+Kenntniffe und Wiffenfchaft zu erwerben braucht, wie Dies ber
+Fall des Philosophen ist; ja, fie werden dadurch Fondenfirt, wie
+durch zu viele Muße und das Betreiben ex professo bdiluirt.
+Der Philofoph hingegen Tann, aus dem angeführten Grunde,
+nicht wohl ein anderes Gewerbe daneben treiben: da nun aber
+das Geldverdienen mit der Philofophie feine anderweitigen und
+befannten großen Nachtheile hat, wegen welcher die Alten dasselbe
+zum Merkmale des Sophiften, im Gegensatz des Philofophen,
+machten; fo ift Salomo zu oben, wenn er fagt: „Weisheit ift
+gut mit einem Erbgute, und hilft, daß Einer fi der Sonne
+freuen kann“ (Koheleth 7, 12).
+
+Daß wir aus dem Alterthume Klaffifer haben, d. h. Gei-
+fter, deren Schriften, in unvermindertem Jugendglanz, durch die
+Jahrtausende gehn, fommt großentheild daher, daß bei den Alten
+das Bücherfchreiben Fein Erwerbszweig gewesen ift: ganz allein
+hieraus aber ift es abzuleiten, daß von diefen Klaffifern, neben
+ihren guten Schriften, nicht auch noch schlechte vorhanden find;
+indem fie nicht, wie felbft die beften unter ben Neueren, nachdem
+der Spiritus verflogen war, noch das Phlegma zu Marfte tru-
+gen, Geld dafür zu Töfen.
+
+
+$. 218.
+
+
+Die Musik ift die wahre allgemeine Sprache, die man
+überall verfteht: daher wird fie in allen Ländern und durch alle
+Jahrhunderte, mit großem Ernft und Eifer, unaufhörlich geredet,
+und macht eine bedeutfame, vielfagende Melodie gar bald ihren
+Weg um das ganze Erbenrund; während eine finnarme und
+nichtssagende gleich verhallt und erftirbt; welches beweifet, daß
+der Inhalt der Melodie ein fehr wohl verftändlicher ist. Jedoch
+vebet fie nicht von Dingen, fondern von lauter Wohl und Wehe,
+als welche die alleinigen Realitäten für den Willen find: darum
+Ipricht fie fo fehr zum Herzen, während fie dem Kopfe unmit-
+telbar nichts zu fagen hat und es ein Mißbrauch ift, wenn
+man ihr Died zumuthet, wie in aller malenden Mufif ges
+schieht, welche daher, ein für alle Mal, vermwerflic ist; wenn
+gleih Haydn und Beethoven fi zu ihr verirrt haben: Mozart
+und Roffini haben es, meines Wiflens, nie geihan. Denn ein
+
+ [S. 358]
+
+
+Anderes ift Ausdruck ber Leidenschaften, ein Anderes Malerei ber
+Dinge.
+
+Auch die Grammatif jener allgemeinen Sprade ift auf's
+Genauefte regulirt worden; wiewohl erst seitden Nameau
+den Grund dazu gelegt hatte. Hingegen das Lexikon, ich meyne
+die, Yaut Obigem, nicht zu beziweifelnde, wichtige Bedeutung des
+Inhalts derfelben, zu enträthfeln, d. h. der Vernunft, wenn aud)
+nur im Allgemeinen, faßlih zu machen, mas es fei, das bie
+Mufif, in Melodie und Harmonie, befagt, und wovon fie rede,
+Dies hat man, bie ich es unternahm, nicht ein Mal ernftlich
+versucht; — welches, wie fo vieles Andere, beweist, wie wenig
+überhaupt zur Reflexion und zum Nachdenken geneigt bie Men-
+fehen find, mit welcher Befinnungslofigfeit vielmehr fie dahinle—
+ben. Ueberall ist ihre Abficht, nur zu genießen und zwar mit
+möglichft geringem Aufwande von Gedanken. Ihre Natur bringt
+es fo mit fih. Daher fommt es fo pofienhaft heraus, wenn fie
+vermeinen, bie Philofophen fpielen zu müflen; wie an unfern
+Phitofophieprofefforen, ihren vortrefflichen Werfen und der Aufs
+vichtigfeit ihres Eifers für Philosophie und Wahrheit zu erfehn ist.
+
+219.
+
+
+Allgemein und zugleich populär rebend kann man den Aus-
+fpruch wagen: die Mufif überhaupt ift die Melodie, zu ber bie
+Welt der Tert if. Den eigentlichen Sinn defielben aber erhält
+man allein durch meine Auslegung ber Musik.
+
+Nun aber das Verhältniß der Tonkunft zu dem ihr je-
+desmal aufgelegten beftimmten Aeußerlihen, wie Tert, Aktion,
+Marsch, Tanz, geiftliche, oder weltliche Feierlichkeit u. |. m. fl
+analog dem BVerhältniß ber Architeltur als bloß schöner, d. h.
+auf rein äfthetifhe Zwecke gerichteter Kunft zu den wirklichen
+Bauwerken, die fie zu errichten hat, mit deren nüglichen, ihr
+felbft fremden Zweiten fie daher bie ihr eigenen zu vereinigen
+fuchen muß, indem fie diefe unter den Bedingungen, bie jene
+stellen, doch durchfest, und demnach einen Tempel, Palaft, Zeug:
+haus, Schaufpielhaus u. f. wm. fo hervorbringt, daß es sowohl an
+fih Schön, als auch feinem Zwecke angemeflen fei und sogar bie:
+fen, durch feinen Afthetifchen Charakter, felbft anfündige. In
+analoger alfo, wiewohl nicht chen fo unvermeidlicher Dienftbar-
+keit steht die Mufif zum Text, oder den fonftigen, ihr aufgeleg⸗
+
+
+und Aefihetif. 359
+
+
+ten Realitäten. Sie muß zunähft dem Texte fi fügen, obwohl
+fie feiner Feineswegs bedarf, ja, ohne ihn, fidy viel freier be—
+wegt: fie muß aber nicht nur jede Note feiner Wortlänge und
+feinem Wortfinn anpaflen; fondern aud durchweg eine gewifle
+Homogeneität mit ihm annehmen und ebenfo aud den Charakter
+der übrigen, ihr etwan gefeßten, willfürlichen Zwede tragen und
+demnach Kirchen», Dpern-, Militaire, Tanz Mufif u. dgl. m. feyn.
+Das Alles aber ift ihrem Wesen fo fremd, wie ber rein äftheti-
+hen Baufunf die menschlichen Nützlichkeitszwecke, denen alfo
+Beide fich zu bequemen und ihre felbfteigenen den ihnen frem-
+ben Zweden unterzuorbnen haben. Der Baufunft ist Dies faft
+immer unvermeidlich; der Mufif nicht alfo: fie bewegt fich frei
+im Concerte, in ber Sonate und vor allem in der Symphonie,
+ihrem fchönften Tummelplag, auf welchem fie ihre Saturnalien
+feiert.
+
+Eben fo nım ferner ift der Abweg, auf welchem sich unfere
+Mufif befindet, dem analog, auf welchen bie römifche Architektur
+unter den fpätern Kaifern gerathen war, wo nämlich die Ueber-
+fadung mit Verzierungen bie wejentlichen, einfachen Verhältnisse
+theils versteckte, theils fogar verrüdte: fie bietet nämlich vielen
+Lerm, viele Instrumente, viel Kunft, aber gar wenig deutliche,
+eindringende und ergreifende Grundgebanfen. Zubem findet man
+in den fohaalen, nichtöfagenden, melodielsfen Kompositionen bes
+heutigen Tages den felben Zeitgeschmack mieber, welcher bie
+undeutliche, fchwanfende, nebelhafte, ratbfelhafte, ja, finnleere
+Schreibart sich gefallen Yäßt, deren Urfprung hauptfächlich in ber
+miferabeln Hegelei und ihrem Scharlatanismus zu fuchen ift.
+
+$. 220.
+
+Die große Oper ist eigentlich Fein Erzeugniß des reinen
+Kunftfinmes, vielmehr des etwas barbarifchen Begriffs von Er-
+höhung des äfihetifchen Genuffes mittelst Anhäufung der Mittel,
+Gleichzeitigfeit ganz verschiedenartiger Eindrüde und Berftärfung
+der Wirfung durch Bermehrung ber wirkenden Masse und Kräfte;
+während doch die Muftf, als die mächtigfte aller Künfte, für sich
+allein, den für fie empfänglichen Geift vollfommen auszufüllen
+vermag; ja, ihre höchsten Produftionen, um gehörig aufgefaßt
+und genoffen zu werben, ben ganzen ungetheilten und unzerftreus
+ten Geist verlangen, damit er sich ihnen hingebe und sich in fie
+
+ [S. 360]
+
+
+verfenfe, um ihre fo unglaublih innige Sprache ganz zu vers
+
+
+stehn. Statt deflen bringt man, während einer fo höchst kom—
+plieirten Opern⸗Musik, zugleih durch das Auge auf den Geift
+ein, mittelft des bunteften Gepränges, der phantaftifcheften Bil—
+der und ber Iebhafteften Licht: und Farben-Eindrüde; wobei noch
+außerdem die Fabel des Stüds ihn beschäftigt. Durd dies Al-
+les wird er abgezogen, zerftreut, betäubt und fo am mwenigften
+für die heilige, geheimnißvolle, innige Sprade der Töne em=
+yfänglich gemadt. Alfo wird, durch Dergleihen, dem Erreichen
+des mufifalifchen Zweckes gerabe entgegengearbeitet. Dazu kom⸗
+men nun nod die Ballette, ein oft mehr auf die Lüsternheit,
+als auf ästhetischen Genuß berechnetes Schaufpiel, welches über-
+dies, durch den engen Umfang feiner Mittel und hieraus ent-
+fpringende Monotonie, bald höchst langweilig wird und dadurch
+beiträgt die Geduld zu erfchöpfen, vorzüglich indem, durch die
+langwierige, oft Biertelftunden dauernde Wiederholung ber fels
+ben, untergeordneten Tanzmelodie, der musikalische Sinn ermübdet
+und abgeftumpft wird, fo daß ihm für die nachfolgenden muft-
+kalischen Eindrüde ernfterer und höherer Art, Feine Empfänglic-
+feit mehr bleibt.
+
+Es möchte hingehn, obgleich ein rein muftfalifcher Geift es
+nicht verlangt, daß man der reinen Sprache der Töne, obwohl
+fie, felbfigenugfam, feiner Beihülfe bedarf, Worte, fogar auch
+eine anschaulich vorgeführte Handlung, zugefellt und unterlegt,
+damit unfer anfchauender und refleftirender Intellekt, der nicht
+ganz müßig feyn mag, doch auch eine leichte und analoge Be—
+Ihäftigung dabei erhalte, wodurch fogar die Aufmerffamfeit der
+Musik fefter anhängt und folgt, auch zugleich Dem, was bie
+Töne in ihrer allgemeinen, bilderlofen Sprache des Herzens be-
+fagen, ein anschauliches Bild, gleihfam ein Schema, oder wie
+ein Erempel zu einem allgemeinen Begriff, untergelegt wird:
+ja, dergleichen wird den Eindrud der Mufif erhöhen. Jedoch
+follte e8 in den Schranfen der größten Einfachheit gehalten wer-
+ben; da es fonft dem musikalischen Hauptzwecke gerabe entges
+genwirft.
+
+Die große Anhäufung vofaler und inftrumentaler Stimmen
+in der Oper wirft zwar auf mufifalifhe Weife: jedoch fteht bie
+Erhöhung der Wirkung, vom bioßen Quartett bis zu jenen hun-
+
+
+und Nefthetif. 361
+
+
+deriftiimmigen Orcheftern, durchaus nicht im Verhältnig mit ber
+Vermehrung der Mittel; weil eben der Adord doch nicht mehr,
+ald drei, nur in Einem Fall vier, Töne haben und der Geift
+nie mehr zugleich auffaflen Fannz yon wie vielen Stimmen ver:
+fchiedenfter Dftaven auf Ein Mal jene 3 oder 4 Töne auch ans
+gegeben werben mögen. — Aus dem Allen ift erffärlih, wie
+eine fchöne, nur vierfiimmig aufgeführte Mufif bisweilen uns
+tiefer ergreifen fann, als die ganze opera seria, deren Auszug
+fie Yiefert; — eben wie die Zeichnung bisweilen mehr wirft, als
+dad Delgemälde. Was dennoch die Wirfung des Quartetts
+bauptfächlich niederhält, ift, daß ihm die Weite der Harmonie,
+db. 5. die Entfernung zweier, oder mehrerer, Dftaven zwischen
+dem Baß und der tiefften ber drei obern Stimmen, abgeht, wie
+fie, von der Tiefe des Kontrabaffes aus, dem Orchester zu Ge-
+bote fteht, defien Wirkung felbft aber, eben darum, noch unglaub-
+lih erhöht wird, wenn eine große, bis zur legten Stufe der
+Hörbarkfeit hinabgehende Orgel fortwährend den Grundbaß bazu
+fpielt, wie Dies in der Fatholifchen Kirche zu Dresden gefchieht.
+Denn nur fo thut die Harmonie ihre ganze Wirfung. — Ueber:
+haupt aber ift aller Kunft, allem. Schönen, aller geiftigen Dar
+ftellung bie Einfachheit, welche ja auch der Wahrheit anzuhängen
+pflegt, ein wejentliches Gefeg: wenigstens ift es immer gefähr-
+Yich fich von ihr zu entfernen.
+
+Strenge genommen aljo fönnte man die Oper eine unmu—⸗
+fifalifche Erfindung zu Gunften unmufifalifcher Geifter nennen,
+als bei melden die Musik erft eingeschwärzt werden muß burch
+ein ihr fremdes Medium, aljo etwan ald Begleitung einer breit
+ausgefponnenen, faden Liebesgeichichte und ihrer poetifchen Waf-
+ferfuppen: denn eine gedrängte, geift- und gebanfenvolle Poefie
+verträgt ber Operntert gar nicht; weil einem folchen Die Kom—
+pofition nicht nachkommen kann. Nun aber die Mufif ganz zum
+Knechte schlechter Poefie machen zu wollen, ift ein Srrweg, den
+vorzüglih Gluck gewandelt ift, dessen Opernmufif daher, von
+ben Duvertüren abgejehn, ohne die Worte gar nicht genießbar
+if. Ja, man fann fagen, die Dper fei zu einem Verderb ber
+Musik geworden. Denn nicht nur, daß diefe fich biegen und
+fchmiegen muß, um sich dem Gange und den ungeregelten Bor-
+gängen einer abgeschmackten Fabel anzupafien; nit nur, daß
+
+ [S. 362]
+
+
+durch die Findifche und barbariiche Pracht der Deforationen und
+Koftüme, durch die Gaufeleien der Tänzer und die kurzen Röde
+der Tänzerinnen der Geift von der Mufif abgezogen und zer-
+fireut wird: nein, fogar der Gefang felbft flört oft die Harmo-
+nie, fofern die vox humana, welche, mufifalifh genommen, ein
+Instrument wie jedes andere ift, sich nicht den übrigen Stimmen
+foordiniren und einfügen, fondern schlechthin dominiren will.
+Zwar wo fie Soprano, oder Alto if, geht Dies fehr wohl an;
+weil ihr, in folcher Eigenschaft, die Melodie mefentlih und von
+Natur zufommt. Aber in den Baß- und Tenor-Arien fällt die
+feitende Melodie meiftens den hohen Snftrumenten zu; wobei
+denn der Gesang fih ausnimmt, wie eine vorlaute, an sich bloß
+harmonische Stimme, welche die Melodie überfchreien will. Ober
+aber die Begleitung wird Fontrapunftifcd nach oben verfegt, ganz
+wider die Natur der Muftf, um der Tenor» oder Baßstimme bie
+Melodie zu ertheilen; wobei dennoch das Ohr flets den höchften
+Tönen, alfo der Begleitung, folgt. Ich bin wirklich der Mei-
+nung, daß Solo-Arten, mit Orchefterbegleitung, nur dem Alto
+oder Soprano angemefjen find; und man daher die Männerftim-
+men nur im Duetto mit jenen, oder in mehrstimmigen Stüden,
+anwenden follte; es fei denn, daß fie ohne alle, oder mit einer
+bloßen Baß⸗Begleitung fängen. Die Melodie ift das natürliche
+Vorrecht der höchsten Stimme und muß es bleiben. Daher,
+wann, in der Dper, auf eine fo erzwungene unb erfünftelte Ba-
+ryton⸗ oder Baß⸗Arie eine Sopran-Arie folgt, wir fogleich, mit
+Befriedigung, das allein Natur: und Kunstgemäße biefer empfin-
+den. Daß große Meifter, wie Mozart und Roffini, den
+Uebelftand jener erftern zu mildern, ja, zu überwinden wissen,
+hebt ihn nicht auf.
+
+Einen viel reineren mufifalifchen Genuß, als bie Dper,
+gewährt die gefungene Messe, deren meiftend unvernommene
+Worte, oder endlos wiederholte Hallelujah, Gloria, Eleison,
+Amen u. s. w. zu einem bloßen Solfeggio werben, in welchem
+die Muftf, nur den allgemeinen Kirchencharakter bewahrend, füch
+frei ergeht und nicht, wie beim Dperngefange, in ihrem eigenen
+Gebiete von Miferen aller Art beeinträchtigt wird; fo daß fie
+bier ungehindert alle ihre Kräfte entwickelt, indem fie auch nicht,
+mit dem gebrüdten puritanifchen, ober methodistischen Charakter
+
+
+und Aesthetil. 363
+
+
+ber proteftantifchen Kirchenmufif, ftets auf dem Boden Freucht,
+wie die proteflantiiche Moral, fondern sich frei und mit großen
+Flügelfchlägen emporfchwingt, wie ein Seraph. Messe und Sym-
+phonie allein geben ungetrübten, vollen mufifalifhen Genuß;
+während in ber Oper bie Mufif sich mit dem fchalen Stüd und
+feiner Afterpoefie elend herumquält und mit ber ihr aufgelegten
+fremden Laft durchzukommen sucht, fo gut fie fann. Die höh-
+nende Beratung, mit welcher der große Rofjini bisweilen den
+Tert behandelt hat, ift, wenn aud nicht gerade zu Toben, doch
+ächt musikalisch. — Ueberhaupt aber ift die große Dper, indem
+fie, fchon durch ihre dreiftündige Dauer, unfre mufifaliihe Em-
+pfänglichfeit immer mehr abftumpft, während babei der Schneden-
+gang einer meiftens fehr faden Handlung unfre Geduld auf die
+Probe ftellt, an fich felbft, wesentlich und efjentiel, Tangweiliger
+Natur; welcher Fehler nur durch die überschwängliche Vortreff-
+lichkeit der einzelnen Leiftung überwunden werden Tann: daher
+find in diefer Gattung die Meifterwerfe allein geniegbar und al-
+les Mittelmäßige ift verwerflih. Auch follte man fuchen, die
+Dper mehr zu foncentriven und zu fontrahiren, um fie, wo
+möglich, auf Einen Aft und Eine Stunde zu beschränken. Im
+Gefühl der Sache war man in Rom, zu meiner Zeit, auf den
+Ihlechten Ausweg gerathen, im Teatro della Balle, die Afte einer
+Dper und einer Komödie mit einander abwechfeln zu lassen.
+$. 221.
+
+Ein Baudeville ift einem Menfchen zu vergleichen, der
+in Kleidern parabirt, die er auf dem Trödel zufammengefauft
+bat: jedes Stüd hat fchon ein Anderer getragen, für den es ge-
+madıt und dem es angemefjen worden war: auch merft man,
+dag fie nicht zufammengehören. — Dem analog ift eine, aus
+Fetzen, die man honetten Leuten vom Rode abgefchnitten, zusam⸗
+mengeflidte Harlefindjade der Potpourri, — eine wahre mufi-
+falifche Schänblichfeit, Die von der Polizei verboten feyn folkte.
+
+$. 222.
+
+Es verbient bemerkt zu werden, daß in der Mufif der Werth
+der Kompofition ben der Ausführung überwiegt; hingegen beim
+Schaufpiel es fi) gerade umgefehrt verhält. Nämlich eine vor⸗
+trefftiche Kompofition, fehr mittelmäßig, nur eben rein und rich—
+tig ausgeführt, giebt viel mehr Genuß, als die vortrefflichste
+
+ [S. 364]
+
+
+Ausführung einer fchlechten Rompofition. Hingegen leiftet ein
+Schlechtes Theaterftüd, von ausgezeichneten Schaufpielern gegeben,
+viel mehr, ald das vortrefflichfte, von Stümpern gefpielt.
+§. 223. |
+
+Der „Kampf des Menfchen mit dem Schidfal”, welchen
+unfere faden, hohlen," verblafenen und efelhaft füßlichen modernen
+AHefthetifer, feit etwan 50 Jahren, wohl einftimmig, ald das all-
+gemeine Thema des Trauerfpiels aufftellen, hat zu feiner Vor—
+ausfesung die Freiheit des Willens, diefe Marotte aller Igno⸗
+ranten, und dazu wohl auch noch ben Fategorifchen Imperativ,
+defien moralifche Zwecke, oder Befehle, dem Schidfale zum Trog,
+nun durchgefegt werden follen; woran denn bie befagten Herren
+ihre Erbauung finden. Zudem aber ift jenes vorgeblihe Thema
+des Zrauerfpield schon darum ein Lächerlicher Begriff, weil es
+ber Kampf mit einem unfichtbaren Gegner, einem Kämpen in
+der Nebelfappe, wäre, gegen den daher jeder Schlag ins Leere
+geführt würde und dem man fi in die Arme würfe, indem man
+ihm ausweichen wollte, wie ja Dies dem Lajus und dem Debi-
+pus begegnet if. Dazu kommt, daß das Schidfal allgemwaltig
+ift, daher mit ihm zu Fämpfen die lächerlichfte aller Vermessen—
+heiten wäre. So verfteht die Sache auch Shafefpeare, wenn
+er fagt:
+
+Fate, show thy force: ourselves we do not owe;
+
+
+What is decreed must be, and be this so!
+Twelfth night A. 1, the close.
+
+
+Welcher Vers (beiläufig gefagt) zu den höchst feltenen gehört,
+bie in ber Veberfegung gewinnen:
+
+„Jetzt Fannft du deine Macht, o Schidfal, zeigen:
+
+Mas feyn foll, muß gefchehn, und Keiner ift fein eigen.”
+
+Dei den Alten ift der Begriff des Schicksals der einer im
+Ganzen ber Dinge verborgenen Nothwendigfeit, welche, ohne alle
+Rüdficht, weder auf unfere Wünsche und Bitten, noch auf Schuld
+oder Verdienst, Die menfchlichen Angelegenheiten Yeitet und an
+ihrem geheimen Bande auch bie äußerlih von einander unab-
+bängigften Dinge zieht, um fie zu bringen wohin fie will; fo
+dag deren offenbar zufälliges Zufammentreffen ein im höheren
+Sinne nothwendiges if, Wie nun, vermöge biefer Nothwendig⸗
+
+
+RR
+
+
+und Aesthetif. 365
+
+
+feit, Alles vorberbeftimmt ift (fatum); fo ift auch ein Vorher⸗
+wiffen beflelben möglich, dur Drafel, Seher, Träume u. f. w.
+
+Die Vorsehung ist das hriftianifirte Schidfal, also das in die
+
+auf das Beste der Welt gerichtete Abficht eines Gottes verwandelte,
+Ä $. 224.
+
+Als den äfthetifhen Zwed des Chors im Trauerfpiel be-
+trachte ich: erfilich, daß neben der Anficht, welche die vom Sturme
+der Leidenfchaften erfchütterten Hauptperfonen von den Sachen
+baben, aud die ber ruhigen, antheilölofen Bejonnenheit zur
+Sprache fomme; und zweitens, daß die wejentlihe Moral des
+Stüdd, melde in concreto die Handlung defielben fucceffive
+darlegt, zugleih auch als Neflerion über diese, in abstracto,
+folglich kurz, ausgeiprochen werde. So wirfend gleicht der Chor
+dem Baß in der Mufif, welcher, als ftete Begleitung, den Grund»
+ton jedes einzelnen Adorbes der Fortfchreitung vernehmen läßt.
+
+$. 225.
+
+Wie Steinfhichten der Erde uns die Geftalten der Leben-
+digen einer fernen Vorwelt in den Abbrüden zeigen, welche die
+Spur eined kurzen Dafeynd ungezählte Zahrtaufende hindurch
+aufbewahren; jo haben die Alten in ihren Komödien und einen
+treuen und bleibenden Abdruck ihres heitern Lebens und Treibens
+hinterlafien, fo deutlich und genau, daß es den Schein erhält,
+als hätten fie es in ber Abficht gethan, von der fchönen und
+edlen Eriftenz, deren Flüchtigfeit fie bebauerten, wenigstens ein
+bleibendes Abbild auf die fpätefte Nachwelt zu vererben. Füllen
+wir nun biefe ung überlieferten Hüllen und Formen wieder mit
+Fleiich und Bein aus, durch Darftelung des Plautus und Te-
+venz auf der Bühne; fo tritt jenes Tängft vergangene, rege Le-
+ben wieder frifch und froh vor und hin, — wie bie antifen Mu-
+faiffugbövden, wenn benetzt, wieder im Glanze ihrer alten Far-
+ben daftehn.
+
+$. 226.
+
+Die allein ächte Deutihe Komödie, aus dem Wefen und
+Geifte der Nation hervorgegangen und ihn barftellend, ift, neben
+der einzig dastehenden Minna von Barnhelm, das Sfflandifche
+Schaufpiel. Die Borzüge diefer Stüde find, eben wie die ber
+Nation, die fie treu abbilden, mehr moralifch, als intelfeftuell:
+wovon das Umgekehrte von ber Sranzöfifchen und Englischen
+
+
+366 Zur Melaphysik des Schönen
+
+
+Komödie behauptet werben könnte. Die Deutfchen find fo felten
+priginell, dag man nicht, fobald es ein Mal dazu gekommen if,
+gleich mit Knitteln drein fchlagen follte, wie Died Schiller und
+die Schlegel gethan haben, welche gegen Iffland ungerecht ger
+wesen und felbft gegen Kogebue zu weit gegangen find. Eben
+fo ift man heut zu Tage wieder ungerecht gegen Raupach, zollt
+hingegen den Fragen armfäliger Pfufcher feinen Beifall.
+$. 227.
+
+Das Drama überhaupt, ald bie vollfommenfte Abipiegelung
+des menschlichen Dafeynd, hat einen dreifachen Klimar feiner
+Auffaffungsmweife vdeffelben und mithin feiner Abfiht und Prä-
+tenfion. Auf der ersten und frequenteflen Stufe bleibt es beim
+bloß Interessanten: die Perfonen erlangen unfere Theilnahme,
+indem fie ihre eigenen, den unfern ähnlichen, Zwecke verfolgen;
+die Handlung fhreitet, mittelft der Intrigue, der Charaktere und
+des Zufalls, vorwärts: Wis und Scherz find die Würze des
+Ganzen. — Auf der zweiten Stufe wird das Drama fentimal:
+Mitleid mit den Helden, und mittelbar mit uns felbft, wird
+erregt: die Handlung wird pathetisch: Doch Fehrt fie zur Ruhe
+und Befriedigung zurüd, im Schluß. — Auf der höchsten und
+schwierigsten Stufe wird das Tragifche beabfichtigt: das fchwere
+Leiden, die Noth des Dafeyns, wird und vorgeführt, und bie
+Nichtigkeit alles menschlichen Streben ift hier das lebte Ergeb-
+ni. Wir werben tief erfchüttert und bie Abwendung des Wil:
+lens vom Leben wird in und angeregt, entweber bdireft, ober
+als mitklingender harmonifcher Ton. —
+
+Das Drama von politifcher, mit den momentanen Grillen
+des süßen Pöbels Tiebäugelnder Tendenz, dieses beliebte Fabrifat
+unfrer heutigen Literaten, babe ich natürlich nicht in Betracht
+gezogen: dergleichen Piecen Tiegen bald, oft schon im nächften
+Sabre, da, wie alte Kalender. Das kümmert jedoch den Rittera-
+ten nicht: denn der Anruf an feine Mufe enthält nur Eine
+Bitte: „unfer täglich Brod gieb und heute.” —
+
+§. 228.
+
+Aller Anfang ift fehwer, heißt ed. In der Dramaturgie gilt
+jedoch das Umgekehrte: alles Ende ift schwer. Dies belegen bie
+unzähligen Dramen, deren erfte Hälfte sich recht gut anläßt, die
+aber sodann fi) trüben, stocken, schwanken und in ein bald er-
+
+
+und Hefthetif. 367
+
+
+zwungenes, balb umbefriebigendes, bald von Jedem Längft vor-
+bergefehenes Ende auslaufen, mitunter gar, wie Emilia Galotti,
+in ein empörenbes, welches den Zufchauer völlig verftimmt nach
+Haufe schickt. Diefe Schwierigfeit des Ausganges beruht theils
+darauf, daß es überall leichter ift, die Sachen zu verwirren, als
+zu entwirren; theils aber auch darauf, daß wir beim Anfange
+dem Dichter carte blanche lassen, hingegen an das Ende be-
+flimmte Anforderungen ftellen: es soll nämlich entweder ganz
+glüdtich, oder aber ganz tragiich seyn; während die menfchlichen
+Dinge nicht Teicht eine fo entichiedene Wendung nehmen: fodann
+fol ed natürlich, richtig und ungezwungen herausfommen ; dabei
+aber doch von Niemanden vorhergefehn seyn. — Bom Epos und
+Romane gilt das Selbe: beim Drama macht nur dessen fom-
+paftere Natur es fichtbarer, indem fie die Schwierigfeit vermehrt.
+
+Das e nihilo nihil fit gilt auch in den fchönen Künften.
+Gute Maler lassen zu ihren hiftorifchen Bildern wirflihe Men-
+fhen Modell ftehn und nehmen zu ihren Köpfen wirkliche, aus
+dem Leben gegriffene Gefichter, die fie fodann, fei es ber Schön-
+heit, oder dem Charakter nad, ibealifiren. Eben fo, glaube ich,
+machen es gute Nomanenfchreiber: fie legen den Perfonen ihrer
+Fiktionen wirkliche Menschen aus ihrer Bekanntichaft schematisch
+unter, welche fie num, ihren Abfichten gemäß, idealifiren und
+fompletiren.
+
+$. 229.
+
+Ich geftehe aufrichtig, daß der hohe Ruhm ber divina com-
+media mir übertrieben scheint. Großen Antheil an demfelben
+hat gewiß die überfchwängliche Abjurbität des Grundgedankens,
+in Folge defien, fogleich im Inferno, die empörendefte Seite ber
+Christlichen Mythologie und grell vor die Augen gebracht wird:
+fodann trägt das Ihrige auch die Dunkelheit des Stild und ber
+Anfpielungen bei:
+
+Omnia enim stolidi magis almirantur, amantque,
+Inversis quae sub verbis Jatitantia cernunt.
+
+
+Indessen ift allerdings bie oft bis zum Lafonifchen gehende Kürze
+und Energie ded Ausdruds, noch mehr aber die unvergleichliche
+Stärfe der Einbildungsfraft des Dante, höchst bewunderungs⸗
+würdig. Bermöge berfelben ertheilt er der Schilderung unmög-
+licher Dinge eine augenfüllige Wahrheit, welche sonach ber bes
+
+ [S. 368]
+
+
+Traumes verwandt ift: denn da er von biefen Dingen feine Er-
+fahrung haben kann; fo fcheint es, als müßten fie ihm geträumt
+haben, um fo lebendig genau und anfchaulic ausgemalt werben
+zu können. — Was fol man hingegen jagen, wenn am Schluffe
+des 11. Gefanges des Inferno Birgil das Anbrechen des Ta-
+ges und den Untergang der Sterne befchreibt, alfo vergißt, daß
+er in der Hölle, unter der Erde ift und erft am Schlufle dieses
+Hauptheild quindi uscire wird, a riveder le stelle. Den fel-
+ben Berftoß findet man nochmals, am Ende des 20. Gefanges.
+Soll man etwan annehmen, Virgil führe eine Taschenuhr und
+wisse daher, was jest am Himmel vorgeht? Mir scheint Dies
+eine ärgere Vergeßlichkeit, ald die befannte, Sancho Panfa’s
+Ejel betreffende, welche Cervantes fi hat zu Schulden fom-
+men lassen.
+
+Der Titel des Dante'schen Werfes ift gar originell und tref-
+fend, und faum läßt sich zweifeln, daß er ironisch fei. Eine
+Komödie! Fürwahr, Das wäre die Welt, eine Komödie für einen
+Gott, dessen unerfättliche Rachgier und fludirte Graufamfeit, im
+legten Afte derfelben, an der endlofen und zwecklosen Duaal ber
+MWefen, welche er müßigermweife ind Dafeyn gerufen bat, fid
+meibete, weil fie nämlich nicht nach feinem Sinne ausgefallen
+wären und daher, in ihrem kurzen Leben, anders gethan, ober
+geglaubt hätten, ald es ihm recht war. Gegen feine unerhörte
+Graufamfeit gehalten, wären übrigens alle im Inferno fo hart
+beftraften Verbrechen gar nicht der Rede werth; ja, er felbft
+wäre bei Weitem ärger, ald alle die Teufel, denen wir im ne
+ferno begegnen; da ja biefe doch nur in feinem Auftrage und
+fraft feiner Vollmacht Handeln. Daher wird denn wohl Vater
+Zeus fih für die Ehre bedanfen, mit ihm fo ohne Umstände
+identifieirt zu werben; wie Died an einigen Stellen (3.2. C.
+14. v.70. — C. 31. v. 92) seltsamerweise geschieht. Aeußerft
+wiberlih wirft auch die Russisch-stlavische Art der Unterwürfig-
+feit des Birgil, bed Dante und eined Jeden unter bie Befehle
+desselben und der zitternde Gehorfam, mit dem feine Ufafen über-
+all vernommen werben. Diejer Sklavenfinn wird nun aber gar,
+C. 33. v. 109— 150, von Danten felbft, in eigener Person, fo
+weit getrieben, daß er sich völliger Ehr- und Gewiffenlofigfeit
+schuldig macht, in einem Fall, den er, sich dessen rühmend, selbst
+
+
+und Nefthetif. 369
+
+
+erzäblet. Ehre und Gewissen nämlich gelten ihm nichts mehr,
+jobald fie mit den graufamen Beschlüssen des Domeneddio irgend
+interferiven: daher denn bier das, zur Erlangung einer Ausfage,
+jet und feierlich von ihm gegebene Versprechen, ein Tröpflein
+Linderung in die Pein einer von Jenem erfonnenen und grau-
+jam vollführten Marter zu gießen, nachdem der Gemarterte Die
+ihm aufgelegte Bedingung erfüllt hat, von Danten, ehr⸗ und ge-
+wissenloser Weife, franf und frech gebrochen wird, in majorem
+Dei gloriam; weil nämlich er eine von Diefem aufgelegte Pein,
+auch nur, wie bier, durch das Wegwilchen einer gefrorenen
+Thräne, im Mindeften zu lindern, obwohl es ihm nicht etwan
+ausdrücklich verboten war, für durchaus unerlaubt hält und alfo
+es unterläßt, fo feierlich er es auch, den Augenblid vorher, ver-
+sprochen und gelobt hatte. Im Himmel mag Dergleichen der
+Brauch und lobenswerth seyn; ich weiß es nicht: aber auf Erden
+beißt wer fo handelt ein Schuft. — Hieran wird, beiläufig ge-
+fagt, erfichtlich, wie mißlih es um jede Moral fieht, die Feine
+andere Basis hat, als den Willen Gottes; indem alsdann, fo
+Ihnelf wie die Pole eines Eleftromagneten umgefehrt werben,
+aus fchlecht gut und aus gut fchlecht werden fann. — Das ganze
+Inferno des Dante ift recht eigentlih eine Apotheose der
+Graufamfeit, und bier, im vorlesten Gefange, wird befagter-
+weife noch) die Ehr- und Gewiflenlofigfeit dazu verherrlicht.
+„Was eben wahr ist aller Orten,
+Das fag’ ich mit ungefcheuten —
+
+
+Uebrigens wäre für bie Geschaffenen die Sache eine divina tra-
+gedia und zwar ohne alles Ende. Wenn auch das berfelben
+vorhergehende Borfpiel Hin und wieder lustig ausfallen mag; fo
+ift es doch von völlig verichwindender Kürze gegen bie endlofe
+Dauer des tragifchen Theile. Man fann faum umhin, zu den-
+fen, daß bei Danten felbft eine geheime Satire über folde sau—
+bere Weltordnung dahinterftede; fonft würde ein ganz eigener
+Geschmack dazu gehören, fih an der Ausmalung empörender Ab-
+furditäten und fortwährender Henferfcenen zu vergnügen.
+
+Mir geht allen anderen italiänifchen Dichtern mein vielgelieb-
+ter Petrarfa vor. An Tiefe und Innigfeit des Gefühle und dem
+unmittelbaren Ausdruck defielben, der gerade zum .. geht, hat
+
+II.
+
+ [S. 370]
+
+
+fein Dichter der Welt ihn je übertroffen. Daber find feine Sonette
+und Ranzonen mir ungleich Tieber, als die phantaftifchen Possen des
+Ariofto und die gräßlihen Fragen des Dante. Auch fpricht der
+natürliche, gerade aus dem Herzen fommende Fluß feiner Rede
+mid ganz anders an, als die fiudirte, ja, affeftirte Wortfarg-
+heit des Dante. Er ift ftet3 der Dichter meines Herzend gewe—
+fen und wird es bleiben. Daß die allervortrefflichfte „Jetztzeit“
+sich unterfängt, vom Petrarka geringschätzend zu reden bestärkt
+mich in meinem Urtheil. Zum überflüffigen Belege desselben
+fann man auch noch den Dante und den Petrarfa gleihjfam im
+Hausfleide, d. h. in der Prosa, vergleichen, indem man die schö—
+nen, gebanfen- und wahrheitsreichen Bücher des Petrarfa de
+vita solitaria, de contemtu mundi, consolatio utriusque
+fortunae etc., nebft feinen Briefen, mit der unfruchtbaren und
+Yangmweiligen Scholaftif de8 Dante zufammenhält. — Der Taffo
+endlich scheint mir nicht würdig, neben den drei großen Dichtern
+Italiens ald der vierte feinen Plaß einzunehmen. Laßt ung fu-
+hen, ald Nachwelt gerecht zu seyn; follten wir auch als Mit-
+welt ed nicht vermögen.
+$. 230.
+
+Daß beim Homer die. Dinge immer solche Prädifate erhal-
+ten, die ihnen überhaupt und fchlechthin zufommen, nicht aber
+folhe, die zu Dem, was eben vorgeht, in Beziehung oder Ana-
+logie ftehn, daß 3. B. die Achäer immer die mohlbefchienten, die
+Erde immer die Tebennährende, der Himmel der weite, dag Meer
+das meindunfele heißt, Dies ift ein Zug der im Homer fich fo
+einzig ausfprechenden Objektivität. Er läßt, eben wie bie
+Natur felbft, die Gegenftände unangetaftet von den menschlichen
+Vorgängen und Stimmungen. Ob feine Helden jubeln, ober
+trauern; die Natur geht unbefümmert ihren Gang. Subjeftiven
+Menfhen Hingegen fcheint, wann fie traurig find, die ganze Na-
+tur düfter, u. f. w. Nicht fo aber hält ed Homer.
+
+Unter den Dichtern unferer Zeit ift Göthe der objektiveste,
+Byron der fubjeftivefte. Diefer redet immer nur von fidh felbft,
+und fogar in den objeftiveften Dichtungsarten, dem Drama und
+Epos, fchildert er im Helden sich.
+
+Zum Jean Paul aber verhält fih Göthe, wie der posi—
+tive Pol zum negativen.
+
+
+und Aesthetil. 371,
+
+
+$. 231.
+
+Göthe's Egmont ift ein Menfch, der das Leben leicht nimmt
+und diefen Irrthum büßen muß. Dafür aber läßt diefelbe Ge—
+müthöbefchaffenheit ihn auch den Tod leicht nehmen.
+
+$. 232.
+
+
+Zu Benedig, in der Afademie der Künfte, ift, unter den auf
+Leinwand übertragenen Fresken, ein Bild, welches ganz eigentlich
+darftellt die Götter, wie fie auf Wolfen, an goldenen Tifchen,
+auf goldenen Sigen tbronen, und unten die geftürjten Gäfte,
+gefhmäht und geschändet in nächtlichen Tiefen. Ganz gewiß hat
+Göthe das Bild gefehn, ald er, auf feiner erften italiänifchen
+Reife, die Iphigenia fhrieb.
+
+$. 233.
+
+Die Gefhichte, deren ich gern neben ber Poefte, als ih-
+rem Gegenfage, (iorogovuevov — rerroımuevov) gebdenfe, ift für
+die Zeit, was die Geographie für den Raum. Daher ift diefe,
+fo wenig wie jene, eine Wiflenfchaft im eigentlichen Sinne;
+weil auch fie nicht allgemeine Wahrheiten, fondern nur einzelne
+Dinge zum Gegenftande hat; — worüber ich vermweife auf mein
+Hauptwerf Bd. 2, Kap. 38.
+
+Andrerfeits Fönnte man die Geschichte auch anfehn, als eine
+Fortsetzung der Zoologie; infofern bei den fämmtlichen Thieren
+die Betrachtung der Species ausreicht, beim Menschen jedoch,
+weil er Individualcharakter Hat, auch die Individuen, nebft den
+individuellen Begebenheiten, als Bedingung dazu, kennen zu Ter-
+nen find. Hieraus folgt fogleich die wesentliche Unvollfommen-
+heit der Gefchichte; da die Individuen und Begebenheiten zabl-
+und endlos find.
+
+Dazu kommt aber noch, daß die Gefchichtsmufe Klio mit
+der Lüge fo dur und durch infteirt ift, wie eine Gaffenhure
+mit der Syphilid. Die neue, Fritifhe Gefchichtsforfhung müht
+fih zwar ab, fie zu kuriren, bewältigt aber mit ihren Tofalen
+Mitteln bloß einzelne, hie und da ausbrechende Symptome; wo⸗—
+bei noch dazu mande Duadfalberei mit unter Täuft, die das
+Uebel verfchlimmert.
+
+Die Zeitungen find der Sefumdenzeiger der Gefchichte. Der-
+felbe aber ift meiftend nicht nur von uneblerem Metalle, als die
+beiden andern, fondern geht auch felten richtig. — Die fogenann«
+
+24°
+
+ [S. 372]
+
+
+ten ‚leitenden Artifel” darin find der Chorus zu dem Drama
+der jeweiligen Begebenheiten. — Lebertreibung in jeder Art ist
+ber Zeitungsfchreiberei eben fo mefentlich, wie der dramatischen
+Kunft: denn es gilt, aus jedem Vorfall möglichst viel zu machen.
+Daher auch find alle Zeitungsfchreiber, von Handwerks wegen,
+Allarmiften: dies ift ihre Art fih intereflant zu machen. Sie
+gleichen aber dadurch den Fleinen Hunden, die bei Allem, was
+fih irgend vegt, fogleih ein lautes Gebell erheben. Hienach
+hat man feine Beachtung ihrer Allarmtrompete abzumefjen, ba-
+mit fie Keinem die Verdauung verberbe.
+
+In Europa wird die Weltgefchichte auch noch von einem
+ganz eigenthümlichen chronologifchen Tageszeiger begleitet, wel-
+her, bei anfchaulihen Darftellungen der Begebenheiten, jedes
+Decennium auf den erften Blick erfennen Yäßt: derfelbe fteht un
+ter der Leitung der Schneider. Bloß im gegenwärtigen Deren
+nio ift er in Unordnung gerathen; weil solches nicht ein Mal
+Driginalität genug befist, um, wie jedes andere, eine ihm eigene
+Kleidermode zu erfinden, fondern nur eine Masferade darftell,
+auf der man in allerlei Yängft abgelegten Trachten aus vergan-
+genen Zeiten berumläuft. Selbft die ihm vorhergegangene Pr
+riode hatte doc noch fo viel eigenen Geift, ald nöthig ift, ben
+Frack zu erfinden.
+
+Näher betrachtet, verhält es fih mit der Sade fo. Wie
+jeder Menfch eine Phyfiognomie hat, nad der man ihn vorläufig
+beurtheilt; fo hat auch jedes Zeitalter eine, die nicht minder da:
+rafteriftifch if. Denn der jebesmalige Zeitgeift gleicht einem
+fharfen Oftwinde, der durch Alles hindurchbläst. Daher findet
+man feine Spur in allem Thun, Denfen, Schreiben, in Muft
+und Malerei, im Floriren dieser oder jener Kunft: Allem und
+Jedem drüdt er fein Stämpel auf: daher 3. B. das Zeitalter
+der Phrafen ohne Sinn aud) das der Mufifen ohne Melodie
+und der Formen ohne Zweck und Abficht feyn mußte. Höchftens
+fönnen die diden Mauern eines Klofterd jenem Ostwinde ben
+Zugang verfperren; wenn er fie alsdann nicht gar umreißt.
+Darum alfo ertheilt der Geift einer Zeit ihr auch die äußere
+Physiognomie. Diefe befteht in der Bauart, in der Kleidung,
+nebft der Art Haar und Bart zu fiugen, und in der Form bei
+Möbeln und Geräthe, Die jeige Zeit trägt, wie gefagt, durch
+
+
+und Nefthetif. 373
+
+
+Mangel an Originalität in allen diesen Dingen, das Stämpel
+ber Charafterlofigfeit. Wie wird ihre Außenfeite, in Bildern
+und Bauwerfen erhalten, einft der Nachwelt imponiren! Shre
+feilen Demofolafen benennen fie mit dem charafterifch wohlflin-
+genden Namen „Jetztzeit“, nämlich ald wäre fie die Gegenwart
+zer’ £Eoynv, die von aller Vergangenheit vorbereitete und end-
+lich erzielte Gegenwart. Mit welcher Ehrfurdt wird die Nach—
+welt unfere, im elendeften Rocofoftil der Zeit Ludwigs XIV. aufs
+geführten Paläfte und Landhäufer betrachten! — Aber fchmwerlich
+wird fie willen, was fie, auf Konterfeien und Daguerrotypen,
+aus den Schuhpugerphyfiognomien mit Sofratiihen Bärten und
+aus den Stugern im Koftüme der Schacherjuben meiner Jugend
+machen foll.
+$. 234.
+
+Am Schluffe diefes Afthetifchen Kapiteld mag denn aud
+meine Meinung über die Boifferee’fche jest in München be-
+findliche Sammlung von Gemälden aus der alten Niederrheinis
+hen Schule eine Stelle finden.
+
+Ein ächtes Kunstwerk darf eigentlih nicht, um genießbar
+zu feyn, den Präambel einer Kunftgefchichte nöthig haben. Dies
+ift jedoch bei feiner Art von Gemälden fo fehr der Fall, wie
+bei den hier in Rede ftehenden. Wenigftens wird man ihren
+Werth erft dann richtig ermeflen, wenn man gefehn hat, wie vor
+dem Johann van Ei gemalt wurde, nämlich in dem von By—
+zanz ausgegangenen Gefhmad, alfo auf Goldgrund, in Tempra,
+mit Figuren ohne Leben und Bewegung, fteif und flarr, dazu
+maffive Heiligenfcheine, die auch nod) den Namen bes Heiligen
+enthalten. Ban Eyd, als ein ächtes Genie, Fehrte zur Natur
+zurüd, gab den Gemälden Hintergrund, den Figuren Tebendige
+Stellung, Gebärde und Gruppirung, den Phyfiognomien Aus-
+druck und Wahrheit, und den Falten Nichtigkeit: dazu führte er
+die Perspektive ein und erreichte überhaupt in ber techniichen
+Ausführung die alferhächfte Vollfommenheit. Seine Nachfolger
+blieben theils auf diefer Bahn, wie Schoreel und Hemling
+(oder Memling); theils Fehrten fie zu den alten Abfurbitäten zu—
+rück. Sogar er felbft hatte von biefen Abfurbitäten immer noch
+so viel beibehalten müflen, als, nad) Firchlicher Anficht, obligat
+war: er mußte 3. B. noch Heiligenfcheine und massive Lichtftrah-
+
+ [S. 374]
+
+
+len machen. Aber man sieht, er hat abgedungen so viel er
+konnte. Er verhält sich demnach stets kämpfend gegen den Geist
+seiner Zeit: eben so Schoreel und Hemling. Folglich sind sie
+mit Berücksichtigung ihrer Zeit zu beurtheilen. Dieser ist es
+zur Last zu legen, daß ihre Vorwürfe die meistens nichtöfagen-
+den, oft abgejhmadten, immer abgedrofchenen, Firchlichen find,
+3. B. die drei Könige, fterbende Maria, St. Chriftoph, St. Lufas
+welcher die Maria malt u. dgl. m. Eben fo ift ed Schuld ihrer
+Zeit, daß ihre Figuren faft nie eine freie, rein menfchliche Stel-
+Yung und Miene haben, fondern durchgängig die Firchliche Ge-
+bärde machen, d. h. eine gezwungene, andreffirte, demüthige,
+jchleichende Bettlergebärde. — Hiezu kommt, daß jene Maler die
+Antife nicht Fannten: daher haben ihre Figuren felten fchöne
+Gefichter, meiftens häßliche, und nie fchöne Glieder. — Die
+Quftperfpeftive fehlt: die Linearperfpective ift meistens richtig.
+Sie haben Alles aus der Natur, wie fie ihnen befannt war, ge-
+fhöpft: demnach ift der Ausdrud der Gefichter wahr und redlich,
+jedoch nirgends vielfagend, und feiner ihrer Heiligen bat eine
+Spur jenes erhabenen und überirdiihen Ausdrucks wahrer Hei:
+Yigfeit im Antlis, den allein die Italiäner geben, vor Allen
+Raphael, und Koreggio in. feinen ältern Bildern.
+
+Objektiv Fünnte man demnach die in Rede ftehenden Ge:
+mälde jo beurtheilen: fie haben großentheils in der Darftellung
+des Wirflichen, jowohl der Köpfe, ald Gemwänder und Stoffe,
+die höchste technifche Volllommenheit; faft fo, wie lange nachher,
+im 17. Zahrhundert, die eigentlichen Niederländer fie erreichten.
+Hingegen der edelfte Ausdruck, die höchste Schönheit und die
+wahre Grazie find ihnen fremd geblieben. Da nun aber Diefe ber
+Zweck find, zu welchem die technifche Bollfommenheit fich als Mit-
+tel verhält; fo find fie nicht Kunftwerfe vom erften Range; ja, fie
+find nicht unbedingt genießbar: denn die angeführten Mängel,
+nebfi den nichtsfagenden Gegenftänden und der durchgängigen
+firchlichen Gebärde, müflen immer erft abgezogen und auf Reb-
+nung der Zeit gejchrieben werben.
+
+Ihr Hauptverdienft, jedoh nur bei van Eye und feinen
+beften Schülern, befteht in der täufchendeften Nachahmung der
+Wirklichkeit, erlangt durch Haren Blick in die Natur und eifer-
+nen Fleiß im Ausmalen; fodann in der Lehhaftigfeit der Farben,
+
+
+und Aesthelik. 375
+
+
+— ein ihnen ausichließlih eigenes Verdienst. Mit solchen
+Karben ift weder vor, noch nach ihnen gemalt worden: fie find
+brennend und bringen bie höchste Energie der Farbe zu Tage.
+Daher sehn dieje Bilder, nad bald vierhundert Jahren, aug,
+ald wären fie von geftern. Hätten doch Raphael und Koreggio
+diefe Farben gefannt! Aber fie blieben ein Geheimniß der
+Schule und find daher verloren gegangen. Man follte fie ches
+mifch unterfuchen.

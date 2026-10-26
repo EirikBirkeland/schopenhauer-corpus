@@ -1,0 +1,1111 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a readable scan whose display headings are garbled
+# title: Transscendente Speculation ueber die anscheinende Absichtlichkeit im Schicksal (in: Parerga und Paralipomena, Erster Band)
+# title_en: Transcendent speculation on the apparent intentionality in fate - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Erster Band, Berlin: A. W. Hayn 1851, S. 189-212; the volume's preface is signed "Frankfurt a. M., im December 1850". Text layer: Internet Archive 10927137, scored READABLE (14 common words per hundred, und 4,366, unb 0, long s 31,774). SEAMS BY INTERPOLATION, and the file header says so: the display headings of this copy are garbled, so boundaries were fixed by measuring the running heads (page number with the piece's name) and interpolating between the nearest; a paragraph or two may therefore stand on the wrong side of a seam. Page markers were made only from heads that give a number and name the piece.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/10927137
+# fetched: 2026-10-26
+# note: ADDED IN PASS 14, which finally opened the FIRST band of 1851 - the five pieces the collection had never held in German, the Aphorismen (file 04) being the exception. His essay on fate, and the one place he dares the risky thesis: that a life looks arranged, yet the arranging will is the man's own, working from a region outside individual consciousness - which is why he brings in animal magnetism and the somnambules here, as cases of cognition without the intellect. Note the sentence that gives the practical shape of it: since luck works against that purpose, misfortune and suffering are found woven into every life, though in very unequal measure, and only rarely in overplus - namely in tragic endings, where the will seems driven by force to turn from life, "und gleichsam durch den Kaiserschnitt zur Wiedergeburt gelangen sollte". OCR warning as elsewhere in this scan: f for the long s, and letters mangled ("Philoſophi" for "Philosophie"), so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: the FIRST band of Parerga und Paralipomena, Berlin: A. W. Hayn 1851, from the Internet Archive scan 10927137, whose body is READABLE (bin/ia-read.js: 14 common words per hundred, und 4,366, unb 0, long s kept 31,774 times) but whose DISPLAY HEADINGS are garbled. So the seams of these pieces were fixed from the running heads rather than the headings: every head that gives a page number and names one of the pieces was measured (page and offset), and a boundary was taken by interpolating between the two nearest measured heads. THE ERROR IS NAMED, not hidden: a paragraph or two may stand on the wrong side of a seam, and where the volume's own table of contents says a piece begins, that page is quoted in this header so the reader can see what was aimed at. This piece stands on pages 189-212 by that table of contents. Page markers in this file were made only from heads that give a number and name the piece (11 made, S. 192 to S. 212). Short OCR noise lines dropped (75); long s normalised to s (1574); and this layer prints f for the long s in places, so read a quotation against the scan (bin/schop-grep.js -f folds it). It also mixes stray words in now and then - the copy has English leaves bound with it - and it mangles letters ("Philoſophi" for "Philosophie", "Geifterfehn" for "Geistersehn"), so a query in correct modern spelling can return nothing. the essay on fate: that a life seems arranged, yet the arranging will is one's own, working from a region beyond individual consciousness; and the reason he cites animal magnetism and the somnambules here - cognition without the intellect.]
+
+lge halte ich, von den Staatszwecken, wie
+gesagt, absehend und bloß das Interesse der Philosophie betrach⸗
+tend, für wünschenswerth, daß aller Unterricht in derselben a
+Universitäten streng beschränkt werde auf den Vortrag ar
+
+
+als einer abgeschlossenen und streng beweisbaren Wissenschaft, und
+
+
+auf eine ganz suceinete vorzutragende und durchaus in Einem Se⸗
+mester von Thales bis Kant zu absolvirende Geschichte der Philoso⸗
+phie, damit sie, in Folge ihrer Kürze und Uebersichtlichkeit, den ei⸗
+genen Ansichten des Herrn Professors möglichst wenig Spielraum
+gestatte. Denn die eigentliche Bekanntschaft mit den Philosophen
+
+
+Ueber die Universitäts⸗Philosophie. 187
+
+
+lläßt sich durchaus nur in ihren eigenen Werken machen und kei⸗
+neswegs durch Relationen aus zweiter Hand; — wovon ich die
+Gründe bereits in der Vorrede zur zweiten Ausgabe meines
+Hauptwerkes dargelegt habe. Daher also möchte ich den Ka⸗
+thedervortrag beschränken auf den Zweck einer allgemeinen Orien⸗
+rung auf dem Felde der bisherigen philosophischen Leistungen,
+mit Beseitigung aller Ausführungen, wie auch aller Pragmatici⸗
+tät der Darstellung, die weiter gehn wollte, als bis zur Nach⸗
+weisung der unverkennbaren Anknüpfungspunkte der fucceffis auf
+teetenden Systeme an früher dagewesene; also ganz im Gegen⸗
+satz der Anmaaßung Hegelianischer Geschichtschreiber der Philo⸗
+sophie, welche jedes System als nothwendig eintretend darthun,
+und sonach, die Geschichte der Philosophie a priori konstruirend,
+uns beweisen, daß jeder Philosoph gerade Das, was er gedacht
+hat, und nichts Anderes, habe denken müssen; wobei denn der
+Herr Professor fo recht bequem fie Alle von oben herab übersieht,
+
+wo nicht gar belächelt. Der Sünder! als ob nicht Alles das Werk
+einzelner und einziger Köpfe gewesen wäre, die sich in der schlechten
+Gesellschaft dieser Welt eine Weile haben herumstoßen müssen, da⸗
+mit solche gerettet und erlöst werde aus den Banden der Roh⸗
+heit und Verdummung; Köpfe, die eben fo individuell, wie sel⸗
+12 daher von jedem derselben das Ariostische natura il
+e poi ruppe lo stampo in vollem Maaße gilt; — und
+ob, wenn Kant an den Blattern gestorben wäre, auch ein
+rer die Kritik der reinen Vernunft würde geschrieben haben,
+wohl einer von Jenen, aus der Fabrikwaare der Natur und
+rem Fabrikzeichen auf der Stirn, fo Einer mit der nor⸗
+Ration von drei Pfund groben Gehirns, hübsch fester
+„in zolldicker Hirnschaale wohl verwahrt, beim Gesichts⸗
+1 bon 70°, dem matten Herzschlag, den trüben, spähenden
+1, den stark entwickelten Freßwerkzeugen, der stockenden Rede
+m schwerfälligen, schleppenden Gange, als welcher Takt
+nur, die werden euch Kritiken der reinen Vernunft und auch
+ysteme machen, sobald nur der vom Professor berechnete Zeit⸗
+und die Reihe an fie gekommen ist, — dann, wann
+en Aprikosen tragen. — Die Herren haben freilich gute
+‚ möglichft viel der Erziehung und Bildung zuzuschreiben,
+
+
+188 Ueber die Universitäts⸗Philosophie
+
+
+sogar, wie wirklich Einige thun, die angeborenen Talente ganz
+zu leugnen und auf alle Weise sich gegen die Wahrheit zu ver⸗
+schanzen, daß Alles darauf ankommt, wie Einer aus den Hän⸗
+den der Natur hervorgegangen sei, welcher Vater ihn gezeugt
+5 und welche Mutter ihn empfangen habe, ja, auch noch zu welcher
+Stunde; daher man keine Iliaden schreiben wird, wenn man zur
+Mutter eine Gans und zum Vater eine Schlafmütze gehabt hat;
+auch nicht, wenn man auf sechs Universitäten studirt. Es ist
+nun aber doch nicht anders: aristokratisch ist die Natur, aristo⸗
+kratischer, als irgend ein Feudal⸗ und Kastenwesen. Demgemäß
+läuft ihre Pyramide von einer sehr breiten Basis in einen gar
+stmwitzen Gipfel aus. Und wenn es dem Pöbel und Gesindel, wel⸗
+ces nichts über sich dulden will, auch gelänge, alle andern Aristo⸗
+kratien umzustoßen; so müßte es diese doch bestehn lassen, —
+und soll keinen Dank dafür haben: denn die ist so ganz BER
+von Gottes Gnaden.“
+
+
+Wee
+
+
+Sqicsale des Einzelnen.
+
+
+ER To eli od dam Ev zii of, e A:
+
+
+dees anscheinende Absichtlichkeit
+5 Schicksale des Einzelnen.
+
+
+Obgleich die hier mitzutheilenden Gedanken zu keinem festen Re⸗
+sultate führen, ja, vielleicht eine bloße metaphysische Phantasie
+genannt werden könnten; so habe ich mich doch nicht entschlie⸗
+ßen können, fie der Vergessenheit zu übergeben; weil fie Man⸗
+
+chem, wenigstens zum Vergleich mit seinen eigenen, über densel⸗
+ben Gegenstand gehegten, willkommen seyn werden. Auch ein
+Solcher jedoch ist zu erinnern, daß an ihnen Alles zweifelhaft
+ist, nicht nur die Lösung, sondern sogar das Problem. Demnach
+hat man hier nichts weniger, als entschiedene Aufschlüsse zu er⸗
+warten, vielmehr die bloße Ventilation eines sehr dunkeln Sach⸗
+nelle, welches jedoch vielleicht Jedem, im Verlaufe seines
+Lebens, oder beim Rückblick auf dasselbe, sich öfter auf⸗
+. hat. Sogar mögen unsere Betrachtungen darüber
+n viel mehr seyn, als ein Tappen und Tasten im
+„wo man merkt, daß wohl etwas dasei, jedoch nicht
+weiß, wo, noch was. Wenn ich dabei dennoch bisweilen
+in den positiven, oder gar dogmatischen Ton gerathen sollte; so
+i hier W alle Mal gesagt, daß dies bloß gericht, um
+
+
+thmaaßung welishweifg und matt zu W daß es mit
+t ernstlich zu nehmen ist.
+
+der Glaube an eine specielle Vorsehung, oder sonst eine
+
+liche Lenkung der Begebenheiten im individuellen Le⸗
+
+ist zu allen Zeiten allgemein beliebt gewesen, und so⸗
+
+
+[S. 192]
+
+
+Zusammenhange mit irgend welchen bestimmten Dogmen. —
+Zuvörderst läßt sich ihm entgegensetzen, daß er, nach Art alles
+Götterglaubens, nicht eigentlich aus der Erkenntniß, sondern
+aus dem Willen entsprungen, nämlich zunächst das Kind unsrer
+Bedürftigkeit sei. Denn die Data, welche bloß die Erkenntniß
+dazu geliefert hätte, ließen sich vielleicht darauf zurückführen, daß
+der Zufall, welcher uns hundert arge, und wie durchdacht tückische
+Streiche spielt, dann und wann ein Mal auserlesen günstig aus⸗
+fällt, oder auch mittelbar sehr gut sür uns sorgt. In allen sol⸗
+chen Fällen erkennen wir in ihm die Hand der Vorsehung, und
+zwar am deutlichsten dann, wann er, unsrer eigenen Einsicht
+zuwider, ja, auf von uns verabscheuten Wegen, uns zu einem
+beglückenden Ziele hingeführt hat; wo wir alsdann sagen tune
+bene navigavi, cum naufragium feei, und der Gegensatz zwi⸗
+schen Wahl und Führung ganz unverkennbar, zugleich aber zum
+Vortheil der letzteren, fühlbar wird. Eben dieserhalb trösten wir,
+bei widrigen Zufällen, uns auch wohl mit dem oft bewährten
+Sprüchlein „wer weiß wozu es gut ist,“ — welches eigentlich
+aus der Einsicht entsprungen ist, daß, obwohl der Zufall die
+Welt beherrscht, er doch den Irrthum zum Mitregenten hat
+und, weil wir Diesem, eben so sehr als Jenem, unterworfen
+sind, vielleicht eben Das ein Glück ist, was uns jetzt als ein
+Unglück erscheint. So fliehen wir dann von den Streichen des
+einen Welttyrannen zum andern, indem wir vom Zufall an den
+Irrthum appelliren. ann 258
+Hievon jedoch abgesehn, ist, dem bloßen, reinen, ossenbeben
+Zufall eine Absicht unterzulegen, ein Gedanke, der an Verwegen⸗
+heit seines Gleichen sucht. Dennoch glaube ich, daß Jeder, we⸗
+nigstens Ein Mal in seinem Leben, ihn lebhaft gefaßt hat. Auch
+findet man ihn bei allen Völkern und neben allen Glaubensleh⸗
+ren; wiewohl am entschiedensten bei den Mohammedanern. Es
+ist ein Gedanke, der, je nachdem man ihn versteht, der absurdeste,
+oder der tieffinnigfte seyn kann. Gegen die Beispiele inzwischen,
+wodurch man ihn belegen möchte, bleibt, so frappant sie auch bis⸗
+weilen seyn mögen, die stehende Einrede diese, daß es das größte
+Wunder wäre, wenn niemals ein Zufall unsere Angelegenheiten
+gut, ja, selbst besser besorgte, als 1 ane und unsere
+
+
+Daß Alles, ohne Ausnahme, was geschieht, mit stren⸗
+ger Nothwendigkeit eintritt, ist eine a priori einzusehende,
+folglich unumstößliche Wahrheit: ich will sie hier den demon⸗
+strablen Fatalismus nennen. In meiner Preisschrift über die
+Freiheit des Willens ergiebt fie sich (S. 62) als das Resul⸗
+tat aller vorhergegangenen Untersuchungen. Sie wird empi⸗
+risch und a posteriori bestätigt, durch die nicht mehr zweifel⸗
+hafte Thatsache, daß magnetische Somnambule, daß mit dem zwei⸗
+tien Gesichte begabte Menschen, ja, daß bisweilen die Träume
+des gewöhnlichen Schlafs, das Zukünftige geradezu und genau
+vorher verkünden. Am auffallendsten ist diese empirische Bestä⸗
+gung meiner Theorie der strengen Nothwendigkeit alles Gesche⸗
+beenden beim zweiten Gesicht. Denn das vermöge desselben,
+| ft lange vorher Bert dete sehn wir nachmals, ganz genau und
+t allen Nebenumständen, wie sie angegeben waren, eintreten,
+r dann, wann man sich absichtlich und auf alle Weise bemüht
+hatte, es zu hintertreiben, oder die eintreffende Begebenheit, we⸗
+nigstens in irgend einem Nebenumstande, von der mitgetheilten
+n abweichen zu machen; welches stets vergeblich gewesen ist;
+dann gerade Das, welches das vorher Verkündete verei⸗
+te, allemal es herbeizuführen gedient hat. Fälle dieser
+Art findet man, von dem grundehrlichen Bende Bend⸗
+sen mitgetheilt, im Zten Hefte des achten Bandes des Archivs
+für thierischen Magnetismus von Kiefer (besonders Beisp. 4,
+14, 16); wie einen in Jung Stillings Theorie der Gei⸗
+ide F. 155. Wäre nun die Gabe des zweiten Gesichts
+fig, wie sie selten ist; fo würden unzählige Vorfälle, vor⸗
+det, genau eintreffen und der unleugbare faktische Be⸗
+strengen Nothwendigkeit alles und jedes Geschehenden,
+änglich, allgemein vorliegen. Dann würde kein Zwei⸗
+darüber bleiben, daß, so sehr auch der Lauf der Dinge
+n zufällig darstellt, er es im Grunde doch nicht ist,
+alle diese Zufälle selbst, rar sey Ypegousve, von einer,
+genen Nothwendigkeit, uc ¹νν,, umfaßt werden
+es Werkzeug der Zufall selbst ist. In diese einen
+n, ist von jeher das Bestreben aller Mantik ge⸗
+er in Erinnerung gebrachten, thatsaͤchlichen Man⸗
+er folgt eigentlich nicht bloß, daß alle Begebenheiten
+
+
+[S. 194]
+
+
+mit vollständiger Nothwendigkeit eintreten; sondern auch, daß sie
+irgendwie schon zum Voraus bestimmt und objektiv festgestellt
+sind, indem sie ja dem Seherauge als ein Gegenwärtiges sich
+darstellen: indessen ließe sich dieses allenfalls noch auf die bloße
+Nothwendigkeit ihres Eintritts in Folge des Verlaufs der Kau⸗
+falfette zurückführen. Jedenfalls aber ist die Einsicht, oder viel⸗
+mehr die Ansicht, daß jene Nothwendigkeit alles Geschehenden
+keine blinde sei, also der Glaube an einen eben so plaumã⸗
+ßigen, wie nothwendigen Hergang in unserm Lebenslauf, ein Fa⸗
+talismus höherer Art, der jedoch nicht, wie der einfache, sich demon⸗
+striren läßt, auf welchen aber dennoch vielleicht Jeder, früher
+oder später, ein Mal geräth und ihn, nach Maaßgabe seiner
+Denkungsart, eine Zeit lang, oder auf immer festhält. Wir kön⸗
+nen denselben, zum Unterschiede von dem gewöhnlichen und de⸗
+monstrabeln, den transscendenten Fatalis mus nennen. Er
+stammt nicht, wie jener, aus einer eigentlich theoretischen Er⸗
+kenntniß, noch aus der zu dieser nöthigen Untersuchung, als zu
+welcher Wenige befähigt seyn würden; sondern er setzt sich aus
+den Erfahrungen des eigenen Lebenslaufs allmälig ab. Unter
+diesen nämlich machen sich Jedem gewisse Vorgänge bemerklich,
+welche einerseits, vermöge ihrer besondern und großen Zweckmä⸗
+ßigkeit für ihn, den Stämpel einer moralischen, oder innern Noth⸗
+wendigkeit, andrerseits jedoch den der äußern, gänzlichen Zufäl⸗
+ligkeit deutlich ausgeprägt an sich tragen. Das öftere Vorkom⸗
+men derselben führt allmälig zu der Ansicht, die oft zur Ueber⸗
+zeugung wird, daß der Lebenslauf des Einzelnen, so verworren
+er auch scheinen mag, ein in sich übereinstimmendes, bestimmte
+
+
+Tendenz und belehrenden Sinn habendes Ganzes sei, so gut wie
+
+
+das durchdachteste Epos. Die durch denselben ihm ertheilte Be⸗
+lehrung nun aber bezöge sich allein auf seinen individuellen Wil⸗
+len, — welcher, im letzten Grunde, sein individueller Irrthum
+ist. Denn nicht in der Weltgeschichte, wie die Professorenphilo⸗
+sophie es wähnt, ist Plan und Ganzheit, sondern im Leben des
+Einzelnen. Die Völker existiren ja bloß in abstracto: die Ein⸗
+
+
+zelnen find das Reale. Daher ist die Weltgeschichte ohne direkte
+
+
+metaphysische Bedeutung: fie ist eigentlich bloß eine zufällige Kon⸗
+figuration: ich erinnere hier an Das was ich, „Welt als W. und
+
+
+V.“ Bd. 1. H. 35, darüber gesagt habe. — Also in Hinsicht auf
+
+
+im Schicksale des Einzelnen 195
+
+
+das eigene individuelle Schicksal erwächst in Vielen jener trans⸗
+feendente Fatalismus, zu welchem die aufmerksame Betrach⸗
+tung des eigenen Lebens, nachdem sein Faden zu einer beträcht⸗
+lichen Länge ausgesponnen worden, vielleicht Jedem ein Mal
+Anlaß giebt, und der nicht nur viel Trostreiches, sondern viel⸗
+leicht auch viel Wahres hat; daher er zu allen Zeiten, sogar
+als Dogma, behauptet worden. Als völlig unbefangen verdient
+das Zeugniß eines erfahrenen Welt⸗ und Hofmannes und dazu
+in einem Nestorischen Alter abgelegt, hier angeführt zu werden,
+nämlich das des neunzigjährigen Knebel, der in einem Briefe
+sagt: „Man wird, bei genauer Beobachtung finden, daß in dem
+„Leben der meisten Menschen sich ein gewisser Plan findet, der,
+„durch die eigene Natur, oder durch die Umstände, die sie führen,
+ihnen gleichsam vorgezeichnet ist. Die Zustände ihres Lebens
+„mögen noch so abwechselnd und veränderlich seyn, es zeigt sich
+„doch am Ende ein Ganzes, das unter sich eine gewisse Ueber⸗
+„einstimmung bemerken läßt. — — — — Die Hand eines ber
+Fstimmten Schicksals, fo verborgen fie auch wirken mag, zeigt sich
+Hauch genau, sie mag nun durch äußere Wirkung, oder innere
+„Regung, bewegt seyn: ja, widersprechende Gründe bewegen sich
+oftmals. in ihrer Richtung. So verwirrt der Lauf ist, fo zeigt
+immer Grund und Richtung durch.“ (Knebel's litterarischer
+
+Die hier ausgesprochene Planmäßigkeit im Lebenslauf eines
+Jeden läßt sich nun zwar zum Theil aus der Unveränderlichkeit
+und starren Konsequenz des angeborenen Charakters erklären, als
+welche den Menschen immer in das selbe Gleis zurückbringt.
+Was diesem Charakter eines Jeden das Angemessenste ist erkennt
+er so unmittelbar und sicher, daß er, in der Regel, es gar nicht
+in das deutliche, reflektirte Bewußtseyn aufnimmt, sondern un⸗
+
+
+bar und wie instinctmäßig danach handelt. Diese Art von |
+
+
+FErkenntniß ist insofern, als fie ins Handeln übergeht, ohne ins
+d gekommen zu seyn, den reflex actions des
+arshal Hall zu vergleichen. Vermöge derselben verfolgt
+reift Jeder, dem nicht, entweder von außen, oder von
+eigenen falschen Begriffen und Vorurtheilen, Gewalt ge⸗
+ht, das ihm individuell Angemessene, auch ohne sich darüber
+f geben zu können; wie die im Sande, von der Sonne
+
+
+[S. 196]
+
+
+bebrütete und aus dem Ei gekrochene Schildkröte, auch ohne
+das Wasser erblicken zu können, sogleich die gerade Richtung da⸗
+hin einschlägt. Dies also ist der innere Kompaß, der geheime
+Zug, der Jeden richtig auf den Weg bringt, welcher allein der
+ihm angemessene ist, dessen gleichmäßige Richtung er aber erst
+gewahr wird, nachdem er ihn zurückgelegt hat. — Dennoch
+scheint Dies, dem maͤchtigen Einfluß und der großen Gewalt
+der äußern Umstände gegenüber, nicht ausreichend: und dabei ist
+es nicht sehr glaublich, daß das Wichtigste in der Welt, der durch
+so vieles Thun, Plagen und Leiden erkaufte menschliche Lebens⸗
+lauf, auch nur die andere Hälfte seiner Lenkung, nämlich den von
+außen kommenden Theil, so ganz eigentlich und rein aus der Hand
+eines wirklich blinden, an sich selbst gar nichts seienden und aller
+Anordnung entbehrenden Zufalls erhalten sollte. Vielmehr wird
+man versucht, zu glauben, daß, — wie es gewisse Bilder giebt,
+welche dem bloßen Auge nur verzerrte und verstümmelte U
+
+ten, hingegen in einem konischen Spiegel gesehn regelrechte ensch⸗
+liche Figuren zeigen, — so die rein empirische Auffassung des
+Weltlaufs jenem Anschauen des Bildes mit nacktem Auge gleicht,
+das Verfolgen der Absicht des Schicksals hingegen dem Anschauen
+im konischen Spiegel, der das dort auseinander Geworfene ver⸗
+bindet und ordnet. Jedoch läßt dieser Ansicht sich immer noch
+die andere entgegenstellen, daß der planmaͤßige Zusammenhang,
+welchen wir in den Begebenheiten unsers Lebens wahrzunehmen
+glauben, nur eine unbewußte Wirkung unsrer ordnenden und
+schematisirenden Phantasie sei, derjenigen ähnlich, vermöge wel⸗
+cher wir auf einer befleckten Wand menschliche Figuren und
+Gruppen deutlich und schön erblicken, indem wir planmäßigen
+Zusammenhang in Flecke bringen, die der blindeste Zufall gestreut
+hat. Inzwischen ist doch zu vermuthen, daß Das, was, im
+höchsten und wahrsten Sinne des Wortes, für uns das Rechte
+und Zuträgliche ist, wohl nicht Das seyn kann, was bloß pro⸗
+jektirt, aber nie ausgeführt wurde, was also nie eine and
+Eristenz, als die in unsern Gedanken, erhielt, — die vani 1
+segni, che non han' mai loco des Ariosto, — und desen
+Vereitelung durch den Zufall wir nachher Zeit Lebens zu be⸗
+trauern hätten; sondern vielmehr Das, was real ausgeprä
+wird im großen Bilde der Wirklichkeit und wovon wir, nach
+
+
+im Schicksale des Einzelnen. 197
+
+
+wir dessen Zweckmäßigkeit erkannt haben, mit Ueberzeugung sa⸗
+gen sic erat in fatis, fo hat es kommen müssen; daher denn
+für die Realisirung des in diesem Sinne Zweckmäßigen auf ir⸗
+' gend eine Weise gesorgt seyn müßte, durch eine im tiefsten
+Grunde der Dinge liegende Einheit des Zufälligen und Noth⸗
+wendigen. Vermöge dieser müßten, beim menschlichen Lebenslauf,
+ere, sich als instinktartiger Trieb darstellende Nothwendig⸗
+sodann die vernünftige Ueberlegung und endlich die äußere
+Einwirkung der Umstände sich wechselseitig dergestalt in die
+Hände arbeiten, daß sie, am Ende desselben, wann er ganz durch⸗
+geführt ist, ihn als ein wohlgeründetes, vollendetes Kunstwerk
+— obgleich vorher, als er noch im Werden war,
+„wie an jedem erst angelegten Kunstwerk, sich oft
+„ noch Zweck, erkennen ließ. Wer aber erst nach der
+g hinzuträte und ihn genau betrachtete, müßte so einen
+— als das Werk der überlegtesten Vorhersicht,
+und Beharrlichkeit. Die Bedeutsamkeit desselben im
+m jedoch würde seyn, je nachdem das Subjekt desselben ein
+liches, oder außerordentliches war. — Die Natur freilich
+t Alles nur für die Gattung und nichts bloß für das Indi⸗
+viduum; weil ihr Jene Alles, Dieses nichts ist. Allein was
+als wirkend voraussetzen wäre nicht die Natur, sondern
+je nfeit der Natur liegende Metaphysische, welches in jedem
+dividuo ganz und ungetheilt existirt, dem daher Dieses Alles
+
+
+bear dan
+
+
+ar müßte man eigentlich, um über diese Dinge in's
+kommen, zuvor folgende Fragen beantworten: ist ein
+ches Mißverhältniß zwischen dem Charakter und dem Schick⸗
+s Menschen möglich? — oder paßt, auf die Hauptsache
+„jedes Schicksal zu jedem Charakter! — oder endlich fügt
+ich eine geheime, unbegreifliche Nothwendigkeit, dem Dichter
+ma's zu vergleichen, Beide jedes Mal passend an ein⸗
+Aber eben hierüber sind wir nicht im Klaren.
+schen glauben wir, unserer Thaten in jedem Augen⸗
+r zu seyn. Allein, wenn wir auf unsern zurückgeleg⸗
+g zurücksehn und zumal unsere unglücklichen Schritte,
+
+
+[S. 198]
+daß es aussieht, als hätte eine fremde Macht a — ge⸗
+lenkt. Deshalb sagt Shakespeare: .
+Fate, show thy force: ourselves we do not owe; 17
+What is decreed must be, and be this so! N 55155
+
+
+(Jetzt kannst du deine Macht, o Schicksal, zeigen: Nat
+
+
+Was seyn soll muß geschehn, und Keiner ist sein eigen.)
+
+Auch Göthe sagt, im Götz von Berlichingen (Akt 5.): „wir
+„Menschen führen uns nicht selbst: bösen Geistern ist Macht über
+„uns gelassen, daß sie ihren Muthwillen an unserm Verderben
+„üben.“ Ja, schon der Prophet Jeremias hat es gesagt: „des
+Menschen Thun stehet nicht in seiner Gewalt, und stehet in Nie⸗
+mandes Macht, wie er wandele, oder seinen Gang richte.“
+(10, 23.) Dies Alles beruht darauf, daß unsere Thaten das
+nothwendige Produkt zweier Faktoren sind, deren einer, unser
+Charakter, unabänderlich fest steht, uns jedoch nur a posteriori,
+also allmälig, bekannt wird; der andere aber sind die Motive:
+diese liegen außerhalb und werden durch den Weltlauf herbeige⸗
+führt, bestimmen jedoch den gegebenen Charakter, unter Voraus⸗
+setzung seiner feststehenden Beschaffenheit, mit einer Nothwendigkeit,
+welche der mechanischen gleichkommt. Das über den so erfolgenden
+Verlauf nun aber urtheilende Ich ist das Subjekt des Erkennens,
+als solches jenen Beiden fremd und bloß der kritische Zuschauer ih⸗
+res Wirkens. Da mag es denn freilich zu Zeiten sich verwundern.
+
+Hat man aber ein Mal den Gesichtspunkt jenes transseen⸗
+denten Fatalismus gefaßt und betrachtet nun von ihm aus ein
+individuelles Leben; so hat man bisweilen das wunderlichste
+aller Schauspiele vor Augen, an dem Kontraste zwischen der
+offenbaren, physischen Zufälligkeit einer Begebenheit und ihrer
+moralisch⸗ metaphysischen Nothwendigkeit, welche letztere jedoch nie
+demonstrabel ist, vielmehr immer noch bloß eingebildet seyn kann.
+Um Dieses durch ein allbekanntes Beispiel, welches zugleich, we⸗
+gen seiner Grellheit, geeignet ist, als Typus der Sache zu die⸗
+nen, sich zu veranschaulichen, betrachte man Schiller's „Gang
+nach dem Eisenhammer.“ Hier nämlich sieht man Fridolins
+Verzögerung, durch den Dienst bei der Messe, so ganz zufällig
+herbeigeführt, wie sie andrerseits für ihn so höchst wichtig und
+nothwendig ist. Vielleicht wird Jeder, bei gehörigem Nachden⸗
+
+
+ken, in feinem eigenen Lebenslaufe analoge Fälle finden konnen,
+wenn gleich nicht so wichtige, noch so deutlich ausgeprägte. Gar
+Mancher aber wird hierdurch zu der Annahme getrieben werden,
+daß eine geheime und unerklärliche Macht alle Wendun⸗
+gen und Windungen unsers Lebenslaufes, zwar sehr oft gegen
+unsere einstweilige Absicht, jedoch so, wie es der objektiven Ganz⸗
+beit und subjektiven Zweckmäßigkeit desselben angemessen, mithin
+unserm eigentlichen wahren Besten förderlich ist, leitet; fo, daß
+wir gar ost die Thorheit der in entgegengesetzter Richtung ge⸗
+—.— hinterher erkennen. Ducunt volentem fata,
+trahunt. — Sen. ep. 107. Eine solche Macht nun
+müßte, mit einem unsichtbaren Faden alle Dinge durchziehend,
+N auch die, welche die Kausalkette ohne alle Verbindung mit ein⸗
+ander läßt, so verknüpfen, daß sie, im erforderten Moment, zu⸗
+sammenträfen. Sie würde demnach die Begebenheiten des wirk⸗
+ülchen Lebens fo gänzlich beherrschen, wie der Dichter die feines
+Drama's: Zufall aber und Irrthum, als welche zunächst und un⸗
+mittelbar in den regelmäßigen, kausalen Lauf der Dinge störend ein⸗
+greifen, würden die bloßen Werkzeuge ihrer unsichtbaren Hand seyn.
+Mehr als Alles treibt uns zu der kühnen Annahme einer
+solchen, aus der Einheit der tiefliegenden Wurzel der Nothwen⸗
+8 digkeit und Zufälligkeit entspringenden und unergründlichen Macht
+| cksicht hin, daß die bestimmte, fo eigenthümliche Indi⸗
+
+
+vil nalität jedes Menschen in physischer, moralischer und intel⸗
+lektueller Hinsicht, die ihm Alles in Allem ist und daher aus
+
+
+— metaphysischen Nothwendigkeit entsprungen seyn muß,
+
+
+dieser Eltern nun aber, in der Regel, durch augenschein⸗
+illige Umstände herbeigeführt worden ist. Hier also drängt
+die Forderung, oder das metaphysisch-moralische Postu⸗
+letzten Einheit der Nothwendigkeit und Zufälligkeit
+hlich auf. Von dieser einheitlichen Wurzel Beider
+tlichen Begriff zu erlangen, halte ich jedoch für un⸗
+nur soviel läßt sich sagen, daß sie zugleich Das wäre,
+Alten Schicksal, ecru zermpognern, fatum nannten,
+
+
+im Schicksale des Einzelnen. 199
+
+
+N habe) als das nothwendige Resultat des moralischen
+Charakters des Vaters, der intellektuellen Fähigkeit der Mutter
+und der gesammten Korporisation Beider sich ergiebt; die Ver⸗
+
+
+SEE
+
+
+[S. 200]
+
+
+Das, was sie unter dem leitendenden Genius jedes Einzelnen
+verstanden, nicht minder aber auch Das, was die Christen als
+Vorsehung, zroovore, verehren. Diese Drei unterscheiden sich
+zwar dadurch, daß das Fatum blind, die beiden Andern sehend
+gedacht werden: aber dieser anthropomorphistische Unterschied
+fällt weg und verliert alle Bedeutung bei dem tiefinnern, meta⸗
+physischen Wesen der Dinge, in welchem allein wir die Wurzel
+jener unerklärlichen Einheit des Zufälligen mit dem Nothwendi⸗
+gen, welche sich als der geheime Lenker aller menschlichen Dinge
+darstellt, zu suchen haben. N
+
+Die Vorstellung von dem, jedem Einzelnen beigegebenen
+und seinem Lebenslaufe vorstehenden Genius soll Hetrurischen
+Ursprungs seyn, war inzwischen bei den Alten allgemein verbrei⸗
+tet. Das Wesentliche derselben enthält ein Vers des Menan⸗
+dros, den Plutarch (de trang. an.) uns aufbehalten hat?
+
+
+Ancerri dauov avdgı oyundgaorare Fran
+Eudvs yevousvo, uvoreywyos Tov Bıov A
+Ayasos.
+
+
+chominem unumquemque, simul in lucem est editus, seeta-
+
+
+tur Genius, vitae qui auspieium facit, bonus nimirum.)
+
+
+Sehr schön drückt die Sache Horaz aus: nn
+Seit Genius, natale comes qui temperat astrum, ie
+Naturae deus humanae, mortalis in unum. n n
+
+
++ Quodque caput, vultu mutabilis, albus et ater, Ba
+
+
+Eine gar lesenswerthe Stelle über diesen Genius findet man
+im Apulejus, de deo Soeratis S. 236, 38 Bip. Aber noch
+merkwürdiger ist die des Proklos in seinem Kommentar zum
+Alkibiades des Platon S. 77. ed. Creuzer: & 0 nc 1777772
+mv C ıdvvav e Tas TE ige u anorimgwv, Tas
+
+
+ng ing YEVEOEWS, ace Tas 1g EimaguEyng doc Ace Toy wol
+
+
+enysverav S õ ., erı de Tas en Ing TWovorad eihempeis v
+vu xcı ri gcHE,“t; org ò Ödaımwv cd. u. z. J. Ueberaus
+tieffinnig hat den selben Gedanken Theophrastus Paracelsus ge⸗
+faßt, da er sagt: „Damit aber das Fatum wohl erkannt werde,
+‚Alt es also, daß jeglicher Mensch einen Geist hat, der außerhalb
+„ihm wohnt und setzt seinen Stuhl in die obern Sterne. Dersel⸗
+nbige gebraucht die Bossen Typen, davon Boffiren] feines Mei⸗
+
+
+im Schicksale bes Einzelnen. 201
+
+
+ysters: derselbige ift der, der da die praesagia demselben vorzeigt
+
+
+„und nachzeigt: denn fie bleiben nach diesem. Diese Geister heißen
+„Fatum.“ (Theophr. Werke Straßb. 1603. Fol. Bd. 2. S. 36.)
+
+
+Beachtenswerth ist es, daß eben dieser Gedanke schon beim Plu⸗
+
+
+tarch zu finden ist, da er sagt, daß außer dem in den irdischen Leib
+versenkten Theil der Seele ein andrer, reinerer Theil derselben
+außerhalb über dem Haupte des Menschen schwebend bleibt, als
+ein Stern sich darstellend und mit Recht sein Dämon, Genius,
+wird, welcher ihn leitet und dem der Weisere willig
+solgt. Die Stelle ist zum Hersetzen zu lang, sie steht de genio
+Soeratis o. 22. Die Hauptphrase ist: zo ue ovv Önoßgugıon
+e zu gin yegouevov Wvyn Asysıaı' vo de yIogas Aaupden,
+anus Novy aadouvrcs, eyrog Eıvaı vouLovow van‘ l
+Beiläufig bemerke ich, daß das Christenthum, welches bekannt⸗
+lich die Götter und Dämonen aller Heiden gern in Teufel ver⸗
+wandelte, aus diesem Genius der Alten den spiritus familia-
+ris der Gelehrten und Magiker gemacht zu haben scheint. —
+Die Christliche Vorstellung von der Providenz ist zu bekannt, als
+daß es nöthig wäre, dabei zu verweilen. — Alles Dieses sind
+jedoch nur bildliche, allegorische Auffassungen der in Rede stehen⸗
+den Sache; wie es denn überhaupt uns nicht vergönnt ist, die
+tiefsten und verborgensten Wahrheiten anders, als im Bilde und
+Gleichniß zu erfassen.
+In Wahrheit jedoch kann jene . — und sogar 175
+äußern Einflüsse lenkende Macht ihre Wurzel zuletzt doch nur in
+unserm eigenen, geheimnißvollen Innern haben; da ja das A
+und N alles Daseyns zuletzt in uns selbst liegt. Allein auch
+nur die bloße Möglichkeit hievon werden wir, selbst im glücklich⸗
+sten Falle, wieder nur mittelst Analogien und Gleichnisse, eini⸗
+germaaßen und aus großer Ferne absehn können.
+Die nächste Analogie nun also mit dem Walten jener Macht
+zeigt uns die Teleologie der Natur, indem sie das Zweck⸗
+mäßige, als ohne Erkenntniß des Zweckes eintretend, darbietet,
+l ba, wo die äußere, d. h. die zwischen gerkibiehenen, ja
+yerfchiebenartigen, Wesen und fogar im Unorganischen Statt fin⸗
+ende Zweckmäßigkeit hervortritt; wie denn ein frappantes Bei⸗
+
+
+spiel Di er Art das Treibholz giebt, indem es gerade den baum⸗
+
+
+[S. 202]
+
+
+losen Polarländern vom Meere reichlich zugeführt wird; und ein
+anderes der Umstand, daß das Festland unsers Planeten ganz
+nach dem Nordpol hingedrängt liegt, dessen Winter, aus astro⸗
+nomischen Gründen, acht Tage kürzer und dadurch wieder viel
+milder ist, als der des Südpols. Jedoch auch die innere, im
+abgeschlossenen Organismus sich unzweideutig kund gebende Zweck⸗
+mäßigkeit, die solche vermittelnde, überraschende Zusammenstim⸗
+mung der Technik der Natur mit ihrem bloßen Mechanismus,
+oder des nexus finalis mit dem nexus efectivus, (hinsichtlich
+welcher ich auf mein Hauptwerk Bd. 2. Kap. 26. S. 334 — 339
+verweise) läßt uns analogisch absehn, wie das, von verschiedenen,
+
+ja weit entlegenen Punkten Ausgehende und sich anscheinend
+Fremde doch zum letzten Endzweck konspirirt und daselbst richtig
+zusammentrifft, nicht durch Erkenntniß geleitet, sondern vermöge
+einer aller Möglichkeit der Erkenntniß vorhergängigen Nothwen⸗
+digkeit höherer Art. — Ferner, wenn man die von Kant und
+später von Laplace aufgestellte Theorie der Entstehung unsers
+Planetensystems, deren Wahrscheinlichkeit der Gewißheit fee
+nahe steht, sich vergegenwärtigt und auf Betrachtungen der Art,
+wie ich sie in meinem Hauptwerke Bd. 2, Kap. 25, S. 324 an⸗
+gestellt habe, geräth, also überdenkt, wie aus dem Spiele blinder,
+ihren unabänderlichen Gesetzen folgender Naturkräfte, zuletzt diese
+wohlgeordnete, bewundrungswürdige Planetenwelt hervor
+
+mußte; so hat man auch hieran eine Analogie, welche
+
+kann, im Allgemeinen und aus der Ferne, die A da⸗
+von abzusehn, daß selbst der individuelle Lebenslauf von den
+Begebenheiten, welche das oft so kapriziöse Spiel des blinden
+Zufalls sind, doch gleichsam planmäßig, so geleitet werde, wie es
+dem wahren und letzten Besten der Person angemessen ist. Dies
+angenommen, könnte das Dogma von der Vorsehung, als
+durchaus anthropomorphistisch, zwar nicht unmittelbar und sensu
+proprio als wahr gelten; wohl aber wäre es der mittelbare,
+allegorische und mythische Ausdruck einer Wahrheit, und daher,
+wie alle religiöfen Mythen, zum praktischen Behuf und zur sub⸗
+jektiven Beruhigung vollkommen ausreichend, in dem Sinne
+wie z. B. Kants Moraltheologie, die ja auch nur als ein Schema
+zur Orientirung, mithin allegorisch, zu verstehn ist: — es wäre
+also, mit Einem Worte, zwar nicht wahr, aber doch so gut wie
+
+
+im Schicksale des Einzelnen. 203
+
+
+wahr. Wie nämlich in jenen dumpfen und blinden Urkräften
+der Natur, aus deren Wechselspiel das Planetensystem hervorgeht,
+schon eben der Wille zum Leben, welcher nachher in den vollen⸗
+—— der Welt auftritt, das im Innern Wir⸗
+und Leitende ist und er, schon dort, mittelst strenger Natur⸗
+„ „auf seine Zwecke hinarbeitend, die Grundfeste zum Bau
+er Welt und ihrer Ordnung vorbereitet, indem z. B. der zu⸗
+Ener oder Schwung, die Schiefe der Ekliptik und die
+eit der Rotation auf immer bestimmt, und das Endre⸗
+die Darstellung seines ganzen Wesens seyn muß, eben
+West bieses schon in jenen Urkräften selbst thätig ist; — eben
+sso nun sind alle, die Handlungen eines Menschen bestimmenden
+1 Begebenheiten, nebst der sie herbeiführenden Kausalverknüpfung,
+doch auch nur die Objektivation des selben Willens, der auch in
+diesem Menschen selbst sich darstellt; woraus sich, wenn auch nur
+wie im Nebel, absehn läßt, daß sie sogar zu den speciellsten
+Zwecken jenes Menschen stimmen und passen müssen, in welchem
+ae ‚fie alsdann jene geheime Macht bilden, die das Schicksal
+8 Inen leitet und als fein Genius, oder feine Vorsehung,
+orisirt wird. Rein objektiv betrachtet aber ist und bleibt es
+gängige, Alles umfassende, ausnahmslose Kausalzusam⸗
+ig, — vermöge dessen Alles, was geschieht, durchaus und
+nothwendig eintritt, — welcher die Stelle der bloß mythi⸗
+hat.
+2. uns näher zu bringen, kann solgende allgemeine
+g dienen. „Zufällig“ bedeutet das Zusammentreffen,
+der Zeit, des kausal nicht Verbundenen. Nun ist aber nichts
+t zufällig; sondern auch das Zufälligste ist nur ein auf
+
+
+in der Kausalkette hoch herauf liegende Ursachen schon
+nothwendig bestimmt haben, daß es gerade jetzt, und da⸗
+jenem Andern gleichzeitig, eintreten mußte. Jede Bege⸗
+nämlich ist das einzelne Glied einer Kette von Ursachen
+irkungen, welche in der Richtung der Zeit fortschreitet.
+Ketten aber giebt es unzählige, vermoͤge des Raums,
+einander. Jedoch sind diese nicht einander ganz fremd
+ohne allen Zusammenhang unter sich; vielmehr find fie viel⸗
+
+
+u Wege herangekommenes Nothwendiges; indem ent⸗
+
+
+[S. 204]
+
+
+fach mit einander verflochten: z. B. mehrere jetzt gleichzeitig
+wirkende Ursachen, deren jede eine andere Wirkung hervorbringt,
+sind hoch herauf aus einer gemeinsamen Ursache entsprungen und
+daher einander fo verwandt, wie die Urenkel eines Ahnherrn:
+und andrerseits bedarf oft eine jetzt eintretende einzelne Wirkung
+des Zusammentreffens vieler verschiedener Ursachen, die, jede als
+Glied ihrer eigenen Kette, aus der Vergangenheit herankommen.
+Sonach nun bilden alle jene, in der Richtung der Zeit fortschrei⸗
+tenden Kausalketten ein großes, gemeinsames, vielfach verschlun⸗
+genes Netz, welches ebenfalls, mit seiner ganzen Breite, sich in
+der Richtung der Zeit fortbewegt und eben den Weltlauf aus⸗
+macht. Versinnlichen wir uns jetzt jene einzelnen Kausalketten
+durch Meridiane, die in der Richtung der Zeit lägen; so kann
+überall das Gleichzeitige und eben deshalb nicht in direktem Kau⸗
+salzusammenhange Stehende, durch Parallelkreise angedeutet wer⸗
+den. Obwohl nun das unter demselben Parallelkreise Gelegene
+nicht unmittelbar von einander abhängt; so steht es doch, ver⸗
+möge der Verflechtung des ganzen Netzes, oder der sich, in der
+Richtung der Zeit fortwälzenden Gesammtheit aller Ursachen und
+Wirkungen, mittelbar in irgend einer, wenn auch entfernten,
+Verbindung: seine jetzige Gleichzeitigkeit ist daher eine nothwen⸗
+dige. Hierauf nun beruht das zufällige Zusammentreffen aller
+Bedingungen einer in höherem Sinne nothwendigen Begebenheit;
+das Geschehn Dessen, was das Schicksal gewollt hat, und das
+Eintreffen zur rechten Zeit der im Lebenslauf des Einzelnen
+wichtigen und entscheidenden Anlässe und Umstände, ja endlich
+wohl gar auch der Eintritt der Omina, an welche der Glaube
+so allgemein und unvertilgbar ist, daß er selbst in den überlegen⸗
+sten Köpfen nicht selten Raum gefunden hat. Denn da nichts
+absolut zufällig ist, vielmehr Alles nothwendig eintritt und
+sogar die Gleichzeitigkeit selbst, des kausal nicht Zusammenhän⸗
+genden, die man den Zufall nennt, eine nothwendige ist, indem
+ja das jetzt Gleichzeitige schon durch Ursachen in der entferntesten
+Vergangenheit als ein solches bestimmt wurde; so spiegelt sich
+Alles in Allem, klingt Jedes in Jedem wieder und ist auch auf
+die Gesammtheit der Dinge jener bekannte, dem Zusammenwir⸗
+ken im Organismus geltende Ausspruch des Hippokrates anwend-
+
+
+im Schicksale des Einzelnen. 205
+
+
+ir Eine zweite Analogie, welche, von einer ganz anderen Seite,
+
+zu einem indirekten Verständniß des in Betrachtung genommenen
+transscendenten Fatalismus beitragen kann, giebt der Traum,
+
+mit welchem ja überhaupt das Leben eine längst anerkannte und
+7 gar oft ausgesprochene Aehnlichkeit hat; so sehr, daß sogar Kants
+entaler Idealismus aufgefaßt werden kann als die
+beutlichste Darlegung dieser traumartigen Beschaffenheit un⸗
+sers bewußten Daseyns; wie ich Dies in meiner Kritik feiner
+phie auch ausgesprochen habe. — Und zwar ist es diese
+Analogie mit dem Traume, welche uns, wenn auch wieder nur
+in neblichter Ferne, absehn läßt, wie die geheime Macht, welche
+ins berührenden, äußeren Vorgänge, zum Behufe ihrer
+8 it uns, beherrscht und lenkt, doch ihre Wurzel in der
+—— eigenen, unergründlichen Wesens haben könnte.
+Traume nämlich treffen die Umstände, welche die Mo⸗
+erer Handlungen daselbst werden, als äußerliche und von
+uns selbst unabhängige, ja oft verabscheute, rein zufällig zusam⸗
+men: dabei aber ist dennoch zwischen ihnen eine geheime und
+zweckmäßige Verbindung; indem eine verborgene Macht, welcher
+
+alle Zufälle im Traume gehorchen, auch diese Umstände, und
+N inzig und allein in Beziehung auf uns, lenkt und fügt.
+Allerseltsamste hiebei aber ist, daß diese Macht zuletzt keine
+
+were seyn kann, als unser eigener Wille, jedoch von einem
+zes; der nicht in unser träumendes Bewußtseyn fällt;
+kommt, daß die Vorgänge des Traums fo oft ganz gegen
+Wünsche in demselben ausschlagen, uns in Erstaunen, in
+„ja, in Schrecken und Todesangst versetzen, ohne daß das
+„ welches wir doch heimlich selbst lenken, zu unserer Ret⸗
+cbeikäme; imgleichen, daß wir begierig nach etwas fragen,
+eine Antwort erhalten, über die wir erstaunen; oder auch
+r, — daß wir selbst gefragt werden, wie etwan in einem
+ien, und unfähig sind die Antwort zu finden, worauf ein
+„zu unsrer Beschämung, sie vortrefflich giebt; während
+im emen, wie im andern Fall, die Antwort immer nur
+sern eigenen Mitteln kommen kann. Diese geheimniß⸗
+von uns selbst ausgehende Leitung der Begebenheiten im
+noch deutlicher zu machen und ihr Verfahren dem Ver⸗
+näher zu bringen, giebt es noch eine Erläuterung,
+
+
+[S. 206]
+
+
+welche allein dieses leisten kann, die nun aber unumgänglich
+obscöner Natur ist; daher ich von Lesern, die werth sind, daß
+ich zu ihnen rede, voraussetze, daß fie daran weder Anstoß neh⸗
+men, noch die Sache von der lächerlichen Seite auffassen werden.
+
+
+Es giebt bekanntlich Träume, deren die Natur sich zu einem ma⸗
+
+
+teriellen Zwecke bedient, nämlich zur Ausleerung der überfüllten
+Saamenbläschen. Träume dieser Art zeigen natürlich schlüpfrige
+
+
+Scenen: dasselbe thun aber mitunter auch andere Träume, die
+
+
+jenen Zweck gar nicht haben, noch erreichen. Hier tritt nun der
+Unterschied ein, daß, in den Träumen der ersten Art, die Schö⸗
+nen und die Gelegenheit sich uns bald günstig erweisen; wodurch
+die Natur ihren Zweck erreicht: in den Träumen der andern
+Art hingegen treten der Sache, die wir auf das heftigfte begehren,
+stets neue Hindernisse in den Weg, welche zu überwinden wir
+vergeblich streben, so daß wir am Ende doch nicht zum Ziele
+gelangen. Wer diese Hindernisse schafft und unsern lebhaften
+Wunsch Schlag auf Schlag vereitelt, das ist doch nur unser ei⸗
+gener Wille; jedoch von einer Region aus, die weit über das
+vorstellende Bewußtseyn im Traume hinausliegt und daher in
+diesem als unerbittliches Schicksal auftritt. — Sollte es nun
+mit dem Schicksal in der Wirklichkeit und mit der Planmäßig⸗
+
+
+keit, die vielleicht Jeder, in feinem eigenen Lebenslaufe, demsel⸗
+
+
+ben abmerkt, nicht ein Bewandniß haben können, das dem am
+Traume dargelegten analog wäre? Bisweilen geschieht es, daß
+wir einen Plan entworfen und lebhaft ergriffen haben, von dem
+sich später ausweist, daß er unserm wahren Wohl keineswegs
+gemäß war; den wir inzwischen eifrig verfolgen, jedoch nun hie⸗
+bei eine Verschwörung des Schicksals gegen denselben erfa
+
+welches alle feine Maschinerie in Bewegung setzt, ihn zu vereiteln;
+
+
+wodurch es uns dann endlich, wider unsern Willen, auf den uns
+
+
+wahrhaft angemessenen Weg zurückstößt. Bei einem solchen absicht⸗
+lich scheinenden Widerstande brauchen manche Leute ya
+„ich merke, es soll nicht seyn;“ andere nennen es omi
+
+andere einen Fingerzeig Gottes: sämmtlich aber theilen sie die A
+sicht, daß, wenn das Schicksal sich einem Plane mit so pe
+Hartnäckigkeit entgegenftellt, wir ihn aufgeben sollten; weil er,
+als zu unserer uns unbewußten Bestimmung nicht passend, doch
+
+
+nicht verwirklicht werden wird und wir uns, durch halsftarriges
+
+
+im Schicksale des Einzelnen. 207
+
+
+Verfolgen desselben, nur noch härtere Rippenstöße des Schicksals
+zuziehn, bis wir endlich wieder auf dem rechten Wege find; oder
+auch weil, wenn es uns gelänge, die Sache zu forciren, solche
+uns nur zum Schaden und Unheil gereichen würde. Hier findet
+das oben Angeführte ducunt volentem fata, nolentem trahunt
+seine ganze Bestätigung. In manchen Fällen kommt nun hin⸗
+terher wirklich zu Tage, daß die Vereitelung eines solchen Pla⸗
+nes unserm wahren Wohle durchaus förderlich gewesen ist: Dies
+könnte daher auch da der Fall seyn, wo es uns nicht kund wird;
+zumal wenn wir als unser wahres Wohl das metaphysisch⸗mo⸗
+ralische betrachten. — Sehn wir nun aber von hier zurück auf
+das Hauptergebniß meiner gesammten Philosophie, daß nämlich
+Das, was das Phänomen der Welt darstellt und erhält, der
+Wille ist, der auch in jedem Einzelnen lebt und strebt, und er⸗
+innern wir uns zugleich der so allgemein anerkannten Aehnlich⸗
+keit des Lebens mit dem Traume; fo können wir, alles Bishe⸗
+rige zusammenfassend, es uns, ganz im Allgemeinen, als mög⸗
+lich denken, daß, auf analoge Weise, wie Jeder der heimliche
+Theaterdirektor feiner Träume ist, fo auch jenes Schicksal, wel⸗
+ches unsern wirklichen Lebenslauf beherrscht, irgendwie zuletzt von
+jenem Willen ausgehe, der unsrer eigener ist, welcher jedoch
+hier, wo er als Schicksal aufträte, von einer Region aus wirkte,
+
+ie weit über unser vorstellendes, individuelles Bewußtseyn hin⸗
+ausliegt, während hingegen dieses die Motive liefert, die unfern
+empirisch erkennbaren, individuellen Willen leiten, der daher oft
+auf das heftigste zu kämpfen hat mit jenem unserm, als Schick⸗
+sal sich darstellenden Willen, unserm leitenden Genius, unserm
+„Geist der außerhalb uns wohnt und seinen Stuhl in die obern
+„Sterne setzt,“ als welcher das individuelle Bewußtseyn weit
+übersieht und daher, unerbittlich gegen dasselbe, als äußern
+Zwang Das veranstaltet und feststellt, was herauszufinden
+er demselben nicht überlassen durfte und doch nicht verfehlt
+
+will.
+
+
+h Aus Das Befremdliche, ja Exorbitante dieses gewagten Satzes
+
+) zu mindern mag zuvörderst eine Stelle im Skotus Erigena
+f „ bei der zu erinnern ist, daß fein Deus, als welcher
+ne Ertemmiß ist und von welchem Zeit und Raum, nebst den
+zehn Aristotelischen Kategorien, nicht zu prädiciren find, ja, dem
+
+
+[S. 208]
+
+
+überhaupt nur Ein Prädikat bleibt, Wille, — offenbar nichts
+Anderes ist, als was bei mir der Wille zum Leben: est etiam
+alia species ignorantiae in Deo, quando ea, quae praes-
+eivit et praedestinavit, ignorare dieitur, dum adhue in re-
+rum factarum cursibus experimento non apparuerint (De
+divis. nat. p. 83 edit. Oxford.). Und bald darauf: tertia
+species divinae ignorantiae est, per quam Deus dieitur
+ignorare ea, qune nondum experimento actionis et opera-
+tionis in effectibus manifeste apparent; quorum tamen
+invisibiles rationes in seipso, a seipso creatas et sibi ipsi
+
+Wenn wir nun, um die dargelegte Ansicht uns einigermaa⸗
+ßen faßlich zu machen, die anerkannte Aehnlichkeit des indivi⸗
+duellen Lebens mit dem Traume zu Hülfe genommen haben; so
+ist andrerseits auf den Unterschied aufmerksam zu machen, daß
+im bloßen Traume das Verhältniß einseitig ist, nämlich nur
+ein Ich wirklich will und empfindet, während die Uebrigen nichts,
+als Phantome sind; im großen Traume des Lebens hingegen
+ein wechselseitiges Verhältniß Statt findet, indem nicht nur der
+Eine im Traume des Andern, gerade so wie es daselbst nöthig
+ist, figurirt, sondern auch dieser wieder in dem seinigen; so daß,
+vermöge einer wirklichen harmonia praestabilita, Jeder doch nur
+Das träumt, was ihm, seiner eigenen metaphysischen Lenkung
+gemäß, angemessen ist, und alle Lebensträume so künstlich in
+einander geflochten sind, daß Jeder erfährt, was ihm gedeihlich
+ist und zugleich leistet, was Andern nöthig; wonach denn eine
+etwanige große Weltbegebenheit sich dem Schicksale 1
+sende, Jedem auf individuelle Weise, anpaßt. Alle Ereignifle
+im Leben eines Menschen ständen demnach in zwei grundverschie⸗
+denen Arten des Zusammenhangs: erstlich, im objektiven, kausa⸗
+
+
+len Zusammenhange des Naturlaufs; zweitens, in einem subjel⸗
+
+
+tiven Zusammenhange, der nur in Beziehung auf das sie erle⸗
+bende Individuum vorhanden und fo subjektiv wie dessen eigene
+Träume ist, in welchem jedoch ihre Succession und Inhalt eben⸗
+
+
+falls nothwendig bestimmt ist, aber in der Art, wie die Succes⸗
+
+
+sion der Scenen eines Drama's, durch den Plan des Dichters.
+Daß nun jene beiden Arten des Zusammenhangs zugleich
+
+
+und die nämliche Begebenheit, als ein Glied zweier ganz ver⸗
+
+
+schiedener Ketten, doch beiden sich genau einfügt, in Folge wovon
+jedes Mal das Schicksal des Einen zum Schicksal des Andern
+paßt und Jeder der Held seines eigenen, zugleich aber auch der
+Figurant im fremden Drama if, Dies ist freilich etwas, das
+alle unsere Fassungskraft übersteigt und nur vermöge der wun⸗
+dersamsten hurmonia praestabilita als möglich gedacht werden
+kann. Aber wäre es andrerseits nicht engbrüstiger Kleinmuth,
+es für unmöglich zu halten, daß die Lebensläufe aller Menschen
+
+in ihrem Ineinandergreifen eben fo viel concentus und Har⸗
+monie haben sollten, wie der Komponist den vielen, scheinbar
+„durch einander tobenden Stimmen seiner Symphonie zu geben
+weiß? Auch wird unsere Scheu vor jenem kolossalen Gedanken
+sich mindern, wenn wir uns erinnern, daß das Subjekt des gro⸗
+en Lebenstraumes in gewissem Sinne nur Eines ist, der Wille
+zum Leben, und daß alle Vielheit der Erscheinungen durch Zeit
+und Raum bedingt ist. Geht man nun darauf ein, nimmt man
+jene doppelte Kette aller Begebenheiten an, vermöge deren jedes
+Wesen einerseits seiner selbst wegen da ist, seiner Natur gemäß
+
+i digkeit handelt und wirkt und feinen eigenen Gang
+
+N „andrerseits aber auch für die Auffassung eines fremden
+Wesens und die Einwirkung auf dasselbe so ganz bestimmt und
+eignet ist, wie die Bilder in dessen Träumen; — so wird man
+auf die ganze Natur, also auch auf Thiere und erkenntnißlose
+auszudehnen haben. Da eröffnet sich dann abermals
+Aus sicht auf die Möglichkeit der omina, praesagia und
+. portenta, indem nämlich Das, was, nach dem Laufe der Natur,
+
+
+ig endig eintritt, doch andrerseits wieder anzusehn ist als
+3 es Bin für mich und Staffage meines Lebenstraumes,
+
+
+in Bezug auf mich geschehend und eriftirend, oder auch
+
+Widerschein und Widerhall meines Thuns und Er⸗
+yonach dann das Natürliche und ursächlich nachweisbar
+je eines Ereignisses das Ominose desselben keineswegs
+be, und eben fo dieses nicht jenes. Daher find Die ganz
+dem Irrwege, welche das Ominose eines Ereignisses dadurch
+zu beseitigen vermeinen, daß sie die natürlichen und nothwendig
+wirkenden Ursachen desselben recht deutlich nachweisen. Denn an
+diesen zweifelt kein vernünstiger Mensch; sondern gerade daraus,
+
+daß die ins Unendliche hinaufreichende Kette der Ursachen und
+
+
+[S. 210]
+
+
+Wirkungen, mit der ihr eigenen, firengen Nothwendigkeit und
+unvordenklichen Prädestination, den Eintritt dieses Ereignisses, in
+solchem bedeutsamen Augenblick, unvermeidlich festgestellt hat, er⸗
+wächst demselben das Ominose. Andrerseits jedoch sehn wir mit
+dem Glauben an die Omina auch der Astrologie wieder die Thüre
+geöffnet; da die geringste, als ominos geltende Begebenheit, der
+Flug eines Vogels, das Begegnen eines Menschen u. dgl. durch
+eine eben so unendlich lange und eben so streng nothwendige
+Kette von Ursachen bedingt ist, wie der berechenbare Stand der
+Gestirne, zu einer gegebenen Zeit. Nur steht freilich die Kon⸗
+stellation so hoch, daß die Hälfte der Erdbewohner sie zugleich
+sieht; während dagegen das Omen nur im Bereich des betreffen⸗
+den Einzelnen erscheint. Will man übrigens die Möglichkeit
+des Ominosen sich noch durch ein Bild versinnlichen; so kann
+man Den, der, bei einem wichtigen Schritt in seinem Lebens⸗
+lauf, dessen Folgen noch die Zukunft verbirgt, ein gutes, oder
+schlimmes Omen erblickt und dadurch gewarnt oder bestärkt wird,
+einer Saite vergleichen, welche, wenn angeschlagen, sich selbst
+nicht hört, jedoch die, in Folge ihrer Vibration en a
+fremde Saite vernähme. — „
+Kants Unterscheidung des Dinges an sich von feiner Er⸗
+scheinung, nebst meiner Zurückführung des ersteren auf den
+Willen und der letzteren auf die Vorstellung, giebt uns die Mö
+lichkeit, die Vereinbarkeit dreier Gegensätze, wenn auch
+unvollkommen und aus der Ferne, abzusehn. m
+Diese find: EM
+1) Der, zwischen der Freiheit des Willens an sich os
+und der durchgängigen Nothwendigkeit aller Sanbtungen 1
+Individuums.
+a 2) Der, zwischen dem Mechanismus und der dehnt de
+Natur, oder dem nexus effectivus und dem nexus fin:
+der rein kausalen und der teleologischen Erklärbarkeit der!
+produkte. (Hierüber Kants Kritik der Urtheilskraft $. ww
+mein Hauptwerk Bd. 2. Kap. 26. S. 334 — 339.) a Fu
+3) Der, zwischen der offenbaren Zufälligkeit aller Begeben;
+heiten im individuellen Lebenslauf und ihrer moralischen Noth⸗ 5
+W zur Gestaltung desselben, gemäß einer transscendenten
+
+
+im Schicksale des Einzelnen. 211
+
+
+Zweckmäßigkeit für das Individuum: — oder, in populärer
+Sprache, zwischen dem Naturlauf und der Vorsehung.
+Die Klarheit unserer Einsicht in die Vereinbarkeit jedes
+dieser drei Gegensätze ist, obwohl bei keinem derselben vollkom⸗
+men, doch genügender beim ersten als beim zweiten, am gering⸗
+fen aber beim dritten. Inzwischen wirft das, wenn auch un⸗
+vollfe — Verständniß der Vereinbarkeit eines jeden dieser
+ätze allemal Licht auf die zwei andern zurück, indem es als
+d und Gleichniß dient. —
+Worauf nun endlich diese ganze, hier in Betrachtung ge⸗
+ne, geheimnißvolle Lenkung des individuellen Lebenslaufs
+gentlich abgesehn habe, läßt sich nur sehr im Allgemeinen
+u. Bleiben wir bei den einzelnen Fällen stehn; fo scheint
+Br nur unser zeitliches, einstweiliges Wohl im Auge
+—— jedoch kann, wegen seiner Geringfügigkeit, Unvoll⸗
+Im „ Futilität und Vergänglichkeit, nicht im Ernst ihr
+J l nt also haben wir dieses in unserm ewigen, über
+individuelle Leben hinausgehenden Daseyn zu suchen. Und
+da läßt sich dann nur ganz im Allgemeinen sagen, unser Lebens-
+Pe ade, mittelst jener Lenkung, so regulirt, daß von dem
+Ganzen der durch denselben uns aufgehenden Erkenntniß der
+physisch zweckdienlichste Eindruck auf den Willen, als wel-
+Kern und das Wesen an sich des Menschen ist, entftehe.-
+n obgleich der Wille zum Leben feine Antwort am Laufe
+der Welt überhaupt, als der Erscheinung feines Strebens, erhält;
+so ist dabei doch jeder Mensch jener Wille zum Leben auf eine
+nbivibuelle und einzige Weise, gleichsam ein individualisir⸗
+sselben; dessen genügende Beantwortung daher auch nur
+; beftimmte Gestaltung des Weltlaufs, gegeben in den
+hümlichen Erlebnissen, seyn kann. Da wir nun, aus
+n meiner Philosophie des Ernstes (im Gegensatz
+ssoren⸗ oder Spaaß⸗Philosophie), das Abwenden des
+m Leben als das letzte Ziel des zeitlichen Daseyns
+‚Haben; fo müssen wir annehmen, daß dahin ein Jeder,
+ihm ganz individuell angemessene Art, also auch oft auf
+egen, allmälig geleitet werde. Da nun ferner Glück
+diesem Zwecke eigentlich entgegenarbeiten; so sehn wir,
+atsprech au jedem Lebenslauf, Unglück und Leiden un-
+
+
+[S. 212]
+
+
+ausbleiblich eingewebt, wiewohl in sehr ungleichem Maaße und
+nur selten im überfüllten, nämlich in den tragischen Ausgängen;
+wo es dann aussieht, als ob der Wille gewissermaaßen mit Ge⸗
+walt zur Abwendung vom Leben getrieben werden und gleichsam
+durch den Kaiserschnitt zur Wiedergeburt gelangen sollte.
+
+So geleitet dann jene unsichtbare und nur in zweifelhaftem
+Scheine sich kund gebende Lenkung uns bis zum Tode, diesem
+eigentlichen Resultat und insofern Zweck des Lebens. In der
+Stunde desselben drängen alle die geheimnißvollen (wenn gleich
+eigentlich in uns selbst wurzelnden) Mächte, die das ewige Schick⸗
+sal des Menschen bestimmen, sich zusammen und treten in Aktion.
+Aus ihrem Konflikt ergiebt sich der Weg, d

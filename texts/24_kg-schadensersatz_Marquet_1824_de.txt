@@ -1,0 +1,195 @@
+# TIER 1 PRIMARY (documentary: court record of his own case) | German, scan-backed
+# title: Kammergericht (Instruktionssenat), Erkenntnis im Schadensprozess Caroline Louise Marquet wider Arthur Schopenhauer, 4. Oktober 1824
+# title_en: Berlin Kammergericht: damages judgment in Marquet v. Schopenhauer, 4 October 1824
+# year: 1824 (proceedings 1822-1826)
+# edition: transcribed from the print in Muscheler, Die Schopenhauer-Marquet-Prozesse, S. 186-192 (scan on Wikimedia Commons); the page numbers [S. n] in the file are that print
+# translator: none (German original)
+# copyright: public domain
+# source: https://de.wikisource.org/wiki/Kammergericht_(Instruktionssenat)_-_Schadensersatzprozess_gegen_Schopenhauer
+# fetched: 2026-10-26
+# note: case chain: Hausvogteigericht 1.3.1822 - Kammergericht Civil-Deputation 7.6.1822 - this judgment 4.10.1824 - Geheimes Obertribunal 2.2.1826 - Purifikationsresolution 2.3.1826
+
+# gericht: w:Kammergericht|Kammergericht (Instruktionssenat)
+# ort: Berlin
+# datum: 4. Oktober 1824
+# verfahrensgang: nachgehend Kammergericht (Oberappellationssenat, 16. Juni 1825); Geheimes Obertribunal (2. Februar 1826)
+# gegner: Arthur Schopenhauer
+# quelle: commons:File:KG(IS) Schopenhauer 1824.jpg|Scan von [http://books.google.de/books?id=xwfPUUVkuowC ''Muscheler'', Die Schopenhauer-Marquet-Prozesse], S. 186–192
+# weitere fundstellen: [http://kalliope.staatsbibliothek-berlin.de/cgi-bin/aDISCGI/w3_p/lib/adis.htm?WEB=JA&ADISDB=HS&ADISOI=01322911 Kalliope]
+# zitierte dokumente: [http://www.smixx.de/ra/Links_F-R/PrALR/PrALR_I_6.pdf ALR I, 6], §§&nbsp;4, 7, 10, 16, 25, 115, 116, 119
+# anmerkungen: Nach Wiederherstellung des erstinstanzlichen Urteils durch die Revisionsinstanz und Ableistung eines Ergänzungseids ([http://books.google.de/books?id=UIQqAAAAYAAJ&pg=341 AGO I, 22, §&nbsp;2]; vgl. [http://books.google.de/books?id=UIQqAAAAYAAJ&pg=250 I, 13, §&nbsp;10]) durch die Klägerin wurde das Urteil durch [http://books.google.de/books?id=xwfPUUVkuowC&pg=197 Purifikationsresolution] vom 2. März 1826 endgültig.
+# bearbeitungsstand: fertig
+[S. 1]
+
+In Sachen der unverehelichten Caroline Marquet Klägerin wider den Doktor philosophiae Arthur Schopenhauer Verklagten Erkennt der Instructions-Senat des Königlichen Kammergerichts den Akten gemäß für Recht.
+
+Daß Klägerin schuldig, sich ernstlich zu prüfen, ob sie ohne Verletzung ihres Gewißens und ohne sich der Gefahr auszusetzen als meineidig gestraft zu werden, einen Eid dahin leisten könne:
+
+:daß sie am Abend des 12. August 1821 wirklich von dem Verkl. am Halse gefaßt und auf diese Art aus dem Zimmer hinausgeschleppt worden, daß ihr bei dieser Gelegenheit eine Warze abgerissen worden und sie auf die Seite niedergefallen sei,
+
+im Schwörungsfalle
+
+1. der Verkl. schuldig, der Kl.
+:{|
+| an Apothekerkosten || 8rt || 6gr || 6d
+|-
+| für den Wundarzt Beer || 6 || 8 || —
+|-
+| " Bäder || 2 || — ||
+|-
+| " 3 Aderlässe || 1 || — || —
+[S. 2]
+
+|-
+| für Arzneimittel || 14rt || 6rt || d
+|-
+| " Wein || 1 || 8 || —
+|-
+| " Aufwartelohn || 4 || — || —
+|-
+| " 12 Kräuterbäder || 3 || — || —
+|-
+| " eine feine Haube || 1 || 20 || —
+|-
+| " das Band an derselben || — || 5 || —
+|-
+| zusammen || 41rt; || 23gr || 6d
+|}
+:binnen 8 Tagen, an Alimenten aber vom 12. August 1821 bis dahin, wo Kl. erweislich im Stande sein wird, ihren Unterhalt allein zu erwerben, monatlich 5rt, die rückständigen ebenfalls binnen 8 Tagen, die laufenden vierteljährlich im Voraus bei Vermeidung der Execution zu zahlen
+
+2. Kl: mit den mehrgeforderten 3rt 8gr an monatlichen Alimenten, so wie mit der Forderung von 16gr für die Dose abzuweisen
+
+3. den per Decr. vom 7. November 1822 angelegten Arrest auf Höhe der zuerkannten
+:{|
+| Auslagen von || 41 || 23gr || 6d
+|-
+| der rückständigen Alimente
+bis zum 12. October 1824 von || 130rt || — || —
+|-
+| und zur Deckung der zukünftigen auf || 1200rt || — || —
+|-
+| zusammen auf Höhe von || 1371rt || 23gr || 6d
+|}
+:für gerechtfertigt zu achten
+
+4. die Kosten in der Art zu compensiren, daß
+[S. 3]
+dem Verkl ⅚, der Kl ⅙ zur Last fallen,
+
+:im Nichtschwörungsfalle die Kl. abzuweisen, den Arrest aufzuheben und Kl. in sämtliche Kosten zu verurtheilen.
+
+[S. 1]
+Am 12. August 1821 Abends 6 Uhr wurde die Kl. von dem Verkl. thätlich beleidigt. Sie klagte wegen Injurien und der Verkl. wurde in der zweiten Instanz wegen geringer Realinjurien zu 20rt Geld eventl. 14 Tagen Gefängniß verurtheilt. Hierauf stellte die Marquet unterm 6 Septbr. 1822 die Entschädigungsklage an, worin sie für eine angeblich vom Verkl. vernichtete Dose 16gr, die oben spezificirten Auslagen im Gesamtbetrag von 41rt 23gr 6d außerdem aber monatliche Alimente von 5rt forderte, welche letzte Forderung sie im Verlaufe der Instruction auf 7rt am Ende derselben aber auf 8rt 8gr erhöhte und zwar so lange, bis sie erweislich wieder im Stande sein würde, ihren Unterhalt selbst zu erwerben.
+
+[S. 2]
+Hiermit verband Kl. ein Arrestgesuch auf das
+[S. 4]
+beim Banquier Mendelsson und der unverehelichten Marcusson bindliche Vermögen des Verkl., der sich in Italien aufhielt, welchem Antrage unterm 7. November 1822 deferirt wurde.
+
+[S. 3]
+Der Verkl. hat jede Verbindlichkeit zum Schadensersatze bestritten, da er bloß wegen geringer Realinjurien bestraft und im Erkenntnisse selbst ausgeführt worden, der Vorfall sei ohne merkliche Beschädigung abgelaufen.
+
+[S. 4]
+Er hat der nochmaligen Beweisaufnahme über den Vorfall widersprochen, eventl. aber die Höhe der Liquidationen des Apothekers Flittner, des Wundarztes Beer und des Gnichard für Bäder, die für Medicamente, Wein, Aufwartung und Kräuterbäder ganz, für 3 Aderlässe aber nur 12gr, an monatlichen Alimenten endlich nur 2rt und auch diese nur bis zum 15. Januar 1822, so lange Kl. geständlich zu Bette gelegen, eingeräumt. Er leugnet ferner, der Kl. Haubenband und Dose vernichtet zu haben, bestreitet jeden Causalzusammenhang der Beleidigung mit dem Wundheitszustande der Kl. sowie deren Arbeitsunfähigkeit.
+[S. 5]
+Der Dr. Kluge giebt in seinem Gutachten den Vorfall vom 12. August 1821 so an, wie ihn die unverehel. Elke bekundet hat, und gründet es auf diese Thatsachen. Der Geheime Rath Dr. Horn führt zwar die gen. Thätlichkeiten in seinem Gutachen nicht speziell an, indeß ist es keinem Zweifel unterworfen, daß er demselben ebenfalls die von der Elke bekundeten zum Grunde gelegt hat.
+
+[S. 5]
+Sonach kommt es darauf an, ob und in wiefern diese Thätlichkeiten vom Verkl. zugestanden oder sonst erwiesen sind. Der Verkl. hat bestritten, daß er der Kl. die im Atteste des Dr. Kluge vom 12. August 1821 bemerkten Verletzungen zugefügt habe, und im Vorprozesse hat er nur zugestanden, daß er die Kl. das erstemal um den ganzen Leib gefaßt und hinausgeschleppt habe, obgleich sie sich aus Leibeskräften gewehrt und daß er sie nachher abermals, obgleich sie sich auf das heftigste gewehrt und aus allen Kräften gekreischt, hinausgeworfen habe und sie auf dem Flur hingefallen sei. Hiernach differirt das Zugeständnis des Verkl. in wesentlichen Punkten von der Aussage der Elke, wonach der Verkl. die Klägerin:
+
+[S. 6]
+1. bei dem ersten Hinauswerfen mit beiden Händen um den Hals faßte, sie so, daß die Beine auf dem Fußboden schleiften, bis an die Thüre schleppte, sie auf eine gewaltsame Weise in die Ecke der Flurwand drückte und dort einen Augenblick festhielt.
+
+2. nachdem er sie zum zweitenmale zur Entreethüre hinausgebracht hatte, er sie mit vieler Gewalt von sich nach dem Flure stieß, so daß sie und zwar auf die rechte Seite zu Boden fiel und an einer Stelle des Halses blutete.
+
+[S. 6]
+Diese Thatsachen müssen als erheblich geachtet werden, weil sie dem die Entscheidung motivirenden Gutachten zum Grunde liegen. Sie sind nur von einer, übrigens unverdächtigen Zeugin bekundet worden, deren Aussage aber durch das unmittelbar nachher von dem Dr. Kluge ausgestellte visum repertum, durch die Aussage des Dr. Beer und der verehel. Lorenz, welche letzte die Kl. gleich nach dem Vorfall traf, unterstützt wird. Es ist sonach mehr als halber Beweis da und deshalb war Kl. zum Erfüllungseide zu verstatten, welcher jedoch nur auf
+[S. 7]
+die Hauptumstände, hinsichts deren eine Differenz zwischen der Aussage der unverehl. Elke und dem Zugeständnis des Verkl. obwaltet, gerichtet werden konnte.
+
+[S. 7]
+Schwört sie ihn nicht, so fehlt es ihrem Ansprüche an jedem Fundamente, da nicht constirt, daß ihr Krankheitszustand eine Folge der vom Appellationsrichter in der Injuriensache für unschädlich erachteten Thätlichkeiten sei, welche der Verklagte eingestanden hat, und sie muß mit ihrer Klage abgewiesen werden.
+
+[S. 8]
+Im Schwörungsfalle dagegen stehen die zu den ärztlichen Gutachten zum Grunde gelegten Thätlichkeiten fest.
+
+[S. 9]
+Die Kl. hat den Beweis des Causalzusammenhanges zwischen diesen und ihrem nachherigen Krankheitszustande auf eine künstliche Art zu führen versucht, indem sie behauptet hat,
+
+1. daß sie bis zum Vorfalle am 12. August fortwährend bis auf unbedeutendes hin und wieder sich einstellendes Kopfweh gesund und arbeitsfähig gewesen sei. Dies wird auch bekundet von der Wittwe Becker, dem Chirurgus Offenhauser
+[S. 8]
+(fol. 88), der verehl. Doktor Lehmus, der verehl. Schulze, und der verehl. Thurm, ist also für vollständig erwiesen, anzunehmen;
+
+2. daß ihr Krankheitszustand schon am Abende desselben Tages angefangen und unausgesetzt fortgedauert habe. Auch dies wird vollständig durch die Aussage der Wittwe Becker, des Dr. Beer, der verehl. Lorenz (fol. 92) der unverehl. Elke, der verehl. Schulze und der verehl. Thurm (fol. 91) und durch das Attest des Dr. Kluge in Verbindung mit seinem und des Geheimen Raths Dr. Horn späterem Gutachten erwiesen. Aus diesen beiden Sätzen in Verbindung damit, daß von einer anderen Ursache oder auch nur einer Veranlassung ihres spätem krankhaften Zustandes nichts constire, schließt nun Kl., daß die Thätlichkeiten des Verkl. am 12. August 1821 alleinige Ursache desselben sei.
+
+[S. 10]
+Wenn auch dieser Schluß nicht unzweifelhaft ist, so folgt doch aus obigen beiden Thatsachen in Verbindung mit den ärztlichen Gutachten, daß der krankhafte Zustand der Kl., wenn
+[S. 9]
+auch nicht durch die Thätlichkeiten des Verkl. am 12. August 1821 doch wenigstens bei Gelegenheit derselben entstanden ist. Dies ist genügend, weil nach dem A.LRechte Theil 1, Titel 6, § 25
+
+:derjenige, welcher in der Ausübung einer unerlaubten Handlung sich befunden hat – (und das war der Verkl. unbedenklich, da er wegen seiner Thätlichkeiten sogar bestraft worden ist,) die Vermuthung gegen sich hat, daß ein bei solcher Gelegenheit entstandener Schade durch seine Schuld verursacht worden.
+
+[S. 11]
+Diese gesetzliche Vermuthung wird durch die beiden ärztlichen Gutachten nicht nur nicht widerlegt, sondern sogar verstärkt. Denn wenn es auch der Gutachter Dr. Horn für zweifelhaft hält, ob der Krankheitszustand der Kl. überhaupt eine Folge der Thätlichkeiten sei, so giebt er dies doch eo ipso als möglich zu, ja er hält es für wahrscheinlich, daß er eine zufällige Folge sei. Der Dr. Kluge dagegen, dessen Gutachten überhaupt den Vorzug vor dem des Dr. Horn verdient, weil er die Kl. nicht bloß unmittelbar nach dem gen. Vorfalle, sondern auch nachher öfters
+[S. 10]
+besichtigt hat, nimmt den Umstand, daß der spätere Krankheitszustand der Kl. überhaupt eine Folge der Thäthlichkeiten des Verkl. sei für feststehend an, indem er ihn sogar als eine unmittelbare Folge für möglich, als zufällige Folge aber für wahrscheinlicher hält.
+
+[S. 12]
+Aber auch abgesehen von diesem Gutachten hätte der Verkl., weil ihm die gesetzliche Vermuthung des § 25 l.c. entgegensteht, erweislich machen müssen, daß der krankhafte Zustand eine andere Ursache als seine Thätlichkeiten gehabt habe. Dies ist nicht geschehen. Er ist also beweisfällig, und es würde schon deshalb angenommen werden müssen, daß der, der Kl. erwachsene Schaden durch seine Thätlichkeiten entstanden sei. Dies muß um so mehr bei dem Inhalte des Dr. Klugeschen Gutachtens angenommen werden. Doch kann dieser Schade, weil hiernach derselbe als eine zufällige Folge wahrscheinlicher ist, nach § 4 l.c. nur für einen zufälligen erachtet werden. Dies ist aber in effectu nach § 16 l.c. gleichgültig,
+[S. 11]
+weil hiernach, wenn, wie hier, die Handlung wider ein Verbotgesetz war, auch der daraus entstandene zufällige Schade vergütet werden muß. Hiernach mußte der Verkl. zum Schadens-Ersatze an die Kl. verurtheilt werden. Aber auch den entgangenen Gewinn hat der Verkl. der Kl. zu praestiren. Des A.LRechts Theil 1, Titel 6, § 10 bestimmt:
+
+:Wer einen anderen aus Vorsatz oder grobem Versehen beleidigt, muß demselben vollständige Genugthuung leisten.
+
+[S. 13]
+Hierzu gehört aber nach § 7 ibidem nicht nur der Ersatz des gesammten Schadens, sondern auch der entgangene Gewinn, der im § 115 l.c. näher dahin bestimmt wird:
+
+:Ist durch die zugefügte Verletzung der Beschädigte sein Amt oder Gewerbe auf die bisherige Art zu betreiben, gänzlich außer Stande gesetzt worden, so haftet der Beschädiger für diejenigen Vortheile, deren fortgesetzter Genuß dem Beschädigten dadurch entzogen wird.
+
+[S. 12]
+und § 116.
+
+:Ist die Beschädigung aus Vorsatz oder grobem Versehen zugefügt worden, so müssen dem Beschädigten auch künftige Vortheile vergütet werden, deren Erlangung derselbe, nach dem natürlichen und gewöhnlichen Laufe der Dinge, vernünftigerweise erwarten konnte.
+
+[S. 14]
+Und zwar so lange, bis der Verkl. nachgewiesen, daß die Kl. im Stande sei, ihren Unterhalt selbst zu erwerben § 119 l.c.
+
+:Sobald der Beschädigte, der Verletzung ungeachtet, durch Anwendung seiner körperlichen oder Geisteskräfte zu einem wirklichen Erwerbe gelangt, so muß derselbe auf die nach § 115 sq. zu leistende Entschädigung abgerechnet werden.
+
+[S. 15]
+Was nun hiernach die einzelnen Forderungen der Kl. anlangt, so hat der Verkl. die Höhe der Liquidationen des Apothekers Flittner, des Wundarztes Beer und des Gnichard für Bäder als richtig anerkannt. Die Aderlässe
+[S. 13]
+und deren Preis stehen durch das Zeugniß des Chirurgus Offenhauser und des p Beer fest; eben so durch das Zeugniß des letztern die Nothwendigkeit der wöchentlichen Arzneimittel, des Weines und einer Aufwärterin. Die Nothwendigkeit der Kräuterbäder ist durch das Zeugniß des Stadtphysikus Natorp nachgewiesen. Die wirkliche Verwendung hat die Aufwärterin Lorenz im Allgemeinen bekundet, den Betrag aber der Verkl. eventl. anerkannt. Die unverehelichte Elke hat bezeugt, daß die feine Haube der Kl. unmittelbar nach dem Vorfalle ein Loch hatte, und daß das Band daran mit Blut befleckt war. Im Injurienprozesse hat dieselbe bekundet, daß der Verkl. der Kl. die Haube bei Gelegenheit des Hinausschleuderns abgerissen.
+
+[S. 16]
+Der liquidirte Werth beider Gegenstände ist so unbedeutend, daß derselbe nach Vorschrift der AGOrdnung I. Titel 22 § 10. auch ohne juramentum in litem, wozu sich Kl. erboten, als richtig anzunehmen.
+
+[S. 17]
+Was nun endlich den entgangenen Gewinn betrifft, so ist zwar durch das Zeugnis
+[S. 14]
+der Lehmus und Thurm als erwiesen anzunehmen, daß die Kl. früher durch Nähen Stricken und Plätten monatlich wenigstens 8⅓ rt verdient habe. Man kann indeß nach den ärztlichen Gutachten nicht annehmen, daß sie durch ihren körperlichen Zustand verhindert werde, sich auf irgend eine Art ihr Brod zu verdienen. Der Geheime Rath Dr. Horn sagt dies nur vom Nähen, Waschen und Plätten. An andern leichtern weiblichen Arbeiten, welche nicht gerade eine Festigkeit des rechten Arms erfordern, wird sie nicht verhindert, und mehrere Zeugen, z. B. die Wittwe Becker, der Dr. Beer (fol. 82) bekunden, daß sie (nur nicht anhaltend) stricken könne.
+
+[S. 18]
+Es hat ihr daher nur das Quantum zugesprochen werden können, was sie jetzt weniger als sonst verdienen kann, und das war um so mehr nur auf monatliche 5rt zu bestimmen, als sie selbst anfänglich nicht mehr verlangt hat. Die vierteljährige Vorauszahlung der Alimente
+[S. 15]
+ist Vorschrift des A.LRechts Theil 1, Titel 16 § 61.
+
+:Alimente, sie mögen aus einem Vertrag oder letzter WillensErklärung, oder vermöge des Gesetzes zu entrichten sein, müssen allemal vorausbezalt werden,
+
+und § 62.
+
+:Wenn der Termin, auf wie lange die Vorausbezalung jedesmal geschehen solle anderwärts nicht bestimmt ist, so muß ein Vierteljahr voraus bezalt werden.
+
+[S. 19]
+Was den angelegten Arrest betrifft, so ist, im Falle die Kl. den Eid leistet, ihre Forderung hinreichend bescheinigt, und da der Verkl. nicht nachgewiesen, daß er in den preußischen Staaten mit Immobilien angesessen, er auch keine Caution angeboten, der Umstand aber, daß er an der hiesigen Universität lieset, bei seinem den Akten nach noch nicht beendeten Aufenthalt im Auslande der Kl. für ihre Forderung keine Sicherheit giebt, so war derselbe, jedoch nur auf Höhe der erkannten Summe für gerechtfertigt zu achten.
+[S. 16]
+Die Zuvielforderung der Kl. hatte nach Vorschrift der Allg. Ger.-Ordnung I 23 § 3 No 1 und 3b für den Schwörungsfall die Compensation der Kosten in dem festgesetzten Verhältnisse zur Folge, weil die Thatsache so beschaffen ist, daß der Verkl. von dem Grunde oder Ungrunde derselben aus eigener Wißenschaft hat unterrichtet sein können. Sie fallen nach § 2 l.c. ihr sämtlich zur Last, wenn sie nicht schwört.
+
+Urkundlich unter des Königlichen Kammergerichts größeren Siegel und Unterschrift ausgefertigt. Berlin den 4. Oktober 1824.
+
+Kategorie:Rechtsgeschichte
+Kategorie:Rechtswissenschaft
+Kategorie:Gerichtsentscheidung
+Kategorie:1820er Jahre
+Kategorie:Deutschland
+Kategorie:Neuhochdeutsch

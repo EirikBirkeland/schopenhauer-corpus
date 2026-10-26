@@ -1,0 +1,151 @@
+# TIER 1 PRIMARY (published work) | German original, collected edition of 1877 | a readable printing of the collected edition, 1877
+# title: Einige Worte ueber den Pantheismus (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Some words on pantheism - the English title is this collection's rendering
+# year: 1877 printing of a work first published 1851
+# edition: Arthur Schopenhauer's saemmtliche Werke: Parerga und Paralipomena, zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), in the arrangement made by Julius Frauenstaedt; this layer does not state which edition it is, so none is claimed. Chapter V of this volume, pages 104-107, sections 69-71 by ITS OWN numbering - which runs one ahead of the 1851 first edition, verified at six points by matching opening sentences (see the file header). Text layer scored 10.9 common words per hundred by bin/ia-read.js: readable, but it prints f for the long s, f for k and j for i here and there.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/arthurschopenha01schogoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 13, which got the FRONT of Parerga - lost in the 1851 scan, whose display headings are shredded across its first 169 pages (GAP-4) - by turning to a LATER printing whose OCR is clean. Two things to keep straight when quoting these files: the text-state is 1877, not 1851, being Frauenstaedt's arrangement and a later text; and the paragraph numbers run one ahead, so "§ 62" here is "§ 61" in the first edition. Where the same chapter exists in both printings (file 63 beside file 53) the collection holds two witnesses and says which it used. Short, and the more valuable for being in: the quarrel of theism and pantheism as told to the philosophy professors in allegory and drama.
+
+[Note of this collection, not part of the print: this chapter comes from the READABLE printing in Arthur Schopenhauer's saemmtliche Werke, "Parerga und Paralipomena" zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), NOT from the 1851 first edition. That is a decision with two consequences, both recorded here rather than hidden. (1) The text is the collected edition as Julius Frauenstaedt arranged it, and this printing is dated 1877 on its title page, three years after his death; the layer does not give the edition number, so none is claimed. It is a LATER text-state than files 27 and 30-52: a quotation from these files is quoted as 1877, not as 1851, and its chapter numbers follow this edition's contents, which differ from the 1851 print's. (2) ITS PARAGRAPH NUMBERS RUN ONE AHEAD of the 1851 print - verified at six points, and at each the opening sentence is the same text, so the pairing is not guessed: Dinges an sich 1851 § 61 / here § 62 (the opening sentence being identical in both, which is what proves the pairing); Pantheismus 1851 § 68 / here § 69; Farbenlehre 1851 § 103 / here § 104; Ethik 1851 § 108 / here § 109; Nichtigkeit 1851 § 142 / here § 143; Selbstmord 1851 § 157 / here § 158. Below § 61 the two printings were not compared when this note was written, so the shift is asserted only where it was verified. Anyone citing a paragraph number must say which printing it came from. This volume's own table of contents gives the chapter as Kapitel V on pages 104-107, and its opening paragraphs as § 69; the copy's heading in this layer reads "rdern. Kapitel V. Einige Worte über ben Pantheismus. 8. 69. Die in jegiger Zeit, unter den Bhilofophieprofe" - the OCR mangles the word Kapitel now and one numeral, so the number is taken from the volume's contents, not from the heading's letters. Page markers: 0 made from the volume's GENERAL running head ("Schopenhauer, Parerga. II. 12" and its garbled twins - the OCR spoils that title differently on every page, which is why it was once thrown out as a junk line and why repetition could not identify it), recovered only where the number continues the sequence within twelve pages and falls inside the contents range for this chapter (none), plus 3 from heads naming this chapter (S. 105 to S. 107). Both are recovered, neither is estimated: where the OCR lost a head there is no marker. WHAT WAS TRIED AND DECLINED, pass 18: the general head was measured before it was trusted - only 8 lines in the whole 34,746 still spell 'Parerga', and loosening the test to mere shape (a short line with a comma, ending in a figure) turns up a handful per chapter whose numbers fall OUTSIDE the pages the contents give for that chapter, so they are furniture from another gathering, not this chapter's pages. The general head is therefore recorded as NO DATA, and these files are cited by chapter, by their own paragraph numbers, and by the few chapter heads that survived. Short OCR noise lines were dropped (5); the long s is normalised to s (21 here), and this layer also prints f for k and j for i now and then, so read a quotation against the scan.]
+
+Einige Worte über ben Pantheismus.
+
+
+Die in jegiger Zeit, unter den Bhilofophieprofefforen, ge:
+führte Kontroverfe zwifchen Theismus und Pantheismus Tönnte
+man aífegorijd) und dramatifch darjtellen, burd) einen Dialog,
+ber im Parterre eines Schaufpielhaufes in Mailand, während ber
+SRor[telfung, geführt würde. Der eine Kollokutor, überzeugt, (id
+in dem großen, berühmten Puppenfpieltheater des Girolamo zu
+befinden, bewundert die Kunst, mit welcher der Direkteur die
+Puppen verfertigt Dat und das Spiel lenft, Der andere jagt
+dagegen: Ganz und gar nicht! (onbern man befünbe fid im
+teatro della scala, ber Direfteur und feine Gefellen jpielten
+felbft mit und ftäfen in den Perfonen, bie man da vor fid) fähr,
+wirklich drinne; aud) der Dichter jpiele mit. — .
+
+Ergötzlich aber ijt c8 zu fehn, wie bie Philofophieprofefforen
+mit bem Bantheismus, als mit einer verbotenen Frucht, liebs
+äugeln und nicht das Herz haben, zuzugreifen. Ihr Verhalten
+dabei habe ich bereits in der Abhandlung über bie Univerfitäts-
+philofophie gefchildert; wobei wir an ben Weber Bottom im
+Iohannisnahtstraum erinnert wurden. — Ad, e8 ift bodj ein
+faueres Stück Brod, das Philofophieprofefforenbrod! Erft muß
+man nad) der Pfeife ber Minifter tanzen, und wenn man nun
+das vedjt zierlich geleiftet hat, da kann man draußen nod) am.
+gefallen werden von den wilden Menfchenfreffern, ben wirklichen
+Philofophen: die find im Stande Einen einzufteden und mitzu:
+nehmen, um ihn als Zafchenpulcinello, zur Aufheiterung bei ihren
+Darftellungen, gelegentlich hervorzuziehn.
+
+
+Einige Worte über ben Pantheismus. [S. 105] ch nur Diefes,
+bap er nichts bejagt. Die Welt Gott nennen Heißt fie nicht er-
+Hören, fondern nur die Sprache mit einem überflüffigen Syno⸗
+nun des Wortes Welt bereichern. Ob ihr fagt „die Welt ijt
+Gott”, oder „die Welt ijt die Welt” Täuft auf Eins hinaus.
+Zwar wenn man babei vom Gott, als wäre er das Gegebene
+und zu Grffürenbe, wusgeht, aljo fagt: , Gott ift die Welt;
+da giebt es gewiffermaafßen eine Erklärung, fofern e8 bod) igno-
+tum auf notius zurüdführt: bod) ijt e8 nur eine Worterflärung.
+Allein menn man bon bem mirffidj Gegebenen, aíjo der Welt,
+ausgeht, unb nun jagt „die Welt ijt Gott”, ba liegt am Tage,
+daß damit nichts gejagt, oder wenigftens ignotum per ignotius _
+erklärt. ift.
+
+Daher eben fett der Pantheismus den Theismus, als ihm
+vorhergegangen, voraus: denn nur fofern man von einem Gotte
+ausgeht, aljo ihn fchon vorweg Bat und mit ihm vertraut ijt,
+fan man zuleßt dahin kommen, ihn mit der Welt zu identifi-
+ziren, eigentíid) um ihn auf eine anftändige Art zu befeitigen.
+Man ift nämlich nicht unbefangen von der Welt, als dem zu
+Erflärenden ausgegangen, fondern von Gott als dem Gegebenen:
+nahdem man aber bald mit diefem nicht mehr wußte wohin, da
+hat die Welt feine Rolle übernehmen follen. Dies ift der Ur-
+iprung des Pantheismus. Denn von vorne herein unb unbe-
+fangenerweife diefe Welt für einen Gott anzufehn, wird feinem
+einfallen. Es müßte ja offenbar ein übel berathener Gott jeyn,
+der fid) feinen bessern Spaaß zu machen verftände, als fid) in
+eine Welt, wie die vorliegende, zu verwandeln, in fo eine Dungrige
+Belt, um bajefbft in Geftalt zahliofer Millionen lebender, aber
+geängftigter und gequälter Wefen, die fünmtlih nur baburd) eine
+Beile beftehn, bag eines das andere auffrißt, Sammer, Noth unb
+iob, ohne Maaß und Ziel zu erdulden, 3. 39. in Geftalt von
+^ Millionen Negerfllaven, täglich, im Durchfchnitt, 60 Millionen
+fetídenbiebe auf bloßem Leibe zu empfangen, und in Geftalt
+von 3 Millionen Guropüijder Weber "unter Hunger unb Kummer
+m dumpfigen Kammern oder troftlofen Fabriksälen fchwach zu
+vegetiren u: dgl. m. Das wäre mir eine Kurzweil fir einen Gott!
+ver als solcher es bod) ganz anders gewohnt jeyn müßte.
+
+ [S. 106]
+
+
+Demnad ijt ber vermeinte große Fortjchritt vom Theismus
+zum Bantheisınus, wenn man ihn ernftfidj und nicht bloß als
+maéfirte Negation, wie oben angedeutet, nimmt, ein Llebergang
+vom Unerwiefenen und [der Denkbaren zum geradezu Abfurden.
+Denn jo mubeutfid), schwankend und vermorren der Begriff aud
+feyn mag, den man mit dem Worte Gott verbindet; fo find
+doch zwei Präbdifate davon unzertrennlih: bie höchste Macht
+und bie Dódjte Weisheit. Daß nun ein mit diefen ausgerüfte:
+tes Wefen fid) selbst in die oben befchriebene vage verjett haben
+follte, ift geradezu ein abjurder Gedanke: denn unfre Lage in
+ber Welt ijt offenbar eine (olde, im bie fid) fein intelligentes,
+gejchweige ein allweifes Wesen verjegen wird. — Der Theismus
+hingegen ijt bloß unermiejen, und wenn e8 auch fehwer zu bem.
+fen fällt, daß die unendliche Welt das Werk eines perfönlichen,
+mithin individuellen Wesens, dergleichen wir nur aus ber ani
+malifhen Natur kennen, fei; fo ift e8 bod) nicht geradezu abfurd.
+Denn daß ein allmächtiges und dabei allweijes Wejen eine ge
+quälte Welt ídjaffe, fügt fid) immer noch denken, wenngleid) wir
+das Warum dazu nicht fennen: daher, felbjt menn man ben.
+felben aud) nodj die Eigenfchaft ber höchsten Güte beilegt, die
+Unerforfchlichkeit feines Nathfchluffes die Ausflucht wird, durd
+welche eine folche Lehre immer nod) dem Vorwurf der Abfurbität
+entgeht. Aber bei ber Annahıne des Pantheismus ijt der fchaf-
+fende Gott (efbjt der endlos Gequälte und, auf biefer Kleinen
+Erbe allein, in jeder Sekunde ein Mal Sterbende, und foldes
+ift er aus freien Stüden: das ift abjurb. Biel richtiger wäre
+e8 die Welt mit dem Zeufel zu ibentificiren: ja, dies Dat ber
+ehrwürdige Verfasser ber Deutfchen Theologie eigentfid) gethan,
+indem er ©. 93 feines unfterblichen Werkes (nach dem wieber-
+hergeftellten Text, Stuttgart 1851) fagt: „Darum ijt der büje
+Geift und die Natur Eins, unb wo die Natur nit überwunden
+ift, da ift auch der böfe Feind nicht überwunden.” *)
+
+
+*) Theologia deutsch, hesausgeg. von Franz Pfeiffer, Stuttgart 1851,
+pag. 93: „Dar umb sö ist der böse geist und die nätür eins, und wä
+die nàtür uberwunden ist, dä’ ist ouch der böse geist uberwunden; und
+hinwiderumb, wä nátür nit uberwunden ist, dà ist ouch der böse fint
+nit uberwunden." Der Herausg.
+
+
+Einige Worte über den Pantheismus. [S. 107]  den Namen
+Gott. Denfelben Namen geben Hingegen die Mystiker bem
+Nirwana. Bon diefem erzählen fie jebod) mehr, afe fie wissen, —
+weídes8 bie Buddhaisten nicht thun; daher ihr Nirwana ein
+relatives Nichts ift — In feinem eigentlihen und richtigen
+Sinn gebraucht das Wort Gott die Synagoge, bie Kirche und
+der Islam.
+
+Der heut zu Tage oft gehörte Ausdrud „die Welt ijt Selbft-
+zweck“ läßt unentfchieden, ob man fie durch Pantheismus oder
+duch bloßen Fatalismus erkläre, gejtattet aber jedenfalls nur
+eine phnfifche, Teine moralifche Bedeutung berjelben, indem, bei
+Annahme diefer Legteren, die Welt allemal fid) al8 Mittel bar-
+jtellt zu einem höhern Zwed. Aber eben jener Gedanke, daß
+die Welt bloß eine phufifche, feine moralifhe Bedeutung habe,
+ijt der heillofefte Srrtfum, entiprungen aus ber größten Ber-
+verfität des Geistes.
+
+
+Aur Bhilofophie unb Wiffenfhaft ber Natur.
+
+
+Die Natur ift ber Wille, fofern er fid) selbst außer fif
+erblidt; wozu fein Standpunkt ein individueller Intel

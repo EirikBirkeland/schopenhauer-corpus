@@ -1,0 +1,22 @@
+{
+  "name": "schopenhauer-corpus",
+  "version": "1.0.0",
+  "description": "A tiered Schopenhauer corpus for RAG: his own texts, studies checked against them, and a shelf of gossip.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "validate": "node bin/schop-validate.js",
+    "index": "node bin/schop-index.js",
+    "shelves": "node bin/schop-gossip.js gossip.txt",
+    "aids": "node bin/schop-secondary.js && node bin/schop-english.js",
+    "check": "node bin/schop-validate.js"
+  },
+  "keywords": [
+    "schopenhauer",
+    "corpus",
+    "rag",
+    "text-collection",
+    "citation-discipline"
+  ],
+  "license": "GPL-3.0-or-later"
+}

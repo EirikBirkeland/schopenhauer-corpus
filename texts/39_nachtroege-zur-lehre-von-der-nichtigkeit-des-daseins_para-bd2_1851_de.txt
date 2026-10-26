@@ -1,0 +1,268 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Nachtraege zur Lehre von der Nichtigkeit des Daseins (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Supplements to the doctrine of the nothingness of existence - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 246-251. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "Kapitel XI. Nahträge zur Lehre von ber Nichtigfeit bes Dafeyns."; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (91 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XI. Nahträge zur Lehre von ber Nichtigfeit bes Dafeyns. $.", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 142 to § 147, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (0 made); the chapter's range by the volume's own heads is S. 246-251.]
+
+Kapitel XI.
+Nahträge zur Lehre von ber Nichtigfeit bes Dafeyns.
+
+
+$. 142.
+
+
+Diefe Nichtigkeit findet ihren Ausdrud an der ganzen Form
+des Dafeyns, an der Unendlichkeit der Zeit und des Raumes,
+gegenüber der Endlichfeit des Individuums in Beiden; an ber
+dauerlofen Gegenwart, als der alleinigen Dafeynsweife der Wirf-
+lihfeit; an der Abhängigfeit und NRelativität aller Dinge; am
+fteten Werden ohne Seyn; am fteten Wünfchen ohne Befriebi-
+gung; an ber fieten Hemmung des Sterbens, durch die bag Le—
+ben befteht, bis diefelbe ein Mal überwunden wird.
+
+
+$. 143.
+
+
+Was gewesen ist, das ist nicht mehr; ift eben fo wenig,
+wie Das, was nie gewejen ift. Aber Alles, was ift, ift im
+nächsten Augenblid schon gewesen. Daher hat vor der bebeuten-
+deften Vergangenheit die unbebeutendefte Gegenwart die Wirf-
+lihfeit voraus; woburd fie zu jener sich verhält, wie Etwas
+zu Nichte. —
+
+Man ift mit Einem Male, zu feiner Verwunderung,, da,
+nachdem man, zahllofe Zahrtaufende hindurch, nicht gewesen, und,
+nad einer kurzen Zeit, eben fo lange wieder nicht zu feyn hat.
+— Das ift nimmermehr richtig, fagt das Herz: und felbft dem
+toben Berftande muß aus Betrachtungen diefer Art eine Ahn-
+dung der Spealität der Zeit aufgehn. Diefe aber, nebft der des
+Raumes, ift der Schlüffel zu aller wahren Metaphysik; meil
+durch diefelbe für eine ganz andre Ordnung der Dinge, ald bie
+der Natur ift, Platz gewonnen wird. Daher ift Kant fo groß.
+
+Sedem Borgang unfers Lebens gehört nur auf einen Au—
+genblid das Ist; fodann für immer das War. Geben Abend
+find wir um einen Tag ärmer. Wir würden vielleicht, beim
+
+ll. 16
+
+
+242 Nachtraͤge zur Lehre
+
+
+Anblick diefes Ablaufens unfrer Furzen Zeitfpanne, rafend wer:
+den; wenn nicht im tiefften Grunde unsres Wesens ein heimli-
+ches Bewußtfeyn läge, daß und der nie zu erichöpfende Born
+der Ewigfeit gehört, um immerdar die Zeit des Lebens daraus
+erneuern zu fünnen.
+
+Auf Betrachtungen, wie die obigen, fann man allerdings
+die Lehre gründen, daß die Gegenwart zu geniefen und Dies
+zum Zwecke feines Lebens zu machen, die größte Weisheit fei;
+weil ja jene allein real, alles Andere nur Gedanfenfpiel wäre.
+Aber eben fo gut fünnte man es die größte Thorheit nennen:
+denn was im nächsten Augenblicke nicht mehr ift, was fo gänz-
+ih verfchwindet, wie ein Traum, ift nimmermehr eines ernfili-
+hen Strebens werth.
+
+
+$. 144.
+
+
+Unfer Dafeyn Hat wefentlich die beftändige Bewegung
+zur Form, ohne Möglichkeit der von ums ftet3 angeftrebten Ruhe.
+Es gleicht dem Laufe eined bergab Nennenden, der, wenn er
+stillstehn wollte, fallen müßte und nur durch Weiterrennen fid
+auf den Beinen erhält; — ebenfalld ber auf der Fingerfpige
+balaneirten Stange; — wie auch dem Planeten, der in feine
+Sonne fallen würde, sobald er aufhörte, unaufhaltfam vorwärts
+zu eilen. — Alfo Unruhe ift der Typus des Dafeyns.
+
+In einer folhen Welt, wo feine Stabilität irgend einer
+Art, Fein dauernder Zuftand möglich, fondern Alles in raftfofem
+Wirbel und Wechsel begriffen ift, Alles eilt, fliegt, fih auf dem
+Seile, dur fteted Schreiten und Bewegen, aufrecht erhält, —
+läßt Gtüdfäligfeit fih nicht ein Mal denken. Sie fann nicht
+wohnen, wo Plato’s „beftändiges Werden und nie Seyn” allein
+Statt findet.
+
+Inzwischen muß man fi) wundern, wie, in der Menschen⸗
+und Tierwelt, jene fo große, mannigfaltige und rastlose Bewe⸗
+gung bervorgebradt und im Gange erhalten wird durch Die zwei
+einfachen Triebfedern, Hunger und Gefchlechtstrieb, denen allen-
+falls nur noch die Langeweile ein wenig nachhilft, und daß diefe
+ed vermögen, dad primum mobile einer fo komplicirten, das
+bunte Puppenfpiel bewegenden Mafchine abzugeben.
+
+Betrachten wir nun aber die Sache näher, fo fehn mir
+
+
+von der Nichtigfeit des Daseyns. 243
+
+
+zuvoörderst Die Existenz bed Unorganifhen jeden Augenblick ange-
+griffen und endlich aufgerieben von den chemischen Kräften; bie
+bed Organischen hingegen nur möglich gemacht durch den beftän-
+digen Wechfel der Materie, welcher fortwährenden Zufluß, folg-
+lich Hülfe von außen, erfordert. Schon an sich selbst alfo gleicht
+das organische Leben der auf der Hand balancirten Stange, bie
+stets bewegt seyn muß, und ift daher ein beftändiges Bedürfen,
+stets wiederlehrender Mangel und endlose Noth. Jedoch ist erst
+vermittelst dieses organischen Lebens Bewußtseyn möglich. —
+Dies Alles demnach ist das endliche Daseyn, als dessen Ge—
+gensatz ein unendliches zu benfen wäre als weder dem Angriff
+von außen ausgesetzt, noch der Hülfe von außen bedürftig und
+daher ası wonvsws ov, in ewiger Ruhe, owze yırvousvov, ours
+anohAuwevov, ohne Wechsel, ohne Zeit, ohne Bielheit und Ver⸗
+Ihiedenheit, — dessen negative Erfenninig der Grundton ber
+Philofophie des Plato if. Ein folhes muß dasjenige feyn,
+wohin die Berneinung des Willens zum Leben ben Weg er
+öffnet. ;
+| $. 145.
+
+
+Die Scenen unfers Lebens gleichen den Bildern in grober
+Nufaif, melde in der Nähe Feine Wirkung thun, fondern von
+benen man fern ftehn muß, um fie fchön zu finden. Daher
+beißt etwas Erfehntes erlangen dahinter fommen, daß es eitel
+it, und Ieben wir allezeit in der Erwartung des Befleren, auch
+oft zugleich in reuiger Sehnfucht nach dem Vergangenen. Das
+Gegenwärtige hingegen wirb nur einftmeilen fo hingenommen
+und für nichts geachtet, als für den Weg zum Ziel. Daher
+werben die Meiften, wenn fie am Ende aurüdbliden, finden,
+daß fie ihr. ganzes Leben hindurch ad interim gelebt haben,
+und verwundert seyn, zu fehn, daß Das, was fie fo ungeachtet
+und ungenossen vorübergehn Tiefen, eben ihr Leben war, eben
+Das war, in dessen Erwartung fie Iebten. Und fo ift denn ber
+Lebenslauf des Menschen, in der Regel, diefer, daß er, von der
+Hoffnung genarrt, dem Tode in die Arme tanzt.
+
+Nun aber dazu die Ilmerfästlichkeit des individuellen Wil-
+Ind, vermöge welcher jede Befriedigung einen neuen Wunsch
+erzeugt und jein Begehren, ewig ungenügfam, ins Unendliche
+
+16°
+
+
+*
+
+
+244 Machträge zur Lehre
+
+
+geht! Sie beruht feboch im Grunde daranf, daß der Wille, an
+sich felbft genommen, der Herr der Welten ift, dem Alles anger
+hört, dem daher fein Theil, fondern nur das Ganze, welches
+aber unendlich ift, Genüge geben könnte. — Wie muß ed in—
+zwifchen unfer Mitleid erregen, wenn wir betrachten, wie blut⸗
+wenig bagegen biefem Herrn der Welt, in feiner individuellen
+Erfheinung, wird: meiftens eben nur fo viel, als hinreicht, den
+individuellen Leib zu erhalten. Daher fein tiefes Weh.
+
+
+$. 146.
+
+
+In der gegenwärtigen, geiftig impotenten und sich durch Die
+Verehrung. des Schlechten in jeder Gattung auszeichnenden Pe—
+riode, — welche sich recht paflend mit dem selbstfabricirten, fo
+prätenfiöfen, wie Tafophonifchen Worte „Jetztzeit“ bezeichnet,
+als wäre ihr Jetzt das Gebt zur’ sLoynv, das Zeit, welches
+beranzubringen alle andern Jetzt allein dbagewefen, — entblöden
+denn au die Pantheiften sich nicht, zu fagen, das Leben fei,
+wie fie ed nennen, „Selbstzweck.“ — Wenn biefed unfer Da-
+seyn der letzte Zwed ber Welt wäre; fo wäre es ber albernfte
+Zweck der je gelegt worden; möchten nun wir felbft, oder ein
+Anderer ihn gejeßt haben. —
+
+Das Leben ftellt fih zunächst dar als eine Aufgabe, näm⸗
+lich die, e8 zu erhalten, de gagner sa vie, ft diefe gelöft, fo
+ift das Gewonnene eine Laft, und es tritt bie zweite Aufgabe
+ein, Darüber zu disponiren, um nämlich die Langeweile abzuweh⸗
+ren, Die über jedes geficherte Leben, wie ein Tauernder Raubvo—
+gel, herfällt. Also ift die erfte Aufgabe, etwas zu gewinnen,
+und die zweite, dafjelbe, nachdem ed gewonnen ift, unfühlbar zu
+machen, indem es fonft eine Laft ist. —
+
+Daß das menschliche Daseyn eine Art Verirrung feyn
+müfle, geht zur Genüge aus der einfachen Bemerfung bervor,
+bag der Menih ein Konfrement von Bebürfniffen ift, deren
+schwer zu erlangende Befriedigung ihm doch nichts gewährt, als
+einen schmerzlosen Zuftand, in welchem er nur noch der Rangen-
+weile Preis gegeben ift, welche dann geradezu beweift, daß das
+Dafeyn an sich selbst feinen Werth hat: denn fie ift eben nur
+die Empfindung der Leerheit desselben. Wenn nämlich das Le
+ben, in dem Verlangen nach welchem unfer Wefen und Dafeyn
+
+
+u
+
+
+von der Nichtigfeit des Daseyns. 245
+
+
+besteht, einen pofitiven Werth und realen Gehalt in sich felbft
+hätte; fo könnte es gar feine Langeweile geben: fondern dag
+bloge Dafeyn, an fich felbft, müßte und erfüllen und befriedigen.
+Nun aber werden wir unferd Dafeyns nicht anders froh, als
+entweder im Streben, wo. die Ferne und die Hinderniffe das Ziel
+ald befriedigend und voripiegeln, — welche Illusion nach der
+Erreichung verschwindet; — pder aber in einer rein intelleftuellen
+Beihäftigung, in welcher wir jedoch eigentlich aus dem Leben herz
+austreten, um ed von außen zu betrachten, gleich Zufchauern in den
+Logen. Sogar der Sinnengenuß felbft befteht in einem fortwäh—
+renden Streben und hört auf, fobald fein Ziel erreicht if. So
+oft wir nun nicht in einem jener beiden Fälle begriffen, fondern
+auf das Dafeyn felbft zurüdgewiefen find, werben wir von der
+Gehaltlofigfeit. und Nichtigkeit deffelben überführt, — und Das
+it die Langeweile. — Sogar das und inmohnende und unvers
+tifgbare, begierige Hafchen nad dem Wunberbaren zeigt an, wie
+gern wir die fo langweilige, natürliche Orbnung bes Verlaufs
+der Dinge unterbrochen fähen. —
+
+
+$. 147.
+
+
+Daß die vollfommenfte Erfcheinung des Willens zum Leben,
+die fih in dem fo überaus Fünftlih komplicirten Getriebe bes
+menfchlichen Organismus darftellt, zu Staub zerfallen muß und
+so ihr ganzes Wefen und Streben am Ende augenfällig der
+Vernichtung anheim gegeben wird, — Dies ift die naive Aus-
+füge der allezeit wahren und aufrichtigen Natur, daß das ganze
+Streben diefes Willens ein wefentlich nichtiges fei. Wäre es
+etwas an fi Werthvolles, etwas, das unbedingt seyn follte;
+so würde es nicht das Nichtfeyn zum Ziele haben. — Das Ge-
+fühl Hievon Tiegt auch Göthe's fehönem Liebe
+
+„Hoch auf dem alten Thurme fteht
+Des Helden edler Geist,“
+sum Grunde, —
+
+Welch ein Abftand ift doch zwifchen unferm Anfang und
+unferm Ende! jener in dem Wahn der Begier und dem Ents
+jüden der Wolluftz diefes in der Zerftörung aller Organe und
+dem Moderdufte der Leichen. Auch geht der Weg zwischen Beis
+den, in Hinficht auf Wohlfeyn und Lebensgenuß, ftetig bergab:
+
+
+246 Nachträge zur Lehre xc.
+
+
+die seelig träumende Kindheit, die fröhliche Jugend, das mühsä—
+lige Mannesalter, das gebrechliche, oft jaͤmmerliche Greisenthum,
+die Marter der letzten Krankheit und endlich der Todeskampf:
+— sieht es nicht geradezu aus, als wäre dad Daseyn ein Fehl:
+tritt, deflen Folgen allmälig und immer mehr offenbar würden?
+
+Am richtigften werden wir das Leben fallen als einen des-
+engaño, eine Enttäufhung: darauf ift, fihtbarlich genug, Alles
+abgejehn.

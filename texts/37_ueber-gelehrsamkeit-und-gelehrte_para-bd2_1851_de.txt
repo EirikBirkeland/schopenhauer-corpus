@@ -1,0 +1,455 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber Gelehrsamkeit und Gelehrte (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On scholarship and scholars - the English title is this collection's rendering, and where a printed English title exists the note says so
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 402-411. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27, 30 and 31. The chapter's own display heading stands in this copy as "Kapitel XXI. Ueber Gelehrfamfeit und Gelehrte. $. 244. Wenn"; the Roman numeral in such a heading is the OCR's and may be misset, so cite the chapter by its words and its pages, not by its number.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 8, one of six chapters cut from the same volume while its map was fresh; see P-06 for the volume's chapter map and GAP-4 for what is still missing. English: in file 17 ("The art of literature", 1891) as "On scholarship and men of learning"; the pairing was NOT checked this pass. OCR warning as in files 27, 30 and 31: this scan prints f for the long s, so search both shapes (bin/schop-grep.js -f does it) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition - the copy that also yielded files 27, 30 and 31. It prints f for the long s, sometimes b for d and x for x, and it mangles a heading or a page's first line now and then; the long s has been normalised to s (125 here). The chapter was cut between its own display heading and the next one, so the seam is the print's. Paragraph numbers stand as printed - the paragraph marks that stand at line beginnings here read § 244 to § 256, which is a guide and not a table: this OCR lifts a cross-reference to a line beginning now and then, so a paragraph number quoted from here should be seen on the scan. Page markers come only from running heads that name this chapter and whose page lies in the range the volume's heads prove (4 made, S. 402 to S. 410); where a head was garbled nothing was invented, and the chapter's page range by the table of contents is S. 402-411.]
+
+Kapitel XXI.
+Ueber Gelehrfamfeit und Gelehrte.
+
+
+$. 244.
+Wenn man die vielen und mannigfaltigen Anftalten zum Leh⸗
+
+
+- ven und Lernen und das fo große Gedränge von Schülern und’
+- Meiftern fieht, könnte man glauben, daß es dem Menfchengefchlechte
+» gar sehr um Einfiht und Wahrheit zu thun fei. Aber auch Hier
+« trügt der Schein. Gene lehren, um Geld zu verdienen und fire-
+- ben nicht nad) Weisheit, fondern nad) dem Schein und Krebit
++ derfelben: und Diefe Yernen nicht, um Kenntniß und Einsicht
+zu erlangen, fondern um schwätzen zu können und fi) ein An-
+
+
+4 10
+
+
+sehn zu geben. — Die eigentlichen Brodstudien habe ich hier
+nicht ein Mal in Rechnung gebracht.
+$. 245.
+
+Studierende und Studierte aller Art"und jedes Alters gehn
+
+
+| in der Regel nur auf Kunde aus; nit auf Einfidht. Sie
+
+
+jeten ihre Ehre darin, von Allem Kunde zu haben, von allen
+Steinen, oder Pflanzen, oder Bataillen, oder Experimenten und
+fammt und fonders von allen Büchern. Daß die Kunde ein
+bloßes Mittel zur Einficht fei, an sich aber wenig, oder feinen
+Werth habe, fällt ihnen nicht ein, ift hingegen Die Denfungsart,
+welche den philofophifchen Kopf charakterifirt. Bei der impofan-
+ten Gelehrfamfeit jener Vielwisser fage ich mir bisweilen: o,
+wie wenig muß doch Einer zu denfen gehabt haben, damit er fo
+viel hat lesen Fönnen! Sogar wenn vom ältern Plinius berich-
+tet wird, daß er beftändig Tag, oder sich vorlefen Tieß, bei Tifche,
+auf Reifen, im Bade, fo dringt sich mir die Frage auf, ob denn
+der Mann fo großen Mangel an eigenen Gebanfen gehabt habe,
+bag ihm ohne Unterlaß fremde eingeflößt werden mußten, wie
+dem an der Auszehrung Leidenden ein consomme, ihn am te-
+u. 26
+
+ [S. 402]
+
+
+ben zu erhalten. Und von feinem Selbstdenken mir hohe Be—
+griffe zu geben ift weder feine urtheilslose Leichtgläubigfeit, noch
+fein unausfprechlich widerwärtiger, schwer verftändliher, papier-
+fparender Kolleftaneenftil geeignet.
+
+$. 246.
+
+
+Wie nun das viele Lefen und Lernen dem eigenen Den—
+fen Abbruch thut; fo entwöhnt das viele Schreiben und Leh—
+ren den Menfchen von der Deutfichfeit und eo ipso Gründlich-
+feit des Wiffens und Verstehns; weil es ihm nicht Zeit
+läßt, diefe zu erlangen. Da muß er dann, in feinem VBortrage, bie
+Lüden feines deutlichen Erkennens mit Worten und Phrafen aus-
+füllen. Dies ift es, was die meiften Bücher fo langweilig
+macht, und nit die Trodenheit des Gegenftandes, Denn wie
+behauptet wird, ein guter Koch könne fogar eine alte Schuhfohle
+genießbar herrichten; jo kann ein guter Schriftfielfer den troden-
+fien Gegenftand unterhaltend machen,
+
+$. 247.
+
+Den bei Weiten alfermeiften Gelehrten ift ihre Wissenschaft
+Mittel, nicht Zwed. Darum werben fie nie etwas Großes
+barin Yeiften; weil hiezu erfordert ift, daß fie Dem, ber fie treibt,
+Zweck fei und alles Andere, ja, fein Dafeyn felbfi, nur Mit-
+tel. Denn Alles, was man nicht feiner felbft wegen treibt,
+treibt man nur halb, und die wahre Vortrefflichkeit kann, bei
+Werfen jeder Art, nur Das erlangen,: was feiner felbft wegen
+hervorgebracht wurde und nicht ald Mittel zu ferneren Zweden.
+Eben fo wird zu neuen und großen Grundeinfichten nur Der
+es bringen, der zum unmittelbaren: Zweck feiner Studien Erlan-
+gung eigener Erfenntniß bat, unbefümmert um fremde. Die
+Gelehrten aber, wie fie in der Regel find, ftudieren zu dem Zwed,
+lehren und fehreiben zu Eönnen. Daher gleicht ihr Kopf einem
+Magen. und. Gedbärmen, daraus die Speisen unverbaut wieder
+abgehn ben: deshalb wird auch ihr Lehren und Schreiben we-
+nig nügen. Denn Andere nähren kann man nicht mit unver
+dauten Abgängen, fondern nur mit der Milch, die aus dem eis
+genen Blute sich abgefondert hat.
+
+ı US.
+
+
+Die Perüde ift doch das wohlgewählte Symbol des reinen
+Gelehrten als folhen. Sie ziert ben Kopf mit einem reichlichen
+
+
+ueber Gelehrsamkeit und Gelehrte. 403
+
+
+Maaße fremden Haares bei Ermangelung bes eigenen; wie bie
+Gelehrfamfeit in feiner Ausftattung mit einer großen Menge
+fremder Gebanfen befteht, welche denn freilich ihn nicht fo wohl
+und natürlih kleiden, noch fo braudbar in allen Fällen und
+allen Zwecken angepaßt find, noch fo feft wurzeln, noch, wenn
+verbraudt, sogleich durch andere aus derselben Duelle erfegt
+werben, mie die dem felbfteigenen Grund und Boden entfproffe-
+nen; weshalb eben Sterne, im Triftram Shandy, fo unverfchämt
+ift, zu behaupten: an ounce of a mans own wit is worth a
+tun of other people’s. (Eine Unze eigenen Geiftes ift fo viel
+werth, wie zweitaufend Pfund von anidrer Leute ihrem). —
+
+Wirklich verhält auch die vollendetefte Gelehrfamfeit fih zum
+Genie, wie ein Herbarium zur ftets sich neu erzeugenden, emig
+frifchen, ewig jungen, ewig wechfelnden Pflanzenwelt, und feinen
+größeren Rontraft giebt es, als den, zwifchen der Gelehrfamfeit
+des Kommentatord und ber Findlichen Naivetät des Alten.
+
+
+$. 249.
+
+Dilettanten, Dilettanten! — fo werden Die, welche eine
+Wissenschaft, oder Kunft, aus Liebe zu ihr und Freude an ihr,
+per il loro diletto, treiben, mit Geringfhägung genannt von
+Denen, die fi) des Gewinnes halber darauf gelegt haben; weil
+fie nur das Geld deleftirt, das damit zu verdienen ift. Diefe
+Geringihägung beruht auf ihrer niederträchtigen Leberzeugung,
+daß Keiner eine Sache ernftlich angreifen werbe, wenn ihn nicht
+Noth, Hunger, oder fonft welche Gier dazu anfpornt. Das Pu-
+biifum ift des felben Geiftes und daher der felben Meinung:
+hieraus entipringt fein durchgängiger Nefpeft vor den „Leuten
+vom Fach“ und fein Mißtrauen gegen Dilettanten. In Wahr—
+heit hingegen ift dem Dilettanten die Sache Zwed, dem Manne
+vom Fach, als folhem, blog Mittel: nur Der aber wird eine
+Sade mit ganzem Ernfte treiben, dem unmittelbar an ihr gele-
+gen ift und der fih aus Liebe zu ihr damit beihäftigt, fie con
+amore treibt. Bon Splden, und nicht von den Lohndienern,
+ift fletd das Größte ausgegangen.
+
+
+§. 250.
+Sp war denn auch Göthe ein Dilettant in der Farben-
+lehre. Darüber hier ein Wörichen!
+26°
+
+ [S. 404]
+
+
+Dummfeyn und Schlechtfeyn ift erlaubt: ineptire est juris
+gentium. Hingegen von Dummheit und Schlechtigkeit reden ift
+ein Verbrechen, ein empörender Brud der guten Gitten und
+alles Anftandes. — Eine weile Borfehrung! Jedoch muß ih
+fie jest ein Mal außer Acht lassen, um mit den Deutjchen deutsch
+zu reden. Denn ich habe zu fagen, daß das Schicksal der Gö—
+the’fchen Farbenlehre ein fehreiender Beweis entweder der Unred—
+lichkeit, oder aber der völligen Urtheilslofigfeit der deutschen Ge—
+Vehrtenwelt ift: wahrscheinlich Haben beide edele Eigenfchaften
+dabei einander in die Hände gearbeitet. Das große gebildete
+Publikum fucht Wohlleden und Zeitvertreib, legt daher bei Seite
+was nicht Roman, Komödie oder Gedicht if. Um ausnahms-
+weife ein Mal zur Belehrung zu lefen, wartet ed zuvörderst
+auf Brief und Siegel von Denen, die es beffer verftehn, dar—
+über, daß bier wirklich Belehrung zu finden fei. Und die es befler
+verftehn, meint ed, das wären die Leute vom Fach. ES ver-
+wechfelt nämlich Die, welche von einer Sache leben, mit Denen,
+die für die Sache leben; wiewohl dies felten die Selben find.
+Schon Diderot hat e8, im Rameau's Neffen, gefagt, daß Die,
+welche eine Wiflenfchaft Iehren, nicht Die find, welche fie ver-
+stehn und ernftlich treiben, als welchen Feine Zeit zum lehren
+berfelben bleibt. Jene Andern leben bloß von der Wifjenfchaft:
+fie ift ihnen „eine tüchtige Kuh, die fie mit Butter verforgt.”
+— Wenn der größte Geift einer Nation eine Sache zum Haupt:
+studium feines Lebens gemacht hat, wie Göthe die Farbenlehre,
+und fie findet feinen Eingang, fo ift es Pflicht der Regierungen,
+welche Afademien bezahlen, diefen aufzutragen, die Sache burd
+eine Kommiffion unterfuchen zu lassen; wie Dies in Franfreic
+mit viel unbedeutenderen Dingen geschieht. Wozu fonft find
+diefe Afademien, die sich fo breit machen und in denen doch fo
+mander Dummfopf fist und sich bläht, da? Neue Wahrheiten
+von Belang gehn felten von ihnen aus: daher follten fie wenig-
+stens wichtige Leiftungen zu beurtheilen fähig seyn und genöthigt
+werden, ex officio zu reden. Borläufig jedoch hat ung Herr
+Linf, Mitglied der Berliner Afademie, eine Probe feiner afade-
+mifchen Urtheilsfraft geliefert, in feinen ‚„‚Vropyläen der Natur-
+funde” Bd. 1. 1836. A priori überzeugt, daß fein Univerfitäte-
+follege Hegel ein großer Philosoph und Göthe's Farbenlehre eine
+
+
+n
+
+
+Ueber Gelehrjamfeit und Gelehrte. 405
+
+
+Stümperet fei, bringt er, daselbst S. 47, Beide fo zufammen:
+„Hegel erschöpft fih in den ungemeflenften Ausfällen, wenn es
+„Neuton gift, vielleicht aus Kondescendenz — eine fchlechte
+„Sache verdient ein fchlechtes Wort — für Göthe.” Alfo von
+der Rondefcendenz eines elenden Scharlatand gegen den größ—
+ten Geift der Nation erdreiftet fich diefer Herr Link zu reden.
+Jh füge ald Proben feiner Urtheilöfraft und Yächerlichen Ver:
+meflenheit noch folgende, die obige erläuternden Stellen aus dem
+jelben Buche bei. „An Tieffinn übertrifft Hegel alle feine Vor—
+„gänger: man kann fagen, ihre Philofophie verfchwindet vor der
+„jeinigen.” ©. 32. Und feine Darftellung jener jämmerlichen
+Hegel'schen Kathederhanswurftiade befchließt er, ©. 44, mit:
+„Dieses ift das tiefgegründete, erhabene Gebäude des höchften
+„metaphysischen Scharffinnes, welches die Wissenschaft Fennt.
+„Worte wie diefe: „„das Denfen der Nothivendigfeit ift die
+„„Freiheit; der Geist fchafft fi) eine Welt der Sittlichfeit, wo
+„„die Freiheit wiederum Nothwendigfeit wird,” erfüllen mit
+„Ehrfurdt den nahenden Geift, und ein Mal gehörig erfannt,
+„sichern fie Dem, welcher fie sprach, die Unsterblichkeit.“ — Da
+diefer Herr Link nicht bloß Mitglied der Berliner Afademie ift,
+fondern auch zu den Notabilitäten, vielleicht gar Gelebritäten,
+der Deutichen Gelehrtenrepublif gehört; fo können diefe Aus—
+Iprüche, zumal da fie nirgends gerügt worden, aud als eine
+Probe deutscher Urtheilgfraft und deutfher Gered--
+tigfeit gelten. Man wird danach beffer verftehn, wie es ges
+ihehen Fonnte, daß meine Schriften, mehr ald 30 Jahre hindurch,
+nicht des Hinsehns werth geachtet worden find.
+251.
+
+
+Der deutsche Gelehrte ift aber auch zu arm, um redlich und
+ehrenhaft feyn zu können. Daher ift drehen, winden, sich adom-
+modiren und feine Ueberzeugung verleugnen, Friechen, schmeicheln,
+Partei machen und Kamaradfchaft fchließen, Minifter, Große,
+Kollegen, Studenten, Buchhändler, Necenfenten, furz, Alles ehr,
+als die Wahrheit und fremdes Berdienft, berüdfichtigen, — fein
+Gang und feine Methode. Er wird dadurch meistens ein rüd-
+fihtsvoller Lump. In Folge davon hat denn auch, in der deut—
+hen Litteratur überhaupt und der Philofophie insbefondere, die
+Unreblichfeit fo fehr die Oberhand gewonnen, daß zu hoffen
+
+
+A406 Ueber Gelehrsamkeit und Gelehr e.
+
+
+steht, es werbe damit den Punft erreichen, wo fie, als unfähig,
+noch irgend Zemanden zu täufchen, unwirksam wird.
+208,
+
+
+Uebrigens ift es in der Gelehrterepublif, wie in andern
+Republifen: man Yiebt einen fchlichten Mann, der ftill vor sich
+bin geht und nicht Flüger feyn will, ald bie Andern. Gegen
+die ercentrifchen Köpfe, als welche Gefahr drohen, vereinigt man
+fid) und hat, o welche! Majorität auf feiner Seite.
+
+$. 253.
+
+Zwischen Professoren und unabhängigen Gelehrten befteht,
+son Alters her, ein gewiller Antagonismus, der vielleidt in
+etwas durch den zwilchen Hunden und Wölfen erläutert werben
+fönnte.
+
+Professoren haben, dur ihre Lage, große Vortheile, um
+zur Runde ihrer Zeitgenofien zu gelangen. Dagegen haben un—
+abhängige Gelehrte, durch ihre Lage, große Bortheile, um zur
+Kunde der Nachwelt zu gelangen; weil es dazu, unter andern
+und viel felteneren Dingen, aud einer gewissen Muße und Un—
+abhängigfeit bedarf.
+
+Da es Yange dauert, ehe die Menfchheit herausfindet, wen
+fie ihre Aufmerffamfeit zu fchenfen hat; fo fünnen Beide neben
+einander wirken.
+
+Im Ganzen genommen, ift die Stallfütterung der Professu—
+ren am geeigneteften für die Wiederfäuer. Hingegen Die, welde
+aus den Händen der Natur die eigene Beute empfangen, befin-
+ben fich befler im Freien.
+
+$. 254.
+
+Bon dem menfhlihen Willen überhaupt, in jeder Art,
+existirt der allergrößte Theil ftets nur auf dem Papier, als auf
+welchem daffelbe niedergelegt if. Nur ein Heiner Theil desselben
+ift, in jedem gegebenen Zeitpunkt, in irgenbwelden Köpfen wirk—
+lich Tebendig.
+
+Bon Dem, was überhaupt wiflenswertb wäre, Tann Fein
+Einzelner auch nur ben taufendften Theil wiflen.
+
+Sogar aber haben die Wiflenfchaften eine solche Breite der
+Ausdehnung erlangt, daß wer etwas „darin Yeiften” will nur
+ein ganz fpecielles Fach betreiben darf, unbefümmert um alles
+Andere. Alddann wird er zwar in feinem Face über dem Bul-
+
+
+Ueber Gelehrsamleit und Gelehrie. 407
+
+
+gus stehn, in allem Uebrigen jedoch zu demselben gehören. Kommt
+nun noch, wie heut zu Tage immer häufiger wird, die Bernad)-
+läfftgung der alten Sprachen, welche halb zu lernen nichts Hilft,
+hinzu, wodurd die allgemeine Humanitätsbildung wegfällt; fo
+werden mir Gelehrte fehn, die außerhalb ihres Tpeciellen Faches
+wahre Ochsen find. — Ueberhaupt ift fo ein erflufiver Fachge-
+lehrter dem Fabrikarbeiter analog, der, fein Leben lang, nichts
+Anderes macht, als eine beftimmte Schraube, oder Hafen, ober
+Handyabe, zu einem beflimmten Werkzeuge, oder Mafchine, worin
+er dann freilich eine unglaubliche Virtuosität erlangt. Auch Tann
+man den Fachgelehrten mit einem Manne vergleichen, der in
+jeinem eigenen Haufe wohnt, jedoch nie herausfommt. In dem
+Haufe fennt er Alles genau, jedes Treppehen, jeden Winkel und
+jeden Balfen; etwan wie Bifter Hugo's Quasimodo die Notre-
+dame- Kirche kennt: aber außerhalb veflelben ift ihm alles fremd
+und unbekannt. — Wahre Bildung zur Humanität hingegen er:
+fordert durchaus Vielfeitigfeit und Weberblid, alfo, für einen
+Gelehrten im höhern Sinne, allerdings etwas Polyhiftoria. Wer
+aber vollends ein Philosoph feyn will, muß in feinem Kopfe bie
+entfernteften Enden des menfhlichen Wiflend zufammenbringen:
+denn wo anders fünnten fie jemals zufammenfommen? — Geiz:
+ster ersten Ranges nun gar werben niemals Fachgelehrte feyn. Ih⸗
+nen, als foldhen, ift dad Ganze des Dafeyns zum Problem ges
+geben und über daffelbe wird ieber von ihnen, in irgend einer
+Form und Weife, der Menfchheit neue Aufschlüsse ertheilen.
+Denw den Namen eined Genies fann nur Der verdienen, wel-
+cher das Ganze und Große, das Wefentliche und Allgemeine der
+Dinge zum Thema feiner Leiftungen nimmt, nicht aber wer ir-
+gend ein fperielles Verhältniß von Dingen zu einander zurecht
+zulegen fein Leben lang bemüht ift.
+
+$. 255.
+
+Die Abfchaffung des Lateinischen als allgemeiner Gelehr-
+tenfprahe und die Dagegen eingeführte Kleinbürgerei der Natios
+naflitteraturen ift für die Wiflenfchaften in Europa ein wahres
+Unglück gewefen. Zunächft, weil ed nur mittelft der Iateinifchen
+Sprache ein allgemeines Europätfches Gelehrtenpublifum gab,
+an beflen Gefammtheit jedes erjcheinende Buch fich direkt wandte.
+Nun ist aber Die Zahl ber eigentlich denkenden und urtheilsfähi-
+
+ [S. 408]
+
+
+gen Köpfe in ganz Europa ohnehin fehon fo Hein, daß, wenn
+man ihr Forum noch durch Sprachgränzen zerftüdelt und aus—
+einander reißt, man ihre mwohlthätige Wirkffamfeit unendlich
+schwächt. Und die, nad) beliebiger Auswahl der Verleger, von
+Yitterarifchen Handwerksburschen fabrizirten Berbollmetichungen
+find ein schlechtes Surrogat für eine allgemeine Gelehrteniprache.
+Darum ift Kants Philofophie, nach Furzem Aufleuchten, im
+Sumpfe deutfcher Lrtheilsfraft fteden geblieben, während über
+demfelben die Irrlichter Fichte’fcher, Schellingifcher und endlich gar
+Hegel’iher Scheinwiffenfchaft ihr Fladerleben genofien. Darum
+bat Göthe's Farbenlehre Feine Gerechtigkeit gefunden. Darum
+bin ich unbeachtet geblieben. Darum ift die fo intelleftuelle
+und urtheilsfräftige Englifche Nation noch jest durch die schimpf—
+lichste Bigotterie und Pfaffenbevormundung degradirt. Darum
+ermangelt Frankreichs ruhmvolle Physik und Zoologie der Stüße
+und Kontrole einer ausreichenden und würdigen Metapbyfif.
+Und noch mehr ließe fi anführen. Zudem aber wird an diefen
+großen Nachtheil gar bald ein zweiter, noch größerer sich knüpfen:
+das Aufhören der Erlernung der alten Spracden. Nimmt doch
+schon jest in Franfreih und felbft in Deutfchland die Vernach—
+Yäffigung berfelben Ueberhand. Dann aber Lebewohl, Humani=
+tät, edler Geschmack und hoher Sinn! Die Barbarei kommt
+wieder, trotz Eifenbahnen, eleftriihen Drähten und Luftballons.
+Endlich gehn wir dadurch nod eines Vortheils verluftig, den
+alle unfere Vorfahren genoffen haben. Nämlich nicht bloß das
+Römische Alterthum fchließt das Lateinische und auf, fondern
+eben jo unmittelbar das ganze Mittelalter aller Europäifchen
+Länder und die neuere Zeit, bis auf die Mitte des vorigen
+Jahrhunderts herab. Daher reden 3. B. Sfotus Erigena aus
+dem 9. Jahrhundert, Johannes von Salesbury aus dem 12,
+Raimund Lullus aus dem 13., nebft hundert Andern, zu mir uns
+mittelbar in der Sprache, die ihnen, sobald fie an wiffenfchaftliche
+Gegenftände dachten, natürlich und eigen war, Daher treten fie
+noch jest ganz nahe an mich heran: ich bin in unmittelbarer
+Berührung mit ihnen und. lerne fie wahrhaft Fennen. Was
+würbe es feyn, wenn Jeder von ihnen in feiner Landesfprache,
+wie fie zu feiner Zeit war, gefchrieben hätte?! Nicht die Hälfte
+würde ich auch nur verftehn und eine eigentliche geiftige Berüh⸗
+
+
+Ueber Gelehrfamfeit und Gelehrte. 409
+
+
+rung mit ihnen wäre unmöglich: ich fähe fie wie Schattenbilder
+am fernen Horizont, oder gar durch das Teleftop einer Weber:
+fegung. Dies zu verhüten, hat Balo von Verulam, wie er aus—⸗
+drücklich sagt, feine essays nachmals felbit ins Lateiniiche über:
+fegt u. d. T. sermones fideles.
+
+Hier fei beiläufig erwähnt, daß der Patriotismus, wenn er
+im Reiche der Wiflenfchaften fich geltend machen will, ein schmutzi—⸗
+ger Gefelle ift, den man hinauswerfen fol. Denn was kann
+impertinenter feyn, als da, wo das rein und allgemein Mensch—
+liche betrieben wird und wo Wahrheit, Klarheit und Schönheit
+allein gelten follen, feine Vorliebe für die Nation, welcher Die
+eigene werthe Person gerade angehört, in die Waagschale Tegen
+zu wollen und nun, aus folder Rücksicht, bald der Wahrheit
+Gewalt anzuthun, bald gegen die großen Geifter fremder Na—
+tionen ungerecht zu feyn, um die geringeren der eigenen heraus—
+zuftreichen. Beifpielen dieser Gemeinheit begegnet man aber
+täglich bei den Schriftftellern aller Nationen Europa’s.
+
+$. 256.
+
+Zur Berbefferung der Qualität der Studierenden, auf
+Koften ihrer schon fehr überzähligen Duantität, follte gefeßlich
+beftimmt feyn: 1) daß Keiner vor feinem 20. Jahre die Univer-
+fität beziehn dürfte; 2) daß er daselbst im erften Sabre aus:
+schließlich Kollegia der philosophischen Fakultät hören müßte und
+vor dem zweiten Jahre zu denen der drei obern Fakultäten gar
+nicht zugelaffen würde, diefen aber alsdann die Theologen 2,
+die Juristen 3, die Mebdiciner 4 Jahre widmen müßten. Dage-
+gen Fönnte auf den Gymnaften der Unterricht auf alte Spraden,
+Geschichte, Mathematik und deutschen Stil beschränkt bleiben und
+befonders in erfteren defto gründlicher feyn. Weil jedod) die Anlage
+zur Mathematif eine ganz fpecielle und eigene ift, die mit den übri-
+gen Fähigkeiten eines Kopfes gar nicht parallel geht, ja, nichtig
+mit ihnen gemein hat;“) fo follte für den mathematischen Unter:
+
+
+*) Man fche hierüber W. Hamilten’s fchöne Abhandlung in Form einer
+Revenfion eines Buches von Whewell, in ver Edinburgh’ Review vom Ja:
+nuar 1836, auch fpäter unter feinem Namen mit einigen andern Abhandlun-
+gen herausgegeben, auch Deutfch überfegt u. d. T. „über den Werth und
+Unwerth der Mathematik.‘ 1836,
+
+ [S. 410]
+
+
+richt eine ganz gejonderte Klaffififation der Schüler gelten; jo daß
+wer im Lebrigen in Selefta fäße hier in Tertia figen könnte, feiner
+Ehre unbeschadet und eben fo vice versa. Nur fo fann Jeder,
+nah Maafgabe feiner Kräfte diefer befondern Art, etwas davon
+lernen.
+
+Die Profefloren freilich werden, da ihnen an der Quantität
+der Studenten mehr, ald an deren Qualität liegt, obige Bor:
+Schläge nicht unterftügen; wie auch nicht den folgenden. Die
+Promotionen follten durchaus unentgeltlich gefchehn; Damit die
+durch die Gewinnfucht der Profefloren diskreditirte Doktorwürde
+wieder zu Ehren fäme Dafür follten die nachherigen Staate-
+eramina, bei Doktoren, wegfallen.
+
+
+Kapitel XXU.

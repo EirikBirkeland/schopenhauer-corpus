@@ -1,0 +1,234 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Einiges zur Sanskritlitteratur (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Something on Sanskrit literature - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 327-333. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "$. 184. Wenn ich bedenfe, wie ſchwer es ift, mit Hülfe ber bef"; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (66 here). Cut between the print's own display headings; the heading in this copy reads "$. 184. Wenn ich bedenfe, wie ſchwer es ift, mit Hülfe ber beften,", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 184 to § 189, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (2 made, S. 328 to S. 332); the chapter's range by the volume's own heads is S. 327-333.]
+
+$. 184.
+
+Wenn ich bedenfe, wie schwer es ift, mit Hülfe ber beften,
+
+forgfältig dazu herangebildeten Lehrer und vortrefflicher, im Laufe
+
+ [S. 328]
+
+
+ber Jahrhunderte zu Stande gebrachter philologifcher Hülfsmittel,
+ed zu einem eigentlich richtigen, genauen und lebendigen Ber:
+ständniß der griechifchen und römifchen Auftoren zu bringen, be-
+ren Sprachen denn doc die unferer Borgänger in Europa und
+die Mütter noch jegt lebender Sprachen find; das Sanffrit hin-
+gegen eine vor taufend Jahren im fernen Indien gefprochene
+Sprache ift und die Mittel zur Erlernung desselben verhältniß-
+mäßig doch noch fehr unvollfommen find; und wenn ic) den Ein-
+druck dazunehme, den die Ueberfegungen europäifcher Gelehrten
+aus dem Sanffrit, — höchst wenige Ausnahmen bei Seite ge-
+fegt, — auf mid) machen; fo befchleicht mich der Verdacht, daß
+unfre Sanffritgelehrten ihre Texte nicht fehr viel befler verftehn
+mögen, ald etwan bie Sefundaner unjerer Schulen die griechi-
+fhen; daß fie jedoch, weil fie nicht Knaben, fondern Männer
+von Kenntniffen und Berftand find, aus Dem, was fie eigent-
+lich verfiehn, den Sinn im Ganzen ungefähr zufammenfegen,
+wobei denn freilich Manches ex ingenio mitunterlaufen mag.
+Noch fehr viel fchlechter fteht es mit dem Chinefifchen der euro-
+päischen Sinologen, ald welche oft ganz im Dunfeln tappen;
+wovon man bie Meberzeugung erhält, wenn man fieht, wie jelbft
+die gründlichften unter ihnen sich gegenfeitig berichtigen und ein=
+ander kolossale Irrthümer nachweisen. Beifpiele der Art findet
+man häufig im Foe-Kue-ki von Abel Remüfat.
+
+Ermwäge ich nun andrerfeits, dag Sultan Darajchefu,
+der Bruder des Aureng-Zeb, in Indien geboren und erzogen,
+dabei gelehrt, denfend und: wißbegierig war, alfo fein Sanffrit
+etwan fo gut verftehn mochte, wie wir unfer Latein, dazu num
+aber noch eine Anzahl der gelehrteften Pundits zu Mitarbeitern
+hatte; fo giebt mir Dies fchon zum voraus eine hohe Meinung
+von feiner Veberfegung der Upanischaden des Veda ins Perfiiche.
+Sehe ih nun ferner mit welcher tiefen, der Sache angemeffenen
+Ehrfurcht Anquetil dü Perron diefe perfiiche Uebersetzung gehand-
+habt Hat, indem er fie Wort für Wort Yateinifch wiedergab, da—
+bei die Perfifhe Syntar, der Tateinifhen Grammatif zum Trob,
+genau beibehaltend und die vom Sultan umüberfegt herüberge-
+nommenen Sanffritwörter eben fo belaflend, um fie nur im Glofs
+far zu erklären; fo Yefe ich diefe Uebersetzung mit dem vollften
+
+
+Einiges zur Sanffritlitteratur. 329
+
+
+Zutrauen, welches alsbald feine erfreuliche Bewährung erhält.
+Denn, wie athmet doch der Oupnekhat durchweg ben heiligen
+Geist der Beben! Wie wird doch Der, dem, durch fleifiges Le-
+fen, das Perfifch- Latein dieses unvergleichlihen Buches geläufig
+geworben, von jenem Geift im Innersten ergriffen! Wie ift Doch)
+jede Zeile fo voll fefter, beftimmter uud durchgängig zufammen-
+flimmender Bedeutung! Und aus jeder Seite treten und tiefe,
+urfprüngliche, erhabene Gedanken entgegen, während ein hoher
+und heiliger Ernft über dem Ganzen schwebt. Alles athmet hier
+Indische Luft und urfprüngliches, naturverwandtes Dafeyn. Und
+9, wie wirb bier der Geift rein gewafchen von allem ihm früh
+eingeimpften jüdifchen Aberglauben und aller diefem fröhnenden
+Philosophie! Es ift die belohnendeste und erhebendefte Lektüre,
+die (den Urtert ausgenommen) auf der Welt möglich ift: fie ift
+der Trost meines Lebens gewesen und wird ber meines Ster-
+bens seyn. — Hinfichtlich gewisser, gegen die Nechtheit des
+Oupnekhat aufgebrachter Verdächtigungen verweife ich auf die
+Note S. 271 meiner Ethik.
+
+Bergleihe ih nun damit die Europäischen Leberlegungen
+heiliger indifher Texte, oder indifcher Philosophen; fo machen
+fie (mit Höchft wenigen Ausnahmen, wie 3. B. der Bhagwat
+Gita von Schlegel und einige Stellen in Golebroofe’s Leber-
+fesungen aus den Veden) auf mich den entgegengefetten Ein-
+druck: fie liefern Verioden, deren Sinn ein allgemeiner, abftraf-
+ter, oft fchmanfender und unbeftimmter und deren Zufammenhang
+Ioder ift: ich erhalte bloße Umriffe der Gedanken des Lirtertes,
+mit Ausfüllfeln, denen ich das Fremdartige anmerfe; Wider:
+Iprüche fcheinen mitunter auch durch; Alles ift modern, Teer, fabe,
+fach, finnarm und oeeidentalifch: es ift europäisirt, anglifirt,
+franzöftrt, oder gar (mas das Nergfte) deutfch verfchwebelt und
+vernebelt, d. b. ftatt eines Klaren, beftimmten Sinnes bloße, aber
+recht breite Worte Tiefernd: mitunter ift auch etwas vom foetor
+Judaicus daran zu fpüren. Alles Diefes schwächt mein Zus
+trauen zu folchen Weberfegungen, zumal wenn id) nun noch be-
+denfe, daß die Veberfeger ihre Studien ald Brodermwerb treiben;
+während der ebele Anquetil dü Perron nicht feine Sache babei
+gefucht hat, fondern von bloßer Liebe zur Wiflenfhaft und Er-
+
+
+18].
+
+
+330 Einiges zur Sanffeitlitieratur.
+
+
+kenniniß dazu angetrieben wurde; und dag Sultan Darafchefu,
+zum Lohn und Honorar, den Kopf vor die Füße gelegt befam,
+durch feinen Faiferlihen Bruder Aureng = Zeb.
+
+$. 185.
+
+Allerdings kann die Sanhita des Veda nicht von ben fel-
+ben Berfaflern, noch aus der felben Zeit mit dem Upanischad
+feyn: davon erlangt man volle Leberzeugung, wenn man bas
+erfte Buch der Sanhita des Rig-Veda von Rofen, und die des
+Sama-Beda von Stevenfen überjegt lief. Beide nämlich be-
+stehn aus Geboten und Ritualen, welde einen ziemlich rohen
+Sabäismus athmen. Da ift Indra ber höchste Gott, der ange-
+rufen wird, und mit ihm Sonne, Mond, Winde und Feuer.
+Diefen werden, in allen Hymnen, die fervilften Lobhubeleien,
+nebft Bitten um Kühe, Eflen, Trinfen und Sieg vorgebetet und
+dazu geopfert. Opfer und Befchenkung der Pfaffen find die ein-
+zigen Tugenden, bie gelobt werden. — Da Ormuzd (aus dem
+nachher Jehova geworben) eigentlih Indra (nad 3. 3. Schmidt)
+und ferner auch Mithra die Sonne ist; fo ift der Feuerdienst
+der Gebern wohl mit dem Indra zu ihnen gelangt. — Der
+Upanifchad ift, wie gefagt, die Ausgeburt der höchsten menichli-
+hen Weisheit; hingegen liefert die Sanhita eine durchaus in-
+fipide Lektüre, — nämlich nach befagten Proben zu urtheilen:
+denn allerdings hat Colebrook, in feiner Abhandlung on the
+religious ceremonies of the Hindus, aus andern Büchern
+der Sanhita Hymnen überfegt, die einen dem Upanischad vers
+wandten Geift athmen; wie namentlich ber jchöne Hymnus, im
+zweiten essay: „the einhodied spirit“ u. s. w., von dem ich,
+$. 115, eine Ueberfegung gegeben habe.
+
+$. 186.
+
+
+Zu der Zeit, ald in Indien die großen Feljentempel aus—
+gehauen wurden, war vielleicht die Schreibefunft nod nicht er=
+funden, und die jene bewohnenden, zahlreichen Priefterfchaaren
+waren die lebendigen Behältniffe der Beben, von denen jeber
+Priefter, oder jede Schule, einen Theil auswendig wußte und
+fortpflanzte; wie es eben auch die Druiden gemacht haben. Spä-
+ter find wohl, in eben diefen Tempeln, alfo in würbigfter Um⸗
+gehbung, die Upanischaden abgefaßt worden.
+
+
+Einiges zur Sanffritlitteratur. 331
+
+
+&. 187.
+
+Die Sankhya-Philosophie, wie wir fie in der Karika
+des Iswara Krifchna, von Wilfon überfegt, in extenso vor
+ung fehn (obwohl immer noch wie durch einen Nebel, wegen ber
+Unvollkommenheit felbft diefer Uebersetzung), ift interefiant und
+beiehrend, fofern fie die Hauptbogmen aller Indischen Philofo-
+phie, wie die Nothwendigkeit der Erlöfung aus einem traurigen
+Dafeyn, die Transmigration nah Maafgabe der Handlungen,
+die Erfenntnig als Grundbebingung zur Erlöfung u. dgl. m. und
+in der Ausführlichfeit und mit dem hohen Ernft vorführt, wo—
+mit fie in Indien, feit Zahrtaufenden, betrachtet werben.
+
+Inzwischen fehn wir diefe ganze Philofophie verborben durch
+einen falfchen Grundgedanfen, den abfoluten Dualismus zwifchen
+Prafriti und Puruscha. Dies ift aber gerade auch der Punkt,
+in welchem die Sanfhya von den Beben abweicht. — Prafriti
+ift offenbar die natura naturans und zugleich die Materie an
+fih, d.h. ohne alle Form, wie fie nur gedacht, nicht angeihaut
+wird: diefe, fo gefaßt, Fann, fofern Alles aus ihr fich gebiert,
+wirffich als identifch mit der natura naturans angejehn werden.
+Puruscha aber ift das Subjeft des Erfennend: denn fie ift
+wahrnehmend, unthätig, bloßer Zufchauer. Nun werben jedoch
+Beide, als abfolut verfchieden und von einander unabhängig ge-
+nommen; woburd die Erklärung, warum Prakriti sich für die
+Erlöfung der Purufcha abarbeitet, ungenügend ausfällt. (V. 60.)
+Ferner wird, im ganzen Werke, gelehrt, daß die Erlöfung ber
+Puruscha der legte Zweck fei: hingegen ift es (DB. 62, 63) mit
+einem Male die Prafriti, welche erlöft werden fol. — Alle diefe
+Widerfprühe würden wegfallen, wenn man für Prafriti und
+Puruscha eine gemeinfame Wurzel hätte, auf welche doch, auch
+wider Willen des Kapila, Alles hindeutet; oder Purufcha eine
+Modifikation der Prafriti wäre, alfo jedenfalld der Dualismus
+sich auflöfte. — Ich kann, um Berfland in die Sade zu brin-
+gen, nicht anders, als in Prafriti den Willen und in Puruscha
+das Subjeft der Erfenntniß fehn.
+
+Ein eigener Zug von Kleinlichfeit und Pedantismus in ber
+Sankhya ift das Zahlenwefen, das Aufzählen und Numeriren al-
+ler Eigenfchaften u. |. w.: Er scheint jedoch landesüblich, da in
+Buddhaistischen Schriften eben fo verfahren wird.
+
+
+*
+
+ [S. 332]
+
+
+. 188.
+
+Der moraliihe Sinn * Metempsychose, in allen indi—
+schen Religionen, ist nicht bloß, daß wir jedes Unrecht, welches
+wir verüben, in einer folgenden Wiedergeburt abzubüßen haben;
+sondern auch, daß wir jedes Unrecht, welches uns widerfährt,
+ansehn müssen als wohlverdient, durch unsere Missethaten in
+einem frühern Daseyn.
+
+$. 189.
+
+Daß die drei obern Kaften die wiedergeborenen beißen,
+mag immerhin, wie gewöhnlich angegeben wird, daraus erflärt
+werder, daß bie Sjnveftitur mit der heiligen Schnur, welche den
+Zünglingen verfelben die Mündigfeit verleiht, gleihfam eine
+zweite Geburt fei: der wahre Grund aber ift, daß man nur in
+Folge bedeutender VBerdienfte, in einem vorbergegangenen Leben,
+zur Geburt in jenen Kaften gelangt, folglich in folchem schon
+als Mensch eriftirt haben muß; während wer in ber unterften
+Kafte, oder gar noch niedriger, geboren wird, vorher aud Thier
+gewesen feyn Tann.
+
+$. 190,
+
+Zu den Anzeichen, daß die Aegypter (Aethiopen), oder
+wenigfteng ihre Priefler, aus Indien gefommen find, gehören
+auch, im Leben des Apollonius von Thyana, die Stellen L. II,
+20; et Lib. VI, 11.

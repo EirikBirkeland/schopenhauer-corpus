@@ -1,0 +1,392 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber Sprache und Worte (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On language and words - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 459-471. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-46. The chapter's display heading stands in this copy as ". Ueber Sprache und Worte. $. 298. Die thierifche Stimme die" - the OCR missets numerals and letters, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 10, which took the second band of Parerga, as the collection holds it, to TWENTY-FOUR chapter files (27 and 30-52), all but one from this one scan, and its paragraph numbers run on from chapter to chapter (spot-check 23). §§ 298-303, continuing file 48. OCR warning: f for the long s and sometimes f for k, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-46. It prints f for the long s, sometimes b for d and B for V, and it mangles a heading or a page's first line; the long s has been normalised to s (118 here). Cut between the print's own display headings; the heading in this copy reads ". Ueber Sprache und Worte. $. 298. Die thierifche Stimme dient a". Page markers were made only from running heads naming this chapter inside its proved range (5 made, S. 462 to S. 468); the chapter's range by the volume's own heads is S. 459-471.]
+
+.
+Ueber Sprache und Worte.
+
+
+$. 298.
+
+Die thierifche Stimme dient alleiır dem Ausdrude des Wil-
+lens in feinen Erregungen und Bewegungen; die menfchlice
+aber auch dem der Erfenntniß. Damit hängt zufammen, daß
+jene faft immer einen unangenehmen Eindrud auf ung macht;
+bloß einige Vogelftimmen nicht. —
+
+Das Wort des Menschen ift das dauerhaftefte Mlateriaf.
+Hat ein Dichter feine flüchtigfte Empfindung in ihr richtig an-
+gepaßten Worten verkörpert; fo lebt fie, in diefen, Jahrtausende
+hindurch, und wird in jedem empfänglichen Lefer aufs Neue rege.
+
+$. 299.
+
+Die Erlernung mehrerer Sprachen ift nicht allein ein mit:
+telbares, fondern auch ein unmittelbares, tief eingreifendes, gei-
+ftiged Bildungsmittel. Daher der Ausfprud Karls V: „so viele
+Spraden Einer fann, jo viele Mal ift er ein Mensch.“ — Die
+Sache felbft beruht auf Folgendem.
+
+Nicht für jedes Wort einer Sprache findet fi in jeder an:
+dern das genaue Aequivalent. Also find nicht sämmtliche Be:
+griffe, welche durch die Worte der einen Sprache bezeichnet wer:
+den, genau die felben, welche die der andern ausdrüden; wenn
+gleich Diefes meiftens, bisweilen fogar auffallend genau, wie
+3.3. bei ovdAmpıs und conceptio, Schneider und tailleur, der
+Fall ist; fondern oft find es bloß ähnliche und verwandte, jedoch
+durch irgend eine Mobififation verfchiedene Begriffe. Deutlich
+zu machen was ich meyne mögen einftweilen folgende Beifpiele
+bienen:
+
+
+Ueber Sprache und Morte. 461
+
+
+eentadsvrog, rudis, roh.
+
+öpun, impetus, Andrang.
+unyern, Mittel, medium.
+seccatore, Quaͤlgeist, importun.
+ingenieux, finnreich, elever,
+Geist, esprit, wit.
+
+Witzig, facetus, plaisant.
+Malice, Bosheit, wickedneis,
+
+
+zu welchen fih unzählige andere und gewiß noch treffendere
+werben fügen lassen. Bei der in der Logif üblichen Versinnli—
+hung der Begriffe durch Kreife, könnte man diefe Paenidentität
+
+
+durch sich ungefähr dedfende, jedoch nicht ganz concentrifche Kreife
+ausbrüden, wie:
+
+
+Bisweilen fehlt in einer Sprache das Wort für einen Begriff,
+während es fi) in den meiften, wohl gar in allen andern fin-
+det: ein höchst ffandalöfes Beifpiel hievon Liefert im Französi—
+hen ver Mangel des Berbi „stehn.“ Kür einige Begriffe
+wiederum findet fi bloß in einer Sprache ein Wort, welches
+alsdann in die andern übergeht: fo das Lateinifche „Affekt“, Das
+Französische „naiv“, das englifche comfortable, disappointment,
+xentleman und viele andere. Bisweilen auch drüdt eine
+fremde Sprache einen Begriff mit einer Nüance aus, welche un—
+fere eigene ihm nicht giebt und mit der wir ihn jebt gerade
+denfen: dann wird Jeder, dem es um einen genauen Ausdrud
+feiner Gedanfen zu thun ift, das Fremdwort gebrauchen, ohne
+fi) an das Gebelle pedantifcher Puriften zu Fehren. In allen
+Fällen, wo in einer Sprache nicht genau der felbe Begriff durch
+ein bestimmtes Wort bezeichnet wird, wie in ber andern, giebt
+das Lerifon diefes durch mehrere einander verwandte Ausbrüde
+wieder, welche alle die Bedeutung deffelben, jedoch nicht Foncen-
+trisch, sondern in verfchiedenen Richtungen daneben, mie in ber
+
+ [S. 462]
+
+
+obigen Figur, treffen, woburd bie Gränzen abgesteckt werben,
+zwifchen denen er liegt: fo wird man 3. B. das Tateinifche ho-
+nestum durch wohlanftändig, ehrenmwerth, ehrenvoll, ansehnlich,
+tugendhaft u. |. m. umfchreiben, auch das griehifhe upon» auf
+analoge Weile. Hierauf beruht das nothwendig Mangelbafte
+aller Ueberfegungen. Faft nie kann man irgend eine charafte-
+riftifche, prägnante, bedeutfame Periode aus einer Sprache in bie
+andere jo übertragen, daß fie genau und vollfommen die felbe
+Wirfung thäte. Daher bleibt jede Uebersetzung tobt und ihr Stil
+gezwungen, fteif, unnatürlih: oder aber fie wird frei, d. h. be-
+gnügt fih mit einem a peu pres, ift alfo falsch. Eine Biblio-
+thef von Ueberfegungen gleicht einer Gemähldegallerie von
+Kopien.
+
+Demgemäß liegt, bei Erlernung einer Sprade, die Schwie—
+rigfeit vorzüglich darin, jeden Begriff, für ben fie ein Wort hat,
+aud dann kennen zu lernen, wann die eigene Spracde fein die—
+jem genau entsprechendes Wort befist; welches oft der Fall ift.
+Daher alfo mug man, bei Erlernung einer fremden Sprache,
+mehrere ganz neue Sphären von Begriffen in feinem Geifte ab-
+fteden: mithin entftehn Begriffsfphären wo noch feine waren.
+Man erlernt alfo nicht bloß Worte, fondern erwirbt Begriffe.
+Dies ift vorzüglich bei Erlernung der alten Sprachen der Fall;
+weil die Ausprudsmeife der Alten von der unfrigen viel ver-
+schiedener ift, als die der modernen Spraden von einander;
+welches sich daran zeigt, daß man, beim lleberjegen ing Lateini-
+fhe, zu ganz anderen Wendungen, als die das Driginal bat,
+greifen muß. Erft nachdem man alle Begriffe, welche die zu
+erlernende Sprache durch einzelne Worte bezeichnet, richtig ges
+faßt bat und bei jedem Worte berfelben genau den ihm entfpre«
+enden Begriff unmittelbar denkt, nicht aber erft das Wort in
+eines der Mutterfprache überfegt und dann den durch diejes be-
+zeichneten Begriff denft, als welcher nicht immer dem erfteren
+genau entfpricht, und eben fo Hinfichtlih ganzer Phrasen; — erft
+dann hat man den Geift der zu erlernenden Sprache gefaßt
+und damit einen großen Schritt zur Kenntniß der fie fprechen-
+den Nation gethan: denn wie der Stil zum Geifte des Indivi—
+duums, fo verhält fih die Sprache zu dem der Nation. Boll
+fommen inne aber hat man eine Sprache erft, wenn man fähig
+
+
+Weber Sprache nnd Worte. 463
+
+
+ift, nicht eiwan Bücher, fondern fich selbst in fie zu überfegen;
+jo Daß man, obne einen Berluft an feiner Individualität zu er-
+leiden, 'fich) unmittelbar in ihr mitzutbeilen vermag, also Auslän-
+dern jeßt eben fo genießbar ift, wie Landsleuten.
+
+Menjchen von geringen Fäbigfeiten werden auch nicht Teicht
+eine fremde Sprache sich eigentlich aneignen: fie erlernen wohl
+die Worte derfelben, gebrauchen fie jedoch fteld nur in der Be—
+Deutung des ungefähren Aequivalents derfelben in ihrer Mutter-
+sprache und behalten aud) immer bie biefer eigenthümlichen Wen-
+Dungen und Phrafen bei. Sie vermögen eben nicht den Geift
+der fremden Sprade sich anzueignen; weldes eigentlich daran
+liegt, daß ihr Denken selbst nicht aus eigenen Mitteln vor fich
+geht, sondern, zum größten Theil, von ihrer Muttersprache erborgt
+ift, deren gangbare Phrafen und Wendungen ihnen die Gtelle
+der eigenen Gedanfen vertreten; daher eben fie auch in der eige-
+nen Sprade fid stets nur abgenugter Redensarten (hackney’d
+phrases; phrases banales), bedienen, weldye felbft fogar fie fo
+ungeschickt zusammenstellen, dag man merkt, wie unvollkommen
+fie fih des Sinnes derjelben bewußt find und wie wenig ihr
+ganzes Denken über die Worte hinausgeht, jo daß es nicht gar
+viel mehr, als Bapageiengeplapper if. Aus dem entgegenge-
+jegten Grunde ift Originalität der Wendungen und individuelle
+Angemefjenbeit jedes Ausdrucks, den Einer gebraudt, ein un-
+feblbares Symptom überwiegenden Geiftes.
+
+Aus diefem Allen nun alfo erhellet, daß bei der Erlernung
+jeder fremden Sprache fi) neue Begriffe bilden, um neuen Zei-
+chen Bedeutung zu geben; daß Begriffe auseinandertreten, bie
+fonft nur gemeinfchaftlich einen weiteren, also unbeftimmteren
+ausmachten, weil eben nur Ein Wort für fie da war; daß Be-
+ziebungen, die man bis dahin nicht gefannt hatte, entdeckt wer-
+den, weil die fremde Spradhe den Begriff burd einen ibr
+eigentbümlihen Tropus, oder Metapher, bezeichnet; daß bem-
+nad) unendlich viele Nüancen, Aehnlichkeiten, Verschiedenheiten,
+Beziehungen der Dinge, mittelft der neu erlernten Sprade ins
+Bemwußtfeyn treten; dag man alfo eine vielfeitigere Anficht von
+allen Dingen erhält. Hieraus nun folgt, daß man im jeber
+Sprache anders denkt, mithin unfer Denfen durd die Erlernung
+einer jeden eine neue Modififation und Färbung erhält, daß
+
+ [S. 464]
+
+
+folglich der Polyglottismus, neben feinem vielen mittelbaren
+Nusen, auch ein direftes Bildungsmittel des Geiftes ift, indem
+er unsre Anfichten, durch hervortretende Bielfeitigfeit und Nüan—
+eirung der Begriffe, berichtigt und vervollfommnet, wie auch die
+Gewandtheit des Denkens vermehrt. Den Bortheil diefes Stu-
+diums entbehrten die Griechen; wodurd fie zwar wiel Zeit er-
+fparten, mit der fie dann aber auch weniger ökonomisch umgien-
+gen; wie das tägliche, lange Herumfchlendern der Freien auf der
+eyoga bezeugt, welches jogar an die Lazzaroni und das ganze
+italiänifche Treiben in piazza erinnert. —
+
+Endlich ift aus dem Gefagten leicht abzufehn, daß die Nach—
+bildung des Stiles der Alten, in ihren eigenen, an grammati-
+fcher Vollkommenheit die unfrigen weit übertreffenden Spraden,
+das alferbefte Mittel ift, um fi) zum gewandten und vollfom-
+menen Ausdrude feiner Gedanfen in der Mutterfpradhe vorzu—
+bereiten. Um ein großer Schriftfteller zu werden, ift es sogar
+unerläßlih; — eben, wie es für den angehenden Bildhauer und
+Maler nothwendig ift, fih durd Nachahmung der Mufter des
+Alterthums heranzubilden, ehe er zu eigener Kompofition fchrei-
+tet. Durd das Lateinfchreiben allein lernt man die Bedeutung
+und den Werth der Worte, ihrer Zufammenftellung und ver
+grammatifalifchen Formen genau abwägen und fo das Foftbare
+Material handhaben, welches geeignet ift, vem Ausdruck und ber
+Erhaltung werthvoller Gebanfen zu dienen. Ohne diese Bor-
+schule artet die Schreiberei leicht in bloßes Gewäsche aus.
+
+$. 300.
+
+Daß, gleihen Schritted mit der Vermehrung der Begriffe,
+der Wortoorratb einer Sprache vermehrt werbe, ift recht und
+fogar nothwendig. Wenn hingegen Letteres ohne Erfteres ge-
+schieht; fo ift es Lioß ein Zeichen der Geiftesarmuth, die dod)
+etwas zu Marfte bringen möchte und, da fie feine neue Gedan-
+fen bat, mit neuen Worten fommt. Diefe Art der Sprachbe—
+reicherung ift jest fehr an der Tagesordnung und ein Zeichen
+der Zeit. Aber neue Worte für alte Begriffe find wie eine
+neue Farbe auf ein altes Kleid gebracht. —
+
+Beiläufig und bloß weil das Beifpiel gerade vorliegt fei
+bier bemerft, daß man „Ersteres und Letzteres“ nur dann an-
+wenden foll, wann, wie oben, jeder biefer Ausdrücke mehrere
+
+
+Ueber Sprache und Worte. [S. 465] es; ald wo es befler
+ift, diefes eine zu wiederholen; welches überhaupt zu thun bie
+Griechen feinen Anftand nehmen, während die Franzofen am
+ängftlichften find, es zu vermeiden. Die Deutfchen verrennen
+fih in ihr Erfteres und Letzteres bisweilen dermaaßen, daß man
+nicht mehr weiß, was Hinten und was vorne ift.
+
+$. 301.
+
+Wir verachten die Wortfchrift der Chinesen. Aber,
+da bie Aufgabe aller Schrift ift, in der Vernunft des Andern,
+dur sichtbare Zeichen, Begriffe zu erweden; fo ift es offen-
+bar ein großer Ummeg, dem Auge zunächft nur ein Zeichen des
+börbaren Zeichens derselben vorzulegen und allererft dieses zum
+Träger des Begriffes felbft zu machen; wodurch unfere Buchsta—⸗
+benfchrift nur ein Zeichen des Zeichens ist. Es frägt fih demnach,
+welchen Vorzug denn das börbare Zeichen vor bem sichtbaren
+habe, um und zu vermögen, den geraden Weg vom Auge zur
+Vernunft Tiegen zu lassen und einen fo großen Ummeg einzus
+schlagen, wie der ift, das fichtbare Zeichen erft durch Vermitte—
+Yung des hörbaren zum fremden Geifte reden zu lassen; während
+es offenbar einfacher wäre, nach Weife der Chinefen, das fidht-
+bare Zeichen unmittelbar zum Träger des Begriffes zu machen
+und nicht zum bloßen Zeichen des Lautes; um fo mehr, als ber
+Sinn des Gefihts für noch mehrere und feinere Modifikationen
+empfänglich ift, ald der des Gehörs, und auch ein Nebeneinander
+der Eindrüde geftattet, dessen hingegen die Affeftionen des Ge-
+hörs, als ausschließlich in der Zeit gegeben, nicht fähig find. —
+Die bier nachgefragten Gründe würden nun wohl diese feyn:
+1) Wir greifen, von Natur, zuerft zum hörbaren Zeichen, und zwar
+zunächft um unfre Affefte, danach aber auch, um unfere Gebanfen
+auszubrüden: hiedurch num gelangen wir zu einer Sprache für Das
+Ohr, ehe wir nur daran gedacht haben, eine für das Geficht zu
+erfinden. Nachmals aber ift e8 Fürzer, diese letztere, wo fie nöthig
+wird, auf jene andere zurüdzuführen, als eine ganz neue, ja, ganz
+anderartige Sprache für das Auge zu erfinden, oder refpeftive zu
+erlernen. 2) Das Geftcht fann zwar mannigfaltigere Modiftfatio-
+nen faflen, als das Ohr: aber folche für das Auge hervorzubrin-
+gen, vermögen wir nicht wohl ohne Werkzeuge, wie doch für das
+Ohr. Auch würden wir die fichtbaren Zeichen nimmer mit ber
+
+I, 30
+
+ [S. 466]
+
+
+Schnelligkeit hervorbringen und wechfeln lassen können, wie, vers
+möge ber Bolubilität der Zunge, die hörbaren; wie Dies auch bie
+Unvollfommenheit der Fingersprache der Taubftummen bezeugt.
+Diefes alfo mat, von Haufe aus, das Gehör zum mefentli-
+hen Sinne der Sprade, und baburd der Vernunft. Demnach
+nun aber find es im Grunde bad nur äußerliche und zufällige,
+nicht aber aus dem Wesen ber Aufgabe an sich felbft entiprun-
+gene Gründe, aus melden bier ausnahmsweife der gerade Weg
+nicht der befte ift. Folglich bliebe, wenn wir die Sache abstrakt,
+rein theoretisch und a priori betrachten, das Verfahren der Chi—
+nejen bag eigentlich richtige; jo dag man ihnen nur einige Pe—
+danterei vorwerfen Fünnte, fofern fie yon ben empirischen, einen
+andern Weg anrathenden Umftänden dabei abgefehn haben. In—
+zwijchen Hat auch die Erfahrung einen überaus großen Borzug
+ber Chinefiihen Schrift zu Tage gebradt. Dan braucht näm-
+ih nicht Chinefifh zu fünnen, um fi darin auszudrüden; fon-
+bern Jeder Lieft fie in feiner eigenen Sprache ab, gerade fo,
+wie unfre Zahlzeihen, welde überhaupt für die Zahlenbegriffe
+Das find, was die hinefiihen Schriftzeichen für alle Begriffe;
+und die algebraischen Zeichen find es fpgar für abftrafte Größen-
+begriffe. Daher ift, wie mich ein englifcher Theehändler, der
+fünf Mal in China gewesen war, versichert hat, in allen, inbi-
+schen Meeren, die chinesische Schrift das gemeinfame Medium, der
+Berftändigung zwifchen Kaufleuten der verfihiedenften Nationen,
+bie feine Sprade gemeinjchaftlih verfiehn. Der Mann war
+fogar der feften Meinung, fie würbe einft, in dieser Eigenfchaft,
+fi) über die Welt verbreiten.
+| $. 302.
+
+Die Deponentia find das einzige Unvernünftige, ja, Un-
+finnige der römischen Sprache, und nicht viel besser fieht es um
+die Media der griechischen. — |
+
+Ein fperieller Fehler aber im Lateinifhen ift, daß Keri
+bas Paffivum des facere vorftellt: Died implicirt und impft der
+bie Sprache erlernenden Vernunft ben heillosen Irrthum ein,
+daß Alles, was ist, wenigstens alles Gewordene, ein Gemad-
+tes sei. Im Griechischen und Deutschen Hingegen gelten 4
+vo’ und „werden“ nicht unmittelbar als Passiva des zrousw
+und „machen“. Ich Tann griechisch sagen: ovx sorı may ye
+
+
+Ueber Sprache und Worte. 467
+
+
+yousvov zrosovusvov: aber Dies ließe sich nicht wörtlich ind La-
+teinifche überfegen, mie doch ind Deutfche: „nicht jedes Gewor⸗
+dene ift ein Gemachtes.“ —
+
+$. 303.
+
+Die Konfonanten find das Sfelett und die Vokale das Fleisch
+der Wörter. Jenes ift (im Individuo) unmanbelbar, dieses fehr
+veränderlich, an Farbe, Beichaffenheit und Quantität. Darum
+fonferviren die Wörter, indem fie durch die Jahrhunderte, oder
+gar aus einer Sprache in die andere wandern, im Ganzen fehr
+wohl ihre Konjonanten, aber verändern leicht ihre Bofale.. Da-
+ber find in der Etymologie viel mehr jene, als biefe zu berüd-
+fihtigen. —
+
+Bon dem Worte superstitio findet man allerlei Etymolo-
+gien zufammengeftellt in Delrii disquisitionibus magicis, L. I,
+c. 4, und ebenfalls in Wegscheider's instit. theol. dog-
+waticae, proleg. c. I, $. 5, d. Ich vermuthe jedoch den Ur-
+sprung des Wortes darin, daß es, von Haufe aus, bloß ben
+Geipenfterglauben bezeichnet Habe, nämlich: defunctorum manes
+eircumyagari, ergo mortuos adhuc superstites esse. —
+
+Ich will hoffen, daß ich nichts Neues fage, wenn ich be-
+merfe, daß uooyae und forma das felbe Wort ist; imgleichen,
+daß unter den Aehnlichfeiten des Griechischen mit dem Deutfchen
+aud) diefe ift, daß in Beiden der Superlativ durch fi (— ı0ros)
+gebildet wird; während Dies im- Lateinischen nicht der Fall ift.
+— Eher könnte ich bezweifeln, daß man die Etymologie des Wor-
+te8 „arm“ fchon kenne, daß ed nämlich von zomuos, eremus,
+italiänifch ermo fommt: denn arm bedeutet „wo nichts ist“ alfo
+„öde, Teer”. — Hingegen bag „Unterthan” vom Altenglifchen
+Thane, Bafall, fommt, welches im Mafbeth häufig gebraucht
+wird, werben hoffentlich Schon Andere vermuthet haben. —
+
+Ferner die Worte „Aberglauben” und „Aberwitz“ Halte ich
+für entfprungen aus „Ueberglauben” und „Weberwig”, unter
+Bermittelung von „Oberglauben“ und „Oberwitz“ (mie Weber-
+tod, Dberrod; Ueberhand, Dberhand,) und fodann durd Kor-
+ruption des D in A, wie, umgekehrt, in „Argwohn“ flatt „Arg-
+wahn.” — Daß Epheu von Evoe fommt, wird doch wohl fein
+neuer Einfall feyn? —
+
+„Es kostet mich” ift nichts, als ein durch Verjährung adre-
+
+30 *
+
+ [S. 468]
+
+
+ditirter Sprachfehler. Kosten fommt, eben wie das italiänische
+costare, von constare. „Es kostet mich“ ift alfo me constat,
+ftatt mihi constat. „Dieser Löwe Foftet mich” darf nicht ber
+Menageriebefiger, fondern nur Der fagen, welcher vom Löwen
+gefreflen wird. — |
+Die Aehnlichkeit zwischen coluber und Kolibri muß burd-
+aus zufällig feyn, oder aber, wir hätten, da die Kolibri nur in
+Amerifa vorkommen, ihre Duelle in ber Urgefchichte des Men:
+fchengefchlechts zu fuchen. So verfchieden, ja entgegengefett, auch
+beide Thiere find, indem wohl oft der Kolibri praeda colubri
+wird; fo ließe fih dabei doch an eine Verwechselung benfen,
+derjenigen analog, in Folge welcher im Spanischen aceite nidt
+Effig, fondern Del bedeutet. — Ueberdies finden wir noch auf
+falfendere Uebereinstimmungen mander ursprünglich Amerifani-
+fcher Namen mit denen des europäifchen Alterthbumg, wie zwischen
+der Atlantis des Plato und Aztlan, dem alten, einheimischen
+Namen Merifos, der noch jest im Namen der merifanifchen
+Städte Mazatlan und Tomatlan vorhanden ift, und zwischen
+dem hohen Berge Sorata in Peru und dem Soraftes (ital. Se
+rate) im Appennin. |
+
+
+Kapitel XXVI

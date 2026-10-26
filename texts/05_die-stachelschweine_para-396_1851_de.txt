@@ -1,0 +1,28 @@
+# TIER 1 PRIMARY (published work) | German original, scan-backed
+# title: Die Stachelschweine, § 396 (Parerga und Paralipomena, 2. Buch, Kapitel 31 'Gleichnisse, Parabeln und Fabeln', S. 524-525)
+# title_en: The Porcupines (the 'hedgehog's dilemma')
+# year: 1851
+# edition: 1. Auflage, Berlin: A. W. Hayn, Bd 2, S. 524-525, transcribed page-by-page from the scan
+# translator: none (German original)
+# copyright: public domain
+# source: https://de.wikisource.org/wiki/Die_Stachelschweine
+# fetched: 2026-10-26
+# note: scans: https://www.digitale-sammlungen.de/view/bsb10932313?page=532,533 (BSB Munich)
+
+# autor: Arthur Schopenhauer
+# titel: Gleichnisse, Parabeln und Fabeln
+# subtitel: § 396
+# herkunft: Parerga und Paralipomena, 2. Buch, Kapitel 31, Seite 524-525
+# herausgeber: Schopenhauer
+# auflage: 1. Auflage
+# verlag: A. W. Hayn
+# erscheinungsjahr: 1851
+# erscheinungsort: Berlin
+# wikipedia: Die Stachelschweine (Parabel)
+# quelle: [https://www.digitale-sammlungen.de/view/bsb10932313?page=532%2C533 Scans des Münchener Digitalisieruszentrums], Commons:File:Schopenhauer Stachelschweine.jpg|Commons
+# kurzbeschreibung: Eine Parabel über das Zusammenleben
+# bearbeitungsstand: korrigiert
+[S. 524]
+
+=== § 396 ===
+Eine Gesellschaft Stachelschweine drängte sich, an einem kalten Wintertage, recht nahe zusammen, um durch die gegenseitige Wärme, sich vor dem Erfrieren zu schützen. Jedoch bald empfanden sie die gegenseitigen Stacheln; welches sie dann wieder voneinander entfernte. Wann nun das Bedürfnis der Erwärmung sie wieder näher zusammen brachte, wiederholte sich jenes zweite Uebel; so daß sie zwischen beiden Leiden hin und hergeworfen wurden, bis sie eine mäßige Entfernung von einander herausgefunden hatten, in der sie es am besten aushalten konnten. — So treibt das Bedürfnis der Gesellschaft, aus der Leere und Monotonie des eigenen Innern entsprungen, die Menschen zu einander; aber ihre vielen widerwärtigen Eigenschaften und unerträglichen Fehler stoßen sie wieder von einander ab. Die mittlere Entfernung, die sie endlich herausfinden, und bei welcher ein Zusammenseyn bestehn kann, ist die Höflichkeit und feine Sitte. Dem, der sich nicht in dieser Entfernung hält, ruft man in England zu: keep your distance! — Vermöge derselben wird zwar das Bedürfniß gegenseitiger Erwärmung nur unvollkommen befriedigt, dafür aber der Stich der Stacheln nicht empfunden. — Wer jedoch viel eigene, innere Wärme hat bleibt lieber aus der Gesellschaft weg, um keine Beschwerde zu geben, noch zu empfangen.

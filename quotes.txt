@@ -1,0 +1,521 @@
+================================================================================
+SCHOPENHAUER CORPUS - SHELF 1-C: SAYINGS, AND WHAT THE POSTER VERSION THREW AWAY
+   his own sentences, with their places; and the famous formulas that are not his
+================================================================================
+
+SHELF: sayings
+TIER: 1 (with tier 3 verdicts attached)
+OPENED: 2026-10-25 (pass 28)
+
+WHAT THIS SHELF IS
+   Not a commonplace book, and not a second copy of the texts: it is a list of the
+   sentences that get quoted AT him, each with his own wording, the place, and a
+   verdict. Its use is defensive. A model holding only the poster version cannot
+   tell an owner that his favourite sentence is a condensation, or that a couplet
+   inside his prose was written by somebody else.
+
+STATUS WORDS (as on shelf 3, same closed vocabulary)
+   HIS              his words, found and read in the primary files, place given
+   CONDENSED        his thought elsewhere, not these words
+   NOT-HIS-HERE     searched in all 72 files, under two folds, and not there;
+                    absence is named with the searches, and is NOT a claim that he
+                    never wrote it - see the hazard below
+   MISFILED         his words, but popularly put in the wrong work
+
+THE HAZARD THAT COMES WITH EVERY NEGATIVE ON THIS SHELF
+   "Not found" here means: not found with (i) the print's spelling as read, (ii) the
+   long s folded to s, (iii) f folded to s for the scans that print f for long s.
+   It does NOT fold spelling variants such as "ue" for "ue": a search for
+   "Eigenthuemlicher Fehler der Deutschen" returns nothing, though file 33 contains
+   the sentence printed with "ue". So a NOT-HIS-HERE on a famous formula is a strong
+   report about the corpus, and a weak one about the world: name the fold, and let
+   the reader know which files are OCR (files 27, 30-53, 60-71 are scan layers).
+
+--------------------------------------------------------------------------------
+SCOPE OF EVERY NEGATIVE ON THIS SHELF, dated 2026-10-26 (pass 42)
+   The records below say "72 files" because that is what the estate held when they were
+   written; it now holds 79. The famous negatives were re-run this pass over all 79 files,
+   tier 1 and tier 2 together, with a fold declared in the catalogue (long s to s, f for long
+   s, ss for sharp s, ae/ue/ie resolved, single spaces kept so that multi-word phrases can be
+   tested at all). They still hold: no second clause of the balanced will-dictum, no "laecherlich
+   gefunden", no "ohne Gesundheit", no "Hoelle, das sind die Andern". One apparent exception was
+   caught and rejected: "drei Tage" returns one hit, and the hit is in the header of file 76,
+   which is the CATALOGUER'S prose, not his - a negative searched over a whole file can find the
+   cataloguer's own sentence. The lessons: a fold that deletes spaces cannot test a phrase, only
+   a word; and a negative over a widened estate must be re-run, not assumed.
+
+THE RECORDS
+--------------------------------------------------------------------------------
+
+Q-01 | HIS | "The world is my representation."
+   claim: the opening sentence, quoted more often than read.
+   here: the first sentence of the first book, printed inside quotation marks by
+      himself - file 01 [[27]] § 1: ""Die Welt ist meine Vorstellung:" - dies ist
+      die Wahrheit, welche in Beziehung auf jedes lebende und erkennende Wesen gilt;
+      wiewohl der Mensch allein sie in das reflektirte abstrakte Bewusstseyn bringen
+      kann" - and note what the poster drops: the sentence is true of every living
+      and knowing creature, and what is unique to a human being is only being able
+      to bring it to reflected, abstract consciousness. By 1891 Liepmann's
+      dictionary article (file 23, S. 342) opens its summary with the sentence, so
+      its status as THE formula is already ninety years old.
+   answer: quote it as his, and add the half that is always cut.
+   ref: file 01, file 23
+
+Q-02 | HIS | Life is a business that does not repay its costs.
+   claim: treated by many as a paraphrase of his pessimism.
+   here: his own words, twice - file 02 [[279]] (Ergaenzungen zum zweiten Buch,
+      ch. 19) "ein Geschaeft ist, welches die Kosten nicht deckt", and again at
+      [[677]] (Ergaenzungen zum vierten Buch, ch. 46) - with his own cross-reference
+      at the first place, "wie weiter unten, Kapitel 28 dargethan wird".
+   answer: quotable as his, with either place; he said it twice and knew it.
+   ref: file 02, G-07
+
+Q-03 | HIS | The world is a hell, and one devil must be the other's.
+   claim: the crude version goes: man is a wolf to man.
+   here: the Latin tag is his, three times over - file 01 [[198]] § 27, file 02
+      [[392]] § 25, and file 02 [[677]] § 60, where it turns into the stronger
+      sentence: "Wer dies Letztere recht ins Auge fasst, erblickt die Welt als eine
+      Hoelle, welche die des Dante dadurch uebertrifft, dass Einer der Teufel des
+      Andern seyn muss; wozu denn freilich Einer vor dem Andern geeignet ist, vor
+      Allen wohl ein Erzteufel, in Gestalt eines Eroberers auftretend".
+   answer: the wolf tag is commonplaces he wields; the hell worse than Dante's, with
+      the conqueror as arch-devil, is his own invention - and it is the honest answer
+      to anybody quoting "hell is other people" at him, which is not his (G-09).
+   ref: files 01, 02, G-09
+
+Q-04 | HIS | The porcupines: cold, and needing each other, and hurting each other.
+   claim: told as the hedgehogs, and as a joke about politeness.
+   here: his animals are Stachelschweine, Parerga II § 396, S. 524-525 - file 05 (a
+      clean transcription) and file 51 (OCR of another library's copy of the same
+      1851 print); the moral is that a certain warmth is owed, and that the
+      prudent distance is what good manners find.
+   answer: say porcupines, cite § 396 naming the 1851 print, and quote the moral
+      rather than the anecdote.
+   ref: files 05, 51, spot-check 24
+
+Q-05 | HIS | Music is not a copy of the Ideas but a copy of the will itself.
+   claim: popularised as "music is the most direct expression of the will" - or
+      worse, as Nietzsche's "without music life would be an error".
+   here: file 01 [[324]] § 52: "Die Musik ist naemlich eine so unmittelbare
+      Objektivation und Abbild des ganzen Willens, wie die Welt selbst es ist" and
+      "Die Musik ist also keineswegs, gleich den andern Kuensten, das Abbild der
+      Ideen, sondern Abbild des Willens selbst"; and at [[329]] § 52 music is "eine
+      im hoechsten Grad allgemeine Sprache".
+   answer: his claim is stronger and stranger than the poster's: music is not a
+      picture of the world's particulars at all, but of the will, so its effect
+      "is so very much mightier and more piercing" - the word "immediate" is his,
+      and so is the comparison with the world itself, not with the other arts alone.
+   ref: file 01 § 52
+
+Q-06 | MISFILED | Talent hits what no one else can hit; genius what no one can see.
+   claim: filed to "Parerga" in most quotation books.
+   here: file 02 [[462]], Drittes Buch, ch. 31 "Vom Genie": the marksman simile,
+      with the sentence the poster loses - that others cannot even see the
+      genius's target, so they learn of it "nur mittelbar, also spaet", and "auf Treu
+      und Glauben". A second and different passage exists in Parerga (file 62, 1877
+      section 61 = 1851 section 60) where talent works for money and fame.
+   answer: name work, book and chapter; never merge the two passages.
+   ref: files 02, 62, T3-05, G-06
+
+Q-07 | HIS | Death is the result and the resume of life.
+   claim: the summary "life has no purpose" is treated as his slogan.
+   here: file 02 [[748]] § 68: "Der Tod ist das Ergebniss, le Resume des Lebens,
+      oder die zusammengezogene Summe, welche die gesammte Belehrung, die das Leben
+      vereinzelt und stueckweise gab, mit Einem Male ausspricht" - and the lesson it
+      speaks is that the whole striving is in vain.
+   answer: his sentence is about death as a teacher's final summary; the flat slogan
+      "life has no purpose" is a condensation, and drops the pedagogical image.
+   ref: file 02 § 68
+
+Q-08 | HIS | Tat twam asi: each self, seen from within, is everything in everything.
+   claim: quoted as his motto for compassion, usually without a place.
+   here: file 01 [[443]] § 63 and [[280]] § 45, and file 02 [[706]] § 55 where the
+      formula is spelled out: "jedes, auch das unbedeutendeste Individuum, jedes Ich,
+      von innen gesehn, Alles in Allem; von aussen gesehn hingegen, ist es nichts,
+      oder doch so viel wie nichts".
+   answer: he prints the Upanishadic formula in transliteration as a piece of his own
+      argument; quote the file 02 sentence for the inside/outside contrast, which is
+      what the ethical claim actually rests on.
+   ref: files 01, 02
+
+Q-09 | HIS | Reading: when we read, another thinks for us.
+   claim: the popular counsel on reading, variously worded and variously attributed.
+   here: file 48, section 291 (the chapter's closing pages carry it at [S. 456]):
+      "Wann wir lesen, denkt ein Anderer fuer uns: wir wiederholen bloess seinen
+      mentalen Process", followed by the pupil tracing the teacher's pencilled
+      strokes. Carried by both English translators, though one of them breaks off
+      before the chapter's end (spot-check 38).
+   answer: quote the simile, cite section 291 of the 1851 print (one higher in the
+      1877 collected edition), and name the translation used.
+   ref: file 48, files 19, 20, spot-check 38
+
+Q-10 | HIS | Natural Right: the Germans look in the clouds for what lies at their feet.
+   claim: a passage rarely quoted at all, and then usually misdated.
+   here: file 33, sections 120-133 (1851 print), opening "Ein eigenthuemlicher
+      Fehler der Deutschen ist, dass sie, was vor ihren Fussen liegt, in den Wolken
+      suchen", with his cross-reference to the Foundation of Morality section 17 and
+      to the chief work bk. i section 62.
+   answer: quote by sections, and name the printing: in the 1877 collected edition
+      every paragraph number of this chapter stands one higher.
+   ref: file 33, spot-check 37, HOW A PASSAGE IS CITED
+
+Q-11 | HIS | A verse inside his prose that is not his verse.
+   claim: a line about great work ripening unseen, quoted out of context as his poetry.
+   here: file 36 [[S. 378]] ("Ueber Urtheil, Kritik, Beifall und Ruhm"), where he
+      prints a poem - "Es erscheint nun: niemand sieht es, / Niemand hoert es im
+      Geschrei; / Mit bescheid'ner Trauer zieht es / Still vorbei" - without naming
+      its author; the English volume (file 17) carries the same verses AND a
+      translator's note naming "Ernst Freiherr von Feuchtersleben (1806-49), an
+      Austrian physician, philosopher, and poet".
+   answer: do not attribute the verses to him. This is the second such case in this
+      collection: the closing couplet of file 48 is likewise a quotation whose author
+      no German witness names, and which both translators left in German (spot-check
+      38). The rule: a verse inside his prose is somebody else's until named.
+   ref: files 36, 17, 48, spot-checks 38, 39
+
+Q-12 | NOT-HIS-HERE | "No truth ever passes unscathed: first ridiculed, then
+   resisted, then taken as self-evident."
+   claim: quoted as his, with the three stages numbered, in quotation books and in
+      more than one history of ideas.
+   here: searched in all 72 files with both folds: "laecherlich gefunden" 0, "drey
+      Perioden" 0, "Arten von Schriftstellern" 0; "laecherlich" and "widersinnig"
+      occur often, but never in that trichotomy. The three-stage formula is therefore
+      not in this corpus as a sentence. As of 2026-10-26 it is absent from a
+      third class of witness too: Gwinner's 1863 pamphlet (file 73) contains neither
+      "laecherlich" nor "Perioden" at all.
+   answer: cite it as a Schopenhauerian commonplace; if it must be given as his, name
+      the edition and page of the edition you found it in - which is what this
+      collection could not do.
+   ref: hazard block above
+
+Q-13 | NOT-HIS-HERE | The three sorts of authors: those who write without thinking,
+   those who think in order to write, those who have thought and then write.
+   claim: printed in anthologies as his, from the essay on literary style.
+   here: "Arten von Schriftstellern" 0, "schreiben, ohne" 0, "um zu schreiben" 0 in
+      all 72 files. The essay on style IS held here (file 47, 1851 print) but as a
+      scan layer, so the honest verdict is NOT IN THIS TEXT-STATE rather than "not
+      his": the trichotomy may stand in a passage this copy shreds.
+   answer: say it is not in the 1851 copy held here; do not settle the attribution
+      until the chapter has been read in another copy or edition.
+   ref: file 47, hazard block above
+
+Q-14 | CONDENSED | "Health is not everything, but without health everything is
+   nothing."
+   claim: quoted as his, and used as the plain-man's summary of the Aphorisms.
+   here: "ohne Gesundheit" 0 and "Gesundheit ist" 0 in all 72 files, under both
+      folds. His own health-talk is real but differently shaped - e.g. file 01
+      [[196]] § 27 on "das behagliche Gefühl der Gesundheit" as the feeling that the
+      organism keeps the physical and chemical laws down, which is a point about the
+      will, not a maxim about doctor's bills.
+   answer: call it a condensation of his counsel, in nineteenth-century English
+      rhythm; the sentence as quoted is nowhere in these files.
+   ref: files 01, 04
+
+Q-15 | CONDENSED | "A man can do what he wills, but cannot will what he wills."
+   claim: his most printed sentence, and the one the collection cannot find.
+   here: not in these 72 files in that wording; the 1841 essay on the freedom of the
+      will has the two halves separately, "ich kann thun was ich will" (which he
+      calls empty) and "subjective hingegen fuehlt Jeder, dass er stets nur thut was
+      er will", followed by the clause the anthologies drop - that the lowest natural
+      being would feel the same if it could feel (file 55).
+   answer: say condensation, not quotation; and quote the dropped clause, which is
+      the misanthropic edge of the doctrine.
+   ref: file 55, T3-11, G-05
+
+Q-16 | NOT-HIS-HERE | "Style is the dress of thought," and "books are the fourth
+   estate."
+   claim: both offered as his in quotation books.
+   here: "Kleide des Gedankens" 0, "vierte Stand" 0. His own style-counsel uses
+      clothing language the other way about, and the fourth-estate notion for books
+      belongs to the journalism of his century.
+   answer: treat both as English aphorisms that wandered onto his shelf; a model
+      asked to "quote Schopenhauer on style" should produce his own sentences from
+      the style chapter, not these.
+   ref: file 47, file 48, G-08
+
+Q-17 | HIS | "We ourselves are the will to live: therefore we must live, well or badly."
+   claim: the flat poster claim that life is meaningless, as though he merely complained.
+   here: file 02 [[279]] § 118, "Wir selbst sind der Wille zum Leben: daher muessen wir
+      leben, gut oder schlecht" - and it stands on the very page that carries "ein
+      Geschaeft, welches die Kosten nicht deckt" (Q-02).
+   answer: his position is not that the world mistreated us but that we are the thing
+      that cannot stop wanting; the blame is not elsewhere, which is exactly what the
+      poster version of pessimism prefers to forget.
+   ref: file 02, Q-02
+
+Q-18 | HIS | What a man IS, and what he has in himself, is the immediate source of his well-being.
+   claim: "happiness depends on what we are rather than what we own", given as a summary.
+   here: file 04 (Aphorismen zur Lebensweisheit, the chapter on what we are): "Was einer
+      in sich ist und an sich selber hat, kurz die Persoenlichkeit und deren Wert, ist
+      das alleinige Unmittelbare zu seinem Glueck und Wohlsein." Note that this witness
+      is a normalised transcription and yields no printed page: cite by chapter, not by
+      page, and say so.
+   answer: quotable as his; the threefold division (what we are, have, and represent) is
+      the chapter's own frame, so cite the chapter and not a page nobody printed.
+   ref: file 04
+
+Q-19 | HIS | Free time is what most people have no use for: it yields boredom.
+   claim: the popular taunt "they made too much of solitude", and the converse claim that
+      he idealised being alone.
+   here: file 04, "Was nun aber wirft die freie Musse der meisten Menschen ab?"
+      "Langeweile, und Dumpfheit, so oft nicht sinnliche Genuesse oder Albernheiten da
+      sind, sie auszufuellen."
+   answer: his argument is a conditional, not a boast: solitude profits a man in
+      proportion to what he carries, and for the empty-handed it yields the gallows,
+      which is the sentence the popular version loses.
+   ref: file 04, G-14
+
+Q-20 | HIS | He who writes anonymously and polemically has presumption against him.
+   claim: quoted in debates about anonymous criticism as though it defended the anonymous
+      writer.
+   here: file 47 [S. 428] § 281 (1851 print, read from the scan layer which prints f for
+      the long s): "Wer anonym schreibt und polemizirt, hat eo ipso die Praesumtion gegen
+      sich, dass er das Publicum betruegen, oder ungefchaerdet Anderer Ehre antasten will."
+   answer: the rule bites the writer, not the reviewer - anonymity is a standing
+      disadvantage in his court; and note that this is the style chapter, whose famous
+      trichotomy of authors this collection has NOT found in this copy (Q-13).
+   ref: file 47, Q-13
+
+Q-21 | HIS | Life and property made to depend on another man's metaphysical convictions.
+   claim: his notorious intolerance about unbelievers, usually quoted from a paragraph
+      nobody locates.
+   here: file 33 [S. 222] § 133 (1851 print, read from the scan layer): "Es ist uebel
+      genug, dass dadurch Leben und Eigenthum des Einen von den metaphysischen
+      Ueberzeugungen des Andern abhaengig gemacht werden."
+   answer: quote it with the section, and note his own indignation is at the dependence,
+      not at the belief; the paragraph belongs to the chapter on right and politics, not
+      to the essay on religion.
+   ref: file 33, file 30
+
+Q-22 | HIS | Fame among the descendants, and the harridan who is Fame.
+   claim: his doctrine that posthumous fame is the only reliable kind.
+   here: file 36 [S. 392] § 241 (1851 print, read from the scan layer): "Wer koennte einer
+      solchen Metze noch begehren? wer moechte auf ihre Gunst stolz seyn? wer wird sie
+      nicht versmaehen? - Hingegen ist der Ruhm bei der Nachwelt eine..." - the harridan
+      is contemporary Fame, which he makes a person one would not marry.
+   answer: his rhetoric is contempt for the living audience rather than confidence in the
+      dead one; and the sentence is his own best answer to the appeal to posterity that he himself
+      discounts at 01 [[298]] § 49 (see gossip shelf G-13).
+   ref: file 36, G-13
+
+Q-23 | HIS | Natural education and artificial education: the head stuffed with concepts before the intuitions have room.
+   claim: "Schopenhauer on education", as a modern complaint about rote learning.
+   here: file 45 § 372 (1851 print, read from the scan layer): "Wir koennen diesen Weg
+      die naturelle Erziehung nennen; hingegen bei der kuenstlichen Erziehung wird, durch
+      Vorsagen, Lehren und Lesen, der Kopf voll Begriffe gepfropft, bevor..." - the
+      chapter's scheme being that concepts should follow intuitions, and that artificial
+      schooling reverses the order.
+   answer: quotable, with the chapter; both English translators carry it to its end
+      (spot-check 39), Dircks completely, Saunders breaking off earlier.
+   ref: file 45, files 15, 20, spot-check 39
+
+Q-24 | HIS (read in part) | Man cannot look at anything without trying to explain it.
+   claim: quoted lightly as "children explain everything, and so do adults".
+   here: file 71 [S. 272] (1851 print), where he writes that a human being is by nature
+      at pains to explain to himself in some way whatever he sees, so that children even
+      hold a dialogue with the lifeless thing in front of them. This copy's OCR is
+      defective on that very line - it prints "trebt" for "strieht" and garbles a word or
+      two - so the sentence is read here, and should be quoted only after another copy or
+      an edition has been consulted.
+   answer: the thought is his and usable; a verbatim quotation from this layer is not yet
+      safe, which is a different thing from being unusable.
+   ref: file 71
+
+--------------------------------------------------------------------------------
+METHOD OF THIS SHELF (added pass 29)
+   The later records above were hunted FROM his sentences, not from anthology wording.
+   The scoring script is work/schop/quote_hunt.js: it offers sentences that carry his
+   generalising company (der Mensch, Wer, Man, Nichts, Alle) and a verb of equation or
+   necessity, and the rest is reading. The earlier method - guessing his wording from a
+   quotation book - missed about a third of the time, and when it missed it produced a
+   FALSE absence, because the query was somebody else's Latin or English, not his German.
+   Eight records were added this way in one pass, which is also the honest rate: the scan
+   layers damage too many good sentences to be quoted verbatim at speed.
+
+Q-25 | HIS | A healthy beggar is happier than a sick king.
+   claim: the loose popular form is "health is better than wealth", or "a healthy beggar
+      is happier than a rich man".
+   here: file 04, Kapitel II (the chapter on what a man IS), in the text-state of the Ohle
+      separate edition of 1913, which is the transcription this collection holds:
+      "Besonders ueberwiegt die Gesundheit alle aeussern Gueter so sehr, dass wahrlich ein
+      gesunder Bettler gluecklicher ist als ein kranker Koenig." Saunders renders it
+      faithfully in file 13 - "a healthy beggar is happier than an ailing king" (read against
+      the German in spot-check 46, 2026-10-26) - but the German is blunter: "wahrlich"
+      (in very truth) and "ein kranker Koenig" (a sick king, not merely an ailing one).
+   answer: HIS, and with a place: it stands in the chapter on the SUBJECTIVE side of life,
+      which is where the point lives - health outweighs external goods because what a man is
+      outweighs what he has. Quote it against anyone who files it as a remark on riches.
+   ref: file 04, Kapitel II / file 13
+
+Q-26 | HIS | He may be wholly himself only while he is alone; who does not love solitude does not love freedom.
+   claim: the anthology wording, "A man can be himself only so long as he is alone; and if
+      he does not love solitude, he will not love freedom; for it is only when he is alone
+      that he is really free."
+   here: file 04, Kapitel V, part C ("Unser Verhalten gegen andere betreffend"): "Ganz er
+      selbst sein darf jeder nur so lange er allein ist: wer also nicht die Einsamkeit
+      liebt, der liebt auch nicht die Freiheit: denn nur wann man allein ist, ist man frei."
+      The English everybody quotes is Saunders' - file 14, Counsels and Maxims (1895): "A man
+      can be himself only so long as he is alone..." - and it is NOT in file 13, the volume
+      actually titled The Wisdom of Life. Note the one place where the two differ in thought
+      and not in words: his German has "darf" - each one MAY be wholly himself only while he
+      is alone - and Saunders wrote "can": a permission became an ability, which is a softer
+      and more comfortable doctrine.
+   answer: HIS in German, quotable with the chapter; but a citation to "The Wisdom of Life"
+      is a misfiling - the English volume that carries it is Counsels and Maxims - and if the
+      quotation is pressed for its meaning, say that he wrote "may", not "can".
+   ref: file 04, Kap. V C / file 14 / not file 13
+
+
+Q-27 | HIS | The whole of posterity is as perverse as the present age - and the "pack" that holds the chairs and the reviews will bark.
+   claim: the comfortable story that he consolated himself by trusting "posterity" as a
+      better judge than his contemporaries.
+   here: file 76, Schemann's letters (1893), in his own letter about the colour theory to
+      Goethe - "und die es eigentlich sind, was man Nachwelt nennt: denn das Ganze der
+      Nachwelt ist so verkehrt als die Mitwelt" - followed at once by "Ich weiss, wie das
+      Pack, welches Katheder und Literaturzeitungen inne hat, gegen mich bellen wird". The
+      same volume shows the corresponding published thought (G-13): "Die Nachwelt wird
+      allezeit ebenso verkehrt und stumpf sein und bleiben", which this collection verified
+      at file 01, page-coordinate 298, section 49. DATES ARE WEAK HERE AND ARE SO
+      MARKED: this collection has not established that a date-line in that layer heads
+      THIS letter, so the letter is cited by file and place, and its year (about 1816,
+      Dresden, from the quarrel with Goethe over the colour theory) is UNVERIFIED.
+   answer: he did not trust posterity: he thought the two mobs the same size, and hoped
+      only for the "einzelne Denkende" scattered through time and place - "die es
+      eigentlich sind, was man Nachwelt nennt". Anyone quoting him as a believer in
+      posthumous fame should be asked to read this sentence.
+   ref: file 76 (letters) | file 01, [298] section 49 | G-13
+
+Q-28 | HIS | What comes directly from Nature's hands - sky, earth, plants, trees, human faces - is there as it ought to be; with us only as it can just manage to be.
+   claim: the popular form: "he admired Italian life and despised German civilisation".
+   here: file 76, one of his Italian letters to his mother ("Mein Schatz... lag noch in
+      der Niederlagstrasse"), on his second entry into Italy: "Ich fand, dass Alles was
+      unmittelbar aus den Haenden der Natur kommt, Himmel, Erde, Pflanzen, Baeume, Thiere,
+      Menschengesichter, hier so ist, wie es eigentlich seyn soll: bei uns nur so, wie es
+      zur Noth seyn kann." The layer carries a date-line "24 Mai 1822" within seven
+      thousand characters; whether it heads THIS letter this collection has NOT
+      established, so the year is UNVERIFIED (1822 is consistent with a first Italian
+      journey three years earlier, which the same letter recalls).
+   answer: HIS, quotable, and worth noting for what it does NOT say: not a theory of
+      climate or race, but a comparison of what is immediate with what is contrived -
+      which is his aesthetic as much as his travel-note.
+   ref: file 76 (letters), UNVERIFIED as to date
+
+Q-29 | NOT-HIS-HERE | "Man is cause and effect of himself: as effect he has no freedom and no responsibility, but as being himself the cause he is; therefore man is a free and unfree being."
+   claim: offered about as often as his own summary of the free-will essay, and printed in
+      quotation books as though it were his.
+   here: file 76, but the pen is a correspondent's: the writer speaks of "unsern Freund"
+      and of how hard it is "auf ihn einzuwirken", and then sums the doctrine in that
+      paradox. It is a competent summary and it is not his wording: his own text on the
+      subject is the prize essay (files 35 to 37 in this collection), where the sentence
+      everyone wants - "a man can do what he wills, but cannot will what he wills" - is
+      not to be found either (G-05, CONDENSED).
+   answer: keep it as evidence of how quickly disciples turned his doctrine into a
+      paradox, and quote the printed essay for the doctrine itself.
+   ref: file 76 | file 55 | G-05
+
+--------------------------------------------------------------------------------
+
+
+Q-30 | HIS | A CATALOGUE FOR THE WHOLE SHELF | the naive certainty, reported and then
+dissected | In the 1841 prize essay he interrogates an unbefangener Mensch about what the inner
+witness actually says, and prints the answer: "ich kann thun was ich will: will ich links gehn,
+so gehe ich links: will ich rechts gehn, so gehe ich rechts. Das haengt ganz allein von meinem
+Willen ab: ich bin also frei." Then he takes it apart: "Diese Aussage ist allerdings vollkommen
+wahr und richtig: nur redet sie keineswegs von der Abhaengigkeit oder Unabhaengigkeit des
+Eintrittes des Willensakts selbst, sondern nur von den Folgen dieses Akts". The formula is
+TRUE, and it is about the wrong thing: it reports that the act is followed by the arm, not that
+the act itself is free.
+PLACE: file 55 (the 1841 prize essay; no page markers, and this scan's capitalised line-starts
+are not reliable headings), the passage where he questions the "unbefangene Mensch", about
+character 35,400 of the file.
+PRINT ARTEFACTS, so the quotation is not thought garbled: the copy sets "Willensakts" as
+"Willen saktes" with a space, hyphenates "allerdings" over a line break, and renders "so" as
+"fo" in some lines; elsewhere the very same formula comes out dirtied ("ich kann 78 thun was ich
+will", "ich kann thun was ich Zee: will"), so quote the clean instances, not the first met.
+WHY IT BELONGS ON THE SHELF: posterity turned this reported confession into a boast about
+"der Mensch" - see G-05 and Q-32.
+
+Q-31 | HIS | A CATALOGUE FOR THE WHOLE SHELF | the question about the will is a question about
+the man | Closing the regress of "kannst du auch wollen was du willst?", the 1841 essay writes:
+"Daher ihn fragen, ob er auch anders wollen koennte als er will, heisst ihn fragen, ob er auch
+wohl ein Andrer seyn koennte als er selbst: und das weiss er nicht."
+PLACE: file 55, about character 42,041 of the file; no page markers, so cite file and place, and
+name the copy if a variant matters. (The print sets ss as sharps; "koennte" is "koennte" with an
+umlaut in the copy.)
+READING NOTE: the inquiry into a free will turns out to be an inquiry into the whole man, and the
+answer is not a fine "no" but a plain "und das weiss er nicht": ignorance avowed, which is how
+this essay keeps its humility while its author keeps his temper. Compare Q-13, from the same
+prize-essay period, where the philosopher differs from the plain man only "durch die Uebung".
+
+Q-32 | CONDENSED | A CATALOGUE FOR THE WHOLE SHELF | the sentence nobody can find | "Der Mensch
+kann thun was er will, aber nicht wollen was er will" - the balanced aphorism repeated as his,
+and NOT PRINTED ANYWHERE IN THE GERMAN TIER 1 OF THIS ESTATE, measured this pass: with long s,
+f-for-s, ss, ae, ue, ie folded and all spaces and punctuation removed, no tier-1 file returns
+"nicht wollen was", "kann nicht wollen", or "wollen was er will"; while "kann thun was" occurs
+ELEVEN times, every one in file 55, and always as "ich kann thun was ich will". His own form is
+a confession in the first person; the doctrine about "der Mensch", with its second clause,
+belongs to the posterity.
+WHAT THE ESSAY PRINTS INSTEAD OF THE BALANCE: a regress of questions - "kannst du auch wollen
+was du willst?", then "kannst du auch wollen, was du wollen willst?", pushed "ins Unendliche
+hin aufgeschoben", until nothing is left but the bare "kannst du wollen?" - and the tautology
+the plain man retreats behind, "ich kann wollen was ich will: was ich will das will ich".
+HONEST LIMITS OF THIS NEGATIVE: (a) the fold is declared, and rules out spelling variants but
+not a lost leaf; (b) the estate holds WWV II incomplete (GAP-4) and many small pieces
+catalogue-only, so the sentence may still stand in a work not held here; (c) a German audit
+cannot see his English translators (rule 20). The claim is therefore: not in what we hold, and
+his printed form lacks the second clause. SEE ALSO: G-05, now amended with this measurement.
+
+
+Q-33 | HIS | A CATALOGUE FOR THE WHOLE SHELF | style as physiognomy | From the essay on
+authorship and style, at the section the 1851 print numbers 282: "Der Stil ist die Physiognomie
+des Geistes. Sie ist untrueglicher, als die des Leibes. Fremden Stil nachahmen heisst eine Maske
+tragen. Waere diese auch noch so schön, so wird sie, durch das Leblose, bald insipid und
+unertraeglich; so dass selbst das haesslichste lebendige Gesicht besser ist."
+PLACE: file 47 ("Ueber Schriftstellerei und Stil", Parerga Bd 2, 1851 print), at the heading the
+print marks "§. 282." - the one section number this file's scan renders cleanly, though the
+numbers 272 to 287 are visible through the chapter and the English essays below carry none.
+THE TRANSLATION HAZARD, measured this pass: Saunders renders it "Style is the physiognomy of the
+mind, and a safer index to character than THE FACE" - but the German compares the physiognomy of
+the mind with that OF THE BODY ("sie ist untrueglicher, als die des Leibes"). Narrowing the body
+to the face loses the contrast he is drawing, and anyone quoting the English about style and
+bodily expression will read a sentence he did not write. See also spot-check 40 on the same
+translator and file 17, where an essay came out shorter than its original.
+NOTE ON THE SHELF: the second sentence ("fremden Stil nachahmen heisst eine Maske tragen") is the
+part anthologies keep; the first, which is the claim, is the one to cite.
+
+A RULE FOR THE WHOLE SHELF
+--------------------------------------------------------------------------------
+   A saying without a place is a rumour; a place without a printing is a trap. On
+   this shelf every place names the file and, where the work exists in more than one
+   printing, the printing as well - because the 1877 collected edition of Parerga
+   numbers its paragraphs one higher than the 1851 first edition, and because the
+   English volumes often print no paragraph numbers at all.
+
+================================================================================
+quotes.txt - the sayings shelf. Parsed to quotes.tsv by bin/schop-gossip.js.
+================================================================================
+
+Q-34 | HIS | A CATALOGUE FOR THE WHOLE SHELF | truth borrows the shape of illusion in
+order to get the will to move | Chapter 44 of the second volume, on the metaphysics of
+sexual love, ends its long argument about why a lover imagines the beloved unique with a
+rule about instinct, not about love: "Also nimmt hier, wie bei allem Instinkt, die Wahrheit
+die Gestalt des Wahnes an, um auf den Willen zu wirken." Truth puts on the likeness of
+deception, because only an appearance can move a will that cannot read a reason. This is
+the sentence to quote when someone says he thought instinct was mere blindness: it is
+purposeful, and the disguise is the point.
+PLACE: file 02 (Die Welt als Wille und Vorstellung, volume 2, from the Zeno transcription of
+the Zuercher Ausgabe), chapter 44, "Metaphysik der Geschlechtsliebe", about a quarter of the
+way through the chapter. Cite by chapter: this file carries the Zuercher Ausgabe's page
+numbers in brackets, not an 1844 printing's, and the 1844 first edition of the second volume
+is not held here.
+
+Q-35 | HIS | A CATALOGUE FOR THE WHOLE SHELF | an illusion wears a selfish purpose like a
+mask | The other half of the same chapter: "Sie Alle leitet sicherlich ein Wahn, welcher dem
+Dienste der Gattung die Maske eines egoistischen Zweckes vorsteckt." Every lover is led by an
+illusion which hides the service of the species behind the mask of a private aim. Note the
+honest awkwardness in his own wording, since it is what translators sand off: the species
+will, the individual imagines, and the word "Maske" is his, not an editor's. A saying shelf
+that gives him "we are deceived by the species" has lost the mask, which is the image he
+actually chose.
+PLACE: file 02, chapter 44, the same run of argument as Q-34 a few pages later. Same warning
+about coordinates: chapter, not page.

@@ -1,0 +1,2745 @@
+# TIER 1 PRIMARY, his Latin colour theory | Latin | published, first printed 1830, here in the text-state of the 1877 collected edition | the collected edition of 1877, volume 1 (Brockhaus, Leipzig), the printing this collection holds
+# title: Theoria colorum physiologica, eademque primaria, auctore Arthuro Schopenhauero Berolinensi
+# title_en: Theory of physiological colour, and that a primary one - the English title is this collection's rendering
+# year: 1830 (text-state 1877)
+# edition: Printed first in 1830 as "Commentatio undecima" in Justus Radius, "Scriptores ophthalmologici minores", volume 3, which this collection does NOT hold; the copy here is Arthur Schopenhauer's saemmtliche Werke, zweite Auflage, Band 1 (Leipzig: F. A. Brockhaus 1877, ed. J. Frauenstaedt), where it stands as item III beside the Fourfold Root and Ueber das Sehn und die Farben. THIS IS GAP-8, CLOSED as to the text and honestly left open as to the 1830 printing: the Latin treatise is now in the collection, but no copy of the 1830 Radius volume was found whose layer carries it (the IA item scriptoresophth00radigoog has neither his name nor the title in 192,956 words), so what the 1877 text may differ from 1830 is NO DATA.
+# translator: himself, from German into Latin
+# copyright: public domain
+# source: https://archive.org/details/11173023
+# fetched: 2026-10-26
+# note: ADDED IN PASS 34, in Latin, and it is the third state of his colour theory: the German first of 1816 (file 74), the German second of 1854 (file 75), and this Latin recension which he himself made, saying of it in the 1854 preface that it is "keine bloesse Uebersetzung", differs "schon in Form und Darstellung merklich" and is "an Stoff ansehnlich bereichert". HIS OWN WORDS ON WHY IT EXISTS are in the same preface: it kept its value "zumal fuer das Ausland". Read his account of the dedicatee and of Farinieri in the Prooemium, and note that the volume printed the treatise with its OWN pagination, running heads and all: 48 of those heads are recovered here as [[p. n]], the treatise's own pages, NOT the volume's, so a citation must say which - the head "Theoria colorum physiologica. 5" is page 5 of the treatise. Cut from the print's own display heading "II. THEORIA COLORUM PHYSIOLOGICA, EADEMQUE PRIMARIA, AUCTORE..." to the printer's line; the German treatise ends immediately before it, with the fine closing of the 1854 preface ("er gebe es hin; aber wissend wem, und gefasst"), which is where this collection reads the seam. OCR WARNING: Latin, Fraktur, heavy footnote matter and Greek quoted from Stobaeus; quote only after reading the line, and expect the long s and broken diacritics.
+
+THEORIA COLORUM PHYSIOLOGICA,
+
+
+EADEMQUE PRIMARIA,
+
+
+AUCTORE
+ARTHURIO SCHOPENHAUERO
+
+
+BEROLINENSI.
+
+
+a u, a
+
+
+e se >: Ti
+
+
+7
+
+
+2 — et enim verus“ As f be f 8 U 0
+
+
+N | Nun
+
+
+MM n e Me
+
+
+I.
+PROOEMIUM.
+
+
+Cur equidem eandem colorum theoriam, quam abhine
+annos plus tredecim in vernacula lingua publici juris feci*),
+jam latinis literis consignem, ratio reddenda esse videtur.
+
+Nimirum novae huie colorum explicandorum rationi huc-
+usque unicus tantum vir palam suflragatus est, celeb. Fi-
+cinus, Professor Dresdensis, qui, anno 1818, in Piereri
+Lexico anatomico-physiologico, sub voce „Color“, hancce
+colorum theoriam, ut unice veram, suae expositioni pro fun-
+damento substravit: idem etiam in ea, quam nuper (1828)
+edidit, Optica, meam colorum rationem docet, sed sparsim
+(SS. 127, 129, 132, 133, 135, 136, 146) justo brevius, aliis-
+que, quam quibus ego locutus eram, verbis usus, neque
+principalibus in locis mea mihi vindicat, sed admiscet ea
+suis sibi propriis plaeitis; quae quidem asserto falso inniti
+inferius ($. 4.) mihi monendum erit. Ceteri, licet permulti,
+qui ab eo inde tempore, in Germania, de his similibusque
+rebus scripsere, non mihi adstipulati sunt, neque proinde
+rationem meam impugnaverunt, redarguerunt aut condemna-
+runt, sed, quod de rebus futilibus, ne disceptatione quidem
+dignis, fieri solet, omnino de ea tacuerunt. At enim vero
+non ea mea est humilitas, ut istorum silentium pro judicio
+
+
+*) Ueber das Sehn und die Farben; von A. Schopenhauer,
+Leipz. 1816.
+
+
+[[p. 2]]
+
+
+habeam, neque vicissim ea mea superbia, ut illud necessario
+aut e stupore aut e livore natum esse utique contendam:
+licet non ignorem, esse adversus merita silentium vitupera-
+tione saepe efficacius, semper tutius, ideoque mediocribus
+omnibus commendatissimum. Imo vero de his parum la-
+borans, ea tantum procurare satago, quae ex isto silentio
+jam mihi incumbere intelligo, videlicet prospicere, ne in-
+venta, quae vera eademque alicujus in disciplina momenti
+esse persuasissimum habeo, plane neglecta et vetustate tan-
+dem obliterata pereant, de integro invenienda posteris. His
+igitur intentus, eandem colorum rationem Latinis jam sum
+literis expositurus, eo potissimum consilio, ut lectio ejus
+exteris quoque pateat, inter quos forte fortuna attentiores
+aequioresve ei contingere possint judices; deinde etiam ut,
+huic seriptorum corpori inserta, interitui minus obnoxia sit.
+
+„Sed,“ jam enim Senecae verbis uti licet, „quid sibi
+quisque nunc speret, cum videat pessima optimos pati?“ —
+Pergaudeo equidem, imo glorior, me primum, quod sciam,
+fuisse, qui, suo judicio fisus, summi Goethii de colorum
+physicorum ratione demonstrationibus palam adstipularetur,
+eo maxime tempore, ubi illae consensu physicorum fere com-
+muni reprobatae fuerint, anno nimirum 1816. Nonnulli
+
+
+deinde vestigia presserunt; nec desunt hodie in Germania
+complures, quibus de inventorum ejus veritate persuasum
+
+
+sit: multum tamen adhuc abest, ut communis omnium con-
+sensus palmam ei detulerit; atque, vicesimo volvente anno,
+adhuc sub judice lis et. Interim viget etiamnum ubique, et,
+tamquam si nihil acciderit, decantatur in libris physieis fere
+omnibus Newtoni doctrina: etiamnum instituuntur teneri,
+ut mature discant credere in „lumina homogenea septem,
+unum constituentia lumen album, nec non in diversam
+eorum refrangibilitatem, congenitasque iis qualitates colori-
+ficas!‘“ — Haec, licet deplorem, nihil miror. Non enim me-
+mini, me in historia literaria legere, vera inventa facili ne-
+gotio vetustos errores expulisse, aut scientiarum academias,
+cum errores, quorum custodes per secula fuerant, a privatis
+hominibus refellerentur, semper primas fuisse, quae, derelic-
+tis falsis, veris accederent; nisi forte ubi meris experimen-
+
+
+r
+
+
+Theoria colorum physiologica. ö 3
+
+
+tis res agebatur, de quibus judicium penes sensus est, non
+
+
+penes intellectum. Quin imo hoc compertum exploratumque
+
+
+habeo, quibuslibet temporibus veritatem, nisi vires ab auc-
+toritate mutuatam, paucissimorum fuisse, errorem autem
+tam crebrum quam vulgarem; quia vulgus ubique, et fere
+nil nisi vulgus: nam roAypasıa vo od dudaoxeı. — Subinde
+affırmatum inculcatumque est, naturae cognitionem experien-
+tia tantummodo inniti et calculo. At pervelim seire, cur
+omittatur tertium, utraque illa intercedens et vinculi instar
+
+
+conneectens, absque cujus ope illorum opera vana, irrita et
+
+
+plane nihili sunt, judicium dico, Secundam Petri, ut anti-
+quitus audiebat*). Experientia exhibet facta, quae nuda et
+absque ratiocinatione etiam brutis patent. Calculus nil nisi
+quantitatem, ro rooov, determinat, cujus nulla est utilitas,
+nisi primum vera rei ratio, vo i zu -elvaı, stabilitum fuerit,
+quod solo fit judicio. Experientia porro est omnium, calcu-
+Ius multorum, judieium autem, quod vehementer doleo, pau-
+eissimorum rarissimorumque, nae potius inter prodigia recen-
+sendum, quam inter naturales animi facultates, ut, per iro-
+niam credo, fieri solet. Quae cum ita se habeant, consolen-
+tur nos Livii verba, qui veritatem laborare nimis saepe ait,
+extingui nunquam. Non enim ei, ut vera sit, stultorum in-
+vidorumve venia impetranda est: non ergo nisi ad tempus
+ei officere possunt et vituperatio aperta et silentium invi-
+dum. At enim vero tempus ipsum est meritorum judex
+aequissimus, veritatis vindex acerrimus, laudis et vituperii
+dispensator incorruptissimus: quamobrem, Italico proverbio
+lepidissimo, dieitur tempus vir integerrimae fidei (Tempo
+s galantuomo).
+
+Attamen, ne in ipso limine eos absterream, qui Goe-
+thii de coloribus placita detestabilem haeresin esse apud
+animum suum constituerunt, profiteor, meam colorum theo-
+riam, utpote physiologicam et eam ob rem primariam, nullo
+modo neque e Goethii de coloribus physicis theorematibus
+pendere, neque e Newtoni, cum in ordine materiae trac-
+
+
+) i. e. secunda pars dialectices Petri Rami, quae erat „de
+judicio.“
+
+
+[[p. 4]]
+
+
+tandae utrisque antecedat, et vera fuerit, etiamsi illi ambo
+errassent. Non enim principia ab iis petit, neque a parte
+priori cum jis connexa est, sed tantum a parte posteriori;
+ita ut ex ipsa potius depromi possint indicia et argumenta,
+quibus satis firma conjectura decernatur, cujusnam illorum
+a partibus veritas stet. Nos enim colores tantummodo phy-
+siologice, i. e. quatenus in iis functio quaedam oculi versa-
+tur, sumus consideraturi; dum illorum thema sunt colores
+physici et chemici, i. e. res externae, quibus colorum sensus
+in oculo suseitatur.
+
+Phaenomenon, quo mea colorum ratio nititur, unicum
+est, idemque intra limites oculi positum: consistit nimirum
+in coloribus, qui post adspectam rem aliquam coloratam,
+sua sponte in oculo oriuntur; quos quidem Goethe physio-
+logicos dixit colores. Hos primus animadvertit, rationemque
+eorum summatim exposuit Buffon*), post eum Waring
+Darwins), denique Him1y***) eos tractarunt: sed uberrima
+exactissimaque eorum descriptio tandem Goethio accepta
+est referenda, legiturque in opere ejus de coloribus.
+
+Hic autem, antequam gradum proferam, lectorem rogo
+obtestorque, ne se ad meae theoriae cognitionem lectionemve
+accingat, antequam hos physiologicos colores suis ipsius ocu-
+lis usurpaverit, atque repetita eorum contemplatione familia-
+rem sibi eorum reddiderit conspeetum. Quo nihil profecto
+facilius. Chartulam, aut pannulum sericum, sex unciarum
+quadratarum magnitudinem non excedentem, quolibet colore
+puro vegetissimoque tinctum, januae cubiculi adfigat, teneat-
+que oculos per sexagesimam horae unam alteramve partem
+constanter in eum fixos: tunc repente abrepto pannulo, alium
+colorem, plane diversum, in illius loco conspiciet. Exeipiet
+autem colorem flavum violaceus, rubrum viridis, aurantiacum
+coeruleus, et similiter vice inversa, Si, quod initio aceidere
+solet, color ille subsequens non statim pereipietur, in culpa
+
+
+*) Hist. de l’acad. de sc. 1743.
+**) Erasmi Darwini Zoonomia: — etiam in philos. Transact.
+Vol 76.
+***) Ophthalm. Biblioth. Bd. I. St. 2,
+
+
+NETTER EN
+
+
+|
+|
+|
+|
+
+
+[[p. 5]]
+
+
+erit animus, qui huie rei attendere nondum didicit, minime
+autem oculus, qui non potest non fungi munere suo. Repe-
+tito saepius experimento, colorem illum videre certo contin-
+get, optime vero et facillime si pannulus sericus coloratus
+fenestrae specularibus adfigetur, ubi, luci pervius, acerrime
+in oculum agit. Hanc autem rem qui neglexerit, sciat se
+coecum ad colores accedere et haecce legendo oleum et
+operam perdere.
+Scribebam Berolini mense Majo a. MDCCCXXIX.
+
+
+Schopenhauer, Schriften zur Erkenntnißlehre. 32
+
+
+| Epichar
+
+
+(Mens videt, mens audit, cetera surda et coeca).
+
+
+Antequam rem ipsam aggrediar, necesse est, ut:
+2 exponam, quidnam ad visionem rerum externarum conf
+sensus, quid intelleetus, utque munera utriusque eorum
+ligenter dispescam, eo nimirum consilio, ne postea dubi
+lector, colores, quos pro objectorum proprietatibus ha
+consueverit, jam meras retinae functiones, ut revera su
+agnoscere. Attinet enim omnem hac de re scrupulum
+animo evellere; licet inter philosophos jam dudum
+colores non extra, sed in oculo esse. Hoc enim jam
+Cartesius (Dioptr. c. 1); quinetiam antiquissima huju
+t(estimonia exhibet Sextus Empiricus (Hypot. Pyrrh.
+C. 7.). Ut igitur subtilius eam rem perspiciamus, diff,
+sensum inter et perceptionem manifesta facienda est.
+sus est affectio partis alicujus corporis et proxime
+voluntati: prout enim huic adversa aut conveniens sit,
+7 cupatur aut dolor aut voluptas. Sola visus et auditus,
+3 tim etiam tactus organa impressionibus sunt a
+= vibus, ut absque omni directa voluntatis commotione, i
+absque dolore et voluptate, eieantur et sentiantur. A
+
+
+[[p. 7]]
+
+
+ut ullo modo ex mera adunatione et conjunctione diverso-
+
+
+rum sensuum perceptio existere possit, quo quidem verbo
+significari volo comprehensionem intuitivam corporum,
+spatium tribus dimensionibus implentium, temporis succes-
+sione motus mutationesqne ad normam legis causalitatis pera-
+gentium. Hujus igitur perceptionis originem e mero cor-
+poris sensu repetere olim sagacissimus Locke, ejusque imi-
+tator Condillac satagerunt, atque, ut primi qui in hac
+arena periclitarentur, magna laudabiliaque praestiterunt. Nos
+autem ad altiora evexit philosophus, omnium, quotquot un-
+quam fuere, facile princeps, summus Kant, in aeternum
+celebrandus, licet jam obsolescere videatur hujus aetatis ho-
+minibus, condignis, herele, quibus impudentissimi vilissimique
+eirculatores monstruosam verborum sensu ac sententia caren-
+tium congeriem, insanientium deliramentis proximam, cum
+plaeitis aliquot manifeste absurdis exornatam, pro maxime
+reconditis philosophiae arcanis divendant. Kant igitur,
+summa cum veneratione nominandus, in eo nos collocavit
+cognitionis fastigio, unde ad rudes istos seculi praeteriti cona-
+tus, velut ad prolusiones juveniles respicimus: proinde non
+possumus morari Anglorum Gallorumque philosophiae doc-
+tores, viros, ut fere fit, mediocres, quos indecora linguae,
+qua maximus philosophus scripsit, ignorantia prohibuit,
+quominus ingentes scientiae, quam profitentur, progressus
+participare possent.
+
+Kantii igitur beneficio scimus, tempus atque spatium
+prius mentis quam rerum esse proprietates, illiusque veluti
+formas, i. e. modos ac rationes, quibus necessario percipit
+quodeungue percipere nata est; quamobrem etiam leges nor-
+masque spatii et temporis, absque ulla experientiae ope,
+certo certius anticipat et indubitate praenoscit; cujus quidem
+rei documentum mathesis est: scimus item, causalitatis le-
+gem atque ordinem minime experientiae acceptum referen-
+dum, sed pariter infixum innatumque esse intelleetui, et
+proinde, una cum tempore et spatio, formam atque naturam
+mentis conficere. Quae cum ita sint, ex sensuum affectione
+tum demum oritur perceptio, cum intellectus effectum,
+quippe qui solus sentitur, ad causam ejus refert, quam qui-
+
+925
+
+
+[[p. 8]]
+
+
+dem in spatio, mere, uti diximus, intellectuali, eo collocat,
+unde effectum exire sensus ipse prodiderit, eamque causam,
+
+
+ipso hoc actu, ut objectum corporeum, quod spatium implet,
+
+
+intuetur. Intellectu igitur, non sensu, fit perceptio.
+
+
+Peragitur autem ille transitus ab effectu ad causam directe,
+repente, necessario et absque ulla ratiocinatione; quippe qui
+
+
+actus est intellectus puri, non rationis. Ratio enim plane
+diversa est mentis facultas, quae in notionibus abstractis
+earumque compositionibus, h. e. in cogitationibus versatur,
+quarum ope genus humanum omnia illa perficit, quibus
+tantopere ceteris animantibus antecellit. Etiam causalitatis
+
+
+principium, quatenus distincte et in abstracto cogitatur,
+
+
+non nisi ratione comprehenditur: at primaria et directa ejus
+cognitio intellectu fit, cujus adeo, ex mea quidem sententia,
+unica est functio. Intellectus enim, sicuti a corporis sensi-
+bus ad causas eorum externas transiens, adhibitis spatii et
+temporis formis innatis, menti exhibet res externas, sive
+mundum objectivum; ita et inter ipsas illas res, causarum
+ad effectus varias relationes indefesso studio investigat:
+quod quidem si accuratius exactiusque exsequitur, tum
+acuminis, sagacitatis, solertiae, vel perspicacitatis nomen ac-
+eipit; similiter ac rationis perfectior, praesertim circa res
+agendas usus, acriorque ejus intensio, prudentia vocatur.
+Tantae igitur cum sint intellectus in perceptione rerum
+partes, sensus hoc tantum conferunt, quod operis materiam
+illi subministrent. Sunt sensus nimirum corporis partes,
+prae ceteris ad accipiendas impressiones extrinsecus profectas
+aptae, patetque unusquisque eorum peculiari illarum generi.
+Haec autem eorum differentia non a nervis ipsis repetenda
+est, cum pulpa nervosa in omnibus sensuum organis una
+eademque sit, sed ex involucris apparatuque exteriori, quo
+fit, ut nervus in retina expansus lumine, nervus in labyrin-
+thi et cochleae aquam immersus sono afficiatur et s. p.“):
+quamobrem diversae singulorum sensuum affectiones quo-
+dammodo ad tactum varie temperatum revocari possunt.
+
+
+*) Hac de re dignus est qui legatur acutissimus Cabanis, in
+praeclaro suo opere: Rélations du physique au moral, Vol. I. mem. 8.
+
+
+[[p. 9]]
+
+
+Visus autem ceteros sensus in hoc superat, quod maxime
+idoneus est ad multifarias, levissimas, subtilissimasque im-
+pressiones extrinsecus accipiendas, variasque earum modifi-
+cationes distinguendas, quae tamen minime perceptionem ad-
+huc efficiunt, sed rudis tantum et incondita ejus sunt ma-
+teria, intellectus demum opera in perceptionem cognitionem-
+1 que transformanda. Quamobrem, si fieri posset, ut quis,
+pulcherrimo prospectu in extensas terrae marisque regiones
+gaudens, tum maxime omni intellectu repente privaretur, ille
+jam nullius rei amplius maneret sibi conscius, nisi retinae
+in oculo multicoloribus maculis variegatae. Hoc enim resi-
+duum eruda ostenderet elementa, e quibus intellectus antea
+perceptionem illam conficiebat. Hanc rem jam intellexit
+
+Plutarchus, cum diceret: ög von rep. ra dppara XL WTa
+
+adobe, Av pm Map To @povou, alodmaw od morouyrog (de so-
+
+lertia animal.).
+
+= Tantum itaque intellectus esse in efficienda perceptione
+momentum, etiam argumentis ex experientia petitis com-
+probari potest, quorum praecipua breviter exponam.
+
+1) Notissimum est, objectorum, quae videmus, imaginem
+in retina stare inversam, h. e. retinam a luminis radiis,
+quos objecta ei immittunt, propter eorum in pupilla decus-
+sationem, inverso ordine affici; dum nihilominus res justo
+ordine erectas videmus. E tot tamque variis hujusce rei
+interpretationibus, haec una rem ad liquidum perdueit.
+Perceptio non constat in sensu retinae extrinsecus affectae,
+sed in comprehensione causae ejus sensus externae, ad quam
+ab illo transit intellectus. Cum autem hic transitus fiat
+servato ordine et directione radiorum incidentis luminis,
+
+: qui in pupilla decussantur, necesse est, extra jam esse su-
+periora, quae in retina inferiora erant. Hoc argumento
+bene ponderato nullum potest esse validius.
+
+2) Binis oculis, duplicata ergo affectione, singula tamen
+videmus objecta. Neque hic falsis hujus rei explicationibus
+immorabor, cum veram jam dudum habeamus, eam nimirum,
+quam uberrime exposuit et delineationibus exactissimis illu-
+stravit Robertus Smith in celeberrima sua Optica. Summa
+ejus huc redit, Cum oculi, in statu suo normali, ad idem
+
+
+[[p. 10]]
+
+
+objecti externi punctum convergant, radii ab eo emis
+per pupillas ad retinas pergentes, sive axes ocu
+angulum conficiunt opticum, feriuntque utramque
+tinam in punctis invicem sibi respondentibus atque congruis.
+Respondet autem pars oculi dextri sinistra parti itide
+nistrae oculi sinistri et s. p.: ne forte eredas, externa
+ternis internaque internis respondere. Jam intellectus,
+paulatim singula utriusque retinae puncta, invicem sibi
+grua, ex usu cognoverit, etiam intelligit, luminis radios, q
+bus illa una simulque afficiuntur, ab uno eodemque punc
+externo profectos esse, quod quidem punctum, et proiı
+etiam objectum ex ejusmodi punctis compositum, jam si
+lum, non binum, cernit. Hoc igitur modo e duplici
+simplex existit perceptio, utpote quae fit intellectu,
+
+
+retinarum puncta; existimat igitur intelleetus, eos a div
+objecti punctis venire: qua in re eodem fallimur m
+
+
+Hellechns) sed adulterata ei subduntur indicia, existi
+fallacia, quae dieitur sensus, reapse autem est intelle
+hie enim perversi organorum situs semper manet nes
+licet eundem ratio probe noverit, neque proinde ipsa
+tur, h. e. non oriatur error, qui est fallacia rationis,
+judicium falsum: nihilominus tamen inconcussa manet ludi-
+ficatio intellectus, h. e. visum falsum. Nihil enim in intellec-
+> suapte natura irrationalem, valet cognitio abstractiva,
+
+
+et causalem. Nam hie quoque effectus sibi iat
+ad causas revocat solitas, licet ratio minime ignoret,
+
+
+fit e. g., ubi remus aquae immersus nobis videtur fract
+aut ubi imaginem a ‚speeulo concavo emissam RE sol
+
+
+[[p. 11]]
+
+
+ubi pieta caelata videntur. Mirum in modum hie fit mani-
+festa magna, quae inter intellectum et rationem intercedit
+differentia, functionesque utriusque diversae. — Intellectum,
+
+
+i. e. cognitionem nexus causalis innatam, directam, intui-
+
+
+tivam, animantia possident omnia; rationem, i. e. cognitionem
+abstractam, sive per notiones generales, solus homo. Et hoc
+sensit Plutarchus, cum, loco supra laudato adjiceret: 5%ev
+Avaya, maoıy olg To alodavsoDar, v To vosıy Ümapyeıv, El c
+yocıy aiodavsoIaı Tepuxapev. — Sed, ut ad propositum re-
+vertar, strabo, qui limis, sed eodem semper modo divergen-
+tibus oculis cernit, objecta videt singula, non duplicia, quia
+videlicet ejus intellectus jam cognovit puncta, quibus, in hoc
+perverso oculorum situ, incidunt radii, ex uno eodemque
+objecti externi puncto profecti. Fuere enim, quorum oculi,
+fortuito casu, repente ad situm obliquum redigerentur: his
+ab initio objecta omnia se offerebant duplicia, sed paulatim
+sunt facta singula; intellectu nimirum mutato ocolorum situi
+sensim assuefacto. Videas hujusce rei exempla in libris
+infra citatis*). Plurimorum tamen strabonum alter oculus
+omnino feriatur**).
+
+Aliud deinde phaenomenon, huic consimile, illud est,
+quod, oculis in objectum remotius fixis, aliud objeetum prope
+oculos positum jam apparet duplex; et item, inverso ordine,
+duplex fit illud remotius, ubi ad propinquius convertuntur
+oculi. Hoc eodem fieri, quo diximus, pacto, quod nempe,
+clauso angulo optico in remotiore objecto, radii ab altero
+
+
+Propius sito emissi retinae puncta jam feriant incongrua, et
+
+
+similiter ordine inverso, delineationibus exactissimis illustra-
+vit Robertus Smith, in Optica sua.
+
+Sed hoc palmarium est et forte minus notum, quod fieri
+potest, ut objecta duo ante oculos recte posita unum solum-
+que esse nobis videantur, cum nempe ita diriguntur oculi,
+ut situm omnino parallelum servent, neque proinde claudere
+
+
+*) Chesselden, anatomy, p. 324. 3. ed. Home, in his lecture
+in the philos. transact. for 1797. Th. Reid, inquiry into the human
+mind, p. 330. Ophthalmol. Biblioth. Bd. 3. p. 164.
+
+*) Buffon, Hist. de l’acad. d. sc. 1743.
+
+
+[[p. 12]]
+
+
+possint angulum opticum: tum enim radii, quamvis a duobus
+objectis oppositis emissi, puncta tamen utriusque retinae
+feriunt congrua inter se et sibi invicem respondentia; quare
+intellectus ita deluditur, ut ad unum tantum objectum dupli-
+cem referat impressionem. Hune igitur in finem tubuli
+duo, e carta glutinata, octo fere uncias longi, diametro un-
+ciae cum dimidio, parallela et in modum telescopii bino-
+cularis conjuncta apponantur oculis; duo autem numi modicae
+magnitudinis alteris tuborum extremitatibus inserantur: per
+eos tubulos rectis oculis numos adspicienti unus tantum
+numus, isque uno tubulo contentus apparebit.
+
+3) Denique constat, non satis esse ad videndum, habere
+aliquem oculos apertos, imo addiscendam esse visionem.
+
+
+Infantes modo nati neutiquam percipiunt objecta, sed tor-
+
+
+pentes stupore gerunt oculos, usque dum, adhibito intellectu,
+impressiones in omnes sensus simul factas ad innatam sibi
+causalitatis legem retulerunt, easquae innatis pariter percep-
+tionis formis, spatio nimirum et tempori, adaptarunt. Fiunt
+haec paulatim: comparantur videlicet diversorum sensuum
+diversae affectiones, ad unam tamen eandemque referendae
+causam, quae quidem eo ipso fit objectum. In visu prae-
+sertim permagna opus est autodidascalia, donec lucis et
+umbrae, intervallorum discriminis, variantis pro varia distan-
+tia anguli optici, nec non mutationum utriusque oculi inter-
+narum, inde pariter pendentium, justa facta sit aestimatio:
+
+
+quae quidem omnia intellectu jam exsequitur infans; ratione
+
+
+demum opticus.
+
+Hujus disciplinae progressus melius adhuc observare li-
+cet in adultis, quos a connata coecitate sero liberavit ca-
+taractae elisio. Hos enim ab initio, quamvis lucis impres-
+siones quaslibet oculis haurientes, nihil tamen pereipere nec
+discernere, sed experientia tantum et exercitatione paula-
+tim novi sensus usum addiscere, dum interim in miros in-
+cidunt errores, tot jam narrationibus confirmatum est, ut
+earum repetitione hic supersedere utique possim.
+
+Arbitror enim, quae allata sunt, satis nobis probare, in-
+tellectu fieri rerum externarum perceptionem, sensum autem
+crudam tantum et inconditam illi subministrare materiem,
+
+
+[[p. 13]]
+
+
+quae quidem in visu nihil amplius est quam retinae multi-
+moda affectio, intellectus demum artibus in hujus mundi
+pulchritudinem transformanda.
+
+Colorem autem ad ipsam sensns affectionem pertinere,
+et proinde intellectus operationem antecedere, neque ex ea
+pendere, nemini dubium erit: confirmatur insuper eo, quod
+cataracta liberati colores distinguunt statim et ante quam
+corpora, quibus cohaerere videntur, animo perceperint; item;
+quod obtutus limus nequaquam immutat colorem; denique,
+quod colores physiologiei sua sponte in oculo oriuntur. Ve-
+rum cum intellectus, ab effectibus ad causas transiens, ex
+oculorum sensu perceptionem mundi externi procreat, tum
+etiam colores, licet merae sint oculi affectiones, ad causas,
+quibus extrinsecus suscitantur, refert, eosque jam tamquam
+corporum externorum qualitates, quae iis inhaereant, per-
+eipit. Nihilosecius tamen colores per se ipsi nil nisi oculi
+sunt affectiones, quo nomine eos jam sumus consideraturi.
+
+
+III.
+
+
+De Coloribus.
+
+
+O5 povov Taoyeı, AA XL Ayrınorsı To co YpwW
+aloSnrnprov. Arist. de somniis c. 2.
+
+
+§. 1.
+Metho dus.
+
+
+Upicunque ad datos quosdam effectus causae qua
+
+
+dienda est, ut primum effectus ipsi omni ex parte co
+derentur, cognoscanturque penitus, cum ex iis tantum
+possint Be quae ad causarum ren \
+
+
+tigationem properavit, arreptoque temere vitreo pr:
+profecto petitionem commisit principii. Sed ejusdem negli-
+gentiae omnes accusandi sunt, qui hucusque colorum ca ausa
+quaesivere, ne ipso Goethio quidem excepto, qui, licet ı
+
+
+aut ullo denique modo eos colores, quos physicos nomi
+cum illis connectere cogitavit: inde factum est, ut liber
+minime nos doceat, quid color sit, sed tantummodo
+ratione physicus color oriatur. Omnes igitur coloru
+vestigatores, neglecto phaenomeno ipso, causas ejus
+
+
+|
+B
+*
+9
+1
+
+E
+|
+E
+1
+
+1
+1
+N
+1
+3
+-
+
+
+.
+
+
+7
+
+
+[[p. 15]]
+coloratorum, tum in luce ipsa, sive refractione divisa dis-
+persaque, sive commixtione cum umbra, aut interpositu ma-
+teriae semipellucidae varie temperata quaesiverunt. Attamen
+sana ratio praecipit, ante omnia ipsum coloris sensum esse
+perscrutandum, atque videndum, an forte ex ipsius con-
+ditione legibusve, quas servat, ipsa coloris natura iutelligi,
+indeque, quid ipse sit per se, i. e. ut phaenomenon mere
+physiologicum, sciri ullo modo possit.
+
+Procul dubio ejusmodi intima effectus ipsius, de quo
+agitur, h. e. sensus coloris, cognitio, etiam indicia suppe-
+ditabit ad investigationem causae ejus, videlicet conditionis
+rerum externarum, qua aptae sunt ad istum sensum susci-
+tandum. Necesse enim est, ut cuilibet effectus alicujus
+variabili modificationi etiam in causa ejus ad amussim res-
+pondeat conditionum aliqua mutabilitas, sitque causa pa-
+riter atque effectus versatilis. Ubi, e. g. nullis certis limi-
+tibus discriminatur effectus varietas, sed continuitate quadam
+ex uno in aliud transit; ibi neque in causa esse potest certa
+quaedam, fixa praefinitaque conditionum differentia, sed
+etiam haec eandem referre debet indistinctam mutabilitatem.
+Item, ubi effectus differentiae ita variantur, ut una sit alteri
+e contrario opposita, ejusque velut directa conversio; ibi
+etiam causa ejusmodi conditionum suarum quandam opposi-
+tionem et conversionem admittere debet; row yap Evavrımv
+zayayrıa altıa. Arist. de generat. et corrupt. p. 336. Quae
+quidem omnia certa intellectus anticipatione decernere licet.
+
+Neglecta igitur hucusque method usuri ad sensum co-
+loris ipsum convertemur, eumque ut phaenomenon physiolo-
+gicum considerabimus, qua quidem opera viam sternemus
+iis, qui causas eum sensum extrinsecus suscitantes explora-
+turi, colorum, quos Goethe optime in physicos et chemi-
+cos dispescuit, theorias, quas habemus, diversas dijudicare,
+aut adeo novam aliquam excogitare volent. Omnibus enim
+ejusmodi theoriis nostra semper erit pro fundamento: est
+igitur primaria, illae secundariae tantum erunt.
+
+
+[[p. 16]]
+
+
+§. 2. x
+Actio retinae integra.
+
+
+Nobis ergo lucis, obscuritatis, coloris sensus nihil nisi
+retinae sunt variae affectiones. Convenit hodie inter omnes
+physiologiae peritos, sensibilitatem minime esse affectionem -
+mere passivam, imo vero partis sensibilis actionem quan-
+dam, extrinsecus excitatam. Itaque etiam retinae sensum,
+luce suscitatum, actionem ejus vocabo: hanc autem inte-
+gram esse dico, ubi lux plene, rite nullisque impedimentis
+imminuta in eam agit. Contra, deficiente omni luce, in
+inertiam recidit retina.
+
+Corpora quae, luci exposita, perinde ac lux ipsa reti-
+nam affıciunt, fulgore sunt praedita, sive specula. Prae-
+terea autem alia quaedam corpora lucis in ipsa actionem
+eatenus moderantur, ut eam radiatione privatam ad aequa-
+bilitatem quandam redactam retinae tradant: sunt haec
+nimirum alba. Sicuti physici calorem radiantem a diffus
+distinguunt, ita et albedo quodammodo est lux diffusa.
+Cum fulgor nihil faciat ad nostram quaestionem, erit nobis
+lueis et albedinis in retinam impressio una eademque, atque
+proinde dicemus: retina a luce ipsa, vel a corpore albo ad
+propriam sibi actionem suscitatur integram, sive nulla
+ex parte comminutam. Contra, tenebris aut corporibus
+nigris exposita iners manet. Nigra videlicet sunt corpora,
+quae, licet ia ipsa agat lux, nullo tamen modo sensum re-
+tinae suscitant.
+
+
+F. 3.
+Actio retinae quoad intensionem partita. 1
+}
+
+
+Lueis et albedinis efficacitas, et proinde etiam retinae
+actio ab illa suscitata, gradationem quandam admittit, qua
+quidem fieri potest, ut lucem inter et obscuritatem, item
+albedinem inter et nigredinem innumeri sint gradus, illic
+penumbram, hic colorem cinereum efficientes. Duae inde
+nobis existunt gradationum actionis retinae series, quarum =”
+differentia in eo tantum posita est, utrum lucis impressio =
+sit directa, an indirecta, videlicet: Sen.
+
+
+WERTEN
+
+
+[[p. 17]]
+
+
+Lux; penumbra; obscuritas.
+Albedo; color einereus; nigredo.
+Cum gradus intermedii, nempe penumbra et color einereus,
+intensionem actionis retinae comminutam indicent, sequitur,
+in his totius retinae vim ex parte tantum esse activam, ex
+parte autem quiescere, ipsam ergo retinae actionem quoad
+
+
+intensionem posse partiri.
+
+
+§. 4.
+Aetio retinae quoad extensionem partita.
+
+
+Cum ipsa retina planum sit extensum, nihil obstat,
+quominus pars ejus aliqua ad actionem suscitetur, dum cete-
+rae partes quiescant; qua quidem re manifestatur actionis
+ejus quoad extensionem partitio. Hanc autem reapse
+locum habere, jam inde patet, quod variarum impres-
+sionum simul dapax est oculus. Praeterea pendet ex hac
+re phaenomenon illud, quod Goethe (Vol. I. p. 9 et 15)
+memorat. Nimirum, cum in planitie alba crucem conspici-
+mus nigram, v. c. illam, quam nubilo coelo fenestra exhibet,
+fixosque in eam aliquamdiu tenemus oculos, repente autem
+in terram aliamve planitiem subumbrosam einereamve oculos
+eonjieimus, tunc invertitur ille adspectus, offertque sese nobis
+erux alba in plano nigro. Cujus rei causa procul dubio
+haec est, quod retinae pars, antea a planitie alba ad
+actionem suscitata, inde jam exhausta atque defessa est;
+neque potest amplius multo debiliore plani cinerei incita-
+mento ad actionem suscitari; contra vero, altera pars, quae
+tunc, crucem adspiciens nigram, feriabatur, jam hac quiete
+refecta, etiam parum valido illo plani cinerei incitamento
+in actionem integram evocatur. — Nihil igitur est, quod
+credamus, retinae partes munera sua per vices obire, par-
+temque antea feriatam deinde sua sponte in actionem trans-
+ire. Nam, si post adspectam erucem nigram in plano albo
+oculos elaudimus, aut in locum omnino obseurum eos diri-
+gimus, neutiquam convertitur ille adspectus, imo perdurat
+aliquamdiu affectio a principio retinae impressa, quod etiam
+Goethe memorat (Vol. I. P. I. S. 20). Hoc autem in experi-
+
+
+[[p. 18]]
+
+
+mento facile aliquis falli potest, si clausos oculos etiam
+manu operire neglexerit, ubi lux, per palpebras penetrans,
+
+
+plani einerei in morem agit, conversumque ergo praebet
+adspectum, quem vero e luce externa pendere inde intelli-
+gitur, quod, reposita ante oculos manu, statim resumit ad-
+spectus speciem naturalem: hoc jam Franklinum expertum
+esse ipsius verbis legitur in Goethii operis volumine II.
+
+
+p. 579. Ipsa haec res Ficinum fefellisse videtur, quippe
+
+
+qui in Optica sua ($. 122), reclamante experientia, docet,
+eum adspectum etiam clausis oculis, ergo sponte sua, con-
+
+
+verti, cui quidem falso asserto deinde sua de physiologica
+
+
+colorum origine placita superstruit, mea jiis admiscens.
+
+
+§. 5.
+
+
+Aetio retinae quoad qualitatem bipartita.
+
+
+Indubitata illa, quam hucusque exposui, actionis retinae
+tum in intensione tum in extensione partitio, generali par-
+titionis quantitativae appellatione comprehendi potest.
+Jam vero ostendam, actionem illam alio adhuc modo, eoque
+toto genere a prioribus illis diverso, posse partiri, videlicet
+quoad qualitatem, eamque partitionem reapse locum
+
+
+habere, quotiescunque color aliquis oculis obversatur. Ut
+
+
+autem continuo tramite ad novam hanc rationem transea-
+mus, revertamur ad illud, quod priori paragrapho OTTO
+phaenomenon.
+
+
+Adspicias igitur, sed corporis, non mentis tantum 3 a
+
+
+discum album in planitie nigra depictum: deinde aversis
+repente in locum subumbrosum cinereumve oculis discus
+apparebit niger in planitie alba: quod quidem phaeno-
+menon oriri ex actionis retinae quoad extensionem par-
+titione perspectum jam habemus. Exhausta nempe retinae,
+in ea parte, quam discus albus modo feriebat, actio a
+minori claritate excitari jam non valet. Est hoc quidem
+
+
+simile ac si guttae aetheris sulphurici manui inspersae eva-
+
+
+poratione calor ejus loci absumitur, done paulatim renas-
+catur. — Jam autem in disci albi locum fla vum sufficias
+discum, corporisque, obnixe rogo, non mentis oculis eum
+
+
+Pe
+
+
+Nene
+
+
+Theoria colorum physiologiea. 19
+
+
+intueare: tunc conversis subito in subumbrosum locum
+oculis, pro nigro, qui antea, idem facienti apparebat, discus
+tibi obversabitur violaceus, spectrum scilicet physiologi-
+cum aciei obvolitans. Phaenomenon ipsum tibi notissimum
+ac familiare esse ex iis, quae in prooemio dixi, certum ha-
+beo. Pergo igitur ad ejus interpretationem, cujus quidem
+veritas nulla alia probatione fuleiri potest, quam ipsa rei
+evidentia adhibito judicio percipienda et continuata phae-
+nomeni ipsius per omnes ejus variationes contemplatione
+magis magisque firmanda, donec validissimum argumentum
+ei accesserit ex is, quae $. 10 exponentur.
+
+Discus albus integram retinae actionem evocaverat, qua
+defatigata et exhausta, iners remansit ejus locus, teste disco
+nigro subsequente. Sed flavum discum exeipit pro nigro
+violaceus: quia scilicet color flavus non integram retinae
+actionem suscitaverat, neque proinde totam ejus vim ab-
+sorbere potuerat, sed partem hujus tantum; jam, sponte
+sua, subit altera pars, discus violaceus. Bipartitur igitur
+adspectu flavi coloris vis retinae activa, disceditque in
+partes, easque non sola quantitate, sed etiam qualitate
+diversas, quarum unam flavus nobis exhibet color, alteram
+violaceus sponte illum subsequens. Cum partes ambae,
+conjunetim sumtae, integram retinae actionem adimpleant,
+alteram alterius voco complementum. Manifesto autem
+coloris flavi in retinam impressio, lucis ipsius aut albedinis
+impressioni multo similior est ea, quam facit violaceus color.
+Colligimus inde, partes, in quas discedit retinae actio, non
+esse inter se aequales; sed eam, quae flavum exhibet co-
+lorem, multo majorem esse ea, quae violaceum, sive com-
+plementum ejus, ostendit.
+
+Jam vero, cum de claritate et obscuritate colorum in-
+eiderit mentio, distinguas oportet coloris claritatem obscuri-
+
+
+tatemve propriam atque nativam a fortuita et aceidentali,
+
+
+ex admixto albo nigrove oriunda. Potest enim quilibet co-
+lor, albi nigrive admixtione, pro libito clarificari vel offu-
+scari: sed tum demum, ubi ab omni hujusmodi mixtura va-
+cat, maxime vegetus saturque existit; attamen tunc non nisi
+nativam propriamque sibi claritatem exhibet. Hac ipsa
+
+
+[[p. 20]]
+
+
+es
+autem color colori antecellit, dum alter luci, alter obscuri-
+
+
+tati magis affınis est. Intrinseca illa atque nativa coloris
+claritas ab adventitia facile distinguitur eo, quod, cum na-
+tiva tantum luce color claret, tum maxime vegetus est, acer-
+rimeque afficit visum: contra, ubi mutuato extrinsecus can-
+dore albet, pallidus fit, languidus debilisque. Violaceus v. g.
+color suapte natura obscurissimus est omnium, minimaque
+pollet vi nativa: contra, flavus color propria claritate et sere-
+nitate primum obtinet locum. Nihilominus et violaceus co-
+lor, admixto albo, ad maximam claritatem potest perduci:
+minime autem ea re fit vegetior; quin imo magis adhue
+languet, pallet, proximeque accedit ad eam albi nigrique
+mixturam, quam cinereum colorem vocare linguae me cogit
+inopia. Simili ratione colores suapte natura elari lueidique,
+admixto nigro, pro libito obscurantur, quo negotio perinde
+nativum amittunt vigorem; veluti cum e flavo fit fuscus. E
+vigore igitur colorum cognoscere licet, utrum puri sint ab
+omni albo nigrove adventitio. In eo itaque statu multo
+majore claritate albet flavus quam violaceus color: exinde
+ergo cognoscimus, illum multo majorem bipartitae actionis
+retinae partem exhibere quam hune, utpote qui, comple-
+mentum ejus efficiens, inter omnes maxime est tenebricosus.
+
+Pergamus autem in explicatione phaenomeni ante ocu-
+los positi. Disco flavo jam substituamus aurantiacum,
+i. e. e rubro flavum. Ejus intuitum spectrum subsequetur
+coeruleum. Animadvertamus, pari gradu, quo color disci
+ab albore secedit, eidem appropinquare spectrum. Minus
+enim candet flavo colore aurantiacus; magis proinde violaceo
+eoeruleus, quippe qui aurantiaci est complementum. Inde
+intelligimus, actionem retinae bipartitam jam in partes
+minus inaequales inter se discessisse. Plane aequales deni-
+que fient, ubi discum rubrum spectrum subsequetur viride.
+Rubrum autem colorem intelligi volo illum, a Goethio
+purpureum dictum, ne minimum quidem aut in violaceum,
+aut in aurantiacum vergentem. Spectrum solare, prismate
+effectum, neutiquam eum exhibet, sed tantum e rubro
+flavum, sive aurantiacum: attamen potes etiam prismatis
+ope colorem vere rubrum conspicere, nimirum si bacillum
+
+
+. [[p. 21]]
+
+
+horizontalem illum, fenestrae specularibus interpositum, per
+prisma contemplaris: cujus rei rationem Goethe optime
+reddidit. Chemice carminum purum et saturum eum co-
+lorem exhibet. Hic igitur color vere ruber ab albedine
+tantum distat, quantum etiam complementum ejus, color
+nempe perfecte viridis: quamobrem utrumque justum dimi-
+dium actionis retinae accurate bipartitae existere statuimus.
+Inde etiam repetenda est eximia horum colorum, qua ceteris
+omnibus antecellunt, pulchritudo, perfectissimaque eorum
+inter se harmonia, qua, juxta positi, visum mirum in modum
+laetificant: quamobrem digni sunt, qui colores per ex-
+cellentiam, ypop.ara xar S nominentur.
+
+Quisquis consecutionem illam colorum complementorum-
+que eorum hactenus expositam corporis oculis prosecutus
+erit, simulque mentis aciem in eam intenderit, forsitan non
+dubitabit, actionis retinae in visu colorum qualitative bipar-
+titae sequentes proportiones mecum statuere, quas tamen,
+cum alia, praeter eam, quam ipse eorum affert intuitus,
+probatione firmare adhuc non possim, hypotheticas vocare
+non recuso. Ruber igitur cum viridi colore illius actionis
+partes sunt exacte dimidiatae: ejusdem vero duas tertias
+exhibet aurantiacus; coeruleus autem, utpote hujus
+complementum, tertiam duntaxat: flavus denique tres
+quartas, et proinde complementum ejus, violaceus color,
+quartam modo partem.
+
+Neque nos movere debet, quod violaceus color, cum
+medius sit inter rubrum, qui dimidiam, ac coeruleum, qui
+tertiam partem actionis implet, tamen ipse non nisi quartam
+occeupare statuatur. Idem enim hie accidit, quod in chemieis
+mixturis, ubi scilicet qualitates partium ingredientium nullam
+directam habent rationem ad qualitatem compositi. Simili
+igitur ratione, color violaceus, licet e duobus ipso clariori-
+bus efficiatur, omnium tamen est obscurissimus, quamobrem,
+simulatque in unum alterumve illorum vergit, statim ineipit
+clarescere: quod quidem nulli praeterea accidit colori. Nam
+aurantiacus, si in flavum inclinatur, lucidior, in rubrum
+autem vergens, obscurior fit. Viridis magis lucet, si in
+flavum, minus, siin coeruleum vergit. Flavus, qui, ut violacei
+
+Schopenhauer, Schriften zur Erkenntnißlehre. 33
+
+
+PEN
+
+
+is
+
+
+[[p. 22]]
+
+
+complementum, lucidissimus est omnium, etiam inversa atque
+illeratione obscuratur, sive in rubrum, sive in viridem deflectat.
+
+E certis illis fixisque simplicissimarum rationum pro-
+portionibus, quibus actionem retinae in visu illorum sex co-
+lorum bipartiri statuo, procul dubio repetendum est, quod
+illi sex colores semper et apud omnes gentes denotati, in-
+ditisque sibi propriis nominibus distineti sunt, licet colores
+possibiles sint innumeri, indistinctisque gradibus paulatim
+alius in alium transeant. (Conf. Aristot. de sensu et sen-
+sibili c. 3. p. 439, 40.)
+
+Denique, ut exempli propositi expositionem absolvam,
+si discus, qui ultimo ruber fuerat, tandem mutatur in vio-
+laceum, spectrum eum subsequetur flavum, quo pacto
+phaenomenon ab initio ante oculos positum, peracto eireuitu,
+in contrarium abierit, exhibente jam disco ipso quartam
+tantum actionis bipartitae partem, complemento autem ejus
+tres- quartas.
+
+Postremo, ne quem moveat, nos, ubi bipartitionem ackinr
+nis retinae qualitativam a mere quantitativa distinximus,
+tamen de partibus ejus aequalibus inaequalibusve loqui. Non
+enim potest partitio fieri qualitativa, quin eadem sit simul
+quantitativa. Chemica v. g. analysis corporis cujusdam in
+partes componentes sane materiae istius partitio est quali-
+tativa, a mere mechanica toto genere diversa: nihilominus
+necesse est eandem una simulque partitionem esse quantita-
+tivam, perinde ut divisio mere mechanica.
+
+Ex iis, quae hucusque exposui, haec jam nobis Sid
+solaque vera coloris primaria definitio: color est retinae
+
+
+actio qualitative bipartita. (Liceat obiter monere,
+
+
+ea definitione albedinem, nigredinem et cinereum e colorum
+numero jure exulare.) Diversitas autem singulorum colo-
+
+
+rum ex illius bipartitionis diversa ratione et proportione
+
+
+oritur. Partes nimirum dimidiatae, in quas retinae actio
+secedit, semel tantum sibi invicem aequales esse possunt,
+quod cum fit, perfecte rubrum et viridem exhibent colorem.
+Inaequales autem innumeris esse possunt proportionibus;
+
+
+unde infinitus colorum numerus possibilium. Quemlibet co-
+
+
+lorem aliquamdiu adspectum sponte subsequetur in visu alius
+
+
+[[p. 23]]
+
+
+color, utpote qui illius est complementum ad integram
+retinae actionem. Ita enim comparata est retina, ut,
+cum ad coloris alicujus sensum, i. e. ad actionis suae bi-
+partitionem, extrinsecus suscitata fuerit, deinde, sublato hoc
+irritamento, alteram dimidiatae actionis partem sponte sua
+cieat, quia semper integram suam actionem exserere gestit et
+satagit. Quo major integrae actionis retinae pars color ali-
+quis existit, eo minor illius pars est complementum subse-
+quens: proinde, quo major coloris alicujus nativa, non ad-
+ventitia, est claritas, eo obscuriorem, suapte natura, colorem
+ejus offeret complementum: similiterque vice inversa. Cum
+colores euncti alter in alterum sensimque transeuntes, con-
+tinuitatis quendam velut orbem absque intersectionibus effi-
+eiant, ex arbitrio nostro pendere videtur, quot tandem co-
+lores statuere velimus. Hoc forsitan sensit Democritus*),
+cum affirmaret, vou ypowmv elvaı, nempe pro lubito constitu-
+tum esse colorum numerum. Minime vero rem se ita
+habere, jam quilibet sentit, patetque insuper ex eo, quod
+omni aevo et apud omnes gentes distinguuntur, propriisque
+sibi inditis nominibus denotantur colores ruber, viridis,
+
+
+flavus, violaceus, coeruleus, aurantiacus; quibus nominibus,
+
+
+ubique gentium, certi fixique intelliguntur colores, licet iidem
+in rerum natura perraro puri atque perfecti occurrant.
+
+
+Quamobrem necesse est, eos quodammodo a priori cogni-
+
+
+tos nobis esse, eum in modum, quo figurae geometricae,
+quas exacte et perfecte descriptas nusquam invenimus, neque
+proinde minus perfecte intelligimus. Quamvis autem nos
+coloribus in rerum natura nobis occurentibus nomina illa
+plerumque a potiori tantum adplicemus, h. e. quemlibet
+exhibentem sese nobis colorem, nomine illius ex istis sex
+coloribus cui is proxime accedit, designemus; quilibet tamen
+homo ejusmodi colorem ab illo, cui revera et proprie illud
+nomen competit, discernit, potisque est judicare, in quantum
+ab illo quasi normali colore aberret, v. g. utrum rei cujus-
+dam color flavus exacte talis sit, an.in viridem aurantia-
+cumve vel minime vergat. Cum itaque manifestum sit, nos
+
+
+*) Apud. Sext. Emp. adv. Math. VII. 131.
+33*
+
+
+[[p. 24]]
+
+
+quasi ad normam quandam dijudicare colores sese offerentes,
+necessario statuendum est, in oculis menteve nostra quasi
+insculptam esse uniuscujusque illorum sex colorum anticipa-
+tionem quandam, eam dico, quam appellat zpormpiv Epi-
+curus, i. e. anteceptam animo eorum quandam informa-
+tionem, sine qua neque intelligi, neque dijudicari possint;
+cui quidem nos, tamquam normae, quemlibet oblatum nobis
+colorem comparamus, indeque de justa ejus conditione sen-
+tentiam ferimus. Minime autem hoc mirum videbitur recor-
+dantibus hypothesin superius expositam, utpote qua ea res
+optime ad liquidum perducitur. Cum enim inter infinitas
+bipartitionis actionis retinae proportiones possibiles, sex tan-
+tum sint, quarum ratio sit simplieissima, indeque initialibus
+numeris exprimenda, satis jam liquet, cur certae istae fixae-
+que proportiones prae ceteris omnibus in peculiarem apud
+homines notitiam venerint, firmumque de iis sit judieium.
+Simillime enim haec res se habet atque in musica judicium
+de justa tonorum ratione. Quilibet enim homo, nisi quo-
+dammodo mancae ejus sint vel sensus vel animi vires, potis
+est dijudicare, utrum tonus aliquis exacte diapente, vel
+diatrion, vel certe utrum exacte diapason alterius sit. Nititur
+tamen hoc judicium proportione vibrationum arithmetica,
+hie non numerando, sed sentiendo tantum percepta: nihilo-
+secius juste et indubitate fertur sententia. Perinde igitur
+fit judieium de justa oblati coloris alicujus conditione, simi-
+lique ratione interpretändum est.
+
+Habemus ergo paria colorum tria, in quibus con-
+stituendis ratio a nobis exposita cum communi omnium ho-
+minum aetatumque usu convenit congruitque. E contrario
+autem, quaelibet ratio, quae certum fixumque colorum, abs-
+que ulla ad retinae actionem relatione, extra et per se sub-
+sistentium numerum, v. g. septem, statuit et praefinit, non
+potest non absurda nobis videri. — Infinitus enim colorum
+
+
+est numerus: nihilosecius quilibet color, una cum comple-
+
+
+mento suo, cunctorum colorum quasi elementa continet;
+sive, licet ejusmodi par evepyeiz, i. e. actu, duos tantum
+colores exhibeat, tamen dvvap.et, i. e. potentia, omnes, quot-
+quot esse possunt, colores in se comprehendit atque com-
+
+
+2
+
+
+FF
+
+
+[[p. 25]]
+
+
+plectitur. Unde etiam repetendum est, quod, si a tribus co-
+loribus chemica ratione primariis, rubro nimirum, flavo et
+coeruleo, quaestionis exordium sumatur, tum cujuslibet co-
+
+
+loris chemice primarii complementum utrosque W
+
+
+contineat, et vicissim.
+
+Colorum igitur natura a dualitate originem trahit, cum
+nihil aliud sit, nisi actio retinae bipartita. Quamobrem in
+colorum doctrina quaestio omnino non est instituenda de
+singulis coloribus; sed tantum de colorum paribus, quorum
+quodvis integram retinae actionem exhibet bipartitam. Po-
+test ea bipartitio innumeris fieri modis rationibusque, toti-
+dem quasi sectionis puncta diversa efficientibus; quorum
+quidem arbitrium penes causas est externas, oculum affi-
+cientes. Sed simulatque pars quaedam dimidiata quocunque
+modo evocata est, necessario sequitur altera, utpote com-
+plementum ejus efficiens. Hoc perinde est, atque in musica
+sumtam pro libito harmoniae basin necessaria lege conse-
+
+
+quuntur reliqua.
+
+
+Haec omnia cum ita se habeant, sane bis fuere absurdi,
+qui, colorum quoquomodo ab origine existentium numerum
+constituturi, imparem maxime elegerunt: hac autem in re
+semper sibi constiterunt Newtoni sectatores, licet numerum
+ab ipso definitum saepius commutarent, et, pro re nata,
+modo tres, modo quinque colores stabilirent primarios.
+
+
+8. 6.
+
+
+Retinae polaritas.
+
+
+Polaritatis notione toties tamque variis modis recen-
+tiores, ii inprimis, qui naturae philosophos se vocitant, abusi
+sunt, ut non sine verecundia quadam eam arcessere au-
+deam. Attamen, cum abusus non tollat usum, liceat mihi
+commonstrare, notionem illam quam maxime cadere in eam,
+quam hucusque exposui, retinae actionis bipartitionem das-
+litativam.
+
+Vera nimirum polaritatis notio haec esse mihi vide-
+tur, quod vis aliqua naturalis sponte sua secesserit in vires
+duas, specie quidem diversas, quin imo sibi invicem con-
+
+
+26 Theoria colorum physiologiea.
+
+
+referentes; quae quidem duae ejusdem vis species sic se-
+gregatae, tamen e se invicem tantopere pendeant, ut altera
+absque altera neque existere neque deficere possit, ea tamen
+lege, ut unionis cupidae constante nisu sese invicem quaeri-
+tent, donec tandem obviae sibi factae, cum omnis earum
+natura in ipsa posita sit separatione et oppositione, simul
+sese quaerere et esse desinant. Possumus fere haece omnia
+Platonis complecti verbis: sed oy ij obo dM Se,
+o οο Exaorov h⁰,ν,jÜꝭjƷ To adrou, Zuyne. Eandemque rem
+significare videtur Sinensium antiquissima doctrina de Yin
+et Yang*). Plurima naturae phaenomena corporaque na-
+turalia ejusmodi polaritatis legi subjacent: manifestissima
+autem eorum documenta exhibent magnetismus, electrieitas
+et galvanismus. Sed etiam in eam, quam exposui, actions
+retinae in colorum visu bipartitionem qualitativam, notionem
+illam quam maxime quadrare, nemini, qui animum mihi ad-
+hibuerit, dubium erit; licet huie polaritatis generi id peculiare
+sit, quod duae species sejunctae hic non, ut in ceteris, spatio,
+sed tempore discretae appareant; item, quod punetum
+indifferentiae, ut vocant, variare possit situm, et proinde
+partes sejunctae magnitudinem. 2
+Quin etiam videtur formula nostra, nimirum biparti-
+tionis qualitativae, primariam generalemque omnis po-
+laritatis notionem aptissime exprimere. Fieri adeo possit,
+ut ex hac retinae polaritate, quippe quae in nobis ipsis ver-
+satur sentiturque, omnis polaritatis natura subtilius tandem
+cognoscatur. — Si signa, in ceteris polaritatis phaenomenis
+usitata, etiam huic nostrae adhibenda sunt, colori rubro,
+aurantiaco et flavo hoc signum , viridi, coeruleo et viola-
+ceo autem hoc —, imponere, minime dubitabimus. — Nee
+videtur absonum, conjecturare, in coloribus sie -+ signatis
+actionem retinae, in alteris autem chorioideae vim praevalere.
+Consentaneum autem est, sensus diversitatem, qua tum illa
+signorum distributio, tum haec conjectura ni quam
+
+
+) Asiatic Journal, Vol. 10 (Chinese e, — et Vol. 20 85
+(Chinese litterature by Morrison). } 1 5
+
+
+[[p. 27]]
+
+
+maxime manifestari, ubi retinae actionis bipartitio perfec-
+
+
+tissima existit, in rubro videlicet et viridi colore; quorum
+ille acerrimo sensu aciem afficit et facile praestringit, hic
+autem eam recreat reficitque.
+
+
+8. 7.
+
+
+Coloris natura umbrae affinis.
+
+
+Summus Goethe, in suo de coloribus opere, identidem
+inculcat, coloris naturam umbrae esse affinem, atque ei in-
+esse umbrae vel potius penumbrae quandam similitudinem,
+quam ro oxtepov vocat. Hoc ita, et necesse quidem, se
+habere, e physiologica ratione nostra etiam a priori intel-
+ligitur. Retinae enim actionis, qualitative bipartitae, pars
+altera dimidiata ea demum lege et conditione suscitatur,
+
+
+ut altera tantisper ferietur: Quies autem retinae, ut initio
+
+
+diximus, caligo est. Sequitur, caliginem quandam necessario
+comitari actioni retinae qualitative bipartitae. Hoc autem
+
+
+ei commune est cum actione retinae intensive partita, quam
+quidem in penumbrae, vel cinerei coloris visione locum
+
+
+habere supra ostendi. Hac igitur communione utrisque
+intercedente, sive hac integrae actionis retinae in utrisque '
+
+
+diminutione similes sunt coloris et penumbrae in retinam
+
+
+impressiones, pertinetque necessario ro oxıspov ad coloris
+essentiam.
+
+Magna tamen adhuc inter retinae actionem tantum in-
+tensive partitam, sive penumbram, eandemque qualitative
+bipartitam, sive colorem, intercedit differentia. Prior illa
+nimirum, cum mera sit retinae actionis remissio, effectu pror-
+sus sibi proprio et specie ista peculiari, tam varia simul et
+tam distineta singulariterque laeta et delectabili, quae colori
+priva est, prorsus caret: quibus, contra, cum gaudeat actio
+retinae qualitative bipartita, unicum istum et plane sui
+generis sensum coloris efficit. Hoc autem procul dubio inde
+est repetendum, quod, in ista bipartitione qualitativa, pars
+dimidiata activa ab altera tantisper feriata, secessione polari,
+omnino diremta, et actio illius quiete hujus quasi suffulta
+est. Inde igitur colori contingit, ut specie tantopere prae-
+
+
+[[p. 28]]
+
+
+cellat penumbram, vel cineream superficiem. Jam autem hie
+suspicari licet, magnae isti, quam effectus exhibet, diver-
+sitati, etiam in causa adaequatam prorsusque consentaneam
+diversitatem esse responsuram. Cum igitur actionis retinae
+intensive partitae, sive penumbrae adspectus, causa sit
+mera luminis diminutio, et simplex, ut in crepusculo, lucis
+cum tenebris permixtio, necesse est, ut bipartitio qualitativa,
+ubicumque, ut in physicis coloribus, absque corporis colorati
+ope evocatur, causam etiam habeat proprie ad hoc tempe-
+ratam, prorsusque peculiarem, nimirum intimiorem jam tene-
+brarum cum lumine commixtionem, et quasi pressiorem
+
+
+eorum conflictum, in summa, talem prorsus causam, qualem
+
+
+Goethe ei assignavit, nempe lucem cum medio quodam
+semipellucido, certis quibusdam conditionibus, varie con-
+flietantem. — Sed de causis externis amplius disputabo
+$.11, ubi tamen ea, quae, oblata occasione usus, modo ex-
+plicavi, respicere velit lector. Hic sufficiat affinitatem coloris
+cum umbra, quam Goethe tantopere urget, e ratione nostra
+demonstrasse et confirmasse, veramque ejus attulisse cau-
+sam: qua quidem rite perpensa, insuper nobis liquet, istud
+ipsum, quod in quolibet colore oculis percepto vo oxuepov
+efficit, partem nempe retinae actioni tum temporis detrac-
+tam, postmodum, spectri physiologiei nomine, oculis obvoli-
+tare, et contra, in ipso hoc spectro, jam cou oxıepov partes
+istud agere, quod antea color erat.
+
+
+§. 8.
+Quaenam hujus theoriae ad Newtonianam sit ratio.
+
+
+m
+
+
+Colorem luce vel albedine obscuriorem esse et Newton
+sensit; quandoquidem illum non nisi partem lueis esse do-
+cebat, refractione scilicet partitae. Ille vero, quod actioni
+retinae accidit, luci adscripsit, quod dynamice et intensive
+fit, mechanice et extensive fieri putavit, quippe qui affırma-
+bat, radium luminis ipsum compositum esse constareque e
+septem luminibus homogeneis „quibus qualitates colorificae
+congenitae“ essent, h. e. quibus ut qualitates occultae in-
+haererent; palmari insuper adjecta sententia, lumina illa
+
+
+[[p. 29]]
+
+
+homogenea eandem inter se servare proportionem, quae in-
+tervallis tonorum musicis intercedit. Spartam, quam nactus
+es, orna! j
+
+Sed errores istos, a Goethio affatim confutatos, jam
+intelligimus e veritatis quadam suspicione obscuroque ejus
+sensu, ut fere fit, profectos esse. Nam partiti lueis radii
+loco jam habemus partitam retinae actionem: sed, pro
+septem illis partibus, duae tantum nobis existunt, etiam
+vero innumerae, prout res consideratur. Cujusvis enim co-
+loris conspectu bipartitur retinae actio: sed cum innumera
+sint istius quasi sectionis puncta, colorum etiam infinita
+inde oritur diversitas, quae insuper ex adjecto albo nigrove
+adventitio majorem alhue admittit varietatem.
+
+Successit igitur in locum partitionis radii lucis partitio
+actionis retinae. Sed reversio illa contemplationis a re ad
+inquirendum proposita ad contemplatorem ipsum, duobus iis-
+que maxime illustribus in historia inventorum exemplis no-
+bis commendatur. Etenim
+
+„non aliter, si parva licet componere magnis“
+Copernicus quondam in locum circumvolutae sphaerae
+eoelestis, rotantem suffecit terram; et item, summus Kant
+pro qualitatibus rerum absolutis, ontologia comprehensis,
+formas cognitionis menti proprias insitasque nobis patefecit.
+Tvosı oavrov praecepit Apollo.
+
+Liceat denique hie obiter monere, philosophos, quovis
+aevo, omnes suspicatos fuisse, colorem multo magis oculo
+quam rebus externis esse proprium. Locke praesertim,
+cum qualitates eas, quas vocat secundarias, enumerat, sem-
+per et ubique primo loco ponit colorem. Neque ullus phi-
+losophorum veram rerum qualitatem habuit colorem: dum
+nihilominus non modo extensionem et pondus, sed etiam
+superficiei qualitates, mollitiem dico et duritiem, laevitatem
+et scabritiem corporibus tribuere non dubitabant, quin imo,
+si utique opus fuisset, potius odorem et gustum corporibus
+inesse statuissent quam colorem. Cum autem, altera ex
+parte, colore exui non possent corpora, simul tamen diver-
+sissimis rebus unus idemque color, diversus contra rebus
+simillimis inesset, manifesto color minime ad essentiam re-
+
+
+[[p. 30]] E
+
+
+rum pertinebat. Quibus quidem omnibus quaestio de colore
+maxime difficilis, perplexa et tandem odiosa facta est.
+Quamobrem vetus scriptor quidam Germanicus, ut Goethe
+refert, „pannus‘“ inquit, „ruber, tauro obtentus, in furorem
+eum impellit; sed philosophus, coloris vel mentione facta,
+rabie corripitur.“
+
+Jam ex ea, quam attigi, rationis nostrae cum Nevtöniaug a
+analogia oritur quaestio, utrum, perinde ac secundum New-
+tonum adunatis iterum septem radiis homogeneis recomponi
+poterat lux, sive albedo, etiam fieri possit, ut actionis re-
+tinae bipartitae dimidia ita recomponantur, ut integra illa
+actio, sive albedo, inde restituatur. Hujus igitur rei disqui-
+sitionem jam aggressurus, pauca praemittere debeo, quae ali-
+cujus in eam rem sunt momenti.
+
+
+8. 9.
+
+
+Residuum actionis retinae indivisum.
+
+
+Jam superius monui, propria et nativa claritate colorem
+colori praestare, quod quidem tunc discernatur, ubi uterque
+maxime vegetus existat; sed posse quemlibet colorem, ad-
+ventitio vel albo, vel nigro, aut dilui, aut offuscari, usque
+dum in albedinem aut nigredinem paulatim transeat.
+
+Res ipsa docet, hoc ita interpretandum esse, ut statua-
+mus, fieri posse, ut in bipartitione actionis retinae, pars ali-
+qua, non dico retinae, sed ipsius ejus actionis, eo in loco,
+ubi bipartitur, non participet eam partitionem, sed indivisum
+exhibeat residuum. Prout autem hoc residuum vel plane
+activum, vel plane feriatum, vel ex parte tantum activum
+
+
+sit, color, oculo perceptus, variis gradibus aut dilutus, aut
+
+
+nigricans, semper autem languidus apparebit. Quod quidem
+ubi aceidit, retinae actionem et qualitative et intensive
+simul esse partitam prodit. Maxime autem hoc inde mani-
+festatur, quod, ubi color conspectus adventitio nigro offus-
+catus erat, tune complementum ejus, sive spectrum eum sub-
+sequens, tantumdem albo dilutum, i. e. pallidum, sese offeret:
+et consentanea ratione, si harum rerum invertitur ordo.
+Quae cum ita sint, sequitur, colorem aliquem tum demum
+
+
+——— —
+
+
+9
+
+
+[[p. 31]].
+
+
+sese maxime vegetum exhibere, totamque suam vim et effi-
+caciam expromere, ubi, propter irritamenti externi condi-
+
+
+tiones, adspectu ejus, retinae actio perfecte et absque re-
+siduo indiviso bipartitur.
+
+
+§. 10.
+Albedo e eoloribus restituenda.
+
+
+Jam revertor ad eam, quam superius moveram, quae-
+stionem de restitutione albedinis e cujusvis coloris cum com-
+plemento suo coagmentatione. Ex iis, quae modo attuli,
+patet, illam effectam dari non posse, ubi colores ipsi nigri-
+eabant, i. e. ubi actio retinae bipartita residuum habebat et
+indivisum et feriatum, quippe quod obscuritatem quandam
+gignit, nec conjunctione colorum tollendam, et proinde ci-
+nereum efficeret colorem. Ast ubi colores adhibentur aut
+vegetissimi, i. e. qui retinae actionem absque residuo bi-
+partiant, aut pallidi, i. e. qui residuum actionis retinae in-
+divisum quidem, sed activum reliquum faciant, tunc, e ra-
+tione quidem nostra, minime dubium est, quin ex ejusmodi
+colorum coagmentatione recomponi possit actio retinae inte-
+gra, quae efficiat impressionem lueis ipsius, sive albedinis.
+Etenim, ut exemplo quoque et formula istud ante oculos
+ponam:
+
+
+Ruber color = integrae actioni retinae — viridi colore
+Viridis color — integrae actioni retinae — rubro colore
+Ruber viridis = integrae actioni retinae = lucis impres-
+
+sioni = albedini.
+
+
+Cum autem ad effectum devenitur, res illa nulla quidem
+premitur difficultate, si coloribus mere physiologieis utimur:
+v. g. si, post adspectum colorem aliquem, oculos in alium
+colorem, complementum ejus efficientem, figimus, tune neu-
+trum intuitum spectrum subsequetur physiologicum. Sed hu-
+jusmodi experimentum mere negativum parum valebit ad
+evidentiam, ad quam quidem plene conferendam opus foret,
+ut actionis retinae bipartitae partes ambae simul et tamen
+
+
+[[p. 32]]
+
+
+segregatim ad actionem suscitarentur. Quod vero cum fieri
+vix aut ne vix quidem possit, hoc certe requiritur, ut duae
+causae externae, quae singulae in oculum agentes colorem
+quendam, ejusque complementum suscitarent, jam una et
+simul in eundem retinae locum cum agant, albedinis sensum
+evocent. Plenam igitur res nanciscetur fidem, si coloribus
+physicis vel adeo chemicis ad effectum adduci potuerit. Ibi
+autem difficultate quadam semper laborat. Jam enim non
+amplius agitur proprie de coloribus, e nostra quidem eorum
+definitione, sed de causis externis, quae in oculum cum
+agant, coloris sensum, i. e. bipartitionem actionis retinae
+suscitant. De his quidem, in quantum ad rem nostram fa-
+ciunt, inferius consideraturi, pauca tamen hie anticipabimus.
+In ejusmodi igitur causa, videlicet colore physico vel chemico,
+inesse debet non solum id, quod alteram bipartitae actio-
+nis retinae partem suscitet, sed aliud pariter, quod alteram
+ejus partem, cujus quiete ro oxıepov coloris ipsius efficitur
+sopiat sedetque: cum vero illud ipsa lux sit, erit hoc ne-
+cessario substratum aliquod materiale, luci officiens, eamque
+compescens: hoc autem, utpote materia, etiam post duorum
+colorum adunationem perdurabit, et, coloribus coagmenta-
+tione sublatis superstes, actione sua in oculum cinereum
+exhibebit colorem. Cum enim istud jam non amplius intima
+et peculiari ratione luci conjunctum permixtumque sit, ac-
+tionis retinae bipartitionem qualitativam quidem jam non
+evocat; attamen superest adhuc, atque destructae illius co-
+lorum causae „caput mortuum“, ut chemice loquar, existens
+luci alhuc officit, provocatque jam partitionem actionis re-
+tinae mere intensivam. Haec igitur causa est difficultatis,
+qua premitur restitutio albedinis e physicis, multoque adhuc
+magis e chemicis coloribus. Attamen videamus, quatenus in
+utroque rem illam ad effectum adducere contigerit.
+
+In physicis, primum, coloribus si medium illud semi-
+pellueidum, iis utique proprium, materia aliqua fuerit crassa,
+inaequali passim luci plane impervia, velut fumus carbonieis
+particulis scatens, vel vitrum fumo nigrificatum, vel charta
+pergamena aliave id genus, tunc non dubium est, quin °
+propter causas modo allatas perfecta albedinis reductio fieri -
+
+
+Theoria colorum physiologiea. 33
+
+
+non possit. At vero, si prismaticis utimur coloribus, ex
+sententia eveniet. Quippe in his medium istud semipellu-
+cidum, cum nihil aliud sit, nisi refractam imaginem comitans
+imago secundaria, adeo tenuis haec est naturae, ut sublatis
+conditionibus, quibus colorem gignebat, aut esse, aut certe
+agere desinat, aut denique, ubi coacervata fuerit, alborem
+creet. Fiant igitur duobus prismatibus spectra solaria duo;
+conjungatur color violaceus alterius cum alterius colore au-
+rantiaco (rubro Newtoni): jam existet color vere ruber, sive
+Goethii purpureus: cui quidem superinducatur color viridis
+tertii prismatis ope (nimirum ex coerulei ejus et flavi con-
+junctione) effectus: tune igitur apparebit albedo e rubri
+viridisque coagmentatione orta. Goethe, quippe qui re-
+ductionem albedinis e coloribus utique negat, licet hoc ex-
+perimentum ipse tradat (Vol. I. p. 600), validitatem tamen
+ejus impugnare studet, sed rationibus tam parum firmis, ut
+earum refutatione, quam in theoriae meae expositione Ger-
+manica dedi, hic repetenda optime queam supersedere.
+Praeterea potest idem experimentum etiam alio fieri modo,
+eoque faciliore simul et manifestiore. Spectrum prismaticum
+alterum alteri superinducatur, eo pacto, ut primi color vio-
+laceus alterius flavum, coeruleusque primi alterius aurantia-
+cum contegat: e coagmentatis hoc pacto duobus simul colorum
+paribus spatium existet album, altero tanto majus quam in
+experimento primum allato. Est autem hoc Newtoni ex-
+perimentum decimum tertium partis secundae libri primi:
+neque perinde in rem ejus est, cum colores neque septem
+neque innumeri (nam utrumque alternis, pro re nata,
+statuit) hic se contegant, sed duntaxat duo, atque ipse in-
+super (ibid, prop. VI. probl. II.) disertis verbis neget, e
+duobus coloribus primariis permixtis alborem gigni posse.
+Facillime tandem atque unius tantum prismatis ope idem
+illud fit experimentum, cum in plano nigro duo quadrata
+depicta sunt alba, quorum minus trium quatuorve linearum
+distantia subter majus positum sit: haec si quis per prisma
+contemplans paulatim recedat, donec color violaceus minoris
+quadrati colorem flavum majoris, et color coeruleus minoris
+quadrati aurantiacum majoris contegat, totus ille locus albus
+
+
+[[p. 34]]
+
+
+apparebit. Coloribus igitur si utimur prismaticis, reduetio
+albedinis e trium parium principalium quolibet effecta dari
+potest. — Sed etiam chemico adsumto colore idem efficere
+licet, ea tamen conditione, ut flavus violaceusque color eli-
+gantur, utpote par maxime inaequale efficientes, cujus qui-
+
+
+minor autem, sive obscurior, physicus: nam hoc demum
+pacto oxıspov istud, omni colori proprium, in chemico autem
+etiam post coagmentationem stabile et permanens, utpote
+materiale, non satis tamen virium habebit, ut albedinem sie
+effioiendam offuscare possit. Prismate igitur oculis adposito
+adspicias chartam colore flavo eoque vegeto tinctam, a ma-
+culis tamen plicisve puram, plano albo superimpositam; ap-
+parebit chartae is locus, quem violaceus occupat color,
+omnino albus. Idem, minus tamen distincte, videre licet,
+cum spectrum prismaticum solare chartae flavae super-
+injeceris. Minore cum perfectione etiam ceteri prismatici
+colores cum chartis consentanee coloratis idem spectaculum
+exhibent, semper tamen eo perfectius, quo clarior suapte
+natura chemicus, i. e. chartae, fuerit color. — Quin etiam
+utrumque colorem chemicum sumere possumus, ea autem
+conditione, ut, ad instar colorum physicorum, luei pene-
+
+trabiles sint, quia nimirum eo demum pacto oxiepovistud,
+licet materiale et proinde etiam, posteaquam colores efficere
+desiverit, iis superstes, nimis tamen tenue est, quam ut al-
+bum, coloribus prognatum, offuscare possit. Seias igitur
+quodlibet vitrum album ex hac colorum commixtione can-
+dorem suum nactum esse. Omne enim vitrum suapte natura
+propter ferrum sibi insitum viride flavescens, e magnesio
+oxydato admixto demum albeseit: per se autem istud mag-
+nesium vitro impertit colorem e violaceo rubrum; quod
+videre licet, ubicunque nimis multum ejus vitro additum
+
+est, v. g. in fenestris Anglieis poculisque quibusdam rubi-
+
+cundulis. — Etiam denique ubi colorum chemicorum alter
+
+luci impervius est, satis bene adhuc fit experimentum: nu-
+
+mus nimirum aureus in vas vitreum coeruleum, qualia vulgo
+
+prostant, injectus quasi argenteus videbitur; dum argenteus
+numus juxta positus coeruleum induet colorem. Huie simile
+
+
+7
+
+
+[[p. 35]]
+
+
+est, quod tradit Ficinus, nempe chartae coeruleo colore
+utrinque tinctae imaginem, a cupro polito reverberatam,
+albam apparere. — Item, aulaeo serico viridi fenestrae ob-
+ducto, albescit rosa.
+
+Hisce igitur exemplis satis confirmatum esse arbitror
+illud, quod expositae hactenus colorum rationi necessario
+consequens est, posse nimirum coloris alicujus cum comple-
+mento ejus conjunctione albedinem effici: hoc autem maxi-
+mam fidem facit rationi nostrae. Ipsa quidem res jam du-
+dum doctis nota erat*), sed causa ejus hucusque, aut certe
+usque dum mea colorum ratio primum publicaretur, anno
+videlicet 1816; omnes latebat. Inde fit, ut multis jam annis
+passim loquantur quidem de „coloribus complementariis“,
+sed eo semper sensu, ut nomine illo intelligantur colores
+duo, qui lumina homogenea cuncta inter se distribute con-
+tineant, conjuncti ergo eorum numerum compleant: quam
+quidem notionem omnino falsam et absonam esse, jam ex
+ipsis, quae modo attuli, experimentis, cordatioribus satis
+
+
+) Exponit eam Theodorus a Grotthuss in Schweiggeri
+Ephemeridum chemices physicesque Volumine III. anni 1811; ubi
+magnam partem eorum, quae attuli, experimentorum et alia insuper
+notatione digna indicat. Idem vero eam rem Newtonianae rationi,
+quam mordicus tenet, quoquo modo accommodare satagit, opemque
+adeo petit a nugatorio isto colorum eireulo, adregulam sol, la, fa,
+sol, mi, fa, sol, aNewtono (Lib. I. P. II. prop. VI, probl. II.) con-
+structo. Ipsum autem Newtonum, „magni philosophi immortalisque,
+verae colorum rationis indagatoris“ nomine veneratur et adorat. —!
+
+Liceat hic, si quis forte ignoret, obiter monere, mundi systematis
+e gravitatis lege explicationem ante Newtonum inventam esse a
+Hookio, qui eam, hypothesis nomine, anno 1666, cum Academia re-
+gia Londinensi communicavit. Exstat in operibus ejus posthumis illa
+expositio, cujus quidem sententiae primariae, ipsius verbis, leguntur
+in Dugaldi Stewarti libro „Pilosophy of the human mind“, Vol. II.
+p. 434. — Omnino autem hac de re inter Anglos constare, etiam in
+succincta illa Astronomiae historia videre licet, quam exhibet the
+Quarterly Review, mensis Augusti, 1828. Ite nunc et narrate vobis
+fabellas de malo ex arbore delapso. Newtoni ergo merita, semper
+adhuc magna, videntur hac in re, et, nisi fallor, ubique, versari in ex-
+acta cob cocov definitione, at ro ri v elvar nulla in re ipsi acceptum
+referendum est. — Caleuli infinitorum utrum Newton an Leibnitz
+primus fuerit inventor, adhue sub judice lis est.
+
+
+[[p. 36]]
+
+
+manifestum erit, sed magis adhue ultima hujus tracta
+paragrapho, vulgatae colorum physiologicorum e Newtoni
+ratione interpretationi refellendae destinata, planum certum-
+que flet. 3
+Ceterum inficias ire non possum, Goethium, cum e
+coloribus restitui posse albedinem prorsus negaret, ultra ter-
+minum provectum, in errorem incidisse. At impulit eum
+Newtoni contrarius error, cui quidem jure ille opponebat,
+neutiquam e colorum coacervatione lucem oriri posse, quia
+scilicet quilibet color tam umbrae quam lucis esset particeps:
+oxıspov ergo istud, colori proprium, et hie urgebat. Quam-
+vis autem eum non lateret, colores physiologiee sibi invicem *
+oppositos copulatione destrui et in cinereum resolvi, tamen
+hoc e sola coacervatione trium colorum chemico sensu prima-
+riorum repetebat, contendebatque, ex ejusmodi conjunctione
+utique et essentialiter cinereum, non perinde album oriri
+debere colorem. Hic autem error inde repetendus est, quod
+summus vir veram et primitivam colorum rationem non as-
+secutus, neque ultra physicorum colorum legem generalem
+progressus, etiam veram primariamque causam tum destruc-
+tionis colorum ex oppositorum coagmentatione, tum ipsius
+oxıepov coloribus proprii necessario ignorabat. Hac nostra
+enim ratione demum patet, colores physiologice sibi opposi-
+tos ideirco coagmentatione destrui, quia bipartita retinae
+actio ea conjunctione redintegratur; item, oxtspoy istud, co-
+lori utique proprium, ipsa quiete partis alterius, in actionis
+retinae bipartitione feriatae, effici, atque proinde necessario
+evanescere, cum partes illae discretae iterum conjunguntur;
+sin tamen ex ea conjunctione cinereus pro albo existit color,
+hoc inde oriri, quod chemicis coloribus res effecta sit, qui,
+eum sint causae coloris externae et proinde materiales, e
+etiam residuum necessario materiale relinquunt, quod quidem
+einereum illum progignit colorem, non e re ipsa natum, sed
+coloribus adventitium.
+Absit tamen, ut errores istos vitio vertere velimus summo
+viro, qui colorum cognitionem tot purgavit erroribus, tot
+ditavit veritatibus. Bene autem dicit Seneca: inventuris
+inventa non obstant: praeterea conditio optima est ultimi.
+
+
+*
+
+
+[[p. 37]]
+
+
+Neque, altera ex parte, affırmare licet, Newtonum,
+cum albedinis e coloribus reductionem doceret, veritatem
+esse assecutum; imo vero eum logicen novo exemplo ejus
+theorematis, quod e praemissis falsis vera effici possit con-
+clusio, locupletasse. Quid enim illa lucis albae e septem lu-
+minibus homogeneis reductione falsius? Eam autem colo-
+rum naturam, qua bini physiologice sibi opponuntur, quae
+quidem totius eorum rationis atque essentiae cardo est, et
+cujus solius respectu albedo e coloribus, sed e duobus, e
+quolibet colorum pari, minime vero e septem certisque co-
+loribus, restitui potest, —ne fando quidem acceperatNewton.
+Quamobrem vera coloris natura prorsus eum latebat. Prae-
+terea albedinis e duobus coloribus reductio, quam quidem
+diserte negabat, documento est, e septem coloribus albedi-
+nem restitui neutiquam posse. Ergo forte fortuna tantum
+Newtoni propositionum una veritati quadantenus similis
+est: quam vero ipsam cum a falsa causa repeteret, falsamque
+sententiam ei subjiceret, non mirum est, etiam experimen-
+torum, quibus eam probare studebat, plurima aut nihil effi-
+cere, aut adeo falsa esse. Quibus quidem cum summo studio
+adversaretur Goethe, nimis longe, ut fere fit, provectus,
+plura, quam par erat, negavit. Inde igitur factum est, ut
+rem per se veram, albedinis dico e coloribus reductionem,
+alter falsis documentis stabilire, alter rationibus alioquin
+veris subvertere conaretur.
+
+
+F. 11.
+
+
+De lis, quae, extrinsecus in oculum cum agunt, actionis
+retinae bipartitionem suseitant.
+
+
+Mea jam perorata est causa: exposui enim rationem
+colorum, quatenus oculi sunt affectiones, eaque opera theo-
+riam condidi colorum primitivam, omnibus aliis eorum, alio-
+que respectu instituendis considerationibus anteriorem, fun-
+damentique loco jis substruendam; cui quidem illae multa
+poterunt addere, nulla autem detrahere, aliove modo ei re-
+pugnare, nisi primum eam redarguerint. Universae igitur
+colorum rationis pars prima, eademque principalis hisce con-
+
+Schopenhauer, Schriften zur Erkenntnißlehre. 34
+
+
+—
+
+
+[[p. 38]]
+
+
+fecta est: altera autem, quae praesentis instituti non est,
+versari debet in investigatione causarum, quae extrinsecus
+in oculum agentes a pura luce albedineve eo differunt, quod
+haec integram aut intensive duntaxat partiariam retinae ac-
+tionem suscitat, illae autem ejus actionis, qualitative bi-
+partitae, dimidium tantum evocant. Pauca tamen ad se-
+
+cundariam illam disquisitionem facientia, eique, quatenus e
+nostra ratione pendet, indicia subministrantia, corollarii
+loco adjicere libet.
+
+Cunctas illas causas externas Goethe aptissime in dua
+dispescuit genera, cum nimirum colores physicos a chemieis
+segregaret; quorum hi corporibus constanter inhaerent; illi
+autem e varia mutabilique lucis pellucidorumque corporum
+dispositione, ad tempus tantum, emergunt. Eo inprimis
+utrique mihi videntur differre, quod chemicorum colorum,
+qua talium, causae nos lateant et quadantenus sint inseru-
+tabiles, physicorum colorum autem causas simul cum ipsis
+videamus, et quamvis de eorum interpretatione nondum inter
+omnes constet, tamen dubitare non liceat, quin leges, se-
+cundum quas colores physici ubique, utut diversa sit materia
+jis subjecta, existant et oriantur, assequi possimus; quia
+nimirum hic effectus et causa segregatim sese exhibent; dum
+e contrario, chemici colores, corporibus infixi, indeque
+quasi in abdito sepulti, scrutationi praecludunt aditum. Hoc
+igitur respectu atque sensu physici colores intelligibiles,
+chemiei vero inintelligibiles nuncupari possint. Pro-
+blema, cujus solutione universae colorum rationis altera
+pars consummatä foret, hoc est, ut chemici colores ad
+physicos revocentur. Newton interim plane contrarium
+egit, physicosque colores ad chemicos revocavit, cum ni-
+mirum doceret, lucem albam compositam esse e septem
+aut innumeris luminibus homogeneis, quibus forte contigerit,
+ut rubra, viridia, coerulea, etc. utique essent.
+
+De chemicis coloribus pauca postremo proferam: jam de
+physicis videamus. Irritamentum externum, quo retinae actio
+rite suscitatur, ad ultimum semper lux est. Cuilibet igitur
+peculiari actionis illius temperationi ad amussim respondeat,
+necesse est, etiam lueis aliqua temperatio. Sed quaenam
+
+
+Theoria colorum physiologiea. 39
+
+
+haee sit, controversia est Newtonum inter et Goethium.
+Illa quidem lis experimentis ab utroque exhibitis justoque
+de iis judicio ad ultimum dirimenda est. Si autem lector
+eorum meminerit, quae, prima hujus capitis paragrapho, de
+necessario causam inter et effectum parallelismo praefatus
+sum, utique operae pretium ducet videre, quaenam, ad ju-
+dicium de causa ferendum, effectus ipsius intimior sub-
+tiliorque cognitio, qualem exposita hucusque colorum ra-
+tione physiologica adepti sumus, indicia et argumenta
+suppeditet, et quaenam igitur, de causarum ratione eatenus
+a priori statuere liceat. Sunt autem ea fere haec:
+
+1) Tum ipsi colores, tum etiam proportiones rationes-
+que inter eos invicem obtinentes retinae sunt propria, ad
+ejus naturam pertinent, suntque omnino nihil nisi actionis
+ejus variae modificationes. Causae eorum externae tantum-
+modo irritamenta sunt, quibus ea actio suseitatur, quorum
+igitur provincia angustis limitibus circumscripta est; partes-
+que, quas in gignenda coloris visione agunt, earum sunt
+similes, quas, in evocanda electricitate, corporibus insita,
+i. e. in dirimendis -- E et — E, frictio implet. Nequaquam
+igitur fieri potest, ut colores, certo quodam numero, extra
+oculum per se exstent, legesque et proportiones proprias,
+absque ullo ad retinam respectu servent, et ita omni ex
+parte absoluti, tamquam res adventitia, oculum intrent. Si
+nihilosecius ejusmodi eorum extra oculum esse naturam, quis
+contendere velit, eo scilicet consilio, ut Newtoni ratio et
+mea simul stare possint, miräbilis plane et prodigiosa ei
+statuenda foret harmonia praestabilitä, qua scilicet
+colores, etsi ex oculi propriis functionibus, secundum leges
+illi insitas oriundi, tamen et extra, nempe in ipsa luce
+hujusque particulis, causas haberent istis functionibus con-
+sentameas et ad eas suscitandas dedita opera praeparatas.
+
+2) Quilibet color est pars quaedam dimidiata actionis
+retinae bipartitae, alio quodam colore, ejus nempe comple-
+mento, redintegrandae. Utique igitur paria tantum colorum
+exstant, neutiquam vero colores singuli. Minime ergo certus
+colorum vere existentium W isque praesertim impar,
+ut septem, statuendus.
+
+34 *
+
+
+[[p. 40]]
+
+
+3) Colores cuncti, alter in alterum sensim transeuntes,
+orbem quendam absque ullis fixis limitibus continuatum ex-
+hibent. Per gradus nimirum indiseriminabiles et infinitos
+transit color ruber in aurantiacum, hic in flavum, hie in viri-
+dem, hie in coeruleum, hic in violaceum, qui revertitur in ru-
+brum. Hujus orbis diremtione quadam quilibet color, una
+cum complemento suo existit: qui quidem ambo simul sumti
+totum orbem xar& donau in se complectuntur. Innumeri
+ergo sunt colores possibiles: quamobrem neque septenario,
+neque alio quopiam numero eos eircumscribere licet. Tria
+autem colorum paria inter cetera eo eminent, quod actionis
+retinae bipartitionem, proportione quadam admodum sim-
+pliei, intellectu perfacili, initialibus proinde numeris expri-
+menda, effectam exhibent: neque aliunde repetendum est,
+quod illi sex colores propriis sibi nominibus ubique et
+semper insigniti sint, cum praeterea nihil proprii eximiive
+habeant, quo ceteris praecellant, aut ab iis differant.
+
+4) Propter parallelismum inter causam et effectum, quem
+utique requirendum esse paragrapho prima disputavi, ne-
+cesse est, ut infinito colorum possibilium numero, ex in-
+numeris, quibus bipartitio actionis retinae fieri potest, pro-
+portionibus oriundo, etiam causae, eam retinae functionem
+extrinsecus suscitantis, respondeat versatilitas et mutabilitas
+quaedam, qua, modis in infinitum variatis, gradibusque sub-
+tilissime distinetis, ea causa in oculum diverse agat. Hoc
+vero neutiquam praestare potest septenarius aut alius certus
+quidam numerus luminum homogeneorum, quae quidem sin-
+gula immobilia inflexibiliaque subsistunt, conjuncta autem
+ad albedinem paulatim regrediuntur. Sin vero pro septem
+jam innumera, ut pro variabili Newtoni doctrina licet,
+statuimus istiusmodi lumina, aliquanto melius hoc loco res
+expediri potest; tum autem eadem interpretatio, in eo,
+qui sequitur, hujus paragraphi articulo, rationem ejus
+plane pessumdabit. |
+
+Contra autem huic postulato plenissime satisfacit Goe-
+thii doctrina. Medium enim semipellucidum, jam citra, jam
+ultra lumen situm, quod infinitos quoque densitatis tenuita-
+
+
+tisve gradus admittit, denique etiam utrinque diverse illu--
+
+
+Paz Tr nn EL a A dm u
+
+
+I er ee ee .
+
+
+[[p. 41]]
+
+
+minari potest, revera eam causae mutabilitatem variabilem-
+que conditionum ejus dispositionem exhibet, quae effectui
+consentanea sit.
+
+5) Coloris naturam umbram referentem, quam oxıepou
+nomine tantopere urget Goethe, inde repetivimus, quod,
+actionis retinae bipartitae parte tantum altera, coloris ob-
+jectu, suscitata, altera tantisper necessario feriata esset.
+Sed etiam in causa externa aliquid inesse debet, quod illi
+obscurationi respondeat, ejusque procreandae vices impleat.
+Huic igitur postulato certe quadantenus satisfacit Newtoni
+ratio, quippe quae docet, quemvis colorem circiter septimam
+partem luminis integri et proinde albedine obscuriorem esse.
+Sed hac in re modum valde excedit: nam secundum eam
+quilibet color, claritatis ratione, ad albedinem se habet ut 1
+ad 7, vel etiam paulo minus: nobis vero constät, etiam ob-
+scurissimum inefficacissimumque colorem, violaceum dico,
+esse ad albedinem ut 1 ad 4; viridem rubrumque ut 1 ad
+2; flavum adeo ut 3 ad 4. Sin autem, exactiorem et quasi
+esotericam Newtoni doctrinam secuti, pro septem jam in-
+numera statuimus Jumina homogenea, sive colores, alto tum
+haerebimus in luto: tum enim quilibet color ad albedinem
+se habebit ut pars absolute minima ad totum, quare adeo
+obscurus erit, ut ipsa sua caligine plane evanescat.
+
+Contra, Goethii ratio etiam huic postulato egregie sa-
+tisfacit, cum tov oxıepov rationem reddat plane adaequa-
+tam. Secundum eam nimirum e luminis cum tenebris intima
+commixtione nascitur color; sed, ut $. 7. exposui, non
+e simplici luminis attenuatione, quippe quae tantummodo
+valet ad penumbram vel cinereum colorem gignendum, i. e.
+ad actionem retinae intensive partitam suscitandam; sed ut
+retinae actionis bipartitio qualitativa evocetur, jam intimiore
+lucis cum tenebris commixtione pressioreque eorum conflictu
+opus est: hunc autem effectum dat medium semipellu-
+cidum, obstaculi instar lucem et tenebras intercedens, quod
+quidem, cum istius, quod chemici „menstruum“ vocant, vices
+impleat, utramque intime permiscet et adunat, hac autem
+lege generali, ut, si lumen ultra hoc medium positum,
+illud quasi perrumpat, flavus, aurantiacus ruberve oriatur
+
+
+5
+4
+
+
+[[p. 42]]
+
+
+color*), sin vero eitra positum trans illud tenebras illumi-
+net, coeruleus color existat. Quamvis Goethe innumeris
+exemplis experimentisque generalis hujus legis stabilitatem,
+colorumque physicorum veram originem extra omnem dubi-
+tationis aleam posuerit, tamen oblata hic occasione utar,
+ut e ratione nostra etiam a priori demonstrem, haec
+utique et necessario ita se habere. f
+Obscuritatem colori propriam inde repetendam esse vi-
+dimus, quod retinae actionis parte altera suscitata, altera
+necessario interim feriatur; quae quidem cum deinceps speetri
+physiologici nomine sua sponte cietur, tune ea actionis pars,
+quae anten colorem exhibebat, jam quiescens Tov oxLepou
+partes agit. Inde manifesto sequitur, cujusque coloris com-
+plemento tantundem inesse debere lucis, quantum colori ipsi
+inerat obscuritatis: et perinde ordine inverso. Jam vero ad
+causam coloris exteriorem, eamque physicam conversi, novi-
+mus, eam esse debere lucem certa quadam ratione, ut ex-
+posui, moderatam imminutamque: sed insuper jam intelligi-
+mus, oportere eam ita maxime esse temperatam, ut cuivis
+eolori tantundem claritatis impertiat, quantum complemento
+ejus demat. Hoc autem exactissime fieri eo demum pacto
+potest, ut istud ipsum idemque, quod in colore aliquo phy-
+sico generando claritatis causa est, id maxime in comple-
+mento ejus efficiendo obscuritatis causa existat; nam con-
+
+
+versa causa convertitur effectus. Praestat vero id unice
+
+
+et perfectissime medium illud semipellucidum, lucem te-
+nebrasque intercedens, quippe quod in omnibus coloribus
+hoc signo + notatis, videlicet flavo, aurantiaco et rubro,
+physice generandis obscuritatis causa est: in his enim
+luci post se positae officit, eamque ab intuitu arcet: in op-
+
+
+) Temperare mihi non possum, quin locum adseribam valde
+notabilem, quo Aristoteles coloris rubri originem ad amussim e
+Goethii ratione explicat. Locus ille ex Aristotelis Meteoro-
+logieis Lib. III. cap. 4 petitus, sed alio ordine coneinnatus, legitur
+apud Stobaeum (Eclog. phys. I. 31.) sic: Poryıexowv ev (TO Ypwp«
+ung Ipıdog), Hrı To Auımpov Ev mehave t ÖLE Mei) OpWmevoy ToLzuTnV
+dorehet Ypoav. Tors youy Szwpevorg Toy HArov & dmyins, N &: zunvov,
+Boxer Epulpov cet I vat dn t we YAmpwv Eukmy pAoya epo
+
+
+KEvnv, &i To c aurm rl Zarnvov,
+
+
+Di
+
+
+[[p. 43]]
+
+
+positis autem coloribus, eorum nimirum complementis, vide-
+licet violaceo, coeruleo et viridi physice efficiendis, idem me-
+dium semipellucidum claritatis sive lucis causa existit: nam
+hic lucem ante se positam, tenebras vero in tergo habet,
+ideoque lucem, quae alias in tenebras profusa periret, re-
+flectit et in oculum repercutit. Sed accedit et hoc, quod
+idem maxime densitatis medii semipellucidi gradus, pro
+contrario lucis situ, jam colorem quendam, jam ejus ipsius
+complementum efficiat. Ita e. g. medium semipellucidum,
+tenuissimum, ante lucem situm, flavum efficit colorem, post
+lucem positum autem violaceum, complementum illius. Den-
+sius jam ejusmodi medium luci post se-sitae obtentum au-
+rantiacum colorem gignit; contra vero, lucem incidentem re-
+percutiens, coeruleum. Utrumque videre licet in iis quatuor
+coloribus, quos spectrum exhibet prismaticum: ibi enim me-
+dium semipellucidum, imagine secundaria progenitum, in
+latis quidem limbis simplex existens, una in parte, tenebris
+superinductum, violaceum, in altera parte, ubi lucem conte-
+git, flavum exhibet colorem, illius ergo complementum; in
+angustioribus contra marginibus idem istud medium, duplex
+existens, eadem ratione una in parte coeruleum, in altera
+vero aurantiacum colorem, utpote complementum ejus, osten-
+dit. Manifesta porro hujusce rei exempla exhibent infusio-
+nes ligni nephritici, ligni Quassiae aliorumque, quippe quae
+prout lux aut ex adverso incidit, aut ex opposito trans-
+mittitur, oppositos sibique invicem complementarios colores
+ostendunt. Quibuscunque tandem modis experimentum fiat,
+modo ne adhibeantur media nimis crassa, Semper unum
+idemque medium semipellucidum, si altera ex parte illumi-
+natur, eum offeret colorem, cujus complementum efficiet, si
+e parte opposita illuminatur: qui quidem' duo colores con-
+juncti semper integram retinae actionem redintegrabunt, sive
+albedinem restituent. Denique si medium istud semipelluci-
+dum adeo condensatur, ut luci jam omnino impervium sit,
+tunc incidente ex adverso lumine perfecte album apparebit,
+sin lucem post tergum sibi sitam omnino praecludit, tene-
+brae erunt, sive nigredo. Notandum autem est, medium se-
+mipellucidum valde spissum, si luci obtenditur, rubrum
+
+
+[[p. 44]]
+
+
+gignere colorem, sed complementum ejus viride eadem via
+generari non posse, neque omnino physice existere, nisi ex
+unione flavi et coerulei coloris prismatici, quae, ubi spectrum
+dilatatur, in medio ejus conficitur.
+
+Haec igitur omnia bene pensitanti Goethii colorum
+physicorum ratio sane a priori probata erit, quippe quae
+omnino satisfacit postulato illi, e theoria colorum physiolo-
+gica oriundo, ut coloris physici causa talis sit, quae cuilibet
+colori exhibendo luciditatem, complemento autem ejus ob-
+scuritatem impertiat, dum una tantum conditio, lucis vide-
+licet situs, in contrarium immutetur: quod quidem exactis-
+sime respondet rationi physiologicae, secundum quam colores
+complementarios tales esse oportet, ut alter tantundem ob-
+scuritatis exhibeat, quantum alter claritatis.
+
+Goethe autem ipse, cum ante inventam hanc colorum
+physiologicorum theoriam scriberet, colorum contrarietatem
+physiologicam a physica plane diremit, docuitque, physice
+sibi invicem oppositos esse flavuin colorem et coeruleum; ita
+ut illae duae contrarietatis rationes non quadrarent inter se.
+Mihi tamen hoc ita interpretandum esse videtur, ut, genera-
+liore sensu locutus, flavi coloris nomine omnes illos, qui
+hoc -+ signo notantur, coerulei autem nomine illos, quibus
+hoe signum — indidimus, intellexerit. E nostra enim ratione
+manifestum est, contrarietatem colorum physiologicam unam
+eandemque esse cum physica: effectu nimirum in oculo
+exacte respondente causae extra oculum sitae: qua quidem
+re maxime demonstratur veritas rationis a Goethio ex-
+positae.
+
+Verum enim vero cum eo usque procedit magnus vir,
+ut contrarietati golorum physicae, inter flavum videlicet et
+coeruleum colorem, extra oculum existenti, polaritatis nomen
+tribuat, tandem ab eo dissentire cogor. Colorum enim po-
+laritas statui non potest, nisi in oculo, ubi nimirum reti-
+nae actionis bipartitio qualitativa jure polaris vocanda est.
+Extra oculum autem locum habens colorum polaritas ad
+causam coloris pertineret externam: tunc igitur hanc ab
+origine simplicem esse oporteret, ut deinde ex ejus biparti-
+tione existeret polaritas; hoc autem pacto jam ad Newtoni
+
+
+1
+
+
+3
+
+
+[[p. 45]]
+
+
+partitionem lucis deventum foret; dum e contrario Goethii
+pariter ac meae colorum rationi ejusmodi polaritatis co-
+lorum extra oculum sitorum adsumtio aperte repugnat: quod
+paucis demonstrabo. Constat inter nos pro certo: 1) colo-
+rem luce sive albedine esse obscuriorem; 2) non posse lu-
+cem ex se ipsa, sed tantum alio quopiam accedente, obscurari:
+haec enim est Goethii contra Newtonum justa simultas.
+3) Si ergo coloris extra oculum, i. e. coloris physici, esset
+polaritas, haec necessario foret polaritas conflictus lueis
+cum alio quopiam, v. g. cum medio quodam semipellucido :
+quae quidem assumtio expositae superius polaritatis notioni
+directe repugnare manifesta est. Nam polaritas est vis cu-
+jusdam, ab origine simplicis, secessio in vires duas, genere
+easdem, specie autem diversas, qualitate quadam sibi invi-
+cem oppositas, inde sese invicem quaerentes, unione autem
+evanescentes. Quamobrem fieri non potest, ut res duae ori-
+gine diversae, concursu fortuito tantum conjunctae, quales
+sunt lux atque medium semipellucidum, unquam gignant po-
+laritatem. Lucis igitur polaritatem, coloris ratione habita
+existere posse nunquam concesserim. An forte alio quopiam
+respectu, ob radiorum puta divisionem Islandico erystallo
+effectam, polaritas lucis statuenda sit, praesentis non est in-
+stituti disquirere.
+
+Ceterum fieri quoque potest, ut quaedam corpora, quae,
+luci pervia, retinae actionis bipartitae partes oppositas
+evocant et contrarios igitur in retinam habent effectus,
+proinde etiam in alias quasdam res, puta chemicas quasdam
+mixturas, velut argentum muriaticum lapidemve Bononien-
+sem, oppositis rationibus agant, quod quidem neuti-
+quam foret mirum: minime autem hac re probabitur polari-
+tas lucis, ratione habita colorum, siquidem inconcussum
+manet, colorem luce esse obscuriorem, nee posse lucem e
+se ipsa obscurari, nec existere polaritatem, nisi e bipartitione
+cujusdam ab origine simplicis.
+
+Restat, ut colores chemicos consideremus, de quibus
+perpauca sunt, quae liqueant. Si, ad rationem eorum illu-
+strandam, simili uti licet, dicam, eos ad physicos colores
+eodem se habere modo, quo turmalini lapides ad ea corpora,
+
+
+[[p. 46]]
+
+
+quorum electricitas frictione tantum evocatur. Nam physici
+
+
+eolores non nisi peculiari quadam lucis pellucidorumque
+
+
+corporum dispositione et ad tempus tantum emergunt;
+chemicis vero coloribus sola illuminatione opus est, ut ap-
+pareant, similiter ac turmalini, modo calefacti sint, statim
+electricitatem exhibent, quam, utpote sibi infixam, semper in
+promtu habent. — Esse chemicum colorem superficiei cor-
+porum temperamentum quoddam, cujus virtute unam vel
+alteram actionis retinae bipartitae partem evocant, manifes-
+tum est: an vero id ad formam quandam, sive figurationem
+‚particularum superficiei geometricam revocandum sit, valde
+dubito. Quae autem ea de re veri mihi videntur similia,
+haec sunt. Jam fere constat, solis radios ab origine frigidos
+ibi demum calefacere, ubi lucere desinunt, nimirum in ipso
+corporum opacorum objectu, fieriqui ibidem lucis quandam in
+calorem transformationem, directe oppositam illi alteri, qua
+calor in lucem transit, candente videlicet ferro, vel canden-
+tibus lapidibus vitrove, optime vero calce fluorica; si forte
+quis ferri excandescentiam ad tardam combustionem revo-
+care voluerit, quod equidem dubito. Modi autem et gradus,
+quibus illa lucis in calorem transformatio fit, pro diversa
+corporum qualitate diversi sunt: videlicet favent ei corpora
+nigra, vel nigricantia: alba contra ei parum idonea sunt.
+Hujus igitur transformationis lucis in calorem, opacorum
+corporum objectu effectae, modi diversi manifestari mihi vi-
+dentur colore corporum. Hinc etiam explicari posse videtur,
+cur spectri prismatici solaris variae partes varios impertiant
+corporibus caloris gradus. Quin etiam quadantenus inde in-
+telligi possunt phaenomena illa singularia, quibus color phy-
+sicus transit in chemicum: v. g. argentum muriaticum lucis
+solaris liberae et proinde albae appulsu ex albo in nigrum
+convertitur; ubi vero a solo spectro prismatico solari ali-
+quamdiu illuminatum fuerit, ejus trahit colores, quos sta-
+biles paulatim exhibet. Etenim, ex hypothesi nostra, id,
+quod ratione oculi color corporis cujusdam est, ratione hujus
+corporis ipsius modus est peculiaris, quo id corpus e solis
+illuminatione calorem parit, sive quo lucem in calorem trans-
+format; argentum muriaticum suapte naturatransformationem
+
+
+U ERBEN WERE WER
+
+
+r
+
+
+we
+
+
+[[p. 47]]
+
+
+illam perfectissime efficeret, cujus rei index niger est color,
+quem solis radiis expositum induit: ubi autem hoc ei non
+licet, sed ratio et modus, quo illam transformationem effi-
+cere ei conceditur, limitatus et extrinsecus jam ei praescrip-
+tus est, illuminatione puta per solum spectrum prismaticum
+facta, nihil est, quod tantopere miremur, id argentum jam
+modum, quo duntaxat lucem in calorem transmutare ei
+licuerat, etiam colore manifestare, quippe qui ratione cor-
+poris nihil nisi hujus rei signum est visibile.
+
+In genus autem pendet superficiei istud temperamentum,
+quo colorem quendam induit, e minimis corporum differen-
+tiis, levissima mutatione variandis: quamobrem non valet
+color ad judicium de illorum corporum qualitate ferendum,
+statque sententia, nimium non esse credendum colori. Pro-
+inde videmus, corpora admodum diversa eundem gerere co-
+lorem et e contrario unius speciei flores, v. g. dianthos,
+tulipas, malvas, paene quibuslibet splendere coloribus. Do-
+cumento etiam est cinnabaris, qui, postquam e conflato cum
+argento vivo sulphure jam confectus est, nigrum exhibet co-
+lorem, perinde ac similis cum sulphure plumbi mixtura: sed
+ille sublimatione demum rubrum colorem vegetissimum
+naneiscitur, chemica ejus compositione ea re neutiquam mu-
+tata. Similiter caneri rubent elixi. — Fucum habeo Sinen-
+sem, qui in charta, cui superillitus nobis apportatur, per-
+fecte viridis est, cum splendore quasi metallico: digitum
+autem, quo madefacto paululum fricatur, purpureo colore
+tingit vegetissimo pulcherrimoque. Haec autem omnia prae-
+terea etiam confirmant, colorem multo magis ad oculos
+pertinere, quam ad res.
+
+
+8. 12.
+De aciei abusu et oculorum habitu abnormi quaedam.
+
+
+Tum percussis extrinsecus, vel pressis, vel alio modo
+vexatis oculis, tum acie eorum nimiae lucis intuitu obtusa,
+spectra oriuntur, physiologicis spectris, quibus totam meam
+colorum rationem superstruxi, admodum similia, nec genere,
+sed gradu tantum ab iis diversa. Possunt illa spectra vo-
+cari pathologica; siquidem altera efficiuntur aperta oculi
+
+
+[[p. 48]] 7
+
+
+laesione, altera autem irritatione ejus nimia, qua quidem
+actio retinae vehementer perturbata et veluti e libramenti
+sui aequabilitate excussa, per convulsiones quasdam biparti-
+tur, quibus fit, ut jam unam, jam alteram partem sui dimi-
+diatam promat: quamobrem aciei nimio splendore obtusae,
+si in locum obscurum convertitur, spectrum obversatur vi-
+ride, sin in locum lucidum, spectrum rubrum. Uti autem
+acies nimia luce obtunditur, ita etiam per abusum huic con-
+trarium offenditur, cum crepusculo in res minutas intendi-
+tur: incitamento nimirum illie nimio, hic justo debiliore.
+Deficiente enim luce, actionis retinae tunc intensive partitae
+non nisi pars extrinsecus suscitatur, quae, cum operi sibi
+incumbenti non sufficiat, nisu augetur voluntario, quo qui-
+dem altera actionis retinae pars absque incitamento externo
+sponte sua suscitatur, quod ei utique obesse experientia
+docuit.
+
+Denique etiam patet, cur lucernae lumen diurno lumine
+magis aciem fatiget. Omnes enim, quas illuminat, res co-
+lore tingit ex aurantiaco flavo; unde etiam umbrae coeru-
+lese. Quare fit, ut, lucernae lumine dum utimur, actionis
+retinae bipartitae non nisi duae tertiae, aut paulo plus,
+suscitentur, quibus jam necesse est totius visionis vice fungi,
+dum pars fere tertia manet feriata, Quam quidem rem si-
+mili fere ratione atque intentionem aciei per crepusculum,
+aut tubuli optici uni tantum oculo adhibiti usum, oculis no-
+cere nulla eget demonstratione. Non inseite igitur Parrot
+auctor exstitit, ut vitro coeruleo lampadi imposito, lucernae
+lumen diurno adsimilaretur*).
+
+Quod colores, ut nostrae rationi consentaneum est, multo
+magis ad oculos quam ad res conspectas, vel ad lumen
+utraque intercedens pertineant, documento sunt etiam ho-
+mines nonnulli, licet perrari, qui nullos omnino colores vi-
+dent, quibus igitur albis, nigris cinereisque tantum distinc-
+tionibus variegatus, tabulae aeri incisae in modum, sese
+offert mundus. Hujusce rei exempla sunt tres fratres, qui-
+
+
+*) Parrot, Traité de la manière de changer la lumiere artificielle
+en une lumière semblable à celle du jour. Strasb. 1791.
+
+
+e
+
+
+[[p. 49]]
+
+
+bus Harris nomen, quorum historia legitur in Transactio-
+num philosophicarum Londinensium Volumine 67. p. 260:
+item, in ejusdem operis Volumine 68. p. 612, suam ipsius
+historiam narrat J. Scott, qui, pariter ac plures sibi cog-
+nati, colorum visione carebat. Cum adeo rarus magnique
+in rem nostram momenti ille sit defectus, ea, quae mihi
+fando quidem, sed per testes fide dignos innotuere, praeter-
+mittere nolo. Compluribus abhine annis Rigae degebat do-
+minus a Zimmermann, centurio, colorum visu adeo orbatus,
+ut, cum periculi ejus faciendi causa, pro veste militari rubra,
+quam gestare solebat, viridis ei apposita esset, eam sibi
+absque ulla suspicione indueret, adeoque jam in eo esset,
+ut hoc ornatu ad agminis militum evolutionem procederet.
+Notandum est, ceteros colores, etiam proprio eorum sensu
+carenti, tamen majoris minorisve claritatis gradu facilius in-
+ternosci, quam rubrum viridemque, quippe qui uterque ex-
+acte dimidiatam actionis retinae bipartitionem offerunt, ideo-
+que sola claritatis ratione non differunt. — Itidem laborabat
+eodem vitio Unzer, Hamburgae nobilis suo tempore medi-
+cus, qui tamen illum defdetum, ut diagnosi parum utilem
+sedulo celabat. Sed uxor, ut periculum ejus faceret, ali-
+quando, pro fuco rubro, coeruleo genas tinxit; ubi ille nihil
+aliud monuit, nisi eam illa die nimio fuco usam esse. Equi-
+dem haec accepi ab amico jam defuncto, pietore et pina-
+cothecae Dresdensi praefecto, cui nomen Demiani: cum
+enim is uxoris illius effigiem depinxisset, Unzer fassus, se
+de coloribus judicare non posse, totam rem ei aperuit. —
+Multo minus rari sunt homines, qui colores imperfecte in-
+ternoscunt, alteros distinguentes, alteros non item. Notan-
+dum est, ut quod pro ratione nostra facit, illos omnes eirca
+rubrum viridemque colorem maxime laborare, propter cau-
+sam superius allatam. 0
+
+
+[[p. 50]]
+
+
+F. 18.
+
+
+Colorum physiologieorum interpretationis, quae
+hueusque obtinuit, refutatio.
+
+
+Scherffer, Jesuita, phaenomenon colornm physiologi-
+corum rationi Newtonianae accommodare studuit*), com-
+mento sat vafre excogitato, eamque ob rem ab omnibus
+Newtoni sectatoribus sedulo celebrato, repetito et exornato.
+Ajunt nimirum, oculum continuato aliquamdiu coloris ali-
+cujus intuitu adeo defatigari, ut istius coloris, sive quod
+apud istos idem valet, istius luminis homogenei, sensum
+plane amittat; quamobrem, si exinde in superficiem albam
+adspectus convertatur, tune reliqua tantummodo lumina ho-
+mogenea, illo scilicet eliminato, oculum afficere, e quorum
+mixtura physiologicus color jam conspectus existat: sin au-
+tem in colorem alium, eumque compositum, et cujus compo-
+siti pars sit ille initio adspectus color, acies convertatur,
+tune apparere eum colorem, qui, subtracto isto, qui primum
+retinam defatigaverat, reliquus foret. Inconsideratam hane
+explicationem si indefesse crepitant compendiorum, quae vo-
+cantur, scriptores, qui ea, quam de Goethio tulerunt, sen-
+tentia judicii sui specimen dederunt, vel etiam ii, qui luminis
+moleculas, easque rubras, virides etc. earumque adeo axes et
+latera nobis narrare non verentur; nihil est quod miremur:
+at piget me referre, etiam virum quam maxime egregium,
+Cuvierum dico, in praeclara sua Anatome comparata
+
+
+(Lect. 12.) ista exposuisse. Minime tamen illud vitio ei
+
+
+vertere velim: fieri enim non potest, ut vir clarissimus, qui
+tot tantasque res perpetuo investigat ac dilucidat, singula
+quaeque, ea praesertim, quae alius proprie sunt provinciae,
+ipse scrutetur et ponderet, sed in his confidat, necesse est,
+illis, ad quorum munus ea spectant. Mentio tamen hujusce
+rei eo minus praetermittenda erat, quod in recentissimo
+quodam diurno Anglico (Jamesoni Edinburgh new philoso-
+phical Journal, 1828, April — Septbr., p. 190.) vetus istud
+
+
+*) Carolus Scherffer, de coloribus aceidentalibus. 1761, —
+Carl Scherffer, Abhandl. von den zufälligen Farben. 1765.
+
+
+N
+3
+
+
+[[p. 51]]
+
+
+commentum tamquam res nova a Cuviero modo inventa
+exponitur laudaturque. |
+
+Ista igitur explicatio jam mihi refellenda est, quod etiam
+duplici fiat ratione: primum, ex ipsa hypothesi; deinde ex-
+perientia. Eaque opera me consecuturum spero, ne quis in
+posterum decantata illa nobis propinet.
+
+Primum, ex hypothesi: quam quidem exemplo applice-
+mus, ut distinctius intelligatur. Continuatum aliquamdiu
+violacei coloris adspectum sit consecutum spectrum fla-
+vum, jam in plano albo pulcherrimum purissimumque con-
+spiciendum se praebens. Hoc ergo inde oritur, quod oculus
+homogenei luminis violacei adspectu fatigatus, hunc co-
+lorem non amplius sentit, quamobrem planum album, in
+quod jam convertitur, pro septem luminibus homogeneis, qui
+alias albedinem efficerent, sex tantum ei exhibet, quorum
+conjunctorum summa flavus est color. Componitur ergo hie
+flavus color ex indico, coeruleo, viridi, rubro, aurantiaco et
+flavo. Euge! quam bellus ex hac mixtura nobis existit color
+flavus! Faciant coloris flavi ita componendi experimentum
+Newtoniani. — Sed his ne opus quidem est, ad commentum
+istud redarguendum: sufficit enim considerare, quod singuli
+colores, qui sibi invicem complementa sunt, et quorum alter
+igitur alterius conspectum, ut spectrum physiologicum, con-
+sequitur, utrique in ipso prismatico spectro jam omni ex
+parte absoluti, neque ulla admistione indigentes, exstant
+conspiciendosque se offerunt, violaceus nimirum et flavus,
+aurantiacus et coeruleus: hi duntaxat revera; e Newtoni
+commentitia ejus spectri descriptione insuper etiam ruber et
+viridis. Ergo color aliquis, qui unius eorum complementum
+existit, singulus quidam alter ex eorum numero est, neuti-
+quam vero reliquorum omnium commixtorum summa; neque
+fieri potest, ut uno quolibet eorum e medio sublato, reli-
+quorum summa, sive effectus unitus atque conspirans, nihil
+procreet, nisi quendam eorum alium, jam per se in spectro
+exstantem atque distinctum: hoc enim pacto ceteros quinque
+ei admixtos nullatenus eum commutare necesse foret; quod
+plane absurdum, quia causam ponit absque effectu.
+
+Secundo jam loco, experientia fiat confutatio. Ad per-
+
+
+[[p. 52]]
+
+
+cipiendum spectrum physiologicum nequaquam plano albo
+opus est: nam melius adhuc in plano cinereo, vel penumbra,
+conspicitur: quinetiam apparet in plano nigerrimo; imo
+clausis insuperque manu contectis oculis cernitur. Quae
+quidem una res satis foret ad commentitiam istam ejus in-
+terpretationem de gradu dejiciendam. Sane adjuvatur sensus
+coloris physiologiei plano albo et magis adhuc cinereo: quia
+illud actionem retinae integram, hoc partem ejus intensivam,
+colori magis affınem, provocat, quo pacto etiam pars ejus
+dimidiata, licet jam sua sponte sese exserens, facilius tamen
+munere suo fungitur. Huc etiam spectat illud, quod Goethe
+docuit, omnem videlicet colorem plano albo supposito ad
+efficaciam suam manifestandam egere. Nihilominus quae
+modo attuli affatim probant, spectrum physiologicum sponte
+sua existere et ex ipsius retinae viribus procreari, neuti-
+quam vero esse ob fatigatam earum portionem mancam plani
+albi impressionem. Insuper autem ea res etiam inde con-
+firmatur, quod, si oculus, qui continuato violacei coloris ad-
+spectu spectrum flavum in retina gerit, jam convertitur in
+planum coeruleum, tune viridis ei apparet color, e mixtura
+nimirum flavi coeruleique ortus: unde manifestum est, spec-
+trum plano, cui superinjieitur, addere aliquid, non autem
+demere: e coeruleo enim colore neutiquam subtrahendo ali-
+quid fieri potest viridis, sed adjiciendo aliquid, nempe flavum.
+
+Sane hisce argumentis satis superque confutata est vul-
+gata illa interpretatio colorum physiologicorum. Sed quo-
+niam adeo me tenet timor, ne consulto aliquid reticuisse
+videar, ut prae eo etiam argumentationis ad putidum usque
+subtilis crimen incurrere sustineam, minutiis quibusdam ad-
+huc afferendis supersedere nolo, quas tamen quam queam
+paucissimis expediam. Spectant eae ad mixtionem coloris
+physiologiei cum chemico. Si oculus, e rubri coloris in-
+tuitu spectrum physiologicum viride in retina habens, in
+planum convertitur violaceum, spectri locus languide
+coeruleus apparet. Hoc inde fit, quod dimidium tum vio-
+lacei tum viridis coloris, eoeruleus est color, qui ergo
+hie bis existens praevalet: admixtus ei est flavus e spectro
+viridi, et ruber e plano violaceo, una aurantiacum gignentes
+
+
+[[p. 53]]
+
+
+colorem, qui pro portione sua, cum coerulei illius dimidio,
+albedinem restituit, qua quidem coerulei dimidio alteri ad-
+mixta, existit ille, qui tandem apparet, color coeruleus
+languidus pallidusque. Eventus rei igitur rationi nostrae
+plane consentaneus est. — Licet autem eundem e commento
+isto Newtonianorum ita interpretari. Rubri intuitu fatigatus
+oculus hunc colorem amplius non sentit; planum ergo vio-
+laceum, subtracto illo, coeruleum videt, et propter defec-
+tum subtracti alterius dimidii coloris etiam pallidum. Hoc
+igitur in loco eventus aeque respondet illorum interpre-
+tationi ac meae: proinde ex hoc phaenomeno solo redargui
+isti non possent. Itaque in medio relicta foret res, si
+deessent rationes et experimenta superius allata: quibus
+autem cum jam profligata sit res, et funditus subversa
+destructaque illorum ratio, minime pro iis facere potest
+hoc unicum phaenomenon, suapte natura imbecillum, vagum,
+inconstans et etiam maxima aciei intentione vix cernendum,
+neque minus commode e nostra quam ex eorum ratione
+interpretandum. Revera ignoro, an unquam istud experi-
+mentum ab aliis factum et commentitiae illi interpretationi
+adaptatum fuerit; sed praecavens tantum, ne cui in posterum
+inde oriri possit dubium, et hoc adjeci. Quod autem
+exemplo plani violacei ostendi, perinde fit etiam cum aliis
+coloribus compositis, si spectrum physiologicum ex unius
+colorum illos componentium adspectu ortum iis superinji-
+citur; pariterque per ancipitem disputationem explicari
+potest.
+
+Verum haec hactenus. Jam absolvi opus, et quae
+annis ante tredecim parvo cum fructu popularibus expo-
+sueram, absolutiora ac pleniora Latinis literis mandavi,
+omissis quaecunque minus ad rem faciebant. Cum autem
+physiologica colorum theoria pars tantum, licet primaria,
+totius colorum rationis sit, exteris jam, imo jis inter illos,
+qui rarissima illa, electis tantum divinitus concessa animi
+dote, judicio dico, praediti sunt, eoque confisi, non, per-
+inde ac ceteri, numerant sententias, sed ponderant, auctor
+existo, ut, susque deque habentes physicorum professorum
+tum sinistra judicia, tum cautiora silentia, Goethii de
+
+Schopenhauer, Schriften zur Erkenntnißlehre. 35
+
+
+.
+
+
+[[p. 54]]
+
+
+coloribus librum legere quoquomodo procurent, unde plu-
+rimos pulcherrimosque percipient fructus. Primum enim,
+colorum physicorum veram rationem cognoscent: deinde
+intelligent, quibus quamque crassis praestigiis Newton
+per seculum et amplius doctos atque doctores ludificare
+potuerit, ac etiamnum, ostensis melioribus, ludificat. De-
+nique in psychologia quoque miros inde capient profectus:
+plane enim et perspicue videbunt‘, subtiliterque cognoscent,
+quid tandem illud sit, quod in hominum, ut fere sunt,
+cerebris judicii locum obtinere solet, qua cognitione pre-
+tiosius paene nihil esse existimaverim, quippe qua magis
+magisque confirmabuntur in hoc, ut veritatem ejus ipsius
+causa adament, malintque sibi quam populo placere.
+
+
+Additamentum physicum.
+
+
+Quae in $. 11 de spectri prismatici ex imaginibus secun-
+dariis ortu dieta sunt, rem illam ratione simplicissima et
+primo quasi adspectu menti obvia interpretantur. Revera
+autem credo, rationem, qua spectrum illud progignitur, ali-
+quanto implicatiorem, nihilominus tamen legi supra exposi-
+tae consentaneam esse. Liceat igitur hie in calce operis,
+quae mihi illa de re videntur, ut meram hypothesin ex-
+ponere; quod, cum hoc in loco quam brevissime fieri debeat,
+ab iis tantum intelligi poterit, qui Goethii rationem plane
+cognitam et perspectam habent. Ceteri haec negligant.
+Cum cujuslibet phaenomeni secundum legem aliquam
+interpretatio tum demum extra omnem dubitationis aleam
+ponatur, ubi ad singula quaeque devenerit, eaque enucleate
+demonstraverit, semper equidem miratus sum, quod Goethe
+satis habuerit, summatim docere, colores prismaticos imagini-
+bus secundariis effici, neque perinde tentaverit, modum ac
+rationem, qua istud fiat, subtilius definire, delineationeve
+ante oculos ponere. Hujusce igitur rei periculum facturus
+analysin quandam spectri prismatici in imaginem primariam
+et duas secundarias excogitavi, quam exemplo disci albi in
+plano nigro depicti et per prisma oculis appositum consi-
+derati illustrabo. Spectri colorati inde orientis resolutio in
+imaginem primariam et duas secundarias e figura hic ap-
+35*
+
+
+[[p. 56]]
+
+
+posita optime intelligetur. Ponamus enim discum illum
+refractione sursum tolli. Orbis medius (a) est imago
+principalis: binae ei concomitantur imagines secundariae,
+quarum altera (Y) magis quam principalis refracta, eamque
+igitur praecurrens, in tenebras prominet jisque superinduci-
+tur; altera autem (c) minus quam principalis refracta, eam-
+que subsequens, contra tenebris remanet immersa, jisque ob-
+tegitur: sed utramque imaginum secundariarum sortem qua-
+dantenus participat imago principalis, in ea nimirum sui
+parte, quae utrobique illis confinis est. Jam ergo, e lege
+Goethiana, supra, ubi imago secundaria simplex plano nigro
+superinducitur, violaceus existit color: infra hune, ubi ex
+additione partis imaginis primariae claritas tenebris super-
+
+
+inducta duplicatur, coeruleus color necessario oritur. In
+
+
+parte contra inferiore, ubi tenebrae debilem claritatem so-
+lius imaginis secundariae contegunt, color fit aurantiacus;
+supra hunc autem flavus, quia ibi eaedem tenebrae jam du-
+plicem claritatem, duobus nimirum orbibus conjunctis con-
+
+
+Theoria colorum physiologica. 5
+
+
+fectam, operiunt; quod quidem eum in morem fit, quo,
+oriente sole, eadem nubes primum aurantiaca est, quae
+deinde, sole jam adultiore, fit flava. Medium denique albedo
+obtinet, eo usque tantum extensa, quo tres orbes illi omnes
+coineidunt. — De hujus explicationis veritate judicaturus
+rem ipsam praesentem oculis usurpet utique necesse est.
+Fiat experimentum disco chartaceo albo chartae nigerrimae
+superagglutinato. Idem autem quod heic exhibent radii
+lucis e disco reflexi, directis radiis efficitur, ubi solis
+imago prismate refracta in pariete conspicitur.
+
+Etiam de ortu illarum imaginum pauca adjieiam.
+Hanc notissimam refractionis adumbrationem contemplantes
+
+
+reputent cordatiores, quam mira plane foret res, univer-
+salique continuitatis legi repugnans, si lux, a directione
+sua naturali per vim extrinsecus sibi illatam bis detorta,
+nullatenus tamen cum circumjacentibus tenebris commis-
+ceretur, sed limitum suorum sinceritatem servaret utique
+illibatam. Multo magis naturae consentaneum videtur, lu-
+cem, singulis refractionis vicibus, eo ipso temporis momento,
+ubi novam assumere cogitur directionem, tamen prioris
+vestigium quoddam retinere, velutique memoriam ejus con-
+servare, atque proinde in ipso refractionis puncto radios
+
+
+[[p. 58]]
+
+
+nonnullos emittere, qui, a luce principali qnasi avulsi, di-
+rectionem pristinae aliquanto propiorem servent, eoque modo
+imaginem secundariam procreent: quod cum bis fiat, binae
+ejusmodi imagines prineipali concomitantur.
+
+Solet autem problematum solutio nova suscitare proble-
+mata. Ita et hic nascuntur quaestiones, e quanam duarum
+illarum refractionum tum antecedens, tum subsequens imago
+secundaria oriunda sit? deinde, cur illa longius quam haec
+a prineipali imagine secedat? denique, cur utraeque ab
+imagine prineipali penitus divelli nequeant, imo, si con-
+tinuatur recedendo dilatatio, tune coeruleus et flavus color
+commisceantur in viridem? in quibus quaestionibus dis-
+solvendis sint alii me feliciores.

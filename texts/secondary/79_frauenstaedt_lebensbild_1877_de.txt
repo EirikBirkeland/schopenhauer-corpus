@@ -1,0 +1,2825 @@
+# TIER 2 SECONDARY | German | a life of Schopenhauer printed inside the collected edition, 1877, with its sources named by the author | the collected edition of 1877, volume 1 (Brockhaus, Leipzig), the printing this collection holds
+# title: Arthur Schopenhauer. Ein Lebensbild vom Herausgeber
+# title_en: Arthur Schopenhauer. A picture of his life by the editor - the English title is this collection's rendering
+# year: 1877
+# edition: Leipzig: F. A. Brockhaus 1877, edited by J. Frauenstaedt, printed at pp. 139-203 of volume 1 of the saemmtliche Werke; IA 11173023. The author names his own materials at the start: the Memorabilien and manuscript remains he had edited himself, Gwinner's 1862 biography ("Arthur Schopenhauer aus persoenlichem Umgange", Leipzig 1862) and Lindner's 1863 pamphlet - so this is a synthesis of the family theory of the life, written by the editor with the papers in hand.
+# translator: none (German)
+# copyright: public domain
+# source: https://archive.org/details/11173023
+# fetched: 2026-10-26
+# note: ADDED IN PASS 35, as S-13, and it is the biographical item GAP-7 has been reaching for - not Huebscher, but better placed: the life as the editor of the collected edition told it, inside that edition. IT OPENS WITH A CLAIM FOR THE CLAIM-SHELF, in its first line: "Wie die Lehre Schopenhauer's, so ist auch seine Person falsch aufgefasst und in ueblen Ruf gebracht worden" - as his doctrine, so his person, wrongly conceived and brought into a bad reputation: the programme of the whole piece, and an admission that by 1877 the popular image was already fixed. WHAT IT SUPPLIES, read and set down: the Berlin habilitation in 1820 and the statement that he doctored there for ONE SEMESTER ONLY, "die Zeit, in der ein Hegel und Schleiermacher an der berliner Universitaet dominirten", being the reason given (see G-37); the two passages that are the best evidence in the collection for the dog as companion - on his walks he was mostly alone, "nur von seinem Pudel begleitet", and in his room "neben dem Sofa ruhte sein Pudel auf einem schwarzen Baerenfelle", with the dog-pictures of Woollet and Ridinger round him - yet still NOT ONE word of the dogs' names, so Atma and Butz remain outside every witness this collection holds (G-03); and, from the will, that his universal heir was a Berlin fund for those who upheld and restored lawful order in the uprisings of 1848 and 1849. WHAT IT DOES NOT SUPPLY, after a folded search for zwei Uhr, 2 Uhr, zwei Stunden, Uhr, Vorlesungen, dozirte, docirte, Semester, Privatdocent: the HOUR of the lectures. Not here, not in Gwinner 1862, not in Gwinner 1863, not in Schemann's letters - the two o'clock that was set to starve Hegel is not in any of these four witnesses (G-37). PAGES: 30 heads recovered as [[p. n]], the piece's own pages 143 onward; the piece's own display heading supplies the rest.
+
+Arthur Schopenhauer.
+
+
+Ein Lebensbild
+vom
+
+
+Herausgeber.
+
+
+One mid
+
+
+j mou
+
+
+10 %% n 1 0
+
+
+Wie die Lehre Schopenhauer's, jo ift auch feine Perſon falſch
+aufgefaßt und in übeln Ruf gebracht worden. Es thut daher ein
+richtiges Lebensbild Noth.
+
+Ich werde in dem Nachfolgenden beſtrebt fein, das Weſent⸗
+liche, die Grundzüge des Lebens und Charakters Schopenhauer's
+hervorzuheben. Als Ouellen habe ich theils die von mir heraus-
+gegebenen Memorabilien und den handſchriftlichen Nachlaß Scho⸗
+penhauer's *) benutzt, theils Gwinner's Biographie **).
+
+Wem es um ausführlichere Nachrichten zu thun iſt, als ich
+ſie hier geben kann, den muß ich auf die genannten Quellen ver⸗
+weiſen.
+
+Arthur Schopenhauer wurde am 22. Februar 1788 zu
+Danzig geboren, wo fein Vater, Heinrich Floris Schopen—
+hauer, einer der angeſehenſten Kaufleute war. Arthur's Mutter
+war die als Schriftſtellerin rühmlich bekannte Johanna Scho—
+penhauer. Der Charakter des Vaters und die Intelligenz der
+
+
+*) Arthur Schopenhauer. Von ihm; über ihn. Ein Wort der Verthei⸗
+digung von Ernſt Otto Lindner, und Memorabilien, Briefe und Nachlaßſtücke
+von Julius Frauenſtädt. (Berlin, A. W. Hayn, 1863.) — Aus Arthur
+Schopenhauer's handſchriftlichem Nachlaß. Abhandlungen, Anmerkungen,
+Aphorismen und Fragmente. (Leipzig, F. A. Brockhaus, 1864.)
+
+a) Arthur Schopenhauer aus perſönlichem Umgange dargeſtellt. Ein
+Blick auf ſein Leben, ſeinen Charakter und ſeine Lehre von Wilhelm Gwinner.
+(Leipzig, F. A. Brockhaus, 1862.)
+
+
+142 Arthur Schopenhauer.
+
+
+Mutter vererbten ſich auf den Sohn, und dieſer ſah daher ſpäter
+in ſich ſelbſt einen Beleg für ſeine Theorie von der Erblichkeit
+der Eigenſchaften, der zufolge der Menſch ſein Moraliſches, ſeinen
+Charakter, ſeine Neigungen, ſein Herz, vom Vater, hingegen
+den Grad, die Beſchaffenheit und Richtung ſeiner Intelligenz von
+der Mutter erbt. (Vergl. Welt als Wille u. Vorſt., II, Ka⸗
+pitel 43.) Von ſeinem Vater hatte Arthur die Heftigkeit des
+Temperaments, die Energie des Willens und den ſtolzen, unbeug⸗
+ſamen Sinn, von ſeiner Mutter die Lebhaftigkeit und Penetration
+des Anſchauungsvermögens, ſowie die Gewandtheit des ſprachlichen
+Ausdrucks.
+
+Heinrich Floris Schopenhauer, der Vater Arthur's, war
+ein ungewöhnlicher Menſch. Neben ausgebreiteten kaufmänni⸗
+ſchen Kenntniſſen hatte er ſich während eines mehrjährigen Auf⸗
+enthaltes in Frankreich und England eine bedeutende geiſtige Bil-
+dung erworben. Mit beſonderer Vorliebe las er die franzöſiſchen
+Schriftſteller, vor allen Voltaire. Für das Staats- und Fami⸗
+lienleben der Engländer war er ſo eingenommen, daß er ſich lange
+mit dem Plane trug, zu ihnen auszuwandern. Sein Hausweſen
+ſtattete er mit engliſchem Comfort aus. Täglich las er eine eng⸗
+liſche und eine franzöſiſche Zeitung, und frühzeitig hielt er ſeinen
+Sohn zur Lektüre der Times an, als aus welchem Blatte man
+Alles lernen könne. Der Sohn befolgte auch den väterlichen Rath
+bis zu ſeinem Lebensende.
+
+Heinrich Floris Schopenhauer war bereits in ſein acht⸗
+unddreißigſtes Jahr getreten, als er ſich die achtzehnjährige Jo⸗
+hanna, eine geborene Troſiener, Tochter des danziger Raths⸗
+herrn Troſiener, zur Ehe auserkor. Ueber ihr Verhältniß zu ihm
+ſagt ſie ſelbſt: „Noch vor Vollendung meines neunzehnten Jahres
+war mir durch dieſe Verbindung die Ausſicht auf ein weit glän⸗
+zenderes Loos geworden, als ich jemals berechtigt geweſen zu er⸗
+warten; doch daß dies in ſo früher Jugend meine Wahl nicht be⸗
+
+
+i
++ Y 5 N
+
+
+—
+
+
+r
+
+
+1 0
+
+|.
+
+.
+.
+N
+
+
+wi
+
+
+Ein Lebensbild vom Herausgeber. [[p. 143]]
+
+
+ſtimmen konnte, ja daß ich kaum daran dachte, wird man mir zu⸗
+trauen. Ich meinte mit dem Leben abgeſchloſſen zu haben, ein
+Wahn, dem man in früher Jugend nach der erſten ſchmerzlichen
+Erfahrung ſich ſo leicht und gern überläßt. Ich durfte ſtolz dar⸗
+auf fein, dieſem Mann anzugehören und war es auch. Glühende
+Liebe heuchelte ich ihm ebenſo wenig, als er Anſpruch darauf
+machte.“
+
+Kurz nach der Verheirathung trat Johanna Schopenhauer
+die erſte große Reiſe mit ihrem wanderluſtigen Gatten an.
+Sie reiſten durch Belgien nach Paris und von dort nach Eng—
+land, wo der Erſtgeborene nach dem ausdrücklichen Wunſch ſeines
+Vaters das Licht der Welt erblicken ſollte, um die Rechte des In⸗
+digenats der großen Nation zu erwerben. Allein die plötzlich er-
+wachende Sorge für die junge Mutter ließ es nicht dazu kommen,
+und nach einer beſchwerlichen Heimreiſe im Winter erfolgte die er-
+ſehnte Geburt des Sohnes am 22. Februar 1788 zu Danzig. In
+Rückſicht auf die dereinſtige Firma des zum Kaufherrn beſtimmten
+Sprößlings ließ der Vater demſelben den Namen Arthur geben,
+weil dieſer Name in allen Sprachen der nämliche bleibt.
+
+Als mit der Blokade Danzigs 1793 die letzte Hoffnung auf
+die Erhaltung des kleinen Freiſtaates geſchwunden war, wanderten
+die Aeltern Schopenhauer's mit dem fünfjährigen Sohne nach
+Hamburg aus. Hier begann ein neues Leben der Familie. Aber
+die Wanderluſt der Ehegatten nahm zu; denn außer den regel-
+mäßigen Beſuchen der jungen Frau bei den Ihrigen in Danzig
+unterbrachen ihren zwölfjährigen hamburger Aufenthalt zahhlreiche
+größere und kleinere Touren. So kam die Familie ſchon während
+Arthur's Knabenalter mit vielen berühmten Zeitgenoſſen in per⸗
+ſönliche Berührung. Zu ihren merkwürdigen Bekanntſchaften der
+frühern Zeit gehören Klopſtock, Tiſchbein, Reimarus, Baron
+Stael, Madame Chevalier, Büſch, Graf Reinhard, Meisner aus
+
+
+r
+
+
+144 Arthur Schopenhauer.
+
+
+Prag, Feldmarſchall Kalckreuth, Sieveking, Lady Hamilton und
+Nelſon.
+
+Die weltmänniſche Ausbildung Arthur's war ein Nebenzweck
+dieſer Reiſen, den ſein Vater nie aus den Augen verlor. Schon
+mit neun Jahren nahm ihn dieſer mit nach Frankreich und ließ
+ihn dort bei einem Geſchäftsfreunde, Gregoire in Havre, zurück,
+wo der Knabe über zwei Jahre blieb und mit dem gleichalterigen
+Sohne des Hauſes Privatunterricht genoß. Dort verlebte er die
+glücklichſte Zeit ſeines Knabenalters. Nach Hamburg auf dem
+Seewege ohne Begleitung heimgekehrt, hatte er ſeine Mutterſprache
+faſt verlernt und konnte ſich nur allmählig wieder an die harten
+
+
+Klänge derſelben gewöhnen. Er trat nun in das Runge'ſche Pri⸗
+
+
+vatinftitut, wo die Söhne der angeſehenſten Familien ſeine Schul⸗
+genoſſen waren. In dieſer Zeit erwachte in Arthur die Neigung
+zur Wiſſenſchaft, was ſeinem Vater, der ihn zum Kaufmann be⸗
+ſtimmt hatte und dem die Gelehrtenlaufbahn unzertrennlich von der
+Dürftigkeit ſchien, gar nicht lieb war. Derſelbe bediente ſich daher
+folgender Liſt. Er benutzte des Knaben Sehnſucht nach ſeinem
+geliebten Freunde in Havre und ſeinen gleich mächtigen Drang,
+die Welt zu ſehen, indem er ihm die Alternative ſtellte, entweder
+ſofort ins Gymnaſium einzutreten, oder aber, auf die Gelehrten⸗
+laufbahn ein für allemal verzichtend, nach dem Genuſſe einer
+mehrjährigen Reiſe die Handlung zu erlernen. Dieſer Verſuchung
+konnte der funfzehnjährige Arthur nicht widerſtehen. Er reiſte im
+Frühjahr 1803 voller Erwartung der Dinge, die da kommen
+ſollten, mit den Aeltern ab. Von dieſer durch die Jahre 1803
+und 1804 ſich erſtreckenden Reiſe der Familie durch Belgien, Eng⸗
+land, Frankreich, die Schweiz und Deutſchland hat Johanna
+Schopenhauer ſpäter Beſchreibungen nach ihren Tagebüchern ge⸗
+liefert. Auch der Sohn wurde zur Führung eines Reiſejournals
+angehalten. ’ y
+
+In England blieben fie ſechs Monate und, während die Ael⸗
+
+
+Ein Lebensbild vom Herausgeber. [[p. 145]]
+
+
+tern verſchiedene Ausflüge nach dem Norden machten, wurde der
+Sohn in die Penſion eines Geiſtlichen zu Wimbledon bei London
+gebracht. Hier legte er den Grund zu feiner nachmaligen Ver—
+trautheit mit der engliſchen Sprache und Literatur, aber auch zu
+ſeinem Haß gegen die engliſche Bigoterie. Daneben trieb er ſein
+ſchon früh begonnenes Flötenſpiel und gymnaſtiſche Uebungen,
+verwandte auch viele Mühe auf die Aneignung einer geläufigen
+kaufmänniſchen Handſchrift.
+
+Mächtig wirkten auf den jungen Arthur die auf dieſer Reiſe
+empfangenen Natureindrücke, beſonders die der Alpen. In Cha-
+mouny quälte er ſeinen Vater, allein zurückbleiben zu dürfen.
+Die Nachwirkung dieſer Eindrücke iſt im dritten Buche der „Welt
+als Wille und Vorſtellung“ zu ſpüren.
+
+Man hat es für einen Bildungsſchaden erklärt, daß Schopen⸗
+hauer in den Jahren, die ſonſt für geregelten Unterricht beſtimmt
+ſind, ein unſtetes Reiſeleben führte. Das Vorüberfliegen an den
+Dingen ſei es, was namentlich in jungen Jahren die Reiſebildung
+zu einer oberflächlichen mache. Sie biete zu viel Reiz und laſſe
+zu wenig Raum für die geſammelte Rückwirkung der Seele. Die
+vorzeitige Ueberreizung hinterlaſſe leicht eine zwiſchen Ueberſpan⸗
+nung und Abſpannung auf- und abwogende Ungleichmüßigkeit der
+Stimmung, die einer wahrhaft gediegenen geiſtigen Bildung ebenſo
+ſehr entgegenſtehe, wie einer feſten Charakterbildung. (Vergl.
+„Arthur Schopenhauer als Menſch und Denker“ von Jürgen Bona
+Meyer. S. 13 fg.)
+
+Ich bin jedoch der Meinung, daß für einen Geiſt von
+Schopenhauer's Art die Nachtheile, die daraus entſprangen,
+daß er als Knabe nicht, wie andere Knaben, auf den Schul⸗
+bänken ſaß, bei weitem durch die Vortheile überwogen wur⸗
+den, die daraus entſprangen, daß er die Welt früher aus der An⸗
+ſchauung, als aus Büchern kennen lernte. Denn die gelehrte Bil⸗
+dung läßt ſich nachholen, und Schopenhauer hat ſie ſpäter reichlich
+
+Schopenhauer, Schriften zur Erkenntnißlehre. 10
+
+
+„
+
+
+146 Arthur Schopenhauer.
+
+
+nachgeholt; während der Schaden, der daraus entſpringt, daß der
+Kopf frühzeitig mit todten Begriffen und Regeln vollgepfropft
+wird, oft im ganzen ſpätern Leben nicht wieder auszubeſſern iſt.
+Ich erinnere in dieſer Hinſicht an Das, was Schopenhauer ſelbſt
+über Erziehung ſagt: „Bei der künſtlichen Erziehung wird, durch
+Vorſagen, Lehren und Leſen, der Kopf voll Begriffe gepfropft,
+bevor noch eine irgend ausgebreitete Bekanntſchaft mit der anſchau⸗
+lichen Welt da iſt. Die Anſchauungen zu allen jenen Begriffen
+ſoll nun die Erfahrung nachbringen: bis dahin aber werden die-
+
+
+ſelben falſch angewendet und demnach die Dinge und Menſchen
+
+
+falſch beurtheilt, falſch geſehen, falſch behandelt. So geſchieht es,
+daß die Erziehung ſchiefe Köpfe macht, und daher kommt es, daß
+wir in der Jugend, nach langem Leſen und Lernen, oft theils ein⸗
+fältig, theils verſchroben in die Welt treten und nun bald ängſt⸗
+
+
+lich, bald vermeſſen uns darin benehmen Dies iſt die Folge.
+
+
+jenes doregoy mporspov, durch welches wir, dem natürlichen Ent-
+wickelungsgange unſers Geiſtes gerade entgegen, zuerſt die Begriffe
+und zuletzt die Anſchauungen erhalten... Nachmals hat dann
+eine lange Erfahrung alle jene, durch falſche Anwendung der Be⸗
+griffe entſtandenen Urtheile zu berichtigen. Dies gelingt ſelten
+ganz. Daher haben ſo wenige Gelehrte den geſunden Menſchen—
+verſtand, wie er bei ganz Ungelehrten häufig iſt.“ (Parerga, II,
+§. 385.)
+
+Hätten, darf man wohl fragen, Schopenhauer's Werke jenen
+fie vor den Werken der Schulphiloſophen auszeichnenden Charak⸗
+ter, der das Wort hervorrief: „Ce n'est pas un philosophe
+comme les autres, c'est un philosophe, qui a vu le monde“,
+erlangt, wenn Schopenhauer die Knabenjahre, wie andere Knaben,
+auf den Schulbänken abgeſeſſen hätte?
+
+Im Herbſte 1804 begleitete Arthur ſeine Mutter wieder nach
+Danzig, wo er in derſelben Kirche, in der er die Taufe empfan⸗
+gen hatte, confirmirt wurden Im December kehrte er nach Ham⸗
+
+
+Ein Lebensbild vom Herausgeber. [[p. 147]]
+
+
+burg zurück und trat mit Neujahr 1805 in die kaufmänniſche
+Lehre beim Senator Jeniſch. Wenige Monate ſpäter erfolgte
+der plötzliche Tod ſeines Vaters durch Sturz aus einer hohen
+Speicheröffnung in den Kanal. Es ging das Gerücht, daß er
+wegen eingebildeter Vermögensverluſte freiwillig ſeinem Leben ein
+Ende gemacht. Er litt allerdings in den letzten Lebensjahren an
+krankhaften Beängſtigungen und war mit zunehmender Taubheit
+reizbarer und heftiger geworden.
+Dieſer Todesfall gab dem Lebenslauf Schopenhauer's eine
+Wendung, die von wichtigen Folgen wurde. Seine Mutter ſiedelte
+ſchon im nächſten Jahre nach Weimar über und wurde dort durch
+ihren Geiſt und ihre Liebenswürdigkeit bald mit allen Celebritäten
+der Stadt bekannt und befreundet. Sie genoß den Umgang der
+ausgezeichnetſten Männer, die theils zu Weimar lebten, theils durch
+die weimar'ſchen Größen dorthin gezogen wurden. Sie war wohl-
+habend genug geblieben, um bequem leben zu können, und beſaß
+Talente genug, um ihr Haus zum Mittelpunkt eines geiſtig be-
+deutenden geſelligen Kreiſes zu machen. Ihr Salon verſammelte
+wöchentlich zweimal Männer, wie Goethe, Wieland, Heinrich
+Meyer, Falk, Fernow, die beiden Bertuch, Zacharias Werner,
+Friedrich Majer, Froriep, St. Schütze, Riemer, Grimm, Fürſt
+Pückler, die beiden Schlegel und viele andere. Auch bei Hofe
+war ſie gern geſehen. Unter Allen am nächſten trat ihr Fernow,
+der auch auf unſern Arthur von großem Einfluß wurde. Mit
+Fernow's Biographie eröffnete Johanna Schopenhauer ihre litera—
+riſche Laufbahn. f
+Inzwiſchen hatte der Sohn, tief erſchüttert durch den plöß-
+lichen Tod des Vaters, aus Pietät für denſelben die verhaßte
+kaufmänniſche Laufbahn zwar fortgeſetzt, aber nur dem Scheine
+nach. In Wahrheit ging er heimlich feinen wiſſenſchaftlichen Nei-
+gungen nach. Es bemächtigte ſich ſeiner eine tiefe Melancholie,
+die in laute Klagen ausbrach. Die Mutter, Rath ſuchend, hatte
+10*
+
+
+1
+
+
+148 Arthur Schopenhauer.
+
+
+einen feiner Briefe ihrem Freunde Fernow mitgetheilt und dieſer
+ſchrieb ſofort, es ſei noch Zeit zur Umkehr, es ſei noch keines⸗
+wegs zu ſpät. Ein Strom von Thränen brach aus den Augen
+des Jünglings und ſein Entſchluß war ohne Zaudern gefaßt.
+Johanna ſetzte demſelben keinen Widerſtand entgegen, wünſchte viel⸗
+mehr dem Sohne Glück. Auf Fernow's Vorſchlag ließ ſie ihn
+nach Gotha ziehen, wo Jakobs und Döring lehrten. Letzterer
+führte Schopenhauer durch Privatunterricht raſch in die claſſiſchen
+Sprachen ein und hatte bald Anlaß, ihm der reißenden Fort⸗
+ſchritte wegen eine glänzende gelehrte Zukunft zu prophezeien.
+Jakobs war von der Reife ſeiner deutſchen Aufſätze überraſcht.
+Als jedoch Döring auf Anlaß ſpöttiſcher Bemerkungen Schopen⸗
+hauer's über einen Gymnaſialprofeſſor Schultz, die dieſem hinter⸗
+bracht worden waren, Schopenhauer'n den Privatunterricht auf⸗
+kündigte, wollte dieſer nicht länger am Gymnaſium zu Gotha
+bleiben und kehrte, nach einem nur halbjährigen Aufenthalte da⸗
+ſelbſt, Ende 1807 nach Weimar zurück. Er bereitete ſich daſelbſt
+durch Privatſtudium unter Paſſow's Leitung zur Univerſität vor.
+Jedoch zog er nicht in die Wohnung ſeiner Mutter, und zwar
+nach deren ausdrücklichem Willen. „Es iſt“, ſchrieb ſie ihm
+zuvor, „zu meinem Glücke nothwendig, zu wiſſen, daß Du
+glücklich biſt, aber nicht, ein Zeuge davon zu ſein. Ich habe Dir
+immer geſagt, es wäre ſehr ſchwer, mit Dir zu leben, und je näher
+ich Dich betrachte, deſto mehr ſcheint dieſe Schwierigkeit, für mich
+wenigſtens, zuzunehmen. Ich verhehle es Dir nicht, ſolange Du
+biſt, wie Du biſt, würde ich jedes Opfer eher bringen, als mich
+dazu entſchließen. Ich verkenne Dein Gutes nicht, auch liegt Das,
+was mich von Dir zurückſcheucht, nicht in Deinem Gemüth, nicht
+in Deinem innern, aber in Deinem äußern Weſen, Deinen An⸗
+ſichten, Deinen Urtheilen, Deinen Gewohnheiten, kurz ich kann
+mit Dir in nichts, was die Außenwelt angeht, übereinſtimmen;
+auch Dein Mißmuth, Deine Klagen über unvermeidliche Dinge,
+
+
+ae
+
+
+Ein Lebensbild vom Herausgeber. [[p. 149]]
+
+
+Deine finſtern Geſichter, Deine bizarren Urtheile, die wie Orakel⸗
+ſprüche von Dir ausgeſprochen werden, ohne daß man etwas da⸗
+gegen einwenden dürfte, drücken mich und verſtimmen meinen hei⸗
+tern Humor, ohne daß es Dir etwas hilft. Dein leidiges
+Disputiren, Deine Lamentationen über die dumme Welt und
+das menſchliche Elend machen mir ſchlechte Nacht und üble
+Träume.“
+
+Schopenhauer bereitete ſich in Weimar mit unermüdlichem Fleiße
+unter Paſſow's beſtändiger Aufſicht, in deſſen Hauſe er wohnte,
+für die Univerſität vor und bezog dann im Jahre 1809 die Uni-
+verſität Göttingen, wo er zuerſt Vorleſungen über Naturwiffen-
+ſchaften und Geſchichte hörte. Wie aus feinen nachgelaſſenen Col⸗
+legienheften hervorgeht, hörte er zu Göttingen 1809 bis 1811:
+Staatengeſchichte bei Heeren, Naturgeſchichte bei Blumenbach und
+Mineralogie bei demſelben, Chemie bei Strohmeyer, Phyſik bei
+Tobias Mayer, Botanik bei Schrader, Geſchichte der Kreuzzüge
+bei Heeren, Metaphyſik bei G. E. Schulze und Pſychologie bei .
+demſelben, phyſiſche Aſtronomie und Meteorologie bei Tobias
+Mayer, vergleichende Anatomie bei Blumenbach, Ethnographie bei
+Heeren und Reichsgeſchichte bei Lüder. Den Trieb zu philofo-
+phiren erweckten in ihm beſonders die Vorleſungen G. E.
+Schulze's, des Verfaſſers des „Aeneſidemus“, und entſchei—
+dend wurde hiebei Schulze's perſönlicher Rath, den Privatfleiß
+fürs Erſte ausſchließlich dem Studium Plato's und Kant's
+zuzuwenden und vor Bewältigung dieſer keinen Andern,
+namentlich nicht Ariſtoteles und Spinoza anzuſehen, — ein
+Rath, den genau befolgt zu haben Schopenhauer nie bereute und
+deſſen Wirkung in ſeinen Schriften zu ſpüren iſt. — Von Stu⸗
+diengenoſſen, mit denen Schopenhauer zu Göttingen verkehrte, ſind
+beſonders zu nennen Bunſen und ein Amerikaner, der nachmals
+
+ungeheuer reich geworden. „So verſchieden ſind die Lebenswege“,
+ſagte Schopenhauer in der Erinnerung an dieſe göttinger Commi⸗
+
+
+150 Arthur Schopenhauer.
+
+
+litonen; „der Eine ift Diplomat, der Andere Millionär, der Dritte
+Philoſoph geworden.“ i
+
+Im Herbſt 1811 ging Schopenhauer, durch Fichte's Ruf
+angelockt, nach Berlin, in der Erwartung, einen ächten Philoſophen
+und großen Geiſt an ihm kennen zu lernen. Doch wurde er bald
+enttäuſcht, und an die Stelle der Verehrung trat nun Gering-
+ſchätzung und Spott, obgleich der Curſus durchgemacht wurde.
+Schopenhauer hörte zu Berlin 1811—13 folgende Vorleſungen: Die
+Thatſachen des Bewußtſeins und die Wiſſenſchaftslehre bei Fichte,
+Experimentalchemie bei Klaproth, über Magnetismus und Elektri⸗
+eität bei Ermann, Ornithologie, Amphibiologie, Ichthyologie und
+über weißblütige Thiere bei Lichtenſtein, ſodann über Hausthiere
+bei demſelben, nordiſche Poeſie bei Rühs, Geſchichte der Philoſo⸗
+phie während der Zeit des Chriſtenthums bei Schleiermacher, Ge—
+ſchichte der griechiſchen Literatur bei Wolf, über die Wolken des
+Ariſtophanes bei demſelben, über die Satiren des Horaz bei dem⸗
+ſelben, über das Leben und die Schriften Plato's bei Böckh,
+
+
+Geognoſie bei Weiß, Zoologie bei Lichtenſtein und Entomologie
+
+
+bei demſelben, griechiſche Alterthümer bei Wolf, Phyſik bei Fiſcher,
+Aſtronomie bei Bode, allgemeine Phyſiologie bei Horkel.
+
+Die naturwiſſenſchaftlichen Studien Schopenhauer's zu Göt⸗
+tingen und Berlin wurden nachmals von wichtigem Einfluß auf
+ſeine ganze philoſophiſche Weltanſchauung und gaben derſelben
+jene gediegene empiriſche Grundlage, durch die ſie ſich vor
+den andern nachkantiſchen Syſtemen ſo vortheilhaft auszeichnet.
+Schopenhauer legte auch ſelbſt großen Werth auf feine natur-
+wiſſenſchaftlichen Univerſitätsſtudien. Denn in einem Briefe an
+mich vom 12. October 1852 ſchrieb er: „Phyſiologie iſt der
+Gipfel geſammter Naturwiſſenſchaft und ihr dunkelſtes Gebiet.
+
+
+Um davon mitzureden, muß man daher ſchon auf der Univerſität
+den ganzen Kurſus ſämmtlicher Naturwiſſenſchaften ernſtlich durch⸗
+
+
+gemacht und ſodann ſie das ganze Leben im Auge behalten haben.
+
+
+x
+—
+
+
+2
+
+
+Ein Lebensbild vom Herausgeber. [[p. 151]]
+
+
+Nur dann weiß man wirklich, wovon überall die Rede iſt: ſonſt
+nicht. So habe ich es gemacht, habe meine Anatomie unter
+Hempel und Langenbeck eifrig durchgemacht, ſodann über die Ana⸗
+tomie des Gehirns allein ein eigenes Collegium bei Roſenthal,
+im anatomiſchen Theater der Pépiniére in Berlin gehört, habe
+3 Mal Chemie, 3 Mal Phyſik, 2 Mal Zoologie, vergleichende
+Anatomie, Mineralogie, Botanik, Phyſiologie, allgemeine Detto,
+Geographie, Aſtronomie u. ſ. w. gehört, dann mein ganzes Leben
+hindurch die Fortſchritte aller dieſer Wiſſenſchaften beobachtet und
+die Hauptwerke, beſonders der Franzoſen und Engländer, ſtudirt,
+
+
+wie die Exemplare mit Gloſſen in meiner Bibliothek bezeugen.
+
+
+Darum kann ich mitreden und hab's mit Ehren gethan. Im
+Jahre 1824 gab die Münchener Akademie eine kurze Darſtellung
+der Fortſchritte der Phyſiologie in dieſem Jahrhundert heraus,
+darin ſie bei den Fortſchritten der Sinneswerkzeuge bloß mich und
+Purkinje nennt. Ueberhaupt zeugen meine Werke von gründlichem
+Naturſtudio, wären auch ſonſt unmöglich.“ N
+
+Schopenhauer nennt in dieſem Briefe auch noch diejenigen
+franzöſiſchen und engliſchen Naturforſcher, deren Werke er zum
+beſondern Gegenſtand ſeines Studiums gemacht und auf die er
+beſondern Werth legt. Es ſind Bichat, Cabanis, Magendie,
+Flourens, Ch. Bell und Marſhal Hall.
+
+Wie Schopenhauer die Bücher, die er las, mit Rand-
+gloſſen zu verſehen pflegte, ſo verſah er mit ſolchen auch ſchon
+ſeine auf der Univerſität nachgeſchriebenen Collegienhefte, und dieſe
+zeugen ſchon von ſeinem kritiſchen Geiſte und von der Selbſtſtän⸗
+digkeit ſeines Urtheils. Aehnlich auch, wie er ſpäter auf den
+Titel feiner Druckſchriften oder auf einzelne Abtheilungen der—
+ſelben Mottos ſetzte, ſetzte er ſolche auch ſchon auf den Titel
+ſeiner Collegienhefte. Einiges dieſer Art mag, da es ſeinen Geiſt
+charakteriſirt, hier ſtehen. Auf dem Titelblatt des Collegienheftes
+über „Die Thatſachen des Bewußtſeins und die Wiſſenſchaftslehre
+
+
+152 Arthur Schopenhauer.
+
+
+bei Fichte im Winter 1811—1812“ ift zu dem Worte „Wiſſen⸗
+ſchaftslehre“ an den Rand geſchrieben: „Vielleicht iſt die richtige
+Lesart Wiſſenſchafts leere.“ Auf der Rückſeite des Titelblattes
+ſtehen zwei bezeichnende Mottos aus Kant und Goethe. Das
+erſtere, aus Kant's „Verkündigung des ewigen Friedens in der
+Philoſophie“ lautet: „Die Lüge (vom Vater der Lügen, durch
+den alles Böſe in die Welt gekommen iſt) iſt der eigentliche faule
+Fleck in der menſchlichen Natur; ſo ſehr auch zugleich der Ton
+der Wiſſenſchaftlichkeit (nach dem Beiſpiel mancher chineſiſchen
+Krämer, die über ihren Laden die Aufſchrift mit goldenen Buch⸗
+ſtaben ſetzen: „hier betrügt man nicht“) vornehmlich in dem, was
+das Ueberſinnliche betrifft, der gewöhnliche Ton iſt.“ Das Motto
+aus Goethe iſt das bekannte: „Gewöhnlich glaubt der Menſch,
+wenn er nur Worte hört, es müſſe ſich dabei doch auch was
+denken laſſen.“ Zu dieſen Vorleſungen über die „Wiſſenſchafts⸗
+lehre“, die in dem Collegienhefte in „Protokolle“ eingetheilt ſind,
+ſetzte Schopenhauer gleich an den Rand des erſten Protokolls:
+„Though this be madness, yet there's method in it.“,
+
+Ueber Fichte's Vortrag bemerkt Schopenhauer in einer Rand⸗
+gloſſe: „Fichte's Vortrag iſt wohl deutlich und er ſpricht langſam,
+doch verweilt er mir oft zu lange auf leicht zu verſtehenden Dingen
+und wiederholt ſie mit andern Worten, ſo daß die Aufmerkſamkeit
+ermüdet, das ſchon Begriffene noch länger anzuhören und man
+eben dadurch zerſtreut wird.“
+
+Eine ſehr lange Randgloſſe widerlegt Fichte's Entgegenſetzung
+von Genie (als göttlich) und Wahnſinn (als thieriſch). Scho⸗
+penhauer zeigt hingegen die Verwandtſchaft zwiſchen Genie und
+Wahnſinn, und es findet ſich in dieſer Randgloſſe ſchon die ſpä⸗
+tere Lehre Schopenhauer's vom Genie im Keime. Am König Lear
+und am Ta ſſo erläutert Schopenhauer die Verwandtſchaft zwiſchen
+Genie und Wahnſinn. Nicht der Wahnſinn, wohl aber der Blöd⸗
+ſinn nähert nach dieſer Randgloſſe den Menſchen dem Thiere.
+
+
+ha 2 or
+
+
+Ein Lebensbild vom Herausgeber. [[p. 153]]
+
+
+So wenig, als Fichte, ſo wenig konnte Schleiermacher dem
+jungen Schopenhauer imponiren. Schleiermacher hatte in einer
+der erſten Vorleſungen „Ueber Geſchichte der Philoſophie zur
+Zeit des Chriſtenthums“ (1812) geſagt: „Die Philoſophie hat
+mit der Religion gemein das Wiſſen von Gott.“ Hiezu bemerkt
+Schopenhauer in ſeinem Collegienheft: „Dann müßte ja die Phi⸗
+loſophie den Begriff eines Gottes vorausſetzen, den ſie vielmehr,
+nachdem ihr Fortgang es bringen wird, gewinnen oder verwerfen
+ſoll, zu beidem gleich bereit.“ Schleiermacher hatte ferner ge⸗
+ſagt: „Philoſophie und Religion können nicht ohne einander be—
+ſtehen. Keiner kann Philoſoph ſein, ohne religiös zu ſein. Um⸗
+gekehrt muß der Religiöſe ſich wenigſtens die Aufgabe der Philo-
+ſophie machen.“ Hiegegen bemerkt Schopenhauer: „Keiner, der
+religiös iſt, gelangt zur Philoſophie, er braucht ſie nicht. Keiner,
+der wirklich philoſophirt, iſt religibs: er geht ohne Gängelband,
+gefährlich, aber frei.“
+
+Im Jahre 1813 bereitete ſich Schopenhauer für die Doctor—
+promotion in Berlin vor. Der Krieg hinderte jedoch die Aus—
+führung dieſes Planes. Er zog ſich nach Rudolſtadt zurück und
+arbeitete dort in der Abgeſchiedenheit die Abhandlung „Ueber die
+vierfache Wurzel des Satzes vom zureichenden Grunde“ aus. Für
+dieſe Abhandlung wurde er von der philoſophiſchen Facultät zu
+Jena in absentia promovirt. Darauf brachte er den Winter in
+Weimar zu, wo ihn Goethe an ſich heranzog, ihn in feine „Far⸗
+benlehre“ mit Vorzeigung ſeiner Experimente einweihte und ihn des
+nähern Umgangs würdigte, der ſo vertraut wurde, wie es ein
+Altersunterſchied von neun und dreißig Jahren irgend zuließ.
+Kaum minder, als dieſer Umgang, ward von weſentlichem Einfluß
+auf Schopenhauer zu Weimar der Umſtand, daß ihn der Orien⸗
+taliſt Friedrich Majer in das indiſche Alterthum einführte. Von
+daher ſchreibt ſich die hohe Verehrung Schopenhauer's für die
+heiligen Schriften der Hindu und die Verwandtſchaft ſeiner Phi⸗
+
+
+154 Arthur Schopenhauer.
+
+
+loſophie mit dem Brahmanismus und Buddhaismus. Schopen⸗
+hauer hat ſpäter ſelbſt bekannt, daß er das Beſte ſeiner Ent⸗
+wickelung, nächſt dem Eindrude der anſchaulichen Welt, ſowohl
+dem der Werke Kant's, als dem der heiligen Schriften der Hindu
+und dem Plato verdanke. (Welt als Wille und Vorſt., I, 493.)
+An einer Stelle ſeiner nachgelaſſenen Manuſcripte ſchreibt er
+(Dresden 1816): „Ich geſtehe, daß ich nicht glaube, daß meine
+Lehre je hätte entſtehen können, ehe die Upaniſchaden, Plato und
+Kant ihre Strahlen zugleich in eines Menſchen Geiſt werfen
+konnten. Aber freilich ſtanden, wie Diderot ſagt, viele Säulen
+da, und die Sonne ſchien auf alle: doch nur Memnon's Säule
+klang.“
+
+Die Verhältniſſe im Hauſe ſeiner Mutter zu Weimar miß⸗
+fielen jedoch Schopenhauer und die Entfremdung zwiſchen ihr und
+ihm, die ſich ſchon früher geäußert hatte, trat immer mehr her⸗
+vor. Er warf ihr vor, das Andenken ſeines Vaters, für den er
+große Pietät hegte, nicht geehrt zu haben. „Ich und Du ſind
+zwei!“ pflegte er ihr manchmal in der Verſtimmung zu ſagen.
+Ju der That war auch die Lebensanſchauung und das Streben
+Beider zu verſchieden, als daß zwiſchen ihnen Sympathie hätte
+aufkommen können. Schopenhauer fühlte ſich in dem Salon der
+Mutter nicht heimiſch. Ihr ſchöngeiſtiges Thun und Treiben und
+ihr Hang zur Verſchwendung ſtießen ihn ab. Sie ihrerſeits
+hatte kein Verſtändniß für des Sohnes Weſen und Bedeutung.
+Als er ihr die „Vierfache Wurzel“ überreichte und ſie den Titel
+geleſen hatte, ſpottete ſie, das ſei wohl ein Buch für Apotheker.
+„Man wird es noch leſen“, erwiderte er, „wenn von Deinen
+Schriften kaum mehr ein Exemplar in einer Rumpelkammer ſtecken
+wird.“ Sie entgegnete: „Von den Deinigen wird die ganze Auf-
+lage noch zu haben ſein.“ (In den Memoiren Anſelm's von
+Feuerbach, zu Leipzig 1852 erſchienen, findet ſich über Schopen⸗
+hauer's Mutter, die A. von Feuerbach 1815 zu Karlsbad kennen
+
+
+Ein Lebensbild vom Herausgeber. [[p. 155]]
+
+
+lernte, Folgendes: „Hofräthin Schopenhauer, eine reiche Witwe.
+Macht von der Gelehrſamkeit Profeſſion, Schriftſtellerin. Schwatzt
+viel und gut, verſtändig, ohne Gemüth und Seele. Selbſtgefällig,
+nach Beifall haſchend und ſtets ſich ſelbſt belächelnd. Behüte uns
+Gott vor Weibern, deren Geiſt zu lauterm Verſtande aufgeſchoßt
+iſt. Der Sitz ſchöner weiblicher Bildung iſt allein in des Weibes
+Herzen.“ Dieſe Charakteriſtik ſeiner Mutter nannte Schopen—
+hauer, dem ich ſie mitgetheilt hatte, in einem Briefe an mich vom
+12. Juli 1852 „nur gar zu treffend“. )
+
+An ein einträchtiges Zuſammenleben eines ſolchen Sohnes
+mit einer ſolchen Mutter war nicht zu denken. Schopenhauer
+fürchtete, das väterliche Vermögen unter den Händen ſeiner Mutter
+noch ganz ſchwinden und ſich in die harte, ihn ſeinem höhern
+Berufe entfremdende Lage verſetzt zu ſehen, für den Erwerb
+arbeiten zu müſſen, wozu er ſich gänzlich unfähig fühlte. Es
+kam zu heftigen Auftritten zwiſchen Mutter und Sohn. Dieſer
+trennte ſeine Sache von der ſeiner Mutter.
+
+Anders dagegen war das Verhältniß Schopenhauer's zu
+ſeinem Vater. Stets hegte er für dieſen große Dankbarkeit, weil
+derſelbe es durch ſeine Fürſorge ihm möglich gemacht hatte, frei
+von erniedrigenden Sorgen um das tägliche Brod, ſich ganz ſeinem
+philoſophiſchen Berufe widmen zu können. Dieſer Dankbarkeit gab
+er einen ſchönen Ausdruck in einer beabſichtigten „Dedication“
+der zweiten Auflage der „Welt als Wille und Vorſtellung“ an
+die Manen ſeines Vaters, welche ich in einem ſeiner hinterlaſſenen
+Manuſcripten⸗Bücher (Berlin 1821) gefunden habe. Dieſe iſt zu
+charakteriſtiſch, um fie nicht hier mitzutheilen. Sie lautet:
+
+„Dedication der zweiten Ausgabe, den Manen meines
+Vaters, des Kaufmanns Heinrich Floris Schopenhauer:
+
+„Edler, wohlthätiger Geiſt! dem ich alles danke, was ich
+bin. Deine waltende Vorſorge hat mich geſchirmt und getragen,
+nicht bloß durch die hülfloſe Kindheit und unbedachtſame Jugend,
+
+
+156 Arthur Schopenhauer.
+
+
+ſondern auch in's Mannesalter und bis auf den heutigen Tag.
+Denn, indem Du einen Sohn, wie ich bin, in die Welt ſetzteſt,
+ſorgteſt Du zugleich dafür, daß er auch als ein ſolcher in einer
+Welt, wie dieſe iſt, beſtehn und ſich entwickeln konnte. Und ohne
+dieſe Deine Fürſorge wäre ich hundert Mal zu Grunde gegangen.
+Meinem Geiſt war die Richtung zu der ihm allein angemeſſenen
+Beſchäftigung zu entſchieden eingepflanzt, als daß ich hätte ſeiner
+Natur Gewalt anthun und ihn dahin bändigen können, daß er
+unbekümmert um das Daſeyn überhaupt und nur für das Daſeyn
+meiner Perſon wirkſam, das tägliche Brod herbeizuſchaffen ſich
+zur einzigen Aufgabe hätte machen können. Du ſcheinſt auch auf
+dieſen Fall bedacht geweſen zu ſeyn und dabei vorhergeſehn zu
+haben, daß er nicht eben geeignet ſeyn möchte, die Erde zu ackern,
+oder ſonſt durch ein mechaniſches Gewerbe ſeine Kräfte zur Siche—
+rung ſeiner Subſiſtenz zu verwenden, und ſcheinſt vorhergeſehn zu
+haben, daß Dein Sohn, Du ſtolzer Republikaner, nicht das Ta⸗
+lent würde haben können, wetteifernd mit médiocre et rampant,
+vor Miniſtern und Räthen, Mäcenen und ihren Rathgebern zu
+kriechen, um ein ſauer abzuverdienendes Stück Brod erſt nieder⸗
+trächtig zu erbetteln, oder der ſich blähenden Mittelmäßigkeit zu
+ſchmeicheln und demüthig ſich dem lobpreiſenden Gefolge ſcharla—
+taniſcher Pfuſcher anzuſchließen; daß er vielmehr als Dein Sohn
+auch mit Deinem verehrten Voltaire denken würde: nous n'avons
+que deux jours à vivre: il ne vaut pas la peine de les passer
+a ramper devant des coquins méprisables.
+
+„Daher weihe ich Dir mein Werk und rufe Dir im Grabe
+den Dank nach, den ich einzig Dir und keinem Andern ſchuldig
+bin. Nam Caesar nullus nobis hae otia fecit.
+
+„Daß ich die Kräfte, die mir die Natur gab, ausbilden und
+zu dem verwenden konnte, wozu ſie beſtimmt waren, daß ich dem
+angeborenen Triebe folgen und für Unzählige denken und arbeiten
+konnte, während Keiner für mich etwas that: Das danke ich Dir,
+
+
+1
+
+
+a
+
+
+anne
+
+
+Ein Lebensbild vom Herausgeber. [[p. 157]]
+
+
+mein Vater, danke es Deiner Thätigkeit, Deiner Klugheit, Deiner
+Sparſamkeit und Sorgfalt für die Zukunft. Darum ſei Du mir
+geprieſen, mein edler Vater! Und Jeder, der an meinem Werk
+irgend eine Freude, Troſt oder Belehrung findet, ſoll Deinen Na-
+men vernehmen und wiſſen, daß, wenn Heinrich Floris Schopen—
+hauer nicht der Mann geweſen wäre, der er war, Arthur Scho—
+penhauer hundert Mal zu Grunde gegangen wäre. Und ſo laß
+meine Dankbarkeit das Einzige thun, was ich für Dich, der Du
+vollendet haſt, vermag: laß ſie Deinen Namen ſo weit bringen,
+als meiner ihn zu bringen im Stande iſt.“ —
+
+Da nun, wie ſchon oben geſagt iſt, an ein Zuſammenleben
+Schopenhauer's mit ſeiner Mutter nicht zu denken war, ſo verließ
+er im Frühjahr 1814 Weimar wieder und ſiedelte nach Dresden
+über, wo er 1814— 1818 privatiſirte, die Bibliothek und die Kunſt⸗
+ſammlungen zu vielſeitigen Studien benutzte, das Theater beſuchte
+und in der ſchönen Natur ſeinen eigenen Gedanken nachhing.
+Manche Aufzeichnungen aus jener Zeit zeigen, wie dies Alles auf
+ihn gewirkt hat. „Mit einem Kunſtwerk“, ſchrieb er zu Dres-
+den 1814, „muß man ſich verhalten, wie mit einem großen Herrn,
+nämlich ſich davor hinſtellen und warten, daß es Einem etwas
+ſage.“ Auf dem Geſichte des Apolls von Belvedere las er „den
+
+
+gerechten und tiefgefühlten Unwillen des Muſengottes über die
+
+
+Erbärmlichkeit und gänzliche, nicht zu beſſernde Verkehrtheit der
+Philiſter. Auf dieſe hat er ſeine Pfeile geſendet, um die Brut
+der ewig Abgeſchmackten zu vertilgen.“ Auf die Sixtiniſche Ma⸗
+donna dichtete er (Dresden 1815) folgende Verſe:
+
+Sie trägt zur Welt ihn: und er ſchaut entſetzt
+
+In ihrer Gräu'l chaotiſche Verwirrung,
+
+In ihres Tobens wilde Raſerei,
+
+In ihres Treibens nie geheilte Thorheit,
+
+In ihrer Quaalen nie geſtillten Schmerz, —
+
+Entſetzt: doch ſtrahlet Ruh' und Znuverſicht
+
+Und Siegesglanz ſein Aug', verkündigend
+
+Schon der Erlöſung ewige Gewißheit.
+
+
+158 Arthur Schopenhauer.
+
+
+Das Theater veranlaßte ihn zu folgender Bemerkung (Dresden
+1815): „Da die Schauſpielkunſt nur für den Augenblick wirkt,
+ſo iſt kein Kunſtgenuß ſeltener; weil er nur durch die wirkliche
+lebendige Gegenwart eines Menſchen von großem Talent zu er⸗
+langen ift: daher kommt es, daß die übrigen Künſte, deren Treff-
+liches dauert, immer Etwas aufzuweiſen haben, die Schauſpiel⸗
+kunſt aber ſelten; vielmehr zeigt ſich in ihr, faſt ſo oft ſie auf⸗
+tritt, recht grell die Unfähigkeit der Menſchen zum Vortrefflichen.“
+
+Was aber wichtiger iſt, als alles dieſes, zu Dresden (1815)
+verfaßte Schopenhauer ſeine optiſche Abhandlung „Ueber das
+Sehn und die Farben“, von welcher Goethe das Manuſcript
+auf ſeiner Rheinreiſe mit ſich führte, und die 1816 erſchien.
+Ferner ſchrieb er zu Dresden 1814 — 1818 die Gedanken einzeln
+nieder, aus denen ſein Syſtem hervorging, von dem er ſelbſt ſagt,
+daß es „gewiſſermaaßen ohne ſein Zuthun ſtrahlenweiſe wie ein
+Kryſtall zu einem Centro convergirend ſo zuſammenſchoß, wie er es
+in ſeinem Hauptwerk niedergelegt hat.“
+
+Dieſe zu Dresden 1814— 1818 aphoriſtiſch ulebergeitjäiehenn
+Gedanken befinden ſich in Schopenhauer's Nachlaß. Die „Welt
+als Wille und Vorſtellung“ iſt in ihnen in ihrer primitivſten, fri⸗
+ſcheſten Geſtalt, wenngleich ungeordnet, enthalten. Schopenhauer
+
+
+hat ſpäter ſelbſt von dieſen Manuferipten geſagt: „Dieſe zu Dres-
+
+
+den in den Jahren 1814 — 1818 geſchriebenen Bogen zeigen den
+Gährungsproceß meines Denkens, aus dem damals meine ganze
+Philoſophie hervorging, ſich nach und nach daraus hervorhebend,
+wie aus dem Morgennebel eine ſchöne Gegend. Bemerkenswerth
+iſt dabei, daß ſchon im Jahre 1814 (meinem 27. Jahre) alle
+Dogmen meines Syſtems, ſogar die untergeordneten, ſich feſt⸗
+ſtellten.“
+
+Schon zu Berlin 1813 fühlte er ein Syſtem in ſich erwach⸗
+ſen, wie folgende charakteriſtiſche Stelle aus ſeinen nachgelaſſenen
+Erſtlingsmanuſcripten beweiſt: +
+
+
+anne.
+
+
+Ein Lebensbild vom Herausgeber. [[p. 159]]
+
+
+„Unter meinen Händen und vielmehr in meinem Geiſte er—
+wächſt ein Werk, eine Philoſophie, die Ethik und Metaphyſik in
+Einem ſeyn ſoll, da man ſie bisher trennte ſo fälſchlich, als den
+Menſchen in Seele und Körper. Das Werk wächſt, concrescirt
+allmälig und langſam, wie das Kind im Mutterleibe: ich weiß
+nicht, was zuerſt und was zuletzt entſtanden iſt. Ich werde ein
+Glied, ein Gefäß, einen Theil nach dem andern gewahr, d. h.
+ich ſchreibe auf, unbekümmert, wie es zum Ganzen paſſen wird:
+denn ich weiß, es iſt Alles aus Einem Grund entſprungen. So
+entſteht ein organiſches Ganzes, und nur ein ſolches kann leben.
+
+„Ich, der ich hier ſitze, und den meine Freunde kennen, be—
+greife das Entſtehen des Werkes nicht, wie die Mutter das des
+Kindes in ihrem Leibe nicht begreift. Ich ſehe es an und ſpreche,
+wie die Mutter: „Ich bin mit Frucht geſegnet.“ Mein Geiſt
+nimmt Nahrung aus der Welt durch Verſtand und Sinne; dieſe
+
+
+Nahrung giebt dem Werk einen Leib; doch weiß ich nicht, wie,
+
+
+noch warum bei mir und nicht bei Andern, die dieſelbe Nahrung
+haben.
+
+„Zufall, Beherrſcher dieſer Sinnenwelt! laß mich leben und
+Ruhe haben noch wenige Jahre! denn ich liebe mein Werk, wie
+die Mutter ihr Kind. Wenn es reif und geboren ſeyn wird;
+dann übe dein Recht an mir und nimm Zinſen des Aufſchubs. —
+Gehe ich aber früher unter in dieſer eiſernen Zeit, o ſo mögen
+dieſe unreifen Anfänge, dieſe meine Studien der Welt gegeben
+werden, wie ſie ſind: dereinſt erſcheint vielleicht ein verwandter
+Geiſt, der die Glieder zuſammenzuſetzen verſteht und die Antike
+reſtaurirt.“
+
+Nun, es war Schopenhauer vergönnt, ſelbſt die Glieder zu-
+ſammenzuſetzen. Im April 1818 ſchloß er mit dem Buchhändler
+Friedrich Arnold Brockhaus einen Verlags-Contract über „Die
+Welt als Wille und Vorſtellung“ ab. In dieſem Contract wurde
+„das Honorar zu einem Dukaten für den gedruckten Bogen“ feſt⸗
+
+
+160 Arthur Schopenhauer.
+
+
+geſetzt. Der Verleger mußte ſich verpflichten, „dieſer Unternehmung
+gegen Niemanden zu erwähnen, und ſoll das Publicum durch ihn
+erſt im Michael⸗Meß⸗Catalog davon in Kenntniß geſetzt werden“.“)
+
+
+|
+
+
+) Näheres über die Verhandlungen zwiſchen Schopenhauer und Friedrich
+Arnold Brockhaus über die erſte Auflage der „Welt als Wille und Vor⸗
+ſtellung“, ſo wie über die Schickſale dieſer erſten Auflage finden wir in
+dem Werke: „Friedrich Arnold Brockhaus. Sein Leben und Wirken nach
+Briefen und andern Aufzeichnungen geſchildert von ſeinem Enkel Heinrich
+Eduard Brockhaus (Leipzig, F. A. Brockhaus, 1876), Theil II, S. 349—362. —
+Der in dieſem Werke mitgetheilte Brief Schopenhauer's an Friedrich Arnold
+Brockhaus, in welchem er demſelben die „Welt als Wille und Vorſtellung“
+zum Verlag anbot (Dresden, den 28. März 1818), iſt zu charakteriſtiſch,
+als daß ich nicht das Weſentliche aus demſelben hier mittheilen ſollte. Es lautet:
+
+„Da mir Herr von Biedenfeld gejagt hat, daß Sie, auf eine vor⸗
+läufige Anfrage, nicht abgeneigt wären, ein Manufeript von mir zu drucken;
+ſo nehme ich mir die Freiheit Ihnen näher anzugeben, wovon die Rede iſt.
+
+„Ich will nämlich zur nächſten Michaelis-Meſſe ein philoſophiſches Werk
+erſcheinen laſſen, an welchem ich hier ſeit vier Jahren unabläſſig gearbeitet
+habe. — Es wäre nun einerſeits ſehr am unrechten Ort, dem Verleger
+gegenüber als Schriftſteller den Beſcheidenen ſpielen zu wollen: anderer-
+ſeits iſt es überall unrecht den Charlatan zu machen. Daher will ich Ihnen
+zugleich offen und gewiſſenhaſt über mein Werk dasjenige ſagen, woran
+Ihnen, meines Erachtens, gelegen ſeyn kann. Zugleich aber nehme ich Ihnen,
+als einem Mann von Ehre, hiermit das Verſprechen ab, das Geſagte ſtreng
+zu verſchweigen, ſogar den Titel des Buchs, welchen Niemand früher als
+aus dem Meßkatalog erfahren ſoll.
+
+„Mein Werk alſo iſt ein neues philoſophiſches Syſtem: aber neu im
+ganzen Sinn des Worts: nicht neue Darſtellung des ſchon Vorhandenen:
+ſondern eine im höchſten Grad zuſammenhangende Gedankenreihe, die bisher
+noch nie in irgend eines Menſchen Kopf gekommen. Das Buch, in welchem
+ich das ſchwere Geſchäft, ſie Andern verſtändlich mitzutheilen, ausgeführt
+habe, wird, meiner feſten Ueberzeugung nach, eines von denen ſeyn, welche
+nachher die Quelle und der Anlaß von hundert andern Büchern werden.
+Jene Gedankenreihe war, dem Weſentlichen nach, ſchon vor 4 Jahren in
+meinem Kopfe vorhanden: aber um ſie zu entwickeln und ſie durch un⸗
+zählige Aufſätze und Studien mir ſelber vollkommen deutlich zu machen,
+bedurfte es ganzer 4 Jahre, in welchen ich mich ausſchließlich damit und
+
+
+Ein Lebensbild vom Herausgeber. [[p. 161]]
+
+
+Sobald das Manuſcript dem Verleger übergeben war, reiſte
+Schopenhauer (im Herbſt 1818) nach Italien. Mit welchem
+ſtolzen Selbſtgefühl er nach Italien ging, davon können folgende,
+auf der Reiſe von Neapel nach Rom (im April 1819) gedich-
+teten Verſe Zeugniß geben:
+
+
+mit den dazu gehörigen Studien fremder Werke beſchäftigt habe. Vor einem
+Jahre fing ich an das Ganze in zuſammenhangendem Vortrag für Andere
+faßlich zu machen, und bin damit eben jetzt fertig geworden. Dieſer Vor—
+trag ſelbſt iſt gleich fern von dem hochtönenden, leeren und ſinnloſen Wort—
+ſchwall der neuen philoſophiſchen Schule und vom breiten platten Ge—
+ſchwätze der Periode vor Kant: er iſt im höchſten Grade deutlich, faßlich,
+dabei energiſch und ich darf wohl ſagen nicht ohne Schönheit: nur wer
+ächte eigene Gedanken hat, hat ächten Stil. Der Werth, den ich auf meine
+Arbeit lege, iſt ſehr groß: denn ich betrachte ſie als die ganze Frucht meines
+Daſeyns. Der Eindruck nämlich, welchen auf einen individuellen Geiſt die
+Welt macht, und der Gedanke, durch welchen der Geiſt, nach erhaltener Bil—
+dung, auf jenen Eindruck reagirt, iſt allemal nach zurückgelegtem dreißigſten
+Jahre da, vorhanden und geſchehen: alles Spätere ſind nur Entwickelungen
+und Variationen deſſelben. Iſt nun dieſe Reaktion, dieſer Gedanke, ein
+vom gewöhnlichen, wie er ſich täglich in Millionen Individuen wiederholt,
+verſchiedener und wirklich eigenthümlicher; ſo kann nun auch das Werk, in
+welchem er ſich ausſpricht und mittheilt, ſogleich vollendet werden, ſobald
+nur ein günſtiges Geſchick die Muße, die innere und äußere Ruhe dazu
+giebt. Dies iſt nun, wie ich glaube, mein Fall geweſen. Wollte ich dem⸗
+nach, gemäß dem Werthe, welchen ich auf mein Werk lege, meine Forderungen
+an Sie abmefjen, fo würden dieſe außerordentlich, ja unerſchwingbar aus-
+fallen. Sogar aber wenn ich auch nur nach dem Werthe, den, meines
+Erachtens, das Manufeript für den Verleger haben wird, die Forderungen
+machen wollte, würden ſie ſchon ſtark ſeyn. Allein auch dieſes werde ich
+nicht, weil ich nicht verlangen kann, daß Sie alles Geſagte mir auf mein
+Wort glauben, ſondern Sie natürlich argwöhnen müſſen, ich ſei durch Eigen-
+liebe beſtochen. Dies annehmend bequeme ich mich von der Rückſicht aus⸗
+zugehen, daß mein Name noch ſehr wenig bekannt iſt, und daß ein philo—
+ſophiſches Werk, ſolange es keinen Ruhm erlangt hat, vor's Erſte kein
+großes Publikum findet, wiewohl nachher ein deſto größeres. Hierauf alſo
+gründen ſich folgende höchſt billige Forderungen.“
+Und nun folgen die Forderungen, die er an den Verleger ſtellt.
+Schopenhauer, Schriften zur Erkenntnißlehre. 11
+
+
+162 Arthur Schopenhauer.
+
+
+Aus langgehegten, tiefgefühlten Schmerzen
+Wand ſich's empor aus meinem innern Herzen.
+Es feſtzuhalten hab' ich lang' gerungen:
+
+Doch weiß ich, daß zuletzt es mir gelungen.
+Mögt euch drum immer wie ihr wollt gebärden:
+Des Werkes Leben könnt ihr nicht gefährden.
+Aufhalten könnt ihr's, nimmermehr vernichten:
+Ein Denkmal wird die Nachwelt mir errichten.
+
+
+In Rom verblieb Schopenhauer vier Monate. In Neapel ver⸗
+kehrte er viel mit jungen Engländern. Doch überall hin begleitete
+ihn das Gefühl ſeiner Heterogeneität und Fremdheit unter den
+Menſchen, ſowie auch feine peſſimiſtiſche Welt- und Lebensanſicht,
+wovon die Aufzeichnungen in ſeinen hinterlaſſenen, auf dieſer und
+der zweiten italieniſchen Reife (1822—24) geſchriebenen Manuſcript⸗
+büchern zeugen.
+
+Eine im Vatican geſehene Büſte des Bias mit der Inſchrift
+„ol mAsroror avSporor xaxcı“ beſtätigte ihm ſeinen Peſſimismus.
+Ein im Schloß Capo di Monte geſehenes Bild beſtätigte ihm
+ſeine Erklärung des Weinens als eines aus dem Mitleid mit
+ſich ſelbſt entſpringenden Phänomens. (Vergl. Welt als Wille
+u. Vorſt., I, $. 67 und II, Kap. 47.) Er ſchrieb nämlich zu
+Neapel im März 1819: „Nie iſt das Weinen richtiger angebracht
+worden, als wo Homer den Odyſſeus weinen läßt, beim Phäaken⸗
+König Alkinoos, wo er unerkannt feine eigene Leidensgeſchichte vom
+Goldos abſingen hört; denn hier tritt im höchſten Grade das Mit-
+leid gegen ſich ſelbſt hervor. — Im Schloß Capo di Monte iſt
+ein ſchönes Bild dieſer Scene, von einem jungen Venetianer,
+Namens Azis.“
+
+Schopenhauer's Aufzeichnungen während der beiden italieniſchen
+Reiſen zeigen, wie Land und Leute, wie Natur und Kunſt auf ihn
+gewirkt. Sie enthalten Notizen über Geſehenes, namentlich über
+Werke der Architektur und der bildenden Künſte, und dann wieder
+die äſthetiſchen Betrachtungen, zu denen das Geſehene ihn angeregt
+
+hat, z. B. über Allegorie, über den Unterſchied zwiſchen Sculptur
+
+
+ee
+
+
+*
+
+
+F 2 —
+
+
+U
+
+
+r
+
+
+n
+
+
+Ein Lebensbild vom Herausgeber. [[p. 163]]
+
+
+und Malerei, über Gartenkunſt, — Aufzeichnungen, die Schopen⸗
+hauer ſpäter für die zweite Auflage der „Welt als Wille und
+Vorſtellung“ benutzt hat. Auch zu allgemeinen Betrachtungen über
+das Reiſen, über Nationalfehler, über Kirche und Katholicismus,
+über den Gegenſatz der antiken und chriſtlichen Zeit fand er ſich
+veranlaßt. Zu Venedig ſchrieb er (den 1. November 1818):
+„Wer plötzlich in ein ganz fremdes Land oder Stadt verſetzt wird,
+wo eine von der ſeinigen ſehr verſchiedene Lebensweiſe, wohl gar
+auch Sprache herrſcht, dem iſt zuerſt, wie dem, der in kaltes Waſ—
+fer geſtiegen: ihn berührt plötzlich eine von der ſeinigen weit ver—
+ſchiedene Temperatur, er fühlt eine gewaltſame, überlegene Ein-
+wirkung von Auſſen, die ihn beängſtigt. Er iſt in einem ihm
+fremden Element, in dem er ſich nicht mit Leichtigkeit bewegen kann:
+obendrein fürchtet er, weil ihm Alles auffällt, eben ſo Allen auf⸗
+zufallen. Aber ſobald er ſich etwas beruhigt, ſich in die Um—
+gebung gefunden und von deren Temperatur ein wenig angenom-
+men hat, wird ihm, wie dem im kalten Waſſer, auſſerordentlich
+wohl: er hat ſich dem Element aſſimilirt, er hört ſodann auf, ſich
+mit ſeiner Perſon beſchäftigen zu müſſen und wendet ſeine Auf—
+merkſamkeit rein auf die Umgebung, der er, eben durch die ob-
+jektive, antheilsloſe Betrachtung, jetzt ſich überlegen fühlt, ſtatt von
+ihr gedrückt zu werden.“
+
+Ferner ſchrieb er: „Geht man Einem Unheil aus dem Wege,
+fo läuft man dem andern entgegen: flieht man die National-
+fehler Eines Volks, ſo ſucht man die anderartigen eben ſo
+ſchlimmen eines andern auf. Der Himmel erlöſe uns aus dieſem
+Jammerthal.“ Den Hauptzug im National⸗Charakter der Italiener
+fand er in der Unverſchämtheit.
+
+Ueber den Katholicismus ſchrieb er: „Die katholiſche Reli⸗
+gion iſt eine Anweiſung den Himmel zu erbetteln, welchen zu ver⸗
+dienen zu unbequem wäre. Die Pfaffen ſind die Vermittler dieſer
+
+
+Bettelei.“
+N 11*
+
+
+164 Arthur Schopenhauer,
+
+
+Doch genug diefer Mittheilungen aus Schopenhauer's Reiſe⸗
+büchern. Mehreres daraus habe ich in „Arthur Schopenhauer.
+Von ihm; über ihn“ (S. 343 fg.) mitgetheilt.
+
+Früher, als ſeinem Plane entſprach, wurde er aus Italien
+in die Heimat zurückgerufen durch die Unglückspoſt von dem
+Sturze des danziger Handlungshauſes, dem ſeine Mutter den
+größten Theil ihres Vermögens ohne Sicherheit anvertraut hatte.
+Sie und ihre Tochter gingen aus dieſem Bankrott faſt verarmt
+hervor; Schopenhauer ſelbſt hingegen bewahrte zeitiges Mißtrauen
+und energiſches Auftreten vor empfindlicherem Verluſte. Die Be⸗
+fürchtung, in eine des Erwerbs bedürftige Lage zu kommen, drängte
+ihn aber dazu, an die Habilitation an einer Univerſität zu
+denken. Er wählte Berlin, wo er ſich 1820 habilitirte. Er do⸗
+cirte daſelbſt jedoch nur während eines Semeſters. Die Zeit, in
+der ein Hegel und Schleiermacher an der berliner Univerſität
+dominirten, war für das Aufkommen eines jungen Docenten von
+der Art Schopenhauer's nicht günſtig. Zwar beſaß er große
+Redegabe und verſtand, wie ſeine hinterlaſſenen, vollſtändig aus⸗
+gearbeiteten Vorleſungen beweiſen, in der Form ſich an die Be-
+dürfniſſe der ſtudirenden Jugend zu accommodiren. Aber darüber
+hinaus ging fein Accommodationsvermögen nicht. Dem Inhalt
+nach enthielten ſeine Vorleſungen eben ſein in der „Welt als
+Wille und Vorſtellung“ niedergelegtes atheiſtiſches und peſſimiſtiſches
+Syſtem, und von Toleranz gegen die herrſchende optimiſtiſche
+Philoſophie, überhaupt gegen die ganze Fichte-Schelling-Hegel'ſche
+Richtung, die er von ſeinem Standpunkt aus für Sophiſtik
+hielt, war bei Schopenhauer keine Spur zu finden. Es fehlte
+ihm an jener Condesſcendenz, die ein junger Docent beſitzen
+muß, um Carriere zu machen. Gleich in feiner lateiniſch gehal-
+tenen Probevorleſung ſagte er: Bald nach Kant und dem durch
+ihn für die Philoſophie wachgerufenen ächten Eifer ſeien Sophi⸗
+ſten aufgetreten, die, invita Minerva, mit großem Geräuſch und
+
+
+r
+
+
+Ein Lebensbild vom Herausgeber. [[p. 165]]
+
+
+in barbariſch dunkler Rede zuerſt die Denkkraft ihrer Zeit er-
+müdet, dann von dem Studium der Philoſophie abgeſchreckt und
+dieſe in Mißeredit gebracht hätten. Es ſei indeſſen nicht zu be⸗
+fürchten, daß nicht wiederum ein Rächer erſtehe, der, mit beſſerer
+Kraft ausgerüſtet, die Philoſophie in alle ihre Ehren reſtituire.
+
+Schopenhauer's nachgelaſſene Vorleſungen enthalten „die Grund—
+züge der geſammten Philoſophie“, d. h. die vier Bücher der „Welt
+als Wille und Vorſtellung“. Dem Vortrag dieſer hat er eine allge
+meine Einleitung über das Studium der Philoſophie vorange—
+ſchickt; ſodann hat er in einem beſondern Exordium über ſeinen
+Vortrag und deſſen Methode die Gründe auseinandergeſetzt, die
+ihn beſtimmten, das Ganze der Philoſophie, alſo Dianoiologie
+(Erkenntnißlehre), Metaphyſik der Natur, des Schönen und der
+Sitten, die ſonſt getrennt vorgetragen werden, in einen Vortrag
+zuſammenzufaſſen und in einem Semeſter zu abſolviren. Auch
+jeder der genannten vier Disciplinen oder vier Bücher der „Welt
+als Wille und Vorſtellung“ hat er in ſeinen Vorleſungen kurze
+Exordien vorangeſchickt.
+
+Zur Kenntlichmachung des Geiſtes und Stiles dieſer Vor—
+leſungen theile ich hier Einiges aus den erwähnten Exordien
+mit. In dem Exordium über ſeinen Vortrag und deſſen Methode
+ſagt Schopenhauer:
+
+„Der Grund, warum ich in Eines verknüpfe, was man ſonſt
+trennt und mir dadurch die zu einer Zeit zu leiſtende Arbeit ſehr
+häufe, liegt nicht in meiner Willkür, ſondern in der Natur der
+Philoſophie. In Gemäßheit nämlich der Reſultate, zu denen mich
+mein Studium und meine Forſchungen geführt haben, hat die
+Philoſophie eine Einheit und innern Zuſammenhang, wie durch—
+aus keine andere Wiſſenſchaft. Alle ihre Theile gehören ſo zu
+einander, wie die eines organiſchen Leibes und ſind daher, eben
+wie dieſe, nicht von dem Ganzen zu trennen, ohne ihre Bedeutung
+
+
+und ihre Verſtändlichkeit einzubüßen und als lacera membra, die
+
+
+Es
+
+
+— G
+
+
+166 Arthur Schopenhauer.
+
+
+außer dem Zuſammenhang einen widerwärtigen Eindruck machen,
+dazuliegen. Denken Sie ſich ein erkennendes Weſen, das nie einen
+menſchlichen Leib geſehen hätte, und dem nun die Glieder eines
+ſolchen Leibes einzeln und nach einander vorgelegt werden, könnte
+ein ſolches wohl eine richtige Vorſtellung erhalten vom ganzen
+menſchlichen Leibe, ja nur von irgend einem einzelnen Gliede des⸗
+ſelben? Wie ſollte es die Bedeutung und den Zweck der Hand
+verſtehen, ohne ſie am Arme, oder des Armes, ohne ihn an der
+Schulter geſehen zu haben u. ſ. w.? Gerade nun ſo iſt es mit
+der Philoſophie. Sie iſt eine Erkenntniß vom eigentlichen Weſen
+dieſer Welt, in der wir ſind und die in uns iſt; eine Erkenntniß
+davon im Ganzen und Allgemeinen, deren Licht, wann ſie gefaßt
+iſt, nachher auch alles Einzelne, das Jedem im Leben vorkommen
+mag, beleuchtet und ihm deſſen innere Bedeutung aufſchließt.
+Dieſe Erkenntniß läßt ſich daher nicht zerſtückeln und theilweiſe
+geben und empfangen.“
+
+Nachdem er dieſes noch näher auseinandergeſetzt und gezeigt
+hat, wie in der Philoſophie die verſchiedenen Disciplinen auf
+einander hinweiſen und ſich gegenſeitig beleuchten, ermahnt er die
+Zuhörer, ſich auch nun ihrerſeits zu bemühen, das Vorgetragene
+im Zuſammenhange aufzufaſſen und nicht etwa bloße Bruchſtücke
+aus demſelben herauszunehmen und für ſich zu betrachten. Er
+erinnert ſie an das obige Gleichniß vom Leibe und deſſen Gliedern
+und warnt fie daher vor einem voreiligen Urtheil über das Vor⸗
+getragene. „Bei jeder Wiſſenſchaft erhält man den vollſtändigen
+Begriff von derſelben erſt, nachdem man den ganzen Kurſus durch-
+gemacht hat und nun auf den Anfang zurückſieht. Aber bei Dem,
+was ich Ihnen vortragen werde, iſt dies noch viel mehr der Fall,
+als irgendwo. Glauben Sie mir ganz gewiß, daß Sie erſt bei
+dem Schluſſe meines geſammten Vortrages den Anfang deſſelben
+vollſtändig verſtehen können: und wenn Sie daher etwan hin und
+wieder Einiges nur mit Widerſtreben auffaſſen ſollten; ſo denken
+
+
+a Pe ae
+
+
+Ein Lebensbild vom Herausgeber. [[p. 167]]
+
+
+Sie, daß erſt das Nachfolgende die Ergänzung und Erläuterung
+dazu liefert.“
+
+Betreffend die Ordnung, die er in ſeinem Vortrag erwählt,
+erklärt er es für nothwendig, von der Unterſuchung des Erfennt-
+nißvermögens auszugehen. Dies ſei nun freilich der trockenſte
+Theil des ganzen Curſus, während Aeſthetik und Ethik, die er zu—
+letzt vornehme, das meiſte Intereſſe erregen und Unterhaltung ge—
+währen. „Wäre“, fährt er fort, „es mir bloß darum zu thun,
+durch etwas Anziehendes Ihre Aufmerkſamkeit zu feſſeln und vor's
+Erſte zu gewinnen, ſo müßte ich einen gerade umgekehrten Gang
+nehmen. Da ich mich aber lieber beſtrebe, gründlich, als an-
+ziehend zu ſeyn, ſo wünſche ich, daß Sie durch den Ernſt und das
+Trockene des erſten Theils unſerer Unterſuchung nicht N mögen die
+Ausdauer verlieren oder ſich abſchrecken laſſen, auszuharren, bis
+auch unmittelbar intereſſantere Dinge kommen.“
+
+Daß er indeſſen auch dieſen erſten „trockenſten“ Theil ſeiner
+Vorleſungen (die Dianoiologie) anziehend zu machen verſtand, be—
+weiſt gleich das Exordium zu demſelben. Dieſes lautet:
+
+„Wenn man in einem Hauſe zu thun hat, pflegt man, ehe
+man hineingeht, doch einen Blick auf die Außenſeite zu werfen.
+Wir haben es mit dem Intellekt von innen zu thun, d. h. vom
+Bewußtſeyn ausgehend. Vorher wollen wir ihn kurz von Auſſen
+anſehen. Da iſt er ein Gegenſtand der Natur, Eigenſchaft eines
+Naturprodukts, des Thieres und vorzüglich des Menſchen. So
+
+ganz empiriſch, ohne vorgefaßte Meinung ihn betrachtend, müſſen
+wir ihn eine Funktion des menſchlichen Lebens nennen, und zwar,
+wie alle andern Funktionen, an einen beſondern Theil gebunden,
+an das Gehirn. Wie der Magen verdaut, die Leber Galle, die
+Nieren Urin, die Hoden Saamen abſondern, ſo ſtellt das Gehirn
+vor, ſondert Vorſtellungen ab, und zwar iſt dieſes (nach Flou—
+rens’ Entdeckung) ausſchließlich Funktion des großen Gehirns,
+während das kleine die Bewegungen lenkt. Alſo der ganze In⸗
+
+
+168 1 Arthur Schopenhauer.
+
+
+tellekt, alles Vorſtellen, Denken, iſt eine phyſiologiſche Funktion
+des großen Gehirns. Aber dieſe Funktion hat etwas Eigenes, was
+ſie gar höher ſtellt, als die Galle, welche die Leber, und den Spei⸗
+chel, welchen die Speicheldrüſen abſondern, nämlich dieſes: die
+ganze Welt beruht auf ihr, liegt in ihr, iſt durch ſie bedingt.
+Denn dieſe exiſtirt nur als unſere (und aller Thiere) Vorſtellung,
+und iſt folglich von dieſer abhängig und ohne ſie nicht mehr.
+„Vielleicht ſcheint Ihnen das paradox, und es iſt wohl noch
+Einer und der Andere von Ihnen, der ganz ehrlich meint: wenn
+
+
+auch der Brei aus allen Hirnkaſten geſchlagen würde, ſo blieben
+
+
+darum Himmel und Erde, Sonne, Mond und Sterne, Pflanzen
+und Elemente doch ſtehen. — Wirklich? Beſehen Sie doch die
+Sache Etwas in der Nähe. Stellen Sie ſich eine ſolche Welt ohne
+erkennendes Weſen einmal anſchaulich vor: — da ſteht die
+Sonne, die Erde rotirt um ſie herum, Tag und Nacht, und die
+Jahreszeiten wechſeln, das Meer ſchlägt Wellen, die Pflanzen ve-
+getiren: aber Alles, was Sie jetzt ſich vorſtellen, iſt bloß im Auge,
+welches das Alles ſieht, im Intellekt, der es percipirt, alſo eben
+das ex hypothesi Aufgehobene... Die Konſequenzen, welche
+daraus für die Metaphyſik fließen, gehn uns hier nichts an. Wir
+betrachten es hier bloß, um auf die große Wichtigkeit, die hohe
+Dignität des Intellekts aufmerkſam zu werden, der der Gegenſtand
+unſerer fernern Betrachtung iſt, und zwar jetzt von Innen aus⸗
+gehend, vom Bewußtſeyn deſſelben: wir ſtellen e
+des Intellekts an.“ —
+
+Da nun Schopenhauer mit ſeinen Vorleſungen kein Glück
+hatte, auch der Aufenthalt in Berlin ihm nicht zuſagte, ſo ging
+er ſchon im Frühjahr 1822 wieder nach Italien. Zurückgekehrt,
+ging er 1825 nach kurzem Aufenthalt in Dresden wieder nach
+Berlin, hielt jedoch keine Vorleſungen, obgleich der Lectionskatalog
+der Univerſität ſeinen Namen enthielt. Im Jahre 1830 gab
+Schopenhauer eine, für das Ausland berechnete lateiniſche Bear⸗
+
+
+|
+|
+|!
+|
+
+
+Re
+
+
+Ein Lebensbild vom Herausgeber. [[p. 169]]
+
+
+beitung feiner Farbenlehre heraus, die im III. Bande von Radii
+scriptores ophthalmologiei minores unter dem Titel „Theoria
+colorum physiologica eademque primaria auctore Arthurio
+Schopenhauero Berolinensi“ erſchien. 1831 ging Schopen⸗
+hauer der nach Berlin vordringenden Cholera aus dem Wege,
+kam nach Frankfurt am Main und ließ ſich daſelbſt nieder, weil
+das Klima und die Annehmlichkeiten des Ortes ihm zuſagten, und
+das für einen Mann ſeiner Art unſchätzbare Glück einer geſicher—
+ten Subſiſtenz ihm die Wahl des Ortes frei ließ.
+
+In der erſten Zeit ſeines frankfurter Aufenthaltes erkrankte
+er jedoch und verfiel in die düſterſte Stimmung, ſodaß er Wochen
+lang keinen Menſchen ſprach. Eine vorübergehende Ortsverände—
+rung ſchien dringend nöthig, und er wandte ſich nach Mannheim,
+wo er ein ganzes Jahr blieb. 1833 kehrte er nach Frankfurt zu—
+rück und blieb daſelbſt bis an ſein Lebensende.
+
+Weder genöthigt, für Geld arbeiten, noch auch, ein Amt ſuchen
+zu müſſen, blieb er im ungeſtörten Beſitz ſeiner Kräfte und ſeiner
+Zeit. Seine Werke wurden durch keine äußern Rückſichten hervor—
+gerufen. Er brauchte nicht von der Philoſophie zu leben, konnte
+daher ganz für dieſelbe leben. Demgemäß tragen denn auch ſeine
+Werke den Stempel eines freien, unabhängigen, aus innerm Drange
+produeirenden Geiſtes.
+
+Bevor jedoch Schopenhauer wieder mit einer Schrift in die
+Oeffentlichkeit trat, ging ein vieljähriges Schweigen der Indigna⸗
+tion und des Unmuths vorher, hervorgerufen durch die Nicht—
+beachtung ſeines 1819 erſchienenen Hauptwerks und den Ruhm,
+den der von ihm verachtete Hegel genoß. Erſt 1836 brach er
+dieſes Schweigen mit der kleinen Schrift „Ueber den Willen in
+der Natur“, welche nicht nur die durch die neueſten Forſchungen
+gefundenen empiriſchen Belege für die Richtigkeit ſeiner Metaphyſik
+enthielt, ſondern auch den Grundgedanken dieſer, den eigentlichen
+nervus probandi der Sache, noch deutlicher und gründlicher dar⸗
+
+
+Ba u
+
+
+170 Arthur Schopenhauer.
+
+
+legte, als feine frühern Schriften. In der Schweigperiode beſchäf⸗
+tigte er ſich theils mit Ueberſetzungen, theils mit dem Aus⸗
+arbeiten der zum Ausbau ſeines Syſtems dienenden Ge⸗
+danken, wovon die hinterlaſſenen, in jene Periode fallenden Ma⸗
+nuſcripte zeugen. Während ſeines letzten Aufenthaltes in Berlin
+überſetzte Schopenhauer Baltazar Gracian's oraculo manual y
+arte di prudencia aus dem Spaniſchen ins Deutſche, welche
+Ueberſetzung ich nach ſeinem Tode aus dem hinterlaſſenen voll⸗
+ſtändigen Manufeript herausgegeben habe (Leipzig, F. A. Brock⸗
+haus, 2. Aufl., 1871). 1830 wurden mit Francis Haywood in
+Liverpool Unterhandlungen wegen einer von Schopenhauer zu lei⸗
+tenden engliſchen Ueberſetzung der Werke Kant's gepflogen, die
+jedoch zu keinem Reſultate führten. Schon vorher hatte Schopen⸗
+hauer auch eine Ueberſetzung der populär-philoſophiſchen Schriften
+David Hume's projectirt. Eine nach der Rückkehr von der zwei⸗
+
+ten italieniſchen Reiſe zu Dresden geſchriebene, in feinem hand—
+
+ſchriftlichen Nachlaß befindliche „Préface“ zu dieſer projectirten
+
+Ueberſetzung Hume's iſt zu bezeichnend für ſeine damalige bittere
+
+Stimmung und das Motiv, warum er ſich mit Ueberſetzungen be—
+
+ſchäftigte, als daß ich ſie nicht hier mittheilen ſollte. Sie
+
+lautet:
+
+„Kaum wage ich es, dem erleuchteten philoſophiſchen Publi⸗
+kum unſerer Tage dieſe neue Verteutſchung populär-philoſophiſcher
+Schriften Hume's vorzulegen, da ſelbiges auf einem Gipfel ſteht,
+von welchem es nicht nur auf die weiland berühmten franzöſiſchen
+Philoſophen, wie Helvetius, d'Alembert, Diderot, Voltaire, Rouſ—
+ſean mit merklicher Geringſchätzung herabſieht als auf beſchränkte
+und verſtockte raisonneurs, ſondern auch die Engländer des vori⸗
+gen Jahrhunderts nicht viel höher anſchlägt.
+
+„Auch iſt nicht zu zweifeln, daß Hume ſelbſt ſich wohl der
+Mühe überhoben hätte, gegen die natürliche Religion und ihre
+Hauptwahrheiten Zweifel und Argumente in langen Abhandlungen
+
+
+WE, Bu
+1
+
+
+Ein Lebensbild vom Herausgeber. [[p. 171]]
+
+
+und Dialogen auseinanderzuſetzen, und dann wieder die Vertheidi⸗
+gung jener zu führen, um Gründe und Gegengründe mühſälig
+
+
+abzuwägen und dadurch dem Glauben an jene Wahrheiten eine
+
+
+feſte Grundlage vorzubereiten, — wenn zu ſeiner Zeit ſchon die
+glänzende philoſophiſche Entdeckung unſerer Tage gemacht worden
+wäre, ich meine die große Entdeckung, daß Vernunft von Verneh—
+men kommt, und daher das Vermögen iſt zu vernehmen und zwar
+Offenbarungen zu vernehmen, Offenbarungen des Ueberſinnlichen,
+Göttlichen u. ſ. f., die alle reflektirende und raiſonnirende Unter—
+ſuchungen über ſolche Gegenſtände unnütz machen. Dieſerhalb be—
+kenne ich, daß ich den philoſophiſchen Zeitgenoſſen gegenwärtige
+Ueberſetzung keineswegs vorlege als ein Buch zur Belehrung, ſon—
+dern bloß als ein Mittel mehr, ihre eigene Größe und die Höhe
+ihres Standpunktes zu ermeſſen, damit ſie ſich ergötzen mögen:
+„Zu ſehn, wie vor uns ein weiſer Mann gedacht,
+Und wie wir's denn zuletzt ſo herrlich weit gebracht.“
+
+„Daſſelbe gilt auch in Hinſicht des Vortrags. Hume würde
+den ſeinigen, wenn er die heutige philoſophiſche Periode zu er—
+leben das Glück gehabt hätte, ohne Zweifel verbeſſert haben, er
+würde jene Klarheit, Faßlichkeit, Beſtimmtheit und anziehende Le—
+bendigkeit, die ihm eigen ſind, abgeworfen und dagegen ſich be—
+ſtrebt haben, ein geheimnißvolles Dunkel über ſeine Schriften zu
+verbreiten, durch ſchwerfällige und endlos verſchlungene Perioden,
+geſuchte ſeltſame Ausdrücke und ſelbſtgemachte Worte den Leſer
+gleich Anfangs zu verdutzen und im weitern Fortgang ihn zu
+zwingen ſich zu wundern, wie er ſo viel hat leſen können, ohne
+auch nur eines Gedankens habhaft zu werden, wodurch dem Leſer
+der Glaube entſteht, daß je weniger er bei dem Text denken kann,
+
+
+deſto mehr der Autor gedacht habe. Alſo auch in dieſer Hinſicht
+
+
+wird der philoſophiſche Leſer unſerer Zeit mit wohlbehaglichem
+Stolz auf dieſen Koryphäen einer vergangenen zurückzublicken den
+
+
+Genuß haben. 8
+
+
+172 Arthur Schopenhauer.
+
+
+„Was nun endlich meinen Beruf zu dieſer kleinen Arbeit be⸗
+trifft, ſo liegt er bloß darin, daß mir ſeit meinem Aufenthalt in
+England im Knabenalter die Engliſche Sprache ſehr geläufig iſt,
+und ich eben gar viel Muße übrig habe, indem ich der Bearbei⸗
+tung meiner eigenen Gedanken für die Mittheilung mich überhoben
+achte, da nun die Erfahrung beſtätigt hat, was ich früher voraus⸗
+ſah und vorausſagte, daß ſolche unter den Zeitgenoſſen keine Leſer
+finden.“
+
+Doch dieſer Unmuth, in welchem ſich Schopenhauer der Mit-
+theilung feiner eigenen Gedanken enthielt und ſich mit Ueberſetzun⸗
+gen beſchäftigte, war nur ein vorübergehender. Er wußte zu gut,
+daß er nicht bloß für die Mitwelt da ſei, ſondern „für viele Ge-
+ſchlechter“, und hoffte zuverſichtlich, daß die Anerkennung, die er
+bei den Zeitgenoſſen nicht fand, ihm in deſto reicherem Maße von
+der Nachwelt geſpendet werden würde. Er arbeitete alſo unabläſſig
+weiter.
+
+Im Jahre 1839 krönte die königlich norwegiſche Societät der
+Wiſſenſchaften zu Drontheim eine von Schopenhauer eingelieferte
+Preisſchrift „Ueber die Freiheit des Willens“ und ernannte ihn
+zu ihrem Mitgliede. Er gab die gekrönte Abhandlung zuſammen
+mit einer andern, durch eine Preisaufgabe der königlichen Societät
+der Wiſſenſchaften zu Kopenhagen hervorgerufenen „Ueber das Fun
+dament der Moral“, welche jedoch nicht gekrönt worden war, 1841
+unter dem Titel: „Die beiden Grundprobleme der Ethik“ heraus,
+und dieſe Schrift lenkte zuerſt die Aufmerkſamktit mehr auf Scho⸗
+penhauer, als bisher der Fall geweſen war. Im Jahre 1844
+gab er die zweite um einen ganzen Band „Ergänzungen“ ver-
+mehrte Auflage feines Hauptwerks, der „Welt als Wille und Vor⸗
+ſtellung“, heraus. Er verglich dieſe Ergänzungen „der ſpäter hin⸗
+zugeſetzten Begleitung einer Melodie, mittelſt welcher allererſt die
+vollkommene Harmonie entſteht, und jene jetzt ihre ganze Wirkung
+thut“. Im Jahre 1847 gab Schopenhauer die zweite, ſehr er⸗
+
+
+Ein Lebensbild vom Herausgeber. [[p. 173]]
+
+
+weiterte Auflage ſeiner längſt vergriffenen Doctordiſſertation „Ueber
+die vierfache Wurzel des Satzes vom zureichenden Grunde“ her—
+aus. 1851 erſchienen die kleinen philoſophiſchen Schriften Scho-
+penhauer's unter dem Titel „Parerga und Paralipomena“, ſein
+populärſtes Werk, durch welches er auch in weiteren, als gelehrten
+Kreiſen bekannt und berühmt wurde. Mit den Parergis war der
+Kreis der Schopenhauer'ſchen Werke geſchloſſen ). Es erſchien von
+ihm kein neues Werk mehr, ſondern nur noch neue, jedoch ver—
+beſſerte und vermehrte Auflagen ſeiner früheren Werke. Von der
+Schrift „Ueber den Willen in der Natur“ gab er die zweite, ver—
+beſſerte und vermehrte Auflage 1854 heraus, ebenſo von der
+Schrift „Ueber das Sehn und die Farben“. Endlich in ſeinem
+Todesjahre (1860) erſchien die zweite verbeſſerte und vermehrte
+Auflage der „beiden Grundprobleme der Ethik“.
+
+Die Art, wie Schopenhauer arbeitete, war folgende. Er
+ſchrieb zunächſt ſeine Gedanken für ſich nieder und zwar nicht
+in ſyſtematiſcher Ordnung, ſondern aphoriſtiſch, wie fie ihn jedes-
+mal auf Anlaß der Anſchauung und der Studien, die er gerade
+trieb, beſchäftigten. Denn Schopenhauer war, ähnlich wie Goethe
+
+
+*) In einem Briefe vom 26. Juni 1850 an feinen Verleger, F. A. Brod-
+haus, dem er die „Parerga“ zum Verlage anbot, ſchrieb Schopenhauer: „Ich
+gedenke nach Dieſem nichts mehr zu ſchreiben, weil ich mich hüten will,
+ſchwache Kinder des Alters in die Welt zu ſetzen, die den Vater anklagen
+und ſeinen Ruhm ſchmälern. Dies Werk iſt noch ganz ſchwerlöthig, wie
+die früheren.“ — Als Brockhaus den Verlag der „Parerga“ abgelehnt hatte,
+weil der Abſatz der erſten und zweiten Auflage der „Welt als Wille und
+Vorſtellung“ kein ermuthigender geweſen war (vergl. „Friedrich Arnold
+Brockhaus“, II, 363), da ſchrieb Schopenhauer an ihn in einem Briefe
+vom 3. September 1850: „Denken Sie von mir was Sie wollen: ich ſage,
+daß meine Schriften das Beſte ſind, was das Jahrhundert gebracht hat,
+3 und bin nicht der Einzige, der es ſagt. Zudem nun aber ift das in
+5 Rede ſtehende (die „Parerga“) bei Weitem das populärſte, gewiſſermaaßen
+mein «Philofoph für die Welt»,
+
+
+| re
+
+
+174 Arthur Schopenhauer.
+
+
+ein Gelegenheitsdichter, ein Gelegenheitsphiloſoph. Aus den
+gelegentlich entſtandenen und in feinen Manuſcriptbüchern aufge⸗ ‘
+zeichneten, bloß durch einen Strich getrennten Gedanken über die
+verſchiedenſten Gegenſtände gingen dann ſpäter ſeine ſyſtematiſchen,
+für den Druck beſtimmten Schriften hervor. Zwei alphabetiſch €
+geordnete Repertorienbücher über die in feinen ſämmtlichen Manu⸗
+feripten abgehandelten Gegenſtände ließen ihn in dieſer Vorraths⸗
+kammer, wo der ganze reiche und mannigfaltige Stoff ſeiner
+Werke aufgeſpeichert war, ſich zurechtfinden. Er ſelbſt ſagt in
+ſeinem handſchriftlichen Nachlaß über die Art ſeines Schaffens
+und Producirens: „Alle Gedanken, welche ich aufgeſchrieben,
+ſind auf äuſſern Anlaß, meiſtens auf einen anſchaulichen Eindruck,
+entſtanden und vom Objektiven ausgehend niedergeſchrieben, unbe⸗
+kümmert, wohin ſie führen würden: aber ſie gleichen Radien, die
+von der Peripherie ausgehend, alle auf Ein Centrum laufen,
+welches die Grundgedanken meiner Lehre ſind: zu dieſen führen
+ſie von den verſchiedenſten Seiten und Auffaſſungen aus.“ Ferner:
+„Meine Werke beſtehen aus lauter Aufſätzen, wo Ein Gedanke
+mich erfüllte und ich ihn ſeiner ſelbſt wegen durch Aufſchreiben
+fixiren wollte: — daraus ſind ſie zuſammengeſetzt, mit wenig Kalk
+und Mörtel: darum ſind ſie nicht ſchaal und langweilig, wie die
+der Leute, die ſich hinſetzen und nun, nach einem gefaßten Plane,
+Seite nach Seite, ein Buch ſchreiben.“ Aehnliches ſagt er in den
+Bemerkungen über ſeine eigene Philoſophie im erſten Bande der
+„Parerga“ (Parerga, I, 140 fg.).
+Trotz dieſer Entſtehungsweiſe tragen doch die Werke Scho—
+penhauer's das Gepräge eines einheitlichen, ſyſtematiſchen Gei-
+ſtes, weil es eben eine und dieſelbe Grundanſchauung iſt, die
+allem Einzelnen zum Grunde liegt, es beherrſcht und gliedert.
+Aus den in den Werken Schopenhauer's vorkommenden Ci⸗ 8
+taten kann man erſehen, wie groß ſeine Beleſenheit in den alten
+und neuern Literaturen war. Seneca, Gracian, Helvetius, Vol⸗
+
+
+Ein Lebensbild vom Herausgeber. [[p. 175]]
+
+
+taire, Chamfort, Hume wurden von ihm vorzugsweife gern citirt.
+
+Beim Leſen ſtrich ſich Schopenhauer Stellen, die ihm beſonders
+gefielen oder der Beachtung werth ſchienen, an, gab auch durch
+Randgloſſen ſeine zuſtimmenden oder abweichenden Anſichten zu
+erkennen.
+
+Im Behalten des ihm bedeutend Scheinenden von dem Ge—
+leſenen leiſtete ihm ſein Gedächtniß vortreffliche Dienſte. So be—
+leſen er aber auch war und ſo gut er das Geleſene behielt; —
+wichtiger als das Leſen, war ihm doch das Selbſtdenken. Das
+viele Leſen hielt er für nachtheilig, da das fortwährende Einſtrö—
+men fremder Gedanken die eigenen hemme und erſticke, ja, auf die
+Länge die Denkkraft lähme. Er hielt es ſogar für gefährlich,
+früher über einen Gegenſtand zu leſen, als man ſelbſt darüber
+nachgedacht hat. Denn da ſchleiche ſich mit dem neuen Stoff zu—
+gleich die fremde Anſicht und Behandlung deſſelben in den Kopf.
+
+Beim Leſen erleide der Geiſt Zwang von Außen, jetzt Dies oder
+Jenes zu denken, wozu er ſoeben keinen Trieb, noch Stimmung
+habe. Hingegen beim Selbſtdenken folge er ſeinem ſelbſteigenen
+Triebe. Leſen ſolle man nur dann, wann die Quelle der eigenen
+Gedanken ſtockt. Hingegen die eigenen und kräftigen Gedanken
+verſcheuchen, um ein Buch zur Hand zu nehmen, ſei Sünde wider
+den heiligen Geiſt. Man gleiche alsdann Dem, der aus der freien
+Natur flieht, um ein Herbarium zu beſehen, oder um ſchöne Ge—
+genden im Kupferſtich zu betrachten. Da man ſich zwar willkür—
+lich auf das Leſen appliciren könne, auf das Denken aber nicht,
+zu dieſem vielmehr die gute Stunde abgewartet ſein will, ſo thue
+man wohl, die Zeit, wo man zum Selbſtdenken nicht aufgelegt
+iſt, zum Leſen zu benutzen, als welches dem Geiſte Stoff
+zuführt.
+
+Wie er im Allgemeinen das viele Leſen und das Leſen zu
+unrechter Zeit bekämpfte, ſo auch im Beſondern das Leſen der
+ephemeren Tagesliteratur ſtatt des Leſens der unvergänglichen
+
+
+176 Arthur Schopenhauer.
+
+
+Werke der großen Geiſter aller Zeiten. Er eiferte gegen die
+Thorheit und Verkehrtheit des Publikums, die edelſten, ſeltenſten
+Geiſter in jeder Art, aus allen Zeiten und Ländern, ungeleſen zu
+laſſen, um die täglich erſcheinenden Schreibereien der Alltagsköpfe,
+wie ſie jedes Jahr in zahlloſer Menge, den Fliegen gleich, aus⸗
+brütet, zu leſen. Ueberhaupt hielt er in Hinſicht auf die Lektüre
+die Kunſt, nicht zu leſen, für höchſt wichtig. Sie beſtehe darin,
+daß man die beim großen Publikum beliebte und Lärm machende
+Tagesliteratur ungeleſen laſſe. Er bekämpfte das Vorurtheil, als
+ſeien die neueſten Bücher immer die beſten. Keinen größern Irr⸗
+thum könne es geben, als zu glauben, daß das zuletztgeſprochene
+Wort ſtets das richtigere, jedes ſpäter Geſchriebene eine Verbeſſe⸗
+rung des früher Geſchriebenen und jede Neuerung ein Fortſchritt
+ſei. Schon oft ſei ein älteres, vortreffliches Buch durch neuere,
+ſchlechtere verdrängt worden. Daß wir aus dem Alterthume Claſ⸗
+ſiker haben und neben deren guten Schriften nicht auch ſchlechte,
+ſchrieb er Dem zu, daß bei den Alten das Bücherſchreiben kein
+Erwerbszweig geweſen iſt; ſie trugen daher nicht, wie ſelbſt die
+Beſten unter den Neuern, nachdem der Spiritus verflogen war,
+noch das Phlegma zu Markte, um Geld dafür zu löſen.
+
+Das Bücherſchreiben um des Geldverdienens willen und das
+Reclame-Machen für die Schriften hielt er für den Verderb der
+Literatur. Lobhudelnde Empfehlungen unter den Bücheranzeigen,
+wie ſie die Verleger lieben, waren ihm zuwider und er verbat
+ſich dieſelben ausdrücklich für ſeine eigenen Schriften. Selbſt
+
+
+die Büchertitel ſollten nach ihm außer der prägnanten Bezeich-
+
+
+nung des Inhalts und dem Namen des Autors nichts ent⸗
+halten. Er ſagt an einer Stelle ſeines handſchriftlichen Nachlaſſes:
+„Auf Büchertiteln mit feinen eigenen Titeln und Aem⸗
+tern zu prunken, iſt höchſt unpaſſend: in der Litteratur gelten keine
+andere, als geiſtige Vorzüge: wer andere geltend machen will, ver⸗
+räth, daß er dieſe nicht hat.“ Schopenhauer war ferner ein Geg⸗
+
+
+un u an a A
+Nan N
+
+
+Ein Lebensbild vom Herausgeber. ' 177
+
+
+ner der Anonymität. Anonymität hielt er für das Schild aller
+
+
+literariſchen Schurkerei. Oft auch diene fie bloß, die Obſeurität,
+Incompetenz und Unbedeutendheit des Urtheilenden zu bedecken.
+Preßfreiheit ſollte durch das ſtrengſte Verbot aller und jeder
+Anonymität und Pſeudonymität bedingt ſein, damit Jeder
+für Das, was er durch das weitreichende Sprachrohr der Preſſe
+öffentlich verkündigt, wenigſtens mit ſeiner Ehre verantwortlich
+wäre. Leute, die nicht anonym geſchrieben haben, anonym anzu⸗
+greifen, hielt er für ehrlos. Er war ein geſchworener Gegner
+der Kameraderie und des Cliquenweſens in der Literatur und hielt
+es für verderblich, die Toleranz, welche man in der Geſellſchaft gegen
+ſtumpfe, hirnloſe Menſchen üben muß, auch auf die Literatur über-
+tragen zu wollen. Denn hier ſeien ſie unverſchämte Eindringlinge,
+und hier das Schlechte anzugreifen, ſei Pflicht gegen das Gute.
+In der Literatur ſei die Höflichkeit ein fremdartiges, oft ſchäd—
+liches Element. —
+
+Schopenhauer's Lebensweiſe war eine nach den Grund-
+ſätzen, die er ſelbſt in ſeiner Eudämonologie (den „Aphorismen
+zur Lebensweisheit“ im erſten Bande der Parerga) ausgeſprochen,
+geregelte. Oberſte Regel war ihm der Satz: „Nicht dem Ver—
+gnügen, ſondern der Schmerzloſigkeit geht der Ver—
+nünftige nach“, entſprechend ſeiner Anſicht von der Negativität
+alles Glückes und der Poſitivität des Schmerzes. Demgemäß
+war er vor Allem auf Erhaltung der Geſundheit bedacht. Ge⸗
+ſundheit überwog ihm alle äußern Güter ſo ſehr, daß er einen
+geſunden Bettler glücklicher ſchätzte, als einen kranken König.
+Die Geſundheit aufzuopfern für Erwerb, Beförderung, Gelehr-
+ſamkeit, Ruhm, Wolluſt, oder was es auch ſei, hielt er für die
+größte Thorheit. Neun Zehntel unſeres Glückes beruhen nach ihm
+allein auf der Geſundheit; mit ihr werde Alles eine Quelle des
+Genuſſes, hingegen ſei ohne ſie kein äußeres Gut, welcher Art es
+auch ſei, genießbar, und ſelbſt die innern Güter, die Eigenſchaften
+Schopenhauer, Schriften zur Erkenntnißlehre. 12
+
+
+178 Arthur Schopenhauer.
+
+
+des Geiftes, Gemüthes, Temperaments würden durch Kränklichkeit
+ſehr herabgeſtimmt und verkümmert.
+
+Demgemäß befleißigte er ſich auch der Anwendung der Mittel
+zur Erhaltung und Befeſtigung der Geſundheit, und ſeine phyſio⸗
+logiſchen Kenntniſſe ſetzten ihn in den Stand, dieſe Mittel richtig
+zu erkennen. Tägliche Bewegung in freier Luft, 1½ bis 2
+Stunden, hielt er für durchaus nöthig zur Erhaltung der Geſund⸗
+heit, zumal bei ſitzender Lebensweiſe. Denn alle Lebensproceſſe
+erforderen, um gehörig vollzogen zu werden, Bewegung, ſowohl der
+Theile, als des Ganzen. Das Leben beſtehe in der Bewegung.
+Im ganzen Innern des Organismus herrſche unaufhörliche, raſche
+Bewegung. Wenn nun hiebei, wie es bei der ſitzenden Lebens⸗
+weiſe der Fall ſei, die äußere Bewegung ſo gut wie ganz fehle,
+ſo entſtehe ein ſchreiendes Mißverhältniß zwiſchen der äußern Ruhe
+und der innern Bewegung. Dem entſprechend ging Schopenhauer
+täglich Nachmittags 1½ bis 2 Stunden, und zwar mit raſchem
+Schritt, in der Umgebung Frankfurts ſpazieren. Er wählte dazu
+gewöhnlich einſame Feldwege, nur bei ſchlechtem Wetter blieb er
+in den die Stadt umgebenden Anlagen. Auf dieſen Spazier⸗
+gängen war er meiſt allein, nur von ſeinem Pudel begleitet. An
+Stellen, wo die Landſchaft eine ſchöne Ausſicht bot, blieb er ſtehen
+und betrachtete ſie eine Weile; denn er war, wegen der durch⸗
+gängigen Wahrheit und Conſequenz der Natur, ein großer Freund
+der Naturſchönheit.
+
+Nächſt der Bewegung hielt Schopenhauer die Abhärtung
+des Körpers für wichtig zur Erhaltung und Befeſtigung der Ge⸗
+ſundheit. Solange man geſund iſt, lehrte er, härte man ſich da⸗
+durch ab, daß man den Körper durch auferlegte Anſtrengung und
+Beſchwerden gewöhne, widrigen Einflüſſen jeder Art zu wider⸗
+ſtehen. Sobald hingegen ein krankhafter Zuſtand ſich kundgiebt,
+ergreife man ſogleich das entgegengeſetzte Verfahren, pflege und
+ſchone den kranken Leib, oder den kranken Theil deſſelben; denn
+
+
+open:
+
+
+11 8
+
+
+Ein Lebensbild vom Herausgeber. [[p. 179]]
+
+
+das Leidende und Geſchwächte ſei keiner Abhärtung fähig. Der
+Muskel werde durch ſtarken Gebrauch geſtärkt, der Nerv hingegen
+dadurch geſchwächt; alſo ſolle man die Muskeln durch angemeſſene
+Anſtrengung üben, hingegen die Nerven vor zu großer Anftrengung
+hüten, alſo die Augen vor zu hellem Licht, vor Anſtrengung in
+der Dämmerung oder durch anhaltendes Betrachten zu kleiner
+Gegenſtände, die Ohren vor zu ſtarkem Geräuſch, vorzüglich aber
+das Gehirn vor gezwungener, zu anhaltender oder unzeitiger An-
+ſtrengung.
+
+Dieſen phyſiologiſch⸗diätetiſchen Grundſätzen gemäß verfuhr
+Schopenhauer in ſeiner eigenen Lebensweiſe. Er wuſch ſeinen
+Körper viel mit kaltem Waſſer, badete bis in den September
+hinein im kalten Fluß, machte, ſelbſt bei rauhem Wetter, weite
+und ſchnelle Fußwanderungen, hütete ſich aber vor Ueberreizung
+und Uebermüdung der Nerven, namentlich des Gehirns. Da er
+die geiſtige Thätigkeit als Gehirnfunction erkannte, das Ge—
+hirn aber als der Ruhe nach der Tagesanſtrengung bedürftig, ſo
+legte er großen Werth auf tiefen und feſten Schlaf und beging
+nicht, wie jo viele Gelehrte, die Thorheit, ſich den Schlaf durch
+Nachtarbeiten zu entziehen, ja hütete ſich auch am Tage, das Ge⸗
+hirn zu einer Zeit zur Anſtrengung zu zwingen, wo die Lebens⸗
+kraft ſchon anderweitig, wie während der Verdauung, oder wäh⸗
+rend bedeutender Muskelanſtrengung, in Beſchlag genommen war.
+Demgemäß arbeitete Schopenhauer in den erſten Morgenſtunden,
+nachdem in der Nacht durch achtſtündigen Schlaf die Ernährung
+und Recreation des Gehirns ſtattgefunden hatte“). Nach der
+
+
+*) In einem Briefe an ſeinen Verleger, F. A. Brockhaus, vom 8. Auguſt
+1858 ſchreibt Schopenhauer: „Daß ich ſo langſam arbeite, kommt daher,
+daß ich ſeit 25 Jahren, die unverbrüchliche Maxime habe, direkt für den
+Druck nicht anders, als die erſten 2 Morgenſtunden hindurch zu ſchreiben;
+weil nur dann der Kopf Alles iſt, was er ſeyn kann. Die übrigen Stun⸗
+den ſind brauchbar zum Nachſchlagen und Leſen angezogener Stellen.“
+
+12%
+
+
+180 Arthur Schopenhauer.
+
+
+Mahlzeit hielt er eine Stunde Ruhe, griff alsdann zu einer leichten
+Lectüre, ging hierauf ins Freie und beſuchte, zurückgekehrt, das
+
+
+Leſecabinet, um die Zeitungen und literariſchen Zeitſchriften zu
+leſen. Den Abend brachte er häufig im Theater oder in Con⸗
+certen zu. Vor dem Schlafengehen ſchlug er nicht ſelten noch
+das Buch auf, das ſeine Bibel war und von dem er erklärte, daß
+es ihn noch in der Todesſtunde tröſten würde, das Oupnekhat.
+Er ſchlief Sommers und Winters kalt, unter einer leichten
+Decke.
+
+Schopenhauer war unverheirathet. Es ward ihm wohl einige
+Male im Leben nahe gelegt, zu heirathen. Aber er hielt es für
+ein Glück, daß nichts daraus geworden, weil er im Ehejoch wohl
+ſchwerlich Ruhe und Freiheit gehabt hätte, ſeine Werke zu ſchaffen.
+Ueberhaupt war er der Meinung, daß für Männer der Kunſt und
+Wiſſenſchaft das eheloſe Leben dem Leben in der Ehe vorzuziehen ſei.
+„Unter Philoſophen und Dichtern“, ſchreibt er an einer Stelle
+feines Nachlaſſes, „find die Verheiratheten als ſolche verdächtig,
+ihre Sache zu ſuchen, nicht das Heil der Wiſſenſchaft und Kunſt.“
+Die Frage, ob es beſſer ſei, zu heirathen, oder nicht, läßt ſich, wie
+er an einer andern Stelle ſchreibt, in ſehr vielen Fällen darauf
+
+
+zurückführen, ob Liebes ſorgen beſſer find, als Nahrungs⸗
+
+
+ſorgen“.
+
+Da er freie Muße für einen Mann von ſeiner Art für das
+größte Glück hielt, ſo war er auch bedacht, ſich dieſes Glück durch
+vorſichtige Verwaltung ſeines ererbten Vermögens zu bewahren.
+Seine Oekonomie war eine ſtreng geregelte. Trotz erheblicher
+früherer Verluſte vermehrte er doch durch Ordnung und Sparſam⸗
+keit während eines langen Lebens ſein Vermögen um das Dop⸗
+pelte. Alle Einnahmen und Ausgaben notirte er ſich täglich. So
+hatte es ihn ſein Vater gelehrt.
+
+
+Seine häusliche Einrichtung war ſehr einfach. Erſt nach
+
+
+ſeinem funfzigſten Jahre ſchaffte er ſich eigenes Mobiliar an. In
+
+
+Ein Lebensbild vom Herausgeber. [[p. 181]]
+
+
+ſeinem Studirzimmer ſtand auf einem Marmorconſol in der Ecke
+eine vergoldete echte Statuette Buddha's, auf ſeinem Schreibpult
+die Büſte Kant's; über dem Sofa hing ein Oelporträt Goethe's;
+an den Wänden umher verſchiedene Porträts Kant's, Shakeſpeare's,
+Descartes', Claudius', einige Familienporträts, ein Jugendbild
+und Daguerreotypen von ihm aus verſchiedenen Lebensaltern, um⸗
+geben von zahlreichen Hundeſtücken von Woollet, Ridinger u. A.
+Neben dem Sofa ruhte ſein Pudel auf einem ſchwarzen
+Bärenfelle.
+
+So abgewendet auch Schopenhauer in ſeiner philoſophiſchen
+Einſamkeit dem Thun und Treiben der von ihm verachteten
+„Jetztzeit“ war und ſo fremd er ſich auch unter den Zeitgenoſſen
+fühlte, ſo verfolgte er doch ſtets aufmerkſam und theilnehmend
+alle Vorgänge der politiſchen, kirchlichen und literariſchen Welt,
+bildete ſich über ſie ſein ſelbſtſtändiges philoſophiſches Urtheil und
+ſchöpfte aus ihnen Belege für ſeine Philoſophie. Eine in ſeinem
+Nachlaß befindliche Mappe mit der Aufſchrift „Philosophari“ ift
+angefüllt mit Zetteln, welche Citate aus den verſchiedenſten Zei-
+tungen und Zeitſchriften in verſchiedenen Sprachen enthalten, —
+Citate, die Schopenhauer zum großen Theile in feine Druckſchrif—
+ten an geeigneter Stelle aufgenommen und als Belege für ſeine
+allgemeinen Sätze beigebracht hat.
+
+Nachdem einmal der Bann des Ignorirens, unter dem Scho—
+penhauer ſo lange Zeit gelitten, gebrochen und die Mitwelt
+auf ihn als auf einen originellen, die andern nachkantiſchen Phi-
+loſophen hoch überragenden Denker und Schriftſteller hingewieſen
+worden war, was hauptſächlich durch mich geſchah, hörte auch die
+perſönliche Iſolirung Schopenhauer's zu Frankfurt am Main auf.
+Sein, wenn auch ſpät, doch noch ein Decennium vor feinem Lebens-
+ende erlangter Ruhm brachte ihn vielfach in Beziehung mit Mit⸗
+lebenden. Aus der Nähe und Ferne beſuchten ihn Gelehrte und
+Verehrer, oder correſpondirten mit ihm. Es bildete ſich auch ein
+
+
+182 Arthur Schopenhauer. * Me FIIR
+
+
+Kreis von begeifterten Anhängern und Schülern feiner Philoſophie,
+die, wenngleich fie nicht alle feine Lehren unterſchreiben konnten,
+doch die große Bedeutung ſeiner Philoſophie und die Vorzüge
+derſelben vor den andern nachkantiſchen Syſtemen anerkannten und
+laut prieſen. Durch alles Dieſes wurde Schopenhauer in ſeinen
+letzten Lebensjahren zugänglicher und mittheilſamer, als er ſonſt
+geweſen war. Wer ſich durch aufrichtige Theilnahme an ſeiner
+Philoſophie ſein Vertrauen zu erwerben wußte und von ihm
+nähern Umgangs gewürdigt wurde, konnte ſich hohen Genuſſes
+in der Unterredung mit ihm erfreuen. Seine Rede war ſtets ge⸗
+danken⸗ und ausdrucksvoll, und er hielt mit feiner wahren Mei⸗
+nung nicht zurück. Man hatte das Gefühl, einen Selbſtdenker
+vor ſich zu haben und zwar einen, der zur intellectuellen Ariſto⸗
+kratie gehört.
+
+Die von Dr. Lindner und von mir in „Arthur Schopen⸗
+hauer. Von ihm; über ihn“ (Berlin 1863), ferner von Dr. Aſher
+in „Arthur Schopenhauer. Neues von ihm und über ihn“
+(Berlin 1871), endlich die in der Wiener „Deutſchen Zeitung“
+(1872 1873, December — Januar) von Adam von Doß ver⸗
+öffentlichten Briefe Schopenhauer's nebſt begleitenden Mittheilungen
+über ihn liefern ein Bild von ſeinem reichen und mannigfaltigen
+Verkehr in der letzten Lebensperiode, von dem Kreiſe ſeiner An⸗
+hänger und Verehrer und von den zahlreichen Huldigungen, die
+ihm zu Theil geworden. Am meiſten freute es ihn, daß ſeine
+Schriften auch außerhalb des Kreiſes der Gelehrten, von Dilet—
+
+
+tanten, ſtudirt und mit Begeiſterung aufgenommen wurden; denn 3
+
+
+dieſe hielt er für unbefangen und ihren Enthuſiasmus für ächt.
+
+Schopenhauer erfreute ſich bis in ſein letztes Lebensjahr einer
+feſten Geſundheit. Im Gefühle ſeiner Rüſtigkeit hoffte er auch
+immer, ein hohes Alter zu erreichen. Aber ſeit dem April 1860
+traten wiederholt Athmungsbeſchwerden, Herzklopfen, Erſtickungs⸗
+anfälle bei ihm ein. Am 20. September befiel ihn morgens nach dem
+
+
+Ein Lebensbild vom Herausgeber. [[p. 183]]
+
+
+Aufſtehen ein heftiger Bruſtkrampf, ſo daß er auf den Boden fiel
+und ſich die Stirn verletzte. Den Tag über fühlte er ſich wieder
+frei und die folgende Nacht verlief gut. Er war (den 21. Sep⸗
+tember) wie gewöhnlich aufgeſtanden, hatte ſich kalt gewaſchen und
+alsdann zum Frühſtück geſetzt; die Haushälterin hatte eben erſt
+die Morgenluft in das Zimmer gelaſſen und ſich dann entfernt.
+Einige Augenblicke ſpäter trat ſein Arzt herein und fand ihn todt,
+angelehnt in der Ecke des Sofas ſitzend. Ein Lungenſchlag hatte
+feinem Leben ein Ende gemacht. Das Geſicht war unentſtellt,
+ohne die Spur eines Todeskampfes. Das Haupt mit einem Lor⸗
+beerkranze geſchmückt, wurde die Leiche am 23. September in einer
+Leichenkammer des Friedhofes in der Stille beigeſetzt und erſt am
+26. September feierlich beerdigt. Vor dem kleinen gemiſchten
+Häuflein der zu dieſer Feier, zum Theil aus der Ferne Herbei⸗
+gekommenen redete zuerſt Pfarrer Dr. Baſſe, alsdann Schopen⸗
+hauer's Teſtamentsvollſtrecker, Dr. Wilhelm Gwinner. Ein von
+Immergrün umrankter flacher Grabſtein von ſchwarzem belgiſchen
+Granit deckt des Philoſophen Ruheſtätte. Auf dem Grabſtein ſteht,
+ſeiner ausdrücklichen Verfügung zufolge, nur: Arthur Schopen—
+hauer, „aber ſchlechterdings nichts weiter, kein Datum, noch
+Jahreszahl, gar nichts, keine Silbe.“ Als Dr. Gwinner ihn
+fragte, wo er ruhen wolle, erwiderte er: „Es iſt einerlei, ſie
+werden mich finden.“
+
+Schopenhauer ſetzte in ſeinem Teſtament (vom 26. Juni 1852
+mit einem Codicill vom 4. Februar 1859) zu feinem Univerſal⸗
+erben ein den in Berlin errichteten Fonds zur Unterſtützung der
+in den Aufruhr- und Empörungskämpfen der Jahre 1848 und
+1849 für Aufrechthaltung und Herſtellung der geſetzlichen Ordnung
+in Deutſchland invalide gewordenen preußiſchen Soldaten, wie
+auch der Hinterbliebenen ſolcher, die in jenen Kämpfen gefallen
+ſind. Mir vermachte Schopenhauer ſeine wiſſenſchaftlichen Manu⸗
+ſeripte, alle mit Papier durchſchoſſenen Exemplare ſeiner Werke,
+
+
+184 Arthur Schopenhauer.
+
+
+alle Werke und Schriften Kant's aus feiner Bibliothek, Kant's
+Büſte, das Verlagsrecht zu allen fernern Auflagen aller ſeiner
+Werke und ſeine goldene Bruſtnadel mit einem Smaragd. Seinem
+Teſtamentsvollſtrecker, Dr. Wilhelm Gwinner in Frankfurt a. M.,
+vermachte er ſeine Bibliothek; der frankfurter Stadtbibliothek be⸗
+ſtimmte, ihn darſtellende Daguerreotypen; dem Dr. Bähr, Sohn
+des Profeſſors der Malerei Bähr in Dresden, ſeine goldene Uhr;
+die dazu gehörende Kette mit Schlüſſel und zwei Petſchaften von
+Gold dem Dr. Lindner, Redacteur der Voſſiſchen Zeitung zu Ber⸗
+lin; ſeine goldene Brille mit Bronzefutteral dem Dr. Aſher in
+Leipzig; endlich dem Maler Lunteſchütz in. Frankfurt a. M. die
+elfenbeinerne Büſte ſeines Urgroßvaters und das Porträt ſeiner
+Mutter in Paſtell. Seine Haushälterin wurde in dem Teſtament
+anerkennend und freigebig bedacht und ſelbſt für ſeinen Pudel
+wurde angemeſſen geſorgt.
+
+
+Zur Bezeichnung des angeborenen Charakters Schopen⸗
+hauer's bediene ich mich eines von ihm ſelbſt gebrauchten Aus⸗
+drucks. Schopenhauer macht nämlich einen Gegenſatz zwiſchen
+dem Eukolos und Dyskolos, d. h. zwiſchen Dem, der leich-
+ten, und Dem, der ſchweren Sinnes iſt. (Welt als Wille u.
+Vorſt., I, 372 fg.) Er führt dieſe Verſchiedenheit der Grund⸗
+ſtimmung zurück auf die angeborene verſchiedene Empfänglichkeit
+für angenehme und unangenehme Eindrücke, infolge welcher der
+Eine noch lacht bei Dem, was den Andern faſt zur Verzweiflung
+bringt. (Parerga, I, 345 fg.) Nun Schopenhauer ſelbſt war
+entſchieden Dyskolos. Er war finſterer, mißtrauiſcher und arg⸗
+wöhniſcher Natur. So oft ihm z. B. der Briefträger einen Brief
+brachte, erſchrak er. Wenn nichts da war, was ihn ängſtigte, fo
+beängſtigte ihn eben dieſes, indem es ihm war, als müßte doch
+etwas da ſein, was ihm nur verborgen bliebe. Es findet aber
+
+
+Ein Lebensbild vom Herausgeber. [[p. 185]]
+
+
+auch auf ihn ſelbſt Anwendung, was er zum Troſt für die Dyskoloi
+hinſtellt: „Wie nicht leicht ein Uebel ohne alle Kompenſation iſt;
+ſo ergiebt ſich auch hier, daß die Dyskoloi, alſo die finſtern und
+/ ängſtlichen Charaktere, im Ganzen, zwar mehr imaginäre, dafür aber
+weniger reale Unfälle und Leiden zu überſtehen haben werden,
+als die heitern und ſorgloſen: denn wer Alles ſchwarz ſieht, ſtets
+das Schlimmſte befürchtet und demnach ſeine Vorkehrungen trifft,
+wird ſich nicht ſo oft verrechnet haben, als wer ſtets den Dingen
+die heitere Farbe und Ausſicht leiht.“ (Daſelbſt.)
+
+Noch ein anderer Gegenſatz, den Schopenhauer in Bezug auf
+angeborenen Charakter macht, kann uns zur Bezeichnung ſeines
+Charakters dienen. Er macht nämlich ſchon in ſeinen Erſtlings—
+manuſcripten einen Gegenſatz zwiſchen den lebhaften, unter dem
+Eindruck der anſchaulichen Gegenwart ſtehenden und den ver—
+nünftigen, geſetzten, gleichmüthigen, mehr in Begriffen lebenden
+Charakteren. Er ſelbſt nun gehörte und rechnete ſich ſelbſt zu den
+Erſteren. Er ſchrieb zu Dresden 1814 über ſich: „So oft ich in
+einen neuen Zuſtand, in eine neue Umgebung, getreten bin, bin ich
+Anfangs meiſtens unzufrieden und verdrießlich. Dies kommt da>
+her, daß ich vorher in Gedanken den neuen Zuſtand im Gans
+zen, wie die Vernunft es mit ſich bringt, überſah, jetzt aber die
+Gegenwart voll neuer Objekte lebhafter, als ſonſt, auf mich
+einwirkt, dabei aber, wie alle Gegenwart, dürftig ſeyn muß,
+und ich nun von ihr ſchon die Erfüllung alles Deſſen verlange,
+was der neue Zuſtand mir verhieß, indem ich eben ihrer lebhaften
+Einwirkung wegen mich mit ihr beſchäftigen muß und nicht zur
+Ueberſicht der ganzen Lebensweiſe, in der Vernunft, kommen kann.
+
+„Viele Verdrießlichkeit überhaupt entſteht mir und allen leb⸗
+haften Menſchen durch ein ſolches zu ſtarkes Befangenſeyn in der
+Gegenwart. Die hingegen, deren Hauptkraft die Vernunft, und
+
+N zwar in ihrer Anwendung aufs Praktiſche, ift, d. i. die eigentlich
+vernünftigen, geſetzten, gleichmüthigen Charaktere ſind viel hei⸗
+
+
+186 Arthur Schopenhauer. e
+
+
+terer, doch weniger in einzelnen Augenblicken aufgeregt und in
+brillianter Laune; auch können ſie nicht genial ſeyn. Denn ſie
+leben eigentlich und hauptſächlich in Begriffen, wobei das Leben
+ſelbſt und die Gegenwart nur mit ſchwachen Farben vor ihnen
+ſtehn.
+
+„Die, deren Hauptkraft die Vernunft iſt (eben weil die
+andern Kräfte bei ihnen nicht ſtark ſind), die rein Vernünftigen
+können nicht viel Einſamkeit vertragen, obgleich fie doch nicht
+lebhaft in Geſellſchaft ſind: denn Begriffe beſchäftigen nur einen
+Theil des Menſchen, man will Anſchauungen, und ſie müſſen dieſe
+in der Wirklichkeit ſuchen: ſtatt daß wer ſtarke Phantaſie hat,
+durch dieſe genug anſchaut, daher der Wirklichkeit und auch der
+Geſellſchaft mehr entbehren kann.“
+
+Aus dieſem Selbſtbekenntniß Schopenhauer's läßt ſich Manches
+in ſeinem Leben erklären. Es laſſen ſich daraus manche Verdrieß⸗
+lichkeiten erklären, die er ſich, weil es ihm an der Geſetztheit der
+Vernünftigen fehlte, zuzog, wovon ein Beiſpiel jene Alte iſt, die er
+in Berlin zur Thür hinausgeworfen und die er, weil ſie durch
+ihren unglücklichen Fall arbeitsunfähig geworden, lebenslänglich
+alimentiren mußte. (Vergl. Gwinner's Biographie Schopenhauer's,
+S. 62.) Es läßt ſich daraus aber auch ſeine Fähigkeit zum Er⸗
+tragen der Einſamkeit erklären. Seine lebhafte Phantaſie ſchuf
+ihm Stoff zum Anſchauen, auch wo die Wirklichkeit keinen bot,
+und ſchmückte ihm das Alltäglichſte und Dürftigſte aus, ſo daß
+etwas Poetiſches daraus wurde. Er ſah, wie alle Genies, alles
+Einzelne im Lichte einer Idee. Daraus entſprang aber auch für
+ihn, wie für alle Genialen, der Nachtheil, den er ſelbſt in dem
+Kapitel vom Genie (Welt als Wille u. Vorſt., II, Kap. 31,
+S. 443 fg.) daraus ableitet, daß das Genie vermöge ſeiner ge⸗
+ſteigerten Erkenntnißkraft in den Dingen mehr das Allgemeine
+als das Einzelne ſieht, während der Dienſt des Willens haupt⸗
+ſächlich die Erkenntniß des Einzelnen erfordert. „Aber wenn nun
+
+
+. Ein Lebensbild vom Herausgeber. [[p. 187]]
+
+
+wieder gelegentlich jene ganze abnorm erhöhte Erkenntnißkraft ſich
+plötzlich, mit aller ihrer Energie, auf die Angelegenheiten und Mi-
+ſeren des Willens richtet; ſo wird ſie dieſe leicht zu lebhaft auf—
+faſſen, Alles in zu grellen Farben, zu hellem Lichte und in's Un⸗
+geheure vergrößert erblicken, wodurch das Individuum auf lauter
+Extreme verfällt.. ... Hieraus entſteht es, daß hochbegabte Indi-
+viduen bisweilen über Kleinigkeiten in heftige Affekte der verſchie—
+denſten Art gerathen, die den Andern unbegreiflich ſind, als welche
+ſie in Trauer, Freude, Sorge, Furcht, Zorn u. ſ. w. verſetzt
+ſehen durch Dinge, bei welchen ein Alltagsmenſch ganz gelaſſen
+bliebe.“
+
+Auch was Schopenhauer (in demſelben Kapitel) von dem
+bisweilen an den Wahnſinn erinnernden Betragen genialer In⸗
+dividuen ſagt, findet auf ihn ſelbſt Anwendung. Er konnte laut
+
+| mit ſich allein ſprechen, lachen und geſticuliren, ohne daß ein
+äußerer Anlaß ſichtbar war, ſo daß ein fremder Beobachter ihn
+leicht für verrückt halten konnte. Aber vor wirklichem Wahnſinn,
+zu dem die Genies mehr, als Andere, disponirt ſind und dem
+ſchon ſo manches Genie verfallen iſt, bewahrte Schopenhauer
+ſein kräftiger Geiſt. Wenn jüngſt ein Doctor der Mediein ſo
+weit gegangen iſt, Schopenhauer zu einer Kategorie der Wahn⸗
+ſinnigen, nämlich Derer, die am „Größenwahn“ leiden, zu
+rechnen, jo zeugt Dies von wenig Ueberlegung. Dr. Karl v.
+Seidlitz hat nämlich eine Schrift veröffentlicht: „Arthur Scho—
+penhauer vom medieiniſchen Standpunkt aus betrachtet“ (Dorpat
+h 1872), der mediciniſchen Facultät der Univerfität zu Dorpat bei
+Verleihung des fünfzigjährigen Doctordiploms gewidmet. In dieſer
+Schrift ſagt Dr. v. Seidlitz: „Lindner's und Frauenſtädt's ſoge⸗
+nannte Indiscretionen haben uns koſtbare Documente geliefert,
+4 N auf Grundlage welcher wir die Anſchuldigungen gegen Schopen—
+hauer's Perſönlichkeit, wie gegen ſeine Ethik, vor ein neues Forum,
+nämlich vor eine medicinifche Jury bringen können. Die ſorg⸗
+
+
+, —
+
+
+188 Arthur Schopenhauer.
+
+
+fältige Prüfung der Acten läßt mich hoffen, ihm vor dieſen Richtern
+die Rechtswohlthat mildernder Umſtände zu verſchaffen, durch den
+Beweis, daß ſeine, zu ungemein ſcharfer Perception, wie zu inten⸗
+ſiver Denkarbeit befähigte geiſtige Anlage auf einer angeerbten
+Bildung ſeines Gehirns beruhte, und daher eine Seelenkrankheit
+hervorbringen konnte, die in der Pſychiatrie Größenwahn ge—
+nannt wird — ein Uebel, das unerkannt, ja oft bewundert, einzelne
+Individuen wie ganze Stände und Nationen befangen hält. Und
+daran litt Schopenhauer.“ (S. 3.)
+
+Dieſer Verſuch des Dr. v. Seidlitz, Schopenhauer's Perſön⸗
+lichkeit und Weltanſchauung zum Object der pſychologiſchen Patho⸗
+logie zu machen und demgemäß vor eine medieiniſche Jury zu
+bringen, iſt zwar ſchon treffend von Dr. David Aſher (in der
+Beilage zur Allgemeinen Zeitung, 1872, Nr. 347) gewürdigt
+worden. Dr. Aſher weiſt darauf hin, daß Schopenhauer ſelbſt die
+Verwandtſchaft zwiſchen Genialität und Wahnſinn anerkannt und
+gelehrt, und ſomit ſeinen Gegnern dieſe Angriffswaffe in die
+Hände gegeben hat. Er ſchließt ſeinen Artikel mit den Worten:
+„Ob aber Plato, Ariſtoteles, Horaz und Pope, welche alle von
+Schopenhauer zur Unterſtützung ſeiner Behauptung angeführt wer⸗
+den, daß, wie er den letztern Dichter überſetzt:
+
+„Dem Wahnſinn iſt der große Geiſt verwandt 5 l
+
+
+Und beide trennt nur eine dünne Wand“,
+Recht haben, oder ob wir mit Charles Lamb annehmen, daß es
+„eine Unmöglichkeit ſei, ſich Shakeſpeare als wahnſinnig vorzu⸗
+ſtellen“, und daß „die größten Geiſter ſtets die geſundeſten Dich—
+ter“ waren, ſo ſteht doch ſo viel feſt: daß der Wahnſinn, den
+Schopenhauer als mit dem Genie verwandt hielt, der Art iſt,
+welcher in Shakeſpeare's Worten bezeichnet iſt:
+
+
+„The poet's eye, in a fine frenzy rolling,
+Doth glance from heaven to earth, from earth to heaven“
+
+
+keineswegs aber mit dem „Größenwahn“ etwas gemein hat, den
+
+
+ra fe — Zee
+* j
+
+
+Ein Lebensbild vom Herausgeber. [[p. 189]]
+
+
+man heutzutage ſo gern jedem nachſagt oder aufzuheften verſucht,
+
+
+der die Maſſe um Kopfeslänge überragt.“
+
+
+Ich muß jedoch dieſe treffenden Bemerkungen des Dr. Aſher
+noch durch Folgendes ergänzen. Von eigentlichem „Größenwahn“
+könnte doch nur bei einem Individuum die Rede ſein, dem es an
+wirklicher Größe gebricht, das aber aus der Sucht, zu den
+Größen gezählt zu werden, alſo aus leidenſchaftlichem Ehrgeiz und
+Hochmuth, ſich eine Größe andichtet, die ihm in der Wirklichkeit
+fehlt, wie z. B. wenn ein Candidat der Theologie ſich einbildet,
+ein Gottgeſandter, ein zur Erlöſung der Menſchheit erſchienener
+Heiland zu ſein u. ſ. w. Hat es denn aber Schopenhauer an
+wirklicher Größe gefehlt? oder hat er ſich eine andere Größe
+in den Kopf geſetzt, als die er wirklich beſaß? Aus meinen Me-
+morabilien, die Dr. v. Seidlitz zur Quelle ſeiner Beweisführung
+reichlich benutzt, geht doch überzeugend genug hervor, daß Schopen-
+hauer nur in intellectueller Hinſicht groß von ſich gedacht und
+geſprochen hat, in moraliſcher Hinſicht aber ſehr demüthig war,
+wovon unter andern ſeine eigene Vergleichung des intellectuellen
+Theiles ſeiner Phyſiognomie mit dem moraliſchen, mit welchem
+letztern er nicht ſo zufrieden war, wie mit erſterm, ein Beweis iſt.
+(Vergl. Arthur Schopenhauer. Von ihm; über ihn, S. 280 fg.)
+
+
+In intellectueller Hinſicht, in der er ſich für groß und Fichte,
+
+
+Schelling, Hegel u. ſ. w. überragend hielt, war er ja aber auch
+wirklich groß und ſie überragend. Auch ſteht ja Schopenhauer
+mit dem Selbſtgefühl und der Selbſthervorhebung ſeiner in—
+tellectuellen Größe nicht iſolirt da; ſondern, wie er ſelbſt gezeigt,
+
+
+alle großen Geiſter haben groß von ſich gedacht und geſprochen;
+
+
+alle haben von der Beſcheidenheit nichts gehalten. „Es iſt
+ſo unmöglich, daß wer Verdienſte hat und weiß was ſie koſten,
+ſelbſt blind dagegen ſei, wie daß ein Mann von ſechs Fuß Höhe
+nicht merke, daß er die Andern überragt. Horaz, Lucrez, Ovid
+und faſt alle Alten haben ſtolz von ſich geredet, desgleichen Dante,
+
+
+*
+
+
+190 Arthur Schopenhauer.
+
+
+Shakeſpeare, Baco von Verulam und Viele mehr. Daß Einer
+ein großer Geiſt ſeyn könne, ohne etwas davon zu merken, iſt
+eine Abſurdität.“ (Welt als Wille u. Vorſt., II, 484. Parerga,
+II, 496.)
+
+Bei Schopenhauer könnte höchſtens von einiger Selbſtüber⸗
+ſchätzung die Rede fein; aber die pathologiſche Kategorie „Grö⸗
+ßenwahn“ läßt ſich in wiſſenſchaftlicher Strenge auf ihn nicht
+anwenden, oder man müßte ſie ebenſo auf alle andern großen
+Geiſter anwenden, die hoch von ſich gedacht und geſprochen haben.
+
+Daß den Philiſtern die Genies als wahnſinnig erſcheinen,
+darüber braucht man ſich nicht zu wundern. Denn ſtellt man ſich
+auf den Standpunkt, wo lediglich die philiſtröſe, im Dienſte der
+individuellen Willensintereſſen verharrende Thätigkeit des Geiſtes
+für geſund gilt, da muß die extravagirende, rein objective, vom
+Dienſte des Ego ſich losreißende Thätigkeit des genialen Indivi⸗
+duums als krankhaft erſcheinen. Alle Begeiſterung, ſei es reli-
+giöſe oder poetiſche, oder philoſophiſche, muß dem Alltagsmenſchen
+mindeſtens als Schwärmerei, als Donquijoterie erſcheinen. „Don
+Quijote allegoriſirt das Leben jedes Menſchen, der nicht, wie die
+Anderen, bloß ſein perſönliches Leben beſorgen will, ſondern einen
+objektiven, idealen Zweck verfolgt, welcher ſich ſeines Denkens und
+Wollens bemächtigt hat; womit er ſich dann in dieſer Welt frei⸗
+lich ſonderbar ausnimmt.“ (Welt als Wille u. Vorſt., I, 284.)
+Dieſen Don Quijotes verdankt die Menſchheit aber doch mehr,
+als den Sancho Panſas, und wir ziehen ihre Werke denen der
+Letztern vor.
+
+Ueberdies iſt aber noch Folgendes zu bedenken: Zwiſchen der
+bloßen Dispoſition zum Wahnſinn und dem wirklichen
+Wahnſinn iſt immer noch eine Kluft. Zugegeben alſo, daß die
+genialen Individuen eine ſtärkere Dispoſition zum Wahnſinn 5
+haben, als die Alltagsmenſchen, jo genügt dies doch nicht, um
+den wirklichen Wahnſinn eines beſtimmten genialen Individuums
+
+
+Ein Lebensbild vom Herausgeber. [[p. 191]]
+
+
+zu beweiſen. Zu dieſem Beweiſe ſind vielmehr Thatſachen erfor⸗
+derlich, die den wirklichen Verluſt der Geiſtesgeſundheit beweiſen,
+alſo z. B. fixe Ideen, denen die Realität ganz und gar wider—
+ſpricht, Verluſt der zuſammenhängenden Rückerinnerung, über⸗
+haupt Eintritt aller der Merkmale, an denen der wirkliche
+Wahnſinn erkennbar iſt. (Vergl. Welt als Wille u. Vorſt., I,
+Kap. 32 über den Wahnſinn.) Dergleichen den wirklichen
+Wahnſinn beweiſende Thatſachen aber hat Dr. v. Seidlitz in
+Bezug auf Schopenhauer nirgends beigebracht. Vielmehr hat er
+ſelbſt anerkannt, daß Schopenhauer's Gehirn kräftig genug war,
+um die in ihm ſchlummernde Dispoſition zum Wahnſinn zu über-
+winden. Wie hätte Schopenhauer ſonſt auch ſeine objectiven
+wiſſenſchaftlichen Werke ſchaffen können, Werke, deren Ausarbeitung
+doch ſein ganzes Leben ausgefüllt hat und die, wenngleich in
+manchen Punkten paradox und der herrſchenden Meinung zu—
+widerlaufend, doch durchaus nicht wie die fixen Ideen eines
+Verrückten ausſehen. Paradox ſind ja auch manche Anſichten
+anderer Philoſophen; aber noch Niemand hat ſie deshalb für
+verrückt gehalten. Wie paradox iſt nicht z. B. Berkeley's
+Idealismus, wie zuwiderlaufend der vulgären Anſicht des ſo—
+genannten „geſunden Menſchenverſtandes“! Hat man aber darum
+Berkeley für verrückt erklärt, oder darf ihn dafür erklären, weil
+nach ihm unſer Kopf nicht in der Welt, ſondern die Welt in
+unſerm Kopfe iſt?
+
+Während Dr. v. Seidlitz Schopenhauer's Perſönlichkeit vor
+das medieiniſche Forum zieht, haben dagegen die Philofophie-
+profeſſoren ſie vor das moraliſche Forum geſtellt. Und was ſie
+da in ihm ſehen wollten, das haben ſie richtig in ihm geſehen,
+nämlich moraliſche Häßlichkeit und Verwerflichkeit. Seine unge-
+wöhnliche geiſtige Begabung und Bildung zwar erkennen ſie an;
+aber in moraliſcher Hinſicht glauben ſie ſich berechtigt, über ihn
+den Stab zu brechen. So ſagt z. B. Profeſſor Eduard Zeller
+
+
+192 Arthur Schopenhauer.
+
+
+in feiner „Geſchichte der deutſchen Philoſophie feit Leibniz“ (Mün⸗
+chen 1873):
+
+„Schopenhauer nimmt nicht blos als Schriftſteller eine her⸗
+vorragende Stelle in der philoſophiſchen Literatur ein, ſondern er
+iſt auch ein Mann von ungewöhnlicher geiſtiger Begabung und
+vielſeitiger Bildung, welchen die Schärfe ſeines Denkens wie die
+Kraft ſeiner Anſchauung zur philoſophiſchen Forſchung entſchieden
+befähigte. Wenn er nichtsdeſtoweniger mit Beneke das Schickſal
+getheilt hat, daß er lange Zeit faſt unbeachtet blieb, und daß ſich
+ihm die Aufmerkſamkeit erſt gegen das Ende und nach dem Ende
+ſeines Lebens allgemeiner und eingehender zuwandte, ſo liegt der
+Grund davon theilweiſe allerdings in dem eigenthümlichen Charak⸗
+ter ſeiner Philoſophie und ihrem Gegenſatz gegen die herrſchende
+Denkweiſe, nicht zum kleinſten Theil aber auch in ſeiner Perſön⸗
+lichkeit und ſeinem perſönlichen Verhalten. So tief ſein wiſſen⸗
+ſchaftliches Streben, fo lebhaft fein Gefühl für das Schöne, fo
+ausgebildet ſein Geſchmack, ſo ſtark der ideale Zug ſeiner Natur
+iſt, ſo unbändig iſt andererſeits ſeine Sinnlichkeit, ſo maßlos ſeine
+Selbſtüberſchätzung und Selbſtanpreiſung, jo kleinlich feine Eitel-
+keit, ſo brennend ſein Ehrgeiz, ſo rückſichtslos ſeine Selbſtſucht.
+Unfähig, von ſich ſelbſt zu abſtrahiren und ſich durch die Wiſſen⸗
+ſchaft über die eigenen Schwächen erheben zu laſſen, überträgt er
+alle Widerſprüche und Grillen ſeiner launenhaften Natur in ſein
+Syſtem; jede wiſſenſchaftliche Einrede und jeder Erfolg eines
+gleichzeitigen Philoſophen erſcheint ihm als ein Attentat auf ſeinen
+eigenen Ruhm, erregt ſeinen unverſöhnlichen, in leidenſchaftlichen
+Schmähungen ſich ergießenden Haß; und ſtatt die Stellung, zu der
+er ſich berechtigt glaubt, in geduldiger Arbeit zu erringen, zieht er
+ſich, nach vorübergehenden unſtäten Anläufen zu einer akademiſchen
+Thätigkeit in Berlin, ſeit 1831 nach Frankfurt a. M. in den
+Schmollwinkel zurück. Bei einem ſolchen Verhalten iſt es nicht
+zu verwundern, daß er die Anerkennung, welche er fand, nicht
+
+
+Ein Lebensbild vom Herausgeber. [[p. 193]]
+
+
+früher gefunden hat. Aber wie viel er immer gefehlt haben mag,
+die Geſchichte der Philoſophie darf ihn nicht übergehen, und ſollte
+ſie auch des Einſeitigen, Ungeſunden und Widerſprechenden noch ſo
+viel bei ihm aufzuzeigen haben, für unbedeutend wird ſie ihn nicht
+erklären können.“ (S. 872 fg.)
+
+Hier wird, was Urſache iſt, zur Wirkung, und was Wirkung
+iſt, zur Urſache verkehrt. Nicht das perſönliche Verhalten Schopen⸗
+hauer's war Urſache feines langen Unbeachtetbleibens, ſondern um⸗
+gekehrt ſein langes Unbeachtetbleiben war Urſache ſeines perſönlichen
+Verhaltens. In der erſten Auflage der „Vierfachen Wurzel“ und der
+„Welt als Wille und Vorſtellung“ iſt noch nichts von jener Ani⸗
+moſität Schopenhauer's gegen ſeine Zeitgenoſſen und namentlich
+gegen die Philoſophieprofeſſoren zu ſpüren, die ſich in den ſpätern
+Auflagen und ſpätern Schriften Luft macht. Es hieße aber doch zu
+viel verlangt von einem philoſophiſchen Schriftſteller, der ſich be—
+wußt iſt, ein großes, das Welträthſel der Löſung näher bringen-
+des Werk vollendet zu haben, daß er gleichgültig bleiben ſollte
+gegen die Geringſchätzung der Fachgenoſſen, daß er ruhig zuſehen
+ſollte, wie das von ihm verachtete Schlechte laut geprieſen
+und für den Gipfel menſchlicher Leiſtungen ausgegeben wird,
+während über das von ihm dargebotene Gute beharrlich ge-
+ſchwiegen wird.
+
+Viel verſtändiger, als Zeller, hat über dieſen Punkt Dr.
+Hermann Frommann in ſeiner Schrift „Arthur Schopenhauer.
+Drei Vorleſungen“ (Jena 1872) geurtheilt. Dieſer ſagt nämlich:
+„Man braucht nicht Schopenhauer's Genie zu beſitzen, um ihm bis
+zu einem gewiſſen Grad nachfühlen zu können, was er, den die
+Natur zum Vordenker nicht nur feiner Zeitgenoſſen, ſondern un⸗
+zähliger, im Nebel der Zukunft ſchlummernder Generationen be⸗
+ſtimmt hatte, was ein ſolcher Mann ausſtehen mußte, als er die
+beſten Jahre ſeines Lebens in öder, unbekannter Einſamkeit ver⸗
+
+
+trauerte, während die Lehrſtühle der Philoſophie beſetzt waren mit
+Schopenhauer, Schriften zur Erkenntnißlehre. 13
+
+
+0.
+
+
+194 f Arthur Schopenhauer.
+
+
+unſelbſtſtändigen Nachbetern jener eben ſo bequemen wie genialen
+Intellectualanſchauung des Abſolutums, von deren Höhe man auf
+Kant's mühſame kritiſche Forſchungen mit überlegenem Lächeln
+herabſehen zu können ſich vermaß. Ich weiß nicht, ob Schopen⸗
+hauer recht hat, wenn er meint, daß ſeine Fachgenoſſen aus Neid
+ſich gegen ſein Aufkommen förmlich verſchworen hätten. Aber ſo
+viel ſteht feſt: Entweder ſie haben ihn abſichtlich todtgeſchwiegen,
+oder ſie fallen unter den Richterſpruch des franzöſiſchen Satzes:
+Il n'y a que l’esprit qui sent l’esprit; man muß ſelber Geiſt
+haben, um den Geiſt Anderer würdigen zu können — und zu
+wollen. Jede dieſer Alternativen iſt für die Profeſſoren der Phi⸗
+loſophie gleich ſchimpflich; ſchimpflich, daß ſie erſt durch die Stim⸗
+men der Laien, welche allmählig auf Schopenhauer durch deſſen
+populäre Schriften aufmerkſam geworden waren, ſich das ſaure
+Geſtändniß abzwingen ließen, Schopenhauer ſei ein bedeutender
+Denker, obgleich kein ſchulgerechter Akademiker. Uebrigens wird
+der Schein wiſſenſchaftlicher Conſequenz und Methode oft ſehr
+billig erreicht durch eine gewiſſe äußerliche Schematiſirung, welche
+dem tiefer Blickenden als das eee der Wahrheit er⸗
+ſcheint.“ (S. 3 fg.)
+
+Falſch iſt es ferner, wenn Zeller 1 daß Schopenhauer,
+anſtatt ſich die Stellung, zu der er ſich berechtigt glaubte, in ge⸗
+duldiger Arbeit zu erringen, in den Schmollwinkel zu Frankfurt
+a. M. ſich zurückgezogen habe. Die Sache verhält ſich vielmehr ſo:
+In dieſem Schmollwinkel hat Schopenhauer durch die beharrlichſte,
+geduldigſte Arbeit, — durch Ausarbeitung des zweiten Bandes der
+„Welt als Wille und Vorſtellung“, ferner der Schriften: „Ueber
+den Willen in der Natur“, „Die beiden Grundpropleme der Ethik“
+und „Parerga und Paralipomena“, — ſich die Stellung errungen,
+zu der er ſich berechtigt glaubte, nämlich der Lehrer der Menſch⸗
+heit zu werden.
+
+Falſch endlich iſt, was Zeller über Schopenhauer's ea
+
+
+Ein Lebensbild vom Herausgeber. [[p. 195]]
+
+
+den Ehrgeiz, der keine fremde Größe, kein fremdes Verdienſt, keinen
+
+fremden Ruhm neben ſich habe gelten laſſen wollen, ſagt. Scho⸗
+
+penhauer's Schriften liefern zahlreiche Beiſpiele, wie willig er
+war, fremde Größe und fremdes Verdienſt, wo er ſie nach ſeinem
+
+Urtheil wirklich fand, anzuerkennen. Wie hoch hat er Voltaire
+
+und Hume, Kant und Goethe geſchätzt! Wie willig war er
+ſogar, untergeordnete Verdienſte anzuerkennen, z. B. in der Phi⸗
+
+loſophie die eines Chriſtian Wolf (vergl. Parerga, I, 26) und
+
+in der Poeſie die eines Iffland, Kotzebue, Raupach (vergl.
+
+Parerga, II, $. 230), und wie nahm er derartige, wenn auch unter⸗
+
+geordnete, doch reelle Verdienſte, gegen ihre hochmüthigen Ver⸗
+
+ächter in Schutz!
+
+Nein, Schopenhauer war nicht eiferſüchtig auf fremdes Ver⸗
+dienſt und ſuchte nicht, es zu verkleinern. Nur dem Scheinver—
+dienſt und der Marktſchreierei zog er unerbittlich die Larve vom
+Geſicht, um die verderbliche Wirkung derſelben zu zerſtören, und
+nur ſo iſt ſeine Polemik gegen Hegel und ſonſtige nachkantiſche
+Berühmtheiten, deren Einfluß auf Kopf und Herz er für verderb⸗
+lich hielt, zu erklären.
+
+Die Beſchuldigung, welche die Gegner Schopenhauer's gegen
+ihn erhoben haben, daß er nur aus Neid und aus Verdruß über
+die Nichtbeachtung ſeines eigenen Syſtems Fichte, Schelling
+und Hegel verkleinert habe, iſt von mir ſchon ſchlagend widerlegt
+worden durch die Herausgabe der „Anmerkungen“ aus Scho⸗
+penhauer's handſchriftlichem Nachlaß. (Vergl. Aus Arthur Scho-
+penhauer's handſchriftlichem Nachlaß. Leipzig 1864. Abtheilung II.)
+Dieſe Anmerkungen zu den nachkantiſchen Philoſophen ſind lange
+vor der „Welt als Wille und Vorſtellung“ geſchrieben, alſo ehe
+noch Grund zum Verdruß über Nichtbeachtung des eigenen Sy⸗
+ſtems, welches ja damals noch gar nicht erſchienen, vorhanden war.
+Und doch geben dieſe „Anmerkungen“ ſchon eine ähnliche Gering⸗
+ſchätzung Fichte's, Schelling's u. ſ. w. kund, als die ſpätern Schrif⸗
+
+13*
+
+
+196 Arthur Schopenhauer. * N
+
+
+ten. Außerdem iſt, was ſpeciell Schopenhauer's Verhältniß zu 2
+Hegel betrifft, aus einem erſt nach Schopenhauer's Tode ver⸗
+öffentlichten Briefe zu erſehen, daß feine Geringſchätzung dieſes x
+Philoſophen von viel früher her datirt, als von der Zeit, wo er
+an der berliner Univerſität docirte. Dr. Hermann Frommann
+theilt nämlich in ſeiner Schrift: „Arthur Schopenhauer. Drei
+Vorleſungen“ (Jena 1872) aus der Zeit, wo Schopenhauer's
+Lebensgang vorübergehend das Frommann'ſche Haus in Jena be⸗
+rührte, einen Brief mit, aus dem hervorgeht, „daß Schopenhauer's
+Abneigung gegen Hegel älteren Datums iſt, als die ihm von
+demſelben in Berlin gemachte gefährliche Concurrenz“. In dieſem
+Briefe (datirt vom 4. November 1813 aus Rudolſtadt) ſchreibt
+Schopenhauer:
+
+„Indem ich, geehrter Herr Frommann, Ihnen die Abhand⸗
+lung überreiche, für die ich promovirt bin, ſende ich Ihnen zu-
+gleich unter herzlichem Dank Hegel's Logik zurück: ich würde dieſe
+nicht ſo lange behalten haben, hätte ich nicht gewußt, daß Sie
+ſolche ſo wenig leſen, als ich. Von dem andern Philoſophen aber,
+den ich durch Ihre Güte erhalten habe, dem Bako von Verulam,
+möchte ich mich noch nicht trennen, ſondern behielte ihn gern noch
+ein Weilchen, wenn Sie nicht etwan ſchon daran gemahnt ſind; in
+ein Paar Wochen werde ich Ihnen ſolchen in jedem Fall zurück⸗ 9
+ſchicken.“
+
+Wenn man ſich alſo der Wahrheit nicht verſchließt, ſo wird
+man zugeben müſſen, daß Schopenhauer nicht aus Neid, Eifer⸗
+ſucht, Ehrgeiz u. ſ. w., überhaupt nicht aus perſönlichen Motiven
+Fichte, Schelling und Hegel, ſowie den Troß ihrer Anhänger und
+Bewunderer herabgeſetzt hat, ſondern aus objectiven, ſachlichen
+Gründen, weil er von der Verderblichkeit ihrer Wirkung über⸗
+zeugt war.
+
+Die Gegner Schopenhauer's haben ferner auf ihrem morali-
+ſchen Richterſtuhl einen Widerſpruch zwiſchen feiner Lehre und
+
+
+Ein Lebensbild vom Herausgeber. [[p. 197]]
+
+
+ſeinem Leben, zwiſchen ſeiner Theorie und ſeiner Praxis finden
+wollen. In der Theorie preiſt er die Heiligkeit, er ſelbſt aber
+war nach feinem eigenen Geſtändniß nichts weniger, als ein Hei⸗
+liger; in der Theorie preiſt er die Herzensgüte, das Mitleid, die
+Menſchenliebe, er ſelbſt aber war ein hartherziger Egoiſt, ein ſelbſt⸗
+ſüchtiger Miſanthrop; in der Theorie ſtellt er moraliſche Vorzüge
+hoch über glänzende Geiſtesgaben, in der Wirklichkeit aber ſah er,
+eingenommen von feiner geiſtigen Größe, mit hochmüthiger Ver-
+achtung auf die Menge, die „Fabrikwaare der Natur“ hinab,
+u. ſ. w. u. ſ. w.
+
+Nun gut, wir wollen einmal annehmen, es verhielte ſich ſo,
+Leben und Lehre Schopenhauer's widerſprächen einander wirk⸗
+lich. Ein um fo glänzenderes Zeugniß läge hierin für die Ob⸗
+jectivität feines Geiſtes, für fein willensfreies, reines, über ſeine
+eigene Individualität ſich erhebendes Erkennen, für ſeine ſtarke
+Wahrheitsliebe. Während bei Andern die Theorie das Gepräge
+ihres perſönlichen Charakters trägt, ſubjectiv gefärbt iſt, nur eine
+Verherrlichung und Rechtfertigung ihres eigenen Weſens iſt, reißt
+bei Schopenhauer das Erkennen ſich vom eigenen perſönlichen
+Weſen los und giebt der Wahrheit die Ehre, auch da, wo die—
+ſelbe ſeiner eigenen Perſon zum Verdammungsurtheil gereichen
+muß.
+
+Soll alſo jene Beſchuldigung des Widerſpruches zwiſchen
+Leben und Lehre, welche die Gegner gegen Schopenhauer erheben,
+ſtehen bleiben, ſo muß die andere, welche ſie ebenfalls gegen ihn
+erheben, daß feine Lehre das Gepräge feiner Subjectivität, feiner
+Individualität trage, nur der Ausdruck feines perſönlichen, egoi-
+ſtiſchen Weſens ſei, geſtrichen werden. Soll hingegen dieſe letztere
+ſtehen bleiben, fo kann jene erſtere nicht daneben beſtehen. Denn
+beide zuſammen vertragen ſich nicht. Es kann Einer nicht das
+Gegentheil von Dem lehren, was er ſelbſt iſt, und doch in ſeiner
+Lehre nur ſein eigenes Weſen abſpiegeln.
+
+
+—
+
+
+198 Arthur Schopenhauer. 3
+
+
+Aber ſo ſind die Gegner Schopenhauer's. Sie ſcheuen ſich,
+um ihn moraliſch zu brandmarken, nicht, Anklagen gegen ihn zu u?
+erheben, die einander widerſprechen. N
+
+Was die behauptete Disharmonie zwiſchen Schopenhauer's
+Leben und Lehre betrifft, ſo habe ich meine Anſicht darüber ſchon
+in „Arthur Schopenhauer. Von ihm; über ihn“ (S. 270 fg.) ge⸗
+äußert. Ich habe dort gezeigt, daß man bei Beurtheilung des
+Lebens eines Menſchen nicht ſowohl auf die Werke, als auf
+die Geſinnung, oder mit andern Worten, nicht ſowohl auf das
+äußere, als auf das innere Leben zu ſehen hat, daß aber bei
+Schopenhauer zwiſchen innerm Leben und Lehre durchaus kein
+Widerſpruch beſteht. Was er in der Theorie preiſt, das bejahte
+auch ſein Wille, ſeine Geſinnung, wenngleich ſeine Handlungen N
+nicht immer Dem entſprachen. Aber bei Wem findet denn dieſer
+Widerſpruch zwiſchen Geſinnung und Handlung nicht ſtatt? Wer
+kann ſich frei davon ſprechen? Wen hat der natürliche Adam nicht
+verführt, anders zu handeln, als der moraliſche Adam in ihm
+wollte und billigte? Wer unter Euch ohne Sünde iſt, der hebe
+den erſten Stein auf!
+
+Nach der Geſinnung hat man die Perſon zu beurtheilen,
+nicht nach den Handlungen. Von dieſem Geſichtspunkt aus,
+welcher auch der des Evangeliums iſt, wird man zugeben müſſen:
+Wer fo, wie Schopenhauer, in der Theorie das Mitleid, die cari-
+tas, die Menſchenliebe preiſt, der konnte ſeinem innern Weſen
+nach kein gefühlloſer Egoiſt ſein; wer ſo in der Theorie die Her⸗
+zensgüte glänzenden Geiſtesgaben vorzieht, den konnten ſeine eige⸗
+nen glänzenden Geiſtesgaben nicht hochmüthig machen. Denn mit
+den Urtheilen der Billigung, überhaupt den Werthurtheilen, iſt es
+ſo beſchaffen, daß ſie einen Willen, der Das will, worauf ſie
+Werth legen, voraus ſetzen. Wer auf das Edle Werth legt, kann
+alſo nicht gemein ſein. Wer Gerechtigkeit und Menſchenliebe preiſt,
+
+
+Bus
+7
+
+
+\
+
+k
+|
+1
+hr
+
+
+de
+
+
+*
+
+
+Ein Lebensbild vom Herausgeber. [[p. 199]]
+
+
+kann feinem Weſen nach — und das Weſen iſt ja nach Schopen-
+hauer der Wille — kein Egoiſt ſein.
+
+Ueberdies liegt bei Dichtern und Philoſophen der Schwer⸗
+punkt ihres Wirkens nicht im Praktiſchen, ſondern im Theoreti⸗
+ſchen, in der äſthetiſchen und philoſophiſchen Contemplation und
+Production. Von dieſer ganz abſorbirt, vernachläſſigen ſie freilich
+oft mehr, als recht iſt, die Uebung praktiſcher Tugenden und die
+Erfüllung praktiſcher Pflichten. Wer wollte ihnen aber nicht,
+wenn fie nur in ih rem Berufe ihre Schuldigkeit thun, ihre Sün⸗
+den gegen die praktiſchen Forderungen vergeben? Ich erinnere hier
+an eine Stelle aus Schopenhauer's Erſtlingsmanuſcripten (Dres⸗
+den 1814): „Menſchen von Genie und Geiſt, und ſolche, bei denen
+die Ausbildung des Intellektuellen, des Theoretiſchen, des
+Geiſtes, der des Moraliſchen, des Praktiſchen, des Charakters
+weit vorgeeilt iſt, ſind im Leben oft nicht nur ungeſchickt und
+lächerlich, wie es Platon im 7. Buch der Republik bemerkt und
+Goethe im Taſſo geſchildert hat; ſondern ſie ſind auch oft ſogar
+moraliſch ſchwach, erbärmlich, ja faſt ſchlecht. (Wirkliche Beiſpiele
+hat Rouſſeau gegeben.) Dennoch iſt die Quelle aller Tugend,
+das beſſere Bewußtſeyn, in ihnen oft ſtärker, als in vielen beſſer
+Handelnden, doch weniger ſchön Denkenden, ja jene ſind eigentlich
+mit der Tugend genauer bekannt, als dieſe, die ſie beſſer üben.
+Jene möchten voll Eifer für das Gute, wie für das Schöne, ſich
+geraden Laufes zum Himmel erheben; aber das dicke Erdenelement
+widerſteht ihnen und ſie ſinken zurück. Sie gleichen geborenen
+Künſtlern, denen das Techniſche mangelt, oder denen der Marmor
+zu hart iſt. Mancher Andere, der viel weniger, als ſie, für das
+Gute begeiſtert iſt, ungleich weniger deſſen Tiefen ergründet hat,
+übt es viel beſſer: er ſieht auf jene mit Verachtung herab und
+hat ein Recht dazu, und doch verſteht er ſie nicht, und auch ſie
+verachten ihn, nicht mit Unrecht. Sie ſind zu tadeln, denn jeder
+Lebende hat eben durch ſein Leben die Bedingungen des Lebens
+
+
+4 1
+200 Arthur Schopenhauer. ey:
+unterſchrieben: aber fie find noch mehr zu bedauern. Sie werden y
+erlöft, nicht auf dem Wege der Tugend, fondern auf einem eigenen N i
+Wege: nicht die Werke, ſondern der Glaube macht ſie
+ſeelig“. (Man vergleiche hiezu noch die in meinem Schopenhauer⸗
+Lexion, in dem Artikel Genie, über „das Genie in ethiſcher Hin⸗
+ſicht“ zuſammengeſtellten Stellen.) -
+Ich gebe zu, daß Schopenhauer in feinem perſönlichen Ver⸗
+halten ſich mitunter ſchwach und klein zeigte. Aber das hindert
+mich dennoch nicht, ihn zu den großen Menſchen zu zählen. Denn
+wer iſt groß? Schopenhauer ſelbſt belehrt uns darüber treffend:
+Groß iſt nur Der, welcher bei ſeinem Wirken, dieſes ſei nun ein
+praktiſches, oder theoretiſches, nicht ſeine Sache ſucht, ſondern
+einen objectiven Zweck verfolgt. . . . Daß er nicht ſich und feine
+Sache ſucht, das macht ihn unter allen Umſtänden groß. Klein
+hingegen iſt alles auf perſönliche Zwecke gerichtete Treiben; weil
+der dadurch in Thätigkeit Verſetzte ſich nur in feiner eigenen, ver⸗
+ſchwindend kleinen Perſon erkennt und findet. (Welt als Wille u.
+Vorſt., II, 439.)
+Nun, war etwa Schopenhauer in dieſem Sinne nicht groß?
+Hat er nicht durch das muthige unerſchrockene Entgegentreten gegen
+die herrſchende Univerſitäts-Philoſophie, den herrſchenden Zeitgeift,
+die herrſchende optimiſtiſche Weltanſchauung, durch welches Ent⸗
+gegentreten er ſich ſo bittere Feinde machte, gezeigt, daß er ebenſo,
+wie Spinoza und Andere, nicht ſich, nicht ſeine Sache ſuchte?
+— Aber freilich, „wie offenbar die Allermeiſten ſtets klein ſeyn
+müſſen und niemals groß ſeyn können; fo iſt doch das umge-
+kehrte nicht möglich, daß nämlich Einer ſtets und jeden Augenblick
+groß ſei. Denn jeder große Mann muß dennoch oft nur das In⸗
+dividuum ſeyn, nur ſich im Auge haben und das heißt klein ſenn.
+Hierauf beruht die ſehr richtige Bemerkung, daß kein Held es vor
+ſeinem Kammerdiener bleibt, nicht aber darauf, daß der Kammer⸗
+
+
+Ein Lebensbild vom Herausgeber. [[p. 201]]
+
+
+diener den Helden nicht zu ſchätzen verſtehe.“ (Welt als Wille u.
+Vorſt., II, 439.)
+
+Dieſem Geſetze, nach welchem auch der Große bisweilen klein
+ſein und ſich klein zeigen muß, unterlag Schopenhauer ſo gut,
+wie andere Größen. Aber daraus folgt nicht, was feine ge-
+häſſigen Gegner gern folgern möchten, daß er ein kleiner und
+kleinlicher Menſch geweſen.
+
+„Einen Autor lernt man auch als Menſchen am leichteſten
+aus ſeinem Buche kennen“, ſagt Schopenhauer ſelbſt (Welt als
+Wille u. Vorſt., I, 292). Bei ihm trifft dies ſogar noch
+mehr zu, als bei andern Autoren, weil er in ſeinen Schriften
+durchaus keine Rückſicht auf das Publikum nimmt, ſondern
+ſich ganz unumwunden ausſpricht und was in ihm lebt, objectiv
+hinſtellt.
+
+Aber wie haben nun die Gegner Schopenhauer's die ihnen
+gebotene Gelegenheit, ihn als Menſchen aus ſeinen Schriften kennen
+zu lernen, benutzt? Sie haben in dem Beſtreben, ihn anzufchwär-
+zen, nur die anſtößigen Seiten ſeiner Schriften herausgeſucht und
+aus dieſen ſich den Menſchen conſtruirt, haben hingegen über die
+edelen und löblichen Seiten geſchwiegen, weil aus dieſen doch Löb—
+liches für den Menſchen gefolgt wäre. So kommt es denn, daß
+in dem Bilde, das ſie von Schopenhauer entwerfen, dieſer nur
+als ſchwarzgalliger Miſanthrop und Peſſimiſt, als hartherziger
+Egoiſt, als hochmüthiger Verächter der Welt erſcheint; wäh⸗
+rend doch Stellen genug aus Schopenhauer's Schriften ſich citiren
+ließen, in denen er als ein ganz Anderer, Edlerer und Beſſerer
+
+ſſſich kundgiebt. In Schopenhauer find eben zwei Naturen ver⸗
+einigt, die miteinander kämpfen und ringen, eine ſubjective
+und eine objective, eine perſönliche und eine überperſönliche.
+Und der objective Menſch in ihm trägt ſchließlich immer in der
+Oppoſition, die er gegen den ſubjectiven macht, den Sieg da⸗
+von. Wenn Schopenhauer ſagt: „Im Verlaufe des Lebens treten
+
+
+— Pr ee —
+
+
+202 Arthur Schopenhauer. bi
+
+
+Kopf und Herz immer mehr auseinander, immer mehr jondert
+
+
+man feine ſubjective Empfindung von feiner objectiven Erkenntniß“
+(Welt als Wille u. Vorſt., I, 296), fo gilt dies ganz beſonders
+von ihm. Im feinen ſpätern Schriften und den ſpätern Auf-
+lagen ſeiner Schriften iſt dieſe Sonderung immer deutlicher zu
+erkennen. Der weinende und grämliche Philoſoph verwandelt ſich
+immer mehr in einen Alles begreifenden.
+
+
+Ein Menſch aber, der fähig iſt, in dieſer Weiſe und in dieſem
+
+
+Grade ſich ſelbſt Oppoſition zu machen, mit ſeinem Kopfe ſein
+
+
+Ego in dieſer Weiſe zu bekämpfen und zu corrigiren, wie Scho⸗
+
+
+penhauer gethan, kann kein gemeiner, kein unedeler, moraliſch ver⸗
+werflicher Menſch ſein.
+
+Schließlich will ich noch meine Anſicht über das Prädicat
+„Sonderling“ jagen, das man Schopenhauer fo oft bei—
+gelegt hat.
+
+Ich will es nicht in Abrede ſtellen, daß er ein Sonderling
+war. Aber es kommt nach meiner Anſicht Alles darauf an, aus
+
+
+welchen Motiven Einer ein Sonderling iſt. Ich unterſcheide
+
+
+zwei Arten von Sonderlingen, eine edele, lobenswerthe, und eine
+gemeine, verwerfliche Art. Der gemeine Sonderling ſondert ſich
+von der herrſchenden Denk- und Lebensweiſe ab aus Eitelkeit, aus
+der Sucht, die Aufmerkſamkeit auf ſich zu lenken und für ein
+Original zu gelten. Der edele Sonderling ſondert ſich ab, weil
+er ein Original iſt, weil er ſelbſt denkt und den Muth hat,
+lieber feiner eigenen Ueberzeugung zu folgen, ſollte er auch dar⸗
+über für einen Narren gehalten werden, oder ſich Feinde machen,
+als ſich zum Sklaven der herrſchenden Vorurtheile zu erniedrigen,
+ſollte Letzteres auch noch ſo viel Ehre, oder Vortheil einbringen.
+Alſo Originalität und Muth, der eigenen Ueberzeugung zu
+folgen, machen den edelen Sonderling. Schopenhauer nun ge⸗
+hörte, wie mehr oder weniger alle Genies, zu dieſer Klaſſe der
+edelen Sonderlinge und darum kann man das Prädicat Sonder⸗
+
+
+—
+* .
+u
+
+
+TREE dee
+
+
+Ein Lebensbild vom Herausgeber. [[p. 203]]
+
+
+ling in Bezug auf ihn zwar gelten laſſen, muß aber den Tadel
+aus demſelben ſtreichen.
+
+„Die Genies leiſten, was den Uebrigen ſchlechthin verſagt
+iſt. Demgemäß iſt denn auch ihre Originalität ſo groß, daß
+nicht nur ihre Verſchiedenheit von den übrigen Menſchen augen-
+fällig wird, ſondern ſelbſt die Individualität eines Jeden von
+ihnen ſo ſtark ausgeprägt iſt, daß zwiſchen allen je dageweſenen
+Genies ein gänzlicher Unterſchied des Geiſtes und Charakters
+ſtattſindet.“ (Parerga, II, 89.) „Für fein Thun und Laſſen
+darf man keinen Andern zum Muſter nehmen; weil Lage, Um:
+ſtände, Verhältniſſe nie die gleichen find, und weil die Verſchie⸗
+denheit des Charakters auch der Handlung einen verſchiedenen
+Anſtrich giebt, daher duo cum faciunt idem, non est idem.
+Man muß, nach reiflicher Ueberlegung und ſcharfem Nachdenken,
+ſeinem eigenen Charakter gemäß handeln. Alſo auch im Prak—
+tiſchen iſt Originalität unerläßlich; ſonſt paßt was man thut
+
+7 nicht zu dem was man iſt.“ (Parerga, I. 493.)
+
+Im Lichte dieſer Betrachtungen muß man den Sonderling
+
+Schopenhauer ſehen, um ihn richtig zu ſehen.
+
+
+Arthur Schopenhauer's
+Schriften
+
+
+zur
+
+
+Erkenntnißlehre.
+
+
+E
+
+
+Ueber die vierfache Wurzel
+des
+
+
+Sabes vom Zureichenden Grunde.
+
+
+.
+
+
+Eine philoſophiſche Abhandlung
+
+
+von
+
+
+7
+
+
+Arthur Schopenhauer.
+
+
+Nal pa tov dherspg Yoyf rapaddvre Terp ax, a
+Lara devdeu g ,ο, ACEA 7’ Eyougav.
+
+
+Mit einer Lithograpbirte

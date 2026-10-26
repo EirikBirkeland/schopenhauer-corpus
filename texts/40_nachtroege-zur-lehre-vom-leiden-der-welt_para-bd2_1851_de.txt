@@ -1,0 +1,460 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Nachtraege zur Lehre vom Leiden der Welt (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Supplements to the doctrine of the suffering of the world - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 252-257. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "Kapitel XII Nacträge zur Lehre vom Leiden der Welt. $. 148."; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (162 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XII Nacträge zur Lehre vom Leiden der Welt. $. 148. Wen", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 132 to § 155, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (0 made); the chapter's range by the volume's own heads is S. 252-257.]
+
+Kapitel XII
+Nacträge zur Lehre vom Leiden der Welt.
+
+
+$. 148.
+
+
+Wenn nicht der nächfte und unmittelbare Zwed unsers Yes
+bens das Leiden ist; fo ift unjer Dafeyn das Zweckwidrigste auf
+der Welt. Denn es ift abfurd, anzunehmen, daß der enblofe,
+aus der dem Leben wefentlichen Noth entipringende Schmerz,
+davon die Welt überall voll ift, zwecklos und rein zufällig feyn
+sollte.
+
+
+§. 149.
+
+
+Wie der Bach keine Strudel macht, so lange er auf keine
+Hindernisse trifft, so bringt die menschliche, wie die thierische
+Natur es mit sich, daß wir Alles, was unserm Willen gemäß
+geht, nicht recht merken und inne werden. Sollen wir es mer—
+fen; fo muß es nicht sogleich unsernm Willen gemäß gegangen
+feyn, fondern irgend einen Anftoß gefunden haben. — Hingegen
+Alles, was unferm Willen fi) entgegenftellt, ihn durchkreuzt,
+ihn wiberfirebt, alfo alles Unangenehme und Schmerzlihe em-
+pfinden wir unmittelbar, fogleih und fehr deutlich. Hierauf
+beruht die, von mir öfter hervorgehobene Negativität des Wohl-
+jeyns und Glücks, im Gegenfag der Pofitivität des Schmerzes.
+
+Ich kenne demnach Feine größere Abjurbität, als bie ber
+meiften metaphysischen Systeme, welche das Uebel für etwas Ne—
+gatives erklären; während es gerade das Pofitive, das sich felbft
+fühlbar machende iftz hingegen das Gute, d. h. alles Glück und
+alle Befriedigung, ift das Negative, nämlich das bloße Aufheben
+des Wunfches und Endigen einer Wein.
+
+Hiezu ftimmt auch Dies, dag wir, in ber Regel, die Freu—⸗
+* weit unter, die Schmerzen weit über unsere Erwartung
+
+nden. —
+
+
+248 Nachträge zur Lehre
+
+
+er die Behauptung, dag, in der Welt, der Genuß den
+Schmerz überwiegt, oder wenigftens fie einander die Waage
+halten, in der Kürze prüfen will, vergleiche die Empfindung des
+Thiereg, welches ein anderes frißt, mit der diefes andern. —
+
+
+$. 150.
+
+
+Die Gefhichte zeigt und das Leben der Völker, und findet
+nichte, ald Kriege und Empörungen zu erzählen: die friebliden
+Jahre erfcheinen nur als kurze Paufen, Zwifchenafte, dann und
+wann ein Mal. Und eben fo ift dag Leben des Einzelnen ein
+fortwährender Kampf, nicht etman bloß metaphorifch mit der
+Noth, oder mit der Langenweile; fondern auch wirflih mit An—
+bern. Er findet überall den Widerfacher, Tebt in befländigem
+Kampfe und ftirbt, die Waffen in der Hand. —
+
+
+$. 151.
+
+
+Zur Plage unferd Dafeynd trägt nicht wenig auch Dieses
+bei, daß ftetd die Zeit und drängt, ung nicht zu Athem kom—
+men läßt und hinter Jedem ber ift, wie ein Zuchtmeifter mit
+der Peitsche. — Bloß Dem feßt fie nicht zu, den fie der Qangene
+weile überliefert hat.
+
+
+$. 132.
+
+
+Jedoch, wie unfer Leib auseinanderplagen müßte, wenn der
+Drud der Atmosphäre von ihm genommen wäre; — fo würde,
+wenn der Drud der Noth, Mühfäligfeit, Widerwärtigfeit und
+Bereitelung der Beftrebungen vom Leben der Menfchen wegge—
+nommen wäre, ihr Uebermuth fich fteigern, wenn auch nicht bis
+zum Platzen, doch bis zu ben Erscheinungen der zügellofeften
+Narrheit, ja, Raferei. — Sogar bedarf Jeder allezeit eines ge-
+wiffen Quantums Sorge, oder Schmerz, oder Noth, wie das
+Schiff des Balfafte, um feft und gerade zu gehn.
+
+$. 153.
+
+Wegen ber oben in Erinnerung gebrachten Negativität des
+Wohlseyns und Genuffes, im Gegenfag der Pofitivität des
+Schmerzes, ift das Glück eined gegebenen Lebenslaufes nicht
+nad dessen Freuden und Genüflen abzufhägen, fondern nach ber
+
+
+vom Leiden der Welt. 249
+
+
+Abwesenheit der Leiden, ald des Pofitiven. Dann aber erfcheint
+das Loos der Thiere erträglicher, als das des Menfchen. Wir
+wollen Beide etwas näher betrachten.
+
+Sp mannigfaltig auch die Formen find, unter denen das
+Glück und Unglück des Menfchen sich darftellt und ihn zum Ver,
+folgen, oder Fliehen, anregt; fo ift doch bie materielle Bafid von
+dem Alfen der förperlihe Genuß, oder Schmerz. Diele Basis
+ift fehr fchmal: es ift Gefundheit, Nahrung, Schus vor Näffe
+und Kälte, und Gefchlechtöbefriedigung; oder aber der Mangel
+an diefen Dingen. Folglich hat der Menfch an realem physischem
+Genusse nicht mehr, denn das Thier; als etwan nur infofern
+fein Höher potenzirtes Nervensystem die Empfindung jebes Ge-
+nuffes, jedoch auch die jedes Schmerzes, fteigert. Allein, wie
+sehr viel ftärfer find die Affefte, welche in ihm erregt werden,
+als die des Thieres! wie ungleich tiefer und heftiger wird fein
+Gemüth bewegt! — um zulegt doch nur das felbe Nefultat zu
+erlangen: Gefundheit, Nahrung, Bedeckung u. s. w.
+
+Dies entfteht zuvörderst daraus, daß bei ihm Alles eine
+mächtige Steigerung erhält durch das Denfen an das Abwesende
+und Zufünftige, woburd nämlich Sorge, Furt und Hoffnung
+erft eigentlih ind Dafeyn treten, dann aber ihm viel ftärfer zu-
+setzen, als die gegenwärtige Realität der Genüffe, oder Leiden,
+auf welche das Thier befchränft” ift, ed vermag. Diefem näm—
+lich fehlt, mit der Reflerion, der Kondenfator der Freuden. und
+Leiden, welche daher sich nicht anhäufen fünnen, wie dies beim
+Menfchen, mittelft Erinnerung und Vorhersehung gefchieht: fon«
+dern beim Thiere bleibt das Leiden der Gegenwart, auch wenn
+es unzählige Mal hinter einander miederfehrt, doch immer nur,
+wie das erste Mal, das Leiden der Gegenwart, und fann fich
+nicht aufsummiren. Daher bie beneidenswerthe - Sorglofigfeit
+und Gemüthsruhe der Thiere. Hingegen mittelft der Neflerion
+und Dem, was an ihr hängt, entwickelt fih im Menfchen, aus
+jenen nämlichen Elementen des Genuffes und Leidens, die das
+Thier mit ihm gemein hat, eine Steigerung der Empfindung fei=
+nes Glückes und Unglüds, die bis zum augenblidlichen, biswei—
+len fogar töbtlihen Entzüden, oder auch zum verzweifelten
+Selbstmord führen kann. Näher betrachtet. ift der Gang ber
+Sache folgender. Seine Bebürfniffe, die urfprünglich nur wenig
+
+
+250 Nachträge zur Lehre
+
+
+schwerer zu befriedigen find, als bie des Thieres, fleigert er ab⸗
+fihtlih, um den Genuß zu fleigern: daher Lurus, Lederbiffen,
+Tabaf, Opium, geiftige Getränke, Pracht und Alles, was dahin
+gehört. Dann kommt, ebenfalls in Folge der Reflexion, noch
+hinzu eine ihn allein fließende Duelle des Genufjes, und folg-
+lich der Leiden, bie ihm über alle Maaßen viel, ja, faft mehr
+als alle übrigen zu fchaffen macht, nämlich Ambition, und Ge—
+fügt für Ehre und Schande: — in Profa, feine Meinung von
+der Meinung Anderer von ihm. Diefe nun wird, in taufendb-
+fachen und oft feltfamen Geftalten, das Ziel faft aller feiner,
+über den phyfifchen Genuß, oder Schmerz, hinausgehenden Be—
+ftrebungen. Zwar hat er allerdings vor dem Thiere noch Die
+eigentlich intellektuellen Genüffe voraus, die gar viele Abftufuns
+gen zulaflen, von der einfältigften Spielerei, oder auch Konver-
+fation, bis zu den böchften geiftigen Leiftungen: aber ald Gegen—
+gewicht dazu, auf der Seite der Leiden, tritt bei ihm die Yan
+geweile auf, welche das Thier, mwenigftens im Naturzuftande,
+nicht Fennt, fondern von der nur im gezähmten Zuftande die
+allerklügsten Thiere Yeichte Anfälle spüren; während fie beim
+Menschen zu einer wirklichen Geiffel wird, wie befonders zu er=
+fehn an jenem Heer der Erbärmlichen, die ftetd nur darauf be—
+dacht gewefen find, ihren Beutel, aber nie ihren Kopf zu füllen,
+und denen nun gerade ihr MWohlftand zur Strafe wird, indem
+er fie der marternden Langenweile in bie Hände liefert, welcher
+zu entgehn, fie jest bald herumjagen, bald berumfchleichen, bald
+herumreifen, und überall, kaum angelangt, fih ängftlich erfuns
+digen nach den Reffourcen des Ortes, wie der Bebürftige
+nah den Hülfsquellen beffelben: — denn freilih find Noth
+und Langeweile die beiden Pole des Menschenlebens. Endlich
+ift noch zu erwähnen, daß beim Menfchen sich an die Gefchlechtsbe-
+friedigung eine nur ihm eigene, fehr eigenfinnige Auswahl Fnüpft,
+die bisweilen sich zu der, mehr oder minder, leidenschaftlichen
+Liebe fteigert, welcher ich, im zweiten Bande meines Hauptwerks,
+ein ausführliches Kapitel gewidmet habe. Jene wird dadurch
+ber ihm eine Quelle Ianger Leiden und furzer Freuden.
+
+Zu bewundern ift ed inzwischen, wie, mittelft ber Zuthat
+des Denfens, welches dem Thiere abgeht, auf der felben schma⸗
+fen Bafis der Leiden und Freuben, die auch das Thier hat, das
+
+
+von Leiden der Melt. 251
+
+
+so hohe und meitläuftige Gebäude des Menfchenglüdes und Un—
+glücks fich erhebt, in Beziehung auf welches fein Gemüth fo ftars
+fen Affekten, Leidenfchaften und Erfchütterungen Preid gegeben
+ift, daß das Gepräge derfelben in bleibenden Zügen auf feinem
+Gefihte lesbar wird; während doch am Ende und im Realen es
+fih nur um die felben Dinge handelt, die auch das Thier er«
+langt, und zwar mit unvergleichlih geringerem Aufwande von
+Affeften und Dunalen. Durch dieses Alles aber wächst im Men-
+ichen das Maaß des Schmerzes viel mehr, ald das bed Genusses,
+und wird nun noch fpeciell dadurch gar fehr vergrößert, daß er
+vom Tode wirflih weiß; während das Thier diefen nur inftinf:
+tin flieht, ohne ihn eigentlich zu Fennen und daher ohne jemals
+ihn wirklich ins Auge zu faflen, wie der Menfch, der diesen Pro-
+ipeft lets vor fih Hat. Wenn nun alfo aud nur wenige Thiere
+natürfichen Todes fterben, die meiften aber nur fo viel Zeit ge-
+winnen, ihr Gefchlecht fortzupflanzen, und dann, wenn nicht schon
+früher, die Beute eines andern werben, ber Menfch allein hin-
+gegen es dahin gebracht hat, daß, im feinem Gefchlechte, der
+fogenannte natürliche Tod zur Negel geworden ift, die inzwifchen
+beträchtliche Ausnahmen leidet; fo bleiben, aus obigem Grunde,
+die Thiere doch im Bortheil. Ueberdies aber erreicht er fein
+wirklich natürliches Lebensziel eben fo felten, wie jene; weil die
+Widernatürlichkeit feiner Lebensweife, nebft feinen Anftrengungen
+und Leidenschaften, und die durch alles Diefes entflandene Dege-
+neration der Rafle ihn felten dahin gelangen läßt.
+
+
+$. 154.
+
+
+Hat fih und nun im Dbigen ergeben, daß die erhöhte Er-
+kenntnißkraft es ift, welche das Leben des Menfchen fchmerzeng-
+reicher macht, als bas des Thieres; jo können wir Diefes auf
+ein allgemeineres Gefeg zurüdführen und dadurch einen viel wei⸗
+teren Ueberblick erlangen.
+
+Erfenntniß ift, an fich ferbft, stets fchmerzlos. Der Schmerz
+trifft allein den Willen und befteht in der Hemmung, Hinbe-
+rung, Durchkreuzung befjelben: dennoch ift dazu erfordert, daß
+diefe Hemmung von der Erfenntniß begleitet fei. Wie nämlich
+das Licht den Raum nur dann erhellt, warn Gegenftände dafind,
+es zurüdzumerfen; wie der Ton der Resonanz bedarf, und der
+
+
+2572 Nachträge zur Lehre
+
+
+Schall überhaupt nur dadurch, daß die Wellen der vibrirenden
+Luft fihb an harten Körpern brechen, weit hörbar wird; daher
+er auf ifolirten Bergfpigen auffallend schwach ausfällt, ja, schon
+ein Gefang im Freien wenig Wirkung thut; — eben fo nun
+muß die Hemmung ded Willens, um ald Schmerz empfunden
+zu werben, von der Erfenntniß, welder doch, an sich selbst,
+aller Schmerz fremd ist, begleitet seyn.
+
+Daher ist schon der physische Schmerz durch Nerven und
+deren Verbindung mit dem Gehirn bedingt, weshalb die Ver—
+letzung eines Gliedes nicht gefühlt wirb, wenn dessen zum Ge—
+hirn gehende Nerven durchichnitten find, oder das Gehirn felbft,
+durch Chloroform, bdepotenzirt ist. Ebendeswegen auch halten
+wir, fobalb im Sterben das Bewußtseyn erlofchen ift, alle noch
+folgenden Zudungen für fohmerzlos. Daß der geiftige Schmerz
+durch Erkenntniß bedingt fei, verfteht fih von felbft, und daß er
+mit dem Grabe derfelben wachse, ift leicht abzufehn, zudem im
+Dbigen, wie auch in meinem Hauptwerfe (Bd. 1. $. 56), nach⸗
+gewiefen worden. — Wir fönnen also das ganze Verhältniß
+bildlich so ausdrüden: der Wille ift die Saite, feine Durchfreus
+zung, oder Hinderung, beren Bibration, die Erfenntniß der Re-
+fonanzboden, der Schmerz ift ver Ton.
+
+Demzufolge nun ift nicht nur das Unorganifche, sondern
+auch die Pflanze keines Schmerzes fähig; so viele Hemmungen
+auch der Wille in Beiden erleiden mag. Hingegen jedes Thier,
+selbst ein Infusorium, leidet Schmerz; weil Erkenntniß, sei sie
+auch noch so unvollkommen, der wahre Charakter der Thierheit
+ist. Mit ihrer Steigerung, auf der Skala der Animalität, wächst
+demgemäß auch der Schmerz. Er ist sonach bei den untersten
+Thieren noch äußerst gering: daher kommt es z. DB. daß Insek—
+ten, die ihren abgerissenen und bloß an einem Darm hängenden
+Hinterleib nach sich schleppen, dabei noch fressen. Aber sogar
+bei den obersten Thieren kommt, wegen Abwesenheit der Begriffe
+und des Denkens, der Schmerz dem des Menschen noch nicht
+nahe. Auch durfte die Fähigkeit zu diesem ihren Höhepunkt erst
+da erreichen, wo vermöge der Vernunft und ihrer Besonnenheit,
+auch die Möglichkeit zur Verneinung des Willens vorhanden
+if. Denn ohne diese wäre fie eine zwecklose Grausamleit ges
+wejen.
+
+
+vom Leiden ver Welt. 253
+
+
+$. 155. |
+
+In früher Jugend figen wir vor unferm bevorftehenden
+Lebenslauf, wie die Kinder vor dem Theatervorhang, in froher
+und gefpannter Erwartung der Dinge, die da kommen follen.
+Ein Glück, daß wir nicht wiffen, was wirklich fommen wird.
+Denn wer es weiß, dem können zu Zeiten die Kinder vorfom-
+men wie unfhuldige Delinquenten, die zwar nicht zum Tode,
+hingegen zum Leben verurtheilt find, jedoch den Inhalt ihres Ur-
+theils noch nicht vernommen haben. — Nichtöveftoweniger wünscht
+Jeder fih ein hohes Alter, alfo einen Zuftand, darin es heißt:
+„es ift heute fchlecht und wird nun täglich fchlechter werden, —
+bis das Schlimmfte kommt.“
+
+
+$. 156,
+
+
+Wenn man, fo weit es annäherungsmweife möglich ift, bie
+Summe von Noth, Schmerz und Leiden jeder Art fi vorftellt,
+welche Die Sonne in ihrem Laufe befcheint; fo wird man ein
+räumen, daß es viel befler wäre, wenn fie auf der Erde fo we—
+nig, wie auf dem Monde, hätte das Phänomen des Lebens her-
+vorrufen fönnen, fondern, wie auf diefem, fo auch auf jener
+die Oberfläche fih noch im Frpftallinifchen Zuftande befinde. —
+
+Man kann auch unfer Leben auffaflen als eine unnützerweise
+ftörende Epifode in der feeligen Ruhe des Nichts. ebenfalls
+wirb felbft Der, dem es darin erträglich ergangen, je länger er
+lebt, defto deutlicher inne, daß ed im Ganzen a disappointment,
+nay, a cheat ift, oder, deutfch zu reden, den Charakter einer
+großen Moftififation, nicht zu fagen einer Prelferei, trägt. —
+
+Man denke fih ein Mal, daß der Zeugungsaft weder ein
+Bedürfniß, noch von Wolluft begleitet, fondern eine Sache ber
+reinen, vernünftigen Veberlegung wäre: Fönnte wohl dann das
+Menfchengefchlecht noch beftehn? würde nicht vielmehr Jeder fo
+viel Mitleid mit der Fommenden Generation gehabt haben, daß
+er ihr die Last des Daseyns Fieber erjpart, oder wenigstens es
+nicht hätte auf fih nehmen mögen, fie Taltblütig ihr aufzu—
+legen? —
+
+Da werde ich wohl wieder vernehmen müflen, meine Phi-
+Iofophie fei troftlog; — eben nur weil ich nach der Wahrheit
+rede, die Leute aber bören wollen, Gott der Herr habe Altes
+
+
+254 Nachträge zur Lehre
+
+
+wohlgemadt. Geht in die Kirche und laßt bie Philofophen in
+Ruhe. Wenigstens verlangt nicht, daß fie ihre Lehren eurer
+Abrichtung gemäß einrichten follen: das thun die Lumpe, Die
+Philofophafter: bei denen Fünnt ihr euch Lehren nad Belieben
+beftellen,
+
+Brahma bringt durch eine Art Sündenfall, oder Berir-
+rung, die Welt hervor, bleibt aber dafür felbft darin, es abzubü-
+Ben, bis er fih daraus erlöft hat. — Sehr gut! — Im Bud—
+dhaismus entfteht fie in Folge einer, nad) langer Ruhe eintre-
+tenden, unerflärlichen Trübung in der Himmelöflarheit bes, durch
+Buße erlangten, feeligen Zuftandes Nirwana, alfo durch eine
+Art Fatalität, die aber doch im Grunde moralifh zu verstehn ist;
+wiewohl die Sache fogar im Physischen, durch das unerflärliche
+Entftehn fo eines Lrmeltnebelftreifs, aus dem eine Sonne wird,
+ein genau entfprechendes Bild und Analogon hat. — Vortrefflich!
+— Den Griechen waren Welt und Götter das Werk einer
+unergründlichen Nothwendigkeit: — das ift erträglich, fofern es
+und einftweilen zufrieden ftelt. — Ormuzd lebt im Kampfe
+mit Ahriman: — das läßt fih hören. — Aber fo ein Gott
+Jehova, der animi causa und de gaiete de coeur biefe Welt
+ber Noth und des Jammers herporbringt und dann noch gar
+fih felber Beifall Hatiht, mit name xade dıav, — Das ift
+nicht zu ertragen.
+
+Wenn auch die Leibnigiiche Demonftration, daß unter ben
+möglihen Welten diefe noch immer die befte fei, richtig wäre;
+fo gäbe fie doch noch feine Theodicee. Denn der Schöpfer
+hat ja nicht bloß die Welt, fondern auch die Möglichkeit selbst
+geschaffen: er hätte demnach diese darauf einrichten follen, daß
+fie eine befiere Welt zuließe.
+
+Ueberhaupt aber fchreiet gegen eine solche Anficht der Welt,
+als des gelungenen Werfes eines allweilen, allgütigen und da-
+bei allmächtigen Wesens, zu Inut einerfeitd das Elend, dessen fie
+voll ift, und andrerfeits die augenfällige Unvollfommenheit und
+felbft burlesle Verzerrung der vollendeteften ihrer Erfcheinungen,
+der menfchlichen. Hier Tiegt eine nicht aufzulöfende Diffonanz.
+Hingegen werben eben jene Instanzen zu unfrer Rede ftimmen
+und ald Belege derfelben dienen, wenn wir die Welt auffaflen
+als das Werf unferer eigenen Schul, mithin ald etwas, das
+
+
+vom Leiden ver Melt. 255
+
+
+beffer nicht wäre. Während biefelben unter jener erften Annahme,
+zu einer bittern Anflage gegen den Schöpfer werden und zu Sar-
+kasmen Stoff geben, treten fie, unter ber andern, als eine An-
+flage unfers eigenen Wesens und Willens auf, geeignet ung zu
+demüthigen. Denn fie leiten ung zu der Einficht hin, daß wir,
+wie die Kinder Liederlicher Väter, schon verfchuldet auf die Welt
+gefommen find und daß nur, weil wir fortwährend diese Schuld
+abzuverbienen haben, unfer Dafeyn fo elend ausfällt und ben
+Tod zum Finale bat. Diefer Anfiht gemäß ift es allein bie
+Gefchichte vom Sündenfall, die mich mit dem A. T. ausföhnt: fogar
+ift fie in meinen Augen die einzige metaphufifche, wenn auch im
+Gewande der Allegorie auftretende Wahrheit in demselben. Denn
+nichts Anderm fieht unfer Dafeyn fo völlig ähnlih, wie ber
+Folge eines Fehltritts und eines firafbaren Gelüstens. Ich kann
+mich nicht entbrechen, dem benfenden Lefer eine populare, aber
+überaus innige Betrachtung über diesen Gegenftand, von Clan:
+dius zu empfehlen, melde dem mefentlich pessimistischen Geift
+bes Christenthums an den Tag legt: fie fleht, unter dem Titel
+„Berflucht fei der Ader um deinetwillen,“ im 4. Theile des
+Wandsbeder Boten.
+
+Um allezeit einen fihern Kompaß, zur Drientirung im Les
+ben, bei der Hand zu haben, und um dasselbe, ohne je irre zu
+werben, ftetd im richtigen Lichte zu erblicken, ift nichts taugli-
+cher, ald dag man sich angewöhne, diefe Welt zu betrachten als
+einen Drt der Buße, also gleihfam als eine Strafanftalt, a
+penal colony; — melde Anfiht derfelben aud ihre theoretifche
+und objektive Nechtfertigung findet, nicht bloß in meiner Philos
+fophie, fondern in der Weisheit aller Zeiten, nämlich im Brah—
+manismus, im Buddhaismus und felbft im Achten und wohlver-
+ftandenen Christenthum, als welche sämmtlich unfer Dafeyn auf-
+faffen als die Folge einer Schuld, eines Fehltritts. Hat man
+iene Gewohnheit angenommen; fo wird man feine Erwartungen
+vom Leben fo flellen, wie fie der Sache angemeflen find, und
+demnach die Widermärtigfeiten, Leiden, Plagen und Noth veflel-
+ben, im Großen und im Kleinen, nicht mehr als etwas Negel:
+widriges und Unerwartetes anfehn, fondern ganz in der Ordnung
+finden. Zu den lieben einer Strafanftalt gehört denn aud bie
+Gesellschaft, welche man daselbst antrifft. Wie es um diese bies
+
+
+256 Nachträge zur Lehre ır.
+
+
+selbst stehe, wird wer irgendwie einer befiern würdig wäre auch
+ohne mein Sagen wiflen. Der fchönen Seele nun gar, wie
+auch dem Genie, mag bisweilen darin zu Muthe feyn, wie einem
+edlen Staatögefangenen, auf der Galeere, unter gemeinen Ber-
+brechern; daher fie, wie biefer, fuchen werden, sich zu ifoliren.
+Ueberhaupt jebod wird die befagte Auffaflung und befähigen, die
+fogenannten Unvollfommenpeiten, d. h. die moralifch und intel-
+feftuell und dem entfprechend auch physiognomisch nichtewürdige
+Beichaffenheit der meiften Menfchen ohne Befremden, geschweige
+mit Entrüftung, zu betrachten: denn wir werden ftetd im Sinne
+behalten, wo wir find.
+
+In der That ift die Leberzeugung, daß die Welt, aljo auch
+der Menih, etwas ift, daß eigentlich nicht feyn follte, geeignet,
+ung mit Nachficht gegen einander zu erfüllen: denn was kann
+man von Wefen unter folhem Prädikament erwarten? — Ga,
+von biefem Gefihtöpunft aus fünnte man auf den Gedanfen
+fommen, daß bie eigentlid; paflende Anrede zwischen Menfch und
+Mensch, ftatt Monsieur, Sir, u. f. w., feyn möchte „Leideng-
+gefährte, Soci malorum, compagnon de miseres, my fellow-
+sufferer.” So feltfam dies Flingen mag; fo entipricht es doc
+ber Sade, wirft auf den Andern das richtigfte Licht und erin-
+nert an das Nöthigfte, an die Toleranz, Geduld, Schonung und
+Nächftenliebe, deren Jeder bebarf und bie daher auch SR
+
+
+schuldig —

@@ -1,0 +1,325 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Zur Physiognomik (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On physiognomy - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 510-517. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "Kapitel XXX. zur Phyſiognomik. $. 377. Daß das Aeußere das"; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (136 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XXX. zur Phyſiognomik. $. 377. Daß das Aeußere das Inner", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 377 to § 377, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (3 made, S. 510 to S. 516); the chapter's range by the volume's own heads is S. 510-517.]
+
+Kapitel XXX.
+zur Physiognomik.
+
+
+$. 377.
+
+Daß das Aeußere das Innere barftellend wiedergebe und
+Das Antlig das ganze Wefen bed Menfchen ausfpreche und offen-
+bare ift eine Voraussetzung, deren Apriorität, und mithin Sichers
+heit, fi Fundgiebt in der, bei jeder Gelegenheit hervortretenden
+allgemeinen Begier, einen Menjchen, der sich durch irgend etwas,
+im Guten oder Schlimmen, hervorgethan, oder auch ein außer-
+ordentliches Werk geliefert hat, zu fehn, oder, falld Diefes vers
+fagt bleibt, wenigftend von Andern zu erfahren, wie er aus—
+fieht; daher dann einerjeitd der Zudrang zu den Orten, wo
+man feine Anwesenheit vermuthet, und andrerfeits die Bemühun-
+gen der Tageblätter, zumal der englifhen, ihn minutiög und
+treffend zu befchreiben, bis bald darauf Maler und Kupferftecher
+ihn und anschaulich darftellen und endlih Daguerre’s Erfin-
+dung, eben deswegen fo hoch geichäst, diesem Bebürfniß auf
+das Bollfommenfte entspricht. Ebenfalls prüft, im gemeinen
+Leben, Jeder Jeden, der ihm vorkommt, physiognomisch und
+fucht, im Stillen, fein moralifches und intelleftuelles Wefen aus
+feinen Gefichtözügen im voraus zu erfennen. Dem Allen nun
+fönnte nicht fo feyn, wenn wie einige Thoren mwähnen, das
+Ausfehn des Menfchen nichts zu bedeuten hätte, indem ja bie
+Seele Eines und der Leib das Andere wäre, zu jener fich vers
+haltend, wie zu ihm felbft fein Rod.
+
+Bielmehr ift jedes Menfchengefiht eine Hieroglyphe, die
+fich allerdings entziffern läßt, ja, deren Alphabet wir fertig in
+und tragen. Sogar fagt das Gefiht eines Menfchen, in der
+Regel, mehr und Interefianteres, als fein Mund: denn es ist
+das Kompendium alles Defien, was biefer je jagen wird; indem
+
+ [S. 510]
+
+
+ed das Monogramm alles Denfens und Trachtens dieses Men-
+chen ift. Auch fpricht der Mund nur Gedanfen eined Menschen,
+das Gefiht einen Gedanfen der Natur aus. Daher ift Jeder
+werth, dag man ihn aufmerfiam betrachte; wenn auch nicht Je—
+der, daß man mit ihm rede. — ft nun fchon jedes Individuum,
+als ein einzelner Gedanke der Natur, betrachtungswürdig; fo ift
+es im höchsten Grade die Schönheit: denn fie ift ein höherer,
+allgemeinerer Begriff der Natur: fie ift ihr Gebanfe der Spe—
+cied. Darum feflelt fie jo mächtig unfern Blick. Sie ift ein
+Grund» und Haupt-Gedanfe der Natur; während das Indivi—
+duum nur ein Nebengedanfe, ein Korollarium, ift.
+
+Allerdings aber ift die Entzifferung des Gefihts eine große
+und fchwere Kunft. Ihre Prinzipien find uns halb angeboren,
+halb aus der Erfahrung gefhöpft und nie in abstracto zu er-
+lernen. Die erfte Bedingung dazu ift, daß man feinen Mann
+mit rein objeftivem Dlid auffafle; welches fo Leicht nicht
+ft. Sobald nämlid die leifefte Spur von Abneigung, ober Zu:
+neigung, oder Furcht, oder Hoffnung, oder aud der Gebanfe,
+welchen Eindrud wir felbft jegt auf ihn machen, kurz, irgend
+etwas Subjektives fi) einmischt, verwirrt und verfälfcht fich die
+Hieroglyphe. Wie den Klang einer Sprache nur Der hört, wel-
+her fie nicht verfieht, weil fonft das Bezeichnete das Zeichen
+fogleidh aus dem Bewußtseyn verdrängt; jo fieht die Physiogno—
+mie eines Menfchen nur Der, welcher ihm noch fremb ift, d. h.
+nieht durch öfteres Sehn, oder gar dur Sprechen mit ihm, fi
+an fein Gefiht gewöhnt hat. Demgemäß hat man ben rein
+objeftiven Eindrud eines Gefihts, und dadurch die Möglichkeit
+feiner Entzifferung, fireng genommen, nur beim erften Anblid.
+Wie Gerüche und nur bei ihrem Eintritt affiziren und der Ge
+schmack eines Weind eigentlich nur beim erften Glase; fo machen
+auch Gefichter ihren vollen Eindruf nur das erfte Mal. Auf
+diefen foll man daher jorgfältig achten: man foll ihn fich merken,
+ja, bei perfönlich und wichtigen Menjchen, ihn aufichreiben; wenn
+man nämlich feinem eigenen physiognomischen Gefühle trauen
+darf. Die nachherige Befanntfchaft, der Umgang, wirb jenen
+Eindruck verwifchen: aber die Folge wird ihn einft beftätigen.
+
+Inzwischen wollen wir bier und nicht verheblen, daß jener
+erfte Anblick meiftens hoöchst unerfreufih ist: — allein wie wenig
+
+
+Zur Physiognomil. 511
+
+
+taugen auch die Meisten! — Mit Ausnahme der schönen, ber
+gutmüthigen und der geiftreichen Gefihter, — alfo höchst mweni-
+ger und feltener, — wird, glaube ich, fein fühlenden Verfonen
+jedes neue Gefiht imeiftens eine dem Schred verwandte Empfin-
+dung erregen, indem es, in neuer und überrafchender Kombina-
+tion, das Unerfreuliche darbietet. Wirklich ift es, in der Regel,
+ein trübfäliger Anblid (a sorry sigbt). Einzelne giebt es fogar,
+auf deren Geficht eine fo naive Gemeinheit und Niebrigfeit der
+Sinnesart, dazu jo thierifche Beichränftheit des Verstandes aus-
+geprägt ift, daß man fich wundert, wie fie nur mit einem jolchen
+Gesichte noch ausgehn mögen und nicht Lieber eine Maske tragen.
+‘a, es giebt Gesichter, durch deren bloßen Anblid man fi verun-
+reinigt fühlt. Man fann es daher Solchen, denen ihre bevorzugte
+Lage es geftattet, nicht verdenken, wenn fie sich jo zurüdziehn und
+umgeben, daß fie der yeinlichen Empfindung, „neue Gefichter zu
+sehn“, gänzlidy entzogen bleiben. — Bei der metaphysischen
+Erflärung diefer Sadye kommt zur Erwägung, daß die Indivi—
+dualität eines Jeden gerade Das ift, wovon er, durch feine Eri«
+ftenz felbfi, zurückgebracht, forrigirt werben fol. Will man hin-
+gegen, mit der psychologischen Erklärung fih begnügen; fo
+frage man fi), was für Phyfiognomien denn wohl zu erwarten
+ftehn bei Denen, in deren Innerem, ein langes Leben hindurch,
+höchst felten etwas Anderes aufgeftiegen ift, als Fleinliche, nie-
+drige, miferable Gedanken, und gemeine, eigennüßige, neidifche,
+fchlechte und boshafte Wünsche. Jedes von Diesen bat, für bie
+Dauer feiner Gegenwart, dem Geftchte feinen Ausdruck aufge-
+fest: alle diefe Spuren haben sich, durd die viele Wiederholung,
+mit der Zeit, tief eingefurdht und find, wie man fagt, recht aus-
+gefahren. Daher alfo fehn die meiften Menichen jo aus, daß
+man beim erfien Anblid erschrickt und nur allmälig ihr Gesicht
+gewohnt wird, d. h. gegen dessen Eindrud sich fo abftumpft, daß
+er nicht mehr wirft.
+
+Dies ftimmt zu Dem, was oben gejagt worden, daß ein
+Gefiht nur das erfte Mal feinen richtigen und vollen Eindrud
+macht. Um nämlich diefen rein objeftio und unverfälscht zu em-
+pfangen, müflen wir noch in Feinerlei Beziehung zur Person
+ftehn, ja, wo möglich, mit berfelben noch nicht geredet haben.
+Schon jedes Gespräch nämlich befreundet einigermangen und
+
+ [S. 512]
+
+
+führt einen gewwiffen rapport, eine wmechfelfeitige, fubjeftive
+Beziehung ein, bei der die Objektivität der Auffaflung sogleich
+leidet. Da zudem Jeder bemüht ift, sich Hochachtung oder Freund-
+fchaft zu ermerben; fo wird auch der zu Beobachtende fogleid
+allerlei, ihm fchon geläufige Berftellungsfünfte anwenden, wird,
+mit feinen Dienen, heucheln, fchmeicheln, und dadurd ung fo
+beftechen, daß wir bald nicht mehr fehn was doch der erfte Blid
+und deutlich gezeigt hatte. Danach heißt es dann, daß „bie mei-
+sten Menfchen bei näherer Bekanntschaft gewinnen‘, follte jedoch
+heißen „uns bethören”. Wenn nun aber fpäterhin die schlim—
+men Gelegenheiten fi einfinden, da erhält meiftens das Ur-
+theil des erften Blicks feine Rechtfertigung und macht fie oft
+böhnend geltend. Ist hingegen die „nähere Bekanntschaft“ fo-
+gleich eine feindfälige; fo wird man ebenfalls nicht finden, daß
+durch fie die Leute gewönnen. ine andere Ursache des angeb-
+lihen Gewinnens bei näherer Befanntichaft if, daß der Mensch,
+dessen erfter Anblid uns vor ihm warnte, sobald wir mit ihm
+fonverfiren, nicht mehr bloß fein eigened Wefen und Charakter
+zeigt, jondern auch feine Bildung, d. h. nicht bloß was er wirf-
+ih und von Natur ift, fondern auch was er fih vom Gemein-
+gut der ganzen Menjchheit angeeignet hat: dann wundern wir
+uns oft, einen solchen Minotaur fo menschlich reden zu hören.
+Aber man fomme nur von ber „näheren Bekanntschaft“ zur nod
+näheren: da wird bald „bie Beftialität,”’ welche fein Geficht ver:
+bieß, „sich gar herrlich offenbaren.” — Wer alfo mit phyfiogno-
+mischem Scharfblid begabt ift, hat die, aller näheren Befanntichaft
+vorher gegangenen und daher unverfälichten Aussprüche beflelben
+wohl zu beachten. Denn das Gesicht eines Menschen jagt gerade
+aus, was er iftz und täufcht es ung, fo ift Dies nicht feine, fondern
+unfre Schuld. Die Worte eines Menschen hingegen fagen bloß
+was er denkt, öfter nur was er gelernt hat, oder gar was er
+zu denfen bloß vorgiebt. Dazu kommt nod, daß wenn wir mit
+ihm reden, ja, ihn nur zu Andern reden hören, wir von feiner
+eigentlihen Phyfiognomie abftrahiren, indem wir fie als bad
+Subftrat, das schlechthin Gegebene, bei Seite setzen und bloß
+auf das Pathognomifche derfelben, fein Mienenfpiel beim Reden,
+achten: diefes aber richtet er fo ein, daß er die gute Seite nad)
+außen kehrt.
+
+
+Zur Phyfiognomit. 513-
+
+
+Wenn nun aber Sokrates zu einem Yünglinge, der ihm,
+damit er dessen Fähigfeiten prüfe, vorgeftellt wurde, gefagt bat:
+‚Sprich, damit ich dich sehe“; fo hatte er (angenommen, daß er
+unter dem Sehn nicht das bloße Hören verftand) zwar in
+jofern Recht, als erft beim Reden die Züge, befonders die Augen,
+des Menfchen fich beleben und feine geiftigen Mittel und Fähig—
+feiten dem Mienenfpiel ihr Stämpel aufbrüden, wodurch wir
+alsdann den Grab und die Kapacität feiner Intelligenz vorläufig
+abzufchägen im Stande find; welches eben hier ber Zweck des
+Sopfrated war. Sonft aber ift dagegen geltend zu machen, erfl-
+ih, daß Diefes sich nicht auf die moralischen Eigenfchaften-
+bes Menschen erstreckt, als welche tiefer Liegen, und zweitens,
+dag mas wir, beim Reben des Menfchen, an der deutlicheren
+Entwidelung feiner Gefichtszüge durch fein Mienenfpiel, ob-
+jeetive gewinnen, wir wieder subjective verlieren, durch die
+perfönliche Beziehung, in melde er zu ung fogleich tritt, und
+welche eine leise Fascination herbeiführt, die und nicht unbefan-
+gen läßt; wie oben ausgeführt worden. Daher möchte, von die—
+fem letzteren Gefihtspunfte aus, es richtiger feyn, zu fagen:
+„sprich nicht; damit ich dich fehe.“
+
+Denn um die wahre Phyfiognomie eines Menfchen rein und
+tief zu erfaffen, muß man ihn beobachten, wann er allein und
+fich selbst überlaffen dafist. Schon jede Gefellichaft und fein Ge-
+spräch mit einem Andern wirft einen fremden Refler auf ihn, -
+meiftens zu feinem Bortheil, indem er durch die Aktion und Re-
+aktion in Thätigfeit gefegt und dadurch gehoben wird. Hinge—
+gen allein und fich felber überlaffen, in der Brühe feiner eige-
+nen Gedanfen und Empfindungen schwimmend, — nur da ift er
+ganz und gar er selbst. Dafann ein tief eindringender phyfiog-
+mifcher Blick jein ganzes Wesen, im Allgemeinen, auf Ein Mal
+erfaffen. Denn auf feinem Gefidhte, an und für sich, ift der
+Grundton aller feiner Gedanfen und Beftrebungen ausgeprägt,
+der arret irrevocable Deflen, was er zu feyn hat und ald was
+er fih nur dann ganz empfindet, wann er allein ift.
+
+Schon deshalb nun ift Phyfiognomif ein Hauptmittel zur
+Kenntniß der Menichen, weil die Phyfiognomie, im engern Sinne,
+das Einzige ifl, wohin ihre Verftellungsfünfte nicht reichen; ba
+im Bereiche dieser bloß das Pathognomilhe, das Mimilche,
+
+u. 33
+
+
+514 Sur Phyftognomik.
+
+
+liegt. Daher eben empfehle ich, Jeden dann aufzufaflen, wann
+er allein, fich felber hingegeben ift, und ehe man mit ihm gere-
+det hat; theild weil man nur dann das Phyfiognomifche rein
+und unvermifcht vor fi hat, indem im Gespräche sogleich das
+Pathognomifche einfließt und er dann feine eingelernten Berftel-
+Iungsfünfte anwendet; theild weil jedes, auch das flüchtigfte, per⸗
+fönlihe Verhältniß ung befangen macht und dadurch unfer Ur-
+theil subjeltiv verunreinigt.
+
+Noch habe ich zu bemerken, daß, auf dem physiognomischen
+Wege überhaupt, es viel leichter ist, die intellektuellen Fähig—
+keiten eines Menschen, als feinen moralischen Charakter, zu ent⸗
+decken. Jene nämlich schlagen viel mehr nach außen. Sie haben
+ihren Ausdruck nicht nur am Gesicht und Mienenspiel, sondern
+auch am Gange, ja, an jeder Bewegung, fo klein fie auch sei.
+Man könnte vieleicht einen Dummkopf, einen Narren und einen
+Mann von Geift schon von hinten unterfcheiden. Den Dumm:
+fopf bezeichnet die bleierne Schwerfälligfeit aller Bewegungen;
+die Narrheit brüdt ihr Stämpel jedem Geftus auf; das Gleide
+thut Geist und Nachdenken. Darauf beruht die Bemerfung des
+tabruyere: iln’y a rien de si delie, de si simple, et de
+si imperceptible, ou il n’y entrent des manieres, qui nous
+decelent: un sot ni n’entre, ni ne sort, ni ne s’ässied, ni
+ne se leve, ni ne se tait, ni n’est sur ses jambes, comme
+un homme d’esprit. Hieraus erflärt fih, beiläufig gefagt, jener
+instinct sür et prompt, den, nad Helvetius, die Alltagd-
+föpfe haben, um die Leute von Geift zu erfennen und zu fliehen.
+Die Sache felbft aber beruht, wenigftens zum Theil, darauf, daß
+je größer und entwirfelter das Gehirn und je dünner, im Ber-
+bältnig zu ihm, das Rückenmark und die Nerven find, befto
+größer nicht nur die Intelligenz, fondern zugleich aud) die Mo-
+bilität und Folgfamfeit aller Glieder ist; weil diefe dann uns
+mittelbarer und entfchiedener vom Gehirn beherricht erben,
+folglich Alles mehr an Einem Faden gezogen wird, wodurch in
+jeder Bewegung sich ihre Abficht genau ausprägt. Die ganze
+Sade ift aber Dem analog, ja hängt damit zufammen, Daß, je
+höher ein Thier auf der Stufenleiter der Wefen steht, desto
+leichter es durch Berlegung einer einzigen Stelle getöbtet werben
+kann. Man nehme z. DB. die Batrachier: wie fie, in ihren Be
+
+
+Zur Phyfiognomif. 515
+
+
+wegungen, schwerfällig, träge und Yangfam find, fo find fie auch
+unintelligent und babei von äußerst zähem Leben; welches Alles
+fi) daraus erklärt, daß fie, bei gar wenigem Gehirn, fehr dickes
+Rückenmark und Nerven haben. — Biel beffer jedoch, als aus
+den Geften und Bewegungen, find die geiftigen Eigenfchaften
+aus dem Geftchte zu erfennen, aus der Geftalt und Größe der
+Stirn, der Anfpannung und Beweglichkeit der Gefichtszüge und
+vor Allem aus dem Auge, — vom fleinen, trüben, mattbliden-
+den Schweinsauge an, durch alle Zwifchenftufen, bis zum firah-
+lenden und bligenden Auge des Genies hinauf. — Demnach ift
+die Anekdote durchaus glaublih, welhe Squarzafidi, in fei-
+nem Leben Petrarfa’s, dem diefem gleichzeitigen Joseph Brivius
+nacherzählt, dag nämlich einft, am Hofe der Visconti, ald unter
+vielen Herren und Edelen auch Petrarka dastand, Galeazzo
+Visconti, seinem damals noch im Knabenalter stehenden Sohne,
+nachmaligem ersten Herzoge von Mailand, aufgab, unter den An—
+wesenden den weisesten herauszusuchen: der Knabe sah sie alle
+eine Weile an: dann aber aber ergriff er die Hand bes Petrarka
+und führte ihn dem Bater zu, unter großer Bewunderung alfer
+Anmwejenden. Denn jo deutlich drüdt die Natur den Bevorzugten
+der Menjchheit das Stämpel ihrer Würde auf, daß ein Kind es
+erfennt. Daher möchte ich meinen feharffinnigen Landsleuten
+vathen, daß, wenn fie ein Mal wieder Belieben tragen, einen
+Alltagskopf, 30 Jahre Yang, als großen Geift auszupofaunen,
+fie doch nicht eine solche Bierwirthsphyfiognomie dazu wählen
+mögen, wie Hegel hatte, auf dessen Gefichte mit Teferlichfter
+Handfchrift der Natur „Alltagsmensch“ ftand.
+
+Anders nun aber, als mit dem intellektuellen, verhält es
+fich mit dem Moralifhen, dem Charakter des Menfchen: biefer
+ift viel fchwerer physiognomisch zu erfennen; meil er, als ein
+Metaphyfiiches, ungleich tiefer Tiegt und mit der Korporifation,
+dem Organismus, zwar auch zufammenhängt, jedoch nicht fo un—
+mittelbar und nicht an einen beflimmten Theil und Spyftem
+desselben geknüpft if, wie der Sjntelleft. Dazu fommt, daß wäh—
+rend jeder feinen Berftand, ald mit welchem er durchgängig fehr
+zufrieden ift, offen zur Schau trägt und bei jeder Gelegenheit
+ihn zu zeigen sich bemüht, das Moraliiche felten ganz frei an den
+
+33°
+
+ [S. 516]
+
+
+Tag gelegt, ja meistens abfichtlich verftedt wird; worin dann bie
+lange Uebung große Meifterfchaft verleiht. Inzwischen drüden,
+wie oben ausgeführt, die jchlechten Gedanfen und nichtswürdigen
+Beftrebungen allmälig dem Gefichte ihre Spuren ein, zumal dem
+Auge. Dennoch steht e8 jo, daß wir, physiognomisch urtheilend,
+ung leicht für einen Menfchen dahin verbürgen fünnen, baß er
+nie ein unfterblihes Werk hervorbringen; aber nit wohl, daß
+er nie ein großes Verbrechen begehn werde.

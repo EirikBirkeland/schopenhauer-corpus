@@ -1,0 +1,1137 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber Urtheil, Kritik, Beifall und Ruhm (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On judgement, criticism, applause and fame - the English title is this collection's rendering, and where a printed English title exists the note says so
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 378-401. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27, 30 and 31. The chapter's own display heading stands in this copy as "Kapitel XX. lleber Urtheil, Kritik, Beifall und Ruhm. $. 235"; the Roman numeral in such a heading is the OCR's and may be misset, so cite the chapter by its words and its pages, not by its number.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 8, one of six chapters cut from the same volume while its map was fresh; see P-06 for the volume's chapter map and GAP-4 for what is still missing. The essay the quotation books pillage for his remarks on fame. An English version of parts of it reaches the collection in the Saunders volumes (file 17 "The art of literature", 1891, carries the neighbouring literary chapters); the pairing was NOT checked this pass. OCR warning as in files 27, 30 and 31: this scan prints f for the long s, so search both shapes (bin/schop-grep.js -f does it) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition - the copy that also yielded files 27, 30 and 31. It prints f for the long s, sometimes b for d and x for x, and it mangles a heading or a page's first line now and then; the long s has been normalised to s (313 here). The chapter was cut between its own display heading and the next one, so the seam is the print's. Paragraph numbers stand as printed - the paragraph marks that stand at line beginnings here read § 235 to § 242, which is a guide and not a table: this OCR lifts a cross-reference to a line beginning now and then, so a paragraph number quoted from here should be seen on the scan. Page markers come only from running heads that name this chapter and whose page lies in the range the volume's heads prove (11 made, S. 378 to S. 398); where a head was garbled nothing was invented, and the chapter's page range by the table of contents is S. 378-401.]
+
+Kapitel XX.
+lleber Urtheil, Kritik, Beifall und Ruhm.
+
+
+$. 235.
+
+Kant hat feine Aesthetik in der Kritif der Urtheilskraft
+vorgetragen: dem entiprechend werde ich, in diefem Kapitel,
+meinen obigen, äfthetifchen Betrachtungen auch eine Feine Kri—
+tif der Urtheilöfraft, aber nur der empirisch gegebenen, hinzufü—
+gen, hauptfächlich um zu fagen, daß es meiftentheild Feine giebt,
+indem fie eine beinahe fo rara avis ift, wie der Vogel Phönir,
+auf deffen Erfcheinen man hundert Jahre zu warten hat.
+
+$. 236.
+
+Mit dem nicht geschmackvoll gewählten Ausdrud Gefhmad
+bezeichnet man diejenige Auffindung, oder auch bloße Anerkennung,
+des ästhetisch Richtigen, welche ohne Anleitung einer Regel
+gefhieht, indem entweder Feine Regel fih bis dahin erftredt,
+oder auch diejelbe dein Ausübenden, veipeftive bloß Lrtheilenden,
+nicht befannt war. — Statt Gefhmad würde man äftheti-
+fhes Gefühl fagen können; wenn Dies nicht eine Tautologie
+enthielte.
+
+Der auffaffende, urtheilende Geschmack ift gleichfam das
+Weibliche zum Männlichen des probuftiven Talents, oder Ge—
+nies. Nicht fähig zu erzeugen, befteht er in der Fähigfeit
+zu empfangen, d. h. das Rechte, das Schöne, das Passende,
+als folhes zu erfennen, — wie auch dessen Gegentheil; alfo das
+Gute vom Schledhten zu unterscheiden, Jenes herauszufinden und
+zu würdigen, Diejes zu vermwerfen.
+
+$. 237.
+
+. Die Schriftfteller fann man eintheilen in Sternfchnup-
+pen, Planeten und Firfterne. — Die Erfteren Tiefern die mo—
+mentanen Knalleffefte: man fohauet auf, ruft „fiehe da!” und -
+auf immer find fie verschwunden. — Die Zweiten, alfo die Irr⸗
+
+
+Ueber Urtheil, Kritik, Beifall und Ruhm. 377
+
+
+und Wandelfterne, haben viel mehr Beftand. Sie glänzen, wie-
+wohl bloß vermöge ihrer Nähe, oft heller, als die Firfterne,
+und werden von Nichtfennern mit diefen verwechfelt. Inzwischen
+müssen auch fie ihren Platz bald räumen, haben zudem nur ge-
+borgtes Licht und eine auf ihre Bahngenoflen (Zeitgenoflen) be-
+fhränfte Wirfungsfphäre. Sie wandeln und wecfeln: ein Um:
+lauf von einigen Jahren Dauer ift ihre Sache. — Die Dritten
+allein find unwandelbar, ftehn feft am Firmament, haben eigenes
+Licht, wirken zu Einer Zeit, wie zur andern, indem fie ihr An—
+sehn nicht durd die Veränderung unfers Standpunfts ändern,
+ba fie feine Parallaxe Haben. Sie gehören nicht, wie jene An-
+dern, einem Spfteme (Nation) allein an; fondern der Welt.
+Aber eben wegen der Höhe ihre Stelle, braucht ihr Licht meiftens
+viele Jahre, che es dem Erbbewohner fichtbar wird.
+$. 238.
+
+Zum Maaßstab eines Genie’s foll man nicht die Fehler
+in feinen Produftionen, oder die fchwächeren feiner Werfe neh—
+men, um es dann danach tief zu ftellen; fondern bloß fein Vor—
+trefflichstes. Denn auch im Syntelleftuellen klebt Schwäche und
+Berfehrtheit der menschlichen Natur fo feft an, daß felbft der
+glänzendefte Geift nicht durchweg und jederzeit von ihnen frei
+ift. Daher die großen Fehler, welche fogar in den Werfen ber
+größten Männer fi) nachweifen Taflen, und Horazend quando-
+que bonus dormitat Homerus. Was hingegen das Genie
+auszeichnet und daher fein Maaßstab feyn follte, ift die Höhe,
+zu ber es fich, ale Zeit und Stimmung günftig waren, hat auf:
+Ihwingen fünnen, und welche den gewöhnlichen Talenten ewig
+unerreichbar bleibt.
+
+$. 239.
+
+Der Unftern für geiftige Verdienste ift, daß fie zu warten
+haben, bis Die das Gute Toben, welche felbft nur dag Schlechte
+hervorbringen; ja überhaupt fehon, daß fie ihre Kronen aus den
+Händen der menfchlichen Urtheilsfraft zu empfangen haben, einer
+Eigenfchaft, von der den Meiften fo viel einwohnt, wie dem
+Kaftraten Zeugungsfraftz will fagen, ein schwaches, unfruchtba=
+red Analogon; fo daß schon fie felbft den feltenen Naturgaben
+beizuzählen it. Daher ift es leider fo wahr, wie artig gewen—
+bet, was Rabrüyere fagt: apres l’esprit de discernement,
+
+ [S. 378]
+
+
+ce qu’il y a au monde de plus rare, ce sont les diamans
+et les perles. Unterscheidungsvermögen, esprit de discer-
+nement, und demnach Urtbeilsfraft, daran gebridt ed. Sie
+wiflen nit das Aechte vom Unächten, nicht den Hafer von der
+Spreu, nit das Gold vom Kupfer zu unterfcheiden und neh—
+men nicht den weiten Abftand wahr, zwischen dem gewöhnlichen.
+Kopf und dem feltenften. Das Resultat hievon ift der Lebel-
+fand, den ein altmodifched Verschen fo ausdrüdt:
+
+
+„Es ift nun das Geschick der Großen hier auf Erden,
+Erst wann fie nicht mehr find, ven uns erfannt zu werden,”
+
+
+Dem Aechten und BVortrefflichen fteht, bei feinem Auftreten,
+zunächst das Schlechte im Wege, von welchem es feinen Pas
+bereits eingenommen findet, und das eben für Jenes gilt. Wenn
+ed nun auch, nad) Tanger Zeit und hartem Kampfe, ihm wirf-
+lich gelingt, den Plag für sich zu vindiciren und fih in Anfehn
+zu bringen; fo wird es wieder nicht lange dauern, bis fie mit
+irgend einem manierirten, geiftlofen, plumpen Nachahmer heran
+geichleppt, Fommen, um, ganz gelaflen, ihn neben dag Genie, auf
+den Altar zu fegen: denn fie sehn den Unterfchied nicht; jondern
+meynen ganz ernftlih, Das wäre nun wieder aud fo Einer,
+Sp mußten auch Shafefpeare’s Dramen, gleich nad feinem Tode,
+denen von Ben Zohnfon, Maffınger, Beaumont und Fletiher Plas
+machen und diefen auf 100 Jahre räumen. Sp wurde Kant’s
+ernfte Philosophie durch Fichte's offenbare Windbeutelei, Scel-
+lings Efleftismus und Jacobi's widrigfüßliches und gottjeliges
+Gefafel verdrängt, bis es zulegt dahin Fam, daß ein ganz er-
+bärmliher Scharlatan, Hegel, Kanten glei, ja, hoch über ihn
+geftellt wurde. Selbft in einer Allen zugänglichen Sphäre fehn
+wir. den unvergleichlihen Walter Scott bald durch unwürbige
+Nahahmer aus der Aufmerkfamfeit des großen Publifums vers
+drängt werden. Denn dieses hat überall für das Bortreffliche
+im Grunde doc Feinen Sinn und daher Feine Ahndung davon,
+wie unendlich felten die Menfchen find, welche in Poefie, Kunft,
+oder Philofophie wirklich etwas zu Yeiften vermögen, und wie
+dennoch ihre Werfe ganz allein und ausfchließlih unfrer Auf-
+merfiamfeit werth find, weshalb man das
+
+
+Ueber Urtheil, Kritif, Beifall und Ruhm. 379
+
+
+mediocribus esse poetis
+Non homines, non Di, non concessere columnae
+den Pfufchern in der Voefie und eben fo in allen andern hohen
+Fächern, ohne Nachsicht, alle Tage unter die Nafe reiben follte.
+Sind. doc diefe das Unkraut, welches den Waizen nicht auffom-
+men läßt, um Alles felbit zu überziehn; weshalb es denn eben
+geht, wir ber fo früh dahingeschiedene Feuchtersleben es vri-
+ginell und schön jchildert:
+„Ist doch — rufen fie vermeflen —
+
+Nichts im Werke, nichts geihan!“
+
+Und das Große reift indessen
+
+Still heran.
+
+
+Es erfcheint nun: niemand sieht es,
+Niemand hört es in Gefchrei.
+Mit befcheid’ner Trauer zieht es
+Stifl vorbei.
+
+
+Nicht weniger zeigt jener beflagenswerthe Mangel an Ur-
+theilsfraft fih in den Wiflenfchaften, nämlich am zähen Leben
+falfcher und miderfegter Theorien. Ein Mal in Kredit gefom-
+men, trogen biefe der Wahrheit halbe, ja ganze Jahrhunderte lang,
+wie ein fleinerner Molo den Meereswogen. Nach hundert Jah—
+ren hatte Kopernifus noch nicht den Ptolemäus verdrängt. Bako
+von Berulam, Gartefius, Lode, find äußerst langsam und fpät
+durchgedrungen (Man lefe nur D’Alembert’S berühmte Vorrede zur
+Eneyflopädie.) Obgleich Neuton das Erfcheinen feiner Prin-
+cipia beinahe AO Jahre überlebt hat, war, ald er ftarb, feine
+Lehre doch nur in England, theilmeife und einigermaaßen zur
+Anerkennung gelangt; während er außerhalb feines Vaterlandes
+nicht zwanzig Anhänger zählte; laut dem Vorbericht zu Voltaire's
+Darftellung feiner Lehre. Eben diefe hat zum Befanntwerden
+feines Systems in Frankreich, beinahe zwanzig Jahre nach fei-
+nem Tode, das Meifte beigetragen. Bis dahin nämlich hielt
+man bdafelbft feft, ftanphaft und patriotifch an den Kartefianifchen
+Wirbeln; während erft AO Jahre vorher die felbe Kartefianifche
+Philofophie in den Französischen Schulen noch verboten gewesen
+war, Jetzt nun wieder verweigerte ber Kanzler d’Agueflenu dem
+Boltaire das Imprimatur zu feiner Darftellung des Neutonia-
+nismus. Dagegen behauptet in unfern Tagen Neutons abjurde
+
+ [S. 380]
+
+
+Farbenlehre noch vollfommen den Kampfplas, JO Jahre nad) dem
+Erfcheinen der Göthe'schen. Hume, obihon er fehr früh auf-
+getreten war und durchaus populär fehrieb, ift bis zu feinem
+50. Jahre unbeachtet geblieben. Kant, wiewohl er fein ganzes
+Leben hindurch gefhrieben und gelehrt hatte, wurde erft nach feinem
+60. Jahre berühmt. — Künftler und Dichter Haben freilich
+befferes Spiel, ald die Denker; weil ihr Publikum wenigftens
+100 Mal größer if. Dennoch, was galten Mozart und Beet:
+boven bei ihren Lebzeiten? was Dante? was felbft Shafefpeare?
+Hätten die Zeitgenofien diefes Lesteren feinen Werth irgend ge:
+fannt; fo würden wir, aus jener Zeit des Flors der Malerfunft,
+doch wenigstens ein gutes und ficher beglaubigtes Bildniß dessel—
+ben haben, während jett nur durchaus zweifelhafte Gemälde,
+ein fehr fchlechter Kupferftich und eine noch fehlechtere Grabfteine-
+büfte vorhanden find.) Imgleichen würden alddann die von
+ihm übrig gebliebenen Handfchriften zu Hunderten bafeyn; ftatt,
+wie jeßt, fich auf ein Paar gerichtliche Unterzeichnungen zu be—
+schränken. — Alfe Portugiefen find noch ftolz auf den Camoëns,
+ihren einzigen Dichter: er Iebte aber von Almofen, die ein aus
+Indien mitgebrachter Negerfnabe Abends auf der Straße für ihn
+einfammelte. — Allerdings wird, mit der Zeit, Jedem volle Ge:
+rechtigfeit (tempo € galant-uomo), alfein fo fpät und langfam,
+wie weiland vom Reichsfammergericht, und die ftillfchweigende
+Bedingung ift, daß er nicht mehr lebe. Da muß denn wer uns
+fterblihe Werfe geichaffen bat, zu feinem Troft, den Indischen
+Mythos auf fie anwenden, daß die Minuten des Lebens der Un
+fterblichen, auf Erden, als Jahre erfcheinen und eben fo die Er-
+denjahre nur Minuten der Unfterblichen find.
+
+Der hier beklagte Mangel an Urtheilöfraft zeigt fih denn
+aud darin, dag in jedem Jahrhundert zwar das Vortreffliche der
+früheren Zeit verehrt, das der eigenen aber verfannt und bie
+diesem gebürende Aufmerffamfeit fchlechten Machwerfen gefchenft
+wird, mit denen jedes Jahrzehnd sich herumträgt, um vom fol
+genden dafür ausgelacdht zu werden. Daß nun alfo die Menfchen
+das Achte Verdienst, wenn es in ihrer eigenen Zeit auftritt, fo
+
+
+*) A, Wivell, an inquiry into the history, authentieity et characte-
+risties of Shakespeare’s portraits; with 21 engravings. Lond. 1836.
+
+
+Ueber Uriheil, Kritif, Beifall und Ruhm. 381
+
+
+schwer erkennen, beweift aber, daß fie auch die längst anerfann-
+ten Werfe des Genies, welche fie auf Auftorität verehren, we-
+ber verfiehn, noch genießen, noch eigentlich schätzen. And die
+Rechnungsprobe zu diefem Beweife ift, Daß das Schlechte, z. B.
+Fichte'sche Philofophie, wenn ed nur ein Mal in Kredit fteht,
+eben aud feine Geltung noch ein Baar Menfchenalter hindurch)
+behält. Nur wenn fein Bublifum ein fehr großes ift, erfolgt
+jein Fall fchnelter.
+$. 240.
+
+Wie nun aber doch die Sonne eined Auges bedarf, um zu
+leuchten, die Muftf eines Obres, um zu tönen; fo ift auch der
+Werth aller Meifterwerfe, in Kunft und Wiflenichaft, bedingt
+burch den verwandten, ihnen gemwachfenen Geift, zu dem fie reden.
+Nur er befigt das Zauberwort, wodurd die in solche Werfe ge-
+bannten Geifter rege werden und sich zeigen. Der gemeine Kopf
+fteht vor ihnen, wie vor einem verfchloflenen Zauberichranf, oder
+vor einem Instrumente, das er nicht zu fpielen verfteht, dem er
+daher nur ungeregelte Töne entlodt; wie gern er auch hierüber
+fi felber täuscht. Und wie das felbe Delgemälde, gejehn in
+einem finftern Winkel, oder aber wann die Sonne darauf fcheint,
+— fo verfihieden ift der Eindrud des felben Meifterwerfs, nad)
+Maaßgabe des Kopfes, der es auffaßt. Demnach bedarf ein
+Ihönes Werk eines empfindenden Geiftes, ein gedachtes Werf
+eines benfenden Geifted, um wirklich dazufeyn und zu Teben.
+Allein, nur gar zu oft fann Dem, der ein foldes Werf in die
+Welt fit, nachher zu Muthe werden, wie einem Feuerwerker,
+ber fein lange und mühsam vorbereitete Erzeugniß endlich mit
+Enthufiasmus abgebrannt hat und dann erfährt, daß er damit
+an den unrechten Drt gefommen, und sämmiliche Zufchauer die
+Zöglinge der Blindenanftalt gewesen feien. Und doch ift er fo
+immer noch befler daran, ald wenn er ein Publifum yon Tauter
+Feuerwerfern gehabt hätte; da, in diefem Fall, wenn feine Lei-
+ftung außerordentlich geweien, fie ihm ben Hals hätte kosten
+fünnen.
+
+$. 241.
+
+Die Duelle alles Wohlgefallens ift die Homogeneität. Schon
+dem Schönheitssinn ift Die eigene Species und in dieser wieber
+bie eigene Rasse, unbedenklich die schönste. Auch im Umgang
+
+ [S. 382]
+
+
+zieht Jeder den ihm Aehnlichen entichieden vor; fo daß einem
+Dummfopf die Gefellichaft eines andern Dummkopfs ungleich
+fieber ift, als die aller großen Geifter zufammengenommen. Se-
+dem müflen sonach zuvörderst feine eigenen Werfe am beften ge-
+falfen; weil fie eben nur der Spiegelrefler feines eigenen Gei-
+ftes und das Echo feiner Gedanken find. Demnächst aber wer-
+den Jedem die Werfe der ihm Homogenen zufagen, aljo wird ber
+Platte, Seichte, Verjchrobene, in bloßen Worten Kramende nur
+dem Platten, Seichten, Verschrobenen und dem bloßen Wortfram
+feinen aufrichtigen, wirklich gefühlten Beifall zollen; die Werfe
+der großen Geifter hingegen wird er allein auf Auftorität, d. b.
+durch Scheu gezwungen, gelten Yaflen; während fie ihm, im Her-
+zen, mißfallen. „Sie fprechen ihn nicht an’, ja, fie widerftehn
+ihm: Dies wird er jedoch nicht ein Mal fich felber eingeftehn.
+Nur schon bevorzugte Köpfe können die Werfe des Genies wirf-
+lich genießen: zum erften Erfennen derfelben aber, wann fie noch
+ohne Auftorität daftehn, ift bedeutende Ueberlegenheit des Geiftes
+erfordert. Demnach hat man, dies Alles wohl erwogen, fi nicht
+zu wundern, baß fie fo fpät, vielmehr daß fie jemals Beifall und
+Ruhm erlangen. Dies geschieht nur auch eben Durch einen langfas
+men und fomplieirten Proceß, indem nämlich jeder fchlechte Kopf
+allmälig, gezwungen und gleichfam gebändigt, das Uebergewicht
+des zunächft über ihn ftehenden anerfennt und fo aufwärts, wo⸗
+durch es nach und nah dahin Tommt, daß das bloße Refultat
+bes Gewichtes der Stimmen bad ber Zahl derfelben über-
+wältigt; welches eben die Bedingung alles ädhten, d. h. verbien-
+ten Ruhmes ist. Bis dahin aber kann das größte- Genie, auch
+nachdem es feine Proben abgelegt hat, fo daftehn, wie ein Kö—
+nig fände unter einer Schaar feines eigenen Bolfed, die ihn
+aber nicht persönlich Fennt und daher ihm nicht Folge leisten
+wird, wann feine oberften Staatsbiener ihn nicht begleiten.
+Denn Fein fubalterner Beamter ift fähig, feinen Befehl direkt
+zu empfangen. Ein foldher kennt nämlich nur die Unterschrift
+feines Vorgefesten, wie biefer die des feinigen, und fo aufwärts,
+bis ganz oben, wo der Kabinetsfefretär die Unterfchrift des Mi-
+nifters und diefer die des Königs atteftirt. Durch analoge
+Zwifchenftufen ift der Ruhm des Genies bei der Menge bedingt.
+Daher auch fiodt der Fortgang desselben am Teichteften im An⸗
+
+
+Ueber Urtheil, Kritik, Beifall und Ruhm. 383
+
+
+fang; weil die obern Behörden, deren nur wenige feyn Fönnen,
+am bäufigften fehlen: je weiter hingegen abwärts, an befto
+Mehrere zugleich ift der Befehl gerichtet; daher er nun nicht
+mehr ind Stoden gerätb.
+
+Ueber diefen Hergang müflen wir und damit tröften, daß
+ed noch für ein Glück zu erachten ift, wenn bie alfermeiften
+Menfchen nicht aus eigenen Mitteln, fondern blos auf fremde Auf-
+torität, urtheilen. Denn was für Urtheile würden über Plato
+und Kant, über Homer, Shafefpeare und Göthe ergehn, wenn
+Seder nah Dem urtheilte, was er wirffih an ihnen hat und
+genießt, und nicht vielmehr die zwingende Auftorität ihn fagen
+ließe was fich ziemt, fo wenig es ihm auch vom Herzen gehn mag.
+Ohne solches Bewandniß der Sache wäre für wahres Verdienft, in
+hoher Gattung, gar fein Rubm zu erlangen möglid. Dabei
+ift ein zweites Glück, daß Jeder doc noch fo viel eigenes Urtheil
+hat, als nöthig ift, um die Superiorität des zunächst über ihm
+Stehenden zu erfennen und defien Auftorität zu befolgen; wo-
+durch denn zuletzt die Vielen fich der Auftorität der Wenigen unters
+werfen und jene Hierarchie der Urtheile zu Stande fommt, auf der
+die Möglichkeit des feften und endlich weit veichenden Ruhmes
+beruht. Für die unterfte Klaffe, der die Verbienfte eines gro—
+hen Geiftes ganz unzugänglich find, ift am Ende bloß das Mo-
+nument, als welches in ihr, durch einen finnlichen Eindrud, eine
+dumpfe Ahndung davon erregt.
+
+§. 242.
+
+Nicht weniger jedoch, als die Urtheilslofigfeit, fteht dem
+Ruhme des Verbienftes in hoher Gattung der Neid entgegen;
+er, der ja felbft in den niedrigften demfelben schon beim erften
+Schritte sich entgegenftellt und bis zum Testen nicht von ihm
+weicht; daher denn eben er zur Schlechtigfeit des Laufes ber
+Welt ein Großes beiträgt und Ariofto Recht erhält, fie zu be—
+zeichnen als
+
+questa assai piü oscura, che serena
+Vita mortal, tutta d’invidia piena.
+
+
+Der Neid nämlich ift die Seele des überall florirenden, ftilf-
+
+fhweigend und ohne Verabredung zufammenfommenden Bundes
+alfer Mittelmäßigen, gegen den einzelnen Ausgezeichneten, in .
+jeder Gattung. Einen solchen nämlich will Keiner in feinem
+
+ [S. 384]
+
+
+Wirfungsfreife willen, in feinem Bereiche dulden: sondern si
+quelqu’un excelle parmi nous, qu'il aille exceller ailleurs,
+ift die einmüthige Lofung der Mittelmäßigfeit allüberall. Zur
+Seltenheit des Bortrefflichen und zur Schwierigfeit, die es findet,
+verftanden und erfannt zu werden, fommt alfo noch jenes über-
+einftimmende Wirken des Neides Unzähliger, es zu unterbrüden,
+ja, wo möglid, es ganz zu erftiden.
+
+Sobald daher, in irgend einem Face, ein eminentes Ta—
+lent fih fpüren läßt, find alle Mediofren des Faches einhellig
+bemüht, ed zuzubeden, ihm die Gelegenheit zu benehmen und auf
+alle Weife zu verhindern, bag es befannt werde, fi) zeige und
+an den Tag fomme; nicht anders, ald wäre es ein Hochverrath,
+begangen an ihrer Unfähigfeit, Plattheit und Stümperhaftigfeit.
+Meiftens hat ihr Unterdrückungssystem, geraume Zeit hindurch,
+guten Erfolg; weil gerade das Genie, welches feine Sache, mit
+findlihdem Zutrauen, ihnen darreicht, damit fie Freude daran ha—
+ben mödten, den Schlihen und Ränfen niederträchtiger Seelen,
+bie nur im Gemeinen, dort aber vollfommen zu Haufe find, am
+wenigften gewachfen ift, ja, fie nicht ein Mal ahndet, noch verfteht,
+und daher alödann, über den Empfang betreten, vielleicht an feiner
+Sache zu zweifeln anfängt, dadurch aber an sich felber irre werben
+und feine Beftrebungen aufgeben kann, wenn ihm nicht noch zu rechter
+Zeit die Augen aufgehn, über jene Nichtswürdigen und ihr Treiben.
+Man fehe, — um die Beifpiele nicht zu fehr in der Nähe, noch
+auch in fchon fabelhafter Ferne zu fuchen, — wie der Reid.
+beutfcher Mufifer, ein Menfchenalter hindurch, sich gefträubt Hat,
+dad Berbienft des großen Roffini anzuerfennen; bin ich doch
+ein Mal Zeuge gewesen, daß man, an einer großen, fonftituir-
+ten Liedertafel, nad der Melodie feines unfterblichen di tanti
+palpiti, zum Hohn, die Speifefarte abfang. Ohnmächtiger Neid!
+Die Melodie überwand und verfchlang die gemeinen Worte. Und
+fo haben, allem Neide zum Trotz, Roffini’3 wundervolle Melodien
+fich über den ganzen Erbball verbreitet und jedes Herz erquict, wie
+damals, fo noch heute und in secula seculorum. Ferner fehe
+man, wie den deutschen Medicinern, namentlich den recenfiren-
+ben, por Zorn ber Kamm fteigt, wenn ein Mann wie Marfhal
+Hall ein Mal merken läßt, er wisse, daß er etwas geleiftet
+babe, — Neid ift das fichere Zeichen bes Mangels, alfo, wenn
+
+
+Ueber Urteil, Kritif, Beifall und Ruhm. 385
+
+
+auf Verdienste gerichtet, ded Mangels an Verdienften. Das Ber-
+halten des Neides gegen die Ausgezeichneten bat mein trefflicher
+Balthazar Gracian in einer ausführlichen Fabel überaus
+Ihön dargeftellt: fie fteht in feinem Disereto, unter der 1leber-
+schrift hombre de ostentacion. Da find fümmtliche Vögel auf-
+gebracht und verfchworen gegen den Pfau, mit feinem Federrade.
+„Wenn wir nur erlangen‘, fagte die Elfter, „daß er die ver-
+maladeite Parade mit feinem Federschweife nicht mehr machen
+fann; da wird feine Schönheit bald ganz verfinftert feyn: denn
+was Keiner fieht ift als ob ed nicht eriftirte”, u. f. fe. — Dem-
+gemäß ift denn auch die Tugend der Bescheidenheit bloß zur
+Schutzwehr gegen ben Neid erfunden worden. Daß es allemal
+Lumpe find, die auf Beicheidenheit dringen und fi) fo herzinnig-
+lih über die Befheidenheit. eines Mannes von Verdienst
+freuen, babe ich auseinandergelegt in meinem Hauptwerfe, Bo.
+2, Kap. 37, ©. 426. Göthe's befannter und Vielen ärgerlicher
+Ausspruch „nur die Lumpe find bescheiden“ hat schon einen alten
+Vorgänger, beim Cervantes, als welcher, unter ben feiner
+„Reife auf den Parnaß” angehängten Berhaltungsregeln für
+Dichter, auch Diefe giebt: que todo poeta, & quien sus ver-
+sos hubieren dado & entender que lo es, se estime y tenga
+en mucho, ateniendose ä aquel refran: ruin sea el que
+por ruin se tiene (Jeder Dichter, dem feine Verse zu verftehn
+gegeben haben, daß er einer ift, achte und fchäße sich hoch, sich
+an das Sprichwort haltend: ein Lump fei wer fih für einen
+Lumpen hält). — Shafefpeare deflarirt, in vielen feiner So-
+nette, mit eben fo viel Sicherheit, mie Unbefangenheit, was Er
+schreibt für unfterblih. Sein neuer Fritifcher Herausgeber Col—
+lier fagt darüber, in feiner Einleitung zu den Sonetten, ©. 473:
+„In vielen derfelben finden fich bemerfenswerthe Anzeichen von
+Selbfigefühl und Zuverfiht auf die Unfterblichfeit feiner Verse,
+und bleibt, in diefer Hinficht, unfers Autors Meinung feft und
+beftändig. Nie nimmt er Anftand, fie augzufprechen, und viel-
+feicht giebt e8, weder im Altertum, noch in ber neuen Zeit,
+einen Schriftfteller, welcher, im Verhältniß zu feinen hinterlaffe-
+nen Schriften folcher Art, feinen feften Glauben, daß die Welt
+Das, was er in biefer Diehtungsart gefchrieben, nicht werde
+willig untergehn lassen, fo oft und fo entschieden ausgebrüdt hat.”
+II. 25
+
+ [S. 386]
+
+
+Ein vom Neide häufig gebrauchtes Mittel zur Herabfegung
+des Guten, im Grunde fogar die bloße Kehrseite derselben, ift
+das ehr» und gewiflenlofe Lobpreifen des Schlechten: denn fobald
+das Schlechte Geltung erhält, ift das Gute verloren. So wirf-
+fam daher diefes Mittel, befonders wenn ind Große getrieben,
+auf eine Weile ift, fo fommt am Ende body die Zeit der Ab-
+rechnung, und der vorübergehende Krebit, in dem es bie fchledh-
+ten Probuftionen gesetzt hatte, wird burch den bleibenden Dis—
+fredit der nieberträchtigen Lober beflelben bezahlt; weshalb fie
+gern fih anonym halten.
+
+Da bie felbe Gefahr auch dem direften Herabfegen und Tas
+dein des Guten, wenn gleich schon aus größerer Entfernung,
+droht; fo find Viele zu Flug, als daß fie zu diesem fi) ent-
+fhlöffen. Daher ift die nächste Folge des Auftretens eined emi-
+nenten Verdienstes oft nur, daß fämmtliche dadurch fo tief, wie
+die Bögel durch den Pfauenjchweif, gefränfte Mitbewerber in ein
+tiefeg Stilffehweigen verfegt werden, fo einmüthig, wie auf Ber-
+abredung: ihrer Aller Zungen find gelähmt: es ist dag silen-
+tium livoris des Senefa. Bei diefem hämilchen und tückischen
+Schweigen, dessen terminus technicus Ignoriren heißt, kann
+es lange fein Bewenden haben, wann, wie dies in höhern Wif-
+fenfchaften der Fall ift, das nächste Publikum folcher Leiftung
+aus lauter Mitbewerbern (Leuten von Fach) befleht und folglich
+das größere Publifum fein Stimmrecht nur mittelbar, durch
+diefe, ausübt, nicht felbft unterfuht. Wird nun aber dennoch
+jenes silentium livoris endlih ein Mal vom Lobe unterbro-
+hen, jo wird auch Diefes nur felien ohne alle Nebenabfichten
+
+der bier die Gerechtigkeit Handhabenden geschehn:
+„Denn es ift fein Anerfennen,
+Meder Vieler, noch) des Einen,
+Wenn es nit am Tage fürbert,
+
+
+Wo man felbft was möchte fcheinen.“
+M, O. Divan.
+
+
+Jeder nämlid muß den Ruhm, welchen er einem Andern feines,
+oder eines verwandten Faches ertheilt, im Grunde fi felber
+entziehn: er kann nur auf Koften feiner eignen Geltung rüh—
+men. Demzufolge find schon an und für fih die Menfchen zum
+Loben und Rühmen gar nicht geneigt und aufgelegt, wohl aber
+
+
+*
+
+
+Ueber Urtheil, Kritif, Beifall und Ruhm. 387
+
+
+zum Tadeln und Läftern, als durch welches fie indirekt fich selbst
+loben. Soll es nun dennod zu jenem Erftern fommen; fo
+müffen andere Nüdfihten und Motive obwalten. Da nun bier
+nicht der Schandweg der Kamaraderie gemeint feyn kann; fo ift
+bie alddann twirffame Rücksicht diefe, daß was dem Verdienste
+eigener Leiftungen am nächften fieht die richtige Würdigung und
+Anerfennung der fremden iftz gemäß ber von Hesiodus und
+Machiavelli aufgeftellten dreifachen Rangordnung der Köpfe.
+(Siehe „Vierfache Wurzel des Satzes vom Grunde”, 2. Aufl.,
+&.50.) Wer nun, feinen Anfprud auf bie erste Kaffe durch⸗
+zusetzen, die Hoffnung aufgiebt, wird gern die Gelegenheit er-
+greifen, eine Stelle in der zweiten einzunehmen. Fast alfein
+hierauf beruht die Sicherheit, mit. der jedes Verdienft feiner end-
+lichen Anerfennung enigegenfehn kann. Hieraus entipringt es
+auch, dag, nachdem der hohe Werth eines Werkes ein Mal an-
+erfannt und nicht mehr zu verhehlen, nod abzuleugnen ift, alg-
+dann Alle fih um die Wette beeifern, ed zu loben und zu ehren;
+weil fie nämlich, im Bewußtseyn des Kenophanifchen goyov sıvaı
+ds Tov erıyv@oouevovy Tov oopo», dadurch fich felbft zu Ehren.
+bringen; weshalb fie eilen, für fidh zu ergreifen, was dem ihnen
+nun ein Mal unerreihbaren Preis des urfprünglichen VBerdien-
+stes zunächst liegt: die richtige Schägung desselben. Daher gebt
+ed alddann, wie bei einem zum Weichen gebrachten Heere, als
+wo, wie vorhin beim Kämpfen, jest beim Laufen Jeder ver
+Borberfte feyn will. Nunmehr nämlid eilt Jeder, feinen Bei-
+fall dem anerfannt Preiswürdigen darzubringen, ebenfalls ver-
+möge einer meiftens ihm felbft verborgenen Anerfennung des
+oben, $. 241, erörterten Gefetes der Hompgeneität, damit es
+nämlich Scheine, als fei feine Art zu denfen und zu fohauen der
+des Gerühmten gleichartig, und um wenigftens die Ehre feines
+Geschmacks zu retten, da ihm nichts weiter übrig gelaffen if.
+Bon hier aus ift Teicht abzufehn, daß der Ruhm zwar fehr
+schwer zu erlangen, ein Mal erlangt aber leicht zu bewahren ift;
+imgleichen, daß ein Ruhm, der schnell erfolgt, auch früh erlifcht;
+indem begreiflicherweife Leiflungen, deren Werth der gewöhnliche
+Menfchenfchlag fo Teicht erfennen und die Mitbewerber fo willig
+gelten lassen fonnten, auch nicht fehr hoch über dem Hervorbrin-
+gungs-Bermögen Beider ftehn werben. Denn tantum quisque
+25°
+
+ [S. 388]
+
+
+laudat, quantum se posse sperat imitari. Zudem ift, schon
+wegen bes öfter erwähnten Gesetzes der Homogeneität, ein schnell
+eintretender Ruhm’ ein verbächtiges Zeichen: er ift nämlich ber
+direkte Beifall der Menge. Was aber diefer auf fich habe,
+wußte Phofion, als er, bei dem über feine Rebe laut geworde-
+nen Bolfsbeifall, feine nabe ftehenden Freunde fragte: „habe ich
+etwan unversehns etwas Schlechtes gefagt?” (Plut. apophth.)
+Aus umgefehrten Gründen wird ein Ruhm, der von langem. Be-
+ftande feyn folk, fehr fpät reifen, und die Jahrhunderte feiner
+Dauer müflen meiftend mit dem Beifall der Zeitgenoflen erfauft
+werden. Denn was fo anhaltend in Geltung bleiben foll, muß
+eine schwer zu erlangende Trefflichfeit haben, welche auch nur
+zu erfennen schon Köpfe erfordert, die nicht jederzeit bafınd, am
+wenigften in binreichender Anzahl, um fi vernehmbar machen
+zu können, während der stets wache Neid Alles thun wird, ihre
+Stimme zu erftiden. Mäßige Verdienste hingegen, die balb an-
+erfannt werden, Yaufen dafür Gefahr, dag ihr Befiger fie und
+fi) überlebt, fo daß für den Ruhm in der Jugend ihm Obffu-
+rität im Alter zu Theil wird; während, bei großen Berbienften,
+man umgefehrt lange obffur bleiben, dafür aber im Alter glän-
+zenden Ruhm erlangen wird. Sollte diefer jedoch fich fogar erft
+nah dem Tode einftellen; nun fo ift man Denen beizuzählen,
+von weldhen Jean Paul fagt, daß die Teste Delung ihre Taufe
+fei, und hat sich mit den Heiligen zu tröften, die ja auch erft
+nad ihrem Tode Fanonifirt werden. — Sp bewährt fich dem-
+nah was Mahlmann, im Herodes, fehr gut gefagt hat:
+
+
+„Ich denke, das wahre Große in der Welt
+If immer nur Das, was nicht gleich gefällt.
+Und wen der Pöbel zum Gotte weiht,
+
+Der fteht auf dem Altar nur kurze Zeit.“
+
+
+Beachtenswerth ift es, daß diefe Regel eine ganz unmittelbare
+Beftätigung an Gemälden hat, indem, wie bie Kenner wiflen,
+die größten Meifterwerfe nicht fogleich die Augen auf fich ziehn,
+noch das erfte Mal bedeutenden Eindruck machen, fondern erft
+bei wieberholtem Befuch, dann aber immer mehr.
+
+Uebrigens hängt die Möglichkeit einer zeitigen und richtigen
+Würdigung gegebener Leiftungen zunächst von der Art und Gat⸗
+
+
+—
+
+
+Ueber Urtheil, Keitif, Beifall und Ruhm. 389
+
+
+tung berfelben ab, je nachdem nämlich diefe hoch ober niedrig,
+mithin schwer oder Teicht zu verfiehn und zu beurtheilen ift, und
+je nachdem fie ein größeres, oder Fleineres Publikum hat. Diefe
+legtere Bedingung hängt zwar größtentheild von ber erfteren,
+zum Theil: jedoch auch davon ab, ob die gegebenen Werfe der
+Bervielfältigung fähig find, wie Bücher und mufifalifche Kom—
+pofitionen. Dur die Komplifation diefer beiden Bedingungen
+alfo werden die feinem Nuten fröhnenden Leiftungen, als. von
+welchen allein bier die Rede ift, in Hinficht auf die Möglichfeit
+baldiger Anerkennung und Schäsung ihres Werthes, etwan fol-
+gende Neihe bilden, in welcher, was am jchnelfften feine richtige
+Würdigung zu hoffen bat voranfteht: Seiltänzer, Kunftreiter,
+Ballettänzer, Taschenspieler, Schaufpieler, Sänger, Birtuofen,
+Komponiften, Dichter (Beide wegen der Vervielfältigung ihrer
+Werfe), Architekten, Maler, Bildhauer, Philosophen: diese letz—
+teren nehmen ohne Bergleich die letzte Stelle ein; weil ihre
+Werfe nicht Unterhaltung, fondern bloß Belehrung verheißen,
+dabei Kenntniffe vorausfegen und viel eigene Anftrengung des
+Lefers verlangen; wodurch ihr Publikum äußerst Fein wird und
+ihr Ruhm viel mehr Ausdehnung in der Länge, als in ber
+Breite erhält. Leberhaupt verhält ver Ruhm fich in Hinficht auf
+die Möglichfeit feiner Dauer ungefähr umgefehrt wie hinfichtlich
+der feines baldigen Eintritts, fo daß danach obige Reihe in um:
+gefehrter Ordnung gälte; nur dag alsdann Dichter und Kompo-
+niften, wegen ber Möglichfeit eiwiger Erhaltung aller fchriftlichen
+Werke, dem Philofophen zunächft zu ftehn fommen, dem jedoch
+nunmehr ber erste Pat gebürt, wegen der viel größern Selten:
+heit der Leiftungen in diefem Sache, der hohen Wichtigkeit der⸗
+felben und dev Möglichkeit ihrer faft vollfommenen Ueberfegung
+in alle Sprachen. Sogar überlebt bisweilen der Ruhm der Phi—
+Iofophen ihre Werfe selbst; wie Dies dem Thales, Empedo—
+kles, Herafleitos, Demofritos, Parmenides, Epifuros u. a. m.
+begegnet if. |
+
+Nun aber andrerfeits, bei Werfen, welche dem Nuben, ober
+gar unmittelbar dem finnlihen Genusse dienen, findet bie rich—
+tige Würdigung Feine Schwierigkeit, und ein ausgezeichneter Pa-
+ftetenbädfer wird in feiner Stadt Tange obffur bleiben, gefchtbeige
+nöthig haben, an die Nachwelt zu appelliren. —
+
+ [S. 390]
+
+
+Dem fchnell eintretenden Ruhm ift auch der falfhe beizu-
+zählen, nämlich der Fünftliche, Durch ungerechtes Lob, gute Freunde,
+beftochene Kritifer, Winfe von oben und Berabredungen von un—
+ten, bei richtig vorausgefegter Urtheilsiofigfeit der Menge, auf
+die Beine gebrachte Ruhm eines Werfed. Er gleicht den Ochsen—
+blafen, durch die man einen schweren Körper zum Schwimmen
+bringt. Sie tragen ihn, längere oder Fürzere Zeit, je nachdem
+fie wohl aufgebläht und feft zugefchnürt find: aber die Luft trans—
+fudirt allmälig doch, und er sinkt. Dies ift das unvermeibliche
+2008 ber Werke, welche die Duelle ihres Ruhmes nicht in sich
+haben: das falihe Lob verhallt, Die Verabredungen fterben aus,
+der Kenner findet den Ruhm nicht beflätigt, diefer erlifcht, und
+eine defto größere Geringihägung tritt an feine Stelle. Hin-
+gegen bie ächten Werfe, welche die Duelle ihres Ruhmes in fich
+haben und daher zu jeber Zeit die Bewunderung: von Neuem
+zu entzünden vermögen, gleichen ben fpecififch leichteren Körpern,
+bie aus eigenen Mitteln sich stets oben erhalten, und fo gehn fie
+den Strom der Zeit hinab.
+
+Die ganze Litterargeschichte, alter und neuer Zeit, hat Fein
+Beijpiel von falfhem Ruhme aufzumweifen, welches dem der He-
+gelihen Phitofophie an die Seite zu ftellen wäre. Nie und nir-
+gends ift das ganz Schlechte, das handgreiflich Falsche, Abfurde,
+ja, offenbar Unfinnige und dazu noch, dem Vortrage nach, im
+höchsten Grade Widerwärtige und Efelpafte mit folder empö—
+renden Frechheit, folder eifernen Stirn, als die höchste Weisheit
+und das Herrlichfle, was je die Welt gefehn, gepriefen worden,
+wie jene durchaus werthlofe Afterphilofophie. Daß die Sonne
+dazu von oben schien, brauche ich nicht zu fagen. Aber, wohl
+zu merken, es ift mit dem vollftändigften Erfolge, beim Deut:
+fchen Publifo, gefchehn: darin befteht die Schande. Ueber ein
+Biertel- Jahrhundert lang hat jener frech zufammengelogene Ruhm
+für Acht gegolten und hat die bestia trionfante in der beut-
+schen Gelehrtenrepublik florirt und regiert, fo fehr, daß felbft die
+wenigen Gegner dieser Narrheit es doch nicht wagten, von dem
+miferabeln Urheber derselben anders, ald von einem feltenen Genie
+und großen Geifte, und mit den tiefften Neverenzen zu reden.
+Aber was hieraus folgt wird man zu schließen nicht unterlaffen;
+daher denn allezeit, in der Litterargefchichte, diese Periode ald ein
+
+
+Neber Urtheil, Kritif, Beifall und Ruhm. 391
+
+
+bleibender Schandflek der Nation und des Zeitalters figuriren
+und der Spott der Jahrhunderte feyn wird: mit Recht! Aller:
+dings fteht es Zeitaltern, wie Individuen, frei, Das Schlechte zu
+preifen und das Gute zu verachten: aber die Nemefis erreicht
+bie Einen, wie die Andern, und die Schandglode bleibt nicht
+aus. Zu jener Zeit, da der Chor feiler Gefellen planmäßig den
+Ruhm jenes Fopfverberbenden Philofophafters und feiner heillo-
+fen Unfinnsfchmiererei verbreitete, da hätte man, wenn man in
+Deutschland einigermaaßen fein wäre, schon der ganzen Art und
+Weise jenes Lobes fogleih anfehn müssen, daß dasselbe allein
+von ber Absicht, und durchaus nicht von der Einfiht ausgieng.
+Denn es ergoß sich ungemefjen und in überreicher Fülle, nach al-
+Ien vier Weltgegenden hin, fprubelte überall aus weitem Munde,
+ohne Rüdhalt, ohne Bedingung, ohne Abzug, ohne Maaß, bie
+ihnen die Worte audgiengen. Und mit ihrem eigenen vielftim-
+migen Päan noch nicht zufrieden fpäheten jene in Reihe und
+Glied ftehenden Claqueurs noch immer ängftlich nach jedem Körn-
+hen fremden, unbeftochenen Lobes, um es aufzulefen und hoc)
+empor zu halten: wo nämlich irgend ein berühmter Dann ein
+Beifallswörtchen fih hatte abnöthigen, abfomplimentiren, abliften
+laflen, over es ihm zufällig entfallen war, oder wo fogar ein
+Gegner mit einem folchen feinen Tadel, furchtfam oder mitleidig,
+verfüßt hatte, — da fprangen fie alle zu, es aufzulefen, um es
+triumphirend herumguzeigen. So treibt es nur die Abficht,
+und fo Ioben auf Lohn Hoffende Sölöner, bezahlte Elaqueurg und
+verschworene Titterariiche NRottirer. Hingegen das aufrichtige Lob,
+welches bloß von der Einficht ausgeht, trägt einen ganz an-
+deren Charakter. Ihm geht vorher, was Feuchtersleben
+schön ausgebrüdt hat:
+
+
+„Wie doch die Menjchen fich winden und wehren, —
+Um nur das Gute nicht zu verehren!”
+
+
+Es fommt nämlicy fehr langsam und fpät, vereinzelt und farg
+gemeffen, wird quentchenmweife zugewogen und stets noch mit Re—⸗
+Ariktionen verfegt, fo dag der Empfänger wohl fagen fann:
+
+
+Xülea uev Tv’ 2dinv’, ünsgumv d’ ovx dcdinvev.
+ll. XXU, 495.
+
+ [S. 392]
+
+
+und dennoch trennt fi) von ihm der Ertheiler desselben nur mit
+Widerftreben. Denn es ift ein, ber flumpfen, jpröden, zäben
+und dabei neidiihen Mittelmäßigfeit, durch die nicht länger zu
+verhehlende Größe ächter Verdienste endlich abgedrungener und
+wider Willen abgezwungener Lohn: es ift der Yorbeer, welder,
+wie Klopstock fingt, des Schweißes der Edlen werth war: es ift,
+wie Göthe fagt, die Frucht
+„Bon jenem Muth, der früher oder fpäter
+Den Widerstand der ftumpfen Welt befiegt.“
+Demgemäß verhält eö sich zu jenem frechen Lobgehudel der Ab-
+fihtsvollen, wie die fchwer gewonnene, edele und aufrichtige
+Geliebte zur bezahlten Gafjenhure, deren di aufgetragenes Blei—
+weiß und Zinnober man am Hegel’fchen Ruhme fogleih erfannt
+haben müßte, wenn man, wie gejagt, in Deutfchland nur irgend
+fein wäre. Dann wäre nicht, zur nationalen Schande, auf fo
+Ichreiende Art realifirt worden was schon Schiller gefungen hatte:
+„Ich fah des Ruhmes heil'ge Kränze
+Auf der gemeinen Stirn entweiht.”
+
+Die hier zum Beifpiele falfhen Ruhmes gewählte Hegel'sche
+Gloria ift allerdings ein Faltum ohne Gleihen, — felbft in
+Deutschland ohne Gleichen; daher ich die öffentlichen Bibliothe-
+fen auffordere, alle Dofumente derfelben, fowohl die opera
+omnia des Philofophafters felbft, ald auch die feiner Anbeter,
+forgfältig mumifirt aufzubewahren, zur Belehrung, Warnung und
+Beluftigung der Nachwelt, und als ein Denkmal dieses Zeital-
+ters und dieses Landes.
+
+Jedoch auch, wenn man feinen Blick weiter ausdehnt und
+das Rob der Zeitgenoffen aller Zeiten überhaupt ind Auge
+faßt, wird man finden, daß dasselbe eigentlic) immer eine Hure
+ift, proftituwirt und befudelt durch taufend Unwürdige, denen es
+zu Theil geworden. Wer könnte einer solchen Metze noch be—
+gehren? wer möchte auf ihre Gunft ftolz feyn? wer wird fie
+nicht verschmähen? — Hingegen ift der Ruhm bei der Nach—
+welt eine ftolze, fpröde Schöne, die fih nur dem Würdigen,
+dem Sieger, dem feltenen Helden bingiebt. — So ift’s. Ind
+ift nebenbei daraus zu schließen, wie es um dieses bipedifche Ge-
+Schlecht beftellt feyn muß; da Menicenalter, ja, Jahrhunderte
+erfordert find, ehe aus feinen Hunderten von Millionen eine
+
+
+R u
+
+
+Ueber Urtheil, Kritif, Beifall und Ruhm. 393
+
+
+Handvoll Köpfe zufammenfommt, die Gutes von Schlechtem,
+Aechtes von Unächtem, Gold von Kupfer zu unterfcheiden fähig
+find und die man demnach den Richterftuhl der Nachwelt nennt;
+welchem zubem noch der Umftand günftig ift, daß alsdann ber
+unverföhnliche Neid der Unfähigkeit und die absichtsvolle Schmei-
+chelei der Niederträchtigfeit verftummt find, woburd die Einficht
+zum Worte gelangt.
+
+Und fehn wir denn nicht, der befagten elenden Beichaffenheit
+des Menfchengefchlechts entiprechend, zu allen Zeiten, die großen
+Genien, fei es in der Poesie, oder der Philofophie, oder ben
+Künften, daftehn, wie vereinzelte Helden, welche allein gegen den
+Andrang eines Heereshaufens den verzweifelten Kampf aufrecht
+erhalten? Denn die Stumpfheit, Rohheit, Verfehrtheit, Albern-
+heit und Brutalität der großen, großen Mehrheit des Gefchlechts
+fteht, in jeder Art und Kunft, ihrem Wirken ewig entgegen und
+bildet dadurch jenen feindlichen Heereshaufen, dem fie zulegt Doch
+unterliegen. Was auch solche Einzelne leiften mögen; es wird
+schwer erkannt, fpät und nur auf Auftorität geschätzt und Yeicht,
+wenigftend auf eine Weile, wieder verbrängt. Denn immer von
+Neuem wird gegen dasselbe das Falsche, das Matte, das Abge-
+Ihmadte zu Markte gebracht, und alled Diefes fagt jener gro—
+fen Mehrheit befler zu, behauptet alfo meiftentheild den Kampf—
+platz. Mag auch vor derjelben der Kritifer stehn und fchreien,
+wie Hamlet, wann er feiner nichtswürdigen Mutter die zwei
+Bildniffe vorhält: „habt ihr Augen? Habt ihr Augen?” — ad,
+fie haben feine! Wenn ich die Menjchen beim Genuffe der Werfe
+großer Meifter beobachte und die Art ihres Beifalls fehe; fo
+fallen mir dabei oft die zur fogenannten Komödie abgerichteten
+Affen ein, die fih wohl ziemlich menjchlich gebärben, dazwischen
+aber immer verrathen, daß das eigentliche innere Princip jener
+Gebärden ihnen dennoch abgeht, indem fie Die unvernünftige Na-
+tur durchblicken Taflen.
+
+Dem Allen zufolge ift die oft gebrauchte Redensart, daß
+Einer „über feinem Jahrhundert ftehe”, dahin auszulegen, daß
+er über dem Menfchengefchlechte überhaupt fteht, weshalb eben
+er nur von Solchen unmittelbar erfannt wird, welche schon felbft
+fi bedeutend über das Maaß der gewöhnlichen Fähigkeiten er-
+heben: diese aber find zu felten, als daß berem zu jeder Zeit eine
+
+ [S. 394]
+
+
+Anzahl vorhanden feyn könnte. Ist alfo Jener in biefem Stüde
+nicht befonders vom Scidfale begünftigt; fo wird er „von fei-
+nem Sahrhundert verfannt”, d. h. fo lange ohne Geltung blei-
+ben, bis die Zeit allmälig die Stimmen der feltenen, ein’ Werf
+hoher Gattung zu beurtheilen fähigen Köpfe zufammengebracht
+hat. Danach heißt es dann bei der Nachwelt: „ver Mann ftand
+über feinem Jahrhundert‘, ftatt „über der Menschheit“: diese
+nämlich wird gern ihre Schuld einem einzigen Jahrhundert auf-
+bürden. Hieraus folgt, daß wer über feinem Jahrhunderte ge-
+ftanden hat, wohl auc über jedem andern geftanden haben würbe;
+es fei denn, daß in irgend einem, durch einen feltenen Glücks—
+fall, einige fähige und gerechte Beurtheiler, in der Gattung fei-
+ner Leiftungen, zugleich mit ihm geboren worden wären; wie,
+einem fchönen indiichen Mythos zufolge, wann Wifchnu fich als
+Held infarnirt, dann zu gleicher Zeit Brahma als Sänger feiner
+Thaten auf die Welt fommt; daher eben VBalmifi, Vyasa und
+Kalidasa Infarnationen des Brahma find °). — In diefem Sinne
+nun fann man jagen, daß jedes unfterbliche Werf fein Zeitalter
+auf die Probe ftellt, ob nämlich es im Stande feyn wird, das—⸗
+felbe zu erfennen: meiltens befteht es die Probe nicht beffer, als
+die Nachbarn des Philemon und Baufis, welche den umerfannten
+Göttern die Thüre wiefen. Demnach geben den richtigen Maaß—
+stab für den intellektuellen Werth eines Zeitalters nicht die gro—
+gen Geifter, die in demfelben auftraten; da ihre Fähigkeiten das
+Werk der Natur find und die Möglichfeit der Ausbildung der—
+felben zufälligen Umftänden anheim geftellt war: fondern ihn
+giebt die Aufnahme, welche ihre Werfe bei ihren Zeitgenoffen
+gefunden haben: ob nämlich ihnen ein baldiger und Tebhafter
+Beifall ward, oder ein fpäter und zäher, oder ob er ganz ber
+Nachwelt überlafien blieb. Dies wird befonders dann der Fall
+feyn, wenn es Werfe hoher Gattung find. Denn der oben er-
+wähnte Glücksfall wird um fo gewiller ausbleiben, je Wenigeren
+überhaupt zugänglich die Gattung ift, in der ein großer Geift
+arbeitet. Hier liegt der unermeßliche Bortheil, in welchem, bin-
+fichtlich ihres Ruhmes, die Dichter ftehn, indem fie beinahe Allen
+zugänglich find. Hätte Walter Scott nur von etwan hundert
+
+
+*) Polier, mythol. d. Indous, Vol. 1. p.p. 172—190.
+
+
+Meber Uxtheil, Kritif, Beifall umd Ruhm. 395
+
+
+Perfonen gelefen und beurtheilt werden können; fo wäre vielleicht
+irgend ein gemeiner Sfribler ihm vorgezogen worden, und wann
+nachher die Sache fi) aufgeflärt hätte, würde auch ihm die Ehre
+zu Theil geworden feyn, „über feinem Jahrhundert geftanden zu
+haben”. — Wenn nun aber gar noch zur Unfähigleit jener hun-
+dert Köpfe, die im Namen eines Zeitalters ein Werk zu beur-
+theilen haben, bei ihnen fih Neid, Unreblichfeit und Zielen nad
+perfönlihen Zweden gefellt; — dann hat ein solches Werf das
+traurige Schicksal Defien, der vor einem Tribunal plaidirt, des—
+fen fämmtliche Beifiger beftochen find.
+
+Dem eutiprechend zeigt die Litterargefchichte durchgängig, daß
+Die, welde die Einfihten und Erfenntniffe felbft fih zu ihrem
+Zwede machten, verfannt und verlaffen figen geblieben find;
+während Die, welche mit dem bloßen Scheine berfelben paradir-
+ten, die Bewunderung ihrer Zeitgenoflen, nebft den Emolumen-
+ten, gehabt haben.
+
+Denn zunächst ift die Wirffamfeit eined Schriftftellers. da-
+durch bedingt, daß er den Ruf erlange, man müsse ihn Yefen.
+Diefen Ruf nun aber werben, durch Künfte, Zufall und Wahl:
+verwandtfchaft, hundert Unwürdige fchnell erlangen, während ein
+Würbdiger langfam und fpät dazu kommt. Jene nämlich haben
+Freunde; meil dad Pad ftets in Menge vorhanden ift und eng
+zufammenhält: er aber hat nur Feinde; weil geiftige Ueberlegen—
+heit, überall und in allen Berhältnifien, das Berhaßtefte auf der
+Welt ift: und nun gar bei den Stümpern im felben Fache, die
+selbst für etwas gelten möchten. — Sollten die Philofophiepro-
+fefforen etwan meynen, daß hier auf fie und auf ihre mehr als
+30 Zahre lang eingehaltene Taktif. gegen meine Werke angefpielt
+
+werbe; fo haben fie es getroffen.
+Weil nun dies Alles sich jo verhält, fo ift, um etwas Gro-
+es zu leisten, etwas, das feine Generation und fein Jahrhun—
+dert überlebt, hervorzubringen, eine Hauptbebingung, daß man
+feine Zeitgenoffen, nebft ihren Meinungen, Anfichten und daraus
+entfpringendem Tadel und Lobe, für gar nichts achte. Diefe Bes
+dingung findet jedoch fi immer von felbft ein, fobald die übri-
+gen beifammen find: und das ift ein Glück. Denn wollte Einer,
+beim Hervorbringen foldher Werke, die allgemeine Meinung, oder
+das Urtheil der Fachgenofien berüdffichtigen; fo würden fie, bei
+
+ [S. 396]
+
+
+jedem Schritte, ihn vom rechten Wege abführen: Daher muß,
+wer auf die Nachwelt fommen will, fi dem Einfluffe feiner Zeit
+entziehn, dafür aber freilich auch. meiftens dem Einfluß auf feine
+Zeit entfagen und bereit feyn, den Ruhm der Jahrhunderte mit
+dem Beifall der Zeitgenofien zu erfaufen.
+
+Wann nämlich irgend eine neue und baher parabore Grundb-
+wahrheit in die Welt Fommt; fo wird man allgemein fi ihr
+hartnädig und möglichft lange mwiderfegen, ja, fie noch dann leug—
+nen, wann man fhon wanft und_faft überführt ist. Inzwischen
+wirft fie im Stillen fort und frißt, wie eine Säure, um sich,
+bis Alles unterminirt ift: dann wird hin und wieder ein Krachen
+vernehmbar, der alte Irrthum stürzt ein, und nun steht plötzlich,
+wie ein aufgebedtes Monument, das neue ‚Gedanfengebäude da,
+allgemein anerfannt und bewundert. Freilich pflegt das Alles
+fehr langsam zu gehn. Denn auf wen zu hören fei merfen Die
+Leute in der Regel erft, wann er nicht mehr baift, fo daß das
+hear, hear! erfhallt, nachdem der Redner abgetreten.
+
+Ein befieres Schielfal hingegen erwartet die Werfe gewöhn—
+lihen Schlages. Sie entftehn im Fortgang und Zufammenhang
+der Gefammtbildung ihres Zeitalters, find daher mit dem Geifte
+der Zeit, d. h. den gerade herrschenden Anfichten, genau verbun-
+den und auf das Bedürfniß des Augenblicks berechnet. Wenn
+fie daher nur irgend einiges Verdienst haben; jo wird baflelbe
+jehr bald anerfannt, und fie werben, als eingreifend in die Bil-
+dungsepoche ihrer Zeitgenoffen, bald Antheil finden: ihnen wird
+Gerechtigkeit widerfahren, ja, oft mehr als foldhe, und dem Neide
+geben fie Doch nur wenig Stoff; da, wie gefagt, tantum quis-
+que laudat, quantım se posse sperat imitari. Aber jene
+außerorbentlihen Werfe, welche beftimmt find, der ganzen Menfch-
+heit anzugehören und Jahrhunderte zu Yeben, find, bei ihrem Ent-
+ftehn, zu weit im Borfprung, eben deshalb aber der Bildungs-
+epoche und dem Geiste ihrer eigenen Zeit fremd. Sie gehören
+diefen nicht an, fie greifen in ihren Zufammenhang nicht ein,
+gewinnen alfo den darin DBegriffenen Fein ntereffe ab. Sie
+gehören eben einer andern, einer höhern Bildungsftufe und einer
+noch fern liegenden Zeit an. Ihre Laufbahn verhält fich zu der
+jener andern, wie bie des Uranus zu ber bed Merkur. Ihnen
+wiberfährt daher, vor ber Hand, Feine Gererhtigfeit: man weiß
+
+
+Ueber Urtheil, Kritif, Beifall und Ruhm. 397
+
+
+nicht, was man damit foll, läßt fie alfo Liegen, um feinen klei—
+nen Schnedengang fortzufesen. Sieht doch aud das Gewürm
+nicht. den Vogel in der Luft.
+
+Die Zahl der Bücher, welche in einer Sprache gefchrieben
+werden, mag fich zur Zahl derjenigen, welche ein Theil ihrer
+eigentlichen und bleibenden Litteratur werben, verhalten ungefähr
+wie 100,000 zu Eins. — Und welde Schiefale haben diefe Yeg-
+teren meiftens zu überftebn, ehe fie, jene 100,000 vorbeifegelnd,
+auf dem- ihnen gebürenden Ehrenplag anlangen! Sie find fämmt-
+lich die Werfe ungewöhnlicher und entfchieden überlegener Köpfe,
+und eben deshalb yon den andern fpecifiich verfchieden; was denn
+auch. früher ober fpäter zu Tage fommt.
+
+Man.denfe nicht, daß es mit diefem Gange der Dinge sich
+jemals beffern werde. Die elende Befchaffenheit des Menfchen-
+gefchlechtd nimmt zwar in jeder Generation eine etwas verän-
+derte Geftalt an, ift aber zu allen Zeiten die felbe. Die aus-
+gezeichneten Geifter dringen felten bei Lebzeiten buch; weil fie
+im Grunde doch bloß von. den ihnen fihon verwandten ganz
+und recht eigentlich verftanden werben.
+
+Da nun den Weg. zur Unfterblichfeit, aus fo vielen Mil-
+lionen, felten auch nur Einer geht; fo muß er nothwendig fehr
+einfam feyn, und wird die Reife zur Nachwelt durch eine entfeß-
+lich öde Gegend zurüdgelegt, die der Lybifchen Wüfte gleicht, von
+deren Eindruck befanntlic Keiner. einen Begriff hat, als wer fie
+gefehn. Inzwifchen empfehle ich zu diefer Reife vor Allem leichte
+Bagage; weil man fonft unterwegs zu. Vieles abwerfen muß.
+Man fei daher ftets des Ausspruchs Balthazar Grariand einge-
+denf: lo bueno, si.breve, dos vezes bueno (Das Gute, wenn
+furz, ift Doppelt gut), ‚welcher überhaupt den Deutschen ganz be-
+fonders zu empfehlen if. — |
+
+Zu der kurzen Spanne Zeit, in ber fie leben, verhalten sich
+die großen Geifter wie große Gebäude zu einem engen Plabe,
+auf dem-fie fiehn. Man fieht nämlich diefe nicht in ihrer Größe,
+weil man zu nahe davor fleht; und aus der analogen Ursache
+wirb man jene nicht gewahr: aber wann ein Jahrhundert ba-
+zwifchen Yiegt, werben fie erkannt und zurückgewünscht.
+
+Ya, felbft der eigene Lebenslauf des vergänglichen Sohnes
+ber. Zeit, ber. ein unvergängliches Werk. hervorgebracht hat, zeigt
+
+ [S. 398]
+
+
+zu Ddiefem ein großes Mißverhältnig, — analog bem ber
+fterblihen Mutter, wie Semele, oder Maja, die einen unfterbfi-
+hen Gott geboren hat, oder dem entgegengefegten der Thetis
+zum Achill. Denn Bergängliches und Unvergängliches ftehn in
+zu großem Widerspruch. Seine furze Spanne Zeit, fein bebürf-
+tiges, bedrängtes, umftätes Leben wirb felten erlauben, daß er
+auch nur den Anfang der glänzenden Bahn feines unfterblichen
+Kindes fehe, oder irgend für Das gelte, was er if. Sondern
+ein Mann von Nachruhm bleibt das Widerfpiel eines sn.
+nes, ald welcher ein Mann von Borruhm if.
+
+Inzwischen läuft, für den Berühmten, der Unterfchieb *
+schen dem Ruhme bei der Mitwelt und dem bei der Nachwelt,
+am Ende bloß darauf hinaus, daß beim ersteren seine Verehrer
+von ihm durch den Raum, beim andern durch die Zeit getrennt
+sind. Denn unter den Augen hat er sie, auch beim Ruhm der
+Mitwelt, in der Regel nicht. Die Verehrung verträgt nämlich
+nicht die Nähe; sondern hält sich fast immer in der Ferne auf;
+weil sie, bei persönlicher Gegenwart des Verehrten, wie Butter
+an der Sonne schmilzt. Demnach werden selbst den schon bei
+der Mitwelt Berühmten neun Zehntel der in seiner Nähe Le—
+benden bloß nach Maaßgabe seines Standes und Vermögens
+estimiren, und allenfalls wird beim übrigen Zehntel, in Folge
+einer aus der Ferne gekommenen Kunde, ein dumpfes Bewußi⸗
+feyn feiner Vorzüge Statt finden. Ueber biefe Inkompatibilität
+der Verehrung mit der yerfönfichen Anmefenheit und des Ruh—
+mes mit dem Leben haben wir einen gar schönen lateinischen
+Brief des Petrarka: in der mir vorliegenden Benezinnifchen
+Ausgabe, von 1492, feiner epistolae familiares ift e8 der zweite
+und an den Thomas Meflanenfis gerichtet. Er fagt, unter An:
+derm, daß fämmtliche Gelehrte feiner Zeit die Marime hätten,
+alle Schriften geringzufchägen, deren Berfafler ihnen auch nur
+ein einziges Mal zu Gefichte gefommen wäre. — Sind bem-
+nach die Hochberühmten, hinfichtlich: der Anerfenmung: und Ber-
+ehrung, immer anf bie Ferne gewiesen, fo fann es ja fo. gut die
+zeitliche, wie die räumliche feyn. Freilich erhalten fie bisweilen
+aus-biefer, aber nie aus jener, Kunde davon: bafür jedoch ift
+das ächte, große Verdienst im Stande, feinen Ruhm bei ber
+Nachwelt mit Sicherheit zu anticipiren. Ja, wer einen wirklich
+
+
+Ueber Urtheil, Kritif, Beifall und Ruhm, 399
+
+
+großen Gebanfen erzeugt, wird, schon im Augenblide der Kon-
+ception befielben, feines Zufammenhanges mit den fommenden
+Gefchlechtern inne; fo daß er dabei die Ausdehnung feines Da-
+seyns durch Jahrhunderte fühlt und auf diefe Weile, wie für
+bie Nachkommen, fo auch mit ihnen Lebt. Wenn nun andrer-
+feits wir, von der Bewunderung eines großen Geiftes, dessen
+Werfe und eben beichäftigt haben, ergriffen, ihn zu und heran-
+wünfchen, ihn fehn, fprechen, und unter ung befigen möchten;
+jo bleibt auch diefe Sehnfucht nicht unerwidert: denn auch er hat
+sich gesehnt nad) einer anerfennenden Nachwelt, melde ihm die
+Ehre, Danf und Liebe zolfen würde, Die eine neiderfülfte Mitwelt
+ibm verweigerte.
+&. 243,
+
+Wenn nun alfo die Geifteswerfe ber höchften Art meifteng
+erft vor dem Richterstuhle der Nachwelt Anerkennung finden; fo
+it ein umgekehrtes Schicksal gewiflen glänzenden Irrthümern be-
+reitet, welche, von talentvollen Leuten ausgehend, fo fheinbar be-
+gründet auftreten und mit fo viel Verfland und Kenniniß ver-
+theidigt werben, daß fie, bei ihren Zeitgenofien, Ruhm und Ans
+sehn erlangen und, wenigstens fo lange ihre Urheber leben, fich
+auch darin erhalten. Diefer Art find manche falfche Theorien,
+falfche Kritisismen, auch Gedichte und Kunftwerfe in einem vom
+Borurtheile der Zeit geleiteten, falfchen Geschmack, oder Manier.
+Das Anfehn und die Geltung aller folder Dinge beruht darauf,
+daß Die noch nicht dasind, welde fie zu miberlegen, oder fonft
+das Falsche derjelben nachzuweisen verftehn. Meistens jedoch
+bringt diese schon die nächste Generation heran; und dann hat
+die Herrlichkeit ein Ende. Nur in einzelnen Fällen dauert es
+lange damit, wie z.B. mit Neutons Farbenlehre der Fall gewe—
+fen, ja, noch ift: andere Beifpiele diefer Art find das Ptolemäi—
+Ihe Weltsystem, Stahl's Chemie, F. A. Wolf's Abftreiten der
+Perfönlichfeit und Spentität Homers, vielleicht auch Niebuhrs
+deftruftive Kritif der Römischen Königsgefchichte u. |. wm. So
+it denn der Richterstuhl der Nachwelt, wie im günftigen, fo auch
+im ungünftigen Fall, der gerechte Kaffationshof der Urtheile ber
+Mitwelt. Darum ift es fo schwer und fo felten, der Mitwelt
+und der Nachwelt gleihmäßig Genüge zu Teiften.
+
+Diefe unausbleiblihe Wirfung der Zeit auf Die Berichtigung
+
+
+A00 Ueber Urtheil, Kritif, Beifall und Ruhm.
+
+
+der Erfenntniß und des Urtheils follte man überhaupt im Auge
+behalten, um fih damit zu beruhigen, fo oft, fei ed in Kunft
+und Wissenschaft, oder im praftiichen Leben, flarfe Irrthümer
+auftreten und um sich greifen, oder ein falfches, ja grundverfehr-
+tes Beginnen und Treiben sich geltend macht und die Menfchen
+ihren Beifall dazu geben. Da foll man nämlich sich nicht erei-
+fern, noch weniger verzagen, fondern benfen, daß fie schon davon
+zurüdfommen werben und nur der Zeit und Erfahrung bedürfen,
+um felbft, aus eigenen Mitteln, Das zu erfennen, was der fchär-
+fer Sehende auf den erften Blick sah. Die Länge diefer Zeit
+wird freilich der Schwierigfeit des Gegenftandes und der Schein-
+barkeit des Falschen angemeflen feyn; aber auch fie wird ablau-
+fen, und in vielen Fällen würde es fruchtlos feyn, ihr vorgreifen
+zu wollen. Im fchlimmften Falle wird es zulegt im Theoreti-
+chen gehn, wie im Praktifchen, wo Täufchung und Betrug, durch
+den günftigen Erfolg dreift gemacht, immer meiter und weiter
+getrieben werben, bis die Entdeckung faft unvermeidlich eintritt,
+So nämlich wächst auch im Theoretifchen, mittelft der blinden
+Zuverfiht der Dummföpfe, das Abfurde immer höher, bie es
+endlich fo groß geworben, daß auch das blödefte Auge es erfennt.
+Daher foll man zu Dergleichen jagen: je toller, je beffer! Auch
+fann man sich flärfen durch den Rückblick auf alle die Flaufen
+und Marotten, die fehon ihre Zeit gehabt haben und dann gänz-
+Yich befeitigt wurden. Im Stil, in der Grammatif und Ortbe-
+graphie giebt ed foldhe, denen nur eine Lebenszeit von brei bie
+vier Jahren befchieden ift. Bei den großartigeren wird man frei-
+lich die Kürze des menjchlichen Lebens zu beffagen haben, alle
+mal aber wohl thun, binter feiner Zeit zurüdzubleiben, wann
+man fieht, daß fie felbft im Zurücichreiten begriffen ift. Dem
+es giebt zweierlei Art nicht au nivean de son temps zu stehn:
+darunter, ober darüber.

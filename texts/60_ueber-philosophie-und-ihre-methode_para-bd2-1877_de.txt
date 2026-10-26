@@ -1,0 +1,802 @@
+# TIER 1 PRIMARY (published work) | German original, collected edition of 1877 | a readable printing of the collected edition, 1877
+# title: Ueber Philosophie und ihre Methode (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On philosophy and its method - the English title is this collection's rendering
+# year: 1877 printing of a work first published 1851
+# edition: Arthur Schopenhauer's saemmtliche Werke: Parerga und Paralipomena, zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), in the arrangement made by Julius Frauenstaedt; this layer does not state which edition it is, so none is claimed. Chapter I of this volume, pages 3-21, sections 1-21 by ITS OWN numbering - which runs one ahead of the 1851 first edition, verified at six points by matching opening sentences (see the file header). Text layer scored 10.9 common words per hundred by bin/ia-read.js: readable, but it prints f for the long s, f for k and j for i here and there.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/arthurschopenha01schogoog
+# fetched: 2026-10-26
+# note: ADDED IN PASS 13, which got the FRONT of Parerga - lost in the 1851 scan, whose display headings are shredded across its first 169 pages (GAP-4) - by turning to a LATER printing whose OCR is clean. Two things to keep straight when quoting these files: the text-state is 1877, not 1851, being Frauenstaedt's arrangement and a later text; and the paragraph numbers run one ahead, so "§ 62" here is "§ 61" in the first edition. Where the same chapter exists in both printings (file 63 beside file 53) the collection holds two witnesses and says which it used. Opening as this printing gives it: "Der Grund und Boden, auf dem alle unsere Erkenntnisse und Wissenschaften ruhen, ist das Unerklaerliche" - the chapter where he says every explanation ends on the inexplicable and hands it to metaphysics.
+
+[Note of this collection, not part of the print: this chapter comes from the READABLE printing in Arthur Schopenhauer's saemmtliche Werke, "Parerga und Paralipomena" zweiter Band, Leipzig: F. A. Brockhaus 1877 (Internet Archive arthurschopenha01schogoog), NOT from the 1851 first edition. That is a decision with two consequences, both recorded here rather than hidden. (1) The text is the collected edition as Julius Frauenstaedt arranged it, and this printing is dated 1877 on its title page, three years after his death; the layer does not give the edition number, so none is claimed. It is a LATER text-state than files 27 and 30-52: a quotation from these files is quoted as 1877, not as 1851, and its chapter numbers follow this edition's contents, which differ from the 1851 print's. (2) ITS PARAGRAPH NUMBERS RUN ONE AHEAD of the 1851 print - verified at six points, and at each the opening sentence is the same text, so the pairing is not guessed: Dinges an sich 1851 § 61 / here § 62 (the opening sentence being identical in both, which is what proves the pairing); Pantheismus 1851 § 68 / here § 69; Farbenlehre 1851 § 103 / here § 104; Ethik 1851 § 108 / here § 109; Nichtigkeit 1851 § 142 / here § 143; Selbstmord 1851 § 157 / here § 158. Below § 61 the two printings were not compared when this note was written, so the shift is asserted only where it was verified. Anyone citing a paragraph number must say which printing it came from. This volume's own table of contents gives the chapter as Kapitel I on pages 3-21, and its opening paragraphs as § 1; the copy's heading in this layer reads ", 1 Kapitel I. Ueber Philofophie unb ihre Methode. 8. 1. Der Grund und Boden, auf bem alfe unfere Erfenn" - the OCR mangles the word Kapitel now and one numeral, so the number is taken from the volume's contents, not from the heading's letters. Page markers: 0 made from the volume's GENERAL running head ("Schopenhauer, Parerga. II. 12" and its garbled twins - the OCR spoils that title differently on every page, which is why it was once thrown out as a junk line and why repetition could not identify it), recovered only where the number continues the sequence within twelve pages and falls inside the contents range for this chapter (none), plus 4 from heads naming this chapter (S. 12 to S. 20). Both are recovered, neither is estimated: where the OCR lost a head there is no marker. WHAT WAS TRIED AND DECLINED, pass 18: the general head was measured before it was trusted - only 8 lines in the whole 34,746 still spell 'Parerga', and loosening the test to mere shape (a short line with a comma, ending in a figure) turns up a handful per chapter whose numbers fall OUTSIDE the pages the contents give for that chapter, so they are furniture from another gathering, not this chapter's pages. The general head is therefore recorded as NO DATA, and these files are cited by chapter, by their own paragraph numbers, and by the few chapter heads that survived. Short OCR noise lines were dropped (29); the long s is normalised to s (237 here), and this layer also prints f for k and j for i now and then, so read a quotation against the scan.]
+
+Ueber Philofophie unb ihre Methode.
+
+
+Der Grund und Boden, auf bem alfe unfere Erfenntniffe und
+Wiffenfchaften ruhen, ift das linerf(ürfidje. Auf biefes. führt
+daher jede Erklärung, mittelft mehr oder weniger Mittelglieder,
+zurüd; wie auf dem Meere ba8 Senkblei den Grund bald in
+größerer, balb in geringerer Ziefe findet, ihn jedoch überalf
+zulegt erreichen muß. Dieses Unerklärliche füllt ber Metaphysik
+anheim.
+
+
+Faft alle Menschen bebenfen unabläffig, daß fie ber unb ber
+Menfch (is av3ooroc) find, nebít ben Korollarien, bie fid) daraus
+ergeben: Hingegen, daß fte überhaupt ein Mensch (6 avSpomoc)
+find und welche Korollarien hieraus folgen, das fällt ihnen kaum
+ein unb ijt bod die Hauptsache. Die Wenigen, welche mehr
+dem fefterm, als dem erftern Sate nachhängen, find Philosophen.
+Die 9tidtung der Andern aber ift. darauf zurüdzuführen, daß
+jie überhaupt in ben Dingen ftet& nur das Einzelne und In⸗
+bipibuefíe fehn, nit das Allgemeine derfelben. Bloß bie höher
+Begabten jehn, mehr unb mehr, je nad) bem Grab ihrer
+Cminenz, in den einzelnen Dingen das Allgemeine derfelben.
+Diefer wichtige Unterfchied durchdringt das ganze Erfenntniß-
+vermögen dermaaßen, daß er fid auf die Anschauung der alltäg-
+lichsten Gegenftände herab erftredt; daher fchon diefe im eminenten
+Sopfe eine andere ijt, als im gewöhnlichen. Dieses Auffassen
+des Allgemeinen in dem fid) jedesmal darftellenden Einzelnen
+
+
+4 Ueber Philosophie und ihre Methode.
+
+
+fällt aud) zufammen mit Dem, was id) das reine, willenslofe
+Subjekt des Erfennens genannt und als das (ubjeftioe Korrelat
+der Platonifchen Idee aufgejtefft habe; weil nur, wenn auf das
+Allgemeine gerichtet, die GrfenntniB willenlos bleiben Tann, in
+den einzelnen Dingen Hingegen die Objekte des Wollens liegen;
+daher denn aud) die Grfenntnig ber Thiere ftreng auf dies Ein-
+zelne befchränft ijt und demgemäß ihr Snteffeft ausfchlieglicd im
+Dienfte ihres Willens bleibt. Hingegen ift jene Richtung des
+(Seijte8 auf das Allgemeine die unumgänglihe Bedingung zu üdten
+Leiftungen in der Philosophie, Poefie, überhaupt im den Künften
+unb Wiffenfchaften.
+
+. Für ben Jnteffeft im Dienfte des Willens, alfo im
+praftifchen Gebrauch giebt e8 nur einzelne Dinge; für den
+Onteffeft, der Kunft und Wissenschaft treibt, afjo für fid) felbft
+thätig ift, giebt e8 nur Allgemeinheiten, ganze Arten,
+Species, Klaffen, Ideen von Dingen; ba felbjt der bildende
+Künftler im Individuo die Idee, aljo die Gattung darftellen will.
+Diefes beruht darauf, daß ber Wille bireft bloß auf einzelne
+Dinge gerichtet ijt: bieje find feine eigentlichen Objekte: denn nur
+fie haben empirifche Realität. Begriffe, Klaffen, Arten Hingegen
+fünnen nur fehr mittelbar feine Objekte werden. Daher Dat
+ber rohe Mensch für allgemeine Wahrheiten feinen Sinn; bae
+Genie hingegen überfieht und verfäumt das Individuelle: bie er-
+zwungene Befchäftigung mit dem Einzelnen als foldem, wie jie
+den Stoff des praftifchen Lebens ausmacht, ijt ibm ein läftiger
+Trohndienft.
+
+
+Zum Philofophiren find bie zwei erften Gr[orberniffe bieje:
+erftlih, bag man den Muth Habe, feine Frage auf bem Herzen
+zu behalten; und zweitens, daß man alles Das, was fid) von
+fefbft verfteht, jid) zum deutlichen Bewußtjeyn bringe, um es
+als Problem aufzufaffen. Endlih aud) muß, um eigentlich zu
+philofophiren, ber Geift wahrhaft müffig fen: er muß feine
+Zwede verfolgen und aljo nicht vom Willen gelenkt werben,
+jonberm fid) ungetheilt der Belehrung Hingeben, welde bie an-
+schauliche Welt und das eigene Bewußtseyn ihm ertheilt. —
+Philofophieprofefforen hingegen find auf ihren perjóntidjen Nuten
+
+
+lieber Philofophie und ihre Methode. 5
+
+
+und Bortheil unb was dahin führt, bedacht: ba Tiegt ihr Ernft.
+Darum fehn fie fo viele deutliche Dinge gar nicht, ja, fommen
+nicht ein einziges Mal, aud) nur über die Probleme ber Philo-
+fopbie, zur Befinnung.
+
+
+Der Dichter bringt Bilder des Lebens, menfchliche Cha-
+raftere und Situationen vor bie Phantafie, fett das Alles in
+Bewegung, und überläßt nun Jedem, bei diefen Bildern fo weit
+zu benfen, wie jeine Geiftesfraft reiht. Dieferhalb kann er
+Menschen von den verfchiedeniten Fähigkeiten, ja, Thoren und
+Weisen zugleich genügen. Der Philofoph Hingegen bringt nicht,
+in jener Weise, das Leben felbft, fondern bie fertigen, von ihm
+daraus abftrahirten Gedanken, und fordert mun, baf fein Qefer
+eben fo unb eben jo weit benfe, wie er felbft. Dadurch wird fein
+Publikum febr Hein. Der Dichter ijt danad) Dem zu vergleichen,
+ber die Blumen, der Philojoph Dem, ber bie Quintessenz der-
+felben bringt.
+
+Ein andrer großer VBortheil, den poetifche Leiftungen vor
+philofophifchen Haben, ift diefer, daß alle Dichterwerfe, ohne fid)
+zu hindern, neben einander beftehn, ja, jogar die Deterogenjteit
+unter ihnen von einem und demfelben Geifte geno[ffen unb ge-
+(fügt werden können; während jedes philofophifche Syftein, Taum
+zur Welt gekommen, schon auf den Untergang aller feiner Brilder
+bebadjt ijt, gleich einem Afiatifchen Sultan bei feinem Regierungs⸗
+antritt. Denn, wie im Bienenftode nur eine Königin (en Tant,
+fo nur eine Philofophie an der Tagesordnung. Die Shfteme
+find nämlich jo ungefelliger Natur, wie die Spinnen, deren jede
+alfein in ihrem S ege fit und num zusieht, mie viele Fliegen fid)
+darin werden fangen lajjen, aber einer andern Spinne nur um
+mit ihr zu fümpfen, fid) nähert. Alfo während bie Dichterwerke
+friedlich) neben einander weiden, wie Lämmer, find bie philofophi-
+iden geborene reigenbe Thiere, und jogar in ihrer Zerftörungs-
+sucht, gleich ben Skorpionen, Spinnen und einigen Infektenlarven,
+vorzüglich gegen bie eigene Species gerichtet. Sie treten in ber
+Welt auf, gleich den geharnischten Männern aus der Saat ber
+Drachenzähne des Jason, und haben bis jett, gleich biefen, fid)
+alle wechjeljeitig aufgerieben. Schon danert diefer Kampf über
+
+
+6. Ueber Philofophie und ihre Methobe,
+
+
+zwei Zaufend Jahre: wird je aus ihm ein [egter Sieg und blei⸗
+bender Frieden hervorgehn?
+
+In Folge dieser wesentlich polemischen Natur, dieses bellum
+omnium contra omnes ber philosophischen Systeme ijt es un-
+enbfid) fchwerer als Philofoph Geltung zu erlangen, denn ale
+Dichter. Verlangt bod) ded Dichters Werl vom Lefer nichts
+weiter, al8 einzutreten in bie Reihe der ihn unterhaltenden, oder
+erhebenden Schriften, und eine Hingebung auf wenige Stunden.
+Das Werk des Philofophen Hingegen milf feine ganze Denfungs-
+art ummälzen, verlangt von ihm, daß er Alles, was er bisher,
+in diefer Gattung, gelernt und geglaubt Dat, für Irrthum, bie
+Zeit unb die Mühe für verloren erkläre und von vorn anfange:
+höchstens läßt es einige Rudera eines Vorgängers ftehn, um
+feine Grundlage daraus zu machen. Dazu fommt, daß es in
+jedem Lehrer eines fchon beftehenden Syftems einen Gegner von
+Amts wegen hat, ja,.baB bisweilen fogar der Staat ein ihm
+beliebiges philofophifches System in Schu nimmt und, mittelft
+feiner mächtigen, materiellen Mittel, das 9(uffommen jedes andern
+verhütet. Jetzt nehme man noch Hinzu, daß die Größe des philo-
+sophischen Publikums zu ber des dichterifchen fid) verhält wie bie
+Zahl der Leute, die belehrt, zu der, die unterhalten jeyn wollen,
+und man wird ermefjen fünnen, quibus auspiciis ein Philosoph
+auftritt. — Dagegen mum jreilid) ift e8 der Beifall ber Denker,
+der Auserwählten aus langen Zeiträumen und allen Ländern, ohne
+Nationalunterschied, der dem Philofophen lohnt: die Menge lernt
+allmälig feinen Namen auf Auftorität verehren. Dem gemäß unb
+wegen ber langsamen, aber tiefen Einwirkung des Ganges ber
+Philofophie auf ben des ganzen Menschengeschlechts geht, feit
+Yahrtaufenden, bie Gejchichte ber Philofophen neben ber der Könige
+fer und zählt hundert Mal weniger Namen, als bieje: daher
+e$ ein Großes ijt, bem feinigen eine bleibende Stelle barin zu
+
+
+verichaffen.
+
+
+Der philofophifhe Schriftfteller ift ber Führer unb fein Lefer
+der Wanderer. Sollen fie zufammen anfommen, fo müffen fie,
+vor allen Dingen, zujammen ausgehn: b. D. ber Autor muß
+feinen Lefer aufnehmen auf einem Standpunkt, ben fie ficherlich
+
+
+Ueber Philofophie «und ihre Methode. 7
+
+
+gemein haben: bie8 aber fanm Fein anderer fetu, als der des ung
+Allen gemeinjamen, empirifchen Bewußtseyns. Hier alfo falle er
+ihre feit an der Hand und fehe nun, wie Bod) über die Wolfen
+hinans er, auf dem Bergespfade, Schritt bor Schritt, mit ihm
+gelangen koͤnne. So Bat e$ audj nod) Kant gemacht: er geht
+von ganz gemeinen Bewußtjeyn, sowohl des eigenen Selbst, ale
+aud) der anderen Dinge, aus, — Wie verfehrt ijt c8. hingegen,
+den Ausgang nehmen zu wollen vom Standpunkte einer angcbe
+lichen intelleftualen Anfchauung hyperphysischer Verhältniffe, oder
+gar Borgänge, ober aud) einer das Weberjinnliche vernehmenden
+Bernunft, ober einer abfoluten, fid) felbft denfenden Vernunft:
+denn das Alles heißt oom Standpunkte nicht unmittelbar mittheil-
+barer Erfenntniffe ausgehn, wo daher, fchon bein Ausgange -
+felbft, ber Xefer nie weiß, ob er bei feinem Autor jtehe, oder
+meilenweit von ihm.
+
+
+Zu unferer eigenen, ernftlichen Meditation und innigen
+SSetradjtung der Dinge verhält jid) das Gej[prüd) mit einem
+Andern über diefelben wie eine Majchine zu einem lebendigen
+Organismus. Denn nur bei erjterer ijt Alles wie aus Einem
+Stüd gefchnitten, ober mie aus Einer Tonart gefpielt; daher es
+volle Klarheit, Deutlichkeit und wahren Zufammenhang, ja Ein-
+heit erlangen fann: beim anderen Hingegen werden heterogene
+Stüde, (efr verfchiedenen Urjprungs, an einander gefügt und
+wird eine gemijje Einheit der Bewegung erzwungen, bie oft
+unerwartet [todt. Nur fid) felbjt nämlich verfteht man ganz;
+Andere nur halb: denn man kann es höchitens zur Gemeinschaft
+ber Begriffe bringen, nicht aber zu der der diefen zum Grunde
+Tiegenden anschaulichen Auffassung. Daher werden tiefe, philo-
+sophische Wahrheiten wohl nie auf dem Wege des gemeinfchaft-
+lichen. Denkens, im Dialog, zu Tage gefördert werden. Wohl
+aber i(t ein jolches fehr bienfid) zur Vorübung, zum Aufjagen
+ber Probleme, zur Ventilation derjelben, und nachher zur Prü-
+fung, Kontrole und Kritit der aufgeftellten Löͤsung. In biejem
+Sinne find aud Platons Gespräche abgefapt, unb demgemäß
+ging aus feiner Schule die zweite und dritte Afademie in zu-
+nehmend ffeptifcher Richtung hervor. Als dorm ber Mittheilung
+
+
+8 Ueber Bhilofophie unb ihre Methode.
+
+
+philosophischer Gedanken ist der geschriebene Dialog nur da zweck⸗
+mäßig, wo der Gegenstand zwei, oder mehrere, ganz verschiedene,
+wohl gar entgegengesetzte Ansichten zuläßt, über welche entweder
+das Urtheil dem Leser anheimgestellt bleiben soll, oder welche
+zusammengenommen sich zum vollständigen und richtigen Ver⸗
+ständniß der Sache ergänzen: zum erstern Fall gehört auch die
+Widerlegung erhobener Einwürfe. Die in solcher Absicht gewählte
+dialogische Form muß aber alsdann dadurch, daß bie Verschie⸗
+denheit der Ansichten von Grund aus hervorgehoben und heraus⸗
+gearbeitet ist, ächt dramatisch werden: es müssen wirklich Zwei
+sprechen. Ohne dergleichen Absicht ist sie eine müssige Spielerei;
+wie meistens.
+
+
+Weder unsere Kenntnisse, noch unsere Einsichten werden
+jemals durch Vergleichen unb Diskutiren des von Andern Ge—
+sagten sonderlich vermehrt werden: denn das ist immer nur, wie
+wenn man Wasser aus einem Gefäß in ein anderes gießt. Nur
+bird) eigene Betrachtung ber Dinge felbjt fama Einfiht und
+Kenntniß wirklich bereichert werden: denn fie allein ift bie ftets
+bereite unb stets nahe Tiegende lebendige Duelle. Demnach ift
+e8 feltfam anzusehn, wie feynwollende Philofophen stets auf dem
+ersteren Wege befchäftigt find und den andern gar nicht zu kennen
+(deinen, wie fie immer e8 vorhaben mit Dem, was Diefer
+gefagt Hat, und was wohl Jener gemeint haben mag; fo daß
+fie gleihfam, ftet8 von Neuem, alte Gefäße umftülpen, um zu
+sehn, ob nicht irgend ein Tröpfchen darin zurückgeblieben fei;
+während bie febenbige Duelle vernadhläffigt zu ihren Füßen liegt.
+Nichts verräth fo fer, wie Dieses, ihre Unfähigkeit und zeiht ihre
+angenommene Miene von Wichtigkeit, Tieffinn und un
+der Lüge,
+
+
+Die, welche burd) das Studium ber Gejchichte ber Philofophie
+Philofophen zu werden hoffen, jollten aus derfelben vielmehr ent-
+nehmen, bap Philofophen, eben jo jehr wie Dichter, nur geboren
+werden, und zwar viel feltener.
+
+
+Ueber Bhilofophie unb ihre Methode. 9
+
+
+Eine feltfame und unwürdige Definition der Pbhilofophie,
+bie aber fogar nod) Kant giebt, ijt diefe, daß fie eine Wissen—
+haft aus bloßen Begriffen wäre. Sit bod) ba$ ganze
+Eigenthbum ber Begriffe nichts Anderes, aí8 was darin nieder-
+gelegt worden, nachdem man e8 ber anfchaulihen Erkenntniß
+abgeborgt und abgebettelt hatte, biejer wirffidjen unb unerfhöpf —
+lichen Duelle aller Ginfidjt. Daher läßt eine wahre Bhilofophie
+fid nicht Herausfpinnen aus bloßen, abftraften Begriffen; fondern
+muß gegründet feyn auf Beobachtung unb Erfahrung, fowohl
+innere, als äußere. Auch nit burd) Kombinationsverjuche mit
+Begriffen, wie fie fo oft, zumal aber von den Sophijten unferer
+Zeit, alfo von Fichte und Scelling, jebod) in größter Wider:
+wärtigfeit von Hegel, daneben aud), in der Moral, von Schleier-
+macher ausgeführt worden find, wird je etwas Rechtes in ber
+Philofophie geleiftet werden. Sie muß, fo gut wie Kunft und
+Boefie, ihre Quelle in der anfdaufiden Auffafjung der Welt
+haben: aud) darf c8 dabei, fo fehr aud) der Kopf oben zu bleiben
+hat, doch nicht fo Taltblütig hergehn, daß nicht am Ende der ganze
+Mensch, mit Herz und Kopf, zur Aktion Tüme unb burd) und durch
+erschüttert würde. Philofophie ijt fein Algebra-Erempel. Vielmehr
+bat Saubenargue Recht, indem er fagt: les grandes pensées
+viennent du cur.
+
+
+Man kann, im Großen und Ganzen betrachtet, die Philofophie
+alfer Zeiten aud) [o auffaffen, bag fie, wie ein Pendel, hin und
+her fchwingt jmijden Rationalismus unb Illuminismus,
+b. D. zwilchen dem Gebraud) ber objektiven und dem ber fubjel-
+tiven Erkenntnißquelle.
+
+Der Rationalismus, melder ben urfprünglid zum Dienfte
+des Willens allein beftimmten unb deshalb nad außen ge-
+richteten Snteffeft zum Organ Bat, tritt zuerft af6 Dogmatis-
+mus auf, a(8 welcher er fid) burdjaus$ objektiv verhält. Dann
+wechselt er ab mit dem Stepticismus und wird in Folge
+hievon zulegt Kriticismus, weldher den Streit durch Berück⸗
+fihtigung des Subjekts zu schlichten unternimmt: b. D. er wird
+zur Zransfcendentalpbilofophie. Sierunter verftehe ich jede
+
+
+10 Ueber Philosophie und ihre Methode.
+
+
+Philofophie, welche davon ausgeht, daß ihr mnüdjter und un-
+mittelbarer Gegenftand nicht bie Dinge feien, fondern allein
+das menjhlihe Bewußtseyn von den Dingen, weldes daher
+nirgends außer Acht und Rechnung gelaffen werden dürfe. Die
+Franzosen nennen Ddiefelbe ziemlich” ungenau méthode psycho-
+logique, im Gegenjatj ber méthode purement logique, worunter
+fie die, unbefangen, von SObjeftem, oder objektiv gedachten Be—
+griffen, ausgehende Vhilofophie, alfo beu Dogmatismus, verftehen.
+Auf diefem Punkte nun angelangt kommt der Rationalismus
+zu der Erkenntniß, daß fein SOrganon nur die Erfheinung
+erfaßt, nicht aber das [egte, innere und felbjteigene Wefen der
+Dinge erreicht. |
+Auf allen feinen Stadien, jebod hier am meiften, madht
+fid, antithetifch gegen ihn, ber ISlluminismus geltend, ber,
+wejentlih nad) innen gerichtet, innere Erleuchtung, intelleftuelle
+Anschauung, höheres Bewußtjeyn, unmittelbar erfennende Ver—
+nunft, Gottesbewußtjeyn, Unifilation u. dgl. zum Organon bat
+und den Nationalismus al8 das „Licht der Natur” geringschätzt.
+Legt er nun dabei eine Neligion zum Grunde, jo wird er
+Myfticismus. Sein Grundgebrechen ijt, daß feine Grfenutnif
+eine nidt mittheilbare ijt; theils weil es für bie innere
+Wahrnehmung Fein Kriterium der Identität des Objekts verfcie-
+dener Cubjefte giebt; theils weil solche Erkenntniß bod) mitteljt
+der Sprache mitgetheilt werden müßte, bie[e aber, zum Behuf der
+nad) außen gerichteten Erfenntniß des Iutellefts, mittelst Ab-
+ftraftionen aus derfelben, entjtanden, ganz ungeeignet ijt, die davon
+grundverschiedenen innern Zuftände auszudrücden, welche der Stoff
+des Illuminismus find, der daher fid) eine eigene Sprache zu bilden
+hätte, welches wiederum, wegen des eriteren rundes, nidt an-
+geht. As nicht mittheilbar ift num eine dergleichen Erfenntniß
+aud) unerweislich; worauf denn, an ber Hand des Stepticismus,
+ber Rationalismus wieder ins Feld tritt. Illuminismus ijt
+jtellenweife fchon im Platon zu fpüren: entfchiedener aber tritt
+er auf in ber Bhilofophie ber Neuplatonifer, ber Gnostiker, des
+Dionyfins Areopagita, wie aud) des Skotus Erigena; ferner
+unter ben Mohammedanern, als Lehre ber Sufi: in Indien
+herricht er in Vedanta und Mimanfa: am entjchiedenften gehören
+Jakob Böhme und alle riftlihen Miyftiter ihm an, Gr tritt
+
+
+: Ueber Bhilofophie unb ihre Methode. 11
+
+
+allemal auf, wann der Rationalismus ein Stadium, ohne bae
+Ziel zu erreichen, durchlaufen fat: fo fam er, gegen das Ende
+der fcholaftiihen Philosophie und im Gegenfat derjelben, als
+SX ptit, zumal der Deutichen, im Tauler und dem Verfaffer der
+deutschen Zheologie, nebst Andern; und ebenfalls in neueiter Zeit,
+als Gegenjag zur Kantischen Philofophie, in Jacobi und Schelling,
+gleichfalls in Fichte's letter Periode. — Allein bie Philofophie
+fol mittheilbare Erfenntniß, muß daher Rationalisnus etm.
+Dengemäß habe id, in ber meinigen, zwar, am Schluß, auf das
+Gebiet des Sífuminiémus, als ein Vorhandenes, Dingebeutet, aber
+mid gehütet, c8 aud) nur mit Einem Schritte zu betreten; ba-
+gegen denn aud) nicht unternommen, die [egtem Aufschlüsse über
+ba8 Dafeyn ber Welt zu geben, fondern bin nur fo weit ge-
+gangen, ald es auf dem objektiven, vationaliftifchen Wege möglich
+it. Dem Iluminismus habe id) feinen Raum freigelaffen, wo
+ibm, auf feine Weife, die Lösung aller Räthsel werden mag,
+ohne daß er dabei mir den Weg verträte, ober gegen mid) zu
+polemifiren hätte.
+
+Inzwifchen mag oft genug dem Nationalismus ein ver[tedter
+Sifuminiémué zum Grunde liegen, auf welchen dann ber Philo-
+soph, wie auf einen verftedtten Kompaß, hinfieht, während er ein-
+geftändlich feinen Weg nur nad den Sternen, b. f. den äußerlich
+und Kar vorliegenden Objekten, richtet und nur diese in Rechnung
+bringt. Dies ijt zulälfig, weil er nicht unternimmt, die un-
+mittheilbare Grfenntnig mitzutheilen, fondern feine Mittheilungen
+rein objektiv und rationell bleiben. Dies mag ber Fall gewefen
+feyn mit Platon, Spinoza, Malebrandhe und manchem Andern: es
+geht niemanden etwas an: denn es find die Gcheimniffe ihrer
+S9ruft. Hingegen das [aute Berufen auf intellektuelle Anschauung
+und bie breifte Erzählung ihres Inhalts, mit dem Anfprucd auf
+objektive Gültigkeit deffelben, wie bei Fichte und Schelling, ift
+unverfhämt und verwerflic.
+
+An fid felbft ijt übrigens der Illuminismus ein natür-
+fider und infofern zu vechtfertigender Versuch zur Ergründung ber
+Wahrheit. Denn ber nad) außen gerichtete Intelleft, als bloßes
+Organon für bie Zwede des Willens und folglich blog Gefun-
+däres, ijf bod) nur ein Theil unfers gefammten menjchlichen
+Wesens: er gehört ber Erjcheinung an, und feine Erkenntniß
+
+ [S. 12]
+
+
+entfpridt bloß ihr, ba er ja allein zu ihrem Behufe ba ift. Was
+fann afjo natürlicher feyn, als bag man, menn es mit bem ob-
+jektiv erfennenden Intelleft mißlungen ift, nunmehr unfer ganzes
+übriges Wefen, weldes bodj auch Ding an fid) fen, b. B. bem
+wahren Wefen der Welt angehören und folglid irgendwie bie
+Lösung aller Räthsel in fid) tragen muß, mit ins Spiel bringt,
+um butd) felbiges Hilfe zu fuchen; — wie bie alten Deutjchen,
+wenn fie Alles verfpielt Hatten, zulett ihre eigene Perfon einjebten.
+Aber die allein richtige und objektiv gültige Art solches auszuführen,
+ift, daß man die empirifhe Thatjache eines in unjerm Innern fid)
+fund gebenden, ja, be[fen alleiniges Wesen ausmahenden Willens
+auffaffe, und fie zur Erklärung ber objektiven, äußern Erkenntniß
+anmende; wie id) dies bemmad) gethan habe. Hingegen führt ber
+Weg des Illuminismus, aus den oben dargelegten Gründen, nicht
+zum Zweck.
+
+
+Bloße Schlauheit befähigt wohl zum Steptitus, aber nicht
+zum Philofophen. Inzwischen ift die Skepsis in der Philosophie
+was die Oppofition im Parlament, ijt auch eben jo wohlthätig,
+ja nothwendig. Sie beruht überall darauf, daß die Philofophie
+einer Evidenz jofdyer Art, mie die Mathematik fie hat, nicht fähig
+ijt; fo wenig, wie ber Mensch thierifcher Kunfttriebe, bie eben aud)
+a priori fidjer gehn. Daher wird gegen jedes System bie Stepfis
+(if) immer mod) in die andere Waagfchale legen können: aber ihr
+Gewicht wird zulett fo gering werden, gegen das andere, daß es
+ihm nicht mehr schadet, als ber arithmetifhen Quadratur bes
+Girfef8, daß fie doch nur approrimativ ijt.
+
+Das, was man weiß, Hat doppelten Werth, wenn man
+zugleich Das, was man nicht weiß, nicht zu miffen. eingefteht.
+Denn baburd) wird Erfteres von dem Verdacht frei, dem man es
+ausjegt, menn man, wie 3. B. bie Schellingianer, aud) Das, was
+man nicht weiß, zu wifjen vorgiebt.
+
+
+Aussprüche ber Vernunft nennt Jeder gewiffe Güte, bie
+er ohne Unterfuhung für wahr Hält und davon er fid fo feit
+überzeugt glaubt, daß fogar, wenn er e8 wollte, er e8 nicht dahin
+
+
+Ueber Philofophie unb ihre Methode. 13
+
+
+bringen fünnte, fie evuftfid) zu prüfen, als wozu er fte einitweilen
+in Zweifel ziehen müßte. Im diefen feften Kredit find fie bei ihm
+dadurch gefommen, daß, als er anfing zu reden und zu denken,
+fie ihm anhaltend vorgefagt und baburd) eingeimpft wurden; daher
+denn feine Gewohnheit fie zu denken eben jo alt ift, mie bie Ge-
+mohnheit überhaupt zu denken; moburd) e$ fommt, daß er Beides
+nicht mehr trennen fann; ja, fie find mit feinem Gehirn vermadjfen.
+Das hier Gejagte ift jo wahr, daß e8 mit Beifpielen zu belegen
+einerfeits überflüffig und anbererjeit8 bedenklich wäre.
+
+
+Seine, aus einer objektiven, anfchauenden Auffaffung ber
+Dinge entfprungene und folgerecht durchgeführte Anficht der Welt
+faun durchaus falfch feyn; fondern fie ijt, im fchlimmften Fall,
+nur einfeitig: jo 3. 3. der volífommene Materialismus, der ab-
+jolute Idealismus u. a. m. Sie alle find wahr; aber fie find
+e& zugleich: folglich ijt ihre Wahrheit eine nur relative. Jede
+solche Auffaffung ijt nümfid) nur von einem beftimmten Stand-
+puntt aus wahr; wie ein Bild die Gegend mur von einem
+Gefihtspunft aus darftellt. Erhebt man fid aber über ben
+Standpunkt eines foíden Systems Hinaus; fo erfennt man die
+Relativität feiner Wahrheit, b. D. feine Ginfeitigfeit. Nur der
+höchste, Alles überfehende und in Rechnung bringende Standpunft
+fann abjofute Wahrheit liefern. — Demzufolge nun ift e8 5. B.
+wahr, wenn id) mid) felbft betrachte als ein bloß zeitliches, ent-
+ftanbenes und dem gänzlichen Untergange beftimmtes Naturproduft,
+— etwan in ber Weife des Koheleth: aber es ift zugleich wahr,
+bag Alles, was je war und je seyn wird, Ich bin unb aufer
+mir nichts ijt. Eben fo ift e8 wahr, wenn ih, nad) Weije des
+Anakreon, das höchste Gíüd in den Genuß der Gegenwart fete:
+aber zugleich ijt e8 wahr, wenn id) die Heilsamkeit des Leidens
+md das Nichtige, ja, Verderbliche alles Genufjes erfenne und ben
+Tod als den Zweck meines Dafeyns auffaffe.
+
+Alles diejes Dat feinen Grund darin, bag jede folgerecht durch⸗
+führbare Anfiht nur eine in Begriffe übertragene und baburd)
+fixirte, anfhauliche und objektive Auffaffung der Natur ift, bie
+Natur aber, b. i. das Anjchaufiche, nie fügt, nod) fid) widerjpridht,
+ba ihr Wesen dergleichen ausschließt. Wo daher Widerfprud) und
+
+
+14 Ueber Philosophie und ihre Methode,
+
+
+Züge ift; ba find Gedanken, bie nicht aus objektiver Auffafjung
+entfprungen find, — 3.3. im Optimismus. Hingegen unvollftändig
+und einfeitig Tann eine objektive Auffassung feyn: dann gebürt
+ihr eine Ergänzung, nicht eine Widerlegung.
+
+
+Man wird es nicht müde, ber Metaphysik ihre fo geringen _
+Fortschritte, im Angeficht ber fo großen ber physikalischen Wiffen-
+Tchaften vorzuwerfen. Schon Boltaireruft aus: o métaphysique!
+nous sommes aussi avancés que du tems de premiers Druides.
+(Mél. d. phil. ch. 9.) Aber, welche andere Wiffenfchaft hat denn,
+wie fie, allezeit einen Antagoniften ex officio, einen beftellten
+fisfalifchen Ankläger, einen kings champion in vollem Harnisch,
+ber auf die wehr- und waffenlofe eindringt, zum beftändigen
+Hemmniß gehabt? Nimmer wird fie ihre wahren Kräfte zeigen,
+ihre 9tiejenjdyritte than fünnen, jo lange ihr, unter Drohungen,
+zugemuthet wird, fid den, auf bie fo ffeine Kapacität des fo
+großen Haufens berechneten Dogmen anzupaffen. Erft bindet man
+uns die Arme, und bann verhöhnt man uns, daß wir nichts
+leisten können.
+
+Die Religionen haben fid) der metaphysischen Anlage des
+Menschen bemächtigt, indem fie theils solche durch frühzeitiges
+Einprägen ihrer Dogmen lähmen, tbeil8 alle freien und unbefan-
+genen Aeußerungen derfelben verbieten und verpönen, fo bag dem
+Menschen über bie widjtigiter und intereffanteften Angelegenheiten,
+über fein Dafeyn felbjt, bae freie Forichen theils direkt verboten,
+theils indirekt gehindert, theils [ubjeftio durd jene Lähmung un
+möglich gemacht wird, und dergejtalt die erfabenjte feiner Anlagen
+in Fesseln Liegt,
+
+
+Um uns gegen fremde, der unfrigen entgegengejegte An⸗
+fihten tolerant und beim Widerfprudh geduldig zu machen, iit
+vielleicht nichts wirkfamer, als die Erinnerung, wie häufig wir
+felbft, über ben felben Gegenftand, fucceffiv ganz entgegengejette
+Meinungen gehegt unb old, bisweilen fogar in febr furjer
+Zeit, wiederholt gewechfelt, bald bie eine Meinung, bald wieder
+ihr .GegentBeil, verworfen und wieder aufgenommen Haben; je
+
+
+Meber Bhilofophie unb ihre Methode. 15
+
+
+nachdem ber Gegenftand bald in diefem, bald in jenem Lichte fid)
+und darftellte.
+
+Desgleihen ift, um unferm Widerspruche gegen die Meinung
+eines Andern bei biejem Gingang zu verfchaffen, nichts geeigneter,
+als die Rede: „das Selbe habe id) früher aud) gemeint; aber”
+
+
+Eine Irrlehre, fei fie aus falfcher Ansicht gefaßt, ober aus
+schlechter Abficht entíprungen, ijt ftet& nur auf fpecielfe Umstände,
+rofglih auf eine gewisse Zeit berechnet; die Wahrheit allein auf
+afe Zeit; menn fie aud) eine Weile verfannt, oder erftickt werden
+fam. Denn, fobald nur ein. wenig Licht von innen, ober ein
+wenig Luft von außen kommt, findet fidi jemand ein, fie zu ver-
+fündigen, ober zu vertfeibigen. Weil fie nämlich nicht aus ber
+Wbfidt irgend einer Partei entfprungen ift; fo wird, zu jeder
+Zeit, jeder vorzügliche Kopf ihre Verfechter. Denn fie gleicht bem
+Magneten, der ftets und überall nad) einem abfolut beftimmten
+Weltpunkte weit; bie Srrlehre hingegen einer Statue, bie mit
+der Hand auf eine andere Statue hinweift, von welcher ein Mal
+getrennt fie alle Bedeutung verloren hat.
+
+
+Was ber Auffindung ber Wahrheit am meiften entgegenfteht.
+Ht nicht ber aus den Dingen bervorgehende und zum Irrthum
+verleitende falfche Schein, nod) aud) unmittelbar die Schwäche des
+Berftandes; fondern e8 ift die vorgefaßte Meinung, das Vors
+urtheil, welches, als ein After-a priori, der Wahrheit fid) ent-
+gegenftellt und dann einem mibrigen Winde gleicht, der das Schiff
+von der Richtung, in der allein das Land liegt, zurücdtreibt; fo
+daß jebt Steuer und Segel vergeblich thätig find.
+
+
+Den GoetBe (den. Vers im Fauft:
+
+
+„Was bu ererbt von beinen Bätern haft,
+
+
+lommentire ich mir folgenbermaaBen, Was Denker vor uns jchon
+gefunden haben, unabhängig von ihnen unb che man es weiß,
+
+ [S. 16]
+
+
+aus eigenen Mitteln felbft au finden, ift von großem Werth und
+Nuten. Denn das Selbftgebachte verfteht man viel gründlicher,
+als das Erlernte, und erhält, wenn man e8 nachmals bei jenen
+Frühern findet, unverhofft eine [tarf für die Wahrheit bejjelben
+zeugende BYeftätigung, duch fremde, anerkannte Auftorität, wo⸗
+burd) man fodann Zuverfiht und Standhaftigfeit gewinnt, có
+gegen jeden Widerfpruch zu verfechten.
+
+Hingegen wenn man etwas zuerjt in Büchern gefunden Dat,
+dann aber aud) durch eigenes Nachdenken das felbe Refultat er-
+langt; jo weiß man bod) nie gewiß, bag man diefes selbst gedacht
+und geurtheilt und nicht bloß jenen Frühern nadjgejprodjen, ober
+nachempfunden Babe. Dies nun aber begründet, in Hinfiht auf
+die Gewißheit der Sade, einen großen Unterfchied. Denn im
+letztern alle fünnte man am Ende bloß mit jenen Früheren, aus
+Präoffupation, geirrt haben; wie das Wasser den Weg des ihm
+vorhergegangenen leicht einjdj[ügt. Wenn Zwei, jeber für fich,
+rechnen und ba8 jelbe Resultat erhalten, jo ift dies ein fiere;
+nicht aber, menn die Rechnung des Einen von einem Andern bloß
+durchgefehn worden.
+
+
+Es ift eine Folge der Beichaffenheit unjeres, bem Willen
+entiproffenen Intelletts, daß wir nidt umhin können, die Welt
+entweder als Zwed, ober als Mittel aufzufafjen. Erfteres
+nun würde bejagen, daß ihr Dafeyn durch ihr Wejen geredht-
+fertigt, mithin ihrem Nichtseyn — entjdjieben vorzuziehn wäre.
+Allein bie GrfenntniB, daß fie nur eim Tummelplatz [eibenber
+und fterbender Wesen ijt, läßt diefen Gedanken nicht beftehn.
+Nun aber wiederum, fie als Mittel aufzufaffen, läßt die Un-
+enbfidjfeit der bereit8 verfloffenen Zeit nicht zu, vermöge welcher
+jeder zu erreihende Zwed (don lüngít hätte erreicht seyn müssen.
+— Hieraus folgt, daß jene Anwendung ber unferm Sntelleft
+natürlichen Vorausfegung auf das Ganze ber Dinge, ober bie
+Welt eine transfcendente ift, b. D. eine folche, die wohl in
+der Welt, aber nidjt von der Welt gilt; was daraus erflärlich
+ift,. daß fie aus der Natur eines Intellefts entfpringt, meldjer, wie
+id) dargethan Babe, zum Dienfte eines individuellen Willens,
+
+
+Ueber Philosophie und ihre Methode. 17
+
+
+b. B. zur Erlangung feiner Gegenftände, entftanden, und daher
+ausjchliegiih auf Zwed und Mittel berechnet ijt, mithin gar
+nichts Anderes fennt und begreift.
+
+
+Wenn man nad) außen blidt, mofefbjt bie Unermeßlichkeit
+der Welt unb bie Sabl[ofigfeit der Wesen fid) uns barftellt; fo
+ifrump[t das eigene Selbft, als blofes Individuum, zu nichts
+‚zufammen und fdeint zu verfchwinden. Durch eben diejes Ueber-
+gewicht der Mafje und Zahl Hingeriffen, denft man ferner, baf
+mur bie nah außen gerichtete, alfo die objektive Philofophie
+auf dem richtigen Wege feyn fünne: aud) war hieran zu zweifeln
+den ülteften griechischen Philosophen gar nicht eingefallen.
+
+Blidt man hingegen nad innen; fo findet man zunächst,
+daß jedes Individuum einen unmittelbaren Antheil nur an fid)
+jelber nimmt, ja, jid) fefber mehr am Herzen liegt, als alles
+Andere zufammengenommen; — was daher fommt, daß es allein
+fi selbst unmittelbar, alles Andere aber nur mittelbar erfennt.
+Wenn man nun nod) Bingunimmt, daß bewußte und erfennenbe
+Wesen schlechterdings nur als Individuen benfbar find, bie be:
+wußtlofen aber nur ein halbes, ein bloß mittelbares Dafeyn
+haben; jo fällt alle eigentliche und wahre Grifteng in die Indi⸗
+viduen. Wenn man enbfid) gar nod) fid) darauf befinnt, daß
+das Objelt burd) das Subjekt bedingt ijt, folglich jene unermeß-
+[tfe Außenwelt ihr Dafeyn nur im Bewußtseyn erfennender
+Wesen hat, folglih an das Dafeyn ber Individuen, die deren
+Träger find, gebunden ift, fo entfdjieben, daß fie in diefem Sinne
+fogar aí8 eine bloße Ausftattung, ein Accidenz des bod) ftets
+individuellen Bewußtseyns angefehen werden fann; — wenn man,
+fage ich, dies Alles ins Auge faßt; jo geht man zu der Anficht
+über, daß nur bie nach innen gerichtete, vom Subjekt, als bem
+unmittelbar Gegebenen, ausgehende Philofophie, alfo die der
+Neueren feit Kartefins, auf dem richtigen Wege jei, mithin bie
+Alten bie Hauptsache überfehen haben. Aber die vollfommene
+Ueberzeugung hievon wird man erft erhalten, wenn man, tief in
+fif gehend, das Gefühl ber Urfprünglichkeit, welches in jedem
+
+
+ [S. 18]
+
+
+erfennenden Wesen Tiegt, fid) zum Bewnßtfeyn bringt. Sa, mehr
+als Dies. Findet bod) jeder, fogar ber unbedeutendejte Mensch
+in feinem einfachen Selbftbewußtfeyn fid) als das alferreatjte
+Wesen und erkennt nothwendig in fid) den wahren Mittelpunft
+der Welt, ja, die Urquelle affer Realität. Und dies Urbewußtfeyn
+follte Tügen? Der ftärkite Ausdrud deffelben find die Worte
+des Upanifchads: hae omnes creaturae in totum cgo sum, et
+praeter me ens aliud non.est, et omnia ego creata feci
+(Oupnekh. I, p. 122), wefdje8 bann freilich der Mebergang zum
+Slluminismus, wohl gar zum Mysticismus ijt. Dies aljo ijt
+das Refultat der nah Innen gerichteten Betrachtung; während
+bie nad) Außen gerichtete uns als das Ziel unjer$ Dafeyns ein
+Häuflein Asche erbliden läßt *).
+
+
+Ueber bie Eintheilung der Philofophie, melde befonders
+binfichtlich des Vortrages derfelben von Wichtigkeit ijt, würde, von
+meinen Gefichtspunfte aus, Folgendes gelten.
+
+Die Philojophie hat zwar zu ihrem Gegenftande die Er-
+fahrung, aber nicht, gleich ben übrigen Wilfenfchaften, bieje ober
+jene beftimmte Erfahrung; jondern eben bie Erfahrung selbst,
+überhaupt und als folche, ihrer Meöglichkeit, ihrem Gebiete, ihrem
+wejentlihen Inhalte, ihren innerm und äußern Elementen, ihrer
+Form und Materie nah. Daß demzufolge bie Philofophie aller-
+dings empirifche Grundlagen haben müsse und nicht aus reinen,
+abftraften Begriffen herausgesponnen werden könne, habe id)
+ausführlich dargethan im zweiten Bande meines Hauptwerkes
+Rapitel 17, ©. 180—185 (3. Aufl. 199 fg.), und aud) oben, 8. 9,
+e8 fury refumirt. Aus ihrem angegebenen VBorwurfe folgt ferner,
+daß das Erfte, was fie zu betrachten hat, feyn muß das Medium,
+
+
+*) Enblid unb Unendlich find Begriffe, bie bfoß in Beziehung auf
+Raum und Zeit. Bedentung haben; inbem diese Beiden unendlich, b. b.
+endlos, mie auch in's Unendliche theilbar find. Wendet man jene beiben
+Begriffe noch auf andere Dinge am; fo milffen es fofdje feyn, bie, Raum
+und Zeit füllend, durch fie jener ihrer Eigenfchaften theilhaft werben. Hier—
+aus ift zu ermessen, mie groß ber Mißbrauch fei, welchen Philofophafter unb
+Windbeutel in diejem Jahrhundert mit jenen Begriffen getrieben haben,
+
+
+Ueber Philosophie unb ihre Methode. 19
+
+
+in weídem die Erfahrung überhaupt fid) darftellt, nebft ber
+vorm und Beichaffenheit bejfeben. Diejes Medium ijt bie VBor-
+ftelung, die GrfenntniB, alfo der Snteffeft. ‘Dieferhalb hat jede
+Philofophie anzuheben mit Unterfuhung des Erfenntnigvermögeng,
+feiner Formen und Gefeke, wie aud) der Gültigkeit unb ber
+Schranken berfefben. Eine fofdje Unterfuhung wird demnad
+philosophia prima feyn. Sie zerfällt in die Betrachtung der
+primären, b. i. anfchaulihen Vorftellungen, welchen Theil man
+Dianoiologie, oder Verftandesiehre, nennen fann; und in bie
+Betrachtung der jefunbüren, b. i. abjtraften Vorstellungen, nebjt
+der Gefetinügigfeit ihrer Handhabung, als 9ogif, ober Ber:
+nunftlehre. Diejer allgemeine Theil num begreift, ober vielmehr
+vertritt, zugleih Das, was man früher Ontologie nannte und
+als die Lehre von den allgemeinften und wefentlichen Eigenfchaften
+der Dinge überhaupt und als folder aufftellte; indem man für
+Gigenjdjaftet ber Dinge an fid) felbft Hielt was nur in Folge
+der dorm und Natur unfers Vorftellungsvermögens ihnen zu⸗
+fommt, indem diefer gemäß alle durch daffelbe aufzufaffende Wesen
+fid) darjtellen müffen, demzufolge fie alsdann gewilfe, ihnen allen
+gemeinfame Eigenfchaften an fid tragen. Dies ift bem zu ver-
+gleihen, bag man die Tarbe eines Glases den baburd) gejehenen
+Gegenftänden beilegt.
+
+Die auf folche Unterfuchungen folgende Philojophie im engern
+Sinne ijt fodann Metaphysik; weil fie nicht etwan nur das
+Vorhandene, die Natur, kennen lehrt, ordnet und in feinem Zu⸗
+fammenhange betradtet; jondern c8 auffaßt als eine gegebene,
+aber irgendwie bedingte Erfheinung, in welcher ein von ihr felbjt
+verichiedenes Wesen, welches demnach das Ding an fid) wäre,
+fid darstellt. Diejes nun fudt fie näher Tennen zu lernen: bie
+Mittel Hiezu find theils das Zusammenbringen ber äußern mit
+der innern Erfahrung; theils die Erlangung eines Verftändniffes
+der gefammten Cr[djeinung, mitteljt Auffindung ihres Sinnes
+unb Zufammenhanges, — zu vergleichen der Ablefung bis dahin
+rätbjelhnfter Charaktere einer unbelannten Schrift. Auf biefem
+Wege gelangt fie von ber Erjcheinung zum Cr[djeinenben, zu
+bem was Hinter jener ftedt; daher ra pera Ta gucıza. 3n Folge
+hievon zerfällt fie in drei Theile:
+
+
+ [S. 20]
+
+
+Metaphysik ber Natur,
+
+Metaphufif des Schönen,
+
+Metaphysik ber Sitten.
+Die Ableitung diefer Eintheilung fett jedoch schon bie Metaphysik
+felbit voraus. Diefe nümfid) weit das Ding an jid), das innere
+und letzte Wesen der Erscheinung, in unjerm Willen nad:
+daher wird, nad) Betrachtung bejfelben, wie er in der äußern
+Natur sich darftellt, feine ganz anderartige und unmittelbare
+Manifeftation in unferm Innern unterfudjt, woraus bie Meta-
+physik ber Sitten Derborgebt: vorher aber wirb mod) bie voll-
+fommenfte unb reinfte Auffaffung feiner äußern, oder objektiven
+Grideinung in Betracht genommen, welches bie Metaphysik des
+Schönen giebt.
+
+Rationale Piychologie ober Seelenlehre giebt e8 nicht; weil,
+
+wie Kant bewiefen hat, dic. Seele eine transfcendente, als folche
+aber eine unermiejene und unberechtigte Hypostase ift, demnach
+aud) der Gegenjag von , Geijt und Natur” den Philiftern und
+Hegelianern überlaffen bleibt. Das Wesen an fid) des Menschen
+fant nur im Verein mit dem Wejen an fid) aller Dinge, alfo der
+Welt, verftanden werden. Daher fügt schon Platon im Phädrus
+(p. 270) den Sofrates, im verneinenden Sinn, die Frage tfun:
+Yuyns oóv quot» Ang Aoyou xatavoncat olet Öuvarov elvat. Aveu
+ng tov OÀov QuGeoOc; (Animae vero naturam absque totius
+natura sufficienter cognosci posse existimas?) Mikrokosmos
+unb Mafrofosmos erläutern fid) nämlich gegenfeitig, wobei fie
+als im Wefentlichen das Selbe fid) ergeben. Diefe an das
+Innere des Menschen gelnüpfte Betrachtung durchzieht und erfüllt
+bie ganze Metaphyfif, in allen ihren Theilen, kann alfo nicht
+wieder gejonbert auftreten, als Psychologie. Hingegen Anthro-
+pologie, als Erfahrungsmwiffenfchaft, fügt fid) aufftellen, ift aber _
+theils Anatomie und Physiologie, — theils bloße empirifche
+Psychologie, b. i. aus ber Beobachtung geschöpfte Kenntniß; der
+moralifhen und intelleftuellen Aenperungen und Eigenthümlid)-
+feiten des Menfchengefchlechts, wie aud) ber Verschiedenheit ber
+Individualitäten in diefer Dinfiht. Das Wichtigfte daraus wird
+jedoch nothwendig, als empirifcher Stoff, von den drei Theilen
+ber Metaphysik vorweggenommen und bei ihnen verarbeitet. Das
+dann nod) lebrige verlangt feine Beobachtung und geiftreiche
+
+
+Ueber Philofopbie unb ihre Methobe. 21
+
+
+Auffaffung, ja, fogar Betradhtung von einem etwas erhöhten
+Standpunkte aus, ih mehne von bem einiger Ueberlegenheit,
+ijt daher nur genieBbar in den Schriften bevorzugter Geijter, wie
+da waren Theophraftus, Montaigne, Larochefoucauld, Labrnyere,
+Helvetins, Chamfort, Addifon, Shaftsbury, Shenftone, Lichten⸗
+berg u. a. nt, nicht aber ijt e8 zu fuchen, noch zu ertragen, in
+den Kompendien geiftlofer und daher geiftesfeindlicher Philofophie-
+
+
+Zur

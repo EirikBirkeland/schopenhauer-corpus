@@ -1,0 +1,1108 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Zur Rechtslehre und Politik (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On the doctrine of right and on politics - the English title is this collection's rendering, and where a printed English title exists the note says so
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 204-239. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27, 30 and 31. The chapter's own display heading stands in this copy as "Kapitel IX. Zur Rechtslehre und Politik. $. 120. Ein eige"; the Roman numeral in such a heading is the OCR's and may be misset, so cite the chapter by its words and its pages, not by its number.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 8, one of six chapters cut from the same volume while its map was fresh; see P-06 for the volume's chapter map and GAP-4 for what is still missing. English: file 18 ("On human nature", 1897) draws on this chapter too; the pairing was NOT checked this pass. OCR warning as in files 27, 30 and 31: this scan prints f for the long s, so search both shapes (bin/schop-grep.js -f does it) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition - the copy that also yielded files 27, 30 and 31. It prints f for the long s, sometimes b for d and x for x, and it mangles a heading or a page's first line now and then; the long s has been normalised to s (388 here). The chapter was cut between its own display heading and the next one, so the seam is the print's. Paragraph numbers stand as printed - the paragraph marks that stand at line beginnings here read § 120 to § 199, which is a guide and not a table: this OCR lifts a cross-reference to a line beginning now and then, so a paragraph number quoted from here should be seen on the scan. Page markers come only from running heads that name this chapter and whose page lies in the range the volume's heads prove (11 made, S. 204 to S. 226); where a head was garbled nothing was invented, and the chapter's page range by the table of contents is S. 204-239.]
+
+Kapitel IX.
+Zur Rechtslehre und Politik.
+
+
+$. 120.
+
+
+Ein eigenthümlicher Fehler der Deutjchen ift, daß fie, was
+vor ihren Füßen liegt, in den Wolfen fuchen. in ausgezeich-
+netes Beifpiel bievon liefert die Behandlung des Naturrechts
+von den Bhilofophieprofefloren. Um die einfachen menfchlichen
+lebensverhältnifle, die den Stoff deffelben ausmaden, alfo Recht
+und Unrecht, Befis, Staat, Strafredt u. s. w. zu erflären, wer⸗
+den die überfhwänglichften, abfirafteften, folglich mweiteften und
+inhaltsleersten Begriffe berbeigeholt, und nun aus ihnen bald
+diefer, bald jener Babelthurm in die Wolfen gebaut, je nad
+der fpeciellen Grille des jedesmaligen Professors. Dadurch wer:
+den die Härften, einfachften, und und unmittelbar angehenden
+Lebensverhältnisse unverftändlich gemacht, zum großen Nachtheil
+der jungen Leute, die in folder Schule gebildet werben; wäh:
+reud die Sachen felbft höchst einfach und begreiflich find; wovon
+man fich überzeugen kann durch meine Darftellung derselben (üb.
+das Fundament der Moral $. 17; und Welt als W. und V.
+Bd. 1. $. 62.). Aber bei gewiffen Worten, wie da find Necht,
+Sreiheit, das Gute, das Seyn (diefer nichtsfagende Infinitiv
+der Kopula) u. a. m. wird dem Deutichen ganz schwindlich, er
+geräth alsbald in eine Art Delirium und fängt an, sich in
+nichtsfagenden, hochtrabenden Phrafen zu ergehn, indem er bie
+weiteften, folglich hohlsten Begriffe künstlich aneinanderreiht;
+Ratt daß er die Realität ind Auge faffen und die Dinge und
+Verhältnisse Teibhaftig anfchauen follte, aus denen jene Begriffe
+abstrahirt find und die folglich ihren alleinigen wahren Inhalt
+ausmachen.
+
+ [S. 204]
+
+
+$. 121.
+
+Wer von der vorgefaßten Memung, daß der Begriff des
+Rechts cin pofitiver feyn müsse, ausgeht und nun ibn zu de-
+finiren unternimmt, wird nicht Damit zu Stande fommen: Denn
+er will einen Schatten greifen, verfolgt ein Gespenst, fucht cin
+Nonens. Der Begriff des Rechts ift nämlich, eben wie auch
+der der Freiheis, ein negativer: fein Inhalt ift eine bloße
+Negation. Der Begriff des Unrechts ift der pofitive und ift
+gleichbedeutend mit Berlegung im weiteften Sinne, alfo laesie.
+Eine folde kann nun entweder die Perfon, oder das Eigenthum,
+oder die Ehre betreffen. — Hienach find denn die Menschen—
+rechte leicht zu beftimmen: Jeder hat das Recht, alles Das zu
+ihun, wodurch er Keinen verletzt. —
+
+Ein Recht zu etwas, oder auf etwas haben, heißt nichts
+weiter, als es thun, oder aber es nehmen, oder benußen fünnen,
+ohne dadurd irgend einen Andern zu verlegen: — Simplex
+sigillum veri. — Hieraus erhellt auch die Sinnlofigfeit man-
+cher Fragen, 3. B. ob wir das Recht haben, und Das Leben zu
+nehmen. Was aber dabei die Anfprüge, die etwan Andere auf
+uns persönlich haben fünnen, betrifft, fo ftehn fie unter der Be—
+Dingung, daß wir leben, fallen aljo mit diefer weg. Daß Der,
+welcher für fich feldft nicht mehr leben mag, num noch als bloße
+Mafhine zum Nugen Andrer fortleben folle, it eine überfpannte
+Forderung.
+
+
+8. 122.
+
+
+Obgleich die Kräfte der Menfhen ungleich find, fo find doch
+ihre Rechte gleich, weil diefe nicht auf den Kräften beruhen, son—
+dern, wegen der moralischen Natur des Nechts, darauf, daß in
+Sedem der felbe Wille zum Leben, auf der gleichen Stufe feiner Ob-
+jeftivation, sich darftellt. Dies gilt jedoch nur vom urfprüngli-
+hen und abftraften Rechte, welches der Menid als Mensch hat.
+Das Eigenthum, wie aud) die Ehre, welde Jeder, mittelft feiner
+Kräfte, fi erwirbt, richtet fih nad dem Maafe und der Art
+diefer Kräfte und giebt dann feinem Rechte eine weitere Sphäre:
+hier hört also die Gleichheit auf. Der hierin besser Ausgeftattete,
+oder Thätigere, erweitert, durch größern Erwerb, nicht fein Recht,
+fondern nur die Zahl der Dinge, auf die es sich erstreckt.
+
+
+Zur Rechtslehre und PBolitif. 205
+
+
+$. 123.
+
+
+In meinem Hauptwerke (Bd. 2, Kap. 17) babe id) darge-
+than, daß der Staat wesentlich eine bloße Schukanftalt ift, ge—
+gen äußere Angriffe des Ganzen und innere der Einzelnen un-
+ter einander. Hieraus folgt, daß Die Nothwendigfeit des Staats,
+im legten Grunde, auf der anerfannten Ungerechtigfeit des
+Menfchengefchlechts beruht: ohne diese würde an feinen Gtaat
+gedacht werden; Da niemand Beeinträchtigung feiner Nechte zu
+fürchten hätte und ein bloßer Verein gegen die Angriffe wilder
+Thiere, oder der Elemente, nur eine schwache Aehnlichfeit mit
+einem Staate haben würde. Bon diefem Gefichtspunft aus fieht
+man deutlich die Bornirtheit und Mattheit der Philosophaster,
+welche, in pompöfen Nedensarten, den Staat als den höchften
+Zweck und die Blüthe des menschlichen Dafeyns darftellen und
+damit eine Apotheose der Philisterei liefern.
+
+
+$. 124.
+
+
+Wenn auf ver Welt Gerehtigfeit herrfchte, wäre es hin-
+veichend, fein Haus gebaut zu haben, und es bebürfte Feines
+anderen Schutzes, ald dieses offenbaren Eigenthumsrechts. Aber
+weil das Unrecht an der Tagesordnung iftz fo -ift erfordert,
+dag, wer das Haus gebaut hat, auch im Stande fei, es zu
+schützen. Sonft ift fein Recht de facto unvollfommen: der An—
+greifer hat nämlich Faustrecht, welches geradezu der Nechtsbe-
+griff des Spinoza ift, der fein anderes Recht anerfennt, fons
+dern jagt: unusquisgne tantum juris habet, quantum po-
+tentid valet (tract. pol. ec. 2, $. 5) und uniuscujusque jus
+potentid& ejus definitur (Eth. IV. pr. 37. sch. 1). — Die
+Anfeitung zu diefem Nechtsbegriff jcheint ihm gegeben zu haben
+Hobbes, namentlih de cive c. 1. $. 14, welder Stelfe diefer
+die feltfame Erläuterung binzufügt, daß das Recht des Tieben
+Gottes auf alle Dinge doch aud nur auf feiner Allmacht bes
+tube, — In der bürgerlihen Welt ift nun zwar biefer Rechts—
+begriff, wie in der Theorie, fo auch in der Praris, abgefchafft ;
+in der politifchen aber in erfterer allein: in praxi gilt er bier
+fortwährend; wie er denn noch Fürzliih, an dem Raubzug ber
+Nordamerifaner gegen Merifo, eine glänzende Beftätigung erbalten
+
+ [S. 206]
+
+
+hat; wenngleich diefe noch weit übertroffen wird durch bie ältere
+der Raubzüge der Franzofen, unter ihrem Hauptmann Buona-
+parte, über ganz Europa. Nur aber follten solche Eroberer,
+Statt die Sache mit öffentlichen, officielfen Lügen zu befchöni-
+gen, die faft noch mehr, als jene felbft, empören, sich, frech
+und frei, auf die Lehre des Mackhiavelli berufen. Aus dieser
+namlich Täßt fich entnehmen, daß zwar zwifchen Individuen, und
+in der Moral und NRectslehre für Diefe, der Grundfag quod
+tibi fieri non vis, alteri ne feceris allerdings gilt; hingegen
+zwischen Bölfern und in der Politik der umgefchrte: quod tibi
+fieri non vis, id alteri tn feceris. Willft du nicht unterjocht
+werden; fo unterjoche bei Zeiten den Nachbarn: jobald nämlich
+feine Schwäche dir die Gelegenheit darbietet. Denn, läßt du
+diefe vorübergehn; fo wird fie ein Mal fi als Weberläuferin
+im fremden Lager zeigen: dann wird jener Dich unterjochen;
+wenn auch die jegige Unterlaffungsfünde nicht von der Genera-
+tion, die fie beging, fondern von den folgenden abgebüßt werben
+sollte. Diefer Machiavelliftiihe Grundfag ift für die Raublust
+immer noch eine viel anftändigere Hülle, ald der ganz durchsich—
+tige Lappen palpabelfter Lügen in Präfidentenreden, und gar fol-
+cher, welche auf die befannte Gejchichte vom Kaninchen, welches
+den Hund angegriffen haben fol, hinauslaufen.
+
+
+$. 125.
+
+
+Zwischen Leibeigenfchaft, wie in Rußland, und Grundlefsitz,
+wie in England, und überhaupt zwijchen dem Leibeigenen und
+dem Pächter, Einfaflen, Hypothefenfchuldner u. dgl. m., Tiegt der
+Unterfchied mehr in der Form, ald in der Sade. Ob mir der
+Bauer gehört, oder das Land, von welchem er fih nähren muß;
+der Bogel, oder fein Sutter; die Frucht oder der Baum; ift im
+Wefentlichen wenig verfchieden; wie denn auch Shafefpeare den
+Shylof fagen läßt:
+
+You take my life,
+When you do take the means, whereby I live,
+
+(Mein Leben nimmit du, wenn du mir die Mittel nimmit, wodurch
+ich lebe.)
+
+Der freie Bauer Hat zwar Died voraus, daß er davon gehn
+fann, in die weite Welt; wogegen ber leibeigene und glebae
+
+
+Zur Rechtslehre und Politik. 207
+
+
+adscriptus den vielleicht größeren Vortheil hat, daß, wenn Mif-
+wachs, Krankheit, Alter und Infähigfeit ihn hülflos machen, fein
+Herr für ihn forgen muß: daher schläft er ruhig, während, bei
+Mißwachs, der Herr fih auf dem fchlaflofen Lager wälzt, auf
+Mittel finnend, feinen Leibeigenen Brod zu fchaffen. in ande-
+ver Borzug des Freien ift die Möglichkeit, fi) durch etwanige
+Talente in einen bessern Zuftand zu verfeßen: aber ganz benom-
+men ift diefe dem Sflaven auch nicht. Wird er durch Leiflun-
+gen höherer Art feinem Heren werth; fo wird er auch danach
+behandelt; wie denn in Nom die Handwerfer, Fabrifvorfteher,
+Arhiteften, ja die Aerzte, meiftend Sflaven waren, und au
+noch jegt in Rußland es große Banquiers geben foll, die Leib-
+eigene find. Auch fann der Sklave, in Folge feines Erwerbs,
+fih frei faufen, wie in Amerifa oft gefchieht.
+
+Armuth und Sklaverei find aljo nur zwei Formen, faft
+möchte man fagen zwei Namen, der felben Sache, deren Wefen
+darin besteht, daß die Kräfte eines Menichen großentheils nicht
+für ihn felbft, fondern für Andere verwendet werben; woraus
+für ihn theils Leberladung mit Arbeit, theils färgliche Befriedi-
+gung feiner Bedürfniffe hervorgeht. Denn die Natur bat dem
+Menihen nur fo viel Kräfte gegeben, daß er, unter mäßiger
+Anftrengung derfelben, feinen Unterhalt dev Erde abgewinnen
+fann: großen Ueberschuß von Kräften hat er nicht erhalten.
+Nimmt man nun die gemeinfame Laft der phyfiichen Erhaltung
+bed Dafeynd des Menfchengefchlechts einem nicht ganz unbeträcht-
+lihen Theile desselben ab; jo wird dadurch der übrige übermäßig
+belaftet und ift elend. So zunädft entipringt alfo jenes Webel,
+welches, entweder unter dem Namen der Sklaverei, oder unter
+dem des Proletariats, jederzeit auf der großen Mehrzahl des
+Menschengeschlechts gelaftet hat. Die entferntere Urfache defiel-
+ben aber ift der Lurud. Damit nämlich einige Wenige das Ents
+behrliche, Weberflüffige und Naffinirte haben, ja, erfünftelte Be—
+bürfniffe befriedigen fönnen, muß auf Dergleichen ein großes
+Maag der vorhandenen Menfchenfrafte verwendet und daher dem
+Nothwendigen, der Hervorbringung des Unentbehrlichen, entzogen
+werden. Statt Hütten fir fih, bauen Taufende Prachtwohnun—⸗
+gen für Wenige: ftatt grober Stoffe für fih und die Ihrigen,
+weben fie feine, oder feidene Stoffe, oder gar Spigen, für die
+
+
+4"
+
+ [S. 208]
+
+
+Reichen, und verfertigen überhaupt taufend Gegenftände des
+Luxus, die Reihen zu vergnügen. Aus foldhen Qurusarbeitern
+befteht ein großer Theil der Bevölferung der Städte: für diefe
+alfo und ihre Besteller muß nun der Bauer mit pflügen, säen
+und meiden, bat alfo mehr Arbeit, als die Natur ihm ursprüng—
+lih aufgelegt hatte. Ueberdies muß auch er ferbft noch viele
+Kräfte und Land, ftatt auf Getraide, Kartoffeln und Viehzucht,
+auf Wein, Seide, Tabad, Hopfen, Spargel u. f. w. verwenden.
+Ferner werden eine Menge Menfchen dem Aderbau entzogen,
+um dem Schiffbau und der Seefahrt zu dienen, damit Zuder,
+Kaffee, Thee u. f. w. berbeigefchafft werde. Die Produftion die—
+fer Ueberflüffigfeiten wird dann wieder die Ursache des Elends
+jener Millionen Negerfflaven, die ihrem Vaterlande gewaltfam
+entriffen werden, um mit ihrem Schweiß und ihrer Marter jene
+Gegenftände des Genuffes hervorzubringen. Kurz, ein großer
+Theil der Kräfte des Menichengefchlechts wird der Hervorbrin-
+gung des Allen Nothivendigen entzogen, um das ganz Ueber—
+flüffige und Entbehrliche für Wenige herbeizufchaffen. So lange
+daher auf der einen Seite der Luxus befteht, muß nothwendig
+auf der andern übermäßige Arbeit und fchlechtes Leben beftehn;
+fei e8 unter dem Namen der Armuth, oder dem der Sflaverei,
+der proletarii, oder der servi. Zwischen Beiden ift der Fun—
+Damentalunterfchied, dag Sflaven ihren Ursprung der Gewalt,
+Arme der Lift zuzufchreiben haben. Der ganze unnatürlidhe Zu—
+ftand der Gefellfchaft, der allgemeine Kampf, um dem Elend zu
+entgehn, die fo viel Leben Foftende Seefahrt, das verwidelte Han—
+belsintereffe und endlich die Kriege, zu welchen das Alles Anlaß
+giebt, — alles Diefes hat zur alleinigen Wurzel den Lurus, der
+nicht ein Mal Die, welche ihn genießen, glüdlich, vielmehr kränk—
+lich und-übelgelaunt macht. Demnad würde zur Milderung des
+menfchlichen Elends das Wirffamfte die Verminderung, ja, Aufs
+Hebung des Lurus feyn.
+
+Diefer ganze Gedanfengang nun hat unftreitig viel Wahres.
+Dennoch wird er im Refultat widerlegt durch einen anderen,
+den überdies dad Zeugniß der Erfahrung befräftigt. Was näm-
+Yich, durch jene dem Lurus fröhnenden Arbeiten, das Menfchen-
+gefchleht an Musfelfräften (Srritabilität) für feine noth—
+wendigften Zwecke verkiert, wird ibm allmälig taufendfach erfert
+
+
+Zur Rechtolehre und Politif. 209
+
+
+durch die: gerade bei dieser Gelegenheit. frei. (im chemifchen Sinn)
+
+werdenden Nervenfräfte (Senfibilität,. Intelligenz). Denn
+
+da diefe höherer Art find, fo übertreffen auch ihre Leiftungen tau-
+
+sendfach jene der. erfieren: |
+
+ws tv 0040» Bovleuur TuS nollov yapus vırc.
+(nt vel unum — eonsilium multorum manuum opus superat)
+(Eur. Antiop.)
+
+Ein Volk von fauter Bauern würde wenig entbeden und. erfin-
+
+den: aber müßige Hände geben thätige Köpfe. Künste und Wif-
+
+senschaften find felbft Kinder des Luxus, und fie tragen ihm ihre
+
+Schuld ab. Ihr Werk ift jene Vervollkommnung der Techno-
+
+logie in allen ihren Zweigen, in den mechanischen, den chemi-
+schen und den phofifalifchen, welde in unfern Tagen das Mar
+Idinenwefen zu einer früher nie geahndeten Höhe gebracht hat und
+namentlich dur Dampfmafchinen und Eleftrieität Dinge Yeiftet,
+welche frühere Zeiten der Hülfe des Teufels zugefrhrieben haben
+würden. Da thun jest, in Kabrifen und Manufakturen jeder
+Art, mitunter auch beim Feldbau, Mafchinen taufend. Mal mehr
+Arbeit, ald die Hände aller jegt müßigen Wohlhabenden, Gebil-
+deten und Kopfarbeitenden jemals vermocht hätten, und als mit-
+bin durch Abstellung alles Luxus und Einführung eines allge
+meinen Bauernlebens je erreicht werben ‚Tönnte. Die Erzeugnifle
+alfer jener Betriebe aber Fommen keineswegs den. Reichen allein,
+jondern Affen zu Gute, Dinge, die ehemals kaum zu erjchwin-
+gen waren, find jet wohlfel und in Menge zu haben, und auch
+das Leben der niebrigfien Klafle hat an Bequemlichfeit viel ge-
+wonnen. Im Mittelalter erborgte einft ein König von England:
+von einem feiner Großen ein Baar feidene Strümpfe, um damit.
+angethan dem franzöfifchen Gefandten Audienz zu ertheilen: heut
+zu Tage hat jeder Handlungsbiener bergleihen. Bor funfzig
+Jahren trugen die Damen eben solche Fattunene Kleider, wie
+heut zu Tage die Mägde. Wenn dad Maschinenwesen feine Fort⸗
+Ihritte in demfelben Maaße neh eine Zeit hindurch weiter führt;
+fo fann es dahin fommen, daß ‚die Anfirengung der Dienfchen-
+fräfte beinahe ganz erfpart wird; wie Die eines großen Theils
+der Pferdekräfte schon jest. Dann. freilich ‚Liege sich an eine ge⸗
+wisse Alfgemeinheit der Geifteskultur des Menfchengefchlechtö den-
+fen, welche ‚hingegen fo lange unmöglich if, als ein großer Theil
+
+II. 14
+
+ [S. 210]
+
+
+desselben schwerer Förperlicher Arbeit obliegen muß; ba Irri⸗
+tabilität und Senfibilität ftetd und überall, im Allgemeinen wie
+im Einzelnen, im Antagonismus stehn; eben weil die eine und
+jelbe Lebenskraft beiden zum Grunde Tiegt. Weil ferner artes
+molliunt mores; fo werden alsdann die Kriege im Großen und
+die Naufereien, oder Duelle, im Kleinen vielleicht ganz aus ber
+Welt fommen; wie Beide fchon jest viel feltener geworben find.
+Doc ift hier nicht mein Zweck, eine Utopia zu fchreiben. —
+
+Aber auch abgefehn von allen diefen Gründen, ift gegen jene
+oben bargelegte, auf Abschaffung des Lurus und gleichmäßige
+Bertheilung aller körperlichen Arbeit hinweisende Argumentation
+in Erwägung zu geben, daß die große Heerbe des Menfchenge:
+schlechts, stets und überall, nothiwendig der Führer, Leiter und
+Berather, in mannigfaltigen Geftalten, je nad den Angelegen:
+heiten, bebarf: solche find die Richter, Regierer, Heerführer,
+Beamte, Priefter, Aerzte, Gelehrte, Philofophen u. s. w., als
+welche sämmtlich die Aufgabe haben, dies in der Mehrzahl höchst
+unfähige und verkehrte Gefchlecht durch das Labyrinth des Lebens
+zu führen, über welches daher jeder von ihnen, je nach feiner
+Stellung und Befähigung, einen Ueberblick, in engerem oder wei.
+terem Gefichtöfreife, fich erworben hat. Daß nun diefe Führer
+sowohl von Förperlicher Arbeit, ald von gemeinem Mangel, ober
+Unbequemlichfeit, befreit bleiben, ja auch, nah Maaßgabe ihrer
+viel größern Leiftungen, mehr befigen und genießen müssen, als
+der gemeine Mann, ift natürlich und der Billigfeit gemäß. So:
+gar die Großhändler find jener erimirten Führerflaffe beizuzäh-
+len; fofern fie die Bebürfnifle des Volks lange vorhersehn und
+benfelben entgegenfommen.
+
+
+$. 126.
+
+
+Die Frage nach der Souverainität des Volkes läuft im
+Grunde darauf hinaus, ob irgend Jemand urfprünglich Das Necht
+haben könne, ein Volk wider feinem Willen zu beherrfchen. Wie
+fih Das vernünftigerweile behaupten lasse, fehe ich nicht ab.
+Allerdings also ift das Volk fouverain: jedoch ift es ein ewig
+unmündiger Souverain, welcher baher unter bleibender Bormund-
+schaft ftehn muß und nie feine Rechte selbst verwalten kann, ohne
+gränzenlose Gefahren herbeizuführen; zumal er, wie alle IInmün-
+
+
+Zur Rechtslehte und Bohtfif. 211
+
+
+digen, gar leicht das Spiel hinterlistiger Gauner wird, welche
+deshalb Demagogen heißen. —
+
+Ursprünglich find wohl alle Fürften fiegreiche Heerführer ger
+weien, und lange Zeit haben fie eigentlich in biefer Eigenfchaft
+regiert. Nachdem fie stehende Heere hatten, betrachteten fie das
+Volk als das Mittel fih und ihre Soldaten zu ernähren, folg-
+lich als eine Heerde für die man jorgt, damit fie Wolle, Milch
+und Fleisch gebe. Allein mit der Zeit und ihren Kortichritten
+hat fih aus dem Königthum etwas ganz Anderes entiwidelt und
+it jener Begriff in den Hintergrumd getreten, an weldem man
+ibn nur noch bisweilen ald Gespenst vorüberfchiweben sieht. An
+feine Stelfe ift nämlich. der des Landesvaters gefommen und ber
+König ift der fefte, umerfchütterliche Pfeiler geworden, auf wel
+dem alfein die ganze gefeglihe Ordnung, und dadurch Die Rechte
+Aller sich fügen und fo beftehn. Dies aber kann er nur Teiften
+vermöge feines angeborenen Vorrechts, welches ihm, und nur
+ihm, eine Auftorität giebt, der Feine gleichfommt, bie nicht bes
+zweifelt und nugefochten werben fann, ja, ber ein Jeder mie ins
+Rinftiv gehorcht. Daher heißt er mit Recht „von Gottes Gnas
+den‘ und ift allemal die nüslichfte Perfon im Staat, deren Ber-
+dienfte durch Feine Givillifte zu theuer vergolten werben können,
+und wäre fie noch fo flarf.
+
+Aber noh Macchiavelli gieng von jenem erfleren, mit⸗
+telalterlichen Begriffe des Fürften fo ganz entschieden aus, daß
+er ihn, als eine Sache, die fich von felbft verfteht, nicht erörtert,
+sondern stillschweigend vorausfegt, und darauf feine Rathschläge
+gründet. Ueberhaupt ift fein Buch bloß die auf die Theorie zu⸗
+rüdgeführte und in biefer mit systematischer Konfequenz darges
+ftellte, damals noch herrfchende Praxis, die dann eben in der ihr
+neuen, theoretischen Form und Vollendung ein höchst pifantes
+Anfehn erhält. — Dies Lestere gilt, beiläufig gefagt, ebenfalls
+von dem unfterblichen Büchlein des Roche foueauld, dessen
+Thema aber das Privatleben, nicht das öffentliche if, und der
+nicht Rathschläge, fondern Bemerkungen giebt. An dem berrli-
+hen Büchlein: könnte man allenfalls den Titel tadeln: meiften-
+teils nämlich find e8 nicht maximes, noch reflexions, fondern
+appergus: fo follte es daher heißen. — Uebrigens findet jelbft
+im Maschinvelli Vieles auch auf das Privatleben Anwendung.
+
+14°
+
+ [S. 212]
+
+
+$. 127.
+
+
+Bon Natur herrfcht die Gewalt: flatt diefer dem Rechte
+zur Herrschaft zu verhelfen, Dies ift das Problem der Staats⸗
+funft. ind wohl ift es ein schweres. Man wird Dies erfen-
+nen, wenn man bedenkt, weld ein gränzenlofer Egoismus fast
+in jeder Menfchenbruft nifter, zu welchem meiftend noch ein an-
+gehäufter Vorrath von Haß und Bosheit sich gefellt, fo daß
+urfprünglich das vewxos die pilua bei Weitem überwiegt; und
+nun dazu nimmt, daß viele Millionen fo befchaffener Individuen
+es find, die. in den Schranken der Drdnung, des Friedens, der
+Ruhe und Gefeglichfeit gehalten werden follen, während doch
+urfprünglich Jeder das Recht Hat, zu Jedem zu fagen „was
+Du bift, bin ih auch!” Died wohl erwogen, muß man fid
+wundern, daß es im Ganzen noch fo ruhig und friedlich, recht⸗
+ih und ordentlich in der Welt bergeht, wie wir es fehn; wel
+ches doch die Stantsmafchine allein zu Wege bringt. — Denn
+unmittelbar Fann immer nur die physische Gewalt wirfen; ba
+vor ihr allein die Menfchen, wie fie in der Regel find, Empfäng-
+fichfeit und Nefpeft haben. Wenn man, um fidh hievon durch
+die Erfahrung zu überzeugen, ein Mal allen Zwang befeitigen
+und ihnen bloß Vernunft, Recht und Billigfeit, aber ihrem In—⸗
+terefie entgegen, auf das Deutlichste und Eindringlichfte vorhal-
+ten wollte; fo würde bie Machtlofigfeit bloß moralifcher Gewal-
+ten daran augenfällig werden, daß man meiftens nur ein Hohns
+gelächter zur Antwort erhielte. : Alfo allein bie physische Gewalt
+vermag sich Nefpeft zu verfchaffen. Nun ift aber diefe Gewalt
+urfprünglich bei der Masse, bei welcher Unwissenheit, Dummheit
+und Lmrechtlichfeit ihr Gefellfchaft Teiften. Die Aufgabe ber
+Staatöfunft ift demnach zunächft diefe, unter fo schwierigen Um-
+ftänden, dennoch die physische Gewalt der Sintelligenz, der geifti-
+gen Aeberlegenheit, zu unterwerfen uud dienfibar zu machen. Sf
+jedoch diefe ferbft nicht mit der Gerechtigfeit und der guten Ab-
+fiht gepaart; fo ifl, wenn es gelingt, das Nefultat, daß ber fo
+errichtete Staat aus Betrügern und Betrogenen befteht. Dies
+aber fommt dann allmälig, durch die Fortichritte ber Intelligen;
+ber Maffe, fo fehr man diefe auch zu hemmen sucht, an den
+Tag und führt zu einer Revolution. Ist Hingegen bei der Zn
+
+
+Zur Rechtslehre und Politik. 213
+
+
+telligenz die Gerechtigkeit und die gute Abficht; fo giebt es einen,
+nah dem Maaßstabe menjchlicher Dinge überhaupt, vollfommenen
+Staat. Sehr zweddienlih ift es hiezu, daß die Gerechtigfeit
+und gute Abficht nicht nur vorhanden, fondern aud nachweisbar
+ei und offen dargelegt werde, daher der öffentlichen Rechenfchaft
+und Kontrole sich unteriwerfe; wobei jedoch zu verhüten ift, daß
+durch die hiedurch entftehende Betheiligung Mehrerer der Ein-
+heitspunkt der Macht des ganzen Staates, mit welchem er nad
+imen und außen zu wirfen bat, an feiner Koncentration und
+Kraft verliere; wie dies Lestere in Republiken faft immer der
+Fall ist. Allen diefen Anforderungen durd die Form des Staa-
+ted zu genügen wäre sonach die höchfte Aufgabe der Staatsfunft:
+diefe hat jedoch, in der Wirflichfeit, auch noch das gegebene Volk
+mit feinen nationalen Eigenheiten, als das rohe Material zu be-
+rüdfichtigen, dessen Befchaffenheit daher auf die Bollfommenpeit
+des Werfes stets großen Einfluß haben wird.
+
+Es wird immer schon viel feyn, wenn die Staatsfunft ihre
+Aufgabe fo weit löst, daß möglichft wenig Unrecht im Gemein-
+wefen übrig bleibe: denn daß es ganz, ohne irgend einen Neft,
+geichehn sollte, ift bloß das ideale Ziel, welches nur approrima-
+tip erreicht werden Tann. Wird nämlich das Unrecht von Einer
+Seite herausgemworfen, fo fchleicht es fi von der andern wieder
+herein; weil eben die Unrechtlichkeit tief im menfchlihen Wefen -
+liegt. Man fucht jenes Ziel durch die Fünftfiche Form der Ber:
+fassiung und die Vollkommenheit der Gesetzgebung zu erreichen:
+doch bleibt es die Asymptote; schon weil feftgeftellte Begriffe nie
+alle einzelnen Fälle erichöpfen und nicht bis auf's Individuelle
+berabzuführen find; indem fie den Steinen des Musivbildes, nicht
+den Pinfelnüancen des Gemälbes gleichen. Zudem find bier alle
+Erperimente gefährlich; weil man es mit dem am schwersten zu
+behandelnden Stoff; dem Menfchengefchlechte, zu thun hat, deffen
+Handhabung faft fo gefährlich if, wie die des Knallgoldes. In
+biefer Hinficht ift allerdings für die Staatsmafchine die Preß—
+freiheit Das, was für die Dampfmalchine die Sicherheitövalve:
+denn mittelst berfelben macht jede Unzufriedenheit fih alsbald
+durch Worte Luft, ja wird fih, wenn fie nicht fehr viel Stoff
+hat, an ihnen erfchöpfen. Hat fie jeboch diefen, fo ist es gut,
+daß man ihn bei Zeiten erfenne, um abzuhelfen. So geht es
+
+ [S. 214]
+
+
+fehr viel beffer, als wenn die Unzufriedenheit eingezwängt bleibt,
+brütet, gährt, kocht und anwächst, bis fie endlich zur Explosion
+gelangt, — Andrerfeits jedoch ift die Preßfreiheit anzufehn als
+die Erlaubnig Gift zu verfaufen: Gift für Geift und Gemüth.
+Denn was läßt fih nicht dem Fenntnißs und urtheilslofen großen
+Haufen in den Kopf fegen? zumal wenn man ihm Bortheil und
+Gewinn vorfpiegelt. Und zu welcher Unthat ift der Mensch nicht
+fähig, dem man etwas in den Kopf gejegt hat? Ich fürchte da—
+ber fehr, daß bie Gefahren der Prepfreiheit ihren Nugen über«
+wiegen; zumal wo gefeglihe Wege jeder Beichwerbe offen ftehn.
+Sedenfalls aber follte Preßfreipeit durch das firengfte Verbot al-
+ler nnd jeder Anonymität bedingt feyn, —
+
+Sm Allgemeinen Liege sich fogar bie Hypothefe aufstellen,
+daß das Recht von einer analogen Beschaffenheit sei, wie gewisse
+chemische Substanzen, die sich nicht rein und isolirt, sondern höch—
+stens nur mit einer geringen Beimischung, die ihnen zum Trä—
+ger dient, oder die nöthige Konsistenz ertheilt, darstellen lassen,
+wie z. B. Fluor, selbst Alkohol, Blausäure u. a. m.; daß dem⸗
+nad) auch das Recht, wenn es in der wirklichen Welt Fuß fafs
+fen und fogar herrichen foll, eines geringen Zufages von Will«
+für und Gewalt nothwendig bebürfe, um, feiner eigentlichen nur
+idealen und daher ätheriihen Natur ungeachtet, in. dieser realen
+und materialen Welt wirken, und beftehn zu können, ohne fich zu
+evaporiren und davon zu fliegen, in den Himmel; wie dies beim.
+Hefiodus geichieht. Als eine solche nothwendige chemische Bafıs,
+oder Legierung, mag wohl anzujehn jeyn altes Geburisrecht, alle
+erblichen Privilegien, jede Staatsreligion und manches Andere;
+indem erst auf einer willfürlich feftgeftellten Grundlage dieser
+Art das Recht fich geltend machen und Eonfequent Durchführen
+liege: fie wäre aljo gleichsam das dog you mov zo des Rechts.
+
+Des Linnäus Fünfliches und arbiträv gewähltes Pflan—
+zensystem kann durch Fein. natürliches erfegt werden, fo fehr auch
+ein folches der Vernunft angemeflen wäre, und fo vielfach es
+auch. versucht worden; weil nämlich ein folhes nie die Sicher-
+heit und Feftigfeit der Beftimmungen gewährt, bie das künstliche
+und arbiträre hat. Eben so nun kann bie Fünftliche und arbi-
+träre Grundlage der Staatäverfaffung, mie fie im obigen anges:
+deutet üft, wicht ersetzt werben durch eine rein natürliche Grund⸗
+
+
+Zur Rechielehre und Politik. 215
+
+
+fage, welche, Die bejagten Bedingungen verwerfend, an die Stelle
+ber Vorrechte der Geburt die des perfönlichen Werthes, an bie
+Stelle der Landesreligion die Refultate der Vernunftforschung
+u. s. f. jegen wollte; weil eben, fo fehr auch dag Alles der Ver-
+nunft angemejlen wäre, es bemfelben doch an derjenigen Sicher:
+heit und Feftigfeit der Beftimmungen fehlt, welche allein bie
+Stabilität des gemeinen Wesens fichern.
+
+Dagegen fehn wir in den vereinigten Staaten von Norb-
+amerifa den Versuch, ganz ohne alle folhe arbiträre Grundlage
+fertig zu werben, aljo das ganz unverfegte, reine, abftrafte Recht
+berrihen zu lassen. Allein der Erfolg ift nicht anlodend: denn,
+bei aller materiellen Prosperität des Landes, finden wir dafelbit
+als herrfehende Gefinnung den niedrigen Utilitarianismus, nebft
+jeiner unsausbleiblichen Gefährtin, der Unwifjenheit, welche der
+stupiden anglifanifchen Bigotteric, dem dummen Dünfel, der brus
+talen Rohheit, im Berein mit einfältiger Weiberveneration, den
+Weg gebahnt hat. Und fogar noch fchlimmere Dinge find dort
+an der Tagesordnung, nämlich bimmelfchreiende Negerfklaverei,
+verbunden mit äußerfter Graufamfeit gegen die Sflaven, unge-
+rechteste Unterdrückung ber freien Schwarzen, Iynchlaw, häufiger
+und oft ungeftrafter Meuchelmord, unerhört brutale Duelle, mit:
+unter offene Verhöhnung des Rechis und der Gefege, Nepubiation
+öffentlicher Schulden, empörende politifche Esfroferie einer Nach—
+barsprovinz, in Folge derfelben gierige Raubzüge in das reiche
+Nachbarland, welche sodann yon höchster Stelle aus, durch Uns
+wahrheiten, bie Jeder im Lande als folche Fennt und verlacht, be:
+Ihönigt werben mußten, immer wachsende Ochlofratie und endlich
+der ganze perberblihe Einfluß, melden bie erwähnte Verleugnung
+ber Rechtlichfeit in der obern Region auf die Privatmoralität aus—
+üben muß. Alfo dies Probeftüd einer reinen Rechtsverfaflung, auf
+jener Kehrseite des Planeten, spricht gar wenig für die Nepublifen,
+noch weniger aber die Nachahmungen desselben in Merifo, Gua—
+timala, Kolumbien und Peru. Ein ganz bejonderer und babei
+paradoxer Nachtheil der Republifen ift noch dieser, daß es in
+ihnen den überlegenen Köpfen schwerer werden muß, zu hohen
+Stellen und dadurch zu unmittelbarem politischen Einfluß zu ge⸗
+langen, als in Monarchien. Denn gegen solche Köpfe find nun
+ein Mol, überall, immerdar und in allen Verhältnissen, fämmt-
+
+ [S. 216]
+
+
+liche bornirte, schwache und gewöhnliche Köpfe, als gegen ihren
+natürlichen Feind, verfhworen, oder inftinftmäßig verbünbdet, und
+werden fest zufammengehalten durd ihre gemeinfame Furt vor
+jenen. Ihrer ftets zahfreihen Schaar nun wird es, "bei einer
+republifanifchen Verfassung, Teicht gelingen, die überlegenen zu
+unterdrücden und auszufchließen, um ja nicht von ihnen überflü-
+gelt zu werben; find fie doch, und zwar bier bei gleichem ur:
+sprünglichem Rechte, flets Fünfzig gegen Einen. In der Mo:
+narchie hingegen ift diefe überall natürliche Pigue der bornirten
+gegen die bevorzugten Köpfe doch nur cinfeitig vorhanden, näm—
+lich bloß von unten: von oben hingegen haben hier Verstand und
+Talent natürliche Fürfprache und Beschützer. Denn zuvörderf
+der Monarch selbst fteht viel zu hoch und zu fefl, als daß er ir-
+gend jemandes Kompetenz zu fürchten hätte: zudem dient er selbst
+dem Staate mehr dur feinen Willen, als durd feinen Kopf,
+als welcher fo vielen Anforderungen nie gewachfen feyn fann.
+Er muß alfo ftets fih fremder Köpfe bedienen, und wird natür
+ih, angefehn, daß fein Interesse mit dem des Landes feft ver:
+wachen, unzertrennlic und Eines ift, die alferbeften, weit fie bie
+tauglichsten Werkzeuge für ihn find, vorziehn und begünftigen:
+jobald er nnr die Fähigfeit hat, fie herauszufinden; was fo gar
+schwer nicht ift, wenn man fie aufrichtig fucht. Eben fo Haben
+felbft die Minifter vor angehenden Staatsmännern einen zu gro
+Ben Borfprung, als daß fie solche mit Eiferfucht betrachten fol
+ten, und werden daher, aus analogen Gründen, Die ausgezeich—
+neten Köpfe gern hervorziehn und in Thätigfeit fegen, um ihre
+Kräfte zu benugen. Auf diefe Art alfo hat in Monarchien ber
+Berftand immer noch viel beffere Chancen gegen feinen unver:
+föhnlichen und allgegenwärtigen Feind, die Dummheit, als in
+Nepublifen. Diefer Borzug aber ift ein großer.
+
+Ueberhaupt aber ift die monardifhe Negierungsform bie
+dem Menschen natürlihe; faft fo, wie fie ed den Bienen un
+Ameifen, den reifenden Kranichen, den wandernden Elephanten,
+den zu Raubzügen vereinigten Wölfen und andern Thieren mehr
+ift, welche alle Einen an die Spite ihrer Unternehmung ftelfen.
+Auch muß jede menschliche, mit Gefahr verfnüpfte Unternehmung,
+jeder Heereszug, jedes Schiff, Einem Oberbefehlshaber gehorchen:
+überall muß Ein Wille der Teitende feyn. Sogar der thierische
+
+
+Zur Rechtslehre und Politik, 217
+
+
+Organismus ift monarchisch conftruirt: das Gehirn allein ift der
+Lenker und Negierer, das nysuorızov. Wenn gleich Herz, Runge
+und Magen zum Beftande des Ganzen viel mehr beitragen; fo
+fönnen diefe Spießbürger darum doch wicht Tenfen und leiten:
+Dies ift Sache des Gehirns alfein und muß von Einem Punfte
+ausgehn. Selbft das Planetenfyften ift monarchisch. Hingegen
+ift Das republifanifche Syftem dem Menschen fo widernatürkich,
+wie e8 dem böhern Geiftesieben, alfo Künffen und Wiffenfchaf-
+ten, ungünftig ist. Diefem Allen entiprechend finden wir, auf
+der ganzen Erde und zu alfen Zeiten, die Völfer, fie mögen ci-
+vififirt, oder wild feyn, oder auf den Zwifchenftufen ftehn, alfemal
+wonarchisch regiert. Ueberall ift Einer der König, und feine
+» Würde ift, in der Regel, erblich. Er ift gleichfam die Perfoni-
+- ffation, oder das Monogramm, des ganzen Volkes, welches in
+ihm zur Individualität gelangt: in diefem Sinne fann er fogar
+- mit Recht fagen: Petat e’est moi. ‚Gerade daher fehn wir in
+Shakespeares Hiftorifchen Dramen die Könige von England und
+“ Frankreich sich gegenfeitig France und England, aud den Her-
+zog von Defterreich Austria (K. John IH, 1.) anreden, gleich—
++ fam fih als Inkarnation ihrer Nationalitäten betrachtend. So
+ft es eben der menfchlichen Natur gemäß; und eben deshalb
+: Tann der erbliche Monarch fein und feiner Familie Wohl von
+dem des Landes gar nicht trennen; wie Dies hingegen: beim ge-
+„ wählten meiftens der Fall ist: — man fehe den Kirchenftaat.
+» Republifen aber find widernatürlich, Fünftlid gemacht und aus
+„ der Reflerion entfprungen, fommen daher auch nur als feltene
++ Ausnahmen in der ganzen Weltgeschichte vor, nämlich die Heinen
+griechischen Nepublifen, die römifche und die Farthagifche, welche
+' nn dazu sämmtlich dadurch bedingt waren, daß 3, vielleicht gar
+z, der Bevölferung aus Sflaven beftanden. Hatten doch aud,
+‚ im Jahre 1840, die vereinigten Staaten in Amerifa auf 16
+; Millionen Einwohner 3 Millionen SHaven. Zudem ift- die
+„ Dauer ber Republifen des Alterthums, gegen bie ber Monarchien,
+j fehr kurz gewesen. — Republifen find überhaupt: leicht zur errich-
+„‚ ten, hingegen fehwer zu erhalten: von Monarchien gilt gerade
+das Umgekehrte.
+f Die Fonftitutionellen Könige haben eine unläugbare Aehn-
+} lichkeit mit den Göttern des Epifurog, als welche, ohne sich in
+
+ [S. 218]
+
+
+die menfchlichen Angelegenheiten zu mifchen, in ungeflörter See—
+ligfeit und Gemüthsruhe, da oben in ihrem Himmel figen. Sie
+find nun aber ein Mal jegt Mode geworben, und in jedem beuts
+hen Duodezfürftenthum wird eine Parodie der englifchen Vers
+faffung aufgeführt, ganz komplet, mit Oberhaus und Unterhaus,
+bis auf die habeas corpus Afte und die Jury herab. Aus
+dem englifchen Charakter und englifchen Verhältniffen hervorges
+gangen und Beide vorausfegend find diefe Formen dem engli-
+fchen Bolfe gemäß und natürlich: eben fo aber ift dem beutfchen
+Bolfe fein Getheiltfeyn in viele Stämme, die unter eben fo vie—
+Yen, wirklich regierenden Fürften ftehn, mit einem Kaifer über
+Alle, der den Frieden im Innern wahrt und des Reiches Einheit
+nad außen vertritt, natürlich; weil aug feinem Charakter und
+feinen Berhältniffen hervorgegangen. Die Engländer zeigen ihren
+großen Berftand aud darin, daß fie ihre alten Institutionen,
+Sitten und Gebräude feft und heilig halten, auf die Gefahr bin,
+diese Tenacität zu weit und bie ind Rücherliche zu treiben; weil
+eben jene Dinge nicht in einem müssigen Kopfe ausgehedt, fon=
+dern allmälig aus der Macht der. Umftände und ber Weisheit
+des Lebens felbft erwachfen, und daher ihnen, ald Nation, ange—
+meflen find. Hingegen bat der deutiche Michel fih von feinem
+Schulmeifter einreden lassen, er müfle in einem englifchen Srad
+einhergehn; das schicke fich nicht anders: er hat ihn demnach
+vom Papa ertroßt und fieht nun, mit feinen linkischen Manieren
+und ungelenfem Wesen, lächerlich genug darin aus. Aber der
+Frack wird ihn noch sehr drüden und infommobiren, und zwar zu
+alfernächft durch die Jury, ald welche, aus dem roheften englis
+fhen Mittelalter, den Zeiten Königs Johann, da noch lesen und
+Schreiben fönnen den Menfhen von ber Todeöftrafe eximirte,
+stammend, das fchlechtefte aller Kriminalgerichte ift, wo nämlich,
+ftatt gelehrter und geübter Kriminalrichter, welche unter täglicher
+Entwirrung der von Dieben, Mördern und Gaunern verfuchten
+Schlihe und Finten grau geworben find und fo den Sachen auf
+die Spur zu fommen gelernt haben, nunmehr Gevatter Schneider
+und Handschuhmacher zu Gerichte figen, um mit ihrem plumpen,
+rohen, ungeübten, tölpelhaften, ja, nicht ein Mal einer anhalten-
+ben Aufmerkfamfeit gewohnten Verstande die Wahrheit aus dem
+täuschenden Gewebe des Truges und Scheines herauszufinden,
+
+
+Zur Rechtslehre und Polilif. 249
+
+
+während fie noch obendrein dazwischen an ihr Tuch und ihr Les
+der denfen und fih nad Haufe fehnen, vollends aber vom Un—
+terfehiede zwischen Wahrfcheinlichfeit und Gewißheit durchaus Feis
+nen deutlichen Begriff haben, vielmehr fo eine Art von calculus
+probabilium in ihrem bumpfen Kopfe anftellen, nad welchem
+fie fodann getroft über das Leben Anderer den Stab brechen.
+Aber Die, meint man, würden fo recht unparteiifch feyn. —
+Das malignum vulgus dat Als ob nicht Parteilichfeit zehn
+Mal mehr von den Standes-Gleichen des Beklagten zu befürd-
+ten wäre, als son den ihm völlig fremden, in ganz andern Re—
+gionen lebenden, unabfeßbaren und ihrer Amtsehre sich bewußten
+Krimmalrichtern. Nun aber gar die Verbrechen gegen den Staat
+und fein Oberhaupt, nebft Preßvergehn, von dev Jury richten
+laffen, heißt recht eigentlich den Bod zum Gärtner machen.
+
+
+$. 128.
+
+
+Ueberall und zu allen Zeiten hat es viel Unzufriedenheit
+mit den Regierungen, Gefegen und öffentlihen Ginrichtungen
+gegeben; großentheils aber nur, weil man ftetd bereit ift, diesen
+das Elend zur Laft zu legen, welches dem menfhlihen Dafeyn
+jelbft ungertrennlich anhängt, indem cs, mythisch zu reben, ber
+Fluch it, den Adam empfing, und mit ihm fein ganzes Ge-
+schlecht. Jedoch nie ift jene falfche Vorfpiegelung auf Lügenhafs
+tere und frechere Weise gemacht worden, als von den Demago-
+gen ber „Jetztzeit“. Diefe nämlich find, als Feinde des Chri—
+stenthums, Optimisten: Die Welt ift ihnen „Selbstzweck“ und da—
+ber an fich jelbft, d. h. ihrer natürlichen Beschaffenheit nach, ganz
+vortrefflich eingerichtet, ein vechter Wohnplatz der Glücksäligkeit.
+Die nun hiegegen fchreienden, Folofialen Liebel dev Welt fchrei-
+ben fie gänzlih den Regierungen zu: thäten nämlich nur diefe
+ihre Schuligfeit; fo würde der Himmel’auf Erden eriftiren,
+d. 5. Alle würden ohne Mühe und Noth vollauf. fressen, faufen,
+fih propagiren und frepiren können: denn Dies ift die Para—
+phrafe ihres „Selbstzweck“.
+
+
+$. 199.
+
+
+Weiland war die Hauptflüge des Thrones der Glaube;
+beut zu Tage ift es der Credit. Kaum mag dem Papfte felbft
+
+ [S. 220]
+
+
+das Zutrauen feiner Gläubigen mehr am Herzen liegen, ald das
+feiner Gläubiger. Beklagte man ehemals die Schuld der Welt,
+fo fieht man jest mit Graufen auf die Schulden der Welt und,
+wie ehemals den jüngften Tag, fo prophezeit man jeßt den uni—
+verfellen Staatöbanfrott, jedoch ebenfalls mit der zuverfichtlichen
+Hoffnung, ihn nicht felbft zu erleben.
+
+
+$. 130.
+
+
+Das Recht des Befiges ift zwar ethifch und rationell
+ungleich befler begründet, als das Recht der Geburt; jedoch
+ift es mit diefem verwandt und verwachfen, welches man daher
+schwerlich würde wegfchneiden können, ohne jenes in Gefahr zu
+fegen. Der Grund hievon ift, daß der meifte Befig ererbt, folg-
+lich auch eine Art Geburtsrecht iftz wie denn eben der alte Adel
+auch nur den Namen des Stammgutes führt, alfo durch denfel-
+ben bloß feinen Befis ausdrückt. — Demgemäß follten alle Be—
+figenden, wenn fie, ftatt neidifch zu feyn, Flug wären, auch ber
+Erhaltung der Rechte der Geburt anhängen.
+
+Der Adel als folder gewährt sonach den doppelten Nutzen,
+daß er einerfeits das Recht des Befiges und andrerfeitd dad Ge—
+burtsrecht des Könige zu flügen hilft: denn der König ist der
+erfte Edelmann im Lande, behandelt au, in der Regel, den
+Adligen ald einen geringen Anverwandten und ganz anders, als
+den noch jo hoch betrauten Bürgerlichen. Es ift auch ganz na—
+türlih, daß er mehr Zutrauen zu Denen hat, deren Vorfahren
+meiftend die erften Diener und stets die nächfte Umgebung feiner
+Borfahren gewesen find, Mit Recht beruft deshalb ein Edel-
+mann fi auf feinen Namen, wann er, bei etwan entflehendem
+Verdacht, feinem Könige die Versicherung feiner Treue und Er-
+gebenheit wiederholt. Allerdings ift der Charakter vom Bater
+erblih; wie meinen Lefern befannt if. Bornirt und Yächerlich
+ift es, nicht darauf fehn zu wollen, wessen Sohn Einer ift.
+
+
+$. 131.
+
+
+Ich bin der Meinung, daß die Weiber nie ganz mündig
+werben, fondern ftetd unter wirklicher männlicher Auffiht ftehn
+follten, fei e8 die des Vaters, des Gatten, des Sohnes, ober
+bes Staats, — wie es in Indien ist; daß fie demnach niemals
+
+
+Zur Rechtslehre und Politik. 221
+
+
+über ein Bermögen, welches fie nicht felbft erworben haben, müß-
+ten eigenmächtig verfügen fünnen. Daß hingegen eine Mutter
+fogar beftellter Vormund und Berwalter des väterlichen Erb-
+theils ihrer Kinder werden könne, halte ich für unverzeihliche
+und verberblihe Thorheit. In den allermeiften Fällen wird ein
+folhes Weib das vom Bater der Rinder, und mit ftärfendem
+Hinblick auf fie, durch die Arbeit feines ganzen Lebens Erwor⸗
+bene mit ihrem Buhlen verprassen; gleichviel, ob fie ihn heira-
+thet, oder nicht. Diefe Warnung giebt uns schon Vater Homer:
+
+
+O109« yap, olos Hyuos evı OrnIE00ı Yuyauzos'
+Kevov Bovlereı oıxor oyellsıy, ÖS xev orvion,
+IHladuv de nooregwv xau xovgudioıo yılkoıo
+Ovxerı euren TE3Vn0ToS, ovde werke.
+
+Od. XV, 20.
+
+
+Die wirffiche Mutter wird, nach dem Tode des Mannes, oft zur
+Stiefmutter. Stehn doc überhaupt nur die Stiefmütter in fo
+schlechtem Krebit, der das Wort „stiefmütterlich“ erzeugt hat;
+während von ftiefoäterlich nie die Rede gewesen. Jedenfalls bes
+darf ein Weib ftetd des Vormundes, darf alfo nie Vormund
+feyn. — Auch bin ic) der Meinung, daß, vor Gericht, das Zeug-
+niß eines Weibed, caeteris paribus, weniger Gewicht: haben
+follte, als das eines Mannes; fo daß 3.3. zwei männliche Zeu-
+gen etwan drei, oder gar vier, weibliche aufwögen. Denn ich
+glaube, daß das weibliche Geschlecht, in Maffe genommen, täg-
+lich drei Mal fo viel Fügen in die Luft schickt, als das männ-
+liche, und noch dazu mit einem Anfchein von Wahrhaftigfeit und
+Aufrichtigfeit, den das männliche nie erlangt. Die Mohamme-
+daner freilich exrcediren auf der andern Seite. Ein junger Türfe
+son Bildung fagte ein Mal zu mir: „Wir betrachten dad Weib
+bloß als das Erdreich, darin man dad Samenkorn Iegt. Daher
+ist auch ihre Religion gleichgültig: wir fünnen eine Ehriftin hei:
+tathen, ohne ihre Belehrung zu verlangen”. Auf meine Frage,
+ob die Dermifche verheirathet feien, fagte er: „das verfteht fich
+von selbst: war doch der Prophet verheirathet, und fie dürfen
+nicht heifiger feyn wollen, als dieser“. —
+
+Sollte es nicht beffer feyn, wenn es gar Feine Feiertage
+gäbe, dafür aber fo viel mehr Feierfiunden? Wie wohlthätig
+
+ [S. 222]
+
+
+würden bie 16 Stunden des langweiligen und eben dadurch ger
+fährlihen Sonntags wirken, wenn 12 davon auf alle Tage ber
+Woche vertheilt wären! Zur Religionsübung hätte der Sonntag
+an zweien immer noch genug, und mehr werben berfelben doch
+faft nie gewidmet, noch weniger der anbächtigen Meditation.
+Die Alten hatten auch Feinen wöchentlichen Ruhetag. Freilich
+aber würde es fehr schwer halten, die fo erfauften zwei täglichen
+Mupeftunden den Leuten wirklich zu erhalten und vor Eingriffen
+
+
+zu fihern.
+$. 132.
+
+
+Der ewige Jude Ahasverus ift nichts Anderes, als die Per:
+jonififation des ganzen jüdischen Volks. Weil er an dem Hei-
+land und Welterlöfer fehwer gefrevelt hat, fol er von dem Er:
+denleben und feiner Laft nie erlöft werben und dabei heimathlos
+in der Fremde umberirren. Dies ift ja eben das Bergehn und
+das Schiefal des Fleinen Jüdischen Volkes, welches, wirklich
+wunderfamer Weife, feit bald zwei Taufenb Jahren aus feinem
+Mohnfige vertrieben, noch immer fortbefteht und heimathlos um:
+herirrt; während jo viele große und glorreiche Voͤlker, neben
+welchen eine solche Winfelnation gar nicht zu nennen ift, Assy—
+rer, Meder, Perfer, Phönizier, Aegypter, Hetrurier u. f. w. zur
+ewigen Ruhe eingegangen und gänzlich verschwunden find. So
+ift denn noch heute diefe gens extorris, diefer Johann ohne
+Land unter den Bölkern, auf dem ganzen Erdboden zu finden,
+nirgends zu Haufe und nirgends fremd, behauptet dabei mit bei-
+fpiellofer Hartnädigfeit feine Nationalität, ja, möchte, eingedenf des
+Abraham, der in Kanaan wohnte als ein Fremdling, aber all-
+mälig, wie fein Gott ed ihm verheißen, Herr bes ganzen Lan-
+des ward (1. Mof. 17, 8.), — auch gern irgendwo recht fußen
+und Wurzel fehlagen, um wieder zu einem Lande zu gelangen,
+ohne welches ja ein Bolf ein Ball in der Luft if. — Bis da-
+hin lebt es yparafitifh auf den andern Bölfern und ihrem Bo-
+ben, ift aber dabei nichtöbefloweniger vom Tebhafteften Patriotis-
+mus für die eigene Nation befeelt, den es an den Tag legt
+durch das feftefte Zufammenhalten, wonach Alfe für Einen und
+Einer für Alle ftehn. Ihre Religion, von Haufe aus mit ihrem
+Staate verschmolzen und Eins, ift dabei keineswegs die Haupt»
+
+
+Zur Rechtslehre und BVolttit. 223
+
+
+sache, vielmehr nur das Band, welches fie zufammenhält, ber
+point de raliement und das Felbzeihen, daran fie fich erfen-
+wen. Dies zeigt fich auch daran, daß fogar der getaufte Zube,
+feineswegd, wie doch fonft alle Apoflaten, den Haß und Abfchen
+ber Webrigen auf sich ladet, vielmehr, in der Regel, nicht auf
+hört, Freund und Genofle derfelben, mit Ausnahme einiger Or⸗
+thoboren, zu fern und fie als feine wahren Lanbeleute zu bes
+trachten. Sogar fann, bei dem regelmäßigen und feierlichen Ge:
+bete der Juden, zu welchem zehn vereint feyn müffen, wenn ei-
+ner mangelt, ein getaufter Jude dafür eintreten, jeboch Fein ans
+berer Christ. Dasselbe gilt von allen übrigen religiöfen Hand:
+lungen. Noch deutlicher würde bie Sache hervortreten, wenn
+ein Mal das Chriftentyum ganz in Verfall geriethe und auf:
+hörte; indem alsdann die Juden deshalb nicht aufhören würden
+als Juden gefondert und für fih zu seyn und zufammenzupalten.
+Demnach ift es eine höchft oberflächliche und falfche Anficht, wenn
+man die Juden bloß als Religionssekte betrachtet: wenn aber
+gar, um biefen Irrthum zu begünftigen, das Judenthum, mit
+einem der Ehriftlichen Kirche entlehnten Ausdruck, bezeichnet wirb
+als ‚„‚Züdifche Konfession“; jo if Dies ein grundfalscher, auf
+das Irreleiten abfichtlich berechneter Ausdruck, der gar nicht ges
+fattet seyn follte. Vielmehr ift „Jüdische Nation” das Richtige.
+Die Juden haben gar feine Konfeffion: der Monotheismus ge-
+hört zu ihrer Nationalität und Staatöverfaffung und verfteht fich
+bei ihnen von selbst. Ja, wohlverftanden, find Monotheismug
+und Judenthum Wechlelbegriffe. — Daß die dem Nationalcha⸗
+vafter der Juden anhängenden, befannten Fehler, worunter eine
+wunderfame Abwesenheit alles Defien, was dad Wort verecun-
+dia ausdrüdt, der hervorftechendefte, wenn gleich ein Mangel ift,
+der in ber Welt befler weiter Hilft, als vielleicht irgend eine po-
+fitive Eigenfchaft; daß, fage ich, diefe Fehler Hauptfächlich dem
+langen und ungerecdhten Drude, den fie erlitten haben, zuzuschrei⸗
+ben find, entschuldigt foldhe zwar, aber hebt fie nicht auf. Den
+vernünftigen Zuben, welder, alte Fabeln, Flaufen und Vorur⸗
+teile aufgebend, durch die Taufe, aus einer Genossenschaft her-
+austritt, die ihm weder Ehre, noch Bortheil bringt (wenn auch
+in Ausnahmefällen Leuteres vorfommt), muß ich durchaus loben,
+selbst wenn es ihm mit dem christlichen Glauben fein großer
+
+
+22a Zur Rechisichre und Politif.
+
+
+Ernft feyn follte: ist es denn ein solcher jedem jungen Chriften,
+der bei der Konfirmation fein Credo herfagt? Um ihm jedoch
+auch diefen Schritt zu erfparen und auf die fanftefte Art von
+ber Welt dem ganzen tragifomifchen Unwesen ein Ende zu ma-
+chen, ift gewiß das befte Mittel, daß man die Ehe zwifchen Ju:
+den und Chriften geftatte, ja, begünftige;, wogegen die Kirche
+nichts einwenden fann, da ed die Auftorität des Apostels felbft
+für fih hat (1. Cor. 7, 12— 16). Dann wird es über 100
+Sahre nur noch fehr wenige Juden geben, und bald darauf dad
+Gefpenft ganz gebannt, der Ahasverus begraben feyn. Jedoch
+wird dieses wünschenswerthe Refultat vereitelt werden, wenn
+man die Emancipation der Zuben fo weit treibt, daß fie Staats:
+rechte, also Theilnahme an der Verwaltung und Negierung chrift:
+licher Länder erhalten; Denn alsdann werden fie erft recht con
+amore Juden feyn :und bleiben. Daß fie mit Andern gleiche
+bürgerlihe Rechte genießen, heifcht die Gerechtigkeit: aber ihnen
+Antheil am Staat einzuräumen, ift abfurd: fie find und bleiben
+ein fremdes, orientalisches Volk, müffen daher ftets nur als an-
+fäffige. Fremde gelten. Als, vor ungefähr 25 Jahren, im engli-
+schen Parlament, die Zudenemanecipation bebattirt wurde, ftellte
+ein Redner folgenden hypothetischen Fall auf: ein englifcher Jude
+fommt nach Liffabon,. wofelbft er zwei Männer in äußerfter Noth
+und Bedrängniß antrifft, jedoch fo, daß es in feine Macht ge-
+geben ift, einen von ihnen zu retten. Perfönlich find ihm beide
+fremd. Jedoch ift der eine ein Engländer, aber ein Christ; der
+andere ein Portugiefe, aber ein Zube. Wen wird er reiten? —
+Sch glaube, daß Fein einfichtiger Chrift und Fein aufrichtiger Jude
+über die Antwort im Zweifel feyn wird. Sie aber giebt den
+Maaßstab für die den Juden einzuräumenden Rechte.
+
+
+$. 133.
+
+
+Bei feiner Angelegenheit greift die Religion fo unmittelbar
+und augenfällig in das praftiiche und ‚materielle Leben ein, wie
+beim Eide. Es ist fhlimm genug, daß dadurch Leben und Ei-
+genthbum des Einen von den metaphysischen Ueberzeugungen des
+Andern abhängig gemacht werden. Wenn nun aber gar dereinft,
+wie doch zu beforgen ftcht, die Religionen füämmtlih in Verfall
+geratben und aller Glaube aufhören follte; wie wirb es dann
+
+
+Zur Rechtslehre und Politik. 225
+
+
+mit dem Eide stehn? — Daher ift ed wohl der Mühe werth,
+zu unterfuchen, ob es nicht eine rein moralifche, von allem po—
+fitiven Glauben unabhängige und doch auf deutliche Begriffe zu
+bringende Bedeutung des Eides gebe, welche, als ein Allerhei⸗
+figftes aus reinem Golde, jenen univerfellen Kirchenbrand übers
+ftehn könnte; wenn gleich biefelbe, neben dem Pomp und ber
+Kraftsprache des religiöfen Eides, sich etwas kahl und nüchtern
+ausnehmen follte,
+
+Der unbeftrittene Zwed des Eides ift, der nur zu häufigen
+Falschheit und Lügenhaftigfeit des Menfchen auf bloß morali-
+schem Wege zu begegnen, dadurch, daß man bie von ihm aners
+fannte moralifhe Verpflichtung, die Wahrheit zu fagen, durch
+irgend eine außerordentliche, bier eintretende Rücksicht erhöht,
+ihm lebhaft zum Bewußtfeyn bringt. Den rein moralifchen, von
+allem Trandfeendenten und Mythischen freien Sinn einer folchen
+Hervorhebung jener Pflicht will ich verfuchen, gemäß meiner
+Eihif, deutlich zu machen.
+
+Ich Habe, in meinem Hauptwerf, B. 1, $. 62, ©. 384
+und ausführlicher in der Preischrift über das Fundament der
+Moral $. 17, S. 221 — 230 den paraboren, jeboch wahren
+Satz, daß in gewissen Fällen dem Menschen ein Recht zu Tür
+gen zuftehe, aufgeftellt und denselben mittelft einer burchgeführ-
+ten Erläuterung und Begründung geftügt. Jene Fälle waren
+erilih Die, wo er das Recht hätte, Gewalt gegen Andere zu
+gebrauchen, und zweitens Die, wo völlig unbefugte Fragen an
+ihn gerichtet werben, die dabei fo bejchaffen find, daß er eben
+jo wohl durch Ablehnen der Beantwortung, als durch das aufs
+richtige Ertheilen berfelben, fein Interesse gefährden würde.
+Eben weil, in. dergleihen Fällen, eine Berechtigung zur Ins
+wahrheit unftreitig Statt findet, bedarf es, in wichtigen Anges
+legenheiten, deren Entfcheidung von der Auflage eines Menfchen
+abhängig wird, wie auch bei VBerfprechungen, deren Erfüllung
+von großer Wichtigkeit ift, zunächft der ausdrücklichen und feier:
+fihen Erklärung defielben, daß er die befagten Fälle als hier
+nicht vorhanden anerfenne, also wifle und einfehe, daß ihm bier
+feine Gewalt geichieht, oder gedroht wird, fondern bloß das
+Recht waltet, und gleichfalls, daß er die ihm vorgelegte Frage
+als eine wohl befugte anerfenne, endlich auch, dag ihm bewußt
+
+II. 15
+
+ [S. 226]
+
+
+sei, was Alles von feiner gegenwärtigen Aussage über dieselbe
+abhänge. Diefe Erklärung fließt in fih, dag, wenn er unter
+folhen Umftänden lügt, er mit deutlichem Bewußtseyn ein schwe⸗
+res Unrecht begeht, indem er jetzt dafteht ald Einer, dem man,
+im Vertrauen auf feine Neblichfeit, volle Gewalt für diesen
+Fall in die Hände gegeben hat, die er zum Unrechte, wie zum
+Rechte gebrauchen kann. Wenn er jest lügt; fo trägt er das
+flare Bewußtfeyn davon, daß er Einer fei, der, wenn er freie
+Gewalt hat, fie, bei ruhigfter Ueberlegung, zum Unrechte ge=
+braudt. Died Zeugnig über ihn felbft giebt ihm ber Meineid.
+Hieran nun aber fnüpft sich der Umstand, daß, weil Fein Mensch
+ohne das Bebürfniß irgend einer Metaphysik ift, aud) jeder bie,
+wenn gleich undeutliche, Leberzeugung in fi) trägt, daß bie
+Welt nicht bloß eine physische Bedeutung habe, fondern zugleich
+irgend wie eine metaphysische, und fogar auch, daß, in Bezug
+auf solche, unfer individuelles Handeln, feiner bloßen Moralität
+nad), noch ganz anderartige und viel wichtigere Folgen habe,
+als ihm vermöge feiner empirischen Wirksamkeit zufomme, und
+sonach wirklich von transfcendenter Bedeutfamfeit fei. Hierüber
+verweife ih auf meine Preisichrift über das Fundament ber
+Moral $. 21, und füge nur hinzu, daß ber Mensch, welder
+feinem eigenen Handeln jebe andere, ald die empirifche Bedeut⸗
+famfeit, abfpricht, diefe Behauptung nie ohne innern Wiber-
+spruch dagegen zu jpüren und Selbftjwang zu üben aufftellen
+wird. Die Aufforderung zum Eide ftellt nun den Menfchen
+ausdrüdiih auf den Standpunkt, wo er fih, in diefem Sinne,
+als blog moralifches Wefen, und mit Bewußtseyn der hoben
+Wichtigkeit für ihn felbft feiner in dieser Eigenfchaft gegebenen
+Enticheidungen anzufehn hat, wodurch jest bei ihm alle andern
+Rücksichten zufammenfhrumpfen follen, bis zum gänzlichen Ver⸗
+schwinden. — Hiebei nun ift es unmefentlich, ob die alfo in
+Anregung gebrachte Ueberzeugung, von einer metaphpfiichen und
+zugleich moraliihen Bebentung unsers Dafeyns, bloß dumpf ges
+fühlt, oder in allerlei Mythen und Fabeln gekleidet und dadurch
+belebt, oder aber zur Klarheit des philofophifchen Denfens ge-
+bracht sei; woraus wieber folgt, daß es im Wefentlichen nicht
+darauf anfommt, ob die Eidesformel diese, oder jene mytholo⸗
+gische Beziehung ausdrüde, oder aber ganz abftraft fei, wie das
+
+
+Zur Rechislehre und Bolitif, 227
+
+
+in Frankreich gebräuchliche je le jure. Die Formel müßte nad
+bem Grabe ber intellektuellen Bildung des Schwörenden gewählt
+werben; wie man fie ja auch je nach feinem pofitiven Glauben
+verfchieden auswählt. Die Sache fo betrachtet, Fünnte fogar
+Einer, der fi zu Feiner Religion befennte, sehr wohl zum Eide
+gelaffen werden.

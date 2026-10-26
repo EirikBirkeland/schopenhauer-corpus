@@ -1,0 +1,1236 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a readable scan whose display headings are garbled
+# title: Skizze einer Geschichte der Lehre vom Idealen und Realen (in: Parerga und Paralipomena, Erster Band)
+# title_en: Sketch of a history of the doctrine of the ideal and the real - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Erster Band, Berlin: A. W. Hayn 1851, S. 3-28; the volume's preface is signed "Frankfurt a. M., im December 1850". Text layer: Internet Archive 10927137, scored READABLE (14 common words per hundred, und 4,366, unb 0, long s 31,774). SEAMS BY INTERPOLATION, and the file header says so: the display headings of this copy are garbled, so boundaries were fixed by measuring the running heads (page number with the piece's name) and interpolating between the nearest; a paragraph or two may therefore stand on the wrong side of a seam. Page markers were made only from heads that give a number and name the piece.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/10927137
+# fetched: 2026-10-26
+# note: ADDED IN PASS 14, which finally opened the FIRST band of 1851 - the five pieces the collection had never held in German, the Aphorismen (file 04) being the exception. Opening as the copy gives it: "Cartesius gilt deshalb mit Recht fuer den Vater der neuern Philosophie, weil er zuerst sich das Problem zum Bewusstsein gebracht hat... das Problem vom Idealen und Realen, d. h. die Frage, was in unserer Erkenntniss objektiv und was darin subjectiv sei" - and under the motto the print sets over it, "Multi pertransibunt, et augebitur scientia" (Daniel 12, 4). This is his whole history of epistemology in twenty-six pages, and the piece to quote when the question is what he thought philosophy's one problem was. OCR warning as elsewhere in this scan: f for the long s, and letters mangled ("Philoſophi" for "Philosophie"), so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: the FIRST band of Parerga und Paralipomena, Berlin: A. W. Hayn 1851, from the Internet Archive scan 10927137, whose body is READABLE (bin/ia-read.js: 14 common words per hundred, und 4,366, unb 0, long s kept 31,774 times) but whose DISPLAY HEADINGS are garbled. So the seams of these pieces were fixed from the running heads rather than the headings: every head that gives a page number and names one of the pieces was measured (page and offset), and a boundary was taken by interpolating between the two nearest measured heads. THE ERROR IS NAMED, not hidden: a paragraph or two may stand on the wrong side of a seam, and where the volume's own table of contents says a piece begins, that page is quoted in this header so the reader can see what was aimed at. This piece stands on pages 3-28 by that table of contents, under the motto Multi pertransibunt, et augebitur scientia (Daniel 12, 4). Page markers in this file were made only from heads that give a number and name the piece (5 made, S. 11 to S. 19). Short OCR noise lines dropped (94); long s normalised to s (1908); and this layer prints f for the long s in places, so read a quotation against the scan (bin/schop-grep.js -f folds it). It also mixes stray words in now and then - the copy has English leaves bound with it - and it mangles letters ("Philoſophi" for "Philosophie", "Geifterfehn" for "Geistersehn"), so a query in correct modern spelling can return nothing. his history of the one problem he thinks worth having - what in our knowledge is objective and what subjective - told from Descartes to Schelling, with the professors' way of writing history of philosophy taken down along the way.]
+
+Skitze einer Geschichte
+der
+
+
+Lehre vom Idealen und Realen.
+
+
+Multi pertransibunt, et augebitur scientia.
+
+
+ee einer Befdhirhte
+Lehre vom Idealen und Nealen.
+
+
+Cartesius gilt deshalb mit Recht für den Vater der neuern
+
+ilosophie, weil er zuerst sich das Problem zum Bewußtseyn
+gebracht hat, um welches seitdem alles Philosophiren sich haupt⸗
+sächlich dreht: das Problem vom Idealen und Realen, d. h.
+die Frage, was in unserer Erkenntniß objektiv und was darin
+subjektiv sei, also was darin etwanigen, von uns verschiede⸗
+nen Dingen, und was uns selber zuzuschreiben sei. — In un⸗
+
+
+der Willkür, oder dem Gedankenzusammenhange ausgehenden,
+=: folglich auf äußern Anlaß, Bilder. Diese Bilder allein sind
+is uns unmittelbar Bekannte, das Gegebene. Welches Ver⸗
+ältnif mögen sie haben zu Dingen, die völlig gesondert und
+unabhängig. von uns existirten und irgendwie Ursache dieser Bil⸗
+der würden! Haben wir Gewißheit, daß überhaupt solche Dinge
+nur dasind? und geben, in diesem Fall, die Bilder uns auch über
+deren Beschaffenheit Aufschluß? — Dies ist das Problem, und
+in Folge desselben ist, seit 200 Jahren, das Hauptbestreben der
+n, das Ideale, d. h. Das, was unserer Erkenntniß
+= als solcher angehört, von dem Realen, d. h. dem
+jängig von ihr Vorhandenen, rein zu sondern, durch einen
+er rechten Linie wohlgeführten Schnitt, und so das Baan
+17 Beider zu einander festzustellen.
+N f scheinen weder die Philosophen des Alterthums,
+noch auch die Scholastiker, zu einem deutlichen Bewußtseyn die⸗
+ses philosophischen Urproblems gekommen zu seyn; wiewohl sich
+Spur davon, als Idealismus, ja auch als Lehre von der
+ät der Zeit, im Plotinos findet, und zwar Einneas III,
+
+
+serm Kopfe nämlich entstehen, nicht auf innern, — etwan von
+
+
+4 Skitze einer Geschichte
+
+
+lib. 7. c. 10, woselbst er lehrt, die Seele habe die Welt ge⸗
+macht, indem sie aus der Ewigkeit in die Zeit getreten sei. Da
+heißt es z. B. ov yap rig avsov zovrov Tov aVvog Tonog, 7
+Yvyy. (neque datur alius hujus universi locus, quam anima.)
+wie auch: del de oux eEwIev ung Hπν ]π1¾s˙ꝛ¶ Aaußavsıy cov xg0voV,
+song ovds Tov amva ent m Tov ovros. (oportet autem
+nequaquam extra animam tempus aceipere, quemadmodum
+neque aeternitatem ibi extra id, quod ens appellatur.);
+womit eigentlich schon Kants Idealität der Zeit ausgesprochen
+ist. Und im folgenden Kapitel: ooͤrog 6 og roy " 1g0v0v peng
+dio Nc eU, due ve To nayrı yeyovevaı, OT yon ανẽ
+gignit: quamobrem dietum est, tempus simul cum hoc uni-
+
+
+verso factum esse; quia anima tempus una cum hoc uni-
+
+
+verso progenuit). Dennoch bleibt das deutlich erkannte und deutlich
+ausgesprochene Problem das charakteristische Thema der neuern
+Philosophie, nachdem die hierzu nöthige Besonnenheit im Car⸗
+tesius zuerst erwacht war, als welcher ergriffen wurde von der
+Wahrheit, daß wir zunächst auf unser eigenes Bewußtseyn be⸗
+schränkt sind und die Welt uns allein als Vorstellung gege⸗
+ben ist: durch fein bekanntes dubito, cogito, ergo sum wollte
+er das allein Gewisse des subjektiven Bewußtseyns, im Gegen⸗
+
+
+satz des Problematischen alles Uebrigen, hervorheben. Er also
+
+
+deckte die Kluft auf, welche zwischen dem Subjektiven, oder Idea⸗
+len, und dem Objektiven, oder Realen, liegt. Diese Einsicht klei⸗
+dete er ein in den Zweifel an der Existenz der Außenwelt: al⸗
+lein durch seinen dürftigen Ausweg aus diesem, — daß nämlich
+
+
+der liebe Gott uns doch wohl nicht betrügen werde, — zeigte
+er, wie tief und schwer zu lösen das Problem sei. Inzwischen
+
+
+war durch ihn dieser Skrupel in die Philosophie gekommen und
+mußte fortfahren beunruhigend zu wirken, bis zu seiner gründ⸗
+lichen Erledigung. Das Bewußtseyn, daß ohne gründliche Kennt⸗
+niß und Aufklärung des dargelegten Unterschiedes kein sicheres
+und genügendes System möglich sei, war von Dem an vorhan⸗
+den, und die Frage konnte nicht mehr abgewiesen werden.
+Sie zu erledigen, erdachte zunächst Malebranche das System
+der gelegentlichen Ursachen. Er faßte das Problem selbst, in seinem
+ganzen Umfange, deutlicher, ernstlicher, tiefer auf, als Carte⸗
+
+
+der Lehre vom Idealen und Realen. 8
+
+
+sius. (Recherches de la verite, livre III, seconde par-
+tie.) Dieser hatte die Realität der Aussenwelt auf den Kredit
+Gottes angenommen; wobei es sich freilich wunderlich ausnimmt,
+daß, während die andern theistischen Philosophen aus der Existenz
+der Welt die Existenz Gottes zu erweisen bemüht sind, Carte⸗
+sius umgekehrt erst aus der Existenz und Wahrhaftigkeit Gottes die
+Existenz der Welt beweist: es ist der umgekehrte kosmologische Be⸗
+weis. Auch hierin einen Schritt weiter gehend, lehrt Male⸗
+branche, daß wir alle Dinge unmittelbar in Gott selbst sehn.
+Dies heißt freilich ein Unbekanntes durch ein noch Unbekannteres
+erklären. Ueberdies sehen wir, nach ihm, nicht nur alle Dinge in
+Gott; sondern dieser ist auch das allein Wirkende in denselben,
+so daß die physischen Ursachen es bloß scheinbar, blosse causes
+occasionelles sind. (Rech. d. 1. ver. liv. VI. seconde par-
+tie, oh. 3). So haben wir denn schon hier im Wesentlichen
+den Pantheismus des Spinoza, der mehr von Malebranche
+als von Cartesius gelernt zu haben scheint.
+Uueberhaupt könnte man sich wundern, daß nicht schon im
+17. Jahrhundert der Pantheismus einen vollständigen Sieg über
+den Theismus davon getragen hat; da die originellsten, schön⸗
+sten und gründlichsten Europäischen Darftellungen desselben (denn
+gegen die Upanischaden der Veden gehalten ist freilich das Alles
+nichts) sämmtlich in jenem Zeitraum ans Licht traten: nämlich
+durch Bruno, Malebranche, Spinoza und Skotus Eri⸗
+gena, welcher Letztere, nachdem er viele Jahrhunderte hindurch
+vergessen und verloren gewesen war, zu Orford wiedergefunden
+wurde und 1681, also 4 Jahre nach Spinoza's Tode, zum er⸗
+fen Male gedruckt, an's Licht trat. Dies scheint zu beweisen,
+daß die Einsicht Einzelner sich nicht geltend machen kann, fo
+lange der Geist der Zeit nicht reif ist, sie aufzunehmen; wie
+eils in unsern Tagen der Pantheismus, obzwar nur
+eklektischen und konfusen Schellingischen Auffrischung dar⸗
+t, zur herrschenden Denkungsart der Gelehrten und selbst
+der ten geworden ist; weil nämlich Kant mit der Besie⸗
+N des theistischen Dogmatismus vorangegangen war und
+Platz gemacht hatte, wodurch der Geist der Zeit auf ihn
+war, wie ein gepflügtes Feld auf die Saat. Im
+ndert hingegen verließ die Philosophie wieder jenen
+
+
+6 Stitze einer Geschichte
+
+
+Weg und gelangte danach einerseits zu Locke, dem Bako und
+Hobbes vorgearbeitet hatten, und anderseits, durch Leibnitz, zu
+Christian Wolf: diese Beiden herrschten sodann, im 18. Jahr⸗
+hundert, vorzüglich in Deutschland, wenn gleich zuletzt nur noch
+sofern sie in den synkretistischen Eklektismus aufgenommen wor⸗
+den waren. N None
+Des Malebranche tiefsinnige Gedanken aber scheinen
+
+
+den nächsten Anlaß gegeben zu haben zu Leibnitzens System
+
+
+der harmonia praestabilita, dessen zu seiner Zeit ausgebreiteter
+Ruhm und hohes Ansehn einen Beleg dazu giebt, daß das Ab⸗
+surde am leichtesten in der Welt Glück macht. Obgleich ich mich
+nicht rühmen kann, von Leibnitzens Monaden, die zugleich ma⸗
+thematische Punkte, körperliche Atome und Seelen sind, eine
+deutliche Vorstellung zu haben; so scheint mir doch soviel außer
+Zweifel, daß eine solche Annahme, wenn ein Mal festgestellt,
+dazu dienen könnte, alle ferneren Hypothesen zur Erklärung des
+Zusammenhangs zwischen Idealem und Realem sich zu ersparen
+und die Frage dadurch abzufertigen, daß Beide schon in den
+Monaden völlig identisizirt seien, (weshalb auch in unsern Ta:
+gen Schelling, als Urheber des Identitäts systems, sich wieder
+daran geletzt hat). Dennoch hat es dem berühmten philosophi⸗
+renden Mathematikus, Polyhistor und Politikus nicht gefallen, sie
+dazu zu benutzen; sondern er hat, zum letzteren Zweck, eigens
+die prästabilirte Harmonie ersonnen. Diese nun liefert uns zwei
+gänzlich verschiedene Welten, jede unfähig, auf die andere irgend
+zu wirken (prinoipia philos,. H. 84. und examen du senti-
+ment du P. Malebranche, p. 500 8d. der Oeuvres de Leibnitz,
+publ. p. Raspe), jede die völlig überflüssige Doublette der an⸗
+dern, welche nun aber doch ein Mal beide daseyn, genau einan⸗
+der parallel laufen und auf ein Haar mit einander Takt halten
+sollen; daher der Urheber beider, gleich Anfangs, die genaueste
+Harmonie zwischen ihnen stabilirt hat, in welcher sie nun schön⸗
+stens neben einander fortlaufen. Hierbei hat Leibnitz die blosse
+Thatsache, welche das Problem ausmacht, daß nämlich die Welt
+
+
+uns unmittelbar bloß als unsere Vorstellung gegeben ist, schon
+
+
+verlassen, um ihr das Dogma von einer Körperwelt und einer
+
+
+Geisterwelt, zwischen denen keine Brücke möglich sei, zu substi⸗
+
+
+tuiren; indem er die Frage nach dem Verhältniß der Vorstel⸗
+
+
+der Lehre vom Idealen und Realen. 7
+
+
+lungen zu den Dingen an sich selbst zusammenflicht mit der nach
+der Möglichkeit der Bewegungen des Leibes durch den Willen,
+und nun beide zusammen auflöst, durch feine harmonia prae-
+stabilita (Brucker hist. pl. Tom IV. P. II, p. 425). Die
+monstrose Absurdität seiner Annahme wurde schon durch einige
+seiner Zeitgenossen, besonders Bayle, mittelst Darlegung der
+daraus fließenden Konsequenzen, ins hellste Licht gestellt. (Siehe,
+in Leibnitzens kleinen Schriften, übersetzt von Huth anno 1740,
+die Anmerkung zu S. 79, in welcher Leibnitz selbst die empö⸗
+renden Folgen seiner Behauptung darzulegen sich genöthigt sieht.)
+Jedoch beweist gerade die Absurdität der Annahme, zu der ein
+denkender Kopf, durch das vorliegende Problem, getrieben wurde,
+die Größe, die Schwierigkeit, die Perplexität desselben und wie
+wenig man es durch blosses Wegläugnen, wie in unsern Ta⸗
+
+
+gen gewagt worden ist, waage und so den Knoten zerhauen
+
+
+ann
+Spinoza geht wieder unmittelbar vom Cartesius aus: da⸗
+
+
+her behielt er Anfangs, als Cartesianer auftretend, sogar den Dua⸗
+
+
+lismus feines Lehrers bei, setzte demnach eine substantia cogitans
+und eine substantia extensa, jene als Subjekt, diese als Objekt
+der Erkenntniß. Später hingegen, als er auf eigenen Füßen stand,
+fand er, daß beide eine und dieselbe Substanz wären, von ver⸗
+schiedenen Seiten angesehn, also Ein Mal als substantia extensa,
+das andere als substantia cogitans aufgefaßt. Dies heißt nun
+eigentlich, daß die Unterscheidung von Denkendem und Ausgedehn⸗
+tem, oder Geist und Körper, eine ungegründete, also unstatthafte
+. weiter von ihr hätte geredet werden sollen.
+Allein er behält sie insofern immer noch bei, als er unermüdlich
+Beide Eins seien. Hieran knüpft er nun noch,
+2 etiam, daß modus extensionis et iden
+modi una eädemque est res (Eth. P. II. prop. 7
+
+
+fr womit gemeint ist, daß unsere Vorstellung von Körpern
+
+
+und diese Körper selbst Eins und Dasselbe seien. Hierzu ist
+jedoch das Sie etiam ein ungenügender Uebergang: denn dar⸗
+ans, daß der Unterschied zwischen Geist und Körper oder zwi⸗
+schen dem Vorstellenden und dem Aus gedehnten, ungegründet ist,
+
+
+5 ed „daß der Unterschied zwischen unserer Vorstel⸗
+ung und einem außerhalb derselben vorhandenen Objeltiven und
+
+
+8 Skitze einer Geschichte
+
+
+Realen, dieses von Cartesius aufgeworfene Ur⸗Problem, auch
+ungegründet sei. Das Vorstellende und das Vorgestellte mögen
+immerhin gleichartig seyn; so bleibt dennoch die Frage, ob aus
+Vorstellungen in meinem Kopf auf das Daseyn von mir verschie⸗
+dener, an sich selbst, d. h. unabhängig davon, existirender Wesen
+sicher zu schließen sei. Die Schwierigkeit ist nicht die, wozu
+vorzüglich Leibnitz sie verdrehen möchte, daß zwischen den an⸗
+genommenen Seelen und der Körperwelt, als zweien ganz he⸗
+terogenen Arten von Substanzen, gar keine Einwirkung und
+Gemeinschaft Statt haben könne, weshalb er den physischen Ein⸗
+fluß leugnete: denn diese Schwierigkeit ist bloß eine Folge der
+rationalen Psychologie, braucht also nur, wie von Spinoza ge⸗
+schieht, als eine Fiktion bei Seite geschoben zu werden: und
+überdies ist gegen die Behaupter derselben, als argumentum ad
+hominem, ihr Dogma geltend zu machen, daß ja Gott, der doch
+ein Geist sei, die Körper⸗Welt geschaffen habe und fortwährend
+regiere, also ein Geist unmittelbar auf Körper wirken könne.
+Vielmehr ist und bleibt die Schwierigkeit bloß die Cartesianische,
+daß die Welt, welche allein uns unmittelbar gegeben ist, schlech⸗
+terdings nur eine ideale, d. h. aus blossen Vorstellungen in un⸗
+serm Kopf bestehende ist; während wir, über diese hinaus, von
+einer realen, d. h. von unserm Vorstellen unabhängig daseienden
+Welt zu urtheilen unternehmen. Dieses Problem also hat Spi⸗
+noza, dadurch daß er den Unterschied zwischen substantia co-
+gitans und substantia extensa aufhebt, noch nicht gelöst, son⸗
+dern allenfalls den physischen Einfluß jetzt wieder zulässig gemacht.
+Dieser aber taugt doch nicht, die Schwierigkeit zu lösen: denn
+das Gesetz der Kausalität ist erwiesenermaassen subjektiven Ur⸗
+sprungs; aber auch wenn es umgekehrt aus der äußern Erfah⸗
+rung stammte, dann würde es eben mit zu jener in Frage ge⸗
+ftellten, uns bloß ideell gegebenen Welt gehören; fo daß es kei⸗
+nen Falls eine Brücke zwischen dem absolut Objektiven und dem
+Subjektiven abgeben kann, vielmehr bloß das Band ist, welches
+die Erscheinungen unter einander verknüpft. 1 Pr als
+
+Um jedoch die oben angeführte Odentität der Ausdehnung
+und der Vorstellung von ihr näher zu erklären, stellt Spinoza
+etwas auf, welches die Ansicht des Malebranche und die des
+
+
+der Lehre vom Idealen und Realen. 9
+
+
+Leibnitz zugleich in sich faßt. Ganz gemäß nämlich dem Ma⸗
+lebranche, sehen wir alle Dinge in Gott: rerum singularium
+ideae non ipsa ideata, sive res perceptas, pro causa ag-
+noscunt, sed ipsum Deum, quatenus est res cogitans.
+Eth. P. II, pr. 5; und dieser Gott ist auch zugleich das Reale
+| und Wirkende in ihnen, eben wie bei Malebranche. Da je:
+doch Spinoza mit dem Namen Deus die Welt bezeichnet; so
+N ist dadurch am Ende nichts erklärt. Zugleich nun aber ist bei
+9 ihm, wie bei Leibnitz, ein genauer Parallelismus zwischen der
+| ausgedehnten und der vorgeftellten Welt: ordo et comnexio
+idearum idem est, ac ordo et connexio rerum. P. II. pr.
+7. und viele ähnliche Stellen. Dies ift die harmonia prae-
+stabilita des Leibnitz; nur daß hier nicht, wie bei diesem, die
+vorgestellte und die objektiv seiende Welt völlig getrennt bleiben,
+bloß vermöge einer zum voraus und von außen regulirten har-
+monia einander entsprechend; sondern wirklich Eines und Dasselbe
+sind. Wir haben hier also zuvörderst einen gänzlichen Realis⸗
+mus, sofern das Daseyn der Dinge ihrer Vorstellung in uns
+ganz genau entspricht, indem ja Beide Eins find; demnach er⸗
+kennen wir die Dinge an sich: fie find an sich selbst extensa,
+wie sie auch, sofern fie als cogitata auftreten, d. h. in unsrer
+Vorstellung von ihnen, sich als extensa darstellen. (Beiläusig
+bemerkt, ist hier der Ursprung der Schellingischen Identität des
+Realen und Idealen). Begründet wird nun alles Dieses eigent⸗
+lich nur durch blosse Behauptung. Die Darftellung At schon
+durch die Zweideutigkeit des in einem ganz uneigentlichen Sinne
+gebrauchten Wortes Deus, und auch noch ausserdem, undeutlich;
+daher er sich in Dunkelheit verliert und es am Ende heißt:
+nee impraesentiarum haec clarius possum explicare. Un-
+deutlichkeit der Darstellung entspringt aber immer aus Undeut⸗
+lichkeit des eigenen Verstehens und Durchdenkens der Philoso⸗
+eme. Was in der Musik der „reine Satz“, das ist in der
+Philosophie die vollkommene Deutlichkeit, sofern fie die conditio
+sine qua non ist, ohne deren Erfüllung Alles seinen Werth
+verliert und wir sagen müssen: quodeunque ostendis mihi sie
+ineredulus odi. Muß man doch sogar in Angelegenheiten des
+gewöhnlichen, praktischen Lebens sorgfältig, durch Deutlichkeit,
+* moglichen Mißverständnissen vorbeugen; wie denn sollte man im
+
+
+10 Stise einer Geschichte
+
+
+schwierigsten, abstrusesten, kaum erreichbaren Gegenstande des
+Denkens, den Aufgaben der Philosophie, sich unbestimmt, ja räth⸗
+selhaft ausdrücken dürfen? Die gerügte Dunkelheit in der Lehre
+des Spinoza entspringt daraus, daß er nicht, unbefangen, von
+der Natur der Dinge, wie sie vorliegt, ausging, sondern vom
+Cartesianismus, und demnach von allerlei überkommenen Begrif⸗
+
+
+fen, wie Deus, substantia, perfectio ete;, die er nun, durch
+
+
+Umwege, mit seiner Wahrheit in Einklang zu setzen bemüht
+
+
+war. Hinsichtlich des Verhältnisses der Lehre Spinoza's zu der
+
+
+des Cartesius erinnere ich hier an Das, was ich in der „Welt
+als W. und V.,“ Bd. 2. S. 639, darüber gesagt habe. Aber
+durch jenes Ausgehn von den Begriffen der Cartesianischen Phi⸗
+losophie ist nicht nur viel Dunkelheit und Anlaß zum Mißver⸗
+stehn in die Darstellung des Spinoza gekommen; sondern er ist
+dadurch auch in viele schreiende Paradoxien, offenbare Falschhei⸗
+ten, ja Absurditäten und Widersprüche gerathen, wodurch das
+viele Wahre und Vortreffliche seiner Lehre eine höchst unange⸗
+nehme Beimischung von schlechterdings Unverdaulichem erhalten
+hat und der Leser zwischen Bewunderung nnd Verdruß hin und
+her geworfen wird. In der hier zu betrachtenden Rücksicht aber ist
+der Grundfehler des Spinoza, daß er die Durchschnittslinie zwischen
+dem Idealen und Realen, oder der subjektiven und objektiven Welt,
+vom unrechten Punkte aus gezogen hat. Die Ausdehnung
+
+
+nämlich ist keineswegs der Gegensatz der Vorstellung, sondern
+
+
+liegt ganz innerhalb dieser. Als ausgedehnt stellen wir die
+Dinge vor, und sofern sie ausgedehnt sind, sind sie unsere Vor⸗
+stellung: ob aber, unabhängig von unserm Vorstellen, irgend
+etwas ausgedehnt, ja überhaupt irgend etwas vorhanden sei, ist
+die Frage und das ursprüngliche Problem. Dieses wurde spä⸗
+ter, durch Kant, soweit unleugbar richtig, gelöst, daß die Aus⸗
+dehnung, oder Räumlichkeit, einzig und allein in der Vorstellung
+liege, also dieser anhänge, indem der ganze Raum die blosse
+Form derselben sei; wonach denn unabhängig von unserm Vor⸗
+stellen kein Ausgedehntes vorhanden seyn kann, und auch ganz
+gewiß nicht ist. Die Durchschnittslinie des Spinoza ist demnach
+ganz in die ideale Seite gefallen und er ist bei der vorgestell⸗
+ten Welt stehn geblieben: diese also, bezeichnet durch ihre Form
+
+
+der Ausdehnung, hält er für das Reale, mithin für unabhängig
+
+
+[S. 11]
+
+
+vom Vorgestelltwerden, d. h. an sich, vorhanden. Da hat er dann frei⸗
+lich Recht zu sagen, daß Das, was ausgedehnt ist, und Das, was
+vorgestellt wird, — d. h. unsere Vorstellung von Körpern und diese
+Körper selbst, — Eines und Dasselbe sei (P. PR pr. 7. schol.).
+Denn allerdings sind die Dinge nur als Vorgestellte ausgedehnt
+und als Ausgedehnte vorstellbar: die Welt als Vorstellung und
+die Welt im Raume ist ung eademque res: dies können wir
+ganz und gar zugeben. Wäre nun die Ausdehnung eine Eigen⸗
+schaft der Dinge an sich; so wäre unsere Anschauung eine Ex
+kenntniß der Dinge an sich: er nimmt es auch fo an, und hierin
+besteht sein Realismus. Weil er aber diesen nicht begründet,
+nicht nachweist, daß unserer Anschauung einer räumlichen Welt
+eine von dieser Anschauung unabhängige räumliche Welt ent⸗
+spricht; so bleibt das Grundproblem ungelöst. Dies aber kommt
+eben daher, daß die Durchschnittslinie zwischen dem Realen und
+Idealen, dem Objektiven und Subjektiven, dem Ding an sich und
+der Erscheinung, nicht richtig getroffen ist: vielmehr führt er,
+wie gesagt, den Schnitt mitten durch die ideale, subjektive, er⸗
+scheinende Seite der Welt, also durch die Welt als Vorstellung,
+zerlegt diese in das Ausgedehnte oder Räumliche, und unsere
+Vorstellung von demselben, und ist dann sehr bemüht zu zeigen,
+daß Beide nur Eines sind; wie sie es auch in der That sind.
+Eben weil Spinoza ganz auf der idealen Seite der Welt bleibt,
+da er in dem zu ihr gehörigen Ausgedehnten schon das Reale
+zu finden vermeinte, und wie ihm demzufolge die anschauliche
+Welt das einzige Reale ausser uns und das Erkennende (cogi-
+tans) das einzige Reale in uns ist; — so verlegt er auch andrer⸗
+seits das alleinige wahrhaft Reale, den Willen, ins Ideale, in⸗
+dem er ihn einen blossen modus cogitandi seyn läßt, ja, ihn
+mit dem Urtheil identifizirt. Man sehe Eth. II. die Beweise
+ee 48 et 49, wo es heißt: per voluntatem intelligo
+
+et negandi facultatem. — und wieder: concipia-
+eee aliquam volitionem, nempe modum c0-
+gitandli, quo mens affırmat, tres angulos trianguli aequa-
+les esse duobus reetis. — Ueberhaupt hat Spinoza den gro⸗
+
+
+e ben Fehler, daß er absichtlich die Worte mißbraucht zur Bezeich⸗
+
+
+g von Begriffen, welche in der ganzen Welt andere Namen
+ren, und dagegen ihnen die Bedeutung nimmt, die sie überall
+
+
+haben: so nennt er „Gott“, was überall „die Welt“ heißt; „das
+Recht“ was überall „die Gewalt“ heißt; und „den Willen“,
+was überall „das Urtheil“ heißt. Wir sind ganz berechtigt,
+hierbei an den Hetmann der Kosaken in Aabrbu Baia
+
+Berkeley, wenn gleich false — schon 17 genntniß
+Locke's, ging auf diesem Wege der Cartesianer konsequent wei⸗
+ter und wurde dadurch der Urheber des eigentlichen und wahren
+
+
+Idealismus, d. h. der Erkenntniß, daß das im Raum Aus⸗
+
+
+gedehnte und ihn Erfüllende, also die anschauliche Welt überhaupt,
+sein Daseyn als ein solches schlechterdings nur in unserer Vor⸗
+stellung haben kann, und daß es absurd, ja widersprechend ist,
+ihm als einem solchen noch ein Daseyn ausserhalb aller Vorstel⸗
+lung und unabhängig vom erkennenden Subjekt beizulegen und
+demnach eine an sich selbst eriftirende Materie anzunehmen. Dies
+ist eine sehr richtige und tiefe Einsicht: in ihr besteht aber auch
+seine ganze Philosophie. Das Ideale hatte er getroffen und
+rein gesondert; aber das Reale wußte er nicht zu finden, be⸗
+müht sich auch nur wenig darum und erklärt sich nur gelegent⸗
+lich, stückweise und unvollständig darüber. Gottes Wille und
+Allmacht ist ganz unmittelbar Ursache aller Erscheinungen der
+anschaulichen Welt, d. h. aller unserer Vorstellungen. Wirkliche
+Existenz kommt nur den erkennenden und wollenden Wesen zu,
+dergleichen wir selbst sind: diese also machen, neben Gott, das
+Reale aus. Sie sind Geister, d. h. eben erkennende und wol⸗
+lende Wesen: denn Wollen und Erkennen hält auch er für schlech⸗
+terdings unzertrennlich. Er hat mit seinen Vorgängern auch
+Dies gemein, daß er Gott für bekannter, als die vorliegende
+
+
+Welt, und daher eine Zurückführung auf ihn für eine Erklärung
+
+
+hält. Ueberhaupt legte sein geistlicher, sogar bischöflicher Stand
+ihm zu schwere Fesseln an und beschränkte ihn auf einen been⸗
+genden Gedankenkreis, gegen den er nirgends anstossen durfte;
+
+
+daher er denn nicht weiter konnte, sondern, in seinem Kopfe,
+
+
+Wahres und Falsches lernen mußte, sich zu vertragen, so gut
+es gehn wollte. Dies läßt sich sogar auf die Werke aller dieser
+Philosophen, mit Ausnahme des Spinoza, ausdehnen: sie alle
+verdirbt der jeder Prüfung unzugängliche, jeder Untersuchung
+abgestorbene, mithin wirklich als eine fire Idee auftretende jü⸗
+
+
+[S. 13]
+
+
+dische Theismus, der bei jedem Schritte sich der Wahrheit in
+den Weg stellt; fo daß der Schaden, den er hier in Theoretischen
+anrichtet, als Seitenstück desjenigen auftritt, den er, ein Jahr⸗
+tausend hindurch, im Praktischen, ich meyne in Religionskriegen,
+Glaubenstribunalen und enen durch von Schwerdt,
+oh Der gemueflei: Verwandschaft zwischen Malebranche,
+Spinoza und Berkeley ist nicht zu verkennen: auch sehn wir
+sie sämmtkich ausgehn vom Cartesius, sofern fie das von ihm 4
+in der Gestalt des Zweifels an der Existenz der Außenwelt dar⸗
+N gelegte Grundproblem festhalten und zu lösen suchen, indem sie
+die Trennung und Beziehung der idealen, subjektiven, d. h. in
+71 unserer Vorstellung allein gegebenen, und der realen, objektiven,
+unabhängig davon, also an sich bestehenden Welt zu erforschen
+bemüht sind. Daher ist, wie gesagt, dieses Problem die Axe,
+um welches die ganze Philosophie neuerer Zeit sich dreht.
+Von jenen Philosophen unterscheidet nun Locke sich dadurch,
+daß er, wahrscheinlich weil er unter Hobbe's und Bako's Ein⸗
+fluß steht, sich so nahe als möglich an die Erfahrung und den
+gemeinen Verstand anschließt, hyperphysische Hypothesen möglichst
+vermeidend. Das Reale ist ihm die Materie, und ohne sich
+an den Leibnitzischen Skrupel über die Unmöglichkeit einer Kau⸗
+
+salverbindung zwischen der immateriellen, denkenden, und der ma⸗
+teriellen, ausgedehnten Substanz zu kehren, nimmt er zwischen
+der Materie und dem erkennenden Subjekt geradezu physischen
+Einfluß an. Hierbei aber geht er, mit seltener Besonnenheit
+und Redlichkeit, so weit, zu bekennen, daß möglicherweise das
+Erkennende und Denkende selbst auch Materie seyn könne (on
+bum. underst. L. IV. c. 3. F. 6); was ihm später das wie⸗
+derholte Lob des großen Voltaire, zu seiner Zeit hingegen die
+haften Angriffe eines verschmitzten anglikanischen Pfaffen, des
+Bischofs v. e zugezogen hat.“) Bei ihm nun erzeugt
+a 505 giebt keine ee Kirche, ale die eller weil eben feine
+
+i große pekuniäre Interessen auf dem Spiel hat, wie fie, deren Ein-
+Millionen Pfund Sterling betragen, welches 20000 Pfd. St. mehr
+als die des gesammten übrigen Christlichen Klerus beider Hemispha⸗
+ammen genommen. Andererseits giebt es keine Nation, welche es so
+tzlich ist, durch den degradirendesten Köhlerglauben methodisch verdummt
+
+
+14 Skitze einer Geschichte
+
+
+das Reale, d. i. die Materie, im Erkennenden, durch „Impuls“,
+d. i. Stoß, Vorstellungen, oder das Ideale (ibid. L. I. c. 8,
+$. 11). Wir haben also hier einen recht massiven Realismus,
+der, eben durch seine Exorbitanz den Widerspruch hervorrufend,
+den Berkeley'schen Idealismus veranlaßte, dessen spezieller Ent⸗
+stehungspunkt vielleicht Das ist, was Locke, am Ende des 2. 8
+des 21. Kap. des 2. Buchs, mit so auffallend geringer Beson⸗
+nenheit vorbringt und unter Anderm sagt: solidity, exten-
+tion, figure, motion and rest, would be really in the world,
+as they are, whether there were any sensible being to
+perceive them, or not. (Undurchdringlichkeit, Ausdehnung,
+Gestalt, Bewegung und Ruhe würden, wie sie sind, wirklich in
+der Welt seyn, gleichviel ob es irgend ein empfindendes Wesen,
+sie wahrzunehmen, gäbe, oder nicht.) Sobald man nämlich sich
+hierüber besinnt, muß man es als falsch erkennen: dann aber
+steht der Berkeley'sche Idealismus da und ist unleugbar. In⸗
+zwischen übersieht auch Locke nicht jenes Grundproblem, die
+Kluft zwischen den Vorstellungen in uns und den unabhängig
+von uns existirenden Dingen, also den Unterschied des Idealen
+und Realen: in der Hauptsache fertigt er es jedoch ab durch
+Argumente des gesunden, aber rohen Verstandes und durch Be⸗
+rufung auf das Zureichende unserer Erkenntniß von den Dingen
+für praktische Zwecke (ibid. L. IV. c. 4 et 9); was soffenbar
+nicht zur Sache ist und nur zeigt, wie tief hier der Empirismus
+unter dem Problem bleibt. Nun aber führt eben sein Realis⸗
+mus ihn dahin, das in unserer Erkenntniß dem Realen Ent⸗
+
+
+zu sehn, wie die an Intelligenz alle übrigen übertresfende englische. Die
+Wurzel des Uebels ist, daß es in England Fein Ministerium des öffentlichen
+Unterrichts giebt, daher dieser bisher ganz in den Händen der Pfaffenschaft
+geblieben ist, welche dafür gesorgt hat, daß 3 der Nation nicht lesen und
+schreiben können, ja sogar sich gelegentlich erfrecht, mit der lächerlichsten Ver⸗
+messenheit gegen die Naturwissenschaften zu belfern. Es ist daher Menschen⸗
+pflicht, Licht, Aufklärung und Wissenschaft durch alle nur ersinnliche Kanäle
+nach England einzuschwärzen, damit jenen wohlgemästetesten aller Pfaffen ihr
+Handwerk endlich gelegt werde. Engländern von Bildung auf dem Festlande
+soll man, wenn, fie ihren jüpischen Sabbatsaberglauben und sonstige stupide
+
+Bigoterie zur Schau tragen, mit unverhohlenem Spotte begegnen, — until
+they he — into common sense. Denn Dergleichen ist ein Skandal für
+
+
+Europa und darf nicht länger gedulde: werden.
+
+
+[S. 15]
+
+
+sprechende zu beschränken auf die den Dingen, wie sie an sich
+selbst find, inhärirenden Eigenschaften und diese zu unterschei⸗
+den von den bloß unsrer Erkenntniß derselben, also allein dem
+Idealen, angehörenden: demgemäß nennt er nun diese die se⸗
+kundären, jene ersteren aber die primären Eigenschaften.
+Dieses ist der Ursprung des später, in der Kantischen Philosophie,
+so höchst wichtig werdenden Unterschiedes zwischen Ding an sich
+und Erscheinung. Hier also ist der wahre genetische Anknüpfungs⸗
+punkt der Kantischen Lehre an die frühere Philosophie, nämlich
+an Locke. Befördert und näher veranlaßt wurde jene durch
+Hume's skeptische Einwürfe gegen Locke's Lehre: hingegen
+hat sie zur e — Philosophie nur ein —
+
+
+Verhältniß.
+Als jene primären Cigenschaften nun, welche ausschließ⸗
+
+
+lich Bestimmungen der Dinge an sich selbst seyn, mithin ihnen
+
+
+auch außerhalb unsrer Vorstellung und unabhängig von dieser
+zukommen sollen, ergeben sich lauter solche, welche man an ihnen
+nicht wegdenken kann: nämlich Ausdehnung, Undurchdring⸗
+lichkeit, Gestalt, Bewegung, oder Ruhe, und Zahl. Alle übrigen
+werden als sekundär erkannt, nämlich als Erzeugnisse der Ein⸗
+wirkung jener primären Eigenschaften auf unsere Sinnesorgane,
+folglich als bloße Empfindungen in diesen: dergleichen find Farbe,
+Ton, Geschmack, Geruch, Härte, Weiche, Glätte, Rauhigkeit
+u. s. w. Diese haben demnach mit der fie erregenden Beschaf⸗
+enheit in den Dingen an sich nicht die mindeste Aehnlichkeit,
+— auf jene primären Eigenschaften als
+U „und diese allein sind rein objektiv und wirklich
+Dingen vorhanden. (ibid. L. I. c. 8. H. 7, seqq.)
+
+n diesen find daher unsere Vorstellungen derselben wirklich ge⸗
+treue Kopien, welche genau die Eigenschaften wiedergeben, die
+in den Dingen an sich selbst vorhanden find (I. c. §. 15. Ich
+nsche dem Leser Glück, welcher hier das Possirlichwerden des
+
+N 1s wirklich empfindet). Wir fehn also, daß Locke von
+der Beschaffenheit der Dinge an sich, deren Vorstellungen wir
+
+
+8 von aussen empfangen, in Abrechnung bringt, was Aktion
+
+
+Nerven der Sinnesorgane ist: eine leichte, faßliche, unbe⸗
+are Betrachtung. Auf diesem Wege aber that später Kant den
+meßlich größern Schritt, auch in Abrechnung zu bringen was
+
+
+16 Skitze einer Geschichte
+
+
+Aktion unsers Gehirns (dieser ungleich größern Nervenmasse)
+ist; wodurch alsdann alle jene angeblich primären Eigenschaften
+zu sekundären und die vermeintlichen Dinge an sich zu bloßen
+Erscheinungen herabsinken, das wirkliche Ding an sich aber, jetzt
+auch von jenen Eigenschaften entblößt, als eine ganz unbekannte
+Größe, ein bloßes x, übrig bleibt. Dies erforderte nun freilich
+eine schwierige, tiefe, gegen Anfechtungen des Mißverstandes und
+Unverstandes lange zu vertheidigende Analyse.
+
+Locke dedueirt feine primären Eigenschaften der Dinge nicht,
+giebt auch weiter keinen Grund an, warum gerade diese und
+keine andern rein objektiv seien, als nur den, daß sie unvertilg⸗
+bar sind. Forschen wir nun selbst, warum er diejenigen Eigen⸗
+schasten der Dinge, welche ganz unmittelbar auf die Empfindung
+wirken, folglich geradezu von aussen kommen, für nicht objektiv
+vorhanden erklärt, hingegen Dies denen zugesteht, welche (wie
+seitdem erkannt worden) aus den selbsteigenen Funktionen unsers
+Intellekts entspringen; so ist der Grund hiervon dieser, daß das
+objektiv anschauende Bewußtseyn (das Bewußtseyn anderer Dinge)
+nothwendig eines komplicirten Apparats bedarf, als dessen Funk⸗
+tion es auftritt, folglich seine wesentlichsten Grundbestimmungen
+
+
+schon von innen festgestellt sind, weshalb die allgemeine Form,
+
+
+d. i. Art und Weise, der Anschauung, aus der allein das a priori
+Erkennbare hervorgehn kann, sich darstellt als das Grundgewebe
+der angeschauten Welt und demnach auftritt als das schlechthin
+Nothwendige, Ausnahmslose und auf keine Weise je Wegzubrin⸗
+gende, so daß es als Bedingung alles Uebrigen und seiner man⸗
+nigfaltigen Verschiedenheit schon zum voraus feststeht. Bekannt⸗
+lich ist Dies zunächst Zeit und Raum und was aus ihnen folgt
+und nur durch sie möglich ist. An sich selbst sind Zeit und
+Raum leer: soll nun etwas hineinkommen; so muß es auftreten
+als Materie, d. h. aber als ein Wirkendes, mithin als
+Kausalität: denn die Materie ist durch und durch lautere Kausa⸗
+a. ihr Seyn besteht in ihrem Wirken, und umgekehrt: fie ift
+
+
+nr nur die objektiv aufgefaßte Verstandesform der Kausalität
+elbst.
+
+
+(Geb. d. vierf. Wurzel d. Satzes v. Grund, 2. Aufl., S
+77; wie auch Welt als W. und V. Bd. 1 S. 9 und Bd. 2,
+S. 48 und 49). Daher also kommt es, daß Locke's primäre
+Eigenschaften lauter solche sind, die sich nicht wegdenken lassen,
+
+
+[S. 17]
+
+
+— welches eben deutlich genug ihren subjektiven Ursprung an⸗
+zeigt, indem sie unmittelbar aus der Beschaffenheit des Anschauungs⸗
+apparats selbst hervorgehn, — daß er mithin gerade Das, was,
+als Gehirnfunktion, noch viel subjektiver ist, als die direkt von
+außen veranlaßte, oder doch wenigstens näher bestimmte rund
+empfindung, für schlechthin objektiv hält.
+
+IJInzwischen ist es schön zu sehn, wie, durch alle diese ver⸗
+schiedenen Auffassungen und Erklärungen, das von Cartesius
+aufgeworfene Problem des Verhältnisses zwischen dem Idealen
+und dem Realen immer mehr entwickelt und aufgehellt, also die
+Wahrheit gefördert wird. Freilich geschah Dies unter Begünsti⸗
+gung der Zeitumstände, oder richtiger der Natur, als welche in
+dem kurzen Zeitraum zweier Jahrhunderte über ein halbes Dutzend
+denkender Köpfe in Europa geboren werden und zur Reife gedei⸗
+hen ließ; wozu, als Angebinde des Schicksals, noch kam, daß
+diese, mitten in einer nur dem Nutzen und Vergnügen fröhnen⸗
+den, also niedrig gesinnten Welt, ihrem erhabenen Berufe folgen
+durften, unbekümmert um das Belfern der Pfaffen und das Fa⸗
+—— idol Treiben, der jedesmaligen Philosophiepro⸗
+
+ren.
+
+DdDWa mn: Lode, feinem strengen Empirismus gemäß, auch
+das Kausalitätsverhältniß uns erst durch die Erfahrung bekannt
+werden ließ, bestritt Hume nicht, wie Recht gewesen wäre, diese
+falsche Annahme; sondern, indem er sofort das Ziel überschoß, die
+Realität des Kausalitätsverhältnisses selbst, und zwar durch die
+an sich richtige Bemerkung, daß die Erfahrung doch nie mehr,
+als ein bloßes Folgen der Dinge auf einander, nicht aber ein
+eigentliches Erfolgen und Bewirken, einen nothwendigen Zusam⸗
+menhang, sinnlich und unmittelbar, geben könne. Es ist allbe⸗
+kannt, wie dieser skeptische Einwurf Hume's der Anlaß wurde
+zu Kant's ungleich tieferen Untersuchungen der Sache, welche
+ihn zu dem Resultat geführt haben, daß die Kausalität, und dazu
+auch noch Raum und Zeit, a priori von uns erkannt werden,
+d. h. vor aller Erfahrung in uns liegen, und daher zum sub⸗
+jektiven Antheil der Erkenntniß gehören; woraus dann
+folgt, daß alle jene primären, d. i. absoluten Eigenschaften der
+
+ge, welche Locke festgestellt hatte, da sie sämmtlich aus rei⸗
+
+
+Bestimmungen der Zeit, des Raums und der Kausalität zus:
+
+
+18 Skitze einer Geschichte
+
+
+sammengesetzt sind, nicht den Dingen an sich selbst eigen seyn
+können, sondern unserer Erkenntnißweise derselben inhäriren,
+folglich nicht zum Realen, sondern zum Idealen zu zählen sind;
+woraus dann endlich sich ergiebt, daß wir die Dinge in keinem
+Betracht erkennen, wie sie an sich sind, sondern einzig und
+allein in ihren Erscheinungen. Hiernach nun aber bleibt
+das Reale, das Ding an sich selbst, als ein völlig Unbekanntes,
+ein bloßes x, stehn, und fällt die ganze anschauliche Welt dem
+Idealen zu, als eine bloße Vorstellung, eine Erscheinung, der
+jedoch, eben als solcher, irgendwie ein per ein u an 1,
+entsprechen muß. —
+
+Von diesem Punkte aus habe endlich ich doch * Schritt
+gethan und glaube, daß es der letzte seyn wird. Ich habe näm⸗
+lich mich darauf besonnen, daß zwar, wie sich aus den hier dar⸗
+gelegten Forschungen aller meiner Vorgänger ergiebt, das absolut
+Reale, oder das Ding an sich selbst, uns nimmermehr geradezu
+von außen, auf dem Wege der bloßen Vorstellung, gegeben
+werden kann, weil es unvermeidlich im Wesen dieser liegt, stets nur
+das Ideale zu liefern; daß hingegen, weil doch wir selbst unstrei⸗
+tig real sind, aus dem Innern unsers eigenen Wesens die Er⸗
+kenntniß des Realen irgendwie zu schöpfen seyn muß. In der
+That nun tritt es hier, auf eine unmittelbare Weise, in's Be⸗
+wußtseyn, nämlich als Wille. Danach fällt nunmehr bei mir die
+Durchschnittslinie zwischen dem Realen und Idealen so aus, daß
+die ganze anschauliche und objektiv sich darstellende Welt, mit
+Einschluß des eigenen Leibes eines Jeden, sammt Raum und
+Zeit und Kausalität, mithin sammt dem Ausgedehnten des Spi⸗
+noza und der Materie des Locke, als Vorstellung, dem Idea⸗
+len angehört; als das Reale aber allein der Wille übrig
+bleibt, welchen meine sämmtlichen Vorgänger unbedenklich und
+unbesehens, als ein bloßes Resultat der Vorstellung und des
+Denkens, ins Ideale, geworfen hatten, ja, welchen Cartesius und
+Spinoza sogar mit dem Urtheil identisizirten.) Dadurch ist nun
+auch bei mir die Ethik ganz unmittelbar und ohne allen Ver⸗
+
+glei seser mit der Naapbyst verknüpft, als in e einen
+
+
+9) Spinoza, L b. Cartesius, in edles. de * fit
+
+
+andern Systeme. Wille und Vorstellung allein sind von
+Grund aus verschieden, sofern sie den letzten und fundamentalen
+Gegensatz in allen Dingen der Welt ausmachen und nichts wei⸗
+ter übrig lassen. Das vorgestellte Ding und die Vorstellung von
+ihm ist das Selbe, aber auch nur das vorgestellte Ding, nicht
+das Ding an sich selbst: dieses ist stets Wille, unter aan
+Gestalt auch immer er 15 in der Vorstellung darstellen 2 *
+
+
+Leser, welche mit Dem, was im Laufe dieses Jahrhunderts
+in Deutschland für Philosophie gegolten hat, bekannt sind, könn⸗
+ten vielleicht sich wundern, in dem Zwischenraume zwischen Kant
+und mir, weder den Fichte'schen Idealismus noch das System der
+absoluten Identität des Realen und Idealen erwähnt zu sehn,
+als welche doch unserm Thema ganz eigentlich anzugehören schei⸗
+
+
+weil, meines Erachtens, Fichte, Schelling und Hegel keine
+Philosophen sind, indem ihnen das erste Erforderniß hiezu, Ernst
+und Redlichkeit des Forschens, abgeht. Sie find bloße Sophisten:
+fie wollten scheinen, nicht seyn, und haben nicht die Wahrheit,
+onde w ihr eigenes Wohl und Fortkommen in der Welt gesucht.
+stellung von den Regierungen, Honorar von Studenten und
+
+indlern und, als Mittel zu diesem Zweck, möglichst viel
+
+und ee mit ihrer Scheinphilosophie, — Das r
+
+
+Denker für das Menschengeschlecht. e
+
+Inzwischen haben sie in Einer Sache ercelirt, nämlich 15
+unst, das Publikum zu berücken und sich für Das, was fie
+
+
+cht waren, geltend zu machen; wozu unstreitig Talent gehört,
+
+
+ir nie i pilosophisches. Daß sie hingegen in der Philosophie
+nichts Wirkliches leisten konnten, lag, im letzten Grunde, daran,
+ihr Intellekt nicht frei geworden, sondern im Dienste
+
+
+[S. 19]
+
+
+nen. Ich habe sie aber deswegen nicht mit aufzählen können,
+
+
+Daher bestehn fie nicht die Eintrittskontrole und Fön.
+
+
+menge
+
+
+des Willens geblieben war: da kann er zwar für diesen und
+dessen Zwecke außerordentlich viel leisten, für die Philosophie hin⸗
+gegen, wie für die Kunst, nichts. Denn diese machen gerade
+zur ersten Bedingung, daß der Intellekt bloß aus eigenem An⸗
+triebe thätig sei und, für die Zeit dieser Thätigkeit, aufhöre, dem
+Willen dienstbar zu seyn, d. h. die Zwecke der eigenen Person
+im Auge zu haben. Er selbst aber, wenn allein aus eigenem
+Triebe thätig, kennt, seiner Natur nach, keinen andern Zweck,
+als eben nur die Wahrheit. Daher reicht es, um ein Philosoph,
+d. h. ein Liebhaber der Weisheit (die keine andere als die Wahr⸗
+heit ist) zu seyn, nicht hin, daß man die Wahrheit liebe, soweit
+sie mit dem eigenen Interesse, oder dem Willen der Vorgesetzten,
+oder den Satzungen der Kirche, oder den Vorurtheilen und dem
+Geschmack der Zeitgenossen, vereinbar ist: so lange man es da⸗
+bei bewenden läßt, ist man nur ein gulevros, kein yılocopos.
+Denn dieser Ehrentitel ist eben dadurch schön und weise erson⸗
+nen, daß er besagt, man liebe die Wahrheit ernstlich und von
+ganzem Herzen, also unbedingt, ohne Vorbehalt, über Alles, ja,
+nöthigenfalls, Allem zum Trotz. Hiervon nun aber ist der
+Grund eben der oben angegebene, daß der Intellekt frei gewor⸗
+den ist, in welchem Zustande er gar kein anderes Interesse auch
+nur kennt und versteht, als das der Wahrheit: die Folge aber
+ist, daß man alsdann gegen allen Lug und Trug, welches Kleid
+er auch trage, einen unversöhnlichen Haß faßt. Damit wird
+man freilich es in der Welt nicht weit bringen; wohl aber in
+der Philosophie. — Hingegen ist es, für diese, ein schlimmes
+Auspicium, wenn man, angeblich auf die Erforschung der Wahr⸗
+heit ausgehend, damit anfängt, aller Aufrichtigkeit, Redlichkeit,
+Lauterkeit, Lebewohl zu sagen, und nur darauf bedacht ist, sich
+für Das geltend zu machen, was man nicht ist. Dann nimmt
+man, eben wie jene drei Sophisten, bald ein falsches Pathos,
+bald einen erkünstelten hohen Ernst, bald die Miene unendlicher
+können verzweifelt, schreibt unüberlegt, weil man, nur um zu
+schreiben denkend, das Denken bis zum Schreiben aufgespart
+hatte, sucht jetzt palpable Sophismen als Beweise einzuschwär⸗
+zen, hohlen und sinnleeren Wortkram für tiefe Gedanken auszu⸗
+geben, b uft sich auf intellektuelle Anschauung, oder auf absolu⸗
+
+
+tes Denken und Selbstbewegung der Begriffe, perhorrescirt aus⸗
+drücklich den Standpunkt der „Reflexion“, d. h. der vernünftigen
+Besinnung, unbefangenen Ueberlegung und redlichen Darstellung,
+also überhaupt den eigentlichen, normalen Gebrauch der Vernunft,
+deklarirt demgemäß eine unendliche Verachtung gegen die „Re⸗
+flexionsphilosophie“, mit welchem Namen man jeden zusammen⸗
+hängenden, Folgen aus Gründen ableitenden Gedankengang, wie
+er alles frühere Philosophiren ausmacht, bezeichnet, und wird
+demnach, wenn man dazu mit genugsamer und durch die Er⸗
+bärmlichkeit des Zeitalters ermuthigter Frechheit ausgestattet ist,
+sich etwan so darüber auslassen: „es ist nicht schwer einzusehn,
+„daß die Manier, einen Satz aufzustellen, Gründe für ihn an⸗
+„zuführen, und den entgegengesetzten durch Gründe eben so zu
+„widerlegen, nicht die Form ist, in der die Wahrheit auftreten
+„kann. Die Wahrheit ist die Bewegung ihrer an sich selbst“
+S. LVII, in der Gesammtausgabe S. 36). Ich denke, es ist
+nicht schwer einzusehn, daß wer Dergleichen voranschickt, ein un⸗
+verschämter Scharlatan ist, der die Gimpel bethören will und
+merkt, daß er an den Deutschen des 19. Jahrhunderts seine
+beat gefunden bar
+Wenn man also demgemäß, angeblich dem Tempel der
+Wapıpeit zeilen, die Zügel dem Interesse der eigenen Person
+übergiebt, welches seitabwärts und nach ganz andern Leitsternen
+blickt, etwan nach dem Geschmack und den Schwachen der Zeit⸗
+genossen, nach der Religion des Landes, besonders aber nach den
+ten und Winken der Regierenden, — o wie sollte man da
+1 auf hohen, abschüssigen, kahlen Felsen gelegenen Tempel der
+erreichen! — Wohl mag man dann, durch das sichere
+des Interesses, eine Schaar recht eigentlich hoffnungsvol⸗
+ei „win Protektion und Anstellungen hoffender Schüler an
+h kni ) en, die zum Schein eine Sekte, in der That eine Fak⸗
+Ham von deren e 3 man nunmehr
+
+
+im Obigen durchmusterten wirklichen Denker, an die Schriften
+Fichtes und Schellings, oder gar an den, mit gränzenlosem, aber
+gerechtem Vertrauen zur deutschen Niaiserie, frech hingeschmier⸗
+ten Unsinn Hegels geht.“) Bei Jenen hatte man überall ein
+redliches Forschen nach Wahrheit und ein eben so redliches
+Bemühen, ihre Gedanken Andern mitzutheilen, gefunden. Daher
+fühlt wer im Kant, Locke, Hume, Malebranche, Spinoza, Car⸗
+tesius liest sich erhoben und von Freude durchdrungen: dies wirkt
+die Gemeinschaft mit einem edlen Geiste, welcher denkt und zu
+denken giebt. Das Umgekehrte von diesem Allen findet Statt,
+bein Lesen der oben genannten drei deutschen Sophisten. Ein
+Unbefangener, der ein Buch von ihnen aufmacht und dann sich
+frägt, ob Dies der Ton eines Denkers, der belehren, oder der
+eines Scharlatans, der täuschen will, sei, kann nicht fünf Minu⸗
+ten darüber in Zweifel bleiben: so sehr athmet hier Alles Un⸗
+redlichkeit. Der Ton ruhiger Untersuchung, der alle bisherige
+Philosophie charakterisirt hatte, ist vertauscht gegen den der un⸗
+erschüͤtterlichen Gewißheit, wie er der Scharlatanerie in jeder
+Art und jeder Zeit eigen ist, die aber hier beruhen soll auf vor⸗
+geblich unmittelbarer, intellektualer Anschauung, oder absolutem,
+d. h. vom Subjekt, also auch seiner Fehlbarkeit, unabhängigem
+Denken. Aus jeder Seite, jeder Zeile spricht das Bemühen, den
+Leser zu berücken, zu betrügen, bald ihn durch Imponiren zu ver⸗
+dutzen, bald ihn durch unverständliche Phrasen, ja durch baaren Un⸗
+fun, zu ii ben — durch die en im zu
+=; Die e Afterweisheit recht bent je jener Mühlstein ü im
+Kopfe des Schülers im Faust. Wenn man einen Jüngling absichtlich ver⸗
+dummen und zu allem Denken völlig unfähig machen will; so giebt es kein
+probateres Mittel, als das fleißige Studium Hegelscher Originalwerfe: denn
+diese monstrosen Zusammenfügungen von Worten, die sich aufheben und wis
+. so daß der Geist irgend etwas dabei zu denken vergeblich, ich ab⸗
+martert, bis er endlich ermattet zusammensinkt, vernichten in ihm, 0 maͤlig
+die Fähigteit zum Denken so gänzlich, daß, vom Dem an, hohle, leere Flos⸗
+keln ihm für Gedanken gelten. Dazu nun noch die durch Wort und Beispiel
+aller Respektspersonen dem Jünglinge beglaubigte Einbildung, jener 2
+kram sei die wahre, hohe Weisheit! — Wenn ein Mal ein 1905 b
+gen sollte, seine Mündel könnte für seine Pläne zu klug Mo 41
+sich durch ein fas weten der e hilosophie besen e
+
+
+zu verblüffen, kurz, ihm Staub in die Augen zu streuen und ihn
+nach Möglichkeit zu mystisiziren. Daher kann die Empfindung,
+welche man bei dem in Rede stehenden Uebergange, in Hinsicht
+auf das Theoretische spürt, derjenigen verglichen werden, welche,
+in Hinsicht auf das Praktische, Einer haben mag, der, aus einer
+Gesellschaft von Ehrenmännern kommend, in eine Gaunerherberge
+gerathen wäre. Welch ein würdiger Mann ist doch der von
+eben jenen drei Sophisten fo gering geschätzte und verspottete
+Christian Wolf, in Vergleich mit ihnen! Er hatte und gab
+doch wirkliche Gedanken: sie aber bloße Wortgebilde, Phrasen,
+in der Absicht zu täuschen. Demnach ist der wahre, unterschei⸗
+dende Charakter der Philosophie dieser ganzen, sogenannten Nach⸗
+kantischen Schule Unredlichkeit, ihr Element blauer Dunst
+und persönliche Zwecke ihr Ziel. Ihre Koryphäen waren be⸗
+müht, zu scheinen, nicht zu seyn: sie sind daher Sophisten,
+nicht Philosophen. Spott der Nachwelt, der sich auf ihre Ver⸗
+ehrer erstreckt, und dann Vergessenheit warten ihrer. Mit der
+angegebenen Tendenz dieser Leute hängt, beiläufig gesagt, auch der
+zankende, scheltende Ton zusammen, der, als obligate Begleitung,
+wall Schellings Schriften durchzieht. — Wäre nun diesem Allen
+nicht so, wäre mit Redlichkeit, statt mit Imponiren und Windbeu⸗
+ne gegangen worden; fo könnte Schelling, als wel⸗
+ieden der Begabteste unter den Dreien ist, in der Phi⸗
+ie doch d den untergeordneten Rang eines vor der Hand nütz⸗
+Eklektikers einnehmen; sofern er aus den Lehren des Plo⸗
+„des Spinoza, Jakob Böhms, Kants und der Naturwissen⸗
+shaft neuerer Zeit ein Amalgam bereitet hat, das die große
+Leere, welche die negativen Resultate der Kantischen Philosophie
+herbeigeführt hatten, einstweilen ausfüllen konnte, bis ein Mal
+— neue Philosophie herankäme und die durch jene ge.
+Ban eigentlich gewährte.
+
+Wie Kinder mit den zu eruften Zwecken bestimmten Waffen,
+en Geräthe der Erwachsenen fpielen, so haben die
+hier in Betracht genommenen drei Sophisten es mit dem Ge⸗
+genstande, über dessen Behandlung ich hier referire, gemacht, in⸗
+dem sie zu den mühsäligen, zweihundertjährigen ne
+
+Philosophen das komische Widerspiel lieferten. Nach⸗
+von, ee Kant das große Problem des Verhälmisses zwi⸗
+
+
+schen dem an sich Existirenden und unsern Borftellungen mehr
+als je auf die Spitze gestellt und dadurch es der Lösung um ein
+Vieles näher gebracht hatte, tritt Fichte auf mit der Behaup⸗
+tung, daß hinter den Vorstellungen weiter nichts stäke; sie wären
+eben nur Produkte des erkennenden Subjekts, des Ich. Während
+er hiedurch Kanten zu überbieten suchte, brachte er bloß eine Ka⸗
+rikatur der Philosophie desselben zu Tage, indem er, unter be⸗
+ständiger Anwendung der jenen drei Pseudophilosophen bereits
+nachgerühmten Methode, das Reale ganz aufhob und nichts als
+das Ideale übrig ließ. Dann kam Schelling, der, in seinem
+System der absoluten Identität des Realen und Idealen, jenen
+ganzen Unterschied für nichtig erklärte, und behauptete, das Ideale
+sei auch das Reale, es sei eben Alles Eins; wodurch er das so
+mühsam, mittelst der allmälig und schrittweise sich entwickelnden
+Besonnenheit, Gesonderte wieder wild durch einander zu werfen
+und Alles zu vermischen trachtete (Schelling, vom Verhältniß
+der Naturphil. zur Fichte schen, S. 14 — 21). Der Unterschied
+des Idealen und Realen wird eben dreist weggeläugnet, unter
+Nachahmung der oben gerügten Fehler Spinoza's. Dabei wer⸗
+den sogar Leibnitzen's Monaden, diese monstrose Identifikation
+
+
+zweier Undinge, nämlich der Atome und der untheilbaren, ur⸗
+
+
+sprünglich und wesentlich erkennenden Individuen, genannt See⸗
+len, wieder hervorgeholt, feierlich apotheosirt und zu Hülfe ge⸗
+nommen (Schelling, Ideen z. Naturphil. 2. Aufl. S. 38 u. 82).
+Den Namen der Identitätsphilosophie führt die Schelling ' sche
+Naturphilosophie, weil sie, in Spinoza's Fußstapfen tretend, drei
+Unterschiede, die dieser aufgehoben hatte, ebenfalls aufhebt, näm⸗
+lich den zwischen Gott und Welt, den zwischen Leib und Seele,
+und endlich auch den zwischen dem Idealen und Realen in der
+angeschauten Welt. Dieser letztere Unterschied aber hängt, wie
+oben, bei Betrachtung Spinoza's, gezeigt worden, keineswegs
+von jenen beiden andern ab; so wenig, daß, je mehr man ihn
+
+
+hervorgehoben hat, desto mehr jene beiden andern dem Zweifel
+
+
+unterlegen sind: denn sie sind auf dogmatische Beweise (die Kant
+umgestoßen hat) gegründet, er hingegen auf einen einfachen Akt
+der Besinnung. Dem Allen entsprechend wurde von Schelling
+auch die Metaphysik mit der Physik identifizirt, und demgemäß
+auf eine bloß physikalisch⸗chemische Diatribe der hohe Titel „von
+
+
+der Weltseele“ gesetzt. Alle eigentlich metaphysischen Probleme,
+wie sie dem menschlichen Bewußtseyn sich unermüdlich aufdringen,
+sollten durch ein dreistes Wegläugnen, mittelst Machtsprüchen, be⸗
+schwichtigt werden. Hier ist die Natur eben weil sie ist, aus
+sich selbst und durch sich selbst, wir ertheilen ihr den Titel Gott,
+damit ist sie abgefunden und wer mehr verlangt ist ein Narr:
+der Unterschied zwischen Subjektivem und Objektivem ist eine
+bloße Schulfakse, so auch die ganze Kantische Philosophie, deren
+Unterscheidung von a priori und a posteriori nichtig ist: un⸗
+sere empirische Anschauung liefert ganz eigentlich die Dinge
+an sich u. s. w. Man sehe „Ueber das Verhältniß der Na⸗
+turphilosophie zur Fichte'schen S. 51 und 67, woselbst auch
+S 61. ausdrücklich gespottet wird über Die, „welche recht
+eigentlich darüber erstaunen, daß nicht nichts ist, und sich nicht
+satt darüber wundern können, daß wirklich etwas existirt.“ So
+sehr also scheint dem Herrn von Schelling sich Alles von selbst
+zu verstehn. Im Grunde aber ist ein dergleichen Gerede eine
+in vornehme Phrasen gehüllte Appellation an den sogenannten
+gesunden, d. h. rohen Verstand. Uebrigens erinnere ich hier
+an das im 2. Bande meines Hauptwerks, Kap. 17 gleich
+Anfangs, Gesagte. Für unsern Gegenstand bezeichnend und
+ar naiv ist im angeführten Buche Schellings noch die Stelle
+69: „hätte die Empirie ihren Zweck vollkommen erreicht; so
+„würde ihr Gegenfag mit der Philosophie und mit diesem die
+„Philosophie selbst, als eigene Sphäre oder Art der Wissenschaft,
+„verschwinden: alle Abstraktionen Yöften fi auf in die unmittel⸗
+„bare „freundliche“ Anschauung: das Höchste wäre ein Spiel der
+„Lust und der Einfalt, das Schwerste leicht, das Unsinnlichste
+. und der Mensch dürfte froh und frei im Buche der
+
+„Natur lesen.“ — Das wäre freilich allerliebst! Aber fo steht
+es nicht mit uns: dem Denken läßt sich nicht so die Thüre wei⸗
+sen. Die ernste, alte Sphinx mit ihrem Räthsel liegt unbeweg⸗
+lich da und stürzt sich darum, daß ihr fie für ein Gespenst er⸗
+nicht vom Felsen. Als, eben deshalb, Schelling später
+selbst merkte, daß die metaphysischen Probleme sich nicht durch
+M abweisen lassen, lieferte er einen eigentlich me⸗
+5 —— in seiner Abhandlung über die Freiheit,
+>, edoch eine bloße metaphysische Phantasie, ein conte bleu,
+
+
+ist, daher es eben kommt, daß der Vortrag, so oft er den der
+den komische Wirkung hat. Bi 4 matllof
+
+Durch feine Lehre von — Sbentitlt des Renten und Idea⸗
+len hatte demnach Schelling das Problem, welches, seit Carte⸗
+sius es auf die Bahn gebracht, von allen großen Denkern be⸗
+handelt und endlich von Kant auf die äußerste Spitze getrieben
+war, dadurch zu lösen gesucht, daß er den Knoten zerhaute, in⸗
+dem er den Gegensatz zwischen Beiden ableugnete. Mit Kanten,
+von dem er auszugehen vorgab, trat er dadurch eigentlich in ge⸗
+raden Widerspruch. Inzwischen hatte er wenigstens den ur⸗
+sprünglichen und eigentlichen Sinn des Problems festgehalten,
+als welcher das Verhältniß zwischen unserer Anschauung und
+dem Seyn und Wesen, an sich selbst, der in dieser sich darstellen⸗
+den Dinge betrifft: allein, weil er seine Lehre hauptsächlich aus
+dem Spinoza schöpfte, nahm er bald von Diesem die Ausdrücke
+Denken und Seyn auf, welche das in Rede stehende Problem
+sehr schlecht bezeichnen und später Anlaß zu den tollsten Mon⸗
+strositäten wurden. Spinoza hatte mit feiner Lehre, daß sub-
+stantia cogitans et substantia extensa una eademque est
+substantia, quae jam sub hoc jam sub illo attributo com-
+prehenditur (II., 7. sch.); oder scilicet mens et corpus
+una eademque est res, quae jam Sub gen jam sub
+extensionis attributo coneipitur (Ill, 2. sch. ), zunächst den
+Cartesianischen Gegensatz von Leib und Seele aufheben wollen:
+auch mag er erkannt haben, daß das empirische Objekt von un⸗
+serer Vorstellung davon nicht verschieden ist. Schelling nahm
+nun von ihm die Ausdrücke Denken und Seyn an, welche
+
+
+er allmälig denen von Anschauen, oder vielmehr Angeschau⸗
+
+
+tem, und Ding an sich substituirte. (Neue Zeitschrift für spekul.
+Physik, ersten Bandes erstes Stück: „Fernere Darstellungen“
+u. s. w.) Denn das Verhältniß unserer Anschauung der
+Dinge zum Seyn und Wesen an sich derselben ist das große
+Problem, dessen Geschichte ich hier ffigive; nicht aber das unserer
+Gedanken, d. h. Begriffez da diese ganz offenbar und un⸗
+leugbar bloße Abstraktionen aus dem anschaulich Erkannten sind,
+enistanden durch beliebiges Wegdenken, oder Fallenlassen, eini⸗
+ger Eigenschasten und Beibehalten anderer; woran zu zweifeln
+
+
+keinem vernünftigen Menschen einfallen kann.“) Diese Begriffe
+und Gedanken, welche die Klasse der nichtanschaulichen
+Vorstellungen ausmachen, haben daher zum Wesen und Seyn
+an sich der Dinge nie ein unmittelbares Verhältniß, son⸗
+dern allemal nur ein mittelbares, nämlich unter Vermittelung
+der Anschauung: diese ist es, welche einerseits ihnen den Stoff
+liefert, und andererseits in Beziehung zu den Dingen an sich,
+d. h. zu dem unbekannten, in der W sich shipticigenben,
+selbsteigenen Wesen der Dinge fteht. Dad
+Dier von Schelling dem — entnommene, ane
+Ausdruck gab nun später dem geist⸗ und geschmacklo
+gel, welcher in dieser Hinsicht als der Hanswurst Schel⸗
+lings „Anlaß, die Sache dahin zu verdrehen, daß das
+Denken selbst und im eigentlichen Sinn, also die Begriffe,
+identisch seyn sollten mit dem Wesen an sich der Dinge: also
+das in abstracto Gedachte als solches und unmittelbar sollte
+Eins seyn mit dem objektiv Vorhandenen an sich selbst, und dem⸗
+gemäß sollte denn auch die Logik zugleich die wahre Metaphysik
+seyn: demnach brauchten wir nur zu denken, oder die Begriffe
+walten zu lassen, um zu wissen, wie die Welt da draußen ab⸗
+solut beschaffen sei. Danach wäre Alles, was in einem Hirn⸗
+kasten spukt, fofort wahr und real. Weil nun ferner „je toller
+je besser“ der Wahlspruch der Philosophaster dieser Periode war;
+so wurde diese Absurdität durch die zweite gestützt, daß nicht wir
+dichten, sondern die Begriffe allein und ohne unser Zuthun den
+Gedankenprozeß vollzögen, welcher daher die dialektische Selbst⸗
+bewegung des Begriffs genannt wurde und nun eine Offenba⸗
+rung aller Dinge in et extra naturam seyn sollte. Dieser Fratze
+lag nun aber eigentlich noch eine andere zum Grunde, welche eben⸗
+falls auf Misbrauch der Wörter beruhte und zwar nie deutlich
+ausgesprochen wurde, jedoch unzweifelhaft dahinter steckt. Schel⸗
+ling hatte, nach Spinoza's Vorgang, die Welt Gott betitelt.
+Hegel nahm Dies nach dem Wortsinn. Da nun das Wort ei⸗
+gentlich ein persönliches Wesen, welches, unter andern mit der
+Welt durchaus inkompatibeln Eigenschaften, auch die der All-
+wissenheit hat, bedeutet; so wurde von ihm nun auch diese
+) Ueber die vierfache Wurzel des Satzes vom Grund, 2. Aufl. §. 26.
+
+
+auf die Welt übertragen, woselbst sie natürlich keine andere
+Stelle erhalten konnte, als unter der albernen Stirn des Men⸗
+schen; wonach denn dieser nur seinen Gedanken freien Lauf (dia⸗
+lektische Selbstbewegung) zu lassen brauchte, um alle Mysterien
+Himmels und der Erde zu offenbaren, nämlich in dem absoluten
+Gallimathias der Hegel'schen Dialektik. Eine Kunst hat dieser
+Hegel wirklich verstanden, nämlich die, die Deutschen bei der
+Rase zu führen. Das ist aber keine große. Wir sehn ja, mit
+welchen Possen er die deutsche Gelehrtenwelt 30 Jahre lang in
+Respekt halten konnte. Doch genug von ihnen und ihrem Urhe⸗
+ber, dessen Verehrung wir der Dänischen Akademie der Wissen⸗
+schaften überlassen wollen, als welche in ihm einen summus phi-
+losophus nach ihrem Sinn erkannt hat und daher Respekt vor
+ihm fordert, in ihrem, meiner Preisschrift über das Fundament
+der Moral, zu bleibendem Andenken, beigedrucktem Urtheile, wel⸗
+ches eben so sehr wegen seines Scharfsinns, als wegen seiner
+denkwürdigen Redlichkeit, der Vergessenheit entzogen zu werden
+verdiente, wie auch, weil es einen lukulenten Beleg liefert zu
+Labrupere's gar schönem Ausspruch: du meme fonds, dont
+
+
+10 zin tin Nin EEE
+ans nun
+Miss N tna i bung ne Ar Ban) >) © den
+
+
+Fragmente
+
+
+nad Tre
+
+
+SER — Nene
+— 2 Cache der Pplesepbie..
+aan son 1 end ner
+
+
+—— Werke der — allerlei Darle⸗
+zungen ihrer Lehren, oder überhaupt Geschichte der Philosophie
+zu lesen, ist wie wenn man sich sein Essen von einem Andern
+en wollte. Würde man wohl Weltgeschichte lesen, wenn
+es Jedem freiftände, die ihn interessirenden Begebenheiten der
+Vorzeit mit eigenen Augen zu schauen! Hinsichtlich der Geschichte
+der Philosophie nun aber ist ihm eine solche Autopsie ihres Ge⸗
+genstandes wirklich zugänglich, nämlich in den selbsteigenen Schrif⸗
+N eee woselbs

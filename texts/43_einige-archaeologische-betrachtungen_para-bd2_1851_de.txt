@@ -1,0 +1,120 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Einige archäologische Betrachtungen (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: Some archaeological reflections - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 333-336. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-38. The chapter's display heading stands in this copy as "Kapitel XVII. Einige arhänlogifhe Betrachtungen. $. 191. D"; numerals and heading letters are misset by the OCR, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 9. SEAVERIFIED ACROSS FILES: this chapter's paragraph numbers continue those of the chapters before and after it in the collection, which is how the extraction seams were proved without seeing the page images - see the catalogue's spot-check 23. OCR warning as in files 27 and 30-38: f for the long s, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-38. It prints f for the long s, sometimes b for d, and it mangles a heading or a page's first line; the long s has been normalised to s (32 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XVII. Einige arhänlogifhe Betrachtungen. $. 191. Der Nam", and the Roman numeral is the OCR's, so cite by words and pages - paragraph marks standing at line beginnings here read § 191 to § 195, a guide and not a table, since this OCR lifts a cross-reference to a line beginning now and then. Page markers were made only from running heads naming this chapter inside its proved range (1 made, S. 334 to S. 334); the chapter's range by the volume's own heads is S. 333-336.]
+
+Kapitel XVII.
+Einige arhänlogifhe Betrachtungen.
+
+
+$. 191.
+
+Der Name Pelasger, ohne Zweifel mit Pelagus vers
+wandt, ift die allgemeine Bezeichnung für die vereinzelten, ver-
+drängten, verirrten, Fleinen Aftatifhen Stämme, welde zuerft
+nah Europa gelangten, woselbst fie ihre heimathliche Kultur,
+Tradition und Religion bald gänzlich vergaßen, dagegen aber,
+begünftigt durch den Einfluß des fchönen, gemäßigten Klimas
+und guten Bodens, wie auch der vielen Seefüften Griechenlands
+und Kleinaftens, aus fich felbft, unter dem Namen der Helle-
+nen, eine ganz naturgemäße Entwidelung und rein menfchliche
+Kultur erlangten, in einer Bollfommenheit, wie foldhe außerdem
+nie und nirgends vorgefommen if. Diefer gemäß hatten fie
+auch Feine andre, als eine halb fcherzhaft gemeinte Kinderreli-
+gion: der Ernft flüchtete fih in die Moyfterien und das Trauer:
+fpiel. Diefer Griechifchen Nation ganz allein verdanken wir
+die richtige Auffaffung und naturgemäße Darftellung der menjch-
+lihen Geftalt und Gebärbe, die Auffindung der allein regelrech—
+ten und von ihnen auf immer feftgeftellten Verhältniffe ver Bau—
+Zunft, die Entwidelung aller ächten Formen der Poefie, nebft Er-
+findung der wirklich fchönen Sylbenmaaße, die Aufftellung phi-
+losophischer Syfteme, nach allen Grundridtungen des menschlichen
+Denfens, die Elemente der Mathematik, die Grundlagen einer
+vernünftigen Gefeßgebung und überhaupt die normale Darftel-
+lung einer wahrhaft fchönen und edlen menschlichen Eriftenz.
+Denn diefes Fleine auserwählte Volk der Mufen und Grazien
+war, fo zu jagen, mit einem Instinkt der Schönheit ausgeftattet.
+Dieser erstreckte fih auf Alles: auf Gefichter, Geftalten, Stel-
+
+ [S. 334]
+
+
+lungen, Gewänder, Waffen, Gebäude, Gefäße, Geräthe und was
+noch fonft war, und verließ fie nie und nirgendde. Daher wer-
+den mir stets und eben fo weit vom guten Geschmack und ber
+Schönheit entfernt haben, ald wir und von ben Griechen entfer-
+nen; zu allermeift in Skulptur und Baufunft; und nie werden
+die Alten veralten; wenn auch irgend eine verborbene, erbärm-
+lihe und rein materiell gefinnte „Jetztzeit“ ihrer Schule entlau-
+fen follte, um im eigenen Dünfel sich behaglicher zu fühlen.
+
+Dagegen ftehn die Griechen in den mechanischen und tech—
+nischen Künften, wie auch in allen Zweigen der Naturwiflenfchaft,
+weit hinter und zurüd; weil eben diefe Dinge mehr Zeit, Ge-
+duld, Methode und Erfahrung, als hohe GBeiftesfräfte erfordern.
+Daher auch ift aus den meiften naturmwiflenfchaftlichen Werfen
+der Alten für und wenig mehr zu fernen, ald was doc Alles
+fie nicht gewußt haben.
+
+$. 192,
+
+Die Ode des Orpheus, im erften Buche der Eflogen bes
+Stobäus, ift indifcher Pantheismus, durch den plaftiihen Sinn
+der Griechen fpielend verziert. Sie ift freilich nicht vom Or⸗
+pheus, aber doch alt; da ein Stüd davon schon im Pfeubo-Ari-
+fioteled de mundo angeführt wird, welches Bud) man neuerlich
+bem Chrysippus bat zufchreiben wollen. Irgend etwas ächt Or-
+phiiches Fönnte ihr wohl zum Grunde liegen; ja, man fühlt fi
+verfucht, fie ald ein Dofument des Uebergangs der indischen Re—
+ligion in den bellenifchen Polytheismus anzufehn. Jedenfalls
+fann man fie nehmen als ein Gegengift zum vielgepriefenen
+Hymnus des Kleanthes auf den Zeus, ald welcher einen unver:
+fennbaren Judengeruch bat, daher eben er ben Leuten fo gefällt.
+
+$. 193.
+
+
+Im Homer : find die vielen, unendlich oft vorkommenden
+Phrafen, Tropen, Bilder und Redensarten fo fteif, ftarr und
+mechanisch eingefegt, ald wäre es mit Schablonen geschehn.
+
+$. 194.
+
+Daß die Poefie älter ift, ald die Prosa, indem Pherefybes
+ber erfte gewesen, der Philofophie, und Hekatäos von Milet der
+erfte, welcher Gefchichte in Prosa gefchrieben, und daß dieses
+von den Alten als eine Denfwürbigfeit angemerft worden, ift
+folgendermaaßen zu erflären. Ehe man überhaupt fchrieb, fuchte
+
+
+Einige archäologifche Betrachtungen. 335
+
+
+man aufbehaltenswerthe Thatsachen und Gedanken dadurch uns
+verfälfcht zu perpetuiren, daß man fie in Verse brachte. Al
+man nun anfteng zu fehreiben, war es natürlich, dag man Alles
+in Berfen fchrieb; weil man eben nicht anders wußte, als daß
+Denfwürdigfeiten in Berfen fonfervirt würden. Davon giengen,
+ald von einer überflüffig gewordenen Sache, jene erften Pro-
+faifer ab.
+$. 195.
+
+Faft auf alle unfere Stellungen und Gebärden hat unfere
+Kleidung einen gewissen Einfluß: nicht eben fo die der Alten,
+welche vielleicht, ihrem äfthetifchen Sinne gemäß, durch das VBor-
+gefühl eines solchen Uebelftandes mit bewogen wurden, ihre weite,
+nicht anfchließende Kleidung beizubehalten. Dieferwegen hat ein
+Skhaufpieler, wann er antifes Kostüm trägt, alle die Bewegun-
+gen und Stellungen zu vermeiden, welche irgendwie durch unfere
+Kleidung veranlaßt und dann zur Gewohnheit geworden find:
+doch braucht er deshalb sich nicht zu spreitzen und zu blähen, wie
+ein franzöfifcher, feinen Racine tragivender Handwurft in Toga
+und Tunifa.

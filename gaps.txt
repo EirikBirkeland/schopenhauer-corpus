@@ -1,0 +1,136 @@
+GAP REGISTER - the live state, as of 2026-10-26 (pass 40)
+================================================================================
+Kept by hand, one entry per gap, dated, with the evidence or the searched
+identifiers named. The catalogue holds the history; this sheet holds the state.
+A gap is CLOSED only when a text is in texts/ and has been read; "NO DATA" means
+searched and not found, and the queries are named in the catalogue.
+
+GAP-1  CLOSED - a clean German WWV.
+       Files 01 and 02, from Zeno.org. NOTE THE COORDINATE SYSTEM: the page
+       labels are those of the Zürcher Ausgabe, a scholarly READING edition, not
+       a full critical apparatus; and spot-check 49 measured that they run nine
+       to twenty-three pages above the pagination a 19th-century secondary cites.
+
+GAP-2  CLOSED - his colour theory, both German states.
+       File 74 (1816 first edition) and file 75 (1854, "zweite Auflage" - NOT
+       1870, an old guess corrected from the title page). How far 1854 revised
+       1816 is NO DATA: the comparison measured 53.4 per cent carry-over, which
+       must be read against the measured OCR-on-OCR floor, not as an extent.
+
+GAP-3  OPEN - a public-domain English of the freedom-of-the-will prize essay.
+       He has the German (file 55) and no English. Four hunts named in the
+       catalogue (passes 36, 37, 41, 45; twenty queries in all) produced nothing
+       public-domain, and pass 45 proved the machinery with a positive control
+       (476 items under his name), so the zero is the Archive and not the search.
+       A query that adds a bare year to a quoted phrase ("On the freedom of the
+       will" Schopenhauer 1864) returns nothing, because the year is not in the
+       string searched - so years belong in date clauses, and date clauses are here
+       untrusted (rule 47). What DOES exist at the Internet Archive under his name with
+       "freedom" in the title is three modern printings, in copyright for our
+       purposes: "Essay on the freedom of the will" (1960), "On the freedom of
+       the will" (1985), "Prize essay on the freedom of the will" (1999). The
+       E. F. J. Rowe translations of the 1860s, which would be the public-domain
+       candidates, returned no Internet Archive title record at all this hour,
+       and GutenDex was unreachable: NO DATA, not "does not exist".
+
+GAP-4  CLOSED long ago for the Fourfold Root and the ethics essays; still NO
+       English for a few minor pieces, catalogued only.
+
+GAP-5  OPEN - a good edition of the reported talk (Gespräche).
+       No edition found: FIFTEEN Internet Archive title queries across passes 15, 38,
+       39 and 45 gave a 1997 anthology, a 2026 novel, YouTube items and poetry. Pass 45
+       also tested the machinery itself: a positive control (creator:"Schopenhauer,
+       Arthur" = 476 items) shows the endpoint is alive, while a date-range clause returns
+       a spurious zero and an ASCII query ("Gespraeche") misses the indexed umlauts.
+       Re-run with correct orthography and no date clause: still nothing public-domain.
+       What the collection holds instead: file 29 (Frauenstädt's Nachlass of
+       1864), and the two Gwinner memoirs (files 72, 73), which REPORT talk and
+       quote letters rather than the published works. The provenance warning is
+       G-33: the disciples published and disputed, so reported talk is early AND
+       contested.
+
+GAP-6  NARROWED, STILL OPEN - the letters.
+       File 76 (Schemann, "Schopenhauer-Briefe", Brockhaus 1893, 180,651 words)
+       is READABLE where the first copy found was defective - a bad copy is not a
+       bad work. Sayings are now quoted from it (Q-27, Q-28). WHAT IS STILL
+       BLOCKED: (a) the editor's letter-heads are not separable in this layer, so
+       a letter's DATE is UNVERIFIED unless a head is proved to belong to it;
+       (b) of twelve passages Gwinner prints as family letters or sayings, NONE
+       is in Schemann's collection (hand check, pass 33), so the correspondence
+       Gwinner used is still outside the estate; (c) no page markers, so cite by
+       file and place.
+
+GAP-7  CLOSED for a life, OPEN for Hübscher.
+       Frauenstädt's "Ein Lebensbild vom Herausgeber" (file 79) is the biography
+       inside the collected edition, with its sources named - and it is a SECOND
+       COPY of some of Gwinner's stories, not a second witness. Hübscher's own
+       biography is still NOT FOUND (NO DATA).
+
+GAP-8  CLOSED as to the TEXT - the Latin colour theory.
+       File 77, from the 1877 collected edition vol. 1, 15,782 words, with 48 of
+       the item's OWN running heads recovered. The 1830 Radius printing is still
+       not held, so what 1877 may have changed from 1830 is NO DATA.
+
+GAP-11 OPEN - "Ueber das Studium der lateinischen Sprache", the German behind Saunders' "On the
+       study of Latin" (The Art of Literature, 1891). Searched 2026-10-26 (pass 62): the
+       estate holds "Ueber Sprache und Worte" (file 49), which is a different essay, and
+       the phrase "lateinischen Sprache" occurs only twice, incidentally, in file 02 and
+       file 54. So an English translation sits in the collection with no German original
+       beside it. Finding the German and filing it is a small errand, not a campaign.
+
+GAP-10 OPEN - the LAST German state of "Ueber den Willen in der Natur".
+       The estate holds the 1836 first edition (file 58) and the 1854 second
+       (file 59, whose preface says as much: "die zweite, nachbessernde Hand ...
+       nach 19 Jahren"). But Hillebrand's English says it translates the FOURTH
+       edition, published by Frauenstaedt - the edition of 1873 - and that printing
+       is not held here in German at all. Measured, the English is 1.45 times the
+       1854 text, which is revision, not translation. So for the final form of this
+       essay the collection's only continuous witness is a translation, and its
+       wording is Hillebrand's, not his.
+       HUNT 2026-10-26 (pass 51): the 1873/1874 Frauenstaedt volumes are on archive.org
+       with a text layer, but it is garbled Fraktur OCR (see GAP-9), so the fourth
+       edition's German wording remains NO DATA. Note that the readable Band 1 of 1877
+       (ia_11173023) argues about this essay in the editor's preface: 'die lateinische
+       Bearbeitung der Farbenlehre in die Gesammtausgabe aufnehmen zu muessen' - evidence
+       about the edition's make-up, from the editor, not from his pen.
+
+GAP-9  OPEN - the author's NOTES are missing from the Zeno transcriptions.
+       File 01 (WWV I) and file 03 (the Fourfold Root) each carry a footnote
+       SECTION that is an empty stub: the marker is there and four or five words
+       follow it. Zeno put the notes of the book-length works somewhere the
+       transcription did not follow. The consequence is measured, not guessed: the
+       English of the same works prints them (file 08 has a 4,170-word FOOTNOTES
+       block; file 11 carries 322 footnote markers), so a German search for
+       something Schopenhauer said only in a note comes back empty, and the estate
+       holds the English better than the German exactly where the German ought to
+       be the witness. Until a copy with the notes is filed, treat files 01 and 03
+       as the treatise WITHOUT its notes.
+       HUNT 2026-10-26 (pass 51): the collected editions exist on archive.org WITH text -
+       Frauenstaedt's vierte Auflage in two Google volumes (bub_gb_UhGy213I5g4C 1873,
+       bub_gb_I_ruEjSNXNoC 1874, 'Vierter Band'), the zweite Auflage of 1877
+       (bub_gb__B-JIwf7kCMC, bub_gb_S8izhF7nPJYC, bub_gb_QaYn8SzQQE8C,
+       bub_gb_r7RyvIRTrEkC, and the 2014 scan smtlichewerke04/06/14scho) - but their
+       Fraktur OCR is a transliteration mess ('3lrt^ur S(^openI)auers' for 'Arthur
+       Schopenhauers'), not a text. The one readable volume in hand, ia_11173023
+       (zweite Auflage, Band 1, 1877, whence file 77), holds the Latin and the prefaces
+       and no 'Vierfache Wurzel' at all. So the candidate copies are NAMED and the
+       readable German text with its notes is still NO DATA: it needs page images, or a
+       library whose OCR was redone.
+
+STANDING HOLES IN THE COORDINATES
+  Files 60-66  the 1877 second band: no citable pages, because that edition's
+             GENERAL running head over the Parerga gives no number (a head that
+             names the whole volume is not furniture).
+  Files 67-71  the 1851 first band: boundaries interpolated, since the display
+             headings were garbled; page images would settle them.
+  Files 73-76  no usable running heads: cite Gwinner 1863 by chapter, the colour
+             treatises by chapter and preface, the letters by file and place.
+  Files 78-79  recovered OWN-PAGE heads (113 and 30): citable as the pieces' own
+             pagination, which is not the volume's.
+  Files 01-02  Zürcher Ausgabe labels; secondary citations are another book's
+             pages (rule 41, and spot-check 49's measured drift).
+
+TEXT-STATE NO DATA (OCR-only comparisons)
+  1836 against 1854, "Ueber den Willen in der Natur" (files 58, 59).
+  1816 against 1854, the colour theory (files 74, 75).
+  1830 against 1877, the Latin theory (file 77, the 1830 printing not held).

@@ -1,0 +1,46 @@
+# TIER 1 PRIMARY (documentary: court record of his own case) | German, scan-backed
+# title: Kammergericht (Oberappellationssenat), Erkenntnis im Injurienprozess wider Arthur Schopenhauer, 4. Mai 1827
+# title_en: Berlin Kammergericht: defamation judgment against Schopenhauer, 4 May 1827
+# year: 1827
+# edition: transcribed from the print in Muscheler, Die Schopenhauer-Marquet-Prozesse, S. 141 (scan on Wikimedia Commons)
+# translator: none (German original)
+# copyright: public domain
+# source: https://de.wikisource.org/wiki/Kammergericht_(Oberappellationssenat)_-_Injurienprozess_gegen_Schopenhauer
+# fetched: 2026-10-26
+# note: records the words he admitted using of her (altes Luder) and the penalty of 20 rt under ALR II, 20, 610/617
+
+# gericht: w:Kammergericht|Kammergericht (Oberappellationssenat)
+# ort: Berlin
+# datum: 4. Mai 1827
+# verfahrensgang: vorgehend Hausvogteigericht (1. März 1822); Kammergericht (Civil-Deputation, 7. Juni 1822)
+# gegner: w:Arthur Schopenhauer|Arthur Schopenhauer (= Revident)
+# quelle: commons:File:KG(OAS) Schopenhauer 1827.jpg|Scan von [http://books.google.de/books?id=xwfPUUVkuowC ''Muscheler'', Die Schopenhauer-Marquet-Prozesse], S. 141
+# weitere fundstellen: [http://kalliope.staatsbibliothek-berlin.de/cgi-bin/aDISCGI/w3_p/lib/adis.htm?WEB=JA&ADISDB=HS&ADISOI=01452011 Kalliope]
+# zitierte dokumente: [http://www.smixx.de/ra/Links_F-R/PrALR/PrALR_II_20.pdf ALR II, 20], §§&nbsp;610, 617
+# anmerkungen: Zur Zivilgerichtsbarkeit in Injuriensachen vgl. [http://www.smixx.de/ra/Links_F-R/PrALR/PrALR_II_17.pdf ALR II, 17], §&nbsp;8. Zur instanziellen Zuständigkeit des Oberappellationssenats s. [http://books.google.de/books?id=Q1NEAAAAcAAJ&pg=188 Cabinetsordre vom 10. Mai 1826]. Zum Verfahren s. [http://books.google.de/books?id=UIQqAAAAYAAJ&pg=508 AGO I, 34].</br>Zur Strafmilderung mangels Vorstrafe s. [http://books.google.de/books?id=yw5GAAAAcAAJ&pg=PA223 Circular-Verordnung vom 30. Dezember 1798] (4, § 16). Zur Strafe bei Realinjurien s. ALR II, 20, §&nbsp;628. Zur heutigen Rechtslage s. §§&nbsp;223, 240, 185 StGB.
+# bearbeitungsstand: korrigiert
+In Sachen des Doctors Schoppenhauer Verkl. Appellaten und Revidenten gegen Caroline Marquet Klägerin Appellantin und Revisin
+Erkennt der Ober-Appellations-Senat den Acten gemäß für Recht
+Daß das am 7ten Junius 1822 publicirte Erkenntniß der Civil-Deputation des Königl. Kammergerichts lediglich zu bestätigen, auch der Revident schuldig sei, die Kosten dieser Instanz allein zu tragen und zu erstatten.
+
+Von Rechts wegen
+Gründe
+
+[S. 1]
+Schon die von dem Verkl. eingestandene Verbalinjurie, daß er die Klägerin, eine Person des mittlern Bürgerstandes, altes Luder geschimpft, würde die erkannte Strafe von 20 rt vollkommen rechtfertigen, nach den § 610 und 617 Allg. Land-Recht Th. II tit. 20. Es kommt nun aber hinzu, daß er auch Realinjurien hinzugefügt hat. In der That gehörte die Entreé, in welcher er die Klägerin nicht leiden wollte, gar nicht zu seiner Wohnung, er konnte also die gewaltsame Herausstoßung der Klägerin sicher nicht mit dem Hausrecht rechtfertigen.
+
+[S. 2]
+Denn was er von der Befugniß gegen diejenigen spricht, welche Jemand auch vor seiner Wohnung turbiren, paßet hier keineswegs, da er selbst nicht angibt, daß die Klägerin, welche bloß in der Entreé saß, ihn dort im mindesten turbirt hatte. Wenn er aus der mündlichen Nebenabrede bei dem schriftlichen Miets-Contracte auch gegen die Wirthin ein Recht gehabt, zu verlangen, daß sie niemand dort leide, so war er doch gegen dritte Personen, die er dort fand, nicht zu Gewalt berechtigt. Aber wenn er auch des Haus-Rechts sich hätte bedienen mögen, so übertreibt er dies Recht, indem er sie am Halse gefaßt, aus dem Zimmer schleppte, so daß ihr dabei eine Warze vom Halse abgerißen wurde, dann sie über eine Commode rückwärts bog und in dieser Stellung sie festhielt, dann aus der Thüre und zur Erde warf.
+
+v. Braunschweig
+
+Urkundlich unter des Königl. Hausvoigtei Gerichts Siegel und Unterschrift
+
+Berlin d. 4. Mai 1827.
+
+Kategorie:Rechtsgeschichte
+Kategorie:Rechtswissenschaft
+Kategorie:Gerichtsentscheidung
+Kategorie:1820er Jahre
+Kategorie:Deutschland
+Kategorie:Neuhochdeutsch

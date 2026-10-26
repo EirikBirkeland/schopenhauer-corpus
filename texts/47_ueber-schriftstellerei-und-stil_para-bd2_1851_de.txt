@@ -1,0 +1,1501 @@
+# TIER 1 PRIMARY (published work) | German original | first edition, 1851, from a Google scan with a readable but imperfect OCR
+# title: Ueber Schriftstellerei und Stil (in: Parerga und Paralipomena, Zweiter Band)
+# title_en: On writing and on style - the English title is this collection's rendering
+# year: 1851
+# edition: First edition: Parerga und Paralipomena. Kleine philosophische Schriften, Zweiter Band, Berlin: A. W. Hayn 1851, S. 421-447. Text layer: the Google scan bub_gb_WuUOAAAAIAAJ, the copy that also yielded files 27 and 30-46. The chapter's display heading stands in this copy as "Kapitel XXI. Ueber Shriftfiellerei und Stil. $. 272. Zuvdrbe" - the OCR missets numerals and letters, so cite by words and pages.
+# translator: none (German original)
+# copyright: public domain
+# source: https://archive.org/details/bub_gb_WuUOAAAAIAAJ
+# fetched: 2026-10-26
+# note: ADDED IN PASS 10, which took the second band of Parerga, as the collection holds it, to TWENTY-FOUR chapter files (27 and 30-52), all but one from this one scan, and its paragraph numbers run on from chapter to chapter (spot-check 23). His essay on writing, and the neighbour of Selbstdenken: the print opens it at § 272, which follows Selbstdenken's §§ 257-271, and the file's own line-beginning marks read 238 to 287 because the OCR lifts a cross-reference to a line beginning - so read the heading's number, not the sweep. OCR warning: f for the long s and sometimes f for k, so search both shapes (bin/schop-grep.js -f) and read a quotation against the scan before repeating it.
+
+[Note of this collection, not part of the print: Google's OCR of the 1851 first edition, the copy that also yielded files 27 and 30-46. It prints f for the long s, sometimes b for d and B for V, and it mangles a heading or a page's first line; the long s has been normalised to s (674 here). Cut between the print's own display headings; the heading in this copy reads "Kapitel XXI. Ueber Shriftfiellerei und Stil. $. 272. Zuvdrberft". Page markers were made only from running heads naming this chapter inside its proved range (13 made, S. 422 to S. 444); the chapter's range by the volume's own heads is S. 421-447.]
+
+Kapitel XXI.
+Ueber Shriftfiellerei und Stil.
+
+
+$. 272.
+
+Zuvdrberft giebt es zweierlei Schriftfteller: solche, Die der
+Sache wegen, und folde, die des Schreibens wegen fchreiben.
+Jene haben Gedanken gehabt, oder Erfahrungen gemacht, bie
+ihnen mittheilensmwerth fcheinen; Diefe brauchen Geld, und bes-
+bald fchreiben fie, für Geld. Sie denken zum Behuf des Schrei-
+bend. Man erfennt fie daran, daß fie ihre Gedanfen möglichft
+lang ausfpinnen und auch halbwahre, fchiefe, foreirte und schwan—
+fende Gedanfen ausführen, aud) meiftens das Helldunfel Tieben,
+um zu scheinen was fie nicht find; weshalb ihrem Schreiben Be-
+flimmtheit und volle Deutlichfeit abgeht. Man fann daher bald
+merfen, daß fie um Papier zu füllen fehreiben: bei unfern beften
+Schhriftftellern fann man e8 mitunter: 3. DB. ftellenweife in Lef-
+sings Dramaturgie. Sobald man es merft, foll man das Buch
+wegwerfen: denn die Zeit ift ebel. — Honorar und Verbot des
+Nachdrucks find im Grunde der Verderb der Litteratur. Schrei-
+benswerthes fchreibt nur wer ganz allein der Sache wegen fchreibt.
+Welch ein unfhägbarer Gewinn würde es feyn, wenn, in allen
+Fächern einer Titteratur, nur wenige, aber vortrefflihe Bücher
+eriftirten. Dahin aber fann es nie fommen, fo lange Honorar
+zu verdienen ift.
+
+&. 273.
+
+Wiederum kann man fagen, es gebe dreierlei Autoren: erft-
+lich solche, welche fehreiben, ohne zu benfen. Sie fhreiben aus
+dem Gedächtniß, aus Neminiscenzen, oder gar unmittelbar aus
+fremden Büchern. Diefe Klaffe ift die zablreichfte. — Zweitens
+foldhe, die während des Schreibens denken. Sie denfen, um zu
+fpreiben. Sind fehr häufig. — Drittens folche, die gebacht ha-
+
+
+Ueber Schriftftellerei und Stil. 421
+
+
+ben, ehe fie and Schreiben giengen. Sie fchreiben bloß, weil fie
+gedacht Haben. Sind felten.
+
+Jener Schriftfteller der zweiten Art, der das Denfen big
+zum Schreiben aufichiebt, ift dem Jäger zu vergleichen, der aufs
+Gerathewohl ausgeht: er wird schwerlich fehr viel nah Haufe
+bringen. Hingegen wird das Schreiben des Schriftftellers der
+dritten, seltenen Art, einer Treibjagd gleichen, als zu welcher
+bag Wild zum voraus eingefangen und eingepferdht worden,
+um nachher haufenmweife aus solchem Behältniffe herauszuftrömen
+in einen andern ebenfalls umzäunten Raum, wo ed dem Jäger
+nicht entgehn fannz fo daß er jest ed bloß mit dem Zielen und
+Schießen (der Darftellung) zu thun hat. Dies ift die Jagd,
+welche etwas abwirft. —
+
+Sogar nun aber unter ber Heinen Anzahl von Schriftftel-
+fern, die wirklich, ernftlich und zum voraus denken, find wieder
+nur Außerft wenige, welche über die Dinge felbft denfen: bie
+übrigen denken bloß über Bücher, über das von Andern Ge-
+fagte. Sie bedürfen nämlih, um zu denken, ber nähern und
+Rärfern Anregung durch fremde, gegebene Gedanfen. Diefe wer-
+den nun ihr nächstes Themas; daher fie stets unter dem Einfluffe
+derselben bleiben, folglich nie eigentliche Driginalität erlangen.
+Jene erfteren hingegen werben durch die Dinge felbft zum
+Denken angeregt; daher ihr Denken unmittelbar auf diefe gerich-
+tet ift. Unter ihnen allein find Die zu finden, welche bleiben und
+unfterblich werben. — Es verfteht fich, daß hier von hohen Fä-
+bern die Rede ift, nicht von Schriftftellern über das Brannt-
+weinbrennen.
+
+Nur wer bei Dem, was er fihreibt, den Stoff unmittelbar
+aus feinem eigenen Kopfe nimmt, ift werth, dag man ihn Yefe.
+Aber Büchermacher, Kompendienfchreiber, gewöhnliche Hiftorifer
+u.a. m. nehmen den Stoff unmittelbar aus Büchern: aus bie-
+jen geht er in die Finger, ohne im Kopf auch nur Transitogoll
+und Bifitation, geschweige Bearbeitung, erlitten zu haben. Das
+ber Hat ihr Gerede oft fo unbeflimmten Sinn, daß man vergeb-
+lich fih den Kopf zerbricht, herauszubringen, was fie denn am
+Ende denfen. Sie denfen. eben gar nit. Das Buch, aus bem
+fie abjchreiben, ift bisweilen eben fo verfaßt: alfo ift es mit die⸗
+jer Schriftftelferei, wie mit Gypsabdrücken son Abbrüden yon
+
+ [S. 422]
+
+
+Abdrücken u. s. f, wobei am Ende der Antinous zum kaum fennt-
+fihen Umriß eines Gefichted wird. Daher foll man Kompila-
+
+
+toren möglihft felten Iejen: denn es ganz zu vermeiden ift schwer;
+
+
+indem fogar die Rompendien, welde das im Laufe vieler Jahr:
+hunderte zufammengebradte Willen im engen Raum enthalten,
+zu den Kompilationen gehören.
+
+
+Wer über einen Gegenfland fich belehren will, hüte fid, |
+
+
+fogleich nur nach ben neueften Büchern darüber zu greifen, in
+ber Borausfegung, baß bei Abfaffung diefer die Altern benutzt
+worben feien. Das find fie wohl; aber wie? Der Schreiber
+verfteht oft die Altern nicht gründlich, will Dabei doch nicht ge
+radezu ihre Worte gebrauchen, verballhornt und verhungt daher
+das von ihnen fehr viel beffer und deutlicher Gefagte; da fie aus
+eigener und lebendiger Sachkenntniß gefchrieben haben. Zudem
+will er ed wohl noch gar befler verftehn, als fie, und fest feine
+Serthümer an die Stelle ihrer Wahrheiten. Hieher gehören aud
+die Ueberfeger, welche ihren Autor zugleich berichtigen und bear:
+beiten; welches mir ftetS impertinent vorkommt. Schreibe du
+felbft Bücher, welche des Uebersetzens werth find und Laß’ Anders
+ver Werke wie fie find. — Man Iefe aljo, wo möglich, die eigent⸗
+lichen Urheber, Begründer und Erfinder der Sachen, oder wenig:
+stens die anerfannten großen Meifter des Fachs, und Faufe lie
+ber die Bücher aus zweiter Hand, als ihren Inhalt. Weil
+aber freilich inventis aliquid addere facile est, fo wird man,
+nach wohlgelegtem Grunde, mit den neueren Zuthaten sich be-
+fannt zu machen haben. Im Ganzen alfo gilt bier, wie überall,
+biefe Regel: das Neue ift felten das Gute; weil das Gute mır
+furze Zeit das Neue ift.
+8. 274.
+
+Ein Buch kann nie mehr feyn, ald der Abdrud der Geban-
+fen des Verfassers. Der Werth diefer Gedanken Tiegt entmeber
+im Stoff, alfo in Dem, worüber er gedacht hat; oder in der
+Form, d. h. der Bearbeitung des Stoffe, alfo in Dem, was er
+darüber gedacht hat.
+
+Das Worüber ift gar mannigfaltig, und eben fo bie Bor
+züge, welde es den Büchern eriheilt. Aller empirische Stoff,
+also alles historisch, oder physisch, Thatsächliche, an sich selbst und
+im weitesten Sinne genommen, gehört hieher. Das Eigenthuͤm⸗
+
+
+Ueber Schriftftellerei und Stil. 423
+
+
+liche Kiegt dabei im Objeft; daher dad Buch wichtig feyn Fann,
+wer auch immer der Berfafler fei.
+
+Beim Was hingegen liegt das Eigenthümliche im Sub-
+jeft. Die Gegenftände können solche feyn, weiche allen Men—
+jchen zugänglid und befannt find: aber die Form ber Auffaffung,
+das Was des Denfend, ertheilt bier den Werth und Liegt im
+Subjeft. ft daher ein Buch von diefer Seite vortrefflich und
+ohne Gleichen; fo ift es fein Verfasser auch. Hieraus folgt,
+dag das Verdienst eines lesenswerthen Schriftftellers um fo grö-
+fer ift, je weniger ed dem Stoffe verbanft, mithin fogar, je be=
+fannter und abgenugter biefer if. So 3. B. haben bie brei gro-
+fen griechischen Tragiker fämmtlich den felben Stoff bearbeitet.
+
+Also fol man, wenn ein Buch berühmt ift, wohl unterfchei-
+den, ob wegen des Stoffe, oder wegen ber form.
+
+Ganz gemöhnlihe und platte Menfchen Fönnen, vermöge
+des Stoffs, fehr wichtige Bücher Liefern, indem derfelbe gerabe
+nur ihnen zugänglich war: 3. B. Beichreibungen ferner Länder,
+feltener Naturerfheinungen, angeftellter Versuche, Gefchichte, de-
+ven Zeuge fie gewesen, oder deren Quellen aufzufuchen und fpe-
+ciell zu ftudieren fie Mühe und Zeit verwendet haben.
+
+Hingegen wo es auf die Form ankommt, indem ber Stoff
+Jedem zugänglich, oder gar fchon befannt if; wo alfo nur das
+Was des Denkens über denfelben der Leiftung Werth geben
+fann; da vermag nur ber eminente Kopf etwas Lesenswerthes
+zu liefern. Denn die Uebrigen werben allemal nur Das benfen,
+was jeder Andere auch denken kann. Sie geben den Abdruck
+ihres Geiftes: aber von dem befist Jeder schon felbft das Dri-
+ginal. |
+
+Das Publifum jedoch wendet feine Theilnahme fehr viel
+mehr dem Stoff, als der Form zu, und bleibt eben daburd in
+feiner höheren Bildung zurüd.
+
+Das diesem schlechten Hange fröhnende Unternehmen, durch
+den Stoff zu wirken, wird abfolut verwerflich in Fächern, wo
+das Verdienst ausdrüflich in der Form Tiegen fol, — also in
+ben poetischen. Dennoch fieht man häufig schlechte dramatische
+Schriftftelfer beftrebt, mittelft des Stoffes das Theater zu füllen:
+so z. B. bringen fie jeben irgend berühmten Mann, fo nadt an
+dramatifchen Vorgängen fein Leben auch gewesen seyn mag, auf
+
+ [S. 424]
+
+
+die Bühne, ja, bisweilen ohne auch nur abzuwarten, daß die
+mit ihm auftretenden Personen gestorben seien.
+$. 275.
+
+Das eigentliche Leben eines Gedanfens dauert nur bis er
+an den Gränzpunft der Worte angelangt ift: da petrificirt er,
+ift fortan todt, aber unverwüftlich, gleich den verfteinerten Thie-
+ven und Pflanzen der Vorwelt. Aud dem des Kryftalls, im
+Augenblick des Anfchiegens, Tann man fein momentanes eigent-
+liches Leben vergleichen.
+
+Sobald nämlich unfer Denken Worte gefunden hat, ift es
+fhon nicht mehr innig, nod im tiefiten Grunde ernfl. Wo es
+anfängt für Andere dazufeyn, hört es auf, in und zu eben;
+wie das Kind fid) von der Mutter ablöft, wann es ins eigene
+Dafeyn tritt. Sagt doch auch der Dichter:
+
+
+„Ihr müßt mich nicht durch Widerspruch verwirren!
+Sobald man fprichi, beginnt man schon zu irren.“
+
+
+$. 276.
+
+Die Feder ift dem Denfen was ber Stod dem Gehn: aber
+ver leichtefte Gang ift ohne Stock und das vollfommenfte Den-
+fen geht ohne Feder vor fih. Erst wenn man anfängt alt zu
+werben, bedient man fich gern des Stodes und gern der Feder.
+
+$. 277.
+
+Eine Hypothese führt in dem Kopfe, in welchem fie ein
+Mal Platz gewonnen hat, oder gar geboren ift, ein Leben, wel—
+ches infofern dem eined Organismus gleicht, ald fie von der
+Außenwelt nur das ihr Gedeihliche und Homogene aufnimmt,
+hingegen das ihr Heterogene und Berberbliche entweder gar nicht
+an fih fommen läßt, oder, wenn es ihr unvermeidlich zugeführt
+wird, ed ganz unverfehrt wieder ercernirt.
+
+8. 278,
+
+Die Satire foll, gleih der Algebra, bloß mit abftraften
+und unbeftimmten, nicht mit fonfreten Werthen, oder benannten
+Größen operiren; und an lebendigen Menschen darf man fie fo
+wenig, wie die Anatomie, ausüben; bei Strafe feiner Haut
+und feines Lebens nicht ficher zu feyn.
+
+$. 279.
+Um unfterblich zu feyn, muß ein Werf fo viele Trefflich-
+
+
+Meber Schrifjitellerei und Stil. 425
+
+
+keiten haben, daß nicht leicht sich Einer findet, der sie alle faßt
+und schätzt; jedoch allezeit diese Trefflichkeit von Diesem, jene
+von Jenem erkannt und verehrt wird; wodurch der Kredit des
+Werkes, den langen Lauf der Jahrhunderte hindurch, und bei
+stets wechselndem Interesse, sich doch erhält, indem es bald in
+diesem, bald in jenem Sinne verehrt und nie erschöpft wird.
+— Der Urheber eines folchen aber, alfo Der, welder auf ein
+Bleiben und Leben noch bei der Nachwelt Anspruch hat, kann
+nur ein Menfch feyn, der nicht bloß unter feinen Zeitgenoflen,
+auf der weiten Erbe, feines Gleichen vergeblich fucht und von
+jedem Andern, durch eine fehr merflihe Verschiedenheit, augen:
+fällig abflicht; fondern der, wenn er fogar, wie ber ewige Jude,
+mehrere Generationen burchwanderte, fi dennoch im felben Kalle
+befinden würde; kurz, Einer, von dem das Arioftilche lo fece
+natura, e poi ruppe lo stampo wirklich gilt. Denn fonft
+wäre nicht einzufehn, warum feine Gedanfen nicht untergehn
+jolften, wie alle andern.
+$. 280.
+
+Zu faft jeder Zeit ift, wie in ber Kunft, fo aud in ber
+Litteratur, irgend eine falsche Grundansicht, oder Weife, oder
+Manier, im Schwange und wird bewundert. Die gemeinen
+Köpfe find eifrig bemüht, folche fi anzueignen und fie zu üben.
+Der Einfihtige erfennt und verfehmäht fie: er bleibt außer der
+Mode. Aber nah einigen Jahren fommt aud das Publikum
+dahinter und erfennt die Fakse für Das, was fie ift, verlacht fie
+jest, und die bewunderte Schminfe aller jener manierirten Werfe
+fällt ab, wie. eine fchlechte Gipsverzierung yon der Damit beffei-
+beten Mauer: und wie diefe ftehn fie alsdann ba.
+
+$. 281.
+
+Gegen die gewiflenlofe Tintenklexerei unferer Zeit und ge—
+gen die demnach immer höher fteigende Sündfluth unnüger und
+Ichlechter Bücher follten die Litteraturzeitungen der Damm
+seyn, indem folche, unbeftechbar, gerecht und firenge urtheilend,
+jedes Machwerf eines Unberufenen, jede Schreiberei, mittelft mel-
+her der leere Kopf dem Ieeren Beutel zu Hülfe Fommen will,
+folglich wohl % aller Bücher, schonungslos geißelten und da—
+durch pflichtgemäß dem Schreibefigel und der Prellerei entgegen-
+arbeiteten, statt jolche dadurch zu befördern, daß ihre niederträch⸗
+
+ [S. 426]
+
+
+tige Toleranz im Bunde fteht mit Autor und Verleger, um bem
+Publiko Zeit und Geld zu rauben. ft, ober war, etwan Eine
+unter ihnen, welche fih rühmen fann, nie die nichtswürdigste
+Schreiberei gelobt, nie das Vortreffliche getabelt und herabgesetzt,
+oder verfchmißterweife, um die Blicke davon abzulenfen, es als
+unbebeutend behandelt zu haben? ift Eine, melde stets die Aus—
+wahl des Anzuzeigenden gewiflenhaft nah ber Wichtigkeit ber
+Bücher, und nicht nach Gevatterrefommendationen, kollegialischen
+Rücksichten, oder gar Verlegerschmiergeld, getroffen hat? Sieht
+nicht Jeder, der Fein Neuling ift, fobald er ein Buch ftarf ge>
+Yobt, oder fehr getabelt findet, faft mechanisch fogleich zurück nach
+der Verlegerfirma? Beftände Hingegen eine Litteraturzeitung, wie
+die oben verlangte; fo würbe jedem fchlechten Schriftfteller, jedem
+geiftlofen Kompilator, jedem Abjchreiber aus fremden Büchern,
+jedem hohlen, unfähigen, anftelungshungrigen Philofophafter, je-
+bem verblafenen, eiteln Poetafter, die Ausficht auf den Pranger,
+an welchem fein Machwerk nun bald und unfehlbar zu ftehn hätte,
+die judenden Schreibefinger Yähmen, zum wahren Heil der Litte—
+ratur, als in welcher das Schlechte nicht etwan bloß unnütz, fon-
+dern pofitiv verderblich ist. Nun aber find die allermeiften Bü-
+cher fchlecht und hätten follen ungefchrieben bleiben: folglich follte
+das Lob fo felten feyn, wie es jegt, unter dem Einfluß perfön-
+Yicher Rüdfichten und der Marime accedas socius, laudes lau-
+deris ut absens, ber Tadel if. Es ift durchaus falfch, Die
+Toleranz, welche man gegen ftumpfe, hirnlose Menfchen, in ber
+Gesellschaft, die überall von ihnen wimmelt, nothwendig haben
+muß, aud auf die Litteratur übertragen zu wollen. Denn bier
+find fie unverfhämte Eindringlinge, und hier das Schlechte her-
+abzufegen ift Pflicht gegen das Gute: denn wem nichts für
+schlecht gilt, dem gilt auch nichts für gut. Freilich könnte eine
+Litteraturzeitung, wie ich fie will, nur von Leuten gefchrieben
+werben, in welchen unbeftechbare Reblichfeit mit feltenen Kennt⸗
+nissen und noch feltenerer Urtheilsfraft vereint wäre: Demnach
+fönnte ganz Deutichland allerhöchstens und kaum eine solche
+Litteraturzeitung zu Stande bringen, bie dann aber baftehn würde
+als ein gerechter Areopag, und zu ber jedes Mitglied von ben
+fämmtlihen Andern gewählt feyn müßte; statt daß jegt die Lit:
+teraturzeitungen von Univerfitätögilden, ober Litteratenfliquen, im
+
+
+Ueber Schriftftellerei und Stil. [S. 427]  zum Nusen des Buch⸗
+handele, betrieben werben und, in ber Regel, einige KRoalitionen
+fchlechter Köpfe zum Nichtauffommenlafien des Guten enthalten.
+Nirgends ift mehr Unreblichkeit, als in ber Litteratur: Das fagte
+schon Göthe, wie ih im „Willen in der Natur” S. 22 des
+Naͤheren berichtet Habe.
+
+Bor allen Dingen daher müßte jenes Schild aller Litterari-
+fchen Unrebfichfeit, die Anonymität, dabei wegfallen. In Lit
+teraturzeitungen bat zu ihrer Einführung der Borwand gedient,
+daß fie den reblichen Recenfenten, den Warner des Publikums,
+schützen follte gegen den Groll des Autors. und feiner Gönner.
+Allein, gegen Einen Fall diefer Art, werden hundert feyn, wo
+fie bloß dient, Den, ber was er fagt nicht vertreten kann, aller
+Berantwortlichfeit zu entziehn, sder wohl gar, die Schande Def-
+fen zu verhüllen, ber feil und nieberträcdhtig genug ift, für ein
+Trinkgeld vom DBerleger, ein schlechtes Buch dem Publiko anzu-
+preifen. Dft auch dient fie bloß, die Obffurität und Unbedeut—
+famfeit des Urtheilenden zu bebeden.
+
+Schon Rouffeau hat, in der Vorrede zur Neuen Heloife,
+gejagt: tout honnöte homme doit avouer les livres quil
+publie. Wie viel. mehr noch gilt Dies von polemifchen Schrif-
+ten, wie doch Recenfionen meiftend find! weshalb Riemer ganz
+Recht Hat, wenn er in feinen „Mittheilungen über Göthe“,
+©. XXIX der Borrede fagt: „Ein offener, dem Geficht fich ftel-
+„Tender Gegner ift ein ehrlicher, gemäßigter, einer mit dem man
+‚sich verftändigen, vertragen, ausföhnen kann; ein verftedter hin—
+„gegen ift ein nieberträdhtiger, feiger Schuft, der nicht
+„so viel Herz bat, fi zu Dem zu befennen, was er urtheilt,
+„nem alfo nicht ein Mal etwas an feiner Meinung Yiegt, fon-
+„dern nur an ber heimlichen Freude, unerfannt und ungeftraft
+„sein Müthchen zu Fühlen.” Dies wird eben auch Göthe's Mei-
+nung gewesen feyn: denn die sprach meiftens aus Riemern.
+Ueberhaupt aber gilt Rousseau's Regel von jeder Zeile, die zum
+Drude gegeben wird. Würde man es Yeiden, wenn ein masfir-
+ter Mensch das Volk harrangiren, oder fonft vor einer Versamm⸗
+Yung reden wollte? und gar wenn er babei Andere angriffe und
+mit Tadel überfchüttete? würden nicht alsbald feine Schritte zur
+Thür hinaus von fremden Fußtritten beflügelt werben?
+
+ [S. 428]
+
+
+Die in Deutichland endlih erlangte und fogleih auf das
+Eprlofefte mißbrauchte Preßfreiheit follte wenigftens durd ein
+Berbot aller und jeder Anonymität und Pfeudonymität be—
+dingt seyn, Damit Jeder für Das, was er durch das weitreichende
+Sprachrohr der Presse öffentlich verfünbet, wenigftens mit feiner
+Ehre verantwortlih wäre, wenn er noch eine hat; und wenn
+feine, damit fein Name feine Rede neutralifirte. Ist denn nicht
+die Anonymität die fefte Burg aller litterarifchen, zumal publi=
+eiftiichen Schurferei? Sie muß alfo eingeriffen werben, bis auf
+den Grund, d. h. fo, daß jelbft jeder Zeitungsartikel überall vom
+Namen des Abfaffers begleitet feyn folle, unter fchwerer Ver—
+antwortlichfeit des Redakteurs für die Richtigkeit der Unter-
+schrift. Daburd würden, weil aud der Unbebeutendefte doch in
+feinem Wohnorte gefannt ift, zwei Drittheile der Zeitungslügen
+wegfallen und die Frechheit mander Giftzunge in Schranfen ge—
+halten werben. In Frankreich greift man eben jest die Sache
+so an.
+
+In der Litteratur aber follten, fo lange jenes Verbot nicht
+existirt, alle redlichen Schriftfteller fi) vereinigen, die Anony-
+mität durch das Brandmark der öffentlich und täglich ausgespro—⸗
+chenen äußersten Beratung zu proffribiren. Wer anonym fchreibt
+und polemifirt, hat eo ipso die Präfumtion gegen fi, daß er
+das Publifum betrügen, oder ungefährbdet Anderer Ehre antaften
+will. Daher follte jede, felbft die ganz beiläufige und außerdem
+nicht tadelnde Erwähnung eined anonymen NRecenfenten nur mit
+telst Epitheta, wie „ber feige anonyme Lump da und da’, ober
+„der verfappte anonyme Schuft in jener. Zeitfhrift” u. s. f. ge—
+fhehn. Dies ift wirflich der anftändige und passende Ton, von
+folhen Gejellen zu reden, damit ihnen das. Handwerk verleibet
+werde. Denn offenbar kann auf irgend welche persönliche Ach—
+tung Jeder doch nur in fo fern Anfpruh haben, als er fehn
+läßt, wer er fei, Damit man wife, wen man vor fich habe; nicht
+aber wer verfappt und vermummt einherfchleicht und fi) dabei
+unnüß macht: vielmehr ift ein Solcher ipso facto vogelfrei.
+Er ift Odvoosv; Ovus, Mr. Nobody (Herr Niemand), und
+Jedem steht e8 frei, zu erklären, daß Mr. Nobody ein Schuft
+fei. Und wenn nun nachmals Einer sich das Verdienst erwirbt,
+jo einem durch Die Spießrutben gelaufenen. Gefellen die Nebel-
+
+
+Ueber Schriftflellerei und Stil. 429
+
+
+kappe abzuziehn und ihn, beim Ohr gefaßt, heranzufchlepyen; fo
+wird bie Nachteule bei Tage großen Jubel erregen. — Bei je—
+der mündlichen VBerläumbung, die man vernimmt, äußert ber
+erfte Ausbruch der Indignation, in der Regel, -fih durch ein
+„Wer fagt Das?’ — Aber da bleibt die — die Ant⸗
+wort schuldig.
+
+§. 282.
+
+Der Stil ist die Physiognomie des Geistes. Sie ist un—
+trüglicher, als die des Leibes. Fremden Stil nachahmen heißt
+eine Maske tragen. Wäre diese auch noch so schön, so wird sie,
+durch das Leblose, bald insipid und unerträglich; so daß selbst
+das häßlichste lebendige Gesicht besser ist. Darum gleichen denn
+auch die lateinisch schreibenden Schriftsteller, welche den Stil der
+Alten nachahmen, doch eigentlich den Masken: man hört nämlich
+wohl was sie sagen; aber man sieht nicht auch dazu ihre Phy—
+siognomie, den Stil. Wohl aber sieht man auch diese in den
+lateinischen Schriften der Selbstdenker, als welche sich zu je—
+ner Nachahmung nicht bequemt haben, wie z. B. Skotus Erigena,
+Petrarka, Bako, Kartesius, Spinoza, Hobbes u. a. m.
+
+Affektation im Stil ist dem Gesichterschneiden zu vergleichen.
+— Die Sprache, in welcher man schreibt, ist Die Nationalphy-
+fiognomie: fie stellt große Unterschiede fest, — von der Griechi—
+schen bis zur Karaibischen.
+
+8. 283.
+
+Um über den Werth der Geiftesprobufte eines Schriftftel-
+Vers eine vorläufige Schäßung anzuftellen, ift es nicht gerade
+nothwendig, zu wiflen, worüber, oder was er gebadht habe;
+dazu wäre erfordert, daß man alle feine Werfe durchläse; —
+fondern zunächst ift ed hinreichend, zu wissen, wie er gedacht
+habe. Bon diefem Wie des Denfend nun, von dieser wefentli-
+chen Beichaffenheit und durdigängigen Qualität desselben, ift
+ein genauer Abdruck fein Stil. Diefer zeigt nämlich die for-
+melle Beichaffenheit aller Gedanfen eines Menfchen, welche fich
+ftets gleich bleiben muß; was und worüber er auch denfen
+möge. Man hat daran gleichfam den Teig, aus dem er alle
+feine Geftalten Fnetet, fo verfchieden fie auch feyn mögen. Wie
+daher Eulenspiegel dem Fragenden, wie lange er, bid zum näch—
+fen Orte, noch zu gehn habe, bie. fiheinbar ungereimte Antwort
+
+ [S. 430]
+
+
+gab „Gehe!“, im der Absicht, erst aus feinem Gange zu er-
+meflen, wie weit er, in einer gegebenen Zeit, fommen würde;
+jo lese ich aus einem Autor ein Paar Seiten, und weiß dann
+schon ungefähr, wie weit er mich fördern fann.
+
+Im fillen Bewußtfeyn dieses Bewandnisses der Sache, sucht
+jeder Mediofre feinen, ihm eigenen und natürlichen Stil zu mas⸗
+firen. Dies nöthigt ihn zunächft auf alle Naivetät zu ver-
+zichten; jo daß diese das Vorrecht der überlegenen und sich felbft
+fühlenden, daher mit Sicherheit auftretenden Geifter bleibt. Jene
+Alltagstöpfe nämlich können schlechterdings fich nicht entfchließen,
+zu fchreiben, wie fie denken; weil ihnen ahndet, daß alsdann
+das Ding ein gar einfältiges Anfehn erhalten könnte. Es wäre
+aber immer doch etwad. Wenn fie alfo nur ehrlich zu Werfe
+gehn und das Wenige und Gewöhnliche, was fie wirklich gebacht
+haben, fo wie fie es gedacht haben, einfach mittheilen wollten ;
+fo würden fie lesbar und fogar, in der ihnen angemeflenen
+Sphäre, belehrend seyn. Allein, flatt Defien, ftreben fie nad
+dem Schein, viel mehr und tiefer gebacht zu haben, als ber Fall
+if. Sie bringen demnach was fie zu fagen haben in gezwun-
+genen, fehwierigen Wendungen, nen gejchaffenen Wörtern und
+weitläuftigen, um ben Gebanfen herumgehenden und ihn verhül-
+enden Perioden vor. Sie schwanken zwifchen dem Beftreben,
+denselben mitzutheilen, und dem, ihn zu verstecken. Sie möchten
+ihn fo aufftugen, daß er ein gelehrtes, oder tieffinniged Ansehn
+erbielte, damit man denke, es ftede viel mehr bahinter, ald man
+zur Zeit gewahr wird. Demnach werfen fie ihn bald ftückweife
+hin, in kurzen, vieldeutigen und paraboren Ausfprücen, die viel
+mehr anzubeuten feheinen, als fie befagen (Herrliche Beispiele
+diefer Art liefern Schellings naturphilofophifche Schriften); bald
+wieber bringen fie ihren Gebanfen unter einem Schwall von
+Worten vor, mit der unerträglichften Weitjchweifigfeit, ald brauchte
+eds Wunder welche Anftalten, den tiefen Sinn beflelben verftänd-
+Yih zu machen, — während es ein ganz fimpler Einfall, wo
+nicht gar eine Trivialität ift (Fichte, in feinen populären Schrif-
+ten und hundert elende, nicht nennenswerthe Strohföpfe, in ihren
+philosophischen Lehrbüchern, Tiefen Beispiele in Fülle); oder aber
+fie befleißigen sich irgend einer beliebig angenommenen, vornehm
+seyn follenden Schreibart, z. B. einer fo recht zur’ sboynw gründ-
+
+
+Ueber Schriftfiellerei und Stil. 431
+
+
+lichen und wiflenfchaftlihen, wo man dann von ber narfotifchen
+Wirfung lang gejponnener, gedankenleerer Perioden zu Tode ge-
+martert wird; (Beifpiele bievon geben befonders jene unver:
+ihämteften aller Sterblichen, die Hegelianer, in der Hegelzeitung,
+vulgo Jahrbücher der wiflenfchaftlichen Litteratur); oder gar fie
+haben es auf eine geiftreihe Schreibart abgejehn, wo fie dann
+verrüdt werden zu wollen feheinen, u. dgl. m. Alle folhe Be:
+mühungen, durch welche fie das nascetur ridiculus mus hits
+auszufchieben fuchen, machen es oft schwer, aus ihren Sachen
+herauszubringen, was fie denn eigentlich wollen. Zubem aber
+fchreiben fie auch Worte, ja, ganze Perioden hin, bei denen fie
+jelbft nichts denfen, jedoch hoffen, daß ein Andrer etwas babei
+denfen werde. Allen solchen Anftrengungen Tiegt nichts Anderes
+zum Grunde, ald das unermüdliche, stets auf neuen Wegen sich
+verfuchende Beftreben, Worte für Gebanfen zu verfaufen, und,
+mittelft neuer, ober in neuem Sinne gebrauchter Ausbrüde, Wen:
+dungen und Zufammenfegungen jeder Art, den Schein des Gei-
+stes bervorzubringen, um den fo schmerzlich gefühlten Mangel
+desselben zu ersetzen. Beluftigend ift. es, zu jehn, wie, zu biefem
+Zwede, bald diefe bald jene Manier verfucht wird, um fie als
+eine den Geift vorftellende Maske vorzunehmen, melde dann
+auch wohl auf eine Weile bie Unerfahrenen täufcht, bis auch fie
+eben als iodte Maske erkannt, verlacht und dann gegen eine an-
+dere vertaufcht wird. Da fieht man die Schriftfieller bald bi-
+thyrambifch, wie befoffen, und bald, ja fchon auf der nächften
+Seite, hochtrabend⸗, ernst⸗, gründlich-gelehrt, bis zur fchwerfällig-
+fien, Heinfauendeften Weitichweifigfeit, gleich ber des weiland
+Ehriftian Wolff, wiewohl im modernen Gewande. Am Tängften
+aber hält die Maske der Unverständlichkeit vor, jeboch nur in
+Deutfchland, ald wo fie, von Fichte eingeführt, von Schelling
+vervollfommnet, endlih in Hegel ihren höchsten Klimar erreicht
+bat: stets mit glüdtichftem Erfolge. Und doch ift nichts leichter,
+als fo zu fehreiben, daß fein Mensch es verfteht; wie hingegen
+nichts fchwerer, als bedeutende Gedanken fo auszubrüden, daß
+Jeder fie verftehn muß: Alle oben angeführten Künfte nun aber
+macht die wirkliche Anwesenheit des Geiftes entbehrlih: denn fie
+erlaubt, daß man fi) zeige, wie man ift, und beftätigt allegeit
+ben Ausspruch des Horaz:
+
+ [S. 432]
+
+
+scribendi reete sapere est et prineipium et fons.
+
+Jene aber machen es wie gemwille Metallarbeiter, welche hundert
+verfchievene Kompofitionen verfuchen, die Stelle des einzigen,
+ewig unerjeglichen Goldes zu vertreten. Vielmehr aber follte,
+ganz im Gegentheil, ein Autor fih vor nichts mehr hüten, als
+vor dem fichtbaren Beftreben, mehr Geift zeigen zu wollen, als
+er hat; weil Dies im Lejer den Verdacht erwedt, daß er deflen
+sehr wenig habe, da man immer und in jeder Art nur Das
+affeftirt, was man nicht wirffich befist. Eben deshalb ift es ein
+Lob, wenn man einen Autor naiv nennt; indem es befagt, daß
+er fich zeigen barf, wie er ift. LVeberhaupt zieht das Naive an:
+die Unnatur hingegen schreckt überall zurüd. Auch fehn wir je
+den wirflihen Denfer bemüht, feine Gedanfen fo rein, deutlich,
+fiher und kurz, wie nur möglich, auszufprechen. Demgemäß it
+Simplieität ftetd ein Merkmal, nicht allein der Wahrheit, fon
+dern auch des Genies gewesen. Der Stil erhält die Schönheit
+vom Gedanfen; ftatt daß, bei jenen Scheindenfern, die Gedanken
+durch den Stil fchön werben jollen. Ist doch der Stil der bloße
+Schattenriß des Gedankens: undeutlich, oder schlecht schreiben,
+heißt bumpf, oder konfus denken.
+
+Daher nun ift die erfte, ja, schon für fi) allein beinahe
+ausreichende Regel des guten Stils diefe, Daß man etwas zu
+fagen habe: o, damit fommt man weit! Aber die Bernadläl-
+figung derfelben ift ein Grundharafterzug der philofophifchen und
+überhaupt aller. refleftirenden Schriftfteller in Deutichland, be
+fonders feit Fichte. Allen solchen Schreibern nämlich ift anzu
+merken, daß fie etwas zu fagen scheinen wollen, während fie
+nichts zu fagen haben. Diefe durch die Pfeubophilofophen der
+Univerfitäten eingeführte Weile kann man durchgängig und selbst
+bei den erfien litterarifchen Notabilitäten der Zeitperiobe beob-
+achten. Sie ift die Mutter des gejchrobenen, vagen, zweideuti—
+gen, ja, vieldeutigen Stils, imgleichen des weitläuftigen und
+fchwerfälligen, des stile empese, nicht weniger des unnügen
+Wortschwalls, endlih auch des Versteckens der bitterften Gedan-
+fenarmuth unter ein unermübdliches, klappermühlenhastes, betäu-
+bendes Gefaalbader, daran man ftundenlang lesen kann, ohne
+irgend eines deutlich ausgeprägten und beflimmten Gebanfens
+babhaft zu werben. Bon biefer Art und Kunft liefern jene be
+
+
+Weber Schrififtellerei und. Stil. 433
+
+
+rüchtigten „Halle'schen“, nachher „Deutschen Jahrbücher“ faft
+durchweg auserlesene Muster. — Inzwischen hat die deutsche
+Gelassenheit sich gewöhnt, dergleichen Wortkram jeder Art, Seite
+nach Seite zu lesen, ohne sonderlich zu wissen, was der Schrei-
+ber eigentlih will: fie meint eben, Das gehöre fi) fo, und
+fommt nicht dahinter, daß er bloß fchreibt, um zu fehreiben. Ein
+guter, gedanfenreicher Schriftfteller hingegen erwirbt fich bei fei-
+nem Leser bald den Kredit, daß er im Ernft und wirklich etwas
+zu fagen babe, wann er spricht: und Dies giebt dem verftän-
+digen Lefer die Geduld, ihm aufmerffam zu folgen. Ein folder
+Schhriftfteller wird auch, eben weil er wirklich etwas zu fagen
+bat, sich stets auf die einfachfte und entfchiedenfte Weife aus-
+drüden; weil ihm daran liegt, gerade den Gedanken, den er
+jest hat, auch im Lefer zu ermeden und feinen andern. Dem-
+* wird er mit Boileau sagen dürfen:
+
+
+Ma pensée au grand jour partout s’offre et s’expose,
+Et mon vers, bien ou mal, dit toujours quelque chose;
+
+
+während von jenen vorher Gefchilderten das et qui parlant
+beaucoup ne disent jamais rien desselben Dichters gilt. Zur
+Charakteristik derfelben gehört num auch Dies, daß fie, wo möglich,
+alle entfchiedenen Ausdrüde vermeiden, um nöthigenfalls "im-
+mer noch den Kopf aus der Schlinge ziehn zu können: daher
+wählen fie in allen Fällen den abftrafteren Ausbrud; Leute
+von Geift hingegen den Fonfreteren; weil dieser die Sache der
+Anfchaufichfeit näher bringt, welche die Duelle aller Evidenz ift.
+Jene Borliebe für das Abftrafte läßt sich durch viele Beispiele
+belegen: ein besonders Tächerliches aber ift diefes, daß man in
+der Deutschen Schriftftellerei diefer Testen zehn Jahre faft überall,
+wo „bewirken, oder „verurfachen” ftehn follte, „bedingen“
+findet; weil Dies, ald abftrafter und unbeftimmter, weniger be-
+fagt (nämlich „nicht ohne Dieses“ flatt „durch Dieses“) und
+daher immer noch Hinterthürchen offen läßt, die Denen gefallen,
+‚welchen das ftille Bewußtseyn ihrer Unfähigfeit eine beftändige
+Furt vor allen entschiedenen Ausdrücken einflößt. Bei An-
+‚dern jedoch wirft hier bloß der nationale Hang, in ber Littera-
+tur jede Dummheit, wie im Leben jede Ungezogenheit, fogleich
+
+
+nachzuahmen, welcher durch das fchnelle Umfichgreifen Beider bes
+I. 25
+
+ [S. 434]
+
+
+legt wird; während ein Engländer, bei Dem, was er fehreikt,
+wie bei Dem, was er thut, fein eigenes Urtheil zu Rathe zieht:
+Dies ift im Gegentheil Niemanden weniger nachzurühmen, als
+dem Deutichen. In Folge des befagten Hergangs find die Worte
+„bewirken“ und „verurfachen” aus der Bücherfprache der legten
+10 Jahre faft ganz verschwunden und überall ift bloß von „be
+bingen” die Rede. Die Sade ift, des «harakteriftifch Lächer⸗
+lihen wegen, ermähnenswertb.
+
+Man könnte die Geiftlofigfeit und Langweiligfeit der Sıhrif-
+ten ber Alltagsföpfe fogar daraus ableiten, daß fie immer nur
+mit halbem Bewußtseyn reden, nämlich den Sinn ihrer eigenen
+Worte nicht felbft eigentlich verftehn, da folhe bei ihnen ein Er
+lerntes und fertig Aufgenommenes find; daher fie mehr die gan-
+zen Phrafen (phrases banales) als die Worte zufammengefüg!
+haben. Leute von Geift hingegen reden, in ihren Schriften,
+wirklich zu und, und daher vermögen fie, und zu beleben und
+zu unterhalten: nur fie ftellen bie einzelnen Worte mit vollem
+Bewußtseyn, mit Wahl und Abfiht zufammen. Daher verhält ihr
+Bortrag fih zu dem der oben Geschilderten wie ein wirklich ge;
+maltes Bild zu einem mit Schablonen verfertigten: dort näm⸗
+lich liegt in jedem Wort, wie in jedem Pinselstrich, speeielle
+Abfiht; hier Hingegen ift Alles mechanisch aufgefegt. Den felben
+Unterfhied kann man in der Mufif beobachten. Denn überall
+ift es stets Die Allgegenwart des Geifted in allen Theifen, welde
+bie Werfe des Genies harakterifirt: fie ift der von Lichten⸗
+berg bemerften Allgegenwart der Seele Garrids in allen
+Muskeln feines Körpers analog.
+
+In Hinfiht auf die oben angeregte Langweiligkeit der
+Schriften ift jedoch die allgemeine Bemerfung beizubringen, daf
+es zwei Arten von Langmeiligfeit giebt: eine objektive und eine
+fubjeftive. Die objektive entfpringt allemal aus dem bier in
+Rede ftehenden Mangel, aljo daraus, daß der Autor gar fein
+vollfommen deutliche Gedanken, oder Exfenntniffe, mitzutheilen
+hat. Denn wer solche hat, arbeitet auf feinen Zweck, die Mit
+theilung derfelben, in geraber Linie hin, liefert daher überall
+deutlich ausgeprägte Begriffe und ift fonacd weder meitfchmeifig,
+noch nichtssagend, noch konfus, folglich nicht langweilig. Selbfi
+wenn fein Grundgedanke ein Irrthum wäre; fo ist er, im solchem
+
+
+Ueber Schrififieferei und Stil. 435
+
+
+Fall, doch deutlich gedacht und wohl überlegt, also wenigftene
+formell richtig, wodurch die Schrift immer noch einigen Werth
+behält. Hingegen ift, aus den jelben Gründen, eine objektiv
+langweilige Schrift allemal auch fonft werthlos. — Die fub-
+jeftive Langweiligfeit hingegen ift eine bloß relative: fie hat
+ihren Grund im Mangel an Interesse für den Gegenftand, beim
+Lefer; diese aber in irgend einer Befchränftheit defielben. Sub-
+jeftiv langweilig fann daher auch das Bortrefflichfte feyn, näm⸗
+ih) Diefem oder Jenem; wie umgefehrt auch das Schlechtefte
+Diefem oder Jenem subjektiv⸗kurzweilig feyn fann; weil ber
+Gegenftand, oder ber Schreiber, ihn intereffirt. —
+
+Den deutihen Schriftftellern würde durchgängig bie Einficht
+zu Statten fommen, daß man zwar, wo möglich, denken foll wie
+ein: großer Geift, hingegen die jelbe Sprache reden wie jeder
+Andere. Wir finden fie nämlich, umgefehrt, bemüht, triviale
+Begriffe in vornehme Worte zu hüllen und ihre fehr gewöhnli⸗
+hen Gedanken in die ungewöhnlishiten Ausbrüde, die gejuchte-
+fen, preziosesten und feltfamfien Redensarten zu Fleiden. Hin-
+sichtlich dieses Wohlgefallens am Bombaft, überhaupt am hoch—
+trabenden, aufgebunfenen, pretiöfen, byperbolifchen und aerobati-
+hen Stile, ift ihr Typus der Fähnrich Piftol, dem fein Freund
+Fallftaff ein Mal ungeduldig zuruft: „Sage was du zu fagen
+haft, wie ein Mensch aus diefer Welt!’ — Liebhabern von
+Beifpielen: widme ich folgende Anzeige: „Nächstens erfheint in
+unferm Berlage: Theoretifch- praftiich wissenschaftliche Physiolo⸗
+gie, Pathologie und Therapie der fogenannten Blähungen, worin
+biefe, in ihrem organischen Zufammenhange, ihrem Seyn und
+Wefen nah, wie auch mit allen fie bebingenden, äußern und
+innern, Faufalen Momenten, in der ganzen Fülle ihrer Erfchei-
+nungen und Bethätigungen, sowohl für das allgemein menschliche,
+als für das wissenschaftliche Bewußtfeyn, foftematifch dargelegt
+werden: eine freie, mit berichtigenden Anmerkungen und erläu-
+ternden Exkursen ausgeftattete Mebertragung des Französischen
+Werkes: Vart de peter.“
+
+Für stile empese findet man im Deutichen. feinen genau
+entfprechenden Ausdruck; defto häufiger aber die Sache felbft.
+Wenn mit Preziofität verbunden, ift er in Büchern was im
+Umgange bie affeftirte Gravität, VBornehmigfeit und Preziofität,
+
+28"
+
+ [S. 436]
+
+
+und eben fo unerträglih. Die Geiftesarmuth kleidet sich gern
+barin; wie im Leben die Dummheit in die Gravität und For-
+malität.
+
+Wer preziös fchreibt gleicht Dem, der sich berauspust,
+um nicht mit dem Pöbel verwechselt und vermengt zu werben;
+eine Gefahr, welche der Gentleman, auch im schlechtesten An-
+zuge, nicht läuft. Wie man daher an einer gewiflen Kleider⸗
+pracht und dem tire a quatre Epingles den Plebejer erfennt;
+fo am preziöfen Stil den Alltagskopf.
+
+Nichtsdestoweniger ift es ein falsches Befireben, geradezu fo
+fchreiben zu wollen, wie man redet. Vielmehr foll jeder Schrift-
+ftil eine gewifle Spur der Verwandtschaft mit dem Lapidarftil
+tragen, der ja ihrer aller Ahnherr ist. Jenes ift daher jo ver-
+werflich, wie das Umgefehrte, nämlich reden zu wollen, wie man
+schreibt; welches pedantisch und schwer verftändlich zugleich ber-
+ausfommt.
+
+Dunfeldeit und Undeutlichfeit des Ausbruds ift allemal und
+überall ein sehr fchlimmes Zeichen. Denn in 99 Fällen unter
+100 rührt fie her von der Undeutlichkeit des Gedankens, welche
+jelbft wiederum faft immer aus einem urfprünglichen Mißver-
+hältniß, Inkonsistenz und alfo Unrichtigfeit desselben entipringt.
+Wenn, in einem Kopfe, ‚ein richtiger Gedanfe auffteigt, firebt er
+schon nad der Deutlichfeit und wird fie bald erreichen: das beut-
+ih Gedachte aber findet Teicht feinen angemeflenen Ausdrud,
+Was ein Mensch zu denfen vermag läßt fih aud allemal in
+Haren, faßlihen und ungmweideutigen Worten ausbrüden. Die,
+welche schwierige, dunfele, verflochtene, zweideutige Neben zufam-
+menfegen, wissen ganz gewiß: nicht recht, was fie fagen wollen,
+fondern haben nur ein dumpfes, nad) einem Gedanfen erft rin
+gended Bewußtseyn davon: oft aber auch wollen fie sich felber
+und Andern verbergen, daß fie eigentlich nichts zu fagen haben.
+Sie wollen, wie Fichte, Schelling und Hegel, zu wiflen fcheinen,
+was fie nicht wiflen, zu denken, mas fie nicht denfen, und zu
+fagen, was fie nicht fagen. Wird denn Einer, der etwas Rech—
+tes mitzutheilen bat, sich bemühen, unbeutlich au reden, ober
+deutlich?
+
+Wie jedes Uebermaaß einer Einwirkung meiftend das Ge-
+gentheil des Bezweckten Herbeiführt; fo dienen zwar Worte, Ge
+
+
+Ueber Schriftitellerei und Stil. | 437
+
+
+danfen faßlich zu machen; jedoch aud nur bis zu einem gewissen
+Punkt. Ueber diefen hinaus angehäuft, machen fie bie mitzu—
+theifenden Gedanken wieder dunkler und immer dunkler. Jenen
+Punkt zu ireffen ift Aufgabe des Stils und Sade ber Urtheile-
+fraft: denn jebes überflüffige Wort wirkt feinem Zwecke gerade
+entgegen. In diefem Sinne fagt Voltaire: lVadjectif est
+P’ennemi du substantif.
+
+Demgemäß vermeide man alle Weitichweifigfeit und alles
+Einflechten unbedeutender, der Mühe des Lejens nicht Iohnender
+Bemerfungen. Man muß fparfam mit der Zeit, Anftrengung
+und Geduld des Lesers umgehn: dadurch wird man bei ihm fi)
+den Kredit erhalten, daß was bafteht des aufmerffamen Lesens
+werth ift und feine darauf zu verwendende Mühe belohnen wird.
+Immer noch beffer, etwas Gutes wegzulassen, ald etwas Nichts:
+fagendes hinzusetzen. Alfo, wo möglich, lauter Duinteflenzen,
+fauter Hauptfachen, nichts, was der Leser auch allein denfen
+würde. — Viele Worte machen, um wenige Gedanken mitzuthei-
+fen, ift überall das untrügliche Zeichen der Mittelmäßigfeit; das
+des eminenten Kopfes dagegen, viele Gedanfen in wenige Worte
+zu fchließen. Ä |
+
+Die Wahrheit ift nadt am schönsten, und der Eindrud, den
+fie macht, um fo tiefer, als ihr Ausbrud einfacher war; theilg,
+weil fie dann das ganze, durch keinen Nebengedanfen zerfireute
+Gemüth ded Hörers ungehindert einnimmt; theild, weil er fühlt,
+dag er hier nicht durch rhetorifche Künfte beftochen, oder getäufcht
+it, fondern die ganze Wirkung von der Sache felbft ausgeht.
+3. B. welche Deflamation über die Nichtigfeit des menschlichen
+Dafeyns wird wohl mehr Eindruck maden, als Hiob's: homo,
+natus de muliere, brevi vivit tempore, repletus multis mi-
+seriis, qui, tanquam flos, egreditur et conteritur, et fugit
+velut umbra. — Eben daher fteht die naive Poefie Göthe’s fo
+unvergleichlich höher als die rhetoriihe Schillers. Daher aud
+die ftarfe Wirkung mancher Bolfölieder. Deshalb nun hat man,
+wie in der Baufunft vor der Weberladung mit. Zierrathen, in
+den redenden Künften sich vor allem nicht nothwendigen vhetori«
+hen Schmud, alfen unnügen Amplififationen und überhaupt vor
+allem Ueberfluß im Ausdruck zu hüten, alfo sich eines keuschen
+Stiles zu befleißigen. Alles Entbehrliche wirft nachtheilig. Das
+
+ [S. 438]
+
+
+Gesetz der Einfachheit und Naivetät, da diefe fih auch mit dem
+Erhabenften verträgt, gilt für alle schönen Künfte.
+
+Die ächte Kürze des Ausdrucks befteht darin, daß man
+überall nur fagt was fagenswerth ift, hingegen alle weitschwei—
+figen Auseinanderfegungen Deflen, was Jeder felbft hinzudenfen
+kann, vermeidet, mit richtiger Unterfcheidung des Nöthigen und
+Ueberflüffigen. Hingegen foll man nie der Kürze die DeutlichFeit,
+gefchweige die Grammatik, zum Opfer bringen. Den Ausdrud eines
+Gedanfens zu fchwächen, oder gar den Sinn einer Periode zu ver—
+dunfeln, oder zu verfümmern, um einige Worte weniger hinzu—
+feßen, ift beflagensmwerther Unverstand. Gerade Dies aber ift das
+Treiben jener falfchen Kürze, die heut zu Tage im Schwange ift
+und darin befteht, da man dad Zmeddienlidhe, ja, das gram-
+matifh, oder Togifh, Nothwendige wegläßt. In Deutfchland
+find die fchlechten Skribenten feßiger Zeit von ihr, wie von einer
+Manie, ergriffen und üben fie mit unglaublichem Unverftande.
+Nicht nur, daß fie, um ein Wort zu erfparen, ein Verbum,
+oder ein Adjektiv mehreren und verfchiedenen Perioden zugleich
+dienen lassen, welche man num alle, ohne fie zu verftehn und wie
+im Dunfeln tappend, zu durchlesen hat, bis endlich das Schluß:
+wort fommt und und ein Licht darüber aufftedt; fondern noch
+durch mancherlei andere, ganz ungehörige Worterfparniffe fuchen
+fie Das hervorzubringen, was fie fih unter Kürze des Ausdrucks
+und gedrungener Schreibart denfen. So werden fie, durch öfo-
+nomifche Weglaflung eines Wortes, welches mit Einem Male
+Licht über eine Periode verbreitet hätte, diefe zu einem Räth—
+fel machen, weldes man durch wiederholtes Lesen aufzuffären
+sucht. Insbesondere find die Partifen Wenn und So bei ihnen
+proffribirt und müssen überall durch Vorsetzung des Verbi erfegt
+werben, ohne die nöthige, für Köpfe ihres Schlages freilich auch
+zu fubtile, Disfrimination, wo diefe Wendung paffend fei, und wo
+nicht; woraus denn oft nicht nur gefehmadlofe Härte und Affe:
+tation, fondern auch Unverftändlichfeit erwächst. Aber ihr Ta-
+lent in der Kürze des Ausdrucks geht nun ein Mal nicht wei—
+ter, ald die Worte zu zählen und auf Pfiffe zu denken, irgend
+eines, oder auch nur eine Silbe, um jeden Preis, auszumerzen.
+Ganz allein hierin fuchen fie die Gedrungenheit des Stils und
+Rernhaftigfeit des Vortrags. Demzufolge haben diefe unwissen⸗
+
+
+a
+
+
+Ueber Schriftitellerei und Stil. 439
+
+
+den Tintenflerer, in den 1840ger Jahren, aus der deutfchen
+Sprache das Perfekt und Plusquamperfeft ganz verbannt, indem
+fie, beliebter Kürze halber, folche überall durch das Imperfekt
+erfegen, fo daß dieses das einzige Präteritum ber Sprache bleibt,
+auf Koften, nicht etwan bloß aller feineren Nichtigfeit, oder auch
+nur aller Grammaticität der Phrafe; nein, oft auf Koften alles
+Menihenverftandes, indem baarer Unfinn daraus wird. Sch
+wollte wetten, daß aus diefen letzten zehn Jahren fi ganze
+Bücher vorfinden, in denen fein einziges Plusquamperfeftum, ja,
+vielleicht auch fein Perfeftum, vorfommt. Beinahe ausnahme«
+108 wird diefer Frevel gegen die Sprache ausgeübt in allen Zei-
+tungen und größtentheild aud in den gelehrten Zeitfchriften; in—
+dem, wie schon erwähnt, in Deutfchland, jede Dummheit in ber
+Litteratur und jede Ungezogenheit im Leben, Schaaren von Nach⸗
+ahmern findet und Keiner wagt auf eigenen Beinen zu stehn;
+weil eben, wie ich nicht bergen kann, die Urtheilskraft nicht zu
+Haufe ift, fondern bei den Nachbarn, auf Bifiten. — Durd) die
+befagte Eritirpation jener zwei wichtigen Temporum finft nun
+aber eine Sprade faft zum Range der allerroheften herab. —
+Es thäte daher Noth, daß man eine Kleine Sprachschule für
+deutsche Schriftfteller errichtete, in welcher der Unterschied zwischen
+Imperfektum, Verfeftum und Pludquamperfeftum gelehrt würde;
+nächftvem auch der zwischen Genitiv und Ablativ; da, immer
+allgemeiner, biefer ftatt jenes gefest und ganz unbefangen z. B.
+„das Leben von Leibnig”, ftatt Leibnigens Leben, und „ver Tod
+von Andreas Hofer’, ftatt Hofers Tod, gejchrieben wird. Wie
+würde in andern Sprachen ein folder Schnitzer aufgenommen
+werden? was würden 3. B. die Staliäner fagen, wenn ein
+Schriftfteller di und da (d. i. Genitiv und Ablativ) vertaufchte!
+Aber weil im Französischen biefe beiden Partikeln durch bag
+dumpfe, stumpfe de vertreten werden und die moberne Sprad)-
+fenntniß deutfcher Bücherfchreiber nicht über ein geringes Maaß
+Französisch hinauszugehn pflegt, glauben fie jene franzöftiche
+Armfäligfeit auch der deutschen Sprache aufheften zu bürfen, und
+finden, wie bei Dummbeiten gewöhnlid, Beifall und Nachfolge.
+Die vorgeichlagene Sprachichule könnte auch Preisaufgaben ftellen,
+3. B. den Unterichieb bes Sinnes der beiden Fragen: „find Sie
+
+ [S. 440]
+
+
+1)
+geftern im Theater gewesen?“ und „waren Sie geftern im Thea-
+ter?’ deutlich zu machen.
+
+Noch ein anderes Beiipiel falfcher Kürze Liefert der allına-
+fig allgemein gewordene falihe Gebrauh des Wortes nur.
+Bekanntlich ift die Bedeutung desselben limitirend, es besagt
+nämlich „nicht mehr als.“ Nun aber weiß ich nicht, welcher
+Queerkopf zuerst es gebraucht hat für „nicht anders als“, wel—
+ches ein ganz verschiedener Gedanke ist: aber wegen der dabei
+zu lukrirenden Wortersparniß fand der Schnitzer sogleich die
+eifrigste Nachahmung; so daß jetzt der falsche Gebrauch des
+Wortes der häufigste ist, obschon dadurch oft das Gegentheil von
+Dem, was der Schreiber beabsichtigt, eigentlich gesagt wird.
+Hieher gehört auch der, jetzt allgemeine adverbiale Gebrauch
+des Adjektivs „ähnlich“, der zwar ein Paar ältere Beispiele mag
+aufweisen können, mir jedoch allemal wie ein Mißton klingt.
+
+Am auffallendesten aber zeigt jenes falsche Streben nach
+Kürze sich in der Verstümmelung der einzelnen Wörter. Um
+Tagelohn dienende Büchermacher, gräuelich unwissende Litteraten
+und feile Zeitungsschreiber beschneiden die deutschen Wörter von
+allen Seiten, wie Gauner die Münzen; Alles bloß zum Zweck
+beliebter Kürze, — wie sie solche verstehn. In diesem Streben
+werden sie den unbändigen Schwätzern gleich, welche, um nur
+recht Vieles in kurzer Zeit und in Einem Athem heraus zu
+sprudeln, Buchstaben und Silben verschlucken und, hastig nach
+Luft schnappend, ihre Phrasen ächzend abhaspeln, wobei sie dann
+die Worte nur zur Hälfte aussprechen. Solchermaaßen also
+werden auch von Zenen, um recht Bieled auf wenig Naum zu
+bringen, Buchstaben aus der Mitte und ganze Silben vom An:
+fang und Ende der Wörter weggefchnitten. Zuvörderst nämlid
+werben die der Profodie, der Ausipradhe und dem Wohllaute
+dienenden Doppeloofale und verlängernden h überall herausge-
+riffen, danach aber Alles, was noch irgendwo ablösbar ift, weg:
+nommen. Vorzüglich hat diefe vandalifhe Zerfiörungsmuth un
+jerer. Wortbefnapper sich auf die ‚Endfilben „ung“ und „feit”
+gerichtet; eben nur weil fie die Bedeutung derfelben nicht verftehn,
+noch fühlen, und, unter ihrer dien Hirnfchale, weit davon ent-
+fernt find, den feinen Taft zu fpüren, mit welchem überall unfere
+inftinftmäßig fprachhildenden Borfahren jene Silbenmopulation
+
+
+Ueber Schriftjtellerei und Stil. 441
+
+
+angewandt haben, indem fie nämlich dur „ung“, in der Re—
+gel, das Subjeftive, die Handlung, vom Objektiven, dem Ge-
+genftande derfelben, unterfchieden; durch „keit“ aber meistens
+das Dauernde, die bleibenden Eigenfchaften, ausbrüdten: wie
+3: D. Jenes in Tödtung, Zeugung, Befolgung, Ausmessung
+u. s. w. Dieses in Freigebigfeit, Gutmüthigfeit, Freimüthigfeit,
+Unmöglichkeit, Dauerhaftigfeit u. |. w. Man betrachte 3.3. nur
+die Wörter „Entschließung, Entihluß und Entschlossenheit.“ Je—
+doch viel zu ftumpf, um Dergleichen zu erkennen, fehreiben unfre
+„ietztzeitigen“ rohen Sprachverbesserer z. B. „Freimuth“: dann
+sollten sie auch Gutmuth und Freigabe, wie auch Ausfuhr statt
+Ausführung, Durchfuhr statt Durchführung, schreiben. Durch:
+gängig schreiben sie „Vorlage“, wo nicht, wie doch das Wort
+besagt, das vorzulegende Dokument, sondern die Handlung bes
+Vorlegens, also die „Vorlegung“ gemeint und der Unterschied
+der analoge ist, wie zwischen Beilage und Beilegung, Grundlage
+und Grundlegung, Einlage und Einlegung, Versuch und Berfu-
+hung, Eingabe und: Eingebung und hundert ähnlichen Wörtern.
+Aber wann fogar. hohe Behörden die Sprachdilapidation sanktio⸗
+niren, indem fie nicht nur „Vorlage“ ftatt Vorlegung, fondern
+auch „Vollzug“ ftatt „Vollziehung“ schreiben; fo darf es uns
+nicht wundern, alsbald einen Zeitungsschreiber den „Einzug einer
+Pension“ berichten zu sehn, — womit er ihre Einziehung meint,
+folglich daß sie ihren Einzug nicht ferner halten werde. Denn
+an ihm freilich ist die Weisheit der Sprache, welche von der
+Ziehung einer Lotterie, aber vom Zuge eines Heeres redet, ver⸗
+loren. Allein was darf man von so einem Gazettier erwarten,
+wenn sogar bie gelehrten Heidelberger Jahrbücher (Nr. 24 d. J.
+1850) vom „Einzug seiner Güter“ reden? Höchstens könnten
+diese zu ihrer Entschuldigung anführen, daß es doch nur ein
+Philosophieprofessor ist, der so schreibt. Ich wundre mich, noch
+nicht „Absatz“ statt Absetzung gefunden zu haben, welches ergötz—
+liche Mißverständnisse herbeiführen könnte. Wirklich gefunden
+aber habe ich, in einer vielgelesenen Zeitung, und zwar mehr⸗
+mals, „Unterbruch“ statt Unterbrechung; wodurch man verleitet
+werben kann zu denken, bier sei die gewöhnliche Hernia, im Ge-
+genjag bes Leiftenbruche, gemeint. — Und body haben gerade die
+‚Zeitungen am wenigften Urfache, Die Worte zu befchneiden; da
+
+ [S. 442]
+
+
+folche, je Yänger fie find, defto mehr ihre Spalten ausfüllen, und
+wenn Dies durch unfchuldige Silben geichieht, fie dafür ein Paar
+Lügen weniger in die Welt fchiden fünnen. Ganz ernftlich muß
+ih nun aber hier zu bevenfen geben, baß gewiß mehr, als 3,
+ber überhaupt lesenden Menschen nichts, ald die Zeitungen, le—
+fen, folglich faft unausbleiblich ihre NRechtichreibung, Grammatif
+und Stil nad diejen bilden, und fogar, in ihrer Einfalt, ber-
+gleichen Sprachverhunzungen für Kürze bed Ausdrucks, elegante
+Leichtigkeit und feharffinnige Sprachverbeflerung halten, ja, über:
+haupt den jungen Leuten ungelehrter Stände die Zeitung, weil
+fie doch gebrudt ift, für eine Auftorität gilt. Daher follte, in
+allem Ernft, von Staats wegen dafür geforgt werden, daß bie
+Zeitungen, in sprachlicher Hinfiht, durchaus fehlerfrei wären.
+Man könnte, zu diefem Zweck, einen Nachcenfor anftellen, ber,
+ftatt des Gehaltes, vom Zeitungsfchreiber, für jedes verftümmelte,
+oder nicht bei guten Schriftftellern anzutreffende Wort, mie auch
+für jeden grammatiichen, jelbft nur fontaftifchen Fehler, auch für
+jede in falfcher Verbindung, oder falihem Sinne, gebrauchte Präs
+pofition einen Louisd’or, als Sportel, zu erheben hätte, für freche
+Verhöhnung aller Grammatif aber, wie wenn ein folder Skrib-
+ler, ftatt „hinsichtlich“, hin sichts fchreibt, 3 Louisd'or und im
+MWiederbetretungsfall das Doppelte. Oder ift etwan die beutfche
+Sprache vogelfrei, als eine Kleinigkeit, die nicht des Schutzes
+der Gesetze werth ift, den doch jeder Mifthaufen genießt? —
+Elende Phitifter! — Was, in aller Welt, soll aus ber deutichen
+Spradje werden, wenn Subler und Zeitungsjchreiber diskretionäre
+Gewalt behalten, mit ihr zu schalten und zu walten nah Maaß-
+gabe ihrer Laune und ihres Unverftandes? — Uebrigend aber
+beichränft der in Rebe ftehende Unfug sich keineswegs auf Die
+Zeitungen: vielmehr ift er allgemein und wird in Büchern und
+gelehrten Zeitfchriften mit gleichem Eifer und mit wenig mehr
+Ueberlegung getrieben. Da finden wir Präfira und Affica rüd-
+fichtslos unterfchlagen, indem z. B. „Hingabe” für Hingebung;
+„Mißverstand“, für Mißverftändnig; „Wandeln”, für VBerwans
+bein; „Lauf“, für Verlauf; „Meiden“, für Vermeiden; „Rath-
+schlagen“, für Berathschlagen; „Schlüffe”, für Beschlüsse; „Füh—
+rung“, für Aufführung; „Vergleich“, für Vergleichung; „Zeh—
+zung”, für Auszehrung gesetzt ist, und hundert andere, mitunter
+
+
+Ueber Schriftftellerei und Stil, 443
+
+
+noch fhlimmere Streihe dieser Art. Sogar in sehr gelehrten
+Werfen finden wir die Mode mitgemacht: z. B. in der „Chrono:
+logie der Aegypter“ von Lepfius, 1849, heißt ed, ©. 545. „Mas
+„nethos fügte feinem Geschichtswerke — — — — eine Leberficht
+„— — — —, nach Art ägyptischer Annalen, zu.‘ — also „zus
+fügen”, infligere, für „hinzufügen“ addere; — um eine Silbe
+zu eriparen. Aber die Manie ift umiverfal: Alles greift zu, bie
+Sprache zu demoliren, ohne Gnade und Schonung; ja, wie bei
+einem Bogelichießen, fucht jeder ein Stüd abzulöfen, wo und
+wie er nur fann. Alfo zu einer Zeit, da in Deutschland nicht
+ein einziger Schriftfteller Tebt, deflen Werke fih Dauer verfpre-
+chen bürfen, erlauben fih Bücherfabrifanten, Litteraten und Zei:
+tungsfchreiber die Sprache reformiren zu wollen, und fo sehn
+wir denn diefes gegenwärtige, bei aller Langbärtigfeit, impotente,
+d. h. zu jeder Geiftesproduftion höherer Art unfähige, Gefchlecht,
+feine Muße dazu verwenden, die Sprade, in welcher große
+Schriftsteller gefchrieben haben, auf die muthwilligste und unver:
+fhäntefte Weife zu verftämmeln, um fo fih ein Heroftratifches
+Andenken zu ftiften. Wenn ehemals wohl die Koryphäen ber
+Pitteratur fi, im Einzelnen, eine wohlüberlegte Spradverbefle-
+rung erlaubten; fo hält sich jest jeder Tintenflerer, jeder Zei-
+tungöfchreiber, jeder Herausgeber eines äfthetifchen Winfelblattes
+befugt, feine Tagen an die Sprache zu Tegen, um nad feinem
+Kaprice herauszureißen was ihm nicht gefällt, oder auch neue
+Worte einzufegen.
+
+Hauptfählich ift, wie gefagt, die Wuth dieser Wortbefchnei-
+der auf die Präfixa und Affixa aller Wörter gerichtet. Was
+fie nun durch solche Amputation derfelben zu erreichen fuchen,
+muß wohl die Kürze und durch diefe bie größere Prägnanz und
+Energie des Ausdruds fen: denn die Papiererfparniß ift am
+Ende doch gar zu gering. Sie möchten alfo das zu Sagende
+möglichft kontrahiren. Hiezu aber ift eine ganz andere Procebur,
+als Wortbefnapperei, erfordert, nämlich dieje, daß man bündig
+und koncis denfe: gerade diefe jedoch fieht nicht eben fo einem
+Jeden zu Gebote. Zudem nun aber tft fchlagende Kürze, Ener-
+gie und Prägnanz des Ausbruds nur dadurch möglich, daß bie
+Sprache für jeden Begriff ein Wort und für jede Modiftfation,
+fogar für jede Nünncirung diefes Begriffs eine derfelben genau
+
+ [S. 444]
+
+
+entsprechende Modifilation des Wortes besitze; weil nur durch
+diese, in ihrer richtigen Anwendung, es möglich wird, daß jede
+Periode, sobald sie ausgesprochen worden, im Hörer gerade und
+genau den Gedanken, welchen der Redner beabsichtigt, erwecke,
+ohne ihn auch nur einen Augenblick im Zweifel zu lassen, ob
+Dieses, oder Jenes, gemeint sei. Hiezu nun muß jedes Wur—
+zelwort der Sprache ein modificabile multimodis modifica-
+tionibus feyn, um sich alten Nünncen des Begriffs, und dadurch
+ben Feinheiten des Gedankens, wie ein nafles Gewand, anlegen
+zu. fünnen. Diefes nun wird hauptsächlich gerade Durch die Prä-
+fira und Affira ermöglicht: fie find die Modulationen jeded Grunds
+begriffs auf der Klaviatur der Sprade. Daher haben auch
+Griechen und Römer die Bedeutung faft aller Berba und vieler
+Subftantiva durch Präfixa mobulirt und nüancirt. Man kann
+sich Died an jedem lateinischen Hauptverbo erempliftziren, 3. Bi
+an. ponere, modifizirt zu imponere, deponere, disponere, ex:
+ponerc, componere, adponere, .subponere, superponere, se-
+ponere, praeponere, proponere, interponere, transponere
+u.f. f. Das Selbe läßt fih an deutihen Worten zeigen: 5. B.
+das Subftantiv Sicht wird mobdifteirt zu Ausficht, Einfiht, Durd:
+sicht, Nachsicht, Borficht, Hinficht, Abfiht u. f. f. Oder das Ver:
+bum Suchen, modifteirt zu Auffuden, Aussuchen, Unterfuchen,
+Besuchen, Ersuchen, Berfuhen, Heimsuchen, Durchsuchen, Nach—
+suchen u. s. f. Dies also leisten die Präfixa: läßt man fie, an—
+gestrebter Kürzer halber, weg und sagt, vorkommenden Falls,
+statt aller angegebenen Modifikationen, jedesmal nur ponere,
+oder Sicht, oder suchen; so bleiben alle nähern Bestimmungen
+eines sehr weiten Grundbegriffs unbezeichnet und das Verständniß
+Gott und dem Leser überlassen: dadurch wird also die Sprache
+zugleich arm, ungelenk und roh gemacht. Nichtsdestoweniger ist
+gerade Dies der Kunstgriff der scharfsinnigen Sprachverbesserer
+der „Jetztzeit“. Plump und unwissend, wähnen fie wahrlich,
+unsere so sinnigen Vorfahren hätten die Präfixa müßigerweise,
+aus reiner Dummheit, hingesetzt, und glauben ihrerseits einen
+Geniestreich zu begehn, indem fie solche überall wegfnappen, mit
+Haft und Eifer, mo fie nur Eined gewahr werben; während
+doch in.der Sprache Fein Präftrum ohne Bedeutung ift, feines,
+das nicht diente, den Grundbegriff burch alle feine Mobulationen
+
+
+IR *
+
+
+Ueber Schriftflelleret und Stil. 445
+
+
+durchzuführen und eben dadurch Beftimmtheit, Deutlichfeit und
+Feinheit des Ausdrucks möglich zu machen, melde fobann in
+Energie und Prägnanz deflelben übergehn fann. Hingegen wird
+durch Abjchneiden der Präfixa aus mehreren Wörtern Eines ge-
+macht; wodurd die. Sprache verarmt. Aber noch mehr: nicht
+bloß Wörter find es, fondern Begriffe, die dadurch verloren gehn;
+weil ed alsdann an Mitteln fehlt, diefe zu firiren, und man
+nun bei feinem Reden, ja, felbft bei feinem Denfen, sich mit
+dem a peu pres zu begnügen hat, wodurch die Energie ber
+Rede und die Deutlichfeit des Gedankens eingebüßt wird. Man
+fann nämlich nicht, wie durch solche Beknappung gefchieht, die
+Zahl der Wörter verringern, ohne zugleich bie Bedeutung der
+übrig bleibenden zu erweitern, und wiederum Diejes nicht, ohne
+derfelben ihre genaue Beftimmtheit zu nehmen, folglich ber Zwei⸗
+beutigfeit, mithin der Unflarheit in die Hände zu arbeiten, wos
+durch alsdann alle Präcifion und Deutlichfeit des Ausdrucks, ge-
+schweige Energie und. Prägnanz deffelben, unmöglih gemacht
+wird. Eine Erläuterung biezu liefert fchon die oben gerügte
+Erweiterung ber Bedeutung des Wortes nur, welche sogleich
+Zmeibeutigfeit, ja, bisweilen Falichheit des Ausdrucks herbeiführt.
+— Wie wenig ift doch daran gelegen, daß ein Wort zwei Sil-
+ben mehr. habe, wenn durch diefe der. Begriff näher beftimmt
+wird! Sollte man glauben, daß es Sciefföpfe giebt, die In—
+differenz fchreiben, wo fie Indifferentismus meynen, —
+um diese zwei Silben zu lukriren!
+
+Zu aller Deutlichkeit und Bestimmtheit des Ausdruc, und
+dadurch zur ächten Kürze, Energie und Prägnanz der Rede, sind
+also gerade jene Präfixa, welche ein Wurzelwort durch. alle Mo—
+difikationen und Nüancen seiner Anwendbarkeit durchführen, ein
+unerläßliches Mittel, und eben fo die Affixa, also auch die ver
+fdyiedenartigen ‚Endfilben der von Berben abstammenden Sub»
+ftantiva, wie dieses bereits. oben, an Berfuh und Berfuhung
+u. f. w., erläutert worden. Daher find. beide Modulationsweifen
+der Wörter und Begriffe von unfern Altvordern höchst finnig,
+weife und mit richtigem Takt auf die Sprache vertheilt und den
+Wörtern aufgebrüdt worden. Auf jene aber: ift, in unfern Ta-
+gen, ein Geschlecht roher, unmiflender und unfähiger Schmierer
+gefolgt, welches, mit vereinten Kräften, sich ein Geschäft daraus
+
+
+Ab Oo Heber Schwiftfiellerei und Stil.
+
+
+macht, durch. Dilapination der Wörter jenes alte Kunstwerk zu
+zerstören; weil eben diese Pachydermata für Kunftmittel, welde
+beftimmt find, fein nünneirten Gebanfen zum Ausdrud zu dies
+nen, natürlich feinen Sinn haben: wohl aber verftehn fie, Bud-
+ftaben zu zählen. Hat baber fo ein Pachyderma bie Wahl
+zwischen zwei Wörtern, davon das eine, mittelft feines Prü-
+firums, oder Affirums, dem auszubrädenden Begriffe genau ent-
+fpricht, das andere aber ihn nur fo ungefähr und im Allgemei-
+nen bezeichnet, jedoch drei Buchflaben weniger zählt; fo greift
+unfer Pachyderma unbedenklich nach dem letztern und begnügt sich
+binfichtlich des Sinnes mit dem a peu pres: denn fein Denfen
+bedarf jener Feinheiten nicht; da es doch nur fo in Bauch und
+Bogen geihieht: — aber nur recht wenige Buchstaben! baran
+hängt die Kürze und Kraft des Ausdrudd, die Schönheit ber
+Sprade. Wie follte aber auch fo ein Pachyderma Gefühl ha
+ben für das zarte Wesen einer Sprache, dieses Föftlichen, weichen
+Materials, denfenden Geiftern überliefert, um einen genauen und
+feinen Gedanfen aufnehmen und bewahren zu können? Hingegen
+Buchstaben zählen, Das ift etwas für Pachybermata! Seht da-
+ber, mie fie schwelgen in der Sprachverhungung, diese edeln Söhne
+ber „Jetztzeit“. Seht fie nur an! kahle Köpfe, lange Bärte,
+Drilfen ftatt der Augen, ald Surrogat der Gedanken ein Cigarro
+
+
+im thieriichen Maul, ein Sad auf dem Rüden flatt des Node,
+
+
+Herumtreiben fiatt des Fleißes, Arroganz ftatt der Kenntnifle,
+Frechheit und Kamaraderie flatt ber Verdienste. Ebele „Gebr
+zeit”, herrliche Epigenen, bei der Muttermilch Hegel'scher Phi⸗
+Iofophie herangewachsenes Geschlecht! Zum ewigen Andenken wollt
+ihr euere Tagen in unfere alte Sprache brüden, damit der Ab:
+druck, als Ichnolith, die Spur eueres fchnalen und dumpfen De-
+feynd auf immer bewahre. Aber Di meliora! Fort, Pachyber:
+mata, fort! Dies ift bie deutsche Sprache! in der Men:
+schen sich ausgebrüdt, ja, in der große Dichter gefungen und
+große Denker gefehrieben haben. Zurüdf mit den Tagen! — ober
+ihr follt — hungern. (Died allein fhredt fie.) —
+
+Der gerügten „jestzeitigen‘ Verschlimmbesserung der Sprache,
+durch der Schule zu früh entlaufene und im Unwissenheit heran
+gerwachfene Knaben, ift denn auch bie Interpunftion zur Beute
+
+
+geworden, als welche heut zu Tage, fast allgemein, mit absicht⸗ |
+
+
+Ueber Schrififtellerei und Stil. 447
+
+
+licher, felbfigefälliger Liederlichkeit gehandhabt wird. Was eigents
+lich die Skribler sich dabei denken mögen, ift schwer anzugeben:
+wahrfcheinlich aber foll die Narrheit eine franzöfifche liebenswür⸗
+dige legerete vorflellen, oder auch Leichtigkeit der Auffaflung
+beurfunden und vorausfesen. Mit den Interpunktionszeichen ber
+Druderei wird nämlich umgegangen, ald wären fie von Gold:
+demnach werden etwan brei Viertel der nöthigen Kommata weg⸗
+gelaflen (finde fih zurecht wer fann!); wo aber ein Yunft ftehn
+follte, steht erft ein Komma, oder höchstens ein Semifolon,
+u.dgl.m. Nun aber steckt in ber Interpunktion ein Theil der
+Logif jeder Periode, fofern diese Dadurch marfirt wird: daher ift
+eine solche abfichtliche Liederlichleit geradezu frevelhaft, am mei-
+sten aber, wann fie, wie jest sehr häufig geichieht, sogar von
+si Deo placet Philologen, felbft auf die Ausgaben alter Schrift:
+fieller angewandt und bas Berftänduiß dieser dadurch beträchtlich
+erfchwert wird. Nicht ein Mal das N. T. ift, in feinen meueren
+Auflagen, damit verjchont geblieben. Es liegt am Tage, daß
+eine laxe Interpunktion, wie etwar bie franzöftiche Sprache, we⸗
+gen ihrer fireng logischen und daher furz angebundenen Worts
+folge, und bie englifche, wegen ber großen Aermlichfeit ihrer
+Grammatif, fie zuläßt, nicht anwendbar ift auf relative Urfpra-
+hen, bie, als solche, eine fomplicirte und gelehrte Grammatif
+haben, welche fünftlichere Perioden möglich macht; dergleichen die
+griechifche, lateinische und deutsche Sprade find.
+
+Um nun alfo auf die hier eigentlich in Rede stehende Kürze,
+Koneinnität und Prägnanz des Vortrags zurüdzulommen; fo
+geht eine wirklich solche allein aus dem Reichthum und der In⸗
+haltsschwere der Gedanken hervor, bebarf. baher am alleriwenig-
+sten jener armfäligen, ald Mittel zur Abfürzung des Ausdrucks
+ergriffenen Wort: und Phrafenbefchneiberet, bie ich hier ein Mal
+gehörig gerügt habe. Denn vollwichtige, reichhaftige, alfo über-
+haupt fchreibenswerthe Gedanken müflen Stoff und Gehalt genug
+liefern, um die fie ausfprechenben: Perioden, auch in der gram⸗
+matifchen und lexikalischen Volllommenheit aller ihrer Theile, jo
+fattfam auszufüllen, daß solche nirgends hohl, leer, ober leicht
+befunden werben, fondern der Vortrag überall fur; und prägnant
+bleibt, während an ihm der Gebanfe feinen faßlichen und be-
+quemen: Ausdruck findet, ja, fürh mit Grazie darin entfaltet und
+
+
+448 Neber Scheiftftellerei.und Stil.
+
+
+bewegt. Alfo nicht die Worte und Sprachformen foll man zu-
+jammenziehn, fondern die Gebanfen vergrößern; wie ein Kon—
+valescent durch Herftellung feiner Wohlbeleibtheit, nicht aber durch
+Engermachen feiner Kleider, diefe wieder mie. vormald auszu-
+füllen im Stande feyn fol.
+| &. 284.
+
+Ein heut zu Tage, beim gefunfenen Zuftande der Litteratur
+und bei der Bernadläffigung der alten Spracden, immer bäuft-
+ger werdender, jedoch nur in Deutfchland einheimifcher Fehler
+des Stils ift die Subjeftivität deffelben. Sie befteht darin,
+daß ed dem Schreiber genügt, felbft zu wiflen, was er meint
+und will; der Lefer mag fehn, wie auch) er dahinter fomme. LUn-
+befümmert um diefen, schreibt er eben, als ob er einen Monolog
+hielte, während es denn doch ein Dialog seyn follte, und zwar
+einer, in welchem man fi um fo deutlicher auszubrüden bat,
+als man die Fragen des Andern nicht vernimmt. Eben biefer-
+Halb nun also foll der Stil nicht fubjeftio, fondern objeftio seyn;
+wozu ed nöthig ift, die Worte fo zu ftellen, daß fie den Lefer
+geradezu zwingen, genau das Selbe zu denken, was der Autor
+gedacht hat. Dies wird aber nur dann zu Stande kommen,
+wann der Autor ftetd eingebenf war, daß die Gedanken infofern
+das Gejeg der Schwere befolgen, als fie den Weg vom Kopfe
+auf das Papier viel leichter, ald den vom Vapier zum Kopfe
+zurüdlegen, baher ihnen hiebei mit allen ung zu Gebote ftehen-
+den Mitteln geholfen werden muß. Ist Dies geihehn, fo wir-
+fen. die Worte rein objeftiv, gleichwie ein vollendetes Delgemälbe;
+während der fubjeftive Stil nicht viel ficherer wirft, als bie
+Flecken an der Wand, bei denen Der allein, dessen Phantafte zu-
+fällig durch fie erregt worden, Figuren .fieht, die Andern nur
+Klere. . Der in Rede ftehende Unterschied erftredt fich über bie
+ganze Darftellungsmeife, ist aber oft. auch im Einzelnen nad
+weisbar: foeben 3. B. lese ich in. einem neuen Buche: „um bie
+„Mafle der vorhandenen Bücher zu vermehren, habe ich nicht
+„geschrieben“. Dies: fagt dad Gegentheil von dem, was ber
+—— beabsichtigte, und obendrein eig Ä
+
+285.
+
+
+er nachläffig schreibt legt dabirch zundchf das Befenntniß
+ab, dag er felbft feinen Gebanfen feinen großen Werth beilegt.
+
+
+Ueber Schriftftellerei und Stil. 449
+
+
+Denn nur aus der Ueberzeugung von der Wahrheit und Wich—
+tigfeit unfrer Gedanfen entfpringt die Begeifterung, welche er-
+fordert ift, um mit unermüblicher Ausdauer überall auf den deut—
+lichsten, fchönften und Fräftigften Ausdruck derfelben bedacht zu
+seyn; — wie man nur an Heiligthümer, ober unfchätbare Kunft-
+werfe, filberne oder goldene Behältniffe wendet. Daher baben
+die Alten, deren Gedanfen, in ihren eigenen Worten, schon Jahr⸗
+taufende fortleben, und die deswegen den Ehrentitel Klaffifer
+tragen, mit durchgängiger Sorgfalt gefchrieben; fol doch Plato
+den Eingang feiner Republik fieben Mal, verfchieden mohifizirt,
+abgefaßt haben. — Die Deutfchen hingegen zeichnen sich durch
+Nachläffigfeit des Stils, wie des Anzuges, vor andern Nationen
+aus, und beiderlei Schlumperei entipringt aus der felben, im
+Nationaldharafter Tiegenden Duelle. Wie aber Vernachläffigung
+des Anzurges Geringfhäsung der Gefellfehaft, in die man tritt,
+verrätb, fo bezeugt flüchtiger, nachläfftger, fchlechter Stil, eine be-
+leidigende Geringschätzung des Lesers, welche dann diefer, mit
+Recht, dur Nichtlefen ftraft. Zumal aber find die Recenfenten
+beluftigend, welche im nachläffigften Lohnfchreiberftile die Werfe
+Anderer fritifiven. Das nimmt fid) aus, wie wenn Einer im
+Schlafrock und Pantoffeln zu Gerichte säße. Wie forgfältig
+hingegen werden Edinburgh’ review und Journal des Savants
+abgefaßt! Wie ich aber mit einem fchlecht und schmutzig geklei—
+kleideten Menfchen mich in ein Gespräch einzulaflen vorläufig
+Bedenfen trage; fo werde ich ein Buch weglegen, wenn mir bie
+Fahrläffigfeit des Stils sogleich in die Augen fpringt.
+$. 286.
+
+
+Wenige fchreiben wie ein Architeft baut, der zuvor feinen
+Pan entworfen und bis ind Einzelne durchdacht hatz — viel-
+mehr die Meiften nur fo, wie man Domino fpielt. Wie nim-
+(id) Hier, halb durch Abficht, balb durch Zufall, Stein an Stein
+fich fügt, — fo fteht es eben auch mit der Folge und dem Zu-
+jammenbang ihrer Säße. Kaum daß fie ungefähr wissen, melde
+Geftalt im Ganzen berausfommen wird und wo das Alles hin-
+aus fol. Viele willen felbft Dies nicht, fondern fehreiben, wie
+die Korallenpolypen bauen: Periode fügt fih an Periode, und
+ed geht wohin Gott will,
+
+IT. 29
+
+
+450 ueber Sihriftftellerei und Stil.
+
+
+$. 287.
+
+Der leitende Grundjas der Stiliftif follte jepn, das der
+Mensch nur einen Gedanken zur Zeit deutlich denfen fann; da—
+ber ihm nicht zuzumuthen ift, daß er deren zwei, oder gar meh—
+rere, auf ein Mal denke. — Dies aber muthet ihm Der zu,
+welcher folde, als Zwischensätze, in die Lüden einer zu diesem
+Zwecke zerftüdelten Hauptperiode schiebt; wodurd er ibn alio
+unnötbiger und muthwilliger Weise in Verwirrung fest. Haupt-
+fählih thun Dies die deutschen Schriftsteller. Daß ihre
+Sprade sich dazu befier, als die andern Iebenden, eignet, be—
+gründet zwar bie Möglichkeit, aber nicht die Löblichfeit der Sache.
+Keine Prosa Lieft fich fo Teicht und angenehm, wie die Franzö—
+fifche; weil fie von biefem Fehler, in der Regel, frei if. Der
+Franzose reiht feine Gedanfen, in möglichst logifcher und über-
+haupt natürlicher Ordnung, an einander und legt fie fo feinem
+Lefer fucceffive zu bequemer Erwägung vor. Der Deutiche hin—
+gegen flicht fie in einander, zu einer verschränkten und abermals
+verschränkten und nochmals verfchränften Periode. Also, wäh—
+rend er fuchen folfte, die Aufmerffamkeit feines Lefers anzuloden
+und feitzubalten, verlangt er vielmehr von demfelben noch oben-
+drein, daß er, obigem Gefege der Einheit der Apprebenfion ent-
+gegen, drei oder vier verichiedene Gedanfen zugleich, oder, meil
+Dies nicht möglich ift, in schnell wibrirender Abwechfelung denke.
+Hierdurch legt er den Grund zu feinem stile empese, den er
+fodann Durch preziofe, hochtrabende Ausdrüde, um die einfachiten
+Sachen mitzutbeilen, und jonftige Kunftmittel dieser Art, vollendet.
+
+Durd jene langen, mit in einander gefchachtelten Zwischen—
+jäsen bereicherten und, wie gebratene Gänse mit Nepfeln, aus-
+geftopften Perioden wird eigentlih zunähft das Gedächt niß
+in Anspruch genommen; während vielmehr Verstand und Urtheils—
+fraft aufgerufen werben follten, deren Thätigfeit nun aber ge-
+rade dadurch erihwert und geschwächt wird. Denn dergleichen
+Perioden liefern dem Leser lauter halb vollendete Phrafen, die
+fein Gedächtniß nun jorgfältig sammeln und aufbewahren foll,
+wie die Stüdchen eines zerriffenen Briefe, bis fie durch Die
+jpäter nachlommenden, vejpeftiven andern Hälften ergänzt wer—
+den und dann einen Sinn erhalten. Folglich muß er bis dahin
+eine Weile lefen, ohne irgend etwas zu benfen, vielmehr bloß
+
+
+Ueber Schriftftellerei und CHI. 451
+
+
+Alles memoriren, in der Hoffnung auf ben Schluß, der ihm ein
+Licht auffteden wird, bei dem er num auch etwas zu denken
+enpfangen fol. Das ijt offenbar schlecht. Aber die unverfenn-
+bare Borliebe der gewöhnlichen Köpfe für diefe Schreibart be—
+rubt darauf, daß fie den Lefer erft nad) einiger Zeit und Mühe
+Das verftehn läßt, was er außerdem fogleich verftanden haben
+würde; wodurd nun der Schein entsteht, ald hätte der Schrei-
+ber mehr Tiefe und Berftand, als der Lefer. Auch Dieses alfo
+gehört zu den oben erwähnten Kunftgriffen, mittelft welcher bie
+Mediofren, unbewußt und inftinktartig, ihre Geiftesarmuth zu
+verfteden und den Schein des Gegentheild hervorzubringen sich
+bemühen. Ihre Erfindfamfeit hierin ift fogar erstaunenswerth.
+
+Dffenbar aber ift es gegen alle gefunde Vernunft, einen Ge-
+danfen queer durch einen andern zu fchlagen, wie ein hölzernes
+Kreuz: Dies geichieht jedoch, indem man Dad, was man zu
+jagen angefangen bat, unterbricht, um etwas ganz Anderes ba-
+zwischen zu fagen, und jo feinem Lefer eine angefangene Periode,
+einftweilen no ohne Sinn, in Verwahrung giebt, bis bie Er-
+gänzung nachkommt. Es ift ungefähr, wie wenn man feinen Gä-
+ften einen leeren Teller in die Hand gäbe, mit der Hoffnung, es
+werde noc etwas darauf fommen. Eigentlich find die Zwilchen-
+fommata von ber felben Familie mit den Noten unter der Seite
+und den Parenthefen mitten im Text; ja, alle Drei find im
+Grunde blog dem Grade nad verfchieden. Wenn bisweilen
+Demofthenes und Cicero dergleihen Einfharhtelungsperioden ge-
+macht haben; jo hätten fie beffer gethan, es zu unterlaflen.
+
+$. 238.
+
+Schon in der Logik könnte, bei der Lehre von den analy-
+tischen Urtheilen, beifäufig bemerft werben, daß fie eigentlich
+im guten Vortrage nit vorfommen follen; weil fie sich einfäl-
+tig ausnehmen. Am meiften tritt Dies hervor, wenn vom In—
+dividuo prädieirt wird was schon der Gattung zufommt: wie,
+z. B. ein Ochs, welcher Hörner hatte; ein Arzt, dessen Gefchäft
+ed war, Kranfe zu furiren, u. dgl. m. Daber find fie nur da
+zu gebrauchen, wo eine Erflärung, oder Definition gegeben wer—
+den soll.
+
+$. 289,
+Gleichnisse find yon großem Werthe; fofern fie ein un-
+29?
+
+
+452 Ueber Schriftftellerei und Stil.
+
+
+befanntes Berhältnig auf ein befanntes zurüdführen. Auch die
+ausführlicheren Gleichnisse, welche zur Parabel, oder Allegorie an
+wachfen, find nur die Zurücdführung irgend eines Berhältniffes
+auf feine einfachfte, anfchaulichtte und bandgreiflichfte Darftellung.
+— Sogar beruht alle Begrifföbildung im Grunde auf Gleich—
+niffen; fofern fie aus dem NAuffaffen des Aehnlichen, und Fallen-
+laflen des Unähnlichen in den Dingen erwächst. Ferner beftebt
+jedes eigentliche Verstehn zulest in einem Auffaffen von Ver—
+hältniffen (un saisir de rapports): man wird aber jedes Ver—
+hältnig um fo deutlicher und reiner auffaflen, als man es in
+meit von einander verfchiedenen Fällen und zwilchen ganz bete-
+rogenen Dingen als das felbe wieder erfennt. Go lange näm-
+ih ein Verhältniß mir nur als in einem einzelnen Falle vor-
+handen befannt ift, habe ich von demfelben bloß eine individuelle,
+alfo eigentlih nur noch anschauliche Erfenntniß: sobald ich aber
+aud nur in zwei verfchiedenen Fällen das felbe Verhältnig auf-
+faffe, babe ich einen Begriff von der ganzen Art deflelben,
+also eine tiefere und vollfommenere Erfenntniß.
+
+Eben weil Gfeichniffe ein fo mächtiger Hebel für die Er-
+fenntniß find, zeugt das Aufftellen überrafchender und dabei tref-
+fender Gleichniffe von einem tiefen Verftande. Demgemäß fagt
+auch Ariftoteles: oiv de ueyıorov To uerayogızov zuvor.
+uovov yap rovro ovrs rag wdklov son Anßeıw, evopviag
+Te omusıov £0TV' TO yap EU Merapepsıv To Ouoıov JEw-
+gew sscw’ (at maximum est, metaphoricum esse: so-
+lum enim hoc neque ab alio licet assumere, et boni
+ingenii signum est. Bene enim transferre est simile in-
+tueri.) de poetica, e. 22. Desgleihen: zus ev gyıAocoyıa to
+Ouoıov, za ev nokv d1eyovol, FEwgsiw svoroyov. (etiam in phi-
+losophia sitnile, vel in longe distantibus, cernere perspi-
+cacis est.) Rhet. II, 11.
+
+
+Kapitel X

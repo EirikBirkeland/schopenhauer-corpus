@@ -1,0 +1,67 @@
+TIER 2 SHELF, RANKED BY QUOTATIONS PROVABLY FOUND IN THE PRIMARY TEXTS
+Made by bin/schop-secondary.js. Ranking is by measurement and by reading, never by reputation.
+
+HOW TO READ THE NUMBERS
+   tested = quoted passages of 40+ characters the study offers between quote marks.
+   provable = how many quoted passages were found word for word in one of his own texts,
+   over runs of 30 characters, with capital letters and the old long s made to agree.
+   The figure is a FLOOR: two layers of OCR sit between a study and the primary text, and a
+   The longer the run demanded, the fewer the matches: always name the length with the figure.
+   CITE THE TOOL WITH THE NUMBER: the counts depend on how a quotation is cut out of the page,
+   so bin/schop-audit.js and this script disagree a little about the same study (Volkelt: 46
+   provable here, 34 there, both at 30 characters). Both are floors; neither is a fidelity score.
+   A study written in ENGLISH that quotes in translation is invisible to this test: its low
+   number means the method cannot see it, not that it misquotes. Such studies are listed apart,
+   and are NOT ranked against the German ones.
+
+AUDITABLE: written in German, so a quotation can be looked for in the primary texts
+RANK 1. file 28 | Johannes Volkelt, Arthur Schopenhauer (1900)
+        28_arthur-schopenhauer_johannes-volkelt_1900_de.txt | 117,104 words
+        tested 522 | provable 46 | floor 9% at 30 characters
+        First as an apparatus: the largest quotable body in the shelf and the only one that cites by volume and page - BUT in THIS copy the citations are footnote furniture and the OCR has chewed them (a passage ends with a bare 269) or with a garbled mark), so his references are human-checkable and machine-opaque (spot-check 49). Read for doctrine; test every quotation before use.
+
+RANK 2. file 78 | Julius Frauenstädt, Einleitung des Herausgebers (1877)
+        78_frauenstaedt_einleitung-des-herausgebers_1877_de.txt | 39,513 words
+        tested 276 | provable 31 | floor 11% at 30 characters
+        The editor of the collected edition, with the papers in hand, 137 pages of doctrine and answer to opponents. It opens on a quotation of his own (WWV II ch. 40) and is therefore testable at the threshold. Advocacy as well as scholarship: he defended publishing the letters against Schopenhauer's prohibition (G-35).
+
+RANK 3. file 72 | Wilhelm Gwinner, Arthur Schopenhauer aus persönlichem Umgange (1862)
+        72_gwinner_arthur-schopenhauer-aus-persoenlichem-umgange_1862_de.txt | 49,737 words
+        tested 187 | provable 15 | floor 8% at 30 characters
+        Little for doctrine, first for presence: the room, the bear-skin, the deathbed, the executor's speech. Its low quotation floor is evidence about what a memoir quotes, not proof of misquotation.
+
+RANK 4. file 79 | Julius Frauenstädt, Ein Lebensbild vom Herausgeber (1877)
+        79_frauenstaedt_lebensbild_1877_de.txt | 19,219 words
+        tested 137 | provable 8 | floor 6% at 30 characters
+        for biography, and it names its own sources (Memorabilien, Nachlass, Gwinner 1862, Lindner 1863). Where it agrees with Gwinner it is often a second COPY of the same story, not a second witness.
+
+RANK 5. file 73 | Wilhelm Gwinner, Schopenhauer und seine Freunde (1863)
+        73_gwinner_schopenhauer-und-seine-freunde_1863_de.txt | 19,360 words
+        tested 196 | provable 3 | floor 2% at 30 characters
+        the second volley in the quarrel over publishing the letters. The quotations it carries are largely Lindner's rhetoric, whose only other home in this collection is the pamphlet attacking them.
+
+RANK 6. file 23 | Friedrich Liepmann, Arthur Schopenhauer, Allgemeine Deutsche Biographie 32 (1891), pp. 333-346
+        23_adb32_liepmann_schopenhauer_1891_de.txt | 7,219 words
+        tested 55 | provable 1 | floor 2% at 30 characters
+        A dictionary article: useful for the outline of the life and for contemporary framing, useless as a source of quotations.
+
+NOT RANKED BY THIS TEST: English books, quoting in translation
+   file 21 | Margrieta Beer, Schopenhauer (1914)
+        tested 73 | provable 8 (a German audit cannot see an English quotation)
+        A short study for beginners. Its handful of matches at 30 characters wants reading before use: a short match in a bilingual book is often chance or translation.
+
+   file 26 | Helen Zimmern, Arthur Schopenhauer: His Life and His Philosophy (1876)
+        tested 58 | provable 0 (a German audit cannot see an English quotation)
+        Strong on letters and biography, weak on verbatim quotation: her quotation marks are not citations (G-03). Cite her for the story, not for the wording.
+
+   file 22 | Thomas Whittaker, Schopenhauer (1909)
+        tested 0 | provable 0 (a German audit cannot see an English quotation)
+        Not auditable by this method at all: no quoted passage long enough to test. Absence of measurement, not proof of fidelity.
+
+--------------------------------------------------------------------------------
+WHAT THIS SHELF IS FOR
+   A tier-2 item is worth what its references are worth. Where a study cites by volume and
+   page (file 28) its apparatus can be tested and it is worth more to a reader who must prove
+   a sentence; where a study reports talk and letters (files 72, 73) its value is presence, and
+   quoting it as though it quoted the published works will mislead. Never carry a secondary
+   sentence into an answer about doctrine without finding the primary place.

@@ -1,0 +1,113 @@
+GERMAN TEXTS AND THE ENGLISH FILES THAT CARRY THEM  -  made by bin/schop-pairs.js.
+Measured, not remembered: the count of shared STEMED stems (six letters, long s folded) between
+each German file and each English one, divided by the geometric mean of their stem sets. The
+score separates a true pair from noise only for long texts: the pairs already verified by hand
+score 0.058 to 0.310 (27 to 15, 31 to 15, 30 to 19, 04 to 13, 01 to 08, 02 to 10, 03 to 11),
+while short chapters land in the same range as unrelated files. So a line below PROPOSES a
+carrying volume; a quotation is still paired by reading a passage, as passes 7 and 8 did.
+A German file whose best score is under 0.02 has no English counterpart on this shelf at all.
+
+01_die-welt-als-wille-und-vorstellung_bd1_1819-1859_de.txt
+    -> 08_the-world-as-will-and-idea_vol1_1883_en.txt  (0.236)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.183)   | proposed pair
+02_die-welt-als-wille-und-vorstellung_bd2_1844-1859_de.txt
+    -> 10_the-world-as-will-and-idea_vol3_1883_en.txt  (0.310)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.216)   | proposed pair
+03_ueber-die-vierfache-wurzel_1813-1847_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.222)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.175)   | proposed pair
+04_aphorismen-zur-lebensweisheit_1851_de.txt
+    -> 13_the-wisdom-of-life_1890_en.txt  (0.165)   | next: 14_counsels-and-maxims_1895_en.txt (0.164)   | proposed pair
+05_die-stachelschweine_para-396_1851_de.txt
+    -> 14_counsels-and-maxims_1895_en.txt  (0.041)   | next: 15_studies-in-pessimism_1893_en.txt (0.037)   | weak - too short to judge
+06_ueber-lerm-und-geraeusch_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.048)   | next: 20_essays-of-schopenhauer_1897_en_dircks.txt (0.043)   | weak - too short to judge
+07_ueber-die-sinne_1859_de.txt
+    -> 09_the-world-as-will-and-idea_vol2_1883_en.txt  (0.064)   | next: 12_the-basis-of-morality_1903_en.txt (0.060)   | proposed pair
+24_kg-schadensersatz_Marquet_1824_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.045)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.043)   | weak - too short to judge
+25_kg-injurien_Marquet_1827_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.059)   | next: 12_the-basis-of-morality_1903_en.txt (0.052)   | proposed pair
+27_ueber-die-weiber_para-bd2-kap27_1851_de.txt
+    -> 15_studies-in-pessimism_1893_en.txt  (0.058)   | next: 20_essays-of-schopenhauer_1897_en_dircks.txt (0.057)   | proposed pair
+29_aus-schopenhauers-handschriftlichem-nachlass_1864_de.txt
+    -> 09_the-world-as-will-and-idea_vol2_1883_en.txt  (0.119)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.118)   | proposed pair
+30_ueber-religion-ein-dialog_1851_de.txt
+    -> 19_religion-a-dialogue_1889_en.txt  (0.101)   | next: 20_essays-of-schopenhauer_1897_en_dircks.txt (0.092)   | proposed pair
+31_ueber-den-selbstmord_para-bd2-kap13_1851_de.txt
+    -> 15_studies-in-pessimism_1893_en.txt  (0.075)   | next: 17_the-art-of-literature_1891_en.txt (0.065)   | proposed pair
+32_zur-ethik_para-bd2_1851_de.txt
+    -> 18_on-human-nature_1897_en.txt  (0.094)   | next: 12_the-basis-of-morality_1903_en.txt (0.080)   | proposed pair
+33_zur-rechtslehre-und-politik_para-bd2_1851_de.txt
+    -> 18_on-human-nature_1897_en.txt  (0.075)   | next: 12_the-basis-of-morality_1903_en.txt (0.071)   | proposed pair
+34_zur-lehre-von-der-unzerstoerbarkeit_para-bd2_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.062)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.058)   | proposed pair
+35_zur-metaphysik-des-schonen_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.075)   | next: 12_the-basis-of-morality_1903_en.txt (0.071)   | proposed pair
+36_ueber-urtheil-kritik-beifall-und-ruhm_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.093)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.069)   | proposed pair
+37_ueber-gelehrsamkeit-und-gelehrte_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.073)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.061)   | proposed pair
+38_selbstdenken_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.072)   | next: 12_the-basis-of-morality_1903_en.txt (0.059)   | proposed pair
+39_nachtroege-zur-lehre-von-der-nichtigkeit-des-daseins_para-bd2_1851_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.058)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.057)   | proposed pair
+40_nachtroege-zur-lehre-vom-leiden-der-welt_para-bd2_1851_de.txt
+    -> 15_studies-in-pessimism_1893_en.txt  (0.063)   | next: 12_the-basis-of-morality_1903_en.txt (0.059)   | proposed pair
+41_nachtroege-zur-lehre-von-bejahung-und-verneinung_para-bd2_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.068)   | next: 15_studies-in-pessimism_1893_en.txt (0.066)   | proposed pair
+42_einiges-zur-sanskritlitteratur_para-bd2_1851_de.txt
+    -> 09_the-world-as-will-and-idea_vol2_1883_en.txt  (0.062)   | next: 12_the-basis-of-morality_1903_en.txt (0.059)   | proposed pair
+43_einige-archaeologische-betrachtungen_para-bd2_1851_de.txt
+    -> 09_the-world-as-will-and-idea_vol2_1883_en.txt  (0.062)   | next: 12_the-basis-of-morality_1903_en.txt (0.062)   | proposed pair
+44_einige-mythologische-betrachtungen_para-bd2_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.063)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.060)   | proposed pair
+45_ueber-erziehung_para-bd2_1851_de.txt
+    -> 15_studies-in-pessimism_1893_en.txt  (0.052)   | next: 12_the-basis-of-morality_1903_en.txt (0.052)   | proposed pair
+46_zur-physiognomik_para-bd2_1851_de.txt
+    -> 19_religion-a-dialogue_1889_en.txt  (0.059)   | next: 20_essays-of-schopenhauer_1897_en_dircks.txt (0.054)   | proposed pair
+47_ueber-schriftstellerei-und-stil_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.081)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.076)   | proposed pair
+48_ueber-lesen-und-buecher_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.056)   | next: 19_religion-a-dialogue_1889_en.txt (0.052)   | proposed pair
+49_ueber-sprache-und-worte_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.061)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.059)   | proposed pair
+50_psychologische-bemerkungen_para-bd2_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.070)   | next: 20_essays-of-schopenhauer_1897_en_dircks.txt (0.068)   | proposed pair
+51_gleichnisse-parabeln-und-fabeln_para-bd2_1851_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.054)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.052)   | proposed pair
+52_einige-verse_para-bd2_1851_de.txt
+    -> 19_religion-a-dialogue_1889_en.txt  (0.044)   | next: 12_the-basis-of-morality_1903_en.txt (0.042)   | weak - too short to judge
+53_einige-betrachtungen-ueber-den-gegensatz_para-bd2_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.075)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.072)   | proposed pair
+54_vorrede-zu-den-beiden-grundproblemen_1841_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.110)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.096)   | proposed pair
+55_preisschrift-ueber-die-freiheit-des-willens_1841_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.150)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.141)   | proposed pair
+56_preisschrift-ueber-die-grundlage-der-moral_1841_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.202)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.133)   | proposed pair
+58_ueber-den-willen-in-der-natur_1836_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.170)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.128)   | proposed pair
+59_ueber-den-willen-in-der-natur_1854_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.236)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.158)   | proposed pair
+60_ueber-philosophie-und-ihre-methode_para-bd2-1877_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.090)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.087)   | proposed pair
+61_zur-logik-und-dialektik_para-bd2-1877_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.095)   | next: 12_the-basis-of-morality_1903_en.txt (0.095)   | proposed pair
+62_den-intellekt-betreffende-gedanken_para-bd2-1877_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.094)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.089)   | proposed pair
+63_einige-betrachtungen-gegensatz-dinges-an-sich_para-bd2-1877_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.086)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.086)   | proposed pair
+64_einige-worte-ueber-den-pantheismus_para-bd2-1877_de.txt
+    -> 17_the-art-of-literature_1891_en.txt  (0.094)   | next: 15_studies-in-pessimism_1893_en.txt (0.083)   | proposed pair
+65_zur-philosophie-und-wissenschaft-der-natur_para-bd2-1877_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.108)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.102)   | proposed pair
+66_zur-farbenlehre_para-bd2-1877_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.075)   | next: 12_the-basis-of-morality_1903_en.txt (0.072)   | proposed pair
+67_skizze-einer-geschichte-der-lehre-vom-idealen-und-realen_para-bd1_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.108)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.102)   | proposed pair
+68_fragmente-zur-geschichte-der-philosophie_para-bd1_1851_de.txt
+    -> 09_the-world-as-will-and-idea_vol2_1883_en.txt  (0.134)   | next: 11_fourfold-root_and_will-in-nature_1907_en.txt (0.130)   | proposed pair
+69_ueber-die-universitaets-philosophie_para-bd1_1851_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.101)   | next: 12_the-basis-of-morality_1903_en.txt (0.100)   | proposed pair
+70_transscendente-speculation-ueber-die-absichtlichkeit-im-schicksal_para-bd1_1851_de.txt
+    -> 12_the-basis-of-morality_1903_en.txt  (0.101)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.094)   | proposed pair
+71_versuch-ueber-das-geistersehn_para-bd1_1851_de.txt
+    -> 11_fourfold-root_and_will-in-nature_1907_en.txt  (0.101)   | next: 09_the-world-as-will-and-idea_vol2_1883_en.txt (0.098)   | proposed pair
