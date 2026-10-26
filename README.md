@@ -75,4 +75,4 @@ A model given this corpus should search it through the shelves in the same way, 
 
 ## Sources and licence
 
-The texts are in the public domain: Schopenhauer died in 1860, and the English translations here were published between 1883 and 1907. The German transcriptions come from zeno.org (the *Zürcher Ausgabe*), de.wikisource.org and scans on archive.org; each file names its source, and `NOTICE.md` has the details. The arrangement, the lists and the scripts are released under the GNU General Public License, version 3 or later: see `LICENSE`.
+The texts are in the public domain: Schopenhauer passed away in 1860, and the English translations here were published between 1883 and 1907. The German transcriptions come from zeno.org (the *Zürcher Ausgabe*), de.wikisource.org and scans on archive.org; each file names its source, and `NOTICE.md` has the details. The arrangement, the lists and the scripts are released under the GNU General Public License, version 3 or later: see `LICENSE`.
